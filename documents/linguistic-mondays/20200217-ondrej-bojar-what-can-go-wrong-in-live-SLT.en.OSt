@@ -1,0 +1,852 @@
+This is fully overloaded.
+Okay.
+If you can hear me that's.
+So let me welcome you.
+At the first session of the spring turm of seminar, or monday seminar.
+And it is my pleasure to come here, one of our colleagues.
+At UFAL.
+And I 'm really eager to know what well what everything can go wrong in live speech translation.
+So the floor.
+Is your's.
+Thank you for the introduction.
+Well, I 'm afraid that you will indeed see it live.
+So as announced this is a summary of the current status of the ELITR project where we are trying to do live subtitling into many target languages, and I will briefly describe how that works.
+I'll give it one more try.
+If there is anything appearing, no it does not seem so.
+Oh, yes, there is. Something is happening!
+So it is maybe maybe at the bottom of the screen.
+There will be English subtitles of what I 'm saying, it is totally not certain. There can be many flaws in those in those transcripts and deliberately wer are not showing the translation, because the translation has a hard time in fitting into these two lines.
+But if you have a, but if you have to you your machines, your notebooks, or or maybe even cell phones with you.
+There is a shared Google docuemnt, which you probably know from previous Monday Seminars, and there is two links where you can see also the translations, not only in the transcripts, and you can choose the target languages.
+I believe Hindi, is also among also among the target languages.
+So there will be use some intentional jokes during the presentation, and there will be many unintentional ones in the subtitles.
+Please do not laugh too loud.
+We we know what is appearing there.
+But that is that is life that is work in progress.
+So today.
+I would like to briefly discuss the differences between machine translation and spoken language translation.
+And then I'll summarize the ambition that our project has ah, and, because the ambition is is high.
+We know it.
+We ruun a number of test sessions.
+And this is actually one of the test sessions as well.
+So after the summary of the test sessions that that we are taking part in.
+I will briefly summarize the old architecture.
+And then I will go along all the possible issues of all the everything that can go wrong.
+That's yeah that is a long long list of things that that can go wrong.
+And luckily, thanks to the number of events that we are trying this list of errors.
+Is well the errors that we spot on.
+Every new seminar instance, is is not growing much.
+So we still have the errors.
+But luckily, we are close to seeing known errors, which we have some ways, at least, in some cases, we which we have some ways to fix. Okay, and then I will summarize and call to action.
+So again, tiny url dot com.
+ELITR monday tests.
+That is where you can see the subtitles.
+Okay, ah, we have been working.
+We as the Department have been working on machine translation, for many years, or decades actually and.
+When you say machine translation.
+We might mean text translation.
+And there the imput are sentences, which are, which are almost always grammatically, correct, and they may come in documents.
+So you may have some content, some context surrounding the sentences, or you might translate sentence by sentence.
+But it is definitely like sentence based. In spoken language translation.
+The input is sound.
+And the output is text.
+We will get to some more details about.
+What does this text, but sentences, may or may not be produced, and actually they sometimes should not be assumed at all.
+So maybe what we all know that we do not speak in sentences and figuring out where the sentence.
+End is is a difficult part.
+So that is there.
+There will be some tension.
+When when putting these two components together, the speech recognition and the machine translation.
+And there is one more area that I would like to just mention is called "incremental machine translation".
+And there, this is machine translation, researchers doing that.
+So they start with words, words that come in sentences, and they just feed the system with the words, but one at time.
+So the incremental machine.
+translation is still to at least to my knowledge to my understanding is still text based translation.
+It just comes a word at a time.
+And that 's different from the speech, which comes a second at a time, like a a bit of sound at a time, so that the timing is different.
+Even if we even if we go for some incremental thing.
+Okay.
+So this is in pictures, the ambition, or the the summary of the two technologies that are examined by by our project.
+We are trying to put to put together speech recognition and machine translation into spoken language translation.
+Here's, some history of ah, speech recognition, we haven't really as a department.
+We have not really worked on speech recognition.
+So will I just copied this from from somewhere.
+And it seems that the already from the eighties people ran many shared tasks and they improved the the performance of of the recognition.
+And here around two to four percent of word error rate.
+That is where humans are with their precision and.
+In early days.
+In nineteen ninty something some systems got to the human performance, and then on conversational speech, which is like unlimited is unlimited speech or meetings people.
+The systems are far from this from this benchmark, but that has been changing, over the last years thanks to the neural networks.
+So the switchboard conversational speech benchmark that is 40 calls between two random English speakers there.
+The human level of six percent has been kind of reaching 2017.
+So that seems like that speech recognition.
+If it is the right setting.
+It can work equally as equally well as as humans do.
+Then this is the the the history of machine translation into Czech that you know, from previous presentations off  Martin Pope, well, and also then from me.
+This is our systems.
+And the last one is the Super Human machine translation system from English into Czech in 2018.
+Martin Popel's set up was able to, to outperform human translators like professional translators but that was bulk translation.
+It was they.
+They did not pay more attention to that, then the then look to their normal job.
+So that was like the the average professional translation quality and evaluated sentence by sentence.
+Uh, the set up by Martin Popel was was significantly better than that.
+Obviously, there is many caveats to uh, to uh, take into account.
+But that is the that is the setting.
+You have two technologies.
+You have spoken language translation, which could be on par with humans, and you have machine translation.
+Uh.
+So sorry, so you have speech recognition, which could be on par with the humans and machine translation, which could be on par with humans.
+So that is where we said," let us join them.
+Let us.
+Let us get this.
+Let us make use of this of these great two achievements.
+Let us put them together.
+So in our project, the ELITR.
+Project.
+We are trying to.
+This will be badly misrecognized  because it does not recognize any names. Well, so in the ELITR project we are putting together speech recognition and machine translation in a highly multilingual setting. I will mention that later on.
+Well, we are coordinating the project, the University of Edinburgh, including us, are experts in machine translation.
+So to say. Karlsruhe is expert in speech recognition.
+We have the the top performing systems.
+If we put them together.
+I 'm sure it will work.
+Great and Perwise is an Italian company.
+They have also been involved in number of European projects before, and they were always in the role of the integrator.
+So they know how to put things together, and they have some baseline systems that we can build up on.
+And then we have a user partner Alfaview, which is remote conferencing system where we would like to translate what people  what people say in the in in the remote calls and we have another user partner.
+And that 's the supreme audit office of the Czech Republic.
+And.
+The Supreme Audit Office.
+They are too afraid of of doing anything bad with with financing.
+So did they did not want to get a single Euro.
+So they are not part of the project, but they are just an affiliated user partner.
+So they are not supported by the European commission.
+Uh, okay.
+So the ambition.
+The ambition is is very big.
+We want to support a Congress that the Supreme audit office.
+Runs this year.
+At the end of May or early June, and the participants of that Congress come from many countries, and in some, they speak 43 languages.
+So this is well beyond the capacity of a uh of simultaneous interpreting by humans, and we want to provide the missing languages.
+So to say, so, there will be six languages spoken at that.
+Congress.
+So English and French and Spanish German, Russian and Czech.
+These are the official languages of the Congress.
+These will be manually interpreted across so that all the six are provided, and we are to provide the remaining 43 other.
+The the remaining that the rest of the 43 languages.
+So this set of EUROSAI languages is larger than the set of the offical EU languages.
+And that is also an important remark, because many of these languages are much shorter off of data.
+So the European commission.
+So the European Union has already put considerable efforts into data.
+Sources for some years.
+Everything from the European Parliament was translated into all the languages.
+All the documents of the European Union are available in all the languages.
+So we have something to train on for the these twenty four languages, but less so for these nineteen additional languages.
+And some of these languages have even so a brand new or unclear status, that no grammar.
+Books were written for them yet.
+So that is that is a challenge on its own.
+Okay.
+Yeah, so the events.
+We know that this all should run.
+So we have already started.
+The project has started last year in January, and in March.
+We have added one extra dry run.
+So in our project plan we have.
+We had like two dry run sessions.
+And then the Congress.
+And we said, well, on the third attempt to do everything.
+Well, so that as the 200 Delegates, or 400.
+If you count the delegate and their and their fellow that the 400 people will see what what we have tested just twice beforehand.
+That is impossible.
+So we have added number of a number of other events.
+The first one.
+What happened in March.
+Last year.
+It was the student fair of fake, firms like mock mock business companies.
+And there we were testing the old and pre-existing technology what Karlsruhe had and what Pervoice had.
+And we just added our machine translation system from English into Czech. Then we also got in touch with the, I do not know the correct English name of the department, but the Department for interpreting and translation and the faculty of arts of our university.
+[0:12:21]
+And thanks to their support we are able to attend their Mock Conferences where the interpreters are getting trained.
+And we are recording these multiple interpreters, and like seeing what our systems can do with that multiple inputs.
+So this is, this is like similar setting where there is interpreters in the booths, and we are trying to follow what they are saying and complement it with the, with the other languages.
+And then we had the two official events that were planned for our uh, for our project that one was a working group on value added tax, which happened in June.
+And then right after the summer in October, there was another meeting.
+So these two events were like quite close to each other.
+uh, yeah, so not much the development was possible between these two events.
+And then in November, we also added one more.
+I was showing this technology in a little demo on the Matfyz Open Doors Day and I was also trying to present it at Best of Praque AI event.
+And then in February, so very recently, we had a workshop, a dry run of a workshop, which will also run at the Congress.
+And there the purpose of the workshop is to demonstrate not only machine translation, but all other text processing or NLP technologies to the audience, to the lay users, the supreme auditors to illustrate how the NLP tools can help them in their business.
+And we are going to run this workshop obviously in English, and there will be the language barriers so the, uh, the auditors would like to see some translations of, of that.
+So the successful demo was only in November.
+This was the big failure, because the, the wi-fi did not start.
+I will mention that later on.
+And then at the Lang Tools workshop, everything worked well but it was actually still pretty useless for the users.
+And and hopefully you will see in the following slides why this is the case.
+This is the upcoming events.
+There is again the Mock Conferences at Faculty of Art.
+We will again try to see them.
+There is another instance of the Student Firms Fair, we are again trying to uh, to get to that, because these, the high school students from across the Europe provide beautifully non-native speech.
+So they are very hard to uh, to understand for the ASR systems.
+So we, we get the test sets there and we are making it a shared task to understand these high shool students.
+Then, uh, yes, this is the, this is the shared task where we are trying to get also other research institutes to, to process that data the, the high school students.
+And then we will have a second dry run of our workshop.
+Maybe we will add some other things.
+And the main event is early June, uh, in, uh, here in Prague.
+And they are all the Monday seminars, so again at every Monday seminar you will have a chance to, to see these subtitles.
+OK.
+So here is a very brief report on last March event, the Student Firms Fair.
+There was one speaker also that, like we put the mike to, not only the students, Tomáš Sedláček, the Czech economist.
+And you see that it, the the old system worked pretty well including our Czech translations.
+So he was speaking, and it was recognizing him.
+It was recognizing sentences.
+So for about a minute, we had a perfect show.
+And that was it from three days, we had like one minute.
+So we, we started blogging.
+And and we, we blogged about all our successes on our web page.
+Blogging is fun, uh, so, uh, yeah.
+So, uh, with blogging you immediately feel famous.
+It does not really matter, if anyone follows you, just the fact that you posted somewhere that.
+That makes you feel famous, and you can also sometimes improve the reality a bit.
+So, uh, yeah, well, we do not do photoshopping of our demos.
+The only thing what we do is we select the bits where it worked.
+So from those two day events it was one minute, and but we are growing bigger.
+So, so hopefully there will be almost, almost 50 minutes of today, which will be subtitled throughout the whole session.
+So I said at the beginning, ASR and MT, these are perfect technologies.
+They work very well.
+They are super human.
+You just plug them together.
+Well, it is not quite like that.
+You still need to acquire the sound, you need to get the input, and you need to present the output.
+17:12
+And there is also the little clash.
+The speech recognition recognizes words, but we are ready to translate sentences.
+So what you need to do is you need to segment that stream of words into sentences and then only you can translate them.
+So that actually that actually still requires you to to add one more components, some some segmenter segmentation worker, and you also need to ship all these bits of stream to the various workers along the pipeline.
+So the the two steps just put the two steps together set up is actually this this complicated.
+So this is the overall architecture.
+It is builds upon something which PerVoice developed in in the previous projects, it is called the PerVoice platform.
+And, uh, these components, all these components of speech recognition, and all all that, connect to central point called the mediator, and you have a client. 
+That client connects to that mediator.
+The mediator ships it to the ASR, then to sentence segmenter then to machine translation and then to presentation.
+And the presentation delivers it to the web.
+And we have just received like a confirmation that this single word, this second of sound was processed along the whole pipeline.
+So this, and this runs across the Europe.
+So some of these components run here in this building.
+
+18:16
+Some of them run somewhere in the cloud of PerVoice, some run in Edinburgh, some running cars through it.
+So that is, it is distributed.
+The connections are always open and they are reused across the clients but it uh, uses one particular type of Internet communication, the TCP protocol.
+And that requires that the network is is very broad in in the connection.
+So that it, it does not collect any delay, any lag.
+This is the set up that also includes the wiring.
+So you need to like connect the the machines that the microphones and and connect the presenting system to the screen, and all that.
+And this is the setup for the EUROSAI Congress, where there is six interpreters booth in all the many, on the many six, all the six languages that the humans interpret into.
+And there we are collecting all those and, and choosing which one of them to translate from and then translate to all the remaining 30, something languages.
+So the setup is, are complicated.
+This is the workers connected to the mediator platform, and you see that some of them are busy and some of them are available.
+So this, this is like a big infrastructure.
+So let us start with some of the issues.
+Obviously the network can slow things down.
+
+19:43
+So once we face the fact that in Consul where there was some construction or whatever.
+For some reason, the university had a little slower Internet access.
+And that delayed all our processing.
+So immediately, we were not live.
+But we were like seconds or dozens of seconds later than the signal.
+So you you should be actually on stage or very close to the venue, if you want to deliver simultaneous speech reliably.
+For test, this is not a problem.
+But if you want to do it live you you, you should not rely on on the Internet.
+And this was the problem at the best of Prague AI session where I have tested everything.
+It worked perfectly for the demo.  
+Uh, unfortunately, even like I have asked a month beforehand and then for the second time, I was not allowed to connect my machine to a wired connection.
+I had to rely on wi-fi.
+And everything worked twice when I was at the venue, I tested it.
+Then the audience came and the audience brought their cell phones.
+Nobody actually use the Internet.
+The the cell phones were just trying to like look around is there any internal available, and they tried to connect.
+And and maybe just these tests simply killed the wi-fi.
+And it did not work for me at all.
+So nothing was ever recognized at that event for me.
+So, so we must not rely on wire wireless connection.
+Then we also had issues where everything went well, except the the final presentation was like filling buffers off web-browsers.
+So it was not showing properly on the end user devices.
+Everything was OK until the final presentation point.
+And this is another, this is like a miss configuration error like if you are juggling with with the setups.
+It is easy to make a mistake.
+So in one of the sessions, we were observing some horrible delay gaining or growing.
+And the reason was that we are in our own ASR system, because we are also experimenting with that.
+And we ran it locally but, accidentally, we were first sending the sound over wi-fi to Italy, and then sending it back to our place to recognize it.
+And only then we were, we were recognizing it.
+So, this double double network load has killed the, has caused the delay.
+Next time we, we like recognized it on the spot and and the the problem was gone.
+OK.
+Now, sound acquisition.
+You may recognize some of uh, one of our colleagues here.
+And the problem is if if you have this microphone, that chest microphone, and you put it here.
+
+22:18
+And then you talk to the slice like that.
+The microphone does not really get your ways.
+So that is, that is one problem.
+This is another thing right now, unfortunately, we had to switch off this chest mike and I am relying on this mouth mike.
+We wanted to extend this test.
+So based on three minutes of testing, the error in recognizing English and Czech is several points lower, if you use the mouth microphone compared to the chest microphone.
+So that is just the distance from the mouth and the movement of the head that makes measurable measurable difference.
+So we are relying on the on the better on the head microphone.
+Yeah, this is a tip for singers, for vocalists.
+You have to hold the mike properly, you have you have not, you must not put it in your mouth almost.
+You must not put it too far away from your mouth.
+And also, if you stand in front of the loudspeakers, the reverberations, will will totally kill the signal that you are receiving through the mike.
+So this is what has happened to us during the uh, the Student Firm Fairs, when the students were were just roaming around, and they entered the area in front of the loudspeakers.
+And suddenly there was no way to to recognize them.
+OK.
+Then, there is cables.
+You have to plug the cables properly and one of these settings in the conferencing room for the interpreters, we were able to get the signal only when one of the connectors here was not fully plugged in.
+23:40
+
+Then, there is cables.
+You, have to plug the cables properly.
+And one of the settings in the conference room for the interpreters, we were able to get the signal only when one of the connectors, here, was not fully plugged in.
+The reason is that we were like misusing the connections so once once we brought a proper sound card, it was able to recognise which pin of that connector has what, but without a proper sound card, with just the build in sound card of standard notebook, you have to like misalign the pins of that connector to get the signal.
+So there was an hour or two of debugging until we've figured out how to connect the input, so that's we're learning.
+So then there is the volume setting along the along the pipeline.
+So if you have a wireless microphone.
+It has a receiver, and there is volume control at the receiver, and then you have a sound card, and that also has some volume control and it also has some button, like two buttons.
+So line level or mic level that is one button and padding on or off.
+So you have to that's like four options, at least just for the buttons, and then for the for the for the knobs, and you have to set this properly otherwise the sound can be the quiet, or the sound will be too too high, uh the the volume will be too high, and someone along the pipeline will clip it and then you don't get the frequencies, and the ASR will not work.
+So you need to carefully track the signals step by step, experienced people know. 
+I remember the the colleague from the PerVoice company who came for the student fares for the first time and there we still were struggling with getting the signal right.
+And he like followed from the mic with the headphones always connected it ??? phones  and said, OK it's good here, it's good here and step by step, he managed to deliver the the right volume to the machine so that's you have to do it step-wise, and it can fail at any point.
+Yep.
+So then ASR quality.
+So once you have delivered the possible the best possible signal, what does the machine recognize from that.
+So this is an example from the from the student, the high school students.
+The speaker wanted to say something like you have a bottle?.
+Oh, yes, we are situated in the heart in the heart of České budějovice.
+But in reality, this is high school student, so he said, "you have a bottle? Oh, yes, we are situated in hard of České budějovice", so there was serious mispronunciation, and there was also high level of background noise, because that is fair, so there is stands with music playing, and we are just behind a little a little wall, hoping to get some some shelter from from all that noice.
+So if you are unexper-, if you are a person and you are in this here in this in this harsh conditions, then you probably understand something like you have a bottle, because you are not expecting the the student to talk about a hotel on the boat, "Oh, yes, we are situated in the heart of", and then he would recognize that some cities being mentioned, but if he is from Spain, he would not know that České budějovice, you know, is a is a is a Czech city.
+The standard ASR would deliver something like, oh, yes, the the of the that is the the few words the ASR can spot in the in the noise signal if the ASR is is noise resistant, if it can somehow cancel the noise, then it will do something "you have somebody to oh, yes, we are situated in hard, which is can we do?" because it does not know the the name of the Czech city.
+And if we have a future ASR or a person in the in the middle actually, and then we would get the the proper recognition of the sentence.
+So this is this is all the problems that that we are facing when we are trying to transcribe a non-native speakers.
+This is summary across the recordings that we have made there, so remember, the word" error" rate for humans is around six or four percent, here, the Google system, Google ASR had error rate of of ninetyish.
+Edinburgh system also, and car system was actually the best one around 40, still ten times worse than what humans do.
+And this is this is on the recordings were all the systems have produced any output whatsoever.
+If we apply if we if plot the same figures but we count 100 percent of errors as the the the score if no output is delivered then Google is so much worse than Edinburgh so Edinburgh was was better, was not like giving up so frequently.
+And Carlos was still still the best system, but still the the car system is ten times worse than the humans and that's then what is reported in the literature.
+Obviously, this is hard conditions.
+So this is background, noise, non-native speakers, well, we are not yet quite professionally in the recording so we just misaligned, the mics, and people like spoke too loud and we did not twist the knobs properly.
+So it is it is very harsh conditions but this is the the the reality that that you can get.
+So this is the best recording according to the ASR quality, and there are things like, "why do you wear those so high heels" instead of "why do you wear those high heat the high heels".
+And deals, there is "I know one really good star", instead of "store", "that deals with the sale of free down food", instead of "free time, footwear", or something like that, so it is it is the totally wrong.
+Ok, so what is our plan, given this.
+So we are definitely going to retrain our ASR models, and I ideally we would like to use non native speech corpora, common voice by Mozilla is one of this is that that can help.
+And we have another fallback uh, the thing to do.
+We would like to follow interpreters instead of the floor, because each of the interpreters will sit in a booth with limited noice from surroundings with better microphone.
+So we have more control of the recording, we can also talk to the interpreters and explain to them that they are being recorded and processed in particular way, and we also have the chance to adapt to them.
+So we are trying to get their contacts.
+We have still few months to come.
+And even if they are non native, we should be able to adapt to their particular speech.
+So we would ask them to do as uh, well, few minutes, uh possibly up to an hour of of recording we would pay them to whatever, read some text or or interpret something.
+And then we would to create a training dataset for that particular person.
+And then obviously, we are going gather in domain dataset and regularly evaluate.
+So does the ASR.
+We get the text, so what do we, what do we expect now, with the translation there are all the standard translation errors that you know where well.
+So here is one example, a sentence, which was actually recognized perfectly.
+I know which sentences are recognized perfectly, so I know what to avoid when I 'm running demo.
+This is also different from the from the users of our system, they will simply speak as they are used to.
+If I want to showcase what our system is doing I will avoid named entities, I will avoid strange constructions, I will have like fluent newspaper-like style of sentences, and then all the all the systems will successfully recognize me.
+So this is one of the the cases.
+But it is much more difficult to to ask if you do not have any clue, and yet, the translations, both into German, two sample languages were wrong, the if was translated as ob or as da.
+And that is that distorts the distorts the the sense of of that.
+So my guess is that maybe in English, you would, in in Native English, you would actually say this a little bit differently.
+And then there might be more explicit clue in the source sentence.
+I 'm not saying that the sentence in English is wrong.
+I 'm saying that indeed training data, which is from news or maybe books, or or or Euro legislation.
+There is this like domain mismatch and even even if it is not domain mismatch.
+This is is genuinly ambiguous conjunction, and it is difficult for the machine to guess the meaning.
+So if you are closer to the training data, then you will see it will work better.
+If if it is a difficult, an ambiguous expression.
+You will have these problems till like for ever.
+Yeah, here is some some just misunderstanding or well, as the it was out of vocabulary, the machine translation system ran out of vocabulary: "you can be reported after some profanities".
+So if you if you say something bad on your website, then they will flow like block you.
+And that was the most translated as professional things.
+That is because the profanities, were not in the in the vocabulary of the machine translation system.
+So the resorted to some expressions.
+Okay, ah, the problem in spoken language translation is that the ASR errors get kind of multiplied in machine translation.
+If you have an error in speech recognition.
+Then the error will be a few edits a single word similar in shape the what I have said.
+But then you take this single word and you translate it, and then the shape of the word like totally changes.
+So, machine translation takes all the wrong words from the ASR as fully of trustworthy and happily reorders a sentence to make it the best possible sentence, including those wrong words, and there is no information about the confidence, neither from the ASR system, nor from the machine translation system.
+So the so the user will be just left with the sentence, which sounds perfectly natural love mention some strange entities, which were never never mentioned never part of the talk, because they come they come from an error.
+So here is an example, "and the goal of my thesis is to fold", and that was "two fold".
+So instead of "two fold", the ASR recognizes "to fault", that is the natural like misrecognition.
+The empty output was, "and the goal of my theory", instead of "thesis", "is to fall apart".
+So that's definitely not what what we were after in this system, yeah.
+So this is this is what I would probably translated too if I was translating it.
+I just wanted to highlight this "two fold" to misrecognized as "to fold" was translated as "rozdrobit se", to fall apart.
+And that is totally out of out of the scope.
+Ok.
+So what we have, what what is our plan for the mission translation, data, data data, and then maybe little bit of models.
+So we are definitely going to gather more parallel data.
+University of Edinburgh is working on that.
+We are going to gather more target side, monolingual data and back translate, that's for the domain adaptations.
+So this is auditing domain.
+
+35:12
+@ 0:34:50
+So what we have, what what is our plan for the machine translation: data, data, data, and then maybe a little bit of models.
+So we are definitely going to gather more parallel data, Edin, uh, university of Edinburgh is working on that.
+We are going to gather more target-side monolingual data and backtranslate, that's for the domain adaptations, so this is auditing, uh, domain, so we would like to, uh, to focus on all these materials
+Uh, they are hardly parallel, some of them are, but not too many, and especially not for, uh, those, uh, like 19, uh, non-EU languages that we are also, uh, oh, aiming at.
+So hopefully our, uh, baseline systems in the back translation will make some sensible output from that, and hopefully we'll be able to improve the translation quality.
+We'll create indomain test sets, and we will regularly evaluate on them.
+We'll also try to, uh, uh, get, uh, in touch, uh, with <UNKNOWN>, that's a collection of, uh, user supplied, uh, parallel data, and, uh, they can, given our test sets, they can extract the most similar sentences, so, uh, some like filtering off off larger, uh, pool of, uh, parallel data.
+We'll also try to create gazetteers, so lists of relevant named entities like participants, or or the presidents of the Supreme Audit Offices.
+Uh, this is, uh, having just the list of names, uh, is not ideal for, uh, for machine translation, but it's definitely better than nothing, so we'll, we'll try this as well.
+I'm also considering, and this is something that maybe someone of you could try, I'm considering to to train machine translation on distorted source, uh, because I would prefer the machine translation system to say something in the domain and sensible, rather than to, uh, to like, uh, uh, try to, uh, perfectly translate the wrong ASR output, uh, so for me, tentatively, I'm saying that, uh, it seems to be better to say something similar or related, uh, rather than, uh, uh, like do perfect translation of the wrong input.
+It, we'll see whether this, uh, is a good assumption or not, if if the system starts making up the content, then obviously, the users will not be happy as well, but, uh, right now, uch, uch, uch, our system is too easy to, to, like, uh, to, to, to, to, um, that, to, it is too easy to to notice that our system is doing something wrong, and, uh, we want to hide it a, uh, uh, bit under the carpet, so let's see if this will be a good strategy or not and let's see if we manage to train such a, uh, model.
+And I'm afraid that we will never get, during this few months, uh, to the interesting things like the speaker's gender.
+Uh, obviously, uh, the machine translation system has no information about the gender of the speech.
+Uh, the parallel data, uh, is totally like, uh, non-labelled, uoouh, it doesn't know about that fact either, and, uh, uh, English doesn't, uh, mark most sentences for the gender of the speaker, uh, so it's very likely that our system will be just making up and switching the gender of the, uh, of the speaker, uh, in the first person sentences, uh, and that will be very confusing for the audience.
+So, uh, I'm afraid that we will not get to this, unless there is someone who would like to help.
+Okay.
+Then the integration of the ASR and MT.
+Uh, I've already said, uh, ASR emits strings of lowercase words, uh, machine translation expects individual correct sentences, so there're a number of options that we can try to, uh, uh, bridge the gap.
+So we can try to insert punctuation into the ASR output, uh, which we call the segmenter, uh, or, uh, we can change the ASR, uh, to predict directly correct punctuation, so the speech recognition would run not into, uh, just sequence of words, but sequence of words with punctuation and capitalization.
+And a student of mine is is working on this.
+And we can also try something which is one of the research goals of our project, uh, that's fully end to end spoken language translation, uh, with one neural system that, uh, gets the sound in one language and produces, uh, the translation in the, uh, in the target language right away, so that's again part of, uh, Peter's, uh, thesis.
+So the segmenter, given a stream of words, guess punctuation, casing, we use, uh, uh, <UNKNOWN>'s tool, so, someone's tool.
+Unfortunately, the speech information is no longer accessible to this tool, so it has just the sequence of words, and based on the sequence of words, it is guessing sentence boundaries.
+And as, uh, one of, uh, my colleagues, uh, from the <UNKNOWN> specialists said, uh, it's actually doing very good job given that it doesn't have any information about the pauses, about the intonation, so it's surprising how well it can predict the sentence boundaries with this, uh, poor information.
+Uh, so, still, it is it is far from perfect, so there're many errors.
+Uh, there is also another tool, which would consider the intonation and and delays, but we haven't had time to integrate it, so if someone would like to, uh, play around with that we will be happy to, uh, uh, to, uh, to get any help there.
+So, uh, <UNKNOWN> has trained this, uh, this, uh, segmenter tool, on, uh, <UNKNOWN> data, about four million sentences, and, uh, here is the precisions and recalls for various punctuation marks that we are inserting, uh, and h'am, uh, highlighting the recall of, uh, period, because that is critical to to identify sentence boundaries, uh, so, uh, it's, uh, 70 to to 80 percent, which is reasonable, uh, uh, if you look at it as a number, but it is still far from sufficient for, uh, practical, uh, use.
+Uh, okay.
+So, uh, here is an example, uh, of an error in, uh, in, uh, in the, uh, in the, uh, in the segmentation, so errors in precision, uh, lead to confusing empty output, so here the speaker said something like "all too well", uh, that was part of a longer, uh, uh, longer, uh, phrase, and, uh, the ASR plus segmenter, uh, put a full stop between this, like in the middle of this phrase, uh, leading to the output "This approach does not generalize all too", and then separate sentence, "Well, so to somehow conclude that the whole talk", so here the semantics is obviously changed, eh, quite bit, uh, this is exactly the case where the machine translation would, uh, one by one receive the first sentence, and then the second sentence, and it would have no way to recover from, uh, from the full stop, which should not be there in the first place.
+So, uh, there the two sentences would get, uh, like, beautiful, uh, but, uh, the, yeah, the message would be distorted.
+Errors in recall, uh, make, uh, too much content unstable, and we'll explain this, uh, on on on the following slides.
+Uh, yeah.
+So, here is another, uh, technical thing, uh, the the messaging between the speech recognition and and spoken English translation.
+Uh, so it's, if it is the online speech recognition, uh, we are receiving text messages, uh, but these text messages of strings of words are not related to sentence boundaries.
+Uh, so in the first run, and this is what we, uh, what we were mostly seeing in in March, or at all the sessions, uh, that were the tests for for the Supreme Audit Office, we were receiving, uh, these messages, so this is the first message, the second message, third message and fourth message, and we were directly sending these messages, uh, to the machine translation, um, so, uh, the first message was "You should thank there have", and there, that's still unfinished sentence.
+Uh, machine translation system, given this input, decided to totally omit the first sentence, because the first sentence, like, doesn't fit there, the machine translation system is trained to translate full sentence into full sentence, so some half a sentence, uh, here, let let's drop it, so it said just, just "Děkuji", že "Thank you".
+And then, uh, the, uh, this is an extension of that message, so the ASR sent again, uh, the same prefix, and then it added the extra words that came in the meantime.
+Uh, this is probably the best translation that the MT could have delivered for that, and then the ASR sent something which we call the confirmation message, so the ASR says, well, "I will not bother with these three words anymore, 'You should thank', I'll just, uh, I'm fin finalizing these, and from now on, I will only send you the rest, 'There have been many revolutions'".
+So here is a single message, "You should thank", so that's one complete sentence, and a beginning of another sentence, and we have translated it as as if it was one sentence, and that's that's just wrong, and then, uh, the next message stars in the middle of the sentence already, and we are again feeding it as if it was a complete sentence, so there is, uh, like, the sentence boundaries are totally unobserved by our approach, and that that kills everything, it it emits, uh, it it upgrades all of these partial sentences into full sentences, but that's not related to the, uh, uh, to what the, uh, to what the people said.
+Okay, so if you put together, uh, the, uh, the ASR and MT better, and we did it and I'll show you on the following slides, then you still need to present somehow the result, so that's we're slowly coming towards the the final stage, and still, it can totally kill the the show.
+Uh. Sss.
+If you have a font too small, such as in the subtitles, if they were a little bit smaller, it, they will not be of any use for you at all.
+So you need to very carefully balance like how much content you put somewhere, and if the font would be, uh, legible, if it still, if it's legible for people in the first row, and for the people in the last row, if they have to rely on the cell phone and suddenly they have a different shape, a different rectangular area where where the, uh, translations and transcriptions and appear, and this heavily affects how much information we can send them, and we have to dynamically decide what what to sent them and and what not.
+Uh, for example then, if if if this text flickers too much, if the words change too quickly, you cannot read them.
+Uh, so that is one of the reasons why we have not employed, uh, the fully, uh, neural network ASR system so far, because they are trained to operate on window that moves in time.
+Uh, so, uh, eight seconds, uh, at one go are always recognized, and the beginning can change, so, uh, imagine eight seconds of my speech back, and still like redeciding what is the first word.
+As mostly the words do not change, but sometimes they do, and if you have this long piece of text, and it, like, swaps here and there, uh, there and back on on various, uh, places in in various words, you do not know how to follow that, it's it's like unstable text.
+So we are working on this, uh, on this integration.
+And, uh, I wanted to highlight, that this presentation must be tested on stage, you cannot test it in simulation, like, uh, the the sizing of the text, the visibility from various areas, that all can, uh, um, kill it, can negatively affect it in such a way that it's not usable at all.
+If you have ever ordered something from an e-shop, and it came, but it was like the wrong size, either too small or too big, then you know what I'm talking about.
+If, in in an e-shop you have a picture of what you're buying, but the picture is out of proportion, you you don't know if you're getting this big teddy bear, or or this tiny teddy bear, uh, so it's it can be of wrong size, and that's the same thing as, uh, here for, uh, for the subtitles.
+So here is, uh, one, uh, of the views that, uh, you have been, maybe you have been watching on your machines.
+Uh, this is mainly for showcasing that we can run the translation into many target languages, uh, so we are showing two lines of subtitles, uh, in, uh, ten languages at the moment, and this will be 40, uh, 43.
+Uh, this is good to demonstrate that the system is following me, and it can create, uh, falsely positive impression, uh, because if you're following me, and if you understand my my language, then, uh, you cannot, you can no longer read carefully  what is in the in the subtitles, and you will only observe the right keywords there, so if I say something about subtitles, and you will see "titulky" in Czech then you will notice, oh, great, the system is recognizing this person, but you are not able to judge the quality of the sentences.
+So the sentences, in fact, are pretty crappy, and they jump too quickly, and if you, if you did not understand me and you only had these two lines to follow, then you would get lost in the errors of ASR and MT.
+So this is this is good to show off, but it's bad for the user.
+So we have something else, we also show, uh, much longer context, uh, so, uh, the, the text as it grows.
+And here, uh, you have, uh, I don't know if this was probably given in English, and then it was translated into, uh, Czech, uh, and German, uh, and here you already see the difference between the stable output, the partial output and the, like, the incoming output.
+Uh, so, some of the sentences are fully processed by all the pipeline, all the components in the pipeline, and there is no way they could be updated any longer.
+And these sentences are shown in, uh, are shown in black, uh, and then, uh, there're sentences, which are, uh, gradually, uh, being updated, and here still the punctuation can, uh, can like make a difference, so that's why we're only showing this only in gray.
+@ 0:48:18
+This was probably given in English.
+[0:47:37]
+And then it was translated into Czech and German. 
+And here you already see the difference between the stable output, the partial output and the like the incoming output.
+So, some of these sentences are fully processed by all the pipeline, all the components in the pipeline.
+And there is no way they could be updated any longer.
+And these sentences are shown in are shown in black.
+And then there are sentences which are gradually being updated.
+And here still the punctuation can can like make a difference.
+So that is why we are showing this only in grey.
+And then there is the last sentence, which is still getting more and more words.
+And as the segmenter finishes processing of some of this then the full some full stop here will appear.
+And it will be out of the uh, the processing area of of the segmenter anymore, and it will become the black and fully stable output.
+Here you see why the full stop recall is important.
+If the full stop are too scarce they are too infrequent in the output, then too much of text will remain in this gray fase and too much of text will like be still undecided and flickering.
+People will wait wait too long for the stable output.
+And you also that it is also like matter of taste, whether people would like to follow the more the more unstable more recent output, or whether they would like to follow only the stable one, but be several seconds behind the speaker.
+So that that differs.
+So this is something that we have to update.
+And ideally, it would be the users choice.
+Would you like to have the the the shortest possible delay at the risk of the reading something which will be still like fixed, or would you like to wait little longer until our output is stable.
+So that is something that the the ideally the the user would choose.
+Yeah, so if people are provided with this longer context, then they can better recover from errors along the pipeline.
+So it is almost possible to follow the content of a talk which is not known to you if it is not too far from the domain of the training of the machine translation system.
+Ah, okay, yeah.
+So here is a little summary of what has to be done.
+If you are presenting text only in the two lines of subtitling.
+So you have some ASRs.
+So this is some English stream of words.
+Pixels on your screen.
+At any given moment.
+It is also very flexible architecture of.
+This is an entire book.
+So you see that there is no sentence boundaries.
+And the segmenter needs to predict some sentence boundaries.
+So it predicted a full stop here and a full stop here.
+And then some ASR update comes.
+And it also, based on this update, the segmenter has another update.
+So it predicts one more full stop here.
+So this is like sequences of updates coming.
+And some of these sentences are already completed.
+So the segmenter says:
+"This full stop is final.
+I will never never take it back.
+Do with this sentence, whatever you like, I will not touch it."
+Then some of these some of these full stops are still unstable.
+So I may will remove this full stop, and I may move it slightly.
+And then we also have to like handle that properly.
+And then yes.
+And the rest, the last sentence is only expected or incoming like we do not know what what the sentence will finish like.
+We are sending now full sentences to the machine translation system.
+So that is the the that is like good.
+That means that the empty system fed with the input is ready for.
+So now, going into German.
+It will say like something like:
+"Pixeln auf Ihrem Bildschirm.
+Zu jedem Zaitpunkt.
+Es ist auch eine sehr flexibele Architectur."
+Also, so this makes this makes sense.
+This is like correct German sentences.
+The issue is how much space you have to show this German to the user.
+So if we have two lines of subtitles, then we would then we would show this yellow part and this yellow part.
+And then, because the last sentence got some extra words, tt got extended, the system decided to change the beginning of of this sentence.
+It decided to change the last word on the first subtitle line.
+If the line is like still visible we can easily do the change.
+And nothing bad happens.
+If we are limited to just one line of subtitle output, t hen this line has been already rolled out.
+Like the the the the user can no longer see it.
+The user saw it a second ago.
+But now this is no longer accessible.
+So we would have to show the like only half of the sentence, and that is something that we cannot do.
+So the sentence has changed.
+We call this reset.
+Now the now these subtitling mechanism has to go back and show something which has already scrolled up and show it again so that the user can reread.
+But this reset is extremely annoying.
+So you may have noticed noticed that sometimes this these subtitles got red.
+And the the red effect is exactly highlighting a reset has happened.
+So the the segmenter the segmenter was oscillating like where to put some of the full stops, where to put the ah, the casing changes.
+And if the change of the full stop or the casing happened above the edge, in the line which already rolled up, then the subtitle, even for here for ASR issued a rested, and it also indicated in red.
+So the red for me was like a remark.
+Yes, this is the red.
+So this is the this is the case where the subtitles had to scroll back, because something was updated outside of the screen.
+So that, that is an illustration why the limited output space is so critical for delivering the the translation to the user.
+If you limit yourself too much, if the language difference is too big, and so the word reordering and the length of the sentences of like make you redo larger bits that then fit on the final screen, then the user will be experiencing very confusing resets.
+So I 'm like stressing this because this is something this is these are decisions that you make along the whole pipeline.
+And it is only the very last bit the size of the window that kills it, or or makes it make it workable.
+So that is that is why we are like fighting in the consortium.
+Like what is the better output.
+The it seems, based on these arguments, that you definitely do not want to have these subtitles.
+You you prefer you you should prefer the longer paragraph view that that you saw on the previous slide.
+But the problem here is that if you if you make some very bad mistake, if some some bad word of frmo profanity appears in the output, it will stick there for too long.
+And people like the take out their cell phones and and take pictures of that of that bad word.
+So ah, you are exposing too much of of your problems in this setup.
+So that is why that is why the the some some partners in the consortium preferred the the subtitles.
+But there is a big risk of of the subtitles being incomprehensible.
+Ok.
+So then there is the overall cognitive load, and the the the overall usability.
+We have two users, they are here, who confirmed that.
+So so sorry.
+There is many that that is another these are these here.
+So there is so many users who have tried to follow this have said that there is no way that you would be following the translation on your notebook and looking at the slides or the speaker, who is in front of you.
+Even if it is like in a very close angle, if you do not have to move your eyes too much, you still have to accomodate because of the different distance, and, that will take some time.
+And then you will, as soon as you look up at the slides, you will lose the subtitles, and you will lose content.
+So we are now working on adding the slides also to the to the screen where the subtitles appear, or the other way around putting subtitles to the to the screen, where the slides are.
+So this is something which which has to be done.
+And then the overall usability.
+The overall usability is still very bad.
+I'm inviting you whoever does not speak French, and would like to join us.
+We are, hopefully this week, we are running like a French movie watching session, or just ten minutes of a TED talk.
+We do not speak French.
+So we will follow our systems, recognizing the French and translating into English, or or check or any other language.
+And ee will try to come up with improvements that would make it actually usable.
+Because it is very big difference, whether you can understand the source language, or or not.
+Our, we had a similar session with Martin Popel presenting something on machine translation evaluation in Czeck and it was addended by our two foreign students.
+And these two foreign students reported that they could follow the Czeck talk, if they fully focused on the paragraph view.
+And then a s soon as they looked upon the slides, they got lost.
+So if with full attention to the slides, it was possible to follow it.
+But this is not for normal users.
+Like normal users have to have to have some free time for their for their brains as well.
+I would like to highlight that the desired setting differs from user to user.
+Those who understand the source language will need the simultaneitly, and they will prefer it over precision and stability.
+If you are following what I 'm saying, then and if you are reading the subtitles in your mother tongue, then they could provide you with the words that you missed.
+If you do not understand a word it could appear here, you would understand it.
+But it has to appear here at the like on the spot, at at the moment, when I said the word.
+If it is there three seconds after, then you, it was of no use to you anymore.
+Because yeah like you have moved in what you are listening already.
+So if you are following the source language, the subtitles in your mother tongue can help you, but they have to be immediate.
+If you do not understand the source language, then you are only relying on the text.
+And in that case, you would prefer stablility and precision
+And you are happy to wait for seconds.
+You you do not know what I 'm talking about at all.
+So it is not a problem if if you get my message eight seconds later.
+So this is two very different use cases.
+And it should be the user to select which which of the displays is is there not not us.
+OK so evaluation.
+There are three aspects of spoken language translation.
+Quality, that is something that we know from machine translation.
+And we know how to have vaguely estimate the translation quality.
+But there is also the lag.
+How much is the text in the translation delayed behind the source.
+Some of the lag is obviously inevitable, because you have to wait for the German verb, or we have to anticipate it in some way.
+And there is flicker.
+So if you have a system which is updating, and we have such systems, then these systems can anticipate, and they have the capacity to coring themselves.
+So then suddenly they can create some output, and then remove it in the next step.
+And this has to be controlled very much so that the user is not confused.
+So we are working on an evolution tool with E brahim Ansari.
+And here is just the the the most serious problem.
+If you have this English ASR.
+Do you know it is a cat.
+Isn't it.
+Yes it is like that.
+So let us imagine that the segmenter has segmented it into these two chunks.
+There is no way to align it well with this German translation reference, because it has three sentences that they the words are grouped in a different way in the sentences.
+So we have to somehow force align these so that the basic set of units that we are evaluating over is  common to all systems, regardless of what the English ASR does.
+Uh, everybody has to reach the same reference segmentation.
+[1:00:07]
+So there is some strategies.59:49
+
+So we have to somehow force align these.
+So that the basic set of units that we are evaluating over is common to all systems, regardless of what the English ASR does.
+Uh.
+Everybody has to reach the same reference segmentation.
+So there is some strategies.
+I'm not going into the into the details, any more.
+Essentially, we have either the option to work with these sentences, like consider more sentences at the same time, or we can totally forget sentences, and we can evaluate by evaluating 30 seconds chunks.
+So did the the MT, the SLT pipeline, the SLT pipeline produce the right words within these 30 seconds?
+And if it did then, yes, if not then not.
+So this is this is like a way to go around the problems of sentences not being uttered in in speech at all.
+Yeah.
+So the surge, or the mobilization, as I as I say it.
+The battle towards a usable system is still not lost.
+So we are now building of an army of paid volunteers.
+And if you have any colleagues or students who can help us between now and May or June, we are totally happy to take them on board.
+We are meeting at least once a week for just 30 minutes and discussing who is working on what.
+And we have funds for this.
+So this is like, ehm, a paid work
+And you can do many smallish tasks.
+For example, if you are looking at some of the MT outputs, there could have been bad characters, because no one has yet flagged checked where they come from in the pipeline.
+Then there is larger things that we need to develop.
+We would like to have a a dashboard, which we will give a configuration like a life system running, which grows logs, log files and this dashboard should allow us to immediately see where is a problem.
+So for example, if we are recognizing the English booth with the French ASR, then there will be many French words coming from the systems, but they will be totally wrong.
+That is the the most laughable output I have seen so far.
+Like swapping the languages for the ASR because the the systems will struggle.
+It will be like words similar with pronunciation, but in the wrong language, and the sentences won't make any sense whatsoever.
+So this can easily happen.
+If you are following six inputs and translating into 43 languages, you need a concise view to to to know what your systems are doing.
+So that would be a dashboard.
+Then a lot of work on the domain and speaker adaptation.
+Just just getting in touch with all the interpreters those who will be in the booth and contacting them, asking them to come here record an hour each.
+And then using this data to adapt the system.
+Again.
+A lot of a lot of little work.
+Code switching is something which I have not discussed in my talk at all.
+But I'm realizing how frequent it is, not only in linguistic lectures, where we have examples in foreign languages
+But also native speakers of other languages than English frequently bring in English phrases, and the ASR systems are totally not ready for that.
+So then the, it is very similar to to the named expression or named entities.
+It is simply unknown words that get recognized into something very, very bad.
+And then when this gets translated, it is very very laughable.
+There is also another activity, which would really like to start call in leather climbing.
+So it is when you have fixed test set, and you are working on improvements of your model, er, or the pipeline.
+So you're making many small changes.
+And you are always evaluating on the test set.
+So you are climbing the leather of performance.
+So this is this is what we have to run.
+I'm hoping for like two bigger model retrainings until until May and many architectural changes, many like smaller fixes that can improve the score quite a bit.
+And.
+Yep.
+I've already talked about this this dashboard.
+But this is still something different.
+The dashborad is like technical, uh, set up.
+You want to know that the sound volume from all the six inputs is the right.
+With this multi-source monitor, you assume that the, technically, the architecture is all set up well, but still, you need to decide which of the ASR in the combination with the speaker works best, and which of these sources delivers the best translation quality into the many target languages.
+So this is like a technical check that everything is running.
+And this is selection of the best path through the, for the best output quality.
+Yeah.
+To summarize.
+ELITR subtitling, er, a is a big challenge for the project
+Even if you connect to superhuman components, they can still deliver crap together.
+So we are now working on making this usable.
+Technically, the complex pipeline now works.
+It has been working...
+How many restarts did you have to, er, do, Sangeet?
+Multiple?
+Yeah.
+Okay.
+So it is not seamless.
+But with one operator, it can survive 60 minutes of of speech, and...
+But unfortunately, even with this whole system working, the benefit for the end user is still limited or nonexistent.
+So.
+If you did not follow my English speech, if you only had a chance to read the Czech translation, I'm curious how much you would get.
+So this is one of the...
+We are...
+We have still a few months to go.
+So I'm I'm very lucky that that we have these months to to fix the pipeline.
+And some of the problems that we are running into are not going to be solved in the next two, three, five years.
+But some of them can be fixed.
+So we will do our best to to make the the the output actually usable.
+And yeah.
+Please.
+Please join us.
+Ah, because ah, yeah.
+With.
+That's it.
+So we have a technology, which technically works but it is totally unusable.
+And and I'm curious, how how far we get in in these months.
+So we are running this this army or this this mobilization.
+So we seek for your help and just talk to any of us.
+So maybe those of you who are already on the surge team, just raise your hands so that people see.
+One, two, three.
+Ah.
+Yeah.
+Atul.
+So at least four four people in the room already.
+And if you have more...
+Or if you have students who would like to get in touch with this.
+This is a nice -- it is not summer internship -- it is like spring, spring internship.
+Please, please, let them know.
+And you can read all the details about the project in the blog.
+And if you want the the real truth, then talk to us directly.
+Yeah, OK.
+Thank you.
+Thank you very much for...
+And I think we still have some minutes to ask questions or add some details.
+Yeah.
+Hanka.
+Well, you spoke about the the the problem from ASR.
+If there is a mistake in understanding of the of the word then it brings the problem further to the machine translation.
+And you also spoke about the the module, that puts the punctuation into into the steam of words.
+Did you consider some something, like hm some sort of grammar checker, or some language model that would check whether the supposed sentences are really sentences or dramatically good enough to be sent to machine translation.
+So yes, and no.
+The whole punctuation insertion, the segmenter is a language model as such.
+So that is that is just like n-gram-based.
+But it is not n-gram.
+It is it is longer sequences.
+It is a neural-network-based language model.
+And it is trained on concatenated sentences.
+But I think these sentences are concatenated from already a shuffled training set.
+So it has...
+Like....
+The sentences came became adjacent just by randomness, and not by a proper context.
+So there is a certain limitation.
+So that is that is the yes part of of that.
+So it totally relies on some language model in the statistical sense more.
+And some grammaticality of the sentences?
+No, no.
+We are not considering that at all, because, well, we also do not assume that people would utter grammatically correct sentences.
+So that is the um the the, problem, or the task that you may be referring to would be called speech reconstruction.
+And this is something that that our department has been working on in the past as well.
+There the goal is to take the partly disfluency speech of of myself and convert it into a written-like speech.
+Like proper all, only all correct, grammatically proper sentences.
+But we are not working with with this component at all in in our system.
+So quite on the contrary, we are rather moving towards machine translation systems, which will be robust to translating even these a partial sentences.
+So, I have not mentioned in the slides, but another of students of mine, Dominik Macháček, is working on on machine translation, which runs not on sentences, but on a window of words.
+So we would like to get rid of the segmenter altogether.
+And we would, hopefully, if if we're provided with good training data that has this property, then the translation system would be able to translate disfluent sentences into disfluent sentences usable in the target language.
+More questions?
+OK.
+I have the question about the issue of where to place your microphone, because several times, I saw some speakers holding their microphone under their chin, like this.
+Have you ever seen it?
+It's not frequent at all that they're claiming that it's it's...
+You can...
+It is completely understandable.
+And you prevent flowing the air.
+We have not tried.
+So next next time you see me giving a talk, I'll be surely holding a microphone under my chin to evaluate it properly.
+I do not know.
+I realize that there is no loud speakers here in the room.
+But when you put the microphone under your chin your voice has changed here in like in the in the loud in the in the wild.
+Yeah.
+So I do not know, maybe maybe the recording has not has not seen any change, but we have.
+OK.
+I have two small questions.
+One question concerns or, it is a remark.
+That I think that if intonation is paid due attention to, then it might help for the segmentation a lot.
+Of course, in the fluent speech, people don't behave according to the rules.
+That still.
+But I have one question for your slide number 43.
+I just wondered.
+Yeah.
+There are between...
+In the 34 part you have capitals but you don't have punctuation.
+I think this is bugs.
+Ok.
+So, so we do not know.
+I do not know...
+We can actually give it a try.
+If I launch this.
+But where where is this that?
+So.
+So here.
+tiny
+So I will I will...
+I will stop the live subtitles, because it is picking...
+Or I'll leave them on.
+I am pretty happy with your answer.
+So.
+So I'm I'm curious myself because here is the where is that....
+Because I have one more general question.
+Yeah.
+Yeah.
+So please, feel free to ask.
+I will just go to the paragraph view in the meantime.
+elitr
+elitr
+So let us switch off the Hindi and Hungarian.
+And and X1 and X0.
+So this is my English recognized, and it is being translated into German, and into Czech.
+Yeah.
+And and the more general question, which may be you have heard seven times.
+How much can you learn or add to your considerations if you ask the translators...
+Interpreters...
+Interpreters...
+Interpreters who have the simultaneous translation...
+From their strategies or something like that...
+Is there something in the in the system, which would reflect this experience?
+Not yet.
+Not at all.
+We are in touch with them, because you like it, it helps us.
+So we, we...
+Thanks to them we can get hold of the data, but their interpretation strategies are much more much more long-range, so, to say.
+So, they are happy to listen to a couple of sentences, even for the simultaneous translation.
+So simultaneous can still mean 20 seconds after that.
+And they will first get the whole idea.
+And they, they will speak it from scratch.
+And this is very distant from what we are doing, but we are aiming to get into the same realm, so to say.
+So we have now our very first data sets where we have the source speech in English, which is being interpreted live into Czech by some of these students.
+And so we are also transcribing the English.
+And we are translating in the text form what was said in English.
+And the evaluation tool that I mentioned that will consider the quality in terms of BLEU score or a similar score for machine translation, the lag and the flicker, is meant -- it is not yet tested -- but it is meant to be applicable also to human interpreters.
+So ideally, we would see that the human interpreters are much better in precision, or the the quality of the output, but they will be much slower.
+They will have much longer lags.
+And they will obviously have no flickers or very likely they will...
+Well, it will be difficult to spot the flickers, because the the the way will be collecting the data.
+So.
+But we would really like to have automated tool that evaluates both SLT systems and interpreters in in the same three scales. 
+And then we see what are the complementary benefits of of these like groups of of processors.
+Their strategies so far are are not of any use to us.
+And also their evaluation strategies are very distant from what we are like talking about.
+So that that...
+Yeah.
+We have seen a checklist of when they are being graded, the interpreters.
+And and..
+Yeah.
+Some of these items are are totally irrelevant to our technology.
+Ok.
+Thank you.
+So I am afraid we have to stop at this point.
+So thank you again for your talk
+And I just would like to announce that we don't have a session next week.
+And you will learn about the title, and the speaker of the next following week in your emails.
+So thank you very much.
+Thank you.
