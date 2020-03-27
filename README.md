@@ -38,3 +38,7 @@ Each index will be a simple list of basepathnames of documents that are good for
 - all files for SLT of English into Czech in the auditing domain
 - all files for English ASR in the computational linguistics domain
 - all files for Czech ASR regardless the domain
+
+### Checks
+
+We need to implement many checks of the format of everything, in a subdir called ``checks``. Ideally, Travis or other system should use them to reject commits which do not pass all checks.
