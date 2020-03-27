@@ -16,7 +16,8 @@ Filename **suffixes** are used to indicate the language and processing:
 ```
 .README   ... the history of creation of this document, ***including links***
 .WORK     ... should be a directory of parts that are not yet properly processed; to be removed when done
-.en.mp3   ... a backup of the sound in lossy format
+.en.mp3   ... a backup of the sound in lossy format, **if small enough**
+.en.mp3.URL . the URL where to get the full file, if the file can't fit here; similarly for wav.URL etc.
 .en.OSt   ... original speech in language 'en', 't'ranscribed
 .en.OStt  ... original speech in language 'en', 't'ranscribed and word-level 't'imestamped
 .en.TTcs1 ... original speech/text in language 'en' translated as text to language 'cs'
