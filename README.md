@@ -19,15 +19,21 @@ Filename **suffixes** are used to indicate the language and processing:
 .en.OS.mp3   ... a backup of the sound in lossy format, **if small enough**
 .en.OS.mp3.URL . the URL where to get the full file, if the file can't fit here; similarly for wav.URL etc.
 .en.OSt      ... original speech in language 'en', 't'ranscribed
+.en          ... if the document was never spoken, we can use simply .en to indicate it is in language 'en'
 .en.OStt     ... original speech in language 'en', 't'ranscribed and word-level 't'imestamped
 .en.TTcs1    ... original speech/text in language 'en' translated as text to language 'cs'
                  the '1' is used only if we have more reference translations to distinguish them
 .en.IScs.mp3 ... original speech in 'en' human-interpreted to 'cs', the sound of it
 .en.IStcs    ... original speech in 'en' human-interpreted to 'cs' and 't'ranscribed
 .en.ISttcs   ... original speech in 'en' human-interpreted to 'cs' and 't'ranscribed, 't'imestamped
+.cs          ... if we do not know if the document was translated from language 'en' to 'cs'
+                 (which would be indicated by '.en.TTcs') or vice versa, we can simply use 'cs' to
+                 indicate the other language
 ```
 
-The files ``OSt`` and ``TT??`` need to be parallel.
+The files ``OSt``, ``TT??`` as well as language variants without 'translation history' (``en`` or ``cs`` in the example used above) need to be parallel.
+
+The files ``ISt*`` are typically *not* parallel with the ``OSt*`` variants.
 
 ### Indices
 
