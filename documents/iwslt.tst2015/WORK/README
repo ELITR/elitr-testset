@@ -2,8 +2,6 @@ Wed Apr  1 16:24:41 CEST 2020
 
 This is iwslt.tst2015 with multilingual referential subtitles from ted.com.
 
-wavs/ 
-	-- source audio, in English, from iwslt.org
 FILE_ORDER
 	-- from the original package
 	
@@ -60,3 +58,9 @@ WORK/
 		-- maybe incomplete
 		-- may be useful for any other language and TED talks test set
 		-- may work only on úfal cluster on Dominik's account (or after you install moses and some other scripts the same way as me)
+
+wavs/ 
+	-- source audio, in English, from iwslt.org , after you download it from there
+wavs/populate.sh
+	-- the path for .wav on úfal cluster
+
