@@ -1,0 +1,66 @@
+Inteligencia, ¿qué es eso?
+Si analizamos la historia de cómo se ha visto la inteligencia, un ejemplo productivo ha sido la famosa cita de Edsger Dijkstra de que "La pregunta de si una máquina puede pensar es tan interesante como la pregunta de si un submarino puede nadar".
+Cuando Edsger Dijkstra escribió esto lo hizo como una crítica a los pioneros de la informática como Alan Turing.
+Sin embargo, si miramos al pasado y pensamos cuáles han sido las innovaciones más poderosas que nos han permitido construir máquinas artificiales que nadan y máquinas artificiales que vuelan, hallarán que fue solo comprendiendo los mecanismos físicos subyacentes del nadar y el volar que pudimos construir esas máquinas.
+Y así, hace algunos años, emprendí un programa para tratar de entender los mecanismos físicos fundamentales subyacentes de la inteligencia.
+Retrocedamos un paso.
+Primero empecemos con un experimento mental.
+Imaginen que son de una raza alienígena, que no saben nada de la biología de la Tierra ni de neurociencia de la Tierra ni de inteligencia de la Tierra, pero que tienen telescopios increíbles y pueden observar la Tierra, y tienen vidas increíblemente largas, así que pueden observar la Tierra durante millones, incluso miles de millones de años.
+Y ven un efecto muy extraño.
+Observan que, en el transcurso de los milenios, la Tierra es continuamente bombardeada por asteroides hasta un cierto momento, y que en ese momento, que corresponde aproximadamente a nuestro año 2000 d.C., asteroides que se encuentran en un curso de colisión con la Tierra que de otra forma habrían chocado, misteriosamente salen desviados o detonan antes de impactar la Tierra.
+Por supuesto, como terrícolas, sabemos que la razón sería que estamos tratando de salvarnos a nosotros mismos.
+Estamos tratando de evitar un impacto.
+Pero si son de una raza alienígena que no sabe nada de esto, que no tiene ningún concepto sobre inteligencia de la Tierra, se verían obligados a desarrollar una teoría física que explicara cómo, hasta cierto momento en el tiempo, los asteroides que demolerían la superficie de un planeta misteriosamente dejan de hacerlo.
+Y por eso afirmo que esta es la misma pregunta que la de entender la naturaleza física de la inteligencia.
+Así que en este programa que llevé a cabo hace varios años, analicé una variedad de temas a través de la ciencia, a través de varias disciplinas, que señalaban, creo, hacia un único mecanismo subyacente de la inteligencia.
+En cosmología, por ejemplo, ha habido una variedad de evidencias de que nuestro universo parece estar finamente ajustado para el desarrollo de la inteligencia, y, en particular, para el desarrollo de estados universales que maximizan la diversidad de posibles futuros.
+En el juego de Go, por ejemplo, —todo el mundo recuerda en 1997 cuando Deep Blue de IBM derrotó a Garry Kasparov en ajedrez— pocas personas son conscientes de que en los últimos 10 años aproximadamente, el juego de Go, explicablemente un juego mucho más desafiante porque tiene un factor de ramificación mucho más alto, también ha comenzado a sucumbir ante las computadoras por la misma razón: las mejores técnicas en este momento en las computadoras con el Go son técnicas que intentan maximizar las opciones futuras durante el juego.
+Finalmente, en la planeación de movimiento robótico, ha habido una variedad de técnicas recientes que han intentado aprovechar las habilidades de los robots para maximizar la futura libertad de acción con el fin de realizar tareas complejas.
+Y así, tomando todos estos temas diferentes y colocándolos juntos, pregunté, desde hace ya varios años: ¿Existe un mecanismo subyacente para la inteligencia que podamos extraer de todos estos diferentes temas?
+¿Existe solamente una ecuación para la inteligencia?
+Y creo que la respuesta es sí.
+Lo que están viendo es probablemente el equivalente más cercano a un E = mc² para la inteligencia que yo haya visto.
+Así que lo que están viendo aquí es una afirmación de que la inteligencia es una fuerza, F, que actúa con el fin de maximizar la futura libertad de acción.
+Actúa para maximizar la futura libertad de acción, o mantener las opciones abiertas, con una fuerza T, con la diversidad de posibles futuros accesibles, S, hasta un inminente tiempo futuro, tau.
+En pocas palabras, a la inteligencia no le gusta quedar atrapada.
+La inteligencia intenta maximizar la futura libertad de acción y mantener las opciones abiertas.
+Y así, teniendo en cuenta esta ecuación, es natural preguntar: ¿Qué se puede hacer con esto?
+¿Qué tan predictivo es?
+¿Predice el nivel de inteligencia humana?
+¿Predice la inteligencia artificial?
+Así que voy a mostrarles ahora un video que pienso, mostrará algunas de las aplicaciones sorprendentes de esta simple ecuación.
+Narrador: Recientes investigaciones en cosmología han sugerido que los universos que producen más desorden, o "entropía", durante su vida deberían tener tendencia a condiciones más favorables para la existencia de seres inteligentes como nosotros.
+Pero ¿qué pasa si esa conexión cosmológica tentativa entre la entropía y la inteligencia insinúa una relación más profunda?
+¿Qué pasa si el comportamiento inteligente no solo se correlaciona con la producción de entropía a largo plazo, sino que en realidad surge directamente de ella?
+Para averiguarlo, hemos desarrollado un motor de software llamado Entropica, diseñado para maximizar la producción de entropía a largo plazo en cualquier sistema en que se encuentre dentro.
+Sorprendentemente, Entropica pudo pasar múltiples pruebas de inteligencia animal, jugar juegos de humanos, e incluso ganar dinero comerciando acciones, todo ello sin que se le hubiera indicado hacer eso.
+Aquí están algunos ejemplos de Entropica en acción.
+Al igual que un humano de pie sin caerse, aquí vemos a Entropica equilibrando automáticamente un poste usando un carrito.
+Este comportamiento es notable en parte porque nunca le dimos a Entropica una meta.
+Simplemente decidió por su cuenta equilibrar el poste.
+Esta habilidad de equilibrio tendrá aplicaciones para la robótica humanoide y tecnologías de asistencia humana.
+Así como algunos animales pueden usar los objetos en sus entornos como herramientas para alcanzar en espacios estrechos, aquí vemos que Entropica, otra vez por su propia iniciativa, pudo mover un disco grande que representa a un animal alrededor, con el fin de lograr que un pequeño disco, que representa una herramienta, llegue a un espacio confinado sosteniendo un tercer disco y soltándolo desde su posición fija inicialmente.
+Esta capacidad de uso de herramientas tendrá aplicaciones en la manufactura inteligente y la agricultura.
+Además, al igual que algunos otros animales pueden cooperar tirando de extremos opuestos de una cuerda al mismo tiempo para liberar la comida, aquí vemos que Entropica puede realizar una versión del modelo de esa tarea.
+Esta capacidad de cooperación tiene consecuencias interesantes para la planeación económica y en una variedad de otros campos.
+Entropica es ampliamente aplicable a una variedad de dominios.
+Por ejemplo, aquí la vemos exitosamente jugando un juego de pong contra sí misma, ilustrando su potencial para el juego.
+Aquí vemos a Entropica orquestar nuevas conexiones en una red social donde los amigos se desconectan constantemente y mantiene con éxito la red bien conectada.
+Esta misma capacidad de orquestación de red también tiene aplicaciones en el cuidado de la salud, en energía e inteligencia.
+Aquí vemos a Entropica organizar las rutas de una flota de barcos, descubriendo con éxito y usando el Canal de Panamá para ampliar a nivel mundial su alcance desde el Atlántico hasta el Pacífico.
+De la misma manera, Entropica es ampliamente aplicable a problemas en defensa autónoma, logística y transporte.
+Finalmente, aquí vemos a Entropica espontáneamente descubrir y ejecutar una estrategia de compra-bajo, vende-alto en una serie simulada de negociación de acciones, exitosamente aumentando los activos bajo su gestión exponencialmente.
+Esta habilidad de gestión de riesgo tendrá amplias aplicaciones en finanzas y en seguros.
+Alex Wissner-Gross: Lo que han visto es que una variedad de marcas de comportamientos humanos cognitivos inteligentes tales como el uso de herramientas, caminar erguidos y la cooperación social, todos derivan de una sola ecuación, que conduce a un sistema para maximizar su futura libertad de acción.
+Ahora, aquí hay una profunda ironía.
+Volvamos al principio del uso del término robot, la obra "RUR"; hubo siempre el concepto de que si desarrollábamos máquinas inteligentes, habría una rebelión cibernética.
+Las máquinas se levantarían contra nosotros.
+Una de las mayores consecuencias de este trabajo es que tal vez todas estas décadas, hemos tenido todo el concepto de la rebelión cibernética a la inversa.
+No es que las máquinas primero se vuelven inteligentes y luego megalómanas y que intenten apoderarse del mundo.
+Es todo lo contrario, que el impulso de tomar el control de todos los futuros posibles es un principio más fundamental que el de la inteligencia, que la inteligencia general puede de hecho surgir directamente de tomar el control, en vez de ser al revés.
+Otra consecuencia importante es la búsqueda del objetivo.
+A menudo me preguntan: ¿Cómo es que buscar objetivos se desprende de este tipo de marco?
+Y la respuesta es que la habilidad de buscar objetivos derivará directamente de esto en el siguiente sentido: igual que si viajaran a través de un túnel, un cuello de botella en su futura trayectoria del espacio, con el fin de lograr muchos otros diversos objetivos más adelante, o igual que si invirtieran en una seguridad financiera, reduciendo la liquidez de corto plazo para aumentar la riqueza a largo plazo, la búsqueda de metas surge directamente de un impulso de largo plazo de aumentar la futura libertad de acción.
+Finalmente, Richard Feynman, físico famoso, una vez escribió que si la civilización humana fuera destruida y pudiera pasar solamente una única idea a nuestros descendientes para ayudarles a reconstruir la civilización, ese concepto debería ser que toda la materia que nos rodea está hecha de elementos diminutos que se atraen entre sí cuando están muy separados pero que se repelen cuando están muy juntos.
+Mi equivalente a esa declaración para pasar a los descendientes para ayudarles a construir inteligencias artificiales o para ayudarles a comprender la inteligencia humana, es la siguiente: La inteligencia debe ser vista como un proceso físico que intenta maximizar la futura libertad de acción y evitar las restricciones en su propio futuro.
+Muchas gracias.
