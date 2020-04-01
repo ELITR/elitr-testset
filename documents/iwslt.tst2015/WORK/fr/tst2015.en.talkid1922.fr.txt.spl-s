@@ -1,0 +1,67 @@
+L'intelligence -- qu'est-ce que c'est?
+Si nous jetons un œil à l'histoire de la façon dont l'intelligence a été vue, un exemple précurseur fut la célèbre citation d'Edsger Dijkstra disant que la question « Une machine peut-elle penser ? » est à peu près aussi intéressante que la question « Un sous-marin peut-il nager ? »
+Edsger Dijkstra, en l'écrivant, la dirigeait comme une critique des pionniers des sciences informatiques, comme Alan Turing.
+Cependant, si vous prenez du recul et pensez à ce qu'étaient les innovations les plus puissantes qui nous ont permis de construire des machine artificielles sachant nager et des machines artificielles sachant voler, vous trouvez que ce fut uniquement à travers la compréhension des mécanismes physiques sous-jacents de la nage et du vol que nous avons pu construire ces machines.
+Donc, il y a plusieurs années, j'ai entrepris un programme pour essayer de comprendre les mécanismes physiques fondamentaux sous-jacents à l'intelligence.
+Prenons du recul.
+Commençons tout d'abord avec une expérience de pensée.
+Supposons que vous êtes une race extra-terrestre qui ne sait rien ni de la biologie terrestre ni des neurosciences terrestres ou encore de l'intelligence terrestre, mais vous avez des télescopes incroyables et vous êtes à même de voir la Terre, et vous avez de très longues vies, donc vous pouvez voir la Terre sur des millions, même des milliards d'années.
+Et vous verrez un phénomène très étrange.
+Vous observerez que, durant le dernier millénaire, la Terre est continuellement bombardée d’astéroïdes jusqu'à un moment, et à ce moment, qui correspond à environ 2000 années de notre calendrier les astériodes sur une trajectoire de collision avec la Terre qui l'auraient percutée ont mystérieusement dévié ou ont explosé avant de pouvoir atteindre la Terre.
+Bien sûr, en tant que terriens, nous savons que la raison serait que nous essayons de nous sauver.
+Nous essayons d'éviter un impact.
+Mais si vous êtes une race extra-terrestre qui ne sait rien de tout cela, qui n'a aucune idée du concept d'intelligence terrestre, vous seriez forcés de mettre en place une théorie physique qui explique comment, à partir d'un certain point dans le temps, les astéroïdes qui démoliraient la surface d'une planète en sont mystérieusement empêchés.
+Je pense donc que c'est la même question que celle qui consiste à comprendre la nature physique de l'intelligence.
+Et dans ce programme que j'ai entrepris il y a plusieurs années, j'ai étudié une variété de différents fils conducteurs à travers la science, à travers une multitude de disciplines, qui convergeaient, je le pense, vers un unique, mécanisme sous-jacent pour décrire l'intelligence.
+En cosmologie, par exemple, il y a eu une multitude de preuves que notre Univers semble être finement ajusté pour le développement de l'intelligence, et, en particulier, pour le développement des états universaux qui maximisent la diversité de futurs possibles.
+Dans la stratégie de jeu, par exemple, dans le Go -- tout le monde se souvient de 1997 lorsque le Deep Blue d'IBM a battu Garry Kasparov aux échecs -- mais peu de gens sont au courant que dans les dix dernières années, le jeu de Go, sans doute un jeu bien plus stimulant car il a un bien plus grand facteur de ramification, a aussi commencé à succomber face aux programmes informatiques pour la même raison : les meilleures techniques pour les ordinateurs jouant au Go sont des techniques qui tentent de maximiser les options futures durant la partie.
+Finalement, dans la planification des mouvements chez les robots, une grande variété de nouvelles techniques qui ont essayé de tirer avantage de la capacité des robots à maximiser la liberté d'action future de façon à accomplir des tâches complexes.
+De cette façon, parlant de tous ces différents sujets et les mettant ensemble, je me suis demandé, il y a quelques années, s'il y avait un mécanisme sous-jacent à l'intelligence que nous pourrions tirer de tous ces différents sujets ?
+Y a-t-il une équation unique pour l'intelligence ?
+Et la réponse, je pense, est oui.
+[« F = T ∇ Sτ»] Ce que vous voyez est probablement le plus proche équivalent à un E = mc² pour l'intelligence que j'ai jamais vu.
+Ce que vous voyez ici est l'assertion que l'intelligence est une force, F, qui agit de façon à maximiser la capacité d'action future.
+Elle agit de façon à maximiser la capacité d'action future, ou encore elle garde le maximum d'options possibles, avec une certaine vigueur puissance T, avec la diversité de futurs accessibles possibles, S, jusqu'à un horizon temporel futur, tau.
+En bref, l'intelligence n'aime pas être prise au piège.
+L'intelligence tente de maximiser la liberté d'action future et garde des portes ouvertes.
+Étant donné cette unique équation, il est naturel de se demander, que pouvons-nous faire avec ça ?
+A quel point est-ce utile pour établir des prévisions ?
+Est-ce qu'elle prédit l'intelligence humaine ?
+Est-ce qu'elle prédit l'intelligence artificielle ?
+Je vais maintenant vous montrer une vidéo qui va, je pense, mettre en valeur quelques applications incroyables de cette seule équation.
+(Vidéo) Narrateur : Des recherches récentes en cosmologie ont suggéré que les univers qui produisent plus de désordre, ou « entropie » au cours de leur durée de vie devraient tendre à avoir des conditions plus favorables à l'existence d'être intelligents comme nous.
+Mais si cette connexion expérimentale en cosmologie entre l'entropie et l'intelligence suggérait une corrélation plus profonde ?
+Et si le comportement intelligent n'était pas simplement corrélé avec la production d'une entropie sur le long-terme, mais plutôt qu'elle émergeait directement de celle-ci ?
+Pour savoir, nous avons développé une machine logicielle appelée Entropica, créée pour maximiser la production d'une entropie sur le long-terme du système quelconque dans lequel elle se trouve.
+Aussi impressionnant que ça puisse paraître, Entropica fut à même de réussir plusieurs tests d'intelligence animale, a pu jouer à des jeux humains, et elle a même réussi à gagner de l'argent en plaçant en bourse, le tout sans à recevoir d'instruction.
+Voici quelques exemples d'Entropica en action.
+Tout comme un humain se tenant debout sans tomber, nous voyons ici Entropica utilisant un chariot pour automatiquement tenir une barre en équilibre.
+Ce comportement est remarquable en partie car nous n'avons jamais donné de but à Entropica.
+Elle a simplement décidé d'elle même de tenir la barre en équilibre.
+Cette capacité de tenir l'équilibre aura des applications pour la robotique humanoïde et les technologies d'assistance aux humains.
+Tout comme les animaux peuvent utiliser des objets dans leur environnement comme les outils pour atteindre des lieux étroits, ici nous voyons Entropica, encore de sa propre initiative, être capable de bouger un grand disque représentant un animal de façon à faire qu'un petit disque, représentant un outil, puisse atteindre un espace confiné en tenant un troisième disque et relâche le troisième disque de sa position fixe initiale.
+Cet outil aura des applications en fabrication intelligente et dans l'agriculture.
+En plus, tout comme d'autres animaux sont capables de coopérer en tirant les bouts opposés d'une corde en même temps pour libérer de la nourriture, nous voyons ici qu'Entropica est à même d'accomplir une version modélisée de cette tâche.
+Cette capacité de coopération a des applications intéressantes pour la planification économique et dans une multitude d'autre domaines.
+Entropica peut être largement mise en œuvre dans une multitude de domaines.
+Par exemple, ici nous la voyons jouer à une partie de pong contre elle-même avec succès, illustrant son potentiel pour le jeu.
+Ici nous voyons Entropica orchestrant de nouvelles connexions sur un réseau social où les amis se perdent de vue constamment et arrivent à conserver un réseau bien connecté.
+Cette même capacité à l'orchestration de réseaux a aussi des applications dans les domaines de la santé, de l'énergie, et du renseignement.
+Ici nous voyons Entropica commandant les routes d'une flotte de bateaux, découvrant et utilisant avec succès le Canal de Panama pour étendre mondialement son emprise de l'Atlantique au Pacifique.
+De la même façon, Entropica peut être mise en œuvre dans les problèmes de défense autonome, de logistique et de transport.
+Enfin, nous voyons Entropica découvrant spontanément et exécutant une stratégie achat-prix bas, vente-prix haut sur un place boursière simulée, faisant grossir avec succès ses actifs de façon exponentielle.
+Cette capacité à la maitrise du risque aura des applications vastes en finance et en assurance.
+Alex Wissner-Gross : Ce que vous venez de voir est qu'une variété de comportements cognitifs caractéristiques de l'intelligence humaine comme l'utilisation d'outils, la marche debout et la coopération sociale suivent toutes une équation unique, qui conduit un système pour maximiser sa capacité d'action future.
+Toutefois, il y a une profonde ironie ici.
+Revenons à l'origine de l'usage du mot robot, la pièce de théâtre « RUR »; il y a toujours eu le concept que si nous développions une intelligence machine, il y aurait une révolte cybernétique.
+Les machines se soulèveraient contre nous.
+Une conséquence majeure de ce travail est peut-être que durant toutes ces décennies, nous avons eu tout le concept de révolte cybernétique à l'envers.
+Les machines ne deviennent pas d'abord intelligentes puis mégalomanes puis essayent de conquérir le monde.
+C'est plutôt l'opposé, que l'insistance à vouloir prendre le contrôle de tous les futurs possibles est un principe plus fondamental encore que celui d'intelligence, l'intelligence générale pourrait en effet émerger directement de ce type de prise de contrôle, plutôt que le contraire.
+Une autre conséquence importante est la recherche du but.
+On me demande souvent, comment la capacité à chercher des buts suit ce genre de système ?
+Et la réponse c'est que la capacité à poursuivre des objectifs découlera simplement de cette façon : tout comme vous voyageriez à travers un tunnel, un goulot dans votre chemin spatial futur, de façon à atteindre beaucoup d'objectifs divers plus tard, ou tout comme vous investiriez dans une sécurité financière, réduisant vos liquidités à court-terme de façon à augmenter votre richesse sur le long-terme, la poursuite d'objectifs émerge directement d'une tendance sur le long terme à augmenter la liberté d'action future.
+Enfin, Richard Feynman, physicien célèbre, écrit un jour que si la civilisation humaine était détruite et que nous pouvions ne laisser qu'un unique concept à nos descendants pour les aider à reconstruire la civilisation, ce concept devrait être que toute la matière autour de nous est constituée d'éléments minuscules qui s'attirent les uns les autres quand ils sont éloignés mais se repoussent les uns les autres quand ils sont proches.
+Mon équivalent pour ce message à laisser à nos descendants pour les aider à construire l'intelligence artificielle ou pour les aider à comprendre l'intelligence humaine, est la suivante : l'intelligence devrait être perçue comme un processus physique qui tente de maximiser la capacité d'action future et éviter les contraintes de son propre futur.
+Merci beaucoup.
+(Applaudissements)
