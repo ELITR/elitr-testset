@@ -1,0 +1,68 @@
+Inteligența - ce este aceasta?
+Dacă aruncam o privire înapoi la istoria modului în care a fost percepută inteligența, un exemplu fundamental îl constituie faimosul citat al lui Edsger Dijkstra: ,,întrebarea dacă o mașinărie poate gândi este aproape la fel de interesantă ca întrebarea dacă un submarin poate înota".
+Când a scris aceste cuvinte, Edsger Dijkstra a intenționat să critice pionierii informaticii, precum Alan Turing.
+Cu toate acestea, dacă privim înapoi și ne gândim care au fost cele mai valoroase inovații care ne-au permis să construim mașinării care să înoate și mașinării care să gândească, vom descoperi că doar înțelegerea mecanismelor fizice din spatele înotului și zborului ne-au permis construirea acestor mașinării.
+Astfel, acum câțiva ani, am demarat un program pentru a încerca să înțeleg mecanismele fizice fundamentale ce stau la baza inteligenței.
+Să facem un pas înapoi.
+Să începem mai întâi cu o idee experimentală.
+Să zicem că sunteți o rasă extraterestră care nu știe nimic despre biologia Pământului sau despre neuro-știința sau inteligența acestuia, dar aveți telescoape incrediblie, aveți posibilitatea de a supraveghea Pământul și trăiți vieți extraordinar de lungi, astfel că puteți supraveghea Pământul de-a lungul a milioane, chiar miliarde de ani.
+Și observați un fenomen foarte ciudat.
+Observați că, de-a lungul mileniilor, Pământul este în continuu bombardat de asteroizi până la un punct, și că, din acel moment, corespunzând în mare anului 2000 d.
+Hr., asteroizii care se aflau pe o orbită de coliziune cu Pământul și care în mod normal s-ar fi ciocnit cu acesta și-au schimbat în mod misterios traiectoria sau au explodat înainte să lovească planeta.
+Bineînțeles, ca pământeni, știm că motivul ar fi încercarea de a ne salva pe noi înșine.
+Încercăm să prevenim un impact.
+Dar dacă ești o rasă extraterestră care nu cunoaște toate aceste detalii și nu are nici o idee despre inteligența terestră, ai fi forțat să alcătuiești o teorie fizică menită să explice de ce, până la un anumit moment în timp, asteroizii care distrugeau suprafața planetei s-au oprit în mod misterios.
+Așa că eu consider că această problemă este la fel ca înțelegerea naturii fizice a inteligenței.
+Astfel, în cadrul acestui program inițiat acum câțiva ani, am analizat o varietate de aspecte dincolo de știință, interdisciplinare, care cred că indicau către un mecanism unic, fundamental al inteligenței.
+În cosmologie, de exemplu, există o mulțime de indicii conform cărora universul nostru pare să fie reglat cu precizie în vederea dezvoltării inteligenței și, în particular, a dezvoltării a unor situații universale care să maximalizeze diversitatea posibilelor viitoruri.
+În cazul jocurilor, de exemplu, în Go - ne amintim cu toții anul 1997, când supercomputerul Deep Blue al IBM-ului l-a învins pe Garry Kasparov la șah; puțin oameni știu însă că în ultimii circa 10 ani, jocul Go, demonstrat ca fiind un joc mult mai solicitant datorită factorului de ramificare mult mai mare, a început, de asemenea, să piardă în fața jucătorilor reali din același motiv: cele mai bune tehnici actuale de joc ale computerului le reprezintă tehnicile care încearcă să maximalizeze opțiunile viitoare în timpul jocului în sine.
+În cele din urmă, în proiectarea mișcării robotice, au fost folosite o diversitate de tehnici recente care au încercat să se folosească de abilitățile roboților pentru a maximaliza libertatea de acțiune viitoare pentru a îndeplini cerințe complexe.
+Așa că, luând toate aceste diferite aspecte și punându-le laolaltă, m-am întrebat, de câțiva ani încoace, dacă există un mecanism care să stea la baza inteligenței și pe care să-l putem individualiza din toate aceste aspecte diferite?
+Există o ecuație unică a inteligenței?
+Iar răspunsul este, cred eu, da.
+["F = T ∇ Sτ"] Ceea ce vedeți este probabil cel mai apropiat echivalent al formulei E = mc² pentru inteligență, din câte cunosc.
+Așa că ceea ce vedeți aici este o declarație de analogie potrivit căreia inteligența este o forță, F, care acționează pentru a maximiza libertatea de acțiune ulterioară.
+Aceasta acționează pentru a maximaliza libertatea de acțiune ulterioară, sau pentru a menține alternativele disponibile, cu o anumită putere, T, cu diversitatea posibilelor viitoruri accesibile, S, până la un orizont temporal viitor, Tau.
+Pe scurt, inteligenței nu-i place să fie îngrădită.
+Inteligența încearcă să maximalizeze viitoarea libertate de acțiune și să mențină opțiunile disponibile.
+Astfel, dată fiind aceasta ecuație, e normal să ne întrebăm, bun, și ce facem cu ea?
+Cât de predictivă este?
+Poate prezice nivelul inteligenței umane?
+Prezice inteligența artificială?
+Așa că, vă voi prezenta acum un film care va demonstra, cred eu, câteva dintre uimitoarele aplicații ale acestei ecuații unice.
+(Film) Narator: Cercetările recente în cosmologie au sugerat că universurile care produc mai multă dezordine sau ,,entropie" în timpul duratei lor ar trebui să aibă condiții mai favorabile existenței ființelor inteligente, ca noi înșine.
+Dar dacă tentativa de conexiune cosmologică dintre entropie și inteligență indică o relație mai profundă?
+Dacă comportamentul inteligent nu este doar corelat cu producerea de entropie pe termen lung, ci, de fapt, rezultă direct din aceasta?
+Pentru a afla, am creat un mecanism software numit Entropica, conceput să maximalizeze producerea de entropie pe termen lung în orice sistem în care se afla.
+Uimitor, Entropica a fost capabilă să treacă numeroase teste de inteligență animală, să joace jocuri umane și chiar să câștige bani din tranzacții cu acțiuni, toate fără a primi instrucțiuni în acest sens.
+Iată câteva exemple ale programului Entropica în acțiune.
+Întocmai unui om care stă în picioare fără să cadă, aici o vedem pe Entropica echilibrând automat o tijă folosindu-se de un cărucior.
+Acest comportament este în special remarcabil deoarece noi nu i-am dat lui Entropica un scop.
+Pur și simplu a decis singură să echilibreze tija.
+Această abilitate de echilibrare își va găsi aplicații în robotica umanoidă și în tehnologiile de asistență umană.
+Așa cum unele animale pot folosi obiecte din mediul lor ca unelte pentru a ajunge în spații înguste, la fel și Entropica, din nou, din proprie inițiativă, a reușit să mute un disc mare, reprezentând un animal, pentru ca un disc mai mic, reprezentând o unealtă, să poată ajunge într-un spațiu închis în care se află un al treilea disc și să-l elibereze din poziția sa inițială.
+Această abilitate de a întrebuința o unealtă va avea aplicații în industrie și agricultură.
+Mai mult, așa cum alte animale pot coopera trăgând de capetele opuse ale unei frânghii în același timp pentru a primi hrană, aici vedem că Entropica este în măsură să îndeplinească o versiune model a respectivei sarcini.
+Această abilitate de a coopera are implicații interesante în planificarea economică și într-o varietate de alte domenii.
+Entropica se poate aplica, în linii mari, unei palete largi de domenii.
+De exemplu, aici o vedem reușind să joace o partidă de pong împotriva ei însăși, ilustrându-și potențialul ludic.
+Aici o vedem pe Entropica orchestrând noi conexiuni într-o rețea socială în care prietenii pierd constant legătura unii cu ceilalți și reușind cu succes să mențină rețeaua bine conectată.
+Aceasta abilitate de a orchestra o rețea are aplicații în domeniile sănătății, energiei și inteligenței.
+Aici o vedem pe Entropica coordonând traiectoria unei flote, descoperind și utilizând cu succes Canalul Panama pentru a se extinde, la nivel global, din Atlantic, în Pacific.
+În același fel, Entropica dovedește o largă aplicabilitate în probleme legate de propria apărare, logistică și transport.
+În cele din urmă, aici o vedem pe Entropica descoperind spontan și executând o strategie de cumpărat-ieftin, vândut-scump la o bursă simulată, reușind cu succes să crească capitalul exponențial.
+Managementul riscului va avea largi aplicații în finanțe și asigurări.
+Alex Wissner-Gross: Deci ceea ce ați văzut este o variatate de comportamente cognitive specifice inteligenței umane ca de pildă, folosirea uneltelor și mersul biped, drept, sau cooperarea socială derivă toate dintr-o singură ecuație, care conduce un sistem spre maximizarea viitoarei sale libertăți de acțiune.
+Iată acum profunda ironie a lucrurilor.
+Întorcându-ne la începuturile utilizării termenului de robot, piesa de teatru ,,RUR", dintotdeauna a existat ideea potrivit căreia dacă creăm inteligență artificială, va urma o revoltă cibernetică.
+Mașinile se vor ridica împotriva noastră.
+Una dintre consecințele majore ale acestui demers este că, poate în toate aceste decenii, am perceput întreg conceptul de revoltă cibernetică invers.
+Mașinile nu devin mai întâi inteligente, apoi megalomane și încearcă să conducă lumea.
+Este chiar invers, deoarece dorința de a prelua controlul tuturor posibilelor viitoruri este un principiu mai fundamental decât acela al inteligenței, iar inteligența generală ar putea în fapt să rezulte direct din acest tip de nevoie de a prelua controlul, decât invers.
+O altă consecință importantă e urmărirea unui obiectiv.
+Sunt întrebat adesea, cum reiese abilitatea de a urmări un scop din acestă schemă?
+Iar răspunsul este, capacitatea de a urmări obiective va rezulta direct din aceasta după cum urmează: așa cum ați călători printr-un tunel, o îngustare a căii de acces viitoare, pentru a obține, mai târziu, numeroase alte diverse obiective, sau ca și cum ai investi în ceva sigur financiar, reducând lichiditățile pe termen scurt pentru a crește venitul pe termen lung, urmărirea scopului ia naștere direct dintr-un demers pe termen lung pentru a crește viitoarea libertate de acțiune.
+În cele din urmă, faimosul fizician Richard Feynman a scris cândva că dacă civilizația umană ar fi distrusă și n-am putea transmite descendenților noștri decât un singur concept pentru a-i ajuta să refacă civilizația acel concept ar trebui să fie că tot ce contează în jurul nostru este făcut din elemente minuscule care se atrag între ele atunci când sunt îndepărtate dar se resping când sunt împreună.
+Echivalentul meu pentru această afirmație de dat mai departe descendenților pentru a-i ajuta să construiască inteligența artificială, ori spre a-i ajuta să înțeleagă inteligența umană, este următorul: Inteligența ar trebui văzută ca un proces fizic care încearcă să maximizeze viitoarea libertate de acțiune și să evite constrângerile în propriul său viitor.
+Vă mulțumesc foarte mult!
+(Aplauze)
