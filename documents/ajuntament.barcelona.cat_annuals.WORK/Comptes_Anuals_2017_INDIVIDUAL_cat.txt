@@ -2,12 +2,12 @@
 (juntament amb l'informe d’auditoria)
 INFORME D'AUDITORIA PÚBLICA DELS COMPTES ANUALS DE L'AJUNTAMENT DE BARCELONA CORRESPONENTS A L'EXERCICI 2017
 Al Consell Municipal de l'Ajuntament de Barcelona,
-I.	Introducció
+I. Introducció
 Hem realitzat, d'acord amb les Normes d’Auditoria del Sector Públic, l'auditoria dels comptes anuals adjunts de l'Ajuntament de Barcelona (en endavant l'Ajuntament) que comprenen el balanç a 31 de desembre de 2017, el compte del resultat econòmic-patrimonial, l'estat de canvis en el patrimoni net, l'estat de fluxos d'efectiu, l'estat de liquidació del pressupost i la memòria corresponents a l'exercici anual acabat en aquesta data.
 Aquesta auditoria ha estat realitzada dins del marc que preveuen els articles 58.e) i 74 de la Llei 1/2006, de 13 de març, per la qual es regula el règim especial del municipi de Barcelona i l’establert als Plecs de Clàusules Administratives Particulars i Tècniques del contracte de serveis d'auditoria dels comptes anuals de l'Ajuntament de Barcelona i del seu grup municipal.
 El Gerent Municipal és responsable de la formulació dels comptes anuals de l'Ajuntament d'acord amb el marc d'informació financera que es detalla a la nota 3.1 de la memòria adjunta i en particular, amb el marc conceptual de la comptabilitat pública i les normes de reconeixement i valoració incloses en la Ordre HAP/1781/2013, de 20 de setembre, per la qual s'aprova la Instrucció del Model Normal de Comptabilitat Local.
 Els comptes anuals a què es refereix aquest informe han estat formulats pel Gerent Municipal en data 23 de maig de 2018.
-II.	Objectiu i abast del treball: responsabilitat de l'auditor
+II. Objectiu i abast del treball: responsabilitat de l'auditor
 La nostra responsabilitat és emetre una opinió, basada en el treball realitzat, d'acord amb les Normes d'Auditoria del Sector Públic, sobre si els comptes anuals adjunts de l'Ajuntament expressen, en tots els seus aspectes significatius, la imatge fidel del seu patrimoni i de la seva situació financera, així com dels resultats de les seves operacions reflectides en el compte del resultat econòmic-patrimonial i en la liquidació del pressupost, i dels recursos obtinguts i aplicats durant l'exercici, i contenen la informació necessària per a la seva interpretació i comprensió adequada.
 Atès el caràcter limitatiu del pressupost de despeses de l'entitat l'objectiu de l'auditoria inclou la verificació del compliment en els aspectes mes significatius de les normes pressupostàries especialment el compliment de les regles pressupostàries de limitació quantitativa, qualitativa i temporal i les relatives a modificacions pressupostàries.
 Aquestes normes exigeixen que planifiquem i executem l'auditoria per tal d'obtenir una seguretat raonable, tot i que no absoluta, que els comptes anuals estan lliures d'incorreccions materials.
@@ -26,12 +26,12 @@ Estat de canvis en el patrimoni net (imports en euros)
 2. Estat d'ingressos i despeses reconeguts
 Estat de fluxos d'efectiu (imports en euros)
 Estat de liquidació del pressupost (imports en euros)
-1.	Liquidació del pressupost de despeses
-2.	Liquidació del pressupost d'ingressos
+1. Liquidació del pressupost de despeses
+2. Liquidació del pressupost d'ingressos
 Estat de liquidació del pressupost (imports en euros)
-3.	Resultat pressupostari
+3. Resultat pressupostari
 MEMÒRIA DE L'EXERCICI 2017 1. Organització i activitat
-1.1.	Població oficial i dades de caràcter socioeconòmic
+1.1. Població oficial i dades de caràcter socioeconòmic
 Barcelona, amb una superfície de 101,35 km2, és la capital de Catalunya i la segona ciutat de l'Estat espanyol per població. La població oficial de la ciutat de Barcelona a 1 de gener de 2017 és de 1.620.809 habitants, segons dades publicades per
 l'Institut Nacional d'Estadística, un 0,7% més que l'any anterior. A Barcelona hi
 conviuen persones de 166 nacionalitats, sent la població estrangera recollida al
@@ -39,23 +39,23 @@ padró a 1 de gener de 2017 de 288.675 persones. La ciutat de Barcelona forma pa
 L'economia de la ciutat és fonamentalment terciària. El pes d'aquest sector, d'acord amb les darreres dades publicades del PIB de Barcelona, representa el 89,6% del valor afegit brut (15 punts percentuals per sobre dels valors catalans), en detriment de la indústria (7,4%), la construcció (2,9%) i el sector primari (0,1%). Pel que fa a la distribució sectorial dels ocupats afiliats a la Seguretat Social, a 31 de desembre de 2017 el sector serveis ocupava el 90% dels treballadors, la indústria el 6,9%, la construcció el 3,0% i l'agricultura, ramaderia i pesca el 0,1% restant.
 La taula següent mostra els principals indicadors de l'activitat econòmica de
 Barcelona i el seu àmbit metropolità referents a l'any 2017.
-1.2.	Descripció de les principals fonts d'ingressos
+1.2. Descripció de les principals fonts d'ingressos
 Les principals fonts d'ingressos, tant de l'Ajuntament de Barcelona com de la resta de municipis, es troben regulades pel Reial Decret Legislatiu 2/2004, de 5 de març, pel que s'aprova el text refós de la Llei reguladora de les Hisendes Locals (Reial
 Decret Legislatiu 2/2004 LRHL). Per l'any 2017, el detall del principals ingressos de gestió ordinària de l'Ajuntament de Barcelona ha estat el següent:
-1.3.	Consideració fiscal de l'Ajuntament
-a)	Impost de Societats
+1.3. Consideració fiscal de l'Ajuntament
+a) Impost de Societats
 En aplicació de la Llei 27/2014, de 27 de novembre, de l'Impost sobre Societats, l'Ajuntament de Barcelona està exempt de l'impost i els rendiments del seu capital mobiliari no estan subjectes a retenció.
-b)	Impost sobre el Valor Afegit (IVA)
+b) Impost sobre el Valor Afegit (IVA)
 L'Ajuntament realitza a efectes de l'IVA operacions que no es troben subjectes (activitats Públiques ) i operacions subjectes (activitats empresarials). Pel que fa al règim de deduccions de les quotes d'IVA suportades ha optat per la modalitat de prorrata especial.
-1.4.	Estructura organitzativa bàsica, en els seus nivells polític i
+1.4. Estructura organitzativa bàsica, en els seus nivells polític i
 administratiu
 L'estructura organitzativa bàsica de l'Ajuntament de Barcelona, en els seus nivells polític i administratiu és la següent:
-1.4.1.	Organització política
+1.4.1. Organització política
 Les eleccions municipals se celebren cada quatre anys, d'acord amb un sistema de representació proporcional. Com a resultat de les últimes eleccions, celebrades el 24 de maig de 2015, la composició actual del Consell Municipal és la següent:
 El govern municipal el composen, a 31 de desembre de 2017, els 11 regidors de Barcelona en Comú. L'acord de govern amb el Partit dels Socialistes de Catalunya
 - Candidatura de Progrés, signat el maig del 2016 i que va suposar a incorporació al govern municipal dels 4 regidors del Partit dels Socialistes de Catalunya -Candidatura de Progrés és va trencar el novembre de 2017.
 L'àmbit polític el constitueixen els diferents òrgans de govern, de ciutat i territorials. L'estructura política és la següent:
-1.4.2.	Organització administrativa
+1.4.2. Organització administrativa
 L'organització administrativa o executiva de l'Ajuntament de Barcelona, dirigida
 i coordinada pel gerent municipal, la componen, d'una banda els sectors i
 districtes, que són divisions i òrgans integrats en la personalitat jurídica única de
@@ -67,35 +67,35 @@ Aquesta estructura gerencial s'encarrega que els serveis prestats per l'Ajuntame
 expressa el pla d'actuació municipal.
 El següent organigrama mostra l'estructura administrativa de l'Ajuntament de
 Barcelona:
-1.5.	Nombre mig d'empleats durant l'exercici i a 31 de desembre, tant funcionaris com personal laboral, distingint per categories i sexes.
-1.5.1.	Nombre mig d'empleats durant el 2017
-1.5.2.	Nombre d'empleats a 31/12/2017
-1.6.	Entitats del grup, multigrup i associades
-1.6.1.	Entitats del grup
-1.6.2.	Entitats multigrup
-a)	Entitats que consoliden amb l'Ajuntament
-b)	Entitats excloses de la consolidació municipal
-1.6.3.	Entitats associades
-2.	Gestió indirecta de serveis públics, convenis i altres formes de col·laboració
+1.5. Nombre mig d'empleats durant l'exercici i a 31 de desembre, tant funcionaris com personal laboral, distingint per categories i sexes.
+1.5.1. Nombre mig d'empleats durant el 2017
+1.5.2. Nombre d'empleats a 31/12/2017
+1.6. Entitats del grup, multigrup i associades
+1.6.1. Entitats del grup
+1.6.2. Entitats multigrup
+a) Entitats que consoliden amb l'Ajuntament
+b) Entitats excloses de la consolidació municipal
+1.6.3. Entitats associades
+2. Gestió indirecta de serveis públics, convenis i altres formes de col·laboració
 Les competències i serveis que presta l'Ajuntament són:
-a)	Serveis obligatoris:
+a) Serveis obligatoris:
 L'Ajuntament presta els següents serveis obligatoris: enllumenat públic, cementiri, medi ambient urbà, recollida de residus, tractament de residus, neteja viària, abastament domiciliari d'aigua potable, clavegueram, accés als nuclis de població, pavimentació de les vies públiques, parc públic, biblioteca pública, protecció civil, avaluació i informació de situacions de necessitat social i l'atenció immediata a persones en situació o risc d'exclusió social, prevenció i extinció d'incendis i instal·lacions esportives d'ús públic, i transport col·lectiu urbà de viatgers.
-b)	Serveis voluntaris:
+b) Serveis voluntaris:
 Com a serveis complementaris, l'Ajuntament també presta, entre d'altres, els següents: escoles bressols, estacionament de vehicles, promoció de la cultura i equipaments culturals, serveis de foment del treball, etc.
 La majoria d'aquests serveis són prestats de manera directa per l'Ajuntament i altres a través de algun dels seus ens dependents.
 Pel que fa a la gestió indirecta dels serveis públics, els contractes més significatius són:
-•	Abastament domiciliari d'aigua potable.
-•	Evacuació i tractament d'aigües residuals.
-•	Estacionament de vehicles en el subsòl.
-•	El transport públic de viatgers.
+• Abastament domiciliari d'aigua potable.
+• Evacuació i tractament d'aigües residuals.
+• Estacionament de vehicles en el subsòl.
+• El transport públic de viatgers.
 El servei d'abastament d'aigua domiciliària de la ciutat de Barcelona és
 competència de l'Àrea Metropolitana de Barcelona (AMB) com a Ens Local tal i com s'estableix en el Decret legislatiu 3/2003, del 4 de novembre. Aquesta dóna el servei a través d'una societat de capital mixt anomenada Aigües de Barcelona, empresa metropolitana de gestió del cicle integral de l'aigua SA, formada per la Societat General d'Aigües de Barcelona (70%); Criteria (15%) i l'AMB (15%). La societat utilitza els béns de propietat municipal afectes al servei en el moment de la constitució.
 El servei d'evacuació i tractament d'aigües residuals de la ciutat de Barcelona es competència de l'Àrea Metropolitana de Barcelona com a Ens Local tal i com s'estableix en el Decret legislatiu 3/2003, del 4 de novembre. Aquesta dóna el servei a través d'una societat de capital mixt anomenada Aigües de Barcelona, empresa metropolitana de gestió del cicle integral de l'aigua SA, formada per la Societat General d'Aigües de Barcelona (70%); Criteria (15%) i l'AMB (15%). La societat utilitza els béns de propietat municipal afectes al servei en el moment de la constitució.
 El servei d'estacionament de vehicles es gestiona de forma directa pel que fa a aquells aparcaments en superfície, i de manera indirecta per aquells aparcaments situats en el subsòl.
 Pel que fa a la gestió indirecta dels aparcaments situats en el subsòl, i en concret els ubicats al centre de la ciutat de Barcelona (perímetre central), són gestionats de forma indirecta per mitjà d'una societat d'economia mixta amb la forma de societat anònima i el nom de Barcelona d'Aparcaments Municipals, SA (BAMSA) formada per Saba Car Park, SL (60%) i BSM (40%). La societat fou constituïda per un termini de 25 anys, i utilitza els béns de propietat municipal afectes al servei en el moment de la constitució.
 El servei de transport públic de viatgers es gestiona mitjançant l'Autoritat del Transport Metropolità (ATM), creat com un consorci interadministratiu de caràcter voluntari, constituït en l'exercici 1997. Les administracions consorciades són la Generalitat de Catalunya (51 %) i administracions locals (49 %), que són l'Ajuntament de Barcelona, l'Àrea Metropolitana de Barcelona (AMB) i l'Associació de Municipis per la Mobilitat i el Transport Urbà (AMTU). Les aportacions efectuades per l'Ajuntament en l'exercici 2017 a aquest consorci en virtut del pla quadriennal 2014-2017 de l'ATM han estat de 136,67 milions d'euros.
-3.	Bases de presentació dels comptes
-3.1.	Imatge fidel
+3. Bases de presentació dels comptes
+3.1. Imatge fidel
 Els comptes anuals s'han obtingut dels registres comptables de la Corporació tancats a 31 de desembre de 2017, i es presenten d'acord amb les disposicions legals vigents en matèria comptable, amb l'objecte de mostrar la imatge fidel del patrimoni i de la situació financera a la data esmentada, del resultat econòmic-patrimonial, dels canvis en el patrimoni net, dels fluxos d'efectiu, i del resultat de l'execució del pressupost, corresponents a l'exercici anual acabat en la mateixa data, els quals s'expressen en euros.
 Aquests comptes anuals formaran part del Compte General de l'Ajuntament de Barcelona, el qual serà sotmès a l'aprovació del Plenari del Consell Municipal en els terminis legals establerts. La liquidació del pressupost ha estat aprovada per Decret d'alcaldia el 28 de febrer de 2018.
 El règim de comptabilitat de l'Ajuntament és el previst en la Llei reguladora de les Hisendes Locals per a les entitats locals i els seus organismes autònoms.
@@ -130,19 +130,19 @@ L'Ajuntament formula comptes anuals consolidats que integren els comptes
 de l'Ajuntament, de les entitats del grup (organismes autònoms locals, entitats
 públiques empresarials i societats mercantils dependents), de les entitats
 multigrup i entitats associades.
-3.2.	Comparació de la informació
+3.2. Comparació de la informació
 Els comptes anuals dels exercicis 2017 i 2016 s'han formulat d'acord amb la estructura establerta a la IMNCL, havent seguit en la seva elaboració l'aplicació de criteris uniformes de valoració, agrupació, classificació i unitats monetàries, de manera que la informació presentada és homogènia i comparable.
-3.3.	Raons e incidència en els comptes anuals dels canvis en criteris de comptabilització i correcció d'errors
+3.3. Raons e incidència en els comptes anuals dels canvis en criteris de comptabilització i correcció d'errors
 No s'han produït canvis en els criteris comptables respecte a l'exercici anterior ni s'han identificat errors que haurien de ser corregits.
-3.4.	Informació sobre canvis en estimacions comptables quan siguin significatius
+3.4. Informació sobre canvis en estimacions comptables quan siguin significatius
 No s'han produït canvis significatius en les estimacions comptables.
-4.	Normes de reconeixement i valoració
+4. Normes de reconeixement i valoració
 Els criteris comptables més significatius aplicats en la formulació dels comptes anuals són els que es descriuen a continuació:
-4.1.	Immobilitzat material
+4.1. Immobilitzat material
 Criteris d'activació
 Són actius tangibles, mobles i immobles que:
-•	Posseeix l'Ajuntament per al seu ús en la producció o subministrament de béns i serveis o per als seus propis propòsits administratius.
-•	S'espera que tinguin una vida útil major a un any.
+• Posseeix l'Ajuntament per al seu ús en la producció o subministrament de béns i serveis o per als seus propis propòsits administratius.
+• S'espera que tinguin una vida útil major a un any.
 Valoració inicial
 Les inversions en béns de l'immobilitzat material es valoren al seu cost. Això és el “preu d'adquisició”, inclosos els impostos indirectes no recuperables associats a la compra, els costos d'adquisició directament relacionats amb la compra i els de posada en funcionament, si escau.
 Els béns aflorats com a conseqüència de la realització d'un inventari físic són registrats pel seu valor raonable si no ha estat possible obtenir evidència del seu cost original.
@@ -183,7 +183,7 @@ En el cas dels béns immobles de caràcter historicoartístic, l'amortització e
 practica sobre el cost de reposició de l'immobilitzat que reproduiria la seva
 capacitat i utilitat, i s'exclou, per tant, de la base d'amortització la part del valor
 registrat en llibres que correspon al component historicoartístic de la construcció, que, durant l'exercici 2017, ha ascendit a 221.573 milers d'euros, tot això sobre la base de la taxació independent indicada anteriorment. Aquest tractament es justifica pel fet que el component historicoartístic esmentat és objecte del manteniment que garanteix la permanència del seu valor.
-4.2.	Patrimoni Públic del Sòl
+4.2. Patrimoni Públic del Sòl
 El Patrimoni Públic del Sòl (PMS) fa referència al conjunt de béns que, d'acord amb el Decret Legislatiu 1/2005, de 26 de juliol, pel qual s'aprova el text refós de la llei d'urbanisme de Catalunya, i d'acord amb la Carta Municipal de Barcelona, estan afectats a les finalitats d'interès social que estableix la llei.
 Les finques de titularitat municipal que es recullen sota aquest epígraf són les
 següents:
@@ -197,12 +197,12 @@ Per tal que les operacions associades a aquest pla siguin neutres respecte el
 compte de resultats, la recepció dels béns vinculats al pla i la seva alta a l'inventari municipal es registra com a benefici procedent del patronat públic del sòl.
 Els criteris de valoració i amortització per als diferents tipus de béns són els
 descrits a la nota 4.1.
-4.3.	Inversions immobiliàries
+4.3. Inversions immobiliàries
 Es tracta d'immobles (terrenys o edificis) que es tenen per a obtenir rendes,
 plusvàlues o ambdues, a través del seu arrendament o alienació, sense que sigui
 cap d'aquestes una finalitat de l'Ajuntament. I en tot cas, tots aquells que no es
 puguin considerar immobilitzat. A aquestes inversions se'ls apliquen els criteris de valoració de l'immobilitzat material descrits a la nota 4.1.
-4.4.	Immobilitzat intangible
+4.4. Immobilitzat intangible
 Criteris d'activació
 Es tracta de béns intangibles i drets susceptibles de valoració econòmica de
 caràcter no monetari i sense aparença física que complint les característiques
@@ -231,33 +231,33 @@ sistemàtica pel mètode lineal en funció de la vida útil estimada de cadascun
 d'ells. Per defecte, la base amortitzable de cada element coincideix amb el seu
 valor comptable, donat que es consideren nuls els valors residuals. El procés
 d'amortització s'inicia en el moment de la seva posada en servei, essent els anys de vida útil estimats els següents:
-4.5.	Arrendaments
+4.5. Arrendaments
 L'Ajuntament no disposa de béns adquirits mitjançant arrendament financer.
-4.6.	Permutes
+4.6. Permutes
 L'Ajuntament no sol realitzar operacions de permuta en el curs normal de les seves activitats. En tot cas, quan aquestes es produeixen, la seva valoració i registre comptable s'ajusta a l'establert a l'apartat 4.d) de la norma de reconeixement i valoració de l'immobilitzat material de la IMNCL.
-4.7.	Actius i passius financers
+4.7. Actius i passius financers
 Els actius i passius financers deriven dels instruments financers, que són contractes que estableixen un dret per una de les parts (actiu financer) i una obligació (passiu financer) o un component del patrimoni net (instrument de patrimoni) per l'altra.
 La seva classificació, valoració i comptabilització es realitza, bàsicament, segons la finalitat per la qual es mantenen o s'han emès.
-4.7.1.	Actius financers
+4.7.1. Actius financers
 Són actius financers els diners en efectiu, els instruments de capital o de patrimoni net d'una altra entitat i els drets de rebre efectiu o altre actiu financer d'un tercer o d'intercanviar amb un tercer actius o passius financers en condicions potencialment favorables per l'Ajuntament.
 Els actius financers es classifiquen, a efectes de la seva valoració, en:
-a)	Crèdits i partides a cobrar
+a) Crèdits i partides a cobrar
 Inclouen:
 • Els crèdits per operacions derivades de l'activitat habitual.
 • Altres actius financers que generen fluxos d'efectiu d'import determinat i
 respecte dels quals s'espera recuperar tot el desemborsament, excepte per motius imputables al deteriorament creditici.
 Com a norma general, els crèdits i partides a cobrar amb venciment a curt termini es valoren, tant en el moment de reconeixement inicial com posteriorment, pel seu valor nominal, excepte que incorporin un interès contractual. La mateixa valoració es realitza amb els de venciment a llarg termini quan l'efecte d'actualitzar els fluxos no és significatiu. En cas contrari, es valoren pel seu valor raonable i posteriorment a cost amortitzat, reconeixent els interessos meritats en funció del seu tipus d'interès efectiu com a ingressos de l'exercici.
 En tot cas, les fiances i dipòsits constituïts es valoren sempre per l'import lliurat.
-b)	Actius financers disponibles per a la venda
+b) Actius financers disponibles per a la venda
 Inclou els actius financers que no compleixin els requisits per a ser inclosos en alguna de les categories anteriors. Es valoren en tot moment pel seu valor raonable, i els canvis que es produeixen en aquest es registren en el patrimoni net fins a la seva alienació o deteriorament.
-c)	Inversions en el patrimoni de les entitats del grup, multigrup i associades
+c) Inversions en el patrimoni de les entitats del grup, multigrup i associades
 Inclou els actius financers corresponents a les entitats del grup, multigrup i associades d'acord amb la definició de les normes per a la formulació de les comptes anuals consolidats en l'àmbit del sector públic aprovades per l'Ordre HAP/1489/2013, de 18 de juliol.
 Les participacions en societats mercantils i associades han estat valorades inicialment a cost, que equival al valor raonable de la contraprestació entregada més els costos de transacció que li siguin directament atribuïbles.
 Les participacions en la resta d'entitats del grup, multigrup i associades han
 estat valorades inicialment conforme a les normes 18-, apartat 4, i 19- del Pla general de comptabilitat pública adaptat a l'Administració local, així com a les notes o aspectes particulars emeses per la IGAE sobre l'obertura comptable de l'exercici 2015 (apartat V.9è), i en concret:
-•	A l'import de les aportacions efectuades en concepte d'adscripció de béns per les entitats locals a ens dependents o vinculats per un valor equivalent al dels béns adscrits en el moment de l'adscripció.
-•	A l'import de les aportacions efectuades en concepte de cessió de béns per les entitats locals a ens dependents o vinculats per un valor equivalent al dels béns lliurats en cessió en el moment de l'adscripció.
-•	A l'import de les aportacions patrimonials inicials directes, així com les posteriors ampliacions per l'assumpció de noves competències dels ens vinculats.
+• A l'import de les aportacions efectuades en concepte d'adscripció de béns per les entitats locals a ens dependents o vinculats per un valor equivalent al dels béns adscrits en el moment de l'adscripció.
+• A l'import de les aportacions efectuades en concepte de cessió de béns per les entitats locals a ens dependents o vinculats per un valor equivalent al dels béns lliurats en cessió en el moment de l'adscripció.
+• A l'import de les aportacions patrimonials inicials directes, així com les posteriors ampliacions per l'assumpció de noves competències dels ens vinculats.
 No obstant les inversions en el patrimoni d'entitats del sector públic administratiu
 realitzades amb anterioritat a l'entrada en vigor de la IMNCL 2013 estan valorades
 pel valor del patrimoni lliurat en adscripció a aquelles entitats a 31. 12.2014 i en
@@ -299,38 +299,38 @@ Baixa d'actius financers
 Es registra la baixa d'un actiu financer o d'una part del mateix quan ha expirat
 o s'han transmès els drets sobre els fluxos d'efectiu que genera i els riscos i
 avantatges inherents a la seva propietat de forma substancial.
-4.7.2.	Passius financers
+4.7.2. Passius financers
 La totalitat dels passius financers es classifiquen en la categoria de passius financers a cost amortitzat. Inclouen:
-•	Dèbits i partides a pagar per operacions derivades de l'activitat habitual.
-•	Deutes amb entitats de crèdit.
-•	Deutes representats en valors negociables emesos.
-•	Altres dèbits i partides a pagar.
+• Dèbits i partides a pagar per operacions derivades de l'activitat habitual.
+• Deutes amb entitats de crèdit.
+• Deutes representats en valors negociables emesos.
+• Altres dèbits i partides a pagar.
 Com a norma general, els dèbits i les partides a pagar amb venciment a curt termini sense interès contractual es valoren, tant en el moment del reconeixement inicial com posteriorment, pel seu valor nominal. La mateixa valoració es realitza amb els de venciment a llarg termini i els préstecs rebuts a llarg termini amb interessos subvencionats quan l'efecte global de no actualitzar els fluxos no és significatiu. En cas que sigui significatiu, es valoren inicialment pel valor actual dels fluxos d'efectiu a pagar, sobre una taxa equivalent a l'aplicable als pagaments ajornats i, posteriorment, a cost amortitzat, reconeixent els interessos meritats en funció del seu tipus d'interès efectiu com a ingressos de l'exercici. En tot cas, les fiances i els dipòsits rebuts es valoren sempre per l'import rebut.
 Reconeixement
 El reconeixement comptable dels passius financers es realitza a la data establerta en el contracte o acord a partir de la qual l'Ajuntament contrau l'obligació. En les operacions de tresoreria formalitzades amb pòlissa de crèdit, les obligacions es contrauen amb la recepció de les successives disponibilitats de fons. Es classifiquen com a no corrent quan el seu venciment és superior a un any i com a corrent quan és inferior.
 Baixa de passius financers
 Com a norma general, es registra la baixa d'un passiu financer o d'una part del mateix quan l'obligació contreta s'ha complert o cancel·lat. En cas de produir-se una diferència entre el valor comptable i la contraprestació lliurada, es reconeixerà en el resultat de l'exercici que tingui lloc.
-4.7.3.	Contractes de garanties financeres
+4.7.3. Contractes de garanties financeres
 Són contractes que obliguen l'Ajuntament a fer o rebre uns pagaments específics pel reemborsament a un tercer per la pèrdua incorreguda quan un deutor (“garantit”) incompleix la seva obligació de pagament derivada, generalment, d'instruments de deute, tal com un aval.
 L'Ajuntament no té formalitzats contractes de garanties financeres.
-4.8.	Cobertures comptables
+4.8. Cobertures comptables
 Es valoren amb el mateix criteri que la partida coberta, és a dir, a cost amortitzat.
 En l'actualitat l'Ajuntament té subscrites operacions de cobertura de tipus d'interès, exclusivament.
-4.9.	Existències
+4.9. Existències
 L'Ajuntament no té actius considerats existències.
-4.10.	Actius construïts o adquirits per a altres entitats
+4.10. Actius construïts o adquirits per a altres entitats
 L'Ajuntament no té actius construïts o adquirits per a altres entitats.
-4.11.	Transaccions en moneda estrangera
+4.11. Transaccions en moneda estrangera
 Les transaccions en moneda distinta de l'euro es registren en el moment del seu
 reconeixement en euros, aplicant a l'import corresponent el tipus de canvi al
 comptat existent en la data de l'operació.
-4.12.	Ingressos i despeses
+4.12. Ingressos i despeses
 Els ingressos i les despeses es registren pel principi de meritació i, en els casos que sigui pertinent, pel de correlació entre ambdós.
 Pressupostàriament, els ingressos i despeses s'incorporen a la liquidació
 pressupostària en el moment en què es produeix l'acte administratiu de
 reconeixement dels respectius drets i obligacions.
-4.12.1.	Ingressos
-a)	Ingressos amb contraprestacions
+4.12.1. Ingressos
+a) Ingressos amb contraprestacions
 Com a norma general, els ingressos es registren pel valor raonable de la
 contraprestació i representen els imports a cobrar pels béns lliurats i els serveis
 prestats en el curs ordinari de les activitats de l'Ajuntament, deduïdes les
@@ -350,23 +350,23 @@ de la prestació a la data dels comptes anuals, o de forma lineal quan el servei
 presta durant un període determinat.
 Quan no pot ser estimat de forma fiable, els ingressos són reconeguts en la
 quantia de les despeses reconegudes que es consideren recuperables.
-b)	Ingressos sense contraprestacions
+b) Ingressos sense contraprestacions
 En el cas dels impostos es reconeixerà l'ingrés i l'actiu quan tingui lloc el fet
 imposable i es satisfacin els criteris de reconeixement de l'actiu.
 En el cas de les multes i sancions es reconeixen quan sorgeix el dret a cobrar-les.
 Per a les multes el dret de cobrament es reconeix en el moment que s'estableix
 l'executivitat de l'acte d'imposició.
-4.12.2.	Despeses
+4.12.2. Despeses
 Les despeses de personal i altres despeses de gestió ordinària es reconeixen en el compte del resultat en el moment que merita l'obligació, amb independència del moment en què es produeixi el corrent monetari que se'n deriva.
-4.13.	Provisions i contingències
+4.13. Provisions i contingències
 Es reconeix una provisió quan l'Ajuntament té una obligació present (legal, contractual o implícita) resultat d'un succés passat que, probablement, implicarà el lliurament d'uns recursos que es poden estimar de forma fiable.
 Les provisions es troben valorades pel valor actual dels desemborsaments que s'espera que seran necessaris per liquidar l'obligació, actualitzats a una taxa de descompte equivalent al tipus de deute públic per un venciment anàleg. Els ajustaments en la provisió amb motiu de la seva actualització es reconeixen com una despesa financera a mesura que es van reportant. Quan el seu venciment és inferior o igual a un any i l'efecte financer no és significatiu, no es descompten.
 Les provisions o contingències provinents de reclamacions, procediments, judicis o litigis en procés, o que hagin tingut sentència o hagin estat resolts en l'exercici, no es registren si el seu import estimat en contra es troba íntegrament cobert mitjançant pòlisses vigents o similars.
 Al tancament de l'exercici, les provisions són objecte de revisió i ajustades, si escau, per a reflectir la millor estimació existent en aquest moment. Quan no són ja pertinents o probables, es procedeix a la seva reversió amb contrapartida al corresponent compte d'ingrés de l'exercici.
 Per a la quantificació de les provisions, es recorre a informes interns i, si escau, d'experts externs, i a l'experiència de l'Ajuntament en successos similars, que permetin establir la base de les estimacions de cadascun dels desenllaços possibles, així com del seu efecte financer.
 En el cas dels consorcis es recull el risc existent, en funció de la participació de l'Ajuntament, en aquells ens que tenen un patrimoni net negatiu.
-4.14.	Transferències i subvencions
-4.14.1.	Transferències i subvencions rebudes
+4.14. Transferències i subvencions
+4.14.1. Transferències i subvencions rebudes
 Les subvencions que tinguin caràcter reintegrable es registren com a passius fins que compleixin les condicions per a considerar-se no reintegrables, mentre que les subvencions no reintegrables es registren coma ingressos directament imputats al patrimoni net i es reconeixen com a ingressos sobre una base sistemàtica i racional de forma correlacionada amb les despeses derivades de la subvenció.
 A aquests efectes, una subvenció es considera no reintegrable quan existeix un acord individualitzat de concessió de la subvenció i s'han complert totes les condicions establertes per a la seva concessió i no existeixen dubtes raonables de que es cobrarà.
 Les subvencions de caràcter monetari es valoren pel valor raonable de l'import concedit referit al moment del seu reconeixement.
@@ -374,32 +374,32 @@ Les subvencions no reintegrables relacionades amb l'adquisició de l'immobilitza
 D'altra banda, les subvencions no reintegrables relacionades amb despeses específiques es reconeixen en el compte del resultat econòmic patrimonial en el mateix exercici en què es meriten les corresponents despeses.
 Al tancament de l'exercici es considera que no existeixen dubtes raonables envers el compliment de les condicions i requisits associats a les subvencions rebudes, pel que han estat considerades com a no reintegrables i, per tant, han estat
 registrades directament com a ingressos en el patrimoni net.
-4.14.2.	Transferències i subvencions atorgades
+4.14.2. Transferències i subvencions atorgades
 Les transferències i subvencions atorgades es comptabilitzen com a despeses en el moment que es tingui constància que s'han complert les condicions establertes per a la seva percepció. En cas que al tancament de l'exercici estigui pendent el
 compliment d'alguna de les condicions establertes per a la seva percepció, però
 no existeixin dubtes raonables sobre el seu futur compliment, es dota una provisió pels corresponents imports, amb la finalitat de reflectir la despesa.
-4.15.	Activitats conjuntes
+4.15. Activitats conjuntes
 L'Ajuntament no ha realitzat cap activitat conjunta en l'exercici.
-4.16.	Actius en estat de venda
+4.16. Actius en estat de venda
 L'Ajuntament no té actius en estat de venda.
-5.	Immobilitzat material
-5.1.	Moviment de l'exercici
-5.2.	Informació de l'exercici
+5. Immobilitzat material
+5.1. Moviment de l'exercici
+5.2. Informació de l'exercici
 Les inversions més rellevants de l'exercici corresponen a:
 Al tancament de l'exercici, el cost d'adquisició de béns que es troben totalment amortitzats i que segueixen en ús ascendeix a 317.017.233,10 euros.
 El període de vida útil dels béns immobles comença a partir del mes següent a aquell en què s'ha registrat en el sistema la posada en funcionament de l'actiu; en el cas dels béns mobles i de les infraestructures és a partir de l'any següent.
 Respecte als costos d'ampliació, modernització o millora s'afegeixen a l'import del valor comptable de l'element a la finalització de l'actuació. L'amortització d'aquests costos es porta a terme per els anys restants d'amortització de l'element principal.
 En l'exercici 2017 no s'han realitzat grans reparacions o inspeccions generals, ni desmantellament de l'actiu, ni restauració del seu emplaçament, ni s'han activat costos per treballs realitzats per l'Ajuntament per al seu immobilitzat.
-5.3.	Circumstàncies que afecten a la titularitat de l'immobilitzat material
+5.3. Circumstàncies que afecten a la titularitat de l'immobilitzat material
 No existeix cap tipus de restricció sobre la titularitat dels béns que integren l'immobilitzat material de l'Ajuntament ni cap d'ells es troba sotmès a litigi o ha estat ofert en garantia del pagament de deutes.
-5.4.	Infraestructures
+5.4. Infraestructures
 El detall del cost de l'epígraf d'infraestructures és com segueix:
-5.5.	Altres circumstàncies de caràcter substantiu
+5.5. Altres circumstàncies de caràcter substantiu
 Al llarg de l'exercici 2017 la Comissió de Govern va acordar l'adquisició de vuit finques per un import total de 48.040.206,55 euros.
 A conseqüència de circumstàncies concurrents en les diferents operacions, a data d'aquests comptes anuals no han estat perfeccionades les transmissions jurídiques de les finques relacionades. No obstant això, els béns han estat incorporats al patrimoni de l'Ajuntament ja que s'han transmès els riscos i els avantatges inherents a la propietat dels actius no existint, per tant, en termes racionals d'incertesa, la possibilitat de rescissió contractual.
-6.	Patrimoni públic del sòl
-6.1.	Moviment de l'exercici
-6.2.	Informació de l'exercici
+6. Patrimoni públic del sòl
+6.1. Moviment de l'exercici
+6.2. Informació de l'exercici
 Les inversions més rellevants de l'exercici corresponen a:
 El període de vida útil comença a partir del mes següent a aquell en què s'ha
 registrat en el sistema la posada en funcionament de l'actiu.
@@ -407,50 +407,50 @@ Respecte als costos d'ampliació, modernització o millora s'afegeixen a l'impor
 En l'exercici 2017 no s'han realitzat grans reparacions o inspeccions generals, ni
 desmantellament de l'actiu, ni restauració del seu emplaçament, ni s'han activat
 costos per treballs realitzats per l'Ajuntament per al seu immobilitzat.
-7.	Inversions immobiliàries
-7.1.	Moviment de l'exercici
-7.2.	Informació de l'exercici
+7. Inversions immobiliàries
+7.1. Moviment de l'exercici
+7.2. Informació de l'exercici
 El període de vida útil comença a partir del mes següent a aquell en què s'ha registrat en el sistema la posada en funcionament de l'actiu.
 Respecte als costos d'ampliació, modernització o millora s'afegeixen a l'import del valor comptable de l'element a la finalització de l'actuació. L'amortització d'aquests costos es porta a terme per els anys restants d'amortització de l'element principal.
 En l'exercici 2017 no s'han realitzat grans reparacions o inspeccions generals, ni desmantellament
 de l'actiu, ni restauració del seu emplaçament, ni s'han activat costos per treballs realitzats per
 l'Ajuntament per al seu immobilitzat.
-7.3.	Descripció de les inversions immobiliàries
+7.3. Descripció de les inversions immobiliàries
 Recull aquells immobles pels quals s'obtenen rendes significatives com són el Centre de Convencions,
 l'Auditori de l'edifici Fòrum, el Port del Fòrum, així com l'immoble destinat a Ecopark - solar.
-8.	Immobilitzat intangible
-8.1.	Moviment de l'exercici
-8.2.	Descripció de l'immobilitzat intangible
+8. Immobilitzat intangible
+8.1. Moviment de l'exercici
+8.2. Descripció de l'immobilitzat intangible
 El detall de l'epígraf de “altre immobilitzat intangible” és com segueix:
-8.3.	Informació de l'exercici
+8.3. Informació de l'exercici
 Al tancament de l'exercici el cost d'adquisició de béns que es troben totalment amortitzats i que segueixen en ús ascendeix a 31.506.942,26 euros.
-8.4.	Circumstàncies que afecten la titularitat de l'immobilitzat intangible
+8.4. Circumstàncies que afecten la titularitat de l'immobilitzat intangible
 No existeix cap tipus de restricció sobre la titularitat dels béns que integren l'immobilitzat intangible de l'Ajuntament ni cap d'ells es troba sotmès a litigi o ha estat ofert en garantia del pagament de deutes.
-9.	Arrendaments financers i altres operacions de naturalesa similar
+9. Arrendaments financers i altres operacions de naturalesa similar
 L'Ajuntament no disposa de béns en règim d'arrendament financer.
-10.	Actius financers
-10.1.	Informació relacionada amb el balanç
-a)	Estat resum de la conciliació entre la classificació dels actius financers del
+10. Actius financers
+10.1. Informació relacionada amb el balanç
+a) Estat resum de la conciliació entre la classificació dels actius financers del
 balanç i les categories establertes en la norma de reconeixement i valoració 8 d'actius financers:
 El detall de les inversions en entitats del grup, multigrup i associades és com segueix:
 Els actius financers disponibles per a la venda es refereixen a la participació de l'Ajuntament a les societats Nauta Tech Invest III, SCR i Port Fòrum Sant Adrià, SL per 2.910.928,72 euros i 12.822,99 euros, i altres participacions per 599,02 euros.
-b)	Reclassificacions.
+b) Reclassificacions.
 L'Ajuntament no ha reclassificat durant l'exercici cap actiu financer que hagi exigit un canvi de valoració, ja sigui de cost amortitzat a valor raonable, o a la inversa.
-c)	Actius financers lliurats en garantia
+c) Actius financers lliurats en garantia
 Durant l'exercici ni a la data de tancament l'Ajuntament no ha lliurat o manté actius financers en garantia del pagament de deutes.
-d)	Correccions pel deteriorament del valor
+d) Correccions pel deteriorament del valor
 Les disminucions de valor per deteriorament de l'exercici corresponen a Fira 2000, SA, per import de 50.887.655,50 euros i a Barcelona Emprèn CR, SA, per import de 336.588,40 euros.
-10.2.	Informació relacionada amb el compte del resultat econòmic-patrimonial.
-a)	Resultats nets obtinguts en l'exercici de les diferents categories d'actius financers.
+10.2. Informació relacionada amb el compte del resultat econòmic-patrimonial.
+a) Resultats nets obtinguts en l'exercici de les diferents categories d'actius financers.
 Els resultats nets obtinguts en relació als actius financers que s'han classificat en la categoria de crèdits i partides a cobrar han suposat un abonament al compte de resultats de 5.474.569,33 euros.
-b)	Ingressos financers calculats per l'aplicació del mètode del tipus d'interès efectiu.
+b) Ingressos financers calculats per l'aplicació del mètode del tipus d'interès efectiu.
 El compte del resultat econòmic-patrimonial de l'exercici no recull ingressos financers calculats d'aquesta manera.
-10.3.	Informació sobre els riscos de tipus de canvi i de tipus d'interès
-a)	Riscos de tipus de canvi.
+10.3. Informació sobre els riscos de tipus de canvi i de tipus d'interès
+a) Riscos de tipus de canvi.
 L'Ajuntament no té inversions ni manté saldos a cobrar en moneda diferent de l'euro que siguin significatius i, per tant, no té riscos d'aquest tipus.
-b)	Riscos de tipus d'interès.
+b) Riscos de tipus d'interès.
 L'Ajuntament no manté actius financers valorats a cost amortitzat, de manera que no té riscos d'aquesta naturalesa.
-10.4.	Altra informació
+10.4. Altra informació
 a) Crèdits d'operacions habituals.
 Al tancament de l'exercici, el saldo a llarg termini pendent de cobrament corresponent a les operacions habituals de l'Ajuntament, “deutors i altres comptes a cobrar”, correspon a deutes per ajornaments o fraccionaments de tributs.
 El saldo a curt termini per les operacions habituals, “deutors i altres comptes a cobrar”, es detalla a continuació:
@@ -463,35 +463,35 @@ b) Efectiu i altres actius líquids.
 A la data de tancament de l'exercici el saldo d'aquest epígraf està integrat per un total de 76 comptes bancaris que han presentat el següent moviment global:
 Als saldos a 31 de desembre s'inclou els saldos que a la data figuraven com a
 inversions financeres temporals.
-c)	Política d'inversions
+c) Política d'inversions
 En relació als excedents temporals de tresoreria, les bases d'execució del
 pressupost de l'Ajuntament de Barcelona determinen que es podran rendibilitzar
 mitjançant inversions que reuneixin les condicions de liquiditat i seguretat previstes en el Real Decret 2/2004 TRLRHL.
-11.	Passius financers
-11.1.	Situació i moviment dels deutes amb entitats de crèdit
+11. Passius financers
+11.1. Situació i moviment dels deutes amb entitats de crèdit
 a) Detall dels deutes mantinguts per l'Ajuntament al tancament de l'exercici valorats a cost amortitzat
-b)	Detall dels deutes mantinguts per l'Ajuntament al tancament de l'exercici a valor raonable
+b) Detall dels deutes mantinguts per l'Ajuntament al tancament de l'exercici a valor raonable
 L'Ajuntament no manté en balanç passius financers a valor raonable, ni durant l'exercici ha registrat operacions que haguessin de registrar-se a valor raonable.
-c)	Resum per categories
-11.2.	Línies de crèdit
+c) Resum per categories
+11.2. Línies de crèdit
 Durant l'exercici, l'Ajuntament no ha contractat cap línia de crèdit ni tampoc a la data de tancament es mantenen deutes per operacions d'aquesta naturalesa.
-11.3.	Informació sobre els riscos de tipus de canvi i de tipus d'interès
-a)	Riscos de tipus de canvi
+11.3. Informació sobre els riscos de tipus de canvi i de tipus d'interès
+a) Riscos de tipus de canvi
 L'Ajuntament no té deutes en moneda diferent de l'euro i, per tant, no té riscos d'aquest tipus.
-b)	Riscos de tipus d'interès
+b) Riscos de tipus d'interès
 La classificació del deute a 31 de desembre de 2017 segons el risc de tipus d'interès és la següent:
-11.4.	Avals i altres garanties concedides
-a)	Avals concedits
+11.4. Avals i altres garanties concedides
+a) Avals concedits
 Durant l'exercici, l'Ajuntament no ha atorgat avals a favor de tercers, ni a la data de tancament manté avals atorgats a tercers.
-b)	Avals executats
+b) Avals executats
 Per la raó que s'assenyala a l'apartat a) anterior no s'han executat avals dels que hagi de respondre l'Ajuntament.
-c)	Avals reintegrats
+c) Avals reintegrats
 En no mantenir avals a favor de tercers, ni haver de fer-se càrrec en exercicis anteriors de deutes de tercers, en l'exercici no s'han reintegrat avals a favor de l'Ajuntament.
-11.5.	Altra informació relativa a deutes amb entitats de crèdit
+11.5. Altra informació relativa a deutes amb entitats de crèdit
 El cost mitjà del deute durant l'exercici 2017 ha estat del 2,11%, i la vida mitjana a 31 de desembre de 2017 es situa en 6,8 anys.
 El perfil del deute per venciments a 31 de desembre de 2017 es detalla a continuació:
 L'Ajuntament no manté deutes amb garantia real.
-11.6.	Altra informació relativa a altres deutes
+11.6. Altra informació relativa a altres deutes
 a) Detall dels deutes mantinguts per l'Ajuntament al tancament de l'exercici valorats a cost amortitzat
 L'import total de la liquidació definitiva negativa de la participació als tributs de
 l'Estat corresponent a l'exercici 2008 va ascendir a 93.487 milers d'euros, mentre que la corresponent a l'exercici 2009 va ser també negativa per 304.284 milers d'euros. D'acord amb allò previst a la Llei 2/2012, de 29 de juny, de Pressupostos Generals de l'Estat de l'exercici 2012, el termini fins a desembre 2014 de
@@ -507,15 +507,15 @@ b) Detall dels deutes mantinguts per l'Ajuntament al tancament de l'exercici a
 valor raonable
 L'Ajuntament no manté en balanç passius financers a valor raonable, ni durant
 l'exercici ha registrat operacions que haguessin de registrar-se a valor raonable.
-c)	Resum per categories
-11.7.	Altra informació relativa a deutes amb entitats del grup, multigrup i associades
+c) Resum per categories
+11.7. Altra informació relativa a deutes amb entitats del grup, multigrup i associades
 Els deutes amb entitats del grup, multigrup i associades es detallen a continuació:
-11.8.	Creditors i altres comptes a pagar a curt termini
+11.8. Creditors i altres comptes a pagar a curt termini
 El detall del saldo d'aquest epígraf es detalla a continuació:
-11.9.	Informació sobre el període mig de pagament a proveïdors: Disposició addicional tercera, “Deure d'informació” de la Llei 15/2010, de 5 de juliol
+11.9. Informació sobre el període mig de pagament a proveïdors: Disposició addicional tercera, “Deure d'informació” de la Llei 15/2010, de 5 de juliol
 En relació al que preveu la Llei 15/2010, de 5 de juliol, de mesures de lluita contra la morositat en operacions comercials, i pel que fa a les obligacions dels contractes formalitzats a data 31 de desembre de 2017 es facilita la següent informació:
 L'Ajuntament no ha impagat cap dels deutes contrets, mantenint els terminis de pagament d'acord amb la normativa que li resulta d'aplicació.
-12.	Cobertures comptables
+12. Cobertures comptables
 L'Ajuntament de Barcelona manté vigent una cobertura comptable per import
 total de 60.000.000,00 euros a 31 de desembre de 2017. Aquesta cobertura
 comptable correspon a una permuta financera de tipus d'interès contractada per compensar les variacions en els fluxos d'efectiu de la partida coberta donat el risc de tipus d'interès al que està efectivament exposat. La naturalesa de la partida
@@ -526,18 +526,18 @@ Donat que es compleixen els requisits definits per la IMNCL, l'instrument de
 cobertura de tipus d'interès que l'Ajuntament de Barcelona manté vigent a 31 de
 desembre de 2017 es valora amb el mateix criteri que la partida coberta i que és
 el de valor a cost amortitzat. En aquest sentit el valor comptable de la cobertura a l'inici i tancament de l'exercici 2017 és de 60M€.
-13.	Actius construïts o adquirits per a altres entitats i altres
+13. Actius construïts o adquirits per a altres entitats i altres
 existències
 No s'han produït operacions d'aquesta naturalesa durant l'exercici, ni a la data de tancament es mantenen en balanç saldos derivats d'aquestes operacions.
-14.	Moneda estrangera
+14. Moneda estrangera
 A la data de tancament de l'exercici 2017, l'Ajuntament disposa de dos comptes corrents en dòlars, amb un saldo de 18.000 dòlars i 34.000 dòlars. El seu contravalor en llibres a 31 de desembre de 2017 és de 15.008,75 euros i 28.349,87 euros respectivament. Les diferències de valor reconegudes en l'exercici per aquest concepte ascendeixen a 5.972,55 euros.
-15.	Transferències, subvencions i altres ingressos i despeses
-15.1.	Transferències i subvencions rebudes
-15.2.	Despeses
+15. Transferències, subvencions i altres ingressos i despeses
+15.1. Transferències i subvencions rebudes
+15.2. Despeses
 a) Transferències i subvencions atorgades
 No s'han produït reintegraments per incompliment de les condicions o requisits per a gaudir de les subvencions.
 b) Subministraments i serveis
-16.	Provisions i contingències
+16. Provisions i contingències
 El detall del moviment durant l'exercici de les provisions reconegudes en el passiu del balanç, tant a curt com a llarg termini, ha estat el següent:
 El saldo de la provisió té per objecte cobrir els costos econòmics d'aquelles
 obligacions de caràcter contingent o probable.
@@ -555,7 +555,7 @@ incrementar la massa salarial dels funcionaris per als anys 2007 i 2008.
 La sentència 528/2017 de 12 de setembre de 2017 va estimar un recurs d'apel·lació on es reconeixia el dret a percebre interessos per les quantitats abonades en virtut de la sentència 632/2013.
 L'Ajuntament ha presentat recurs de cassació però, davant la possibilitat de no
 admissió o de sentència desfavorable, la Gerència de Recursos Humans ha estimat que el compliment d'aquesta segona sentència tindria un cost estimat de 10 milions d'euros.
-16.1.	Passius contingents
+16.1. Passius contingents
 La STC 59/2017 d'11 de maig, va declarar inconstitucionals i nuls els arts. 107.1,
 107.2.a) i 110.4 del TRLHL, aprovat pel RDL 2/2004, de 5 de març, en la mesura en
 què sotmeten a tributació situacions d'inexistència d'increments de valor en relació a l'impost sobre l'increment de valor dels terrenys de naturalesa urbana.
@@ -572,47 +572,47 @@ contenciosos en tramitació als jutjats i tribunals que es qualifiquen amb risc
 possible, d'entre els quals cal fer esment a un assumpte on es reclama en concepte de responsabilitat patrimonial i que té el seu origen en un ordre de cessament de l'activitat desenvolupada per una empresa al portar a terme una activitat diferent a l'autoritzada.
 Existeixen tres assumptes amb risc probable però sobre els quals no ha estat
 possible dur a terme una quantificació del cost de la sentència. Aquests assumptes corresponen a una llicència d'obres per a la construcció de dos habitatges unifamiliars i a dues llicències d'obres per la construcció de dos establiments hotelers.
-16.2.	Actius contingents
+16.2. Actius contingents
 A la data de tancament de l'exercici, l'Ajuntament no té actius de naturalesa
 contingent dels que calgui informar en la memòria.
-17.	Informació sobre el medi ambient
+17. Informació sobre el medi ambient
 L'Ajuntament ha registrat les següents obligacions amb càrrec als programes de la política de despesa 17 “Medi ambient”:
-18.	Actius en estat de venda
+18. Actius en estat de venda
 A la data de tancament, l'Ajuntament no manté en balanç actius no corrents el valor comptable dels quals hagi de recuperar-se a través de la seva venda.
-19.	Presentació per activitats del compte del resultat econòmic-patrimonial
+19. Presentació per activitats del compte del resultat econòmic-patrimonial
 El compte de resultats econòmic patrimonial de l'Ajuntament de Barcelona classificat per activitats és com segueix:
 Per a la seva elaboració s'han tingut en compte les normes següents:
 a) Ingressos: classificació dels ingressos totals en les categories d'ingressos de gestió ordinària, ingressos financers i altres ingressos.
 b) Despeses: les despeses pressupostàries recollides als capítols 1 a 5 del
 pressupost des despeses corrents de l'Ajuntament, classificades per política de despesa. La resta de despeses del compte de resultats econòmic patrimonial, distribuïdes en les diferents polítiques de despesa en la proporció que, sobre la despesa total pressupostària, suposa cada una de les polítiques de despesa.
-20.	Operacions per administració de recursos per compte d'altres ens públics
+20. Operacions per administració de recursos per compte d'altres ens públics
 El saldo inclòs a l'actiu del balanç fa referència als drets pendent de cobrar del
 tercer en relació al desenvolupament de la gestió d'administració de recursos per
 compte d'altres ens públics (nota 20.3 a).
 El saldo inclòs al passiu del balanç és l'import de la nota 20.3 a) -ja que aquests
 drets pendent de cobrar hauran de lliurar-se a l'ens pel qual es fa l'administració-
 més el saldo dels imports ja recaptats del tercer però pendents de lliurar a l'ens pel qual es fa l'administració, i reflectits a la nota 20.1.
-20.1.	Obligacions derivades de la gestió
-20.2.	Ens públics, comptes corrents en efectiu
+20.1. Obligacions derivades de la gestió
+20.2. Ens públics, comptes corrents en efectiu
 L'Ajuntament no utilitza aquests comptes ja que no es realitzen lliuraments d'efectiu a compte de la liquidació definitiva.
 20.3. Desenvolupament de la gestió
 a) Resum
 b) Drets anul·lats
 c) Drets cancel·lats
 d) Devolució d'ingressos
-21.	Operacions no pressupostàries de tresoreria
+21. Operacions no pressupostàries de tresoreria
 A continuació s'informa sobre les operacions no pressupostàries de tresoreria que comprenen aquelles operacions realitzades durant l'exercici que han donat lloc al naixement o extinció de:
 • Deutors i creditors que, d'acord amb la normativa vigent per a l'Ajuntament, no s'hagin d'imputar al seu pressupost, ni en el moment del seu naixement ni en el del seu venciment.
 • Partides representatives de cobraments i pagaments pendents d'aplicació definitiva, tant per operacions pressupostàries com no pressupostàries.
-21.1.	Estat de deutors no pressupostaris
-21.2.	Estat de creditors no pressupostaris
-21.3.	Estat de partides pendents d'aplicació
+21.1. Estat de deutors no pressupostaris
+21.2. Estat de creditors no pressupostaris
+21.3. Estat de partides pendents d'aplicació
 a) Cobraments pendents d'aplicació
 b) Pagaments pendents d'aplicació
 Al tancament de l'exercici l'Ajuntament no té pagaments pendents d'aplicació.
-22.	Contractació administrativa. Procediments d'adjudicació
+22. Contractació administrativa. Procediments d'adjudicació
 A continuació es detallen els imports agregats de les contractacions administratives realitzades en l'exercici en funció del seu procediment d'adjudicació.
-23.	Valors rebuts en dipòsit
+23. Valors rebuts en dipòsit
 24. Informació pressupostària
 24.1. Exercici corrent
 24.1.1. Pressupost de despeses a) Modificacions de crèdit
@@ -625,19 +625,19 @@ a2) Drets cancel·lats
 a3) Recaptació neta
 b) Devolucions d'ingressos
 c) Compromisos d'ingrés
-24.2.	Exercicis tancats
-24.2.1.	Pressupost de despeses. Obligacions de pressupostos tancats
-24.2.2.	Pressupost d'ingressos. Drets a cobrar de pressupostos tancats a) Drets pendents de cobrament totals
+24.2. Exercicis tancats
+24.2.1. Pressupost de despeses. Obligacions de pressupostos tancats
+24.2.2. Pressupost d'ingressos. Drets a cobrar de pressupostos tancats a) Drets pendents de cobrament totals
 b) Drets anul·lats
 b) Drets cancel·lats
 24.2.3. Variació de resultats
-24.3.	Exercicis posteriors
-24.3.1.	Compromisos de despesa amb càrrec a pressupostos d'exercicis posteriors
-24.3.2.	Compromisos d'ingrés amb càrrec a pressupostos d'exercicis posteriors
-24.4.	Despeses amb finançament afectat
-24.5.	Romanent de tresoreria
+24.3. Exercicis posteriors
+24.3.1. Compromisos de despesa amb càrrec a pressupostos d'exercicis posteriors
+24.3.2. Compromisos d'ingrés amb càrrec a pressupostos d'exercicis posteriors
+24.4. Despeses amb finançament afectat
+24.5. Romanent de tresoreria
 L'estat del romanent de tresoreria que resulta de la liquidació del pressupost de l'exercici i de pressupostos d'exercicis anteriors és el següent:
-25.	Indicadors financers, patrimonials i pressupostaris
+25. Indicadors financers, patrimonials i pressupostaris
 a) Indicadors financers i patrimonials
 • Liquiditat immediata:
 Fons líquids
@@ -727,7 +727,7 @@ Saldo inicial d'obligacions (± modificacions i anul·lacions)
 Cobraments
 --------------------------------------------- =20,21%
 Saldo inicial drets (± modificacions i anul·lacions)
-26.	Informació sobre el cost de les activitats
+26. Informació sobre el cost de les activitats
 Els resultats facilitats en aquest apartat i el següent dona compliment a la informació sobre el cost de les activitats i indicadors de gestió establerts en l'ordre HAP/1781/2013, instrucció del model normal de comptabilitat pública en el sentit de presentar almenys pels serveis i activitats finançades amb taxes i preus públics.
 En relació a aquests imports cal remarcar que son un extracte dels resultats del model de costos de l'Ajuntament de Barcelona, basat en el model de costos ABC (Activity Based Costing) en el que s'han considerat únicament aquelles activitats-tasques que tenen en el seu finançament via taxes o preus públics.
 Resum general de costos de l'ajuntament
@@ -743,7 +743,7 @@ Animals: Protecció i control d'animals: Centre d'Acollida d'Animals de Companyi
 Assessoraments i Formació: Formació externa donada pels bombers
 Resum dels costos per activitat
 Resum relacionant costos i ingressos de les activitats
-27.	Indicadors de gestió
+27. Indicadors de gestió
 Tal i com s'indica a la nota 26 es presenten únicament els indicadors que fan referència als serveis i activitats finançades amb taxes i preus públics.
 Així mateix cal indicar que en l'actualitat s'estan adaptant els sistemes i definint els procediments per poder determinar tots els indicadors d'eficàcia, eficiència i economia, i de mitjans de producció que estableix la vigent Instrucció.
 Actuació urbanística: Expedients d'execució subsidiària
@@ -814,16 +814,16 @@ Tràmits dels districtes: Llicències d'activitats
 1.639.375,34 €
 ----------------= 6.117,07 € / revisió
 268 revisions
-28.	Fets posteriors al tancament
+28. Fets posteriors al tancament
 Entre la data de tancament de l'exercici i la de formulació dels comptes anuals no s'han produït fets significatius que hagin d'informar-se o què hagin de donar lloc a la incorporació d'ajustaments en les xifres contingudes en els comptes anuals.
-29.	Altra informació
+29. Altra informació
 a) Ajustaments per periodificació de passiu
 El moviment de l'epígraf d'ajustaments per periodificació a llarg termini a l'exercici 2017 ha estat el següent:
 El saldo a 31 de desembre de 2017 correspon a ingressos rebuts per avançat pel dret d'utilització de béns de titularitat municipal. Els ingressos rebuts per avançat es traspassen anualment al compte de resultats de manera lineal en el decurs del període de la corresponent concessió, que es situa com a màxim a l'any 2092.
 Els ajustaments per periodificació a curt termini a l'exercici 2017 presenten el següent moviment:
 b) Honoraris dels auditors
 Els honoraris a percebre per Ernst & Young, SL, corresponents als serveis d'auditoria i despeses incorregudes per la prestació d'aquests serveis de l'exercici 2017 ascendeixen a 120 milers d'euros, IVA inclòs. Aquests honoraris, que es facturen a l'Ajuntament de Barcelona en virtut de l'expedient d'adjudicació del lot 1 del concurs d'auditoria, inclouen també els treballs d'auditoria dels comptes anuals consolidats del grup Ajuntament de Barcelona, control de qualitat i coordinació dels treballs i suport a la Intervenció General en l'exercici del control financer respecte de quinze subvencions.
-c)	Impostos i cotitzacions socials susceptibles d'inspecció
+c) Impostos i cotitzacions socials susceptibles d'inspecció
 Són susceptibles d'actuació inspectora tots els tributs i cotitzacions socials a què es troba subjecte l'Ajuntament per a tots els exercicis que no hagi transcorregut el termini de prescripció que estableix la normativa vigent. No s'espera que es meritin passius addicionals de consideració per a l'Ajuntament com a conseqüència d'eventuals actuacions inspectores.
 El Gerent Municipal de l'Ajuntament de Barcelona, en data 23 de maig de 2018, i en compliment dels requisits establerts a l'article 64 de la llei 1/2006 que regula el règim especial de Barcelona, procedeix a formular els comptes anuals compresos en aquest document, de les pàgines 1 a 84, corresponents a l'exercici anual acabat a 31 de desembre de 2017.
 El gerent municipal
