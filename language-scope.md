@@ -6,11 +6,12 @@ other languages, the official languages of EUROSAI member countries.
 The following table lists all the languages jointly with their coverage in
 InterCorp (https://intercorp.korpus.cz/) which includes manually-revised data parallel texts for many languages of our interest.
 
-The numbers are thousands of words in the given language; Czech is the pivot but no text is counted twice.
+The numbers are thousands of words in the given language available in InterCorp (IC); Czech is the pivot, no Czech text is counted twice.
+IC-Core is **manually aligned**, so if we can use InterCorp, then we can directly use these for our test sets.
 
 
-| Language  	| Code 	| Need         	| IC-Core	| IC-Synd	| IC-Presseurop	| IC-Acquis	| IC-Europarl	| IC-Subt	| IC-Bible	| IC-Total	|
-|----       	| ---  	| ---          	| ---    	| ---    	| ---          	| ---      	| ---        	| ---    	| ---     	| ---     	|
+| Need      	| Code 	| Language     	| IC-Core	| IC-Synd	| IC-Presseurop	| IC-Acquis	| IC-Europarl	| IC-Subt	| IC-Bible	| IC-Total	|
+|----      	| --- 	| ---         	| ---:   	| ---:   	| ---:         	| ---:     	| ---:       	| ---:   	| ---:    	| ---:    	|
 | EUROSAI   	| ar   	| Arabic       	| 34     	| 0      	| 0            	| 0        	| 0          	| 0      	| 0       	| 34      	|
 | EUROSAI   	| az   	| Azerbaijani  	|        	|        	|              	|          	|            	|        	|         	|         	|
 | EUROSAI   	| be   	| Belarusian   	| 5,319  	| 0      	| 0            	| 0        	| 0          	| 0      	| 0       	| 4,319   	|
