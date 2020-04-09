@@ -1,0 +1,344 @@
+06:48 Your internet connection is unstable.06:51
+07:15 Hide jmenuje se to hide07:18 
+07:38 Hi guys I thought 07:41 
+10:07 Machine translation10:09
+10:11 Named entities10:13 
+11:01 Present11:05 
+11:31 Full screen mode11:34
+11:41 Full screen11:43 
+13:28  Good morning. Welcome to the LangTools workshop. 
+On natural language processing and ehmm this time em because of the special circumstances ee the workshop is run remotely. 
+So I know that it will be hard it will be harder for you, em as the participants of the workshop and it will be also little harder for us ee as the presenters because we will be in less touch with you.  
+Ehm ehm yeah. 
+So let me start with a quick introduction and em overview of the workshop and then my colleagues will proceed em with their presentations of the various of the various topics. So, you have just arrived to the workshop em called LangTools or language processing tools and it is a workshop devoted to automated processing of text and speech eem with the goal ee to make this useful in your daily work, in your auditing practice. 
+So if you follow em the news then you know that artificial intelligence em has ehm is collecting successes accross all the various fields and finally it is em growing em up to the state ee where it can be useful for your e daily practice and this workshop is eeem the goal of the workshop is to explain to you where it can help and where you can expect ehm such help em in the coming years. 
+Em the computational linguistics ee is an area that ee builds together upon the research of languages em so linguistics, em mathematics and statistics and also computer science. And if you apply compu computational linguistics to some practical problems, then we usually call these results to belong to the natural language processing.
+I am sure you know some of these results em, so back then when em cell phones had their eehm nine keys ee on the hardware keyboard there was this faster method text input called T9, that is something which has been abandoned a while ago already. 
+Eehm but what has not been abandoned is lack of eehm focus and and grammar errors ee that people make when typing, so text corrections methods are something which is an early application of computational linguistics and you know ehm it from everyday em text editors ehm when when the machine is processing the text, it has to fairly eem em e i it has to do a fair processing of a of the text ee content to analyse where there is an error. In another area which you regularly use and you may not realise belongs to the computational li linguistics field is an internet search or any text analytics, if you have vast volumes of text, eem and you need to process them automatically, then eem you will need eem methods from our field.
+And eeem what we are also illustrating hopefully today ee with ee automatic subtitling, ee all multilingual processing ee and speech processing belongs also to our area.
+So some of the demos will be devoted em to eee your ee experiments with ee current tools for speech translation. 
+Ehm I would like to highlight eee that the importance of the field has been recognised by the European Union as well and ehm through many years eeehm the European Union has been sup has been supporting the field ee with various projects and eehm and gradually moving from the research area to the application area.
+Eee so eee the European ee Union is trying to make natural language processing a commodity in the same sense as electricities, commodity, eeem or ee the transport becomes a commodity. 
+So one of the services that eee all European countries can just apply for or institutions in these countries can apply for is e-translation, ee which is service of translation of documents, so you simply upload word document and it w it will be translated ee by the machine translation system developed by the commission. 
+Which is a result of series of research projects and we have been part of those in in some cases. 
+And eee the the difference of this system compared to other commercial services such as Google Translate or ee Microsoft Translator is that the data set on which it is trained is different, so it may be better suited for your legal style documents and also the data is not shipped overseas, and that's another benefit. 
+And ee ee of course it is for free for all European institutions. 
+Ee there is one important aspect that I need to highlight, ee so as you have noticed, we are researchers, we are not a company eee and eee and that means that we work on things that are still not quite finished. 
+So there is this scale called technology readiness level eee TRL and the various stages of the scale indicate how far ee is ee the technology from the core idea eeee over some prototypes or d designs and prototypes to the first working eee systems and finally eee to the systems that are deployed on the market and that have many happy users. 
+So these TRL levels go from one to nine and ee its important to know that we as researchers always work on the things that are still not finished.
+So normally we operate at the readiness levels between three and possibly seven, but not the nine. 
+So the the purpose of this workshop is not to show things that you can just buy somewhere ee in in in a system software shop.
+Eee eem the wor the purpose of the workshop is to show you technologies which are still under development and that will have their peaks in eee two, three, five, ten years from now maybe. 
+Ehm yeah.
+So the benefit eee of of this ee of this early eee demonstration ee is that we can work together, and we can collect the feedback from you and we can also stear the research towards ee uses of system so that in such a way so they would be helpful for you in your daily practice.
+Yeah. 
+So that's the technology readiness level and there is still ee further important distinction to make, and that is whether eee the particular technology is ready and and working for your eem your domain and your language or whether it is developped only in general.
+So ee the truth is, that most components of natural language processing systems these days are not programmed, they are trained or on the vast amounts of data. 
+And this training set-up means that you develop a generic system and you have to feed eee and eeehm eee so eee you have a generic system eee which is applicable to most languages and and most domains but you have to feed it with examples of how the system should behave on your particular domain and on your particular language pair.
+So that's the distinction between the method or model design and the in-domain training.
+So it takes years or decades ee to come up with a with a prototype was that with the system that ee provides the automatic speech recognition or machine translation.
+And then when you have this for one language pair.
+Then it normally takes months to, to adapt it to a particular domain, or particular language pair.
+So there is the ee.
+That's eee the an important fact to keep in mind.
+If you see something working, you still have to expect that it may not be out of the box ready for your ee set up, but it will not be too ehm long process, and it will not be too demanding to port it to ee, to your situation.
+So here is the overview of ee, of the program blocks of of the workshop.
+Eee.
+You have just ee obtained a brief overview of ehm lang language processing tools in general.
+And we'll start with named entity recognition, which is one of the low level, uhm natural language processing tools.
+But it is still it still can be pretty useful in your in your practice.
+Then we'll go over something which is very fancy, automatic question answering eehm
+so this is something that doesn't really work.
+And then ee after a , we'll have a mm a demonstration of machine translation and cross-lingual into information retrieval, uh, and also speech recognition and and speech translation.
+And ee after eee these demonstrations, where you were always try to ee, and play around with uh, with the stools yourself.
+We will have a discussion, where we would like ee to collect a feedback from you.
+So we would like to know at the end, which of these tools was most useful for you, and which seems to be uh, the most beneficial for your uh, upcoming daily work.
+Ee, if there are any things in the tool that could be improved, or if there is something which is not needed at all.
+And maybe if you also can like think beyond the ee, the workshop itself beyond the demonstrations, what other tools would be useful.
+So think about the tasks that you do every day and think about ehm the problems that you repeatedly have to solve a and mention these, because that it no through this discussion between you and us, it is possible that will propose some totally new, ee, in a new tools that no one ever, ee, has seen before, um, and that can heavily a speed up your your processing.
+So ee that is ee, that is the main summary of of this interaction.
+This workshop is not a presentation where we will be talking only and you will be listening.
+It will it will be a discussion, collaboration ee, to find the best jewels for language processing, that can help you in your daily practice.
+So I am now ee, handing ee over the presentation to the colleague of mine, Vilem Zohar, who is doing a name consider coaching, and yeah he is not here.
+So let's skip that, right.
+And I 'm handing over to question answering, ha ha, yeah. 24:13
+32:46 
+Good morning.
+My name is Thomas and I will tell you something about question answering.
+Now, imagine that you have a question and a really long document that probably contains the answer.
+In the old days, you would have to read through the document and find the answer yourself; in the near future the question answering technology will be able to find the answer for you.
+The technology readiness of this application is somewhere between six and seven, which means that it's almost ready to be prototyped in operational environment.
+Let me demonstrate a question answering system with a simple example.
+You can find the link to the example in your work worksheet under question answering task one. 33:31 
+33:34 Ehm.
+So if you click the link, it will lead you to this page, where you click default context and it will fill the context for you.
+You see that it's a aa paragraph of text about a conference, and now we can ask questions.
+So, let's ask when will the conference happen.
+Now you click submit query, and we see that the conference will be held on October 6th
+and 7th.
+Let's try another question, for example, who are the speakers.
+Several foreign experts have been invited.
+And some lecturers from FID will also speak as you see.
+And the final question for this part of the demonstration is how much does it cost. Participation is free of charge.
+Now, notice that the answer doesn't contain any words from the question.
+So, this is where question answering is  eehm more sophisticated than a simple full text search.
+For the second task, ehm let's copy the text that you have already seen in the previous part of our ehm presentations.
+So, copy this text to the context area.
+And let's try the same questions ehm that we were asking before. So the first question was: "Who was audited?".  
+Uhm. Hmm mm mm. And this is not the right answer.36:23  
+36:40 The audited entities were, the Ministry of Finance36:42   
+37:01 So, the first question was: "Who did the audit?" The Division Two Department of State Budget Incomes and so on.
+Let's try another question. "Who was audited?" The Ministry of Finance, and then Tax  Office.
+And now the last question for this part of the demonstration is: " When was it finished?"
+Ehm. 
+OK now you see that. Ehm.
+The system gave us a very long answer, almost the whole context ee text, probably because it wasn't sure which of the dates, the dates at the beginning or the date at the end is the correct one.
+This may seems like a deficiency, but it is in fact an advantage of this system.
+The computer is not thinking for you.
+And in case when it is not sure, like in this example, and will present you with broader options.
+So you are still the one who makes the decisions.
+You are the one who has to accept the final answer.
+And now, you will have a moment to try the system on your own, so you can try the default context. 
+You can try this context about audits or you can take a random article from Wikipedia, try something longer perhaps.
+OK. You can copy the first few paragraphs, maybe. 
+And try to ask some questions. 
+And see if the systems comes up with the correct answer.39:44 
+41:10 What is the day today. And answer non na 41:18 
+44:10 Any questions? No. OK.
+Thank you for your attention.
+And there is a fifteen minutes break now.44:19 
+49:05 
+So hi. My name is Michal and I'm going to talk for little while about machine translation, ee.
+This tool or machine translation generally is very popular and accessible throughout the world thanks to the two big players like Google and Microsoft, that each has their own translator. 
+So we suppose that you already know these and use them if you want to understand a text written in a language you don't speak.
+But today, we would like to go one step further and show you a little trick that you can use in case you want to produce a text in a language which you don't, you don't understand.
+So we have a demonstration tool for that, ehm it is the only link that you can find in the machine translation worksheets.
+So if you if you mind going there and following that link, for whatever reason the tool is called Ptaco 5.
+And and once you follow that link, you should see the screen like this.
+Uh. There are. Ah, is everyone ready?
+Some of you are. That's good.
+So I suppose everybody is ready. Ah, there are three important areas on that page.
+The top left is the input text.
+That's where you input the input ee.
+Top right is the output.
+That's where you get the translation you are interested in.
+And there is the third area that is of some interest to us, it's called "Backward Translation" on the bottom bottom left  em.
+What does this mean?
+Once again, we are trying to solve the task of writing a text in a language we do not speak.
+And to do that, we will use ee the machine translation twice.
+First, in the direction we are interested in.
+Let's say, we want to write something in to our Estonian colleagues.
+So you write the text in English.
+And we want to send it in Estonian.
+So that's the first translation from English to Estonian.
+And second step is from Estonian back to ee back to English back to the original language.
+And by comparing the original input that we provided with the result of the two steps translation.
+Uh, we can guess whether the middle step, that is the text in Estonian language we are interested in, is it OK. 
+To make this more clear. 
+Ee let's, let's do some very, very simple things first.
+Let's ask the three simple questions we have been asking today, about the report, but this time let's address them to our Estonian partners.
+The questions for co convenience, are also written in the worksheet.
+First of them is: "What institution did the audit?"
+So I 'm going to write it into the top left input area.
+What institution did the audit.
+Question mark, just to be just to have it nice and. OK.
+So, this is supposed to be my translation in Estonian.
+And I 'm not able to ehm to validate it.
+To say whether it's correct or not, but by having the added another step translating back to English, which I can understand, 
+I can see that the questions are quite similar, they are the the exact wording is not the same, but grammatically or the meaning is similar, so or the same.
+So I 'm happy with this.
+And I can conclude that this middle sentence or middle question is is correct.
+Let's try another another question: "Who was audited?"
+Who was audited.
+Okay, here we get to this exact same same wording as we as we wanted. 
+So that's nice.
+And let's try for the third time.
+When was it finished. When did it end it is all a al, also also good.
+So I 'm happy with these simple questions.
+Of course, these questions are really simple is just one sentence.
+There is not much room for error.
+So the second task for all of you is to play around and to try to input some larger piece of text and see whether you are able to form a translation in a language you don't understand. 
+Let's say in Estonian, of your input.
+And em you do that by checking whether your input is somewhat similar to the backward translational to its translation from the Estonian back to your original language.
+So, if you don't know what to write at the moment, I provided a very simple, simple email in in the worksheet, which you can used to play around with.
+But otherwise, if you are full of ideas, or any if you want to write your own email.
+You can do that by all means.
+I 'm going to use the email I've already written and try to do it here on the screen, but feel free to ignore me, if you want to play around with the tool on your own.
+So, it starts Dear Sir or Madam.
+And I see the translation, Dear Mister or Missus, which doesn't seem right to me.
+So I might try to.
+I might try to correct ehm try to correct the greeting at the beginning.
+So let's say I find out the name of of the person am writing to, which would be ideal anyways.
+So Dear Mister Balin, sounds very Estonian. I should be grateful if you would send us the details of your last audit related to e-government.
+I would be grateful if you sent us the details of the last e-government audit. 
+That sounds good to me.
+And now I 'm going to check the second paragraph.
+In particular, we would appreciate more information about the methodology concerning the assessment of information system solutions.
+In particular, we would appreciate more information on the methodology for evaluating the solutions of the information system, almost good.
+What I wouldn't be happy with is the the information system is in singular.
+And this.
+I do not know.
+I do not know it leaves some suspicions that maybe the middle step can be corrupted somewhat.
+So I would try and maybe to reward to use different wording for this.
+So let's try.
+And concerning the assessment of aa more information about the methodology concerning the assessment offff sssss.
+Let's say just information systems, see what happens. Maybe the solutions work doesn't really have to be there.
+Eee. Ok.
+Here I see that there is plural already in the backward translation.
+So I I think this is better.
+And then I have the final eem greeting.
+If it's called greeting at the end.
+I hope it is. Yours faithfully.
+Your loyalty doesn't seem right.
+So I should try something different.
+Sincerely.
+Okay.
+Sincerely.
+So.
+So now I made a couple of modifications.
+I see that the backward translation makes sense to me.
+I think all the important information is there.
+There is no significant error.
+So I would be maybe happy to send this email to somebody is in Estonia.
+OK.
+So unless there are any comments or questions I would give the word to another presentation, which is my colleague with.
+Ehm, what is that now. Aaaaa autolingual what is that I can't remember the name.
+I am sorry. 
+It's Ruda anyway. Ha ha ha. Fine.58:46 
+58:50 They cross-lingual information retrieval.58:
+1:05:50 
+Hello everyone.
+Um my name is Rudolf and I will show you another tool, coral called CLEAR, which stands for crosslingual information retrieval.
+The situation is, that you want to find some information, which is present in some audits.
+Now, in some cases this is easy.
+If this is audit by your Supreme audit institution, then you just use whatever system you have.
+And you look for this information, and you find it that it is probably easy.
+The problematic part is when you need to find some information, which is present in audits by some other Supreme audit institutions, which are probably written in different language, and maybe are not even uploaded to any database.
+So, this is probably easy if the audits are uploaded to Eurostat database with their English translations.
+And obviously, if you do speak English otherwise this is hard.
+So this is exactly where the place for our tool is, the the cross lingual information retrieval tool or CLEAR for short, can sort exactly these problems by allowing you to do the search in your own language.
+So if you speak Czech you just type your your query in Czech.
+You can find all this in any language uploaded to the database.
+So even if it's Estonian, for example, but still, the results get translated back to your own language.
+So you don't have to speak any Estonian.
+Now this is automatic translation.
+So in some cases, it's sufficient for finding out the information that you are interested in. 
+In other cases maybe the automatic translation is not good enough,
+but at least it helps you find the right documents, the right places in the documents, which you can then give to professional translator so that you get the real information that you need, and uhm the technical readiness level of CLEAR is around level six,
+so it is in the state of demos and prototypes.
+It is not deployed yet as far as I know.
+In the demo, we will see the tool for four languages, that means you can use the tool in English, Czech, German or French.
+And we have uploaded audits from two Supreme audit institutions, ehm em the Czech supreme audit institution and Belgian supreme audit institution. 
+So the audits are in in Czech in French.
+Now, let me go to the demo. So please, ee in the worksheet, you also have the link to the demo. 
+And the first task for us will be to find information about pension funds.
+As I said, em you can use any of these four languages.
+So whichever language you speak.
+You can try this language.
+Uh-huh?
+Do you still see the screen?
+Yes. OK. So this is the demo.
+I will show it in English at first.
+Here you input your search query, in my case I want to look for pension funds, and you hit search. 
+And you can see a listing of documents that contain information about pension funds.
+Em you can see the titles of the documents in English.
+But actually, the first two documents are Czech documents, the third one is French. 
+Let's look into the first one for example. 
+Here you can see the original document, so the PDF in in Czech language.
+And here you see both, the Czech text and importantly, the automatic translation to your language and we cited English, so we see the translation in English.
+And you can see that there is some information on pension funds.
+We can try the same for example with German.
+In German it would be penzions funds.
+And now we see again some documents but in German.
+This one, for example, is in French originally, but em again you have the German translation of document here.
+Now.
+This was the the first task just to see the system.
+And now something ehm really for you where I want you to find out a specific piece of information.
+This will be am information on family reunification.
+In Belgium you can get visa for family reunification and I want you to find the information on how many Belgian visas were issues on the basis of family of family reunification in the year 2018.
+So please use any of the four languages and try to find this information, and you should really figure out that there is one number, which is the answer to the question, please try to find this information.1:12:18 
+1:12:40 There is a problem. I can't see anything. I have only a blue screen.1:12:48 
+1:12:50 And for the others it works? 1:12:55 
+1:12:56 For clari fami family reunification.1:12:59 
+1:12:59 I don't know, maybe you have a typo possibly? I don't know. You can actually share probably your screen as well so that we can try to see what happens.1:13:10 
+1:13:20 Yes it's happens. Can you see it? Hmm-mmm.1:13:28 
+1:13:36 I can't operate the screen when I am showing it.1:13:41 
+1:13:41 Uh. I can't see it anyway Uh.1:13:48 
+1:13:48  I can see it, but I do not know how to help. Well just search query the word family. Yes . And I don't get this. Hmm. Maybe because I have different backing than you, I have different URL.1:14:16 
+1:14:16 Uh-huh?
+So, if you use the back up one. 
+So the back up one is down I think.
+There is, in the worksheet there are two links and the first one um works fine.
+And the second one is a backup, which just tends to fall actually.
+So it's not not a good backup after all.
+Good to know.
+Ok. So.
+Otherwise have you been able to find the number of the visas?
+Yes.
+No.
+So if we if you look for it.
+If you look for it in any language, you should be able to find eem the information, which should be 13900 and 46 visas.
+Okay.
+So, if you have a that, then you're ee basically free to play with em the the tool as the worksheet says or as you can see on the slide now.
+Uhm so feel free to look for other information that's interesting for you, like crime prevention or highway, or state budget, or any other information that you expect to find in the audits.
+And of course, as always feel free to ask our facilitators to help you.
+And if there are any more problems just ask or.1:16:30 
+1:18:01 So have you been able to find some information. Some audits?1:18:07 
+ 1:18:12 Yes, do do the documents in French and Czech have underlying topics. Have what? 
+Do they have common topics?
+Because I was looking for a tractor ans it was ony in the Czech documents.
+Hmm. 
+Because there are no documents about them in French.
+Or in practice yeah that should be the same.
+But might be that the translation is different or the the term is different.
+And there was nothing about tractors in. 
+Maybe just they don't have any anything there.
+I don't know. 
+If I look for water for example so I can see some documents from the Czech and from the Belgian institution.
+But obviously, like the documents are different, because the audit offices do different things but uhm in principle, if you look for things that both of the offices care for, like state budget then you should be able to find both, Czech and Belgian documents.1:19:25 
+1:19:37 The Czech version of the budget actually but there is French one as well.1:19:44 
+1:20:05 OK. Any other questions? Problems? Well then.
+Thank you.
+And I hand  over to our last session with Dominik.1:20:25 
+1:31:07 Hello. Good morning. My name is Dominik and I 'm going to present you technology of automatic speech recognition and spoken language translation.
+W What.
+What is it?  So the speech recognition means that the machine writes what you say and reconnect it with machine translation.
+Then we can we get spoken language translation. And it has many applications.
+And I I want to pick only one in this workshop. It it is an application for VideoApp. Imagine an application for video conferencing through Skype or Zoom, if it is connected to ASR and spoke language translation and enables communication of people who don't have common language.
+So one can speak French and the other can speak Czech only and the video application translates for you immediately then the two person can speak together.
+Unfortunately, it has technology readiness level five or six.
+It means that we have this video conferencing tapplication, but it's n but the company who did it didn't do the final step yet.
+So right now we can speak only one language in the room and and feed the transcriptions and translations.
+And I want you to test it with me.
+So let's go, let's to follow me into our worksheets.
+Click, please click on this link number five ASR and make sure that you have your piece of paper that we distributed to you in advance.
+So right now in the on-line dry run what we just made first right now.
+So who is in who is able to test the application, Tea and Ruda, someone else?
+So, so please bow of both of you do you want to speak Czech or English?1:33:57 
+1:34:02 So let's go into Czech. So please click on the first link. Let's change the room, here write your name and join, accept.
+The application is called AlphaView by the way. 
+Open link. 
+Eehm I don't want to update.  
+I have allowed it camera but I don't need it.
+And now we have to unmute the mike and when we start talking then we should see here a new link a new button appeared and here you see the automatic translations from Czech into English.
+So it's nonsence right now because it's incorrect language. 
+I will mute Rudolf because I hear the calls from him and. For now. 
+So he ss now the activity for you it's it'st back in the instructions are in the worksheet hmmm here.
+So we have the pair. 
+You are in the correct room, so Tea will be person A, Ruda person B. So Tea will tr try to explain one word. 
+Please speak some random word, listen to Ruda and Ruda please mute Tea and try to guess the word from the auto speech recognition. If you know the answer then say it, and if Tea confirms then then please repe repeat. Can we do it?1:36:15 
+1:39:12 Yes so we can here we can swith the language.
+So if you speak Czech then we here you see the English translate. 
+We can try.
+Once again we can check and following the Czech translation.1:39:40 
+1:44:33 I think you have to speak in English.
+Yes. 
+OK. 
+I am speaking.
+You can repeat. 
+I can se it transcript.1:44:46 
+1:46:24 OK. The Eng..1:46:29 
+1:46:38 Try to say what does it ss what does it eat.1:46:41 
+1:46:55 It has a...1:46:57 
+1:48:59 Break. And then we will have discussion.1:49:03 
+
