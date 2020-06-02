@@ -1,0 +1,1 @@
+The data were extarcted from "[The Ministry of Foreign Affairs of the Russian Federation](https://www.mid.ru/ru/press_service/minister_speeches/-/asset_publisher/7OvQR5KJWVmR/content/id/3919554?p_p_id=101_INSTANCE_7OvQR5KJWVmR&_101_INSTANCE_7OvQR5KJWVmR_languageId=en_GB)"
