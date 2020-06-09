@@ -3,12 +3,7 @@ Dev and test set preparations of IWSLT shared task on non-native speech translat
 
 ## TODO:
 
-- anonymize, including filenames!
-  - files before the anonymization have the suffix non-anon and should
-    be deleted after we are finished
-  - censor the audio files, too!
-
-- fix segmentation of ``test/antrecorp/*.TTde``
+- create an index of files included in elitr-testset
 
 ## Explanation of File Extensions
 

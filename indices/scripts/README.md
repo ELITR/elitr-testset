@@ -1,0 +1,1 @@
+This folder contains scripts that automatically generate indices for elitr-testset
