@@ -1,0 +1,401 @@
+Okay.
+Mm-hmm.
+Wir sind also hier für das Konzeptdesign-Meeting.
+Wir beginnen also zunächst mit einer Zusammenfassung der Ergebnisse des vorherigen Meetings und der Entscheidung, die wir getroffen haben.
+Äh, ich werde mir während dieses Meetings Notizen machen, damit Sie, äh, in meinen äh-Ordner schauen können, um danach die Zusammenfassung dieses Meetings zu sehen.
+Jeder von Ihnen wird uns also die verschiedenen Untersuchungen zeigen, welche er in den vergangenen Stunden durchgeführt hat.
+Wir werden dann gemeinsam eine Entscheidung treffen und dann, äh, äh, werden wir die nächste Aufgabe definieren, die vor der nächsten Sitzung erledigt werden muss.
+So, letztes Mal haben wir uns also für eine einfache Oberfläche entschieden.
+Wir haben auch beschlossen, ein Rad zum Wechseln des Kanals zu haben.
+Der Kanalwechselknopf sollte durch eine Plastikabdeckung oder etwas anderes geschützt werden, damit die Fernbedienung sehr einfach aussieht.
+Wir haben auch eine Taste für die Lautstärke und zum Ausschalten der T_V_.
+Wir haben auch die Beleuchtungsfunktion, damit die Fernbedienung leicht zu finden ist, und für eine schnelle Entwicklung und geringe Kosten haben wir uns entschieden, keine L_C_D_ und keine Sprachfunktionen zu haben.
+Wir werden also jetzt drei Präsentationen haben.
+Also die konzeptionelle Spezifikation von Industrial Designer, die Spezifikation der U_I_ von oder U_I_ okay.
+Abdul al-Hasred ist mein Name.
+Und der letzte Punkt ist die Trendbeobachtung durch Market Expert.
+Vielleicht können wir also mit Industriedesign beginnen.
+Dies ist also die Präsentation.
+Wollen Sie?
+Vielleicht kann ich auf Ihre Anfrage hin die Folie wechseln.
+Ja.
+Ich habe nur drei Slides, also.
+Ich schaue mir nur die Folie an, um nur das hier.
+Auf einigen Webseiten finden Sie einige Dokumentationen, und ich glaube, eine Fernbedienung ist, wie ich bereits zuvor erwähnt habe, nur ein sehr einfacher Chip, und das mm die Benutzerschnittstelle wird normalerweise nur durch einen Druckknopf bedient, und in unserem Fall benutzen wir eine ähm Radsteuerung.
+Ja.
+Also, äh, äh, ich habe im Grunde genommen nach diesem Chip gesucht, der, äh, sehr, sehr standardisiert ist, und äh, ich habe einfach nach dem Radsensor und dem Standarddruckknopf gesucht.
+Und, ähm, ja, wir können direkt wechseln.
+Ja.
+Ich habe sogar die Nummer des Elements, das bei der Fernbedienung sehr Standard ist.
+Die Druckknöpfe sind normalerweise extrem billig, aber ich habe nur ein Problem, und das hängt mit dem Radsensor zusammen, der ziemlich teuer zu sein scheint.
+Okay.
+Mm-hmm.
+Und ich denke, wir sollten darüber reden, wenn wir wirklich einen Radsensor brauchen oder wenn wir es nicht können, wenn wir etwas mit dem Druckknopf kombinieren könnten.
+Okay.
+Ein Radsensor ist fünfzigmal so teuer wie ein Druckknopf.
+Ja.
+Aber ist es ein bedeutender Preis an der gesamten Fernbedienung?
+Mm.
+Denn wir können uns bis zu zwölf Euro für den Preis der Fernbedienung leisten.
+Ja.
+Ja, aber ich glaube nicht, dass wir über das Design der Box sprechen sollten, welches auch etwas Geld braucht.
+Wird das mit allen möglichen Dingen, also Knöpfe, Rad und Chip, also unter zwölf Euro zu produzieren sein?
+Ja.
+Okay, Sie haben etwas bekommen.
+Ich muss auch sagen: Haben Sie die E-Mail über die Spracherkennung erhalten?
+Aber, ähm, das ist alles, ja.
+Nein?
+Ich habe Mm-hmm nicht überprüft.
+Ja.
+Sie haben eine E-Mail von der Fertigungsabteilung erhalten, dass sie im Grunde genommen bereits einen Spracherkennungschip entwickelt haben.
+Hier steht: "Ja".
+Darin steht, dass sie ihn im Moment nur dazu benutzen, um Antworten auf bestimmte Fragen aufzuzeichnen.
+Aber ich schätze, es könnte sein, dass es möglich ist.
+Und könnte es angepasst werden?
+Ich meine, anstatt die Antworten aufzuzeichnen, kann man auch etwas Einfacheres aufzeichnen, z.B. einen Befehl.
+Okay, und da kann man einige Befehle und so erkennen?
+Ja, man kann Befehle erkennen und man kann neue Befehle aufzeichnen, wenn sie also bereits einen Chip haben, können wir diesen benutzen.
+Okay.
+Ja.
+Okay, vielleicht können wir uns diese Präsentation einfach nur anhören und dann später eine Entscheidung nach diesen Neuigkeiten treffen.
+Okay.
+Ja, aber ich glaube, es ist... Ja. Tut mir leid, ich habe noch keine persönlichen Referenzen geschrieben.
+Ich möchte nur das Problem des Radsensors erwähnen, der viel teurer als jeder Druckknopf ist, und ob wir das reduzieren können.
+Okay.
+Wir haben bereits einige gute Dinge, ähm, mit der Hintergrundbeleuchtung des Druckknopfes.
+Mm-hmm.
+Ich habe eigentlich eine Frage dazu.
+Ähm, was ist der Zweck des Lichts?
+Nur um etwas zu machen, das etwas mehr Design hat als eine quadratische Box mit einem Gummi.
+Ist das Licht im Dunkeln immer eingeschaltet? Ja, aber es wird immer eingeschaltet sein.
+Kann man den Knopf im Dunkeln leicht finden oder so?
+Sie wird eingeschaltet, wenn der Benutzer die Fernbedienung bewegt, denke ich, nein?
+Aber wenn man sie bewegt, dann hat man sie, man muss sie nicht finden.
+Hm.
+Sie können die Tasten natürlich besser sehen.
+Ja.
+Ja.
+Ja.
+Ja.
+Stimmt.
+Eigentlich.
+Aber wenn Sie ihn bewegen, dann müssen Sie einen Sensor haben, um Ihre Bewegung zu erkennen, wenn Sie ihn bewegen.
+Sobald Sie die Fernbedienung bewegen wollen, haben Sie das Licht.
+Ja, aber dafür braucht man einen weiteren Sensor, oder?
+Ja.
+Nochmal.
+Ja, nein, das ist zu teuer.
+Ich glaube nicht, dass das wirklich teuer ist, aber am Ende ist es eine Menge unerschlossener, sehr billiger Geräte, aber die Rechnung fängt an, zu sein. Zuerst dachte ich an ein Dauerlicht und wenn Sie die Einschalttaste drücken, haben Sie das Licht auf Ihrer Fernbedienung, wenn Sie Ihr Gerät ausschalten wollen.
+Okay.
+Mhm.
+Extra.
+Ja, okay.
+Mm.
+Ja, aber ich habe auch erwartet, dass das Rad billig sein würde, aber Sie sagen mir, dass es sehr teuer ist, also, ja.
+Mm.
+Mm-hmm.
+Aber es kann, äh, batteriemäßig sehr belastend sein, oder?
+Dass das Licht immer an ist?
+Ein wenig.
+Mhm.
+Nun, wir werden das vielleicht nach den anderen Präsentationen disksutieren.
+Ja.
+Okay.
+Also, ähm, meine eine, sie sollte in der gemeinsamen Ordner sein.
+Ja.
+Also.
+Das war das letzte Mal als ich es gesehen habe.
+Und es ist.
+Okay.
+Also, gehen Sie einfach zur nächsten Folie.
+Okay.
+Also, im Grunde genommen wollen wir es ganz einfach, oder?
+Das ist die Hauptidee, so einfach wie möglich.
+Ja.
+Ja.
+Ich schaute mir also einfach einige aktuelle Designs von meist komplizierteren Fernbedienungen im Internet an.
+Und schauen wir uns zwei davon an, denn obwohl sie viele Knöpfe haben, sehen sie doch recht einfach aus.
+Und in unserem Fall lehnen wir die Knöpfe einfach ab, welche wir nicht brauchen, und es wird noch einfacher.
+Ja.
+Ähm.
+Also.
+Und passt es auch, äh, gut in die Hand?
+Denn es war Ihr Handgelenkproblem bei der Benutzung.
+Ja.
+Nun, diese Fernbedienungen sind ziemlich groß, also gehen Sie zur nächsten Folie, also.
+Wir haben all diese Knöpfe, wie Sie sehen können, aber die meisten die wir brauchen wir sind in der Mitte.
+Ja.
+Ja.
+Ja.
+Also, von unten oder was auch immer da ist, äh, die äh, die Zahlen und dann die oben, äh, bis zu den zehn auch, dieser mittlere Teil, und auf der linken Seite ist genau dasselbe.
+Ja.
+Ja.
+Es ist also im Grunde mehr oder weniger so, wie wir es gerne hätten, mit einem großen Lautstärkeregler, einem großen Kanalregler und Stummschaltung und Einschaltknopf, ja?
+Ja.
+Das sind die grundlegenden Dinge.
+Es ist also nur der zentrale Teil.
+Im Grunde genommen wird die Software, die wir bauen werden, mehr oder weniger so aussehen wie diese beiden.
+Ja.
+Mit einem vielleicht einem ergonomischeren Design auf dem unteren Teil.
+Ja, wenn man das hat, dann denke ich zum Beispiel, dass die Lautstärke und die Knöpfe, die sich oben befinden, nicht sehr leicht mit dem Daumen zu erreichen sind.
+Es könnte zum Beispiel auf der rechten Seite sein.
+Ja.
+Okay.
+Ja.
+Weil wir diese Eingabeknöpfe und diese anderen Dinge, die sie haben, nicht haben.
+Und ich denke, dass die Plastikabdeckung keine gute Idee ist, denn wenn man sie öffnet, kann sie zerbrechen, man kann verschiedene Dinge tun.
+Das ist gut.
+Äh, Sie müssen nur die Kanalnummern ein wenig aus dem Weg räumen.
+Okay. Ich habe die Kanalnummern.
+Okay.
+So dass sie ein wenig getrennt sind, ja.
+Wird unten sein oder Okay.
+Äh, und es ist leicht, die anderen großen Tasten zu drücken, aber äh, es ist auch nicht so schwierig, die Kanaltasten zu drücken.
+Mm.
+Ja, ich glaube, wenn man die Abdeckung anbringt, wird es für den Benutzer noch schwieriger.
+Okay.
+In Ordnung, Sie werden es nicht tun, ja.
+Normalerweise habe ich bemerkt, dass die Leute die Plastikabdeckung auf Dinge anbringen, an denen man normalerweise nicht herumbastelt, wie z.B. Knöpfe zum Einstellen der Kanäle und so weiter.
+Das ist gut.
+Ja.
+Die man ein bisschen schützen möchte.
+Und ich denke, es ist, äh, es ist vernünftig.
+Okay.
+Also, ich glaube nicht, dass... Ja, das ist nur das Rad.
+Wir könnten ein paar Räder benutzen, die sich nach unten drücken lassen, wir könnten das Rad für das Aufnehmen benutzen, wenn wir wollen.
+Mhm.
+Mm-hmm.
+Äh, wir könnten also im Grunde nur ein einziges Rad benutzen und der Benutzer könnte in diesem Fall nur das Rad benutzen, um alles mit den Kanälen zu machen.
+Ja.
+Vielleicht wird das Rad ein guter Vorteil gegenüber unseren Konkurrenten sein.
+Mm-hmm.
+Denn sonst ist es ziemlich standardisiert, abgesehen davon, dass es sehr einfach ist.
+Vielleicht ist es also schlechter, äh, wenn man mehr Kosten für diesen Aspekt hat.
+Auf s Mm-hmm.
+Ja, ich schätze, der Marktforscher wird uns alles darüber erzählen.
+Okay.
+Wir können also, gibt es eine Frage?
+Für Designer von Benutzeroberflächen?
+oder können wir vielleicht zum nächsten Teil übergehen und danach diskutieren?
+Okay.
+Okay, kann ich gehen?
+Darf ich gehen?
+Ja.
+So, und jetzt die letzte Untersuchung, die wir für die Fernbedienung durchgeführt haben.
+Also, der wichtigste Aspekt bei Fernbedienungen ist das schicke Look and Feel und nicht das aktuelle funktionale Look and Feel.
+Und der zweite Aspekt ist, dass die Fernbedienung technologisch innovativ sein sollte.
+Okay.
+Und der dritte und wichtigste Aspekt ist, dass die Fernbedienung einfach zu bedienen sein sollte.
+Also, sind die Dinge, die wir haben, über die wir vorher gesprochen haben?
+Mm-hmm.
+Ja.
+Ja.
+Und, ähm, damit Sie danach gehen können.
+Ja.
+Und es gibt einen Modebeobachter in Paris und Mailand, der die folgenden Trends erkannt hat, ähm, Obst und Gemüse wird das wichtigste Thema für Kleidung, Schuhe und Möbel sein.
+Also, vielleicht, wenn unsere Fernbedienung eine Obst- oder Gemüseform oder so etwas sein soll, oder Und das mm das Material soll schwammig sein.
+Okay.
+Ich unterstütze einen Apfel.
+Äh, ich weiß nicht, welches Material schwammig sein kann, und wenn Sie Mm-hmm.
+Ja.
+Das ist auch gut für Ja.
+Nun, ich denke, wir können die Elektronik sicher in ein schwammiges Ding stecken, das würde funktionieren, oder?
+Ja.
+Ja.
+Ja.
+Ich denke, es ist auch gut ein schwammiges Material zu haben, ja.
+Man kann es zum Fernseher werfen.
+Ja, weil es robust ist.
+Okay. Es ist robust, ja.
+Ja.
+Finde ich auch.
+Hey, das ist ein cooler.
+Wir könnten sagen, wenn man es wirft, hat man einen Sensor, und man wirft es und trifft den Fernseher und schaltet diesen aus.
+Wenn er einen Schock hat...
+Ja, tut mir leid.
+Schon gut.
+Nicht gut.
+Ich weiß, dass sie das auch bei Weckern machen.
+Und... und... und das... ja, das kann man sagen.
+Ja.
+Du kannst, äh, du kannst, äh, vorher, vorher, ja.
+Nein.
+Ja.
+Vorher?
+Und Sie wissen, dass der wichtigste Aspekt hier das schicke Look and Feel ist, dann technische Innovation und dann die einfache Bedienbarkeit.
+Ja.
+Ja.
+Ja.
+Ich halte es für innovativ, das mm das Rad zu verwenden, weil ich glaube, das hat sonst niemand.
+Ja.
+Ja, deshalb Ja, deshalb denke ich, dass wir das behalten müssen, wenn es möglich ist.
+Ist es das?
+Ja.
+Ich denke, es macht es sowohl einfach als auch innovativ.
+Mm-hmm.
+Innovativ.
+Ich denke also, es ist ein guter Aspekt und sollte beibehalten werden.
+Mm.
+Die Frage ist, wie wir es cool aussehen lassen.
+Cool, schick?
+Ja.
+Wir müssen es wie eine Frucht oder ein Gemüse aussehen lassen.
+Ja.
+Vielleicht, ähm, eine Farbe, die an Obst und so was erinnert.
+Wie wäre es mit ähm, und für das Aussehen und das Gefühl, wie wäre es mit einem Stück Eis, mit blauem L_E_D_ im Inneren?
+Mm.
+Oh, Farbe, ja.
+Nun, das Offensichtliche ist eine Banane, denke ich.
+Oh i i i ich dachte an eine Birne, zum Beispiel.
+Vielleicht, ja.
+Wissen Sie, die Birne ist so, und es ist einfach, sie in der Hand zu halten und äh, ja.
+Ja, und sie ist auch ergonomisch.
+Eine Birne.
+Die Banane ist auch ergonomisch.
+Ja.
+Vielleicht Birne, ja oder so ähnlich.
+Oder eine Frucht wie diese.
+Ich weiß nicht.
+Ja.
+Das können wir besprechen, äh.
+D D Gibt es etwas, das Sie hinzufügen möchten?
+Gibt es eine Frucht, die schwammig ist?
+Nein, ich glaube nicht.
+Ich denke, wir können so etwas haben wie: Ja, eine Birne ist gut, passt gut, oder eine Banane, wie Sie gesagt haben.
+Ja.
+So was in der Art.
+Aber das liegt nicht im Trend.
+Man kann es, ähm, es ist nicht hart, das Metall.
+Ja.
+. Der Trend ist schwammig, und Gemüsefrüchte.
+Ja.
+Ja.
+Ich denke, p spongy ist gut, weil es auch robust sein wird.
+Plastik.
+Ja.
+Ich denke, wir können das Rad beibehalten, weil es, äh, einfach und innovativ ist, auch wenn die Kosten etwas höher sind, und wir müssen auch eine, also, eine Frucht wie Birne oder Banane mit äh, irgendeiner anderen Idee finden, die Sie haben.
+Ja.
+Mit welcher Art von Früchten möchten Sie Ihren T_V_ kontrollieren?
+Mm.
+Odi Banane ist auch gelb, so dass Sie Ihre Fernbedienung nicht verlieren können.
+Banane finde ich eine gute Idee.
+Weil man die Banane nicht benutzt, wenn die Banane sich so krümmt, sondern wenn die Banane sich so krümmt, mit dem Rad oben und zum Steuern, und hier haben Sie einen Druckknopf zum Ja.
+Ja.
+Ja.
+Zwei von dem Knopf, ja.
+Ja.
+Ja.
+Aber Sie haben kein Ja.
+Ich denke, es ist eine gute Idee, ja.
+Sie können also einfach diese Kurve haben, ja, und Sie bewegen Ihre Hand hierher, um die Knöpfe zu drücken, und dann bewegen Sie sich auf die andere Seite.
+Ja.
+So kann man es auf zwei Seiten haben und es ist cool, oder?
+Ja.
+Ich denke, es ist ein gutes Design und dann ist es auch innovativ.
+Vielleicht können wir die Banane behalten.
+Und sie wird sehr leicht zu finden sein.
+Man kann auch einen Vibrator einbauen.
+Und jeder weiß, was eine Banane ist.
+Im Grunde genommen.
+Wenn Sie mit uh ausgefallenen Früchten und Fra s und tha Oh, ja. Also werden wir nur eine Standardbatterie verwenden?
+Ah-ha.
+Sie können auch die Tatsache berücksichtigen, dass die Banane zum Farbschema unserer Firma passt.
+Ja.
+Ja.
+Ja, das ist wirklich, ähm, wirklich ein guter Punkt.
+Ich hoffe, dass die Studenten der Betriebswirtschaft sterben, aber trotzdem.
+Wer zeichnet nun dieses Treffen auf?
+Ich denke, es ist so... Eine Sekunde.
+Also, wir müssen eine Entscheidung über diesen Aspekt treffen.
+Also, ähm, also für Entschuldigung, für ähm Komponente, also müssen wir über diese Aspekte nachdenken, Entschuldigung.
+Ja.
+Und äh, den Chip, den Chip, den wir aufprägen, wir wissen genau, welchen wir verwenden werden.
+Äh, was meinen Sie mit Fall?
+Ich denke, es ist die Schachtel, die schwammig sein sollte, in der Form einer Banane.
+Ja.
+Ich meine, für mich ist es egal, ob wir eine schwammige Bananenschachtel verwenden.
+Ich möchte einfach nur etwas zum Drucken haben, um meine Komponenten auf dieser Schachtel zu befestigen, und das ist alles.
+Das einzige, das Ja.
+Ja, das kann im Inneren der Struktur sein.
+Ja, ja.
+Ja.
+Aber, äh, die Sache ist die, dass die Knöpfe und das Rad, ich meine, wenn es schwammig ist, dann müssen die Knöpfe und das Rad, ich meine, wenn es schwammig ist, dann wird es sich bewegen, richtig?
+Schwammig ist es auch.
+Es wird also sehr stark gebogen sein.
+Wenn wir also versuchen, die Knöpfe zu drücken, ist das möglich?
+Oh nein, ich denke, es ist möglich.
+Aber nein, der Knopf wäre. Eigentlich müsste es etwas merkwürdig geformt sein, mit einer schwammigen Abdeckung.
+Ja.
+Okay.
+Okay.
+Das ist, äh, wie der Mm-hmm.
+Ja.
+Okay, seltsame Form mit schwammiger Abdeckung.
+Und Standardbatterie okay, ein Chipabdruck, es gibt kein spezielles Problem.
+Also sind wir uns einig, das Rad so zu platzieren, dass es symmetrisch sein muss.
+Das Rad muss oben sein.
+Knopf, wo wollen wir die Knöpfe haben?
+Nun, normalerweise halten Sie "Okay, wir wollen, dass es auch für Linkshänder gut ist, richtig?
+Ja.
+Ja, aber okay.
+Sagen wir, dass man im Grunde nur zwei Seiten nehmen kann, eine auf dieser Seite, wo der Daumen ist, und die andere Seite, wo der Daumen ist, äh, ja, auch der Daumen.
+Ja.
+Ja.
+Im Grunde genommen.
+Oder Sie könnten diese hier benutzen, aber ich weiß nicht, ob es sehr bequem ist, diese für das Rad zu benutzen.
+Ja, vielleicht ist der Daumen bequemer.
+Das hier für das Rad und dann das für die Knöpfe?
+Ja, ich denke, es ist okay für beides, für rechts und links.
+Sollte die beiden Seiten haben.
+Mm-hmm.
+Mhm.
+Also, wenn die linke, haben wir die op Rad Rad Knopf.
+Ich denke, man kann es auch so drehen.
+Man kann beides mit beiden Händen machen.
+Ja, das Problem ist, wenn man Knöpfe und Rad hat, dann sind die Knöpfe auf der anderen Seite, wenn man es umdreht.
+Ich denke, es ist in Ordnung.
+Man kann sie also nicht sehen.
+Nun, Sie werden sich daran gewöhnen.
+Ja.
+Und außerdem sind die Knöpfe beleuchtet, so dass man sofort die richtige Seite erkennt, weil die Knöpfe beleuchtet sind.
+Also müssen die Knöpfe hier sein und das Rad muss Y Ja, ich weiß, aber äh, wenn man mit der linken Hand hält und das Rad hier ist und die Knöpfe hier sind, dann sind die Knöpfe auf der anderen Seite, wenn man sie umdreht.
+Ja.
+Nein, ich denke, Sie werden es nur mit der rechten oder linken Hand benutzen, egal ob Sie Rechtshänder oder Linkshänder sind.
+Ich denke, für Linkshänder ist es in Ordnung.
+Ich kann diese Bewegung machen, und für Rechtshänder auch.
+Ich denke, das ändert sich nicht so sehr. 
+Okay. 
+Ja? 
+Okay. 
+Vielleicht. 
+Ja. 
+Also, als Schnittstelle haben wir auch gesagt, dass wir diese Bananenform mit Knopf an der Seite haben. 
+Und ein Rad an der Oberseite. 
+Mm-hmm. 
+Ja. 
+Die Farbe ist also gelb.
+Ich denke, äh, wir haben alles danach definiert, was wir tun sollten, was die Entscheidung ist, die wir treffen sollten, ja.
+Vielleicht können wir also bis zum nächsten Meeting an diesen Aspekten arbeiten.
+Wir können also das endgültige Aussehen und die Gestaltung entsprechend der Entscheidung festlegen.
+Und lassen Sie die Benutzeroberfläche entwerfen und bewerten Sie dann das Produkt.
+Das heißt, äh, prüfen, ob es den Anforderungen der Benutzer entspricht, aber laut Ihrer Präsentation scheint es in Ordnung zu sein.
+Es scheint ausgefallen, innovativ und einfach zu benutzen zu sein.
+Mm-hmm.
+Um den Prototyp vorzubereiten, würde ich also vorschlagen, dass der Industriedesigner und der User Interface Designer äh zusammenarbeiten.
+Das wäre, glaube ich, besser.
+Ja.
+Und äh Und so äh erhalten Sie weitere Anweisungen per E-Mail, wie üblich.
+Mm-hmm.
+Müssen Sie also noch etwas hinzufügen?
+Ja, Meister.
+Nein.
+Geht es Ihnen gut?
+Ja.
+Fühl dich frei, das auszudrücken, was du sagen willst?
+Ja.
+Fühlen Sie sich nicht zu sehr eingeschränkt?
+Nein.
+Fühlen Sie sich nicht frei, das zu beantworten?
+Vielleicht können Sie es, äh, ähm, okay machen.
+Okay, also bis dann.
+Bis dann. Danke.

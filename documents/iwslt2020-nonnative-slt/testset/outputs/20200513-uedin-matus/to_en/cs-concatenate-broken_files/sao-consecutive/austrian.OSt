@@ -1,0 +1,87 @@
+I now give the floor to Mr Mayrbeurl.
+Thank you.
+Thank you so much for inviting me.
+It's a great honor for me to be able to speak here.
+I will try to introduce you briefly to our tool for a large amount of data that we have been using in the Austrian Court of Auditors for three years.
+So before I really start, I'd like to inform you about the situation in the largest Austrian municipalities.
+It is a municipality with more than 10,000 inhabitants, and since the year two,000 eleven we have been entitled to control all these local authorities.
+This border was twenty thousand before.
+The gray dots therefore represent more than twenty thousand inhabitants and the blue less than twenty thousand.
+The explanation is still in German.
+I'm sorry about that.
+In total, therefore, we are entitled to carry out audits of seventy-five municipalities.
+This represents about 3.2 per cent of the total number of municipalities
+However, we provide counselling to all Austrian citizens.
+That is why we in our department have decided to develop a special tool, which we call the Instrument for the Monitoring of Victims.
+The development team consists of three young economists working in our department.
+We all three use this tool for different purposes.
+So what was the purpose of this instrument, why has this instrument been created at all?
+The main reason was the effort to find an analytical tool for assessing financial risk.
+So first we try to design a profile for each village.
+In view of all relevant factors.
+In the second step, we assess the municipalities, taking into account their importance for the audit activities of the current Austrian Court of Auditors.
+Finally, we rank the municipalities according to financial risk on the basis of certain indicators.
+The order is always interesting, it's all the more interesting because it gives us the opportunity to compare all the victims.
+Thank you.
+The main task of each database project is therefore to collect quality data.
+We heard about the day before.
+In this context, we must mention that Austria's statistics are very helpful to us, which is the Austrian Statistical Agency, and this agency is our most important partner in this project.
+We got the following data from them.
+These data are actually available to every citizen.
+However, if you want aggregated data, you need to buy it from Statistics Austria.
+And for analysis, only aggregated data are useful.
+So we have cross-cutting accounts of budgets and accounting regulations.
+We have detailed information about closed accounts, so we have accounts at the level of free tickets.
+And then we have debt and commitment statements.
+We are therefore mainly using financial and accounting data, but of course we have special data on the number of people and other data derived from Statistics Austria.
+Now we have data from this period from 2,000 to 8,000 to 12,000.
+And that's a mistake I apologize for.
+This date is constantly updated, always every autumn.
+Because we have data from the victim's accounting systems, we do not have any data on the contributors, we do not have any data on the rental obligations, nor do we have any residual data on the debts.
+This is important because, in practice, you have an official accountant in your municipality, you will find some amount of debt, and if you look at the contributions of the civil society, it can happen that there is this value here.
+So from the current data, we think our indicators are good, which I will explain later, and we will try to create an indicator model and this monitoring is based on a model that is composed of indicators.
+The statistics are derived from one to one hundred, which is most relevant for the audit.
+This model therefore allows indicators to be evaluated according to specific topics.
+And in order to determine the relevance of the audit, the Austrian Court of Auditors uses indicators of the financial situation as a basic setting, but depending on the questions raised, depending on the subject of another audit, you can choose a different subject.
+Then you get a different result.
+The indicator model therefore consists of four topics and the first is the financial situation in the long term.
+That means we're going to take the net debts plus the liabilities minus the holding of securities and the minus reserve.
+So the first of them gives us a long-term perspective, which means debt minus assets.
+And the other one gives us a short-term perspective.
+Which is... yes, please.
+In the short term, we define the basic balance, which is the usual income without transfers minus normal expenditure without transfers and pensions.
+This is an important point in the indicator model, because we do not use the key data that I have expressed to the population.
+We use other data as a relevant number, and this is our own income, because it is better to show the economic strength of the village.
+There are also a number of administrative structures.
+There we simply put together administrative expenditure and personal expenditure.
+Personal data is the most challenging task for us.
+We tried to assess the quality of the accounting systems.
+And yes, we take into account other accounts, different accounts, representation expenses and analysis of special accounts.
+This means that using these data we are trying to find errors in the accounts.
+So this image is a picture of the screen of one possible output of the monitoring tool.
+And you see here the villages that are at the end of the list, from the best village to the worst.
+The black column gives value, therefore, taking into account the importance of audit activities for the Austrian Court of Auditors, and is therefore evaluated for the importance of audit for our departments.
+So the four columns on the right represent the indicators.
+Indicators of the model I explained earlier.
+The black column gives the value of three whole thirty-three, which is the village of Halvank, a small village near Salzburg and is the best village.
+This is therefore a measure.
+So if you want to carry out an audit of the municipality with the best financial location in the best financial situation, we will carry out an audit of Halvank.
+If you want to run the worst village audit, just skip the picture and find the last one, but I don't want to show you these villages today.
+In our system we have all the Austrian municipalities, but not every municipality falls within our assignment, so only the second, yes, we can audit only the second.
+We are trying to compare the village with the same class of victims of the same size, so we do not compare Vienna with Halvank. We are trying to find similar villages to make this comparison fair.
+So we have a lot of different possibilities to get out of this tool, and the other function is this output log for each individual village.
+So here's the village of Halvank, for example.
+We can make such a diary for each municipality in Austria, and you will not be able to read it, as you can see, but will provide us with a whole series of key figures, indicators, graphs and financial situation information.
+Another output of the diary is these two pages, where you can see, for example, the left-hand analysis of personal expenditure, this is the red line of the graph.
+And when compared to other municipalities, you can choose a blue line and where the red line crosses the blue line, the village is worse.
+Or
+So you can easily assess whether the municipality has excessive expenditure.
+And on the right hand, we have transfers, which means we've got the rest and the income from the victim's point of view.
+But it's just two outputs out of many.
+We are currently using some statistical programs like R Stat Plus, and we can carry out any analysis that is necessary - which our supervisors want us to do.
+As you can see, we are using this tool for auditing planning, preparing, operating and requesting, which means that if someone wants to use this village only for presentation, they can use it.
+If you want to know which victims are worse in the region, we can do that and this information helps us not only in the audit itself.
+And in accordance with our advisory approach, we provide information about things to the public.
+This means that if we are called by some concern and want to know about his victim and what their financial situation is in this victim, we can provide them with surveys and a diary.
+Thank you very much for your attention.
+Thank you.

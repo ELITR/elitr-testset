@@ -1,0 +1,614 @@
+Ok.
+Dobrá, všichni jsou připraveni.
+Ahoj.
+Takže, jsme tu kvůli, uh, kvůli, uh, funkčnímu návrhu.
+Dobře?
+Takže, jsme tu kvůli schůzce nad funkčním návrhem, mm, takže nejprve vám představím program, takže budeme, uh, budu si během této schůzky dělat poznámky, kde se to budu snažit shrnout a dám to shrnutí do sdílené složky, kdybyste se na ně potom zpětně chtěli podívat. Takže pak každý z vás povede prezentaci ohledně úkolu, který byl vyžadován minule, takže specifikace uživatelských požadavků, návrh technické funkce a návrh, jak bude produkt fungovat.
+Potom vám představím nějaké nové požadavky k projektu, které jsem obdržel od, uh, správní rady.
+Potom se rozhodneme, uh, jaké funkce bude dálkové ovládání vyžadovat a potom vám přidělím úkol na další část schůzky.
+Celého procesu.
+Takže, uh, kdo by chtěl začít s prezentací toho, co si připravil? 
+Mm.
+F, chceš začít?
+Začni, jo.
+Můžeš začít.
+Takže.
+Kabel, kamera.
+Máš, uh, powerpointovou prezentaci?
+Měla by být v mé, v jejich složce, ne?
+No jo, možná tam.
+Nahoru.
+Ok.
+Jak se jmenuješ?
+Um, myslím, že jsem v třetí.
+Ne?
+Mm.
+Ou.
+Máme technický problém, uh.
+Ok.
+Myslíš, že je to možná ve špatné složce?
+Je to možné.
+Jo, dej to tam.
+Ne.
+Bylo to někde v něčem takovém.
+Vlastně si nepamatuju jméno, musí to být něco jako messenger AMI nebo tak.
+Co máš ve zkratce?
+Vyjeď nahoru.
+Účastník dvě.
+Jo, vyjeď nahoru.
+Znova.
+Ne.
+Bež zpátky.
+Nemáš žádnou. Zavřít.
+Uh, možná messanger AMI.
+Messenger.
+Ok.
+Ne.
+Nic tam není.
+Není tam. Máme technický problém.
+Pojďme to zkontrolovat.
+Jo.
+Půjdu a zkontroluju to.
+Mohl bys to jinak popsat z patra?
+Ok.
+S bílou tabulí?
+Jo.
+Jestli si to pamatuješ, ale je to, jo.
+Ano.
+Takže, uh.
+Zkrátka, to, co chceme, je dálkové ovládání, že.
+Takže, um, otázka je, nejdřív ze všeho, co chceme ovládat.
+Takže většina lidí chce mít ovládání na svou hi-fi a televizi a taková zařízení.
+Mm-hmm.
+A, jenže ostatní lidé chtějí ovládání také na kontrolování, uh, hraček jako jsou robotičtí mazlíčci a malí roboti a tak. A ostatní lidé taky chtějí mít ovládání na kontrolu celého domu.
+Mm-hmm.
+Mm-hmm.
+Jo.
+Takže, je tu projekt, myslím, že se jmenuje X_house nebo něco takového, který to umí, uh, můžete propojit svůj ovladač s počítači a tak.
+Jo, jo.
+Takže to je jedna věc.
+Další je ta schopnost vyhledávání, jo, pískáním nebo to je jedno.
+Uh, pokud máte schopnost vyhledávání, můžete s tím mít, taky základní hlasové povely, jestli chcete, jo.
+Ok.
+Mm-hmm.
+Takže myslím, že by to v takovém případě měla být sada.
+Uh, takže uživatelské rozhraní se bude skládat ze dvou částí.
+Jedna bude na hlasové povely a druhá budou konrétní tlačítka.
+Uh, a ta tlačítková část by byla, uh, sada tlačítek na výběr zařízení, sada tlačítek na speciální navigaci v prostoru a sada tlačítek na lineární přístup k médiím a sada na přímý přístup.
+Mm-hmm.
+Mm-hmm.
+Ok.
+Ano?
+Co máš tím pádem na mysli lineárním přístupem?
+Jako když se video přehrává vpřed, vzad, uh, rychleji a tak, jo.
+Ah.
+Um.
+Dobře, takže speciální navigace, lineární přístup, přímý přístup a ještě je tu ten čtvrtý, ne?
+Mm?
+Takže, nějaký lepší pro speciální navigaci?
+Jo.
+Na speciální navigaci například, když máte na televizi menu a chcete ho změnit, jo?
+Ok.
+Pak lineární přístup a přímmý přístup.
+Uh.
+Mm.
+Jo a taky změna parametrů.
+Ah, jo, parametry, ok.
+Takže když máme základní parametry, možná bychom měli přidat speciální tlačítka, abychom, um, mohli mít vše, uh, základní, ale na trhu je, uh, aktuálně spousta ovladačů a tohle je v zásadě to, co má každý.
+Ok.
+Ok.
+Dobře, a hlasové povely jsi říkal, uh, ok.
+Pomocí hlasových povelů můžeme specifikovat všechno.
+Můžeme přidělit jakýkoli povel jakémukoli tlačítku, pokud budeme mít dost prostoru pro zpracování dat v paměti.
+Ok.
+Jo.
+Ok.
+Jo.
+Takže, to, uh, je konec tvého výzkumu?
+Jo.
+Uh, jo, myslím, že ano.
+Ok.
+Nejsme moc daleko.
+Ok.
+Možná bychom se mohli podívat na požadavky uživatelů, ale nevím, jestli se mi to podaří otevřít.
+Jo.
+Um, já nevím, jestli to zvládneš otevřít, uh, není to tady.
+Možná můžeš, to je Messenger, ne?
+Uh, v, jo, ok.
+Ne.
+V dokumentech.
+Mm, tento počítač, jo.
+V které složce?
+Kam jsi to uložila?
+Tady.
+Tady.
+Zkratkou do AMI sdílených dokumentů?
+mm.
+Ale není to, um.
+Možná mi to můžeš poslat na mail.
+Jenom zadej účastník jedna.
+Na AMI.
+Mm-hmm.
+Jo, to můžu.
+Zkusím to zobrazit pro všechny, to bude pohodlnější.
+Ok.
+Um.
+Odeslala jsi to?
+Je to účastník jedna?
+Jo.
+Uh, je to tenhle e-mail.
+Já navrhuji uživatelské rozhraní.
+Ok.
+Můžeš, uh.
+Ok.
+Takže, já můžu měnit snímky, kdykoli mi řekneš, to bude pohodlnější.
+Jo.
+Tak dobře, funkční požadavky.
+Dobře, takže můžeš, můžeš to posunout.
+Dobře, takže v naší laboratoři použitelnosti jsme udělali pozorování používání dálkových ovládání mezi sto úživateli a ti také vyplnili dotazník, ok?
+Mm.
+Jo.
+A tady mám výsledky, takže vidíte, že, um, sedmdesát pět procent uživatelů si myslí, že většina dálkových ovládání je ošklivá, takže musíme vymyslet, jak je udělat hezčí, přívětivější.
+Osmdesát procent uživatelů by za dálkové ovládání utratilo víc, kdyby vypadalo luxusně.
+Osm set procent uživatelů by utratilo více peněz, kdyby dálkové ovládání vypadalo, oh, to není správně.
+Takže dobře.
+Takže to není teoreticky, ale já, můžu to říct, jo.
+Můžeme pokračovat?
+Jo.
+Padesát, uh, sedmdesát procent uživatelů tvrdí, že často probíjí.
+Takže, mm, musíme mít dálkové ovládání, uh, tomu uzpůsobené.
+Uh, tlačítka musí bý, um, uh, uh, jak jsi říkal, odolná vůči elektrickým šokům.
+Dobře.
+Um, a padesát procent uživatelů tvrdí, že používají jenom, uh, deset procent tlačítek na dálkovém ovládání.
+Dobře.
+Takže všechna tlačítka, která tam dáme, musí, um, musí mít skutečné využití nebo tak.
+Dobře.
+Dobře, takže méně tlačítek by možná bylo dobré?
+F, ne moc tlačítek a uh, a uh, uh využitelná tlačítka.
+Dobře.
+Ale na jaké typy dálkových ovládání ses zaměřila?
+Prosím?
+Jaký typ zadání to byl?
+Bylo to na televizi?
+Ano.
+Uh, většina z nich byla na televizi.
+Jo.
+Jo, ale ve skutečnosti to vypadá, že budeme vyrábět dálkové ovládání na televizi podle nových požadavků, které jsem obdržel od vedení, které představím později.
+Co.
+Aha.
+Ah ! Dobře.
+Ok.
+Ok, můžeš pokračovat.
+Takže, další z frustrací, kterou uživatelé zmiňovali je, že uh, často v místnosti dálkové ovládání ztratili, takže chtějí způsob, jak ho najít.
+Jo.
+Jak ho najít.
+Jo.
+Um a um, často je to spousta času, zabere jim spoustu času se na naučit zacházet s novým dálkovým ovládáním.
+Jo.
+Takže chtějí něco velmi jednoduchého a snadného na použití.
+Mm-hmm.
+Ok.
+A dálková ovládání způsobují syndrom přetížení, um, já nevím.
+Co je RSI?
+RSI, jo, tvoje zápěstí.
+Může to být bolestivé, můžeš z toho mít zánět šlach. 
+Oh, fakt?
+Jo.
+To jsem nevěděl.
+Taky když sedíš u počítače v nějaké nepřirozené pozici.
+Ok, takže ho musíme udělat, uh, víc ergonomické. 
+Ergonomické.
+Ale, uh.
+Jo.
+Musím říct, ha ha.
+To je tvoje práce, uh.
+Uh.
+Uh, promiňte, dostal jsem zprávu z Microsoftu.
+Ok, um, nejdřív mám něco, něco, co uh, chci nejdřív říct. Víme, že, uh, uživatelé hodně používají, um, dálkové ovládání, aby, um, přepínali programy.
+Jo.
+Jo, jo.
+Jo.
+Um, a, um, aby změnili hlasitost a uh, hodně často ke změně nastavení kanálů a, uh, takové věci.
+Dobře.
+Jo.
+Mm-hmm.
+Mm-hmm.
+Ok.
+Takže je lepší použít něco, uh, velmi jednoduché k nastavení, uh, a hodně přístupné, ano.
+Jo.
+Tato funkce by měla být velmi, uh, dostupná.
+Jo, dobře.
+To je pravda.
+Tohle je hlavní funkce, ok.
+Takže, pak jsme jim položili nějaké otázky a, um, zeptali jsme se, jestli upřednostňují L_C_D_ obrazovku a nebo remultifickou funkci na svém dálkovém ovládání, a jestli by, mm, zaplatili víc za rozpoznání hlasu v dálkovém ovládání a, můžeš to posunout, a tady vidíme výsledky otázek.
+Jo.
+Jo.
+Jo.
+První otázka.
+Takže, víte, pro, um, mladé je velmi důležité mít rozpoznání hlasu.
+Mít L_C_D obrazovku a rozpoznání hlasu.
+A, uh, pro ostatní to není zas tak důležité, ale, uh, víme, že, uh, lidé mezi patnácti a pětadvaceti lety, kteří hodně sledují televizi a kteří to, uh, hodně využijí.
+Dobře.
+Takže možná bychom tam mohli přidat rozpoznání hlasu.
+Ano, možná je to důležité.
+Ano.
+Navíc možná ti zákazníci, ti teenageři, by mohli doporučit svým rodičům, aby tohle zařízení koupili, a tak bychom se mohli postarat i o tenhle úhel pohledu, myslím.
+Mm.
+Mm.
+Jo.
+Dobře, a tohle je závěr.
+Takže, jak už jsme předtím zmínili, uh, um, je dobré mít dálkové ovládání, které svítí ve tmě.
+Dobře.
+Uh, ne moc tlačítek, jak už jsme také řekli, jednoduché použití, uh, aby se dalo v místnosti snadno nalézt, uh, odolné vůči šokům a tak, jo.
+Jo.
+Mm-hmm.
+Ok.
+Dobře, tohle jsou požadavky uživatelů, jo. 
+Nevím, jestli tam vidíte ještě něco důležitého nebo, mm. 
+Jen o něčem přemýšlím.
+Um, chceme, ne, nevím, jestli je to dobrý nápad. 
+Chceme mít základní dálkové ovládání na všechno. 
+Ne, ne, ne.
+Zdá se, že chceme mít dálkové ovládání na televizi.
+Dobře.
+Dostal jsem e-mail od správní rady.
+Mm.
+Jo.
+Kdybychom chtěli základní dálkové ovládání na všechno, stálo by to moc peněz a taky by to zabralo víc času ho vyvinout.
+Jo.
+Jo, jo.
+Jo.
+Mm, myslím, že to není pravda.
+Ten druhý argument.
+Ne, ne.
+Vyvinout to by zabralo moc dlouho.
+Jo.
+Myslím, že by to mělo vyjít na stejno.
+Ou, jo.
+Protože jsem dostal e-mail od správní rady, ve kterém znělo, že pokud chceme být na trhu co nejdříve, měli bychom se více soustředit na televizi. Tam to vypadá, že trh je důležitější.
+Takže možná je to dobré rozhodnutí.
+Já nevím.
+Co si o tom myslíš?
+Já mám, uh, nemám vůbec představu, myslím, že bych měl vědět víc o tom, jak dlouho nám to zabere navrhnout.
+Nemyslím si, uh, jo.
+Večer by to mělo být hotové.
+Jo.
+Dobře.
+Ale zkrátka, jo, možná můžu pokračovat ve svojí prezentaci, ale myslím, že máme nějaký technický problém nebo tak.
+Jo.
+Ok.
+Jo.
+Jo.
+Takže, já jenom rychle popíšu, co je třeba mít v dálkovém ovládání. 
+Možná můžeš použít bílou tabuli, nevím, jestli potřebuješ nějaké nákresy.
+Vlastně jo, nějaké mám.
+Mm.
+Teď mám dost kabelů.
+Cítím se trochu jako pes s těmahle věcma.
+Dobře, takže ve skutečnosti je to s dálkovým ovládáním docela jednoduché.
+Musíme jenom, promiňte.
+Dobře.
+Jsi v pořádku?
+Jenom to popíšu.
+Jednoduše, tady máme baterii, zdroj energie. 
+Potom tady máme uživatelské rozhraní.
+Řekněme, že, um, něco takového, co by mohl být L_C_D_ nebo řekněme, pole pro tlačítka, něco takového.
+Tlačítka nebo L_C_D_.
+Potom to dáme do, um, uh, elektronického čipu.
+Takže máme U_C_ a nahraje se do, uh, L_E_D_, což je infračervený, um, což je infračervený komponent.
+Taže pro mě, pro nás je to celkem jednoduché.
+U_C_ je centrální jednotka?
+Ano.
+Jo, dobře.
+Ano, je to jenom čip, který dělá všechnu, um, výpočetní práci podle vašeho displeje.
+Vypočetní.
+Dobře.
+A takže pro nás, uh, je to celkem jednoduché.
+My musíme jen definovat, co chceme dělat s uživatelským rozhraním a potom to jen zakódujeme a vyšleme, ne, do televize.
+Dobře.
+Takže pro nás je to celkem jednoduché.
+Ok, takže je to celkem jednoduché.
+Ano.
+Um, jenom definujeme, jakou sílu procesoru potřebujeme, uh, hlavně jestli chceme nějaké, uh, rozpoznání hlasu, v tom případě jí budeme potřebovat víc. 
+Není to takové omezení.
+Myslím, že to také zabere více času vyvinout.
+Jo.
+A, um, se standardním je to velmi jednoduché.
+Je to otázka jednoho měsíce a tak ne, ne, ne, ne, říkám, že u standardního dálkového ovládání to zabere možná tak jeden měsíc to navrhnout.
+Brzy.
+A teď mluvíš o tom na ovládání hlasem?
+Standardní tlačítkový.
+Jo.
+Takže jediný problém s časem by dělalo to rozpoznání hlasu.
+Jo.
+Jo.
+Určitě.
+Jo.
+Takže máš nějakou představu, jak dlouho by v současnosti zabralo to na ovládání hlasem?
+Řekl bych.
+Deset let.
+Řekl bych, že, uh, asi osm měsíců, než bychom měli první výsledky.
+Dobře, to je docela dlouho, jo.
+Jo.
+Můžu, um.
+Měsíc na standardní tlačítkové.
+Jo.
+I když budeme mít L_C_D_ displej?
+Ano, i tak.
+Chci říct, to jsou dnes docela základní zařízení.
+Um, osm.
+Na, uh, rozpoznání hlasu.
+Dobře, jo.
+Dobře, takže to vezměme v úvahu.
+Takže si myslíš, že by bylo dobré zvolit, uh, to rozpoznání hlasu?
+Ale nemáme čas ho představit na trh.
+A taky jsi na první schůzce, myslím, říkal, že bychom, že bychom neměli překročit dvanáct a půl eur za jednotku, takže kolik jednotek bychom měli prodat, abychom měli, jo, ale kolik.
+Ano, to bude.
+Myslím, že bychom měli kontaktovat vedení.
+Eura.
+Jo, jo.
+Dobře.
+Tedy, každá jednotka se bude prodávat za, uh, dvacet pět eur.
+Uh,  kolik dostaneme, když nakoupíme milion jednotek, ne, sto tisíc jednotek.
+Eh, čipy.
+Teď budeme potřebovat čipy.
+Jo.
+Jo.
+Kolik to bude stát za sto tisíc? 
+Většinou to bývá něco pod dva dolary za čip.
+Ok.
+Protože jsme z první schůzky, vypadá to, že chceme prodat asi čtyři miliony jednotek.
+Takže, máš nějaku představu, jak silný musí být, uh, dost silný na rozpoznání hlasu?
+Jo, můžeme, m-hmm.
+Ano?
+Dobře.
+Takže.
+Ne, není.
+Dobře.
+Čtyři miliony.
+Dobře.
+Možná bychoom se mohli podívat na nové požadavky, které jsem obdržel od správní rady a pobavit se o všech funkcích, co chceme mít.
+Mm.
+Um, jenom se chci zeptat, chceš ještě pokračovat ve svojí prezentaci?
+Ano, budu pokračovat.
+Chci říct, um, nepamatuju si to z hlavy, ale třicet procent respondentů se vyjádřilo, že je dost složité používat dálkové ovládání.
+Dobře, zeptej se, jestli chceš.
+Mm?
+Jo.
+Říkají, že je to složitě kvůli z toho samého důvodu nebo je pro to nějaký jiný důvod?
+Ou.
+Abychom to měli na paměti, aby se dostali do menu, možná udělat něco takového.
+Uh, jo, myslím, že tvrdí, že, uh, je složité se ho naučit používat, ale když ho umí používat, je to v pořádku.
+Mm-hmm.
+Mm-hmm.
+Ok.
+A jo, možná co kdybychom navrhli dálkové ovládání, co se dá nakonfigurovat podle potřeby?
+Ale, jo.
+Nejdřív to není intuitivní.
+Říkáš, že chceš, uh, šest tlačítek.
+Mh-hmm.
+A spousta lidí, uh, když máte L_C_D_ dispej, pokud to chcete udělat úplně, jak chcete, protože tlačítka budou vypadat taky jak chcete, bude to těžké nakonfigurovat, jen si to představte, je to něco pro opravdu zkušeného uživatele.
+Jo.
+Jo.
+Ale taky to vypadá cool, jo.
+Jo.
+Dobře.
+Takže, myslím, že jsou tu různé trhy.
+Myslím, že mladí lidé jsou, uh, jsou, uh, Christine to tu už řekla, uh, máte, je to, jo.
+Jo.
+Jo.
+Takže pro mladé lidi, uh, to bude atraktivní, ti by to mohli využít.
+Možná, že ne jejich rodiče, ale oni na to přijdou.
+Asi ano.
+Nevím, jestli je na to nějaký výzkum.
+Jo.
+Mm-hmm.
+Možná by bylo složitější to nakonfigurovat, aby to bylo jednoduché, než udělat jednoduchý produkt.
+Mm.
+Jo.
+Jo.
+Jo.
+Mm.
+Mm.
+A ještě je tu jedna věc, když ho navrhneme jednoduché a snadné na používaní, okamžitě to znamená, že bude úplně stejné jako všechny ostatní.
+Jo.
+Jo.
+Dobře?
+Jo.
+Jinak, pokud by to bylo jiné, každý se to bude muset nejdřív naučit používat.
+Jo.
+Jo.
+Ale taky víme, že pro většinu lidí jsou dálková ovládání moc komplikovaná, protože mají spoustu tlačítek a oni používají hlavně přepínaní kanálů a nastavení hlasitosti.
+Mm.
+Mm-hmm.
+Takže bychom mohli jen, uh, vyrobit dálkové ovládání, které je jednoduché na použití, hlavně s těmi tlačítky a možná také nějakým podsvícením, protože pro spoustu lidí je těžké dálkové ovládání najít.
+Ano.
+Ztrácí ho a tak podobně.
+Mm-hmm.
+Tohle jsou dvě věci, které jsou hlavní problémy, takže možná, že když navrhneme něco hodně jednoduché a snadné k použití, uh, nalezení, když se ztratí, mohlo by nám to dát velkou výhodu oproti konkurenci bez toho, aniž bychom museli vyrábět něco moc složitého, co se bude vyvíjet dlouho.
+Mm.
+Mm-hmm.
+Takže ale pojďme se nejdřív podívat na nový požadavek.
+Takže, tohle je, uh, tohle jde stejnou cestou, o jaké jsme mluvili, takže nemusíme dělat nějak složité dálkové ovládání, abychom měli přístup k teletextu a tak podobně, jo, ale pak taky potřebujeme tlačítka, abychom mohli procházet stránkami a tak.
+Ale na teletext slouží jenom jedno tlačítko.
+Takže, jen zapiš jednotlivé počty.
+Jo.
+Takže dobře, ano.
+Takže přidáš tlačítka k jednotlivým kanálům, ano?
+Tak.
+No, stejně nemusíme tuhle funkci zařadit, protože uživatelé už ji nepoužívají, oni preferují, jo.
+I am.
+Jsem si jistý, že, uh, nelíbí se mi to, ale nepřijde mi, že je to jenom jedno tlačítko.
+Takže.
+Já nevím.
+Takže k tomu tlačítku potřebujeme stejně ještě jedno tlačítko.
+Jestli to chceme udělat hodně jednoduché, musíme snížit množství tlačítek, abychom měli výhodu proti naší konkurenci.
+Mm-hmm.
+Každpádně mám připomínku.
+Můžeme se o tom pobavit.
+Taky, um, jak už jsem předtím řekl, uh, bylo by lepší, kdybychom ho nechali jen na televizi, um, protože chceme být rychleji na trhu.
+A potom bychom také měli hodně, uh, zdůraznit, že tohle dálkové ovládání je jeden z našich produktů a dát na návrh naše logo a barvy, aby, uh, bylo identifikovatelné jako jeden z našich produktů.
+Tak to je klíčový bod.
+Takže, uh, než skončíme, můžeme si, uh, definovat, uh, jaká bude charakteristika našeho dálkového ovládání, a jaká potřebujeme tlačítka, které funkce chceme a tak dále a tak dále.
+Kapitál.
+Mm.
+Takže, um, jako expert trhu si myslím, že nejdůležitější aspekt je, aby bylo jednoduché na použití, mělo by být velmi jednoduché a většina tlačítek není používaná, jenom deset procent z nich je používáno často, takže si myslím, že bychom měli navrhnout něco velmi jednoduchého. Na tomhle bodě se, myslím, všichni shodneme, ne?
+Mm.
+Mm-hmm.
+Mm.
+No, jestli to bude dálkové ovládání jen na televizi, bude to velmi jednoduché.
+Ano, dobře.
+Ano, takže klíčová je tady jednoduchost.
+Možná.
+Takže několik tlačítek, na přepínání kanálů, regulaci hlasitosti a jaké, jaké funkce ještě k tomu?
+No, jestli to má být co nejvíc jednoduché, mít jen dálkové ovládání, nevím o žádné další funkci.
+Jo.
+Možná zapnutí a vypnutí televize, jo.
+Ou, ne, chceme nechat televizi zapnutou, aby se nám vrátil zisk z reklam.
+Nebo něco.
+Jo.
+Hlasitost, možná tlačítko pro ztišení a potom tlačítko vypnout.
+Mm.
+A to je všechno?
+Uh, vím, že jsi říkala, že někteří, že spoustě lidem se často stává, že dostanou ránu.
+Mm-hmm.
+Mm.
+Já vím, když jsem to zběžně procházel, objevil jsem, uh, že teď se dělá něco, co je docela dobré, máš tlačítko, kterým se dostaneš na předchozí kanál.
+Je to na paměť, jo.
+Ok.
+Jo, to je super.
+Možná bychom to mohli taky zařadit.
+Tlačítko pro předchozí kanál.
+Takže máme tlačítko na kanály, tlačítko na předchozí kanál, tlačítko hlasitosti, k tomu tlačítko pro ztišení a, uh, klasické tlačítko pro vypnutí a zapnutí.
+Mm-hmm.
+Mm-hmm.
+Mm-hmm.
+A, uh, samozřejmě tlačítko na změnu kanálu. 
+Jo.
+To už jsme zmínili, ne?
+Jak by, jak bychom to měli zavést?
+Protože můžeme mít změnu jednotlivými čísly nebo taky posouváním?
+Jo.
+Určitě posouváním, takhle je přepneš bez probíjení. 
+Mm-hmm.
+Řekněme, že to můžeme nějak tak udělat.
+Mohla by být, uh, postupné, a pokud podržíš tlačítko dýl, bude přepínat po pěti programech. 
+Bude to rychlejší?
+Aby to bylo rychlejší.
+Mm.
+Mm.
+To je zajímavá myšlenka obecně, že když tlačítko podržíš déle, udělá to něco jiného.
+Takže, jestli máme těch deset číselných tlačítek, místo toho můžeme mít jenom paměť, pokud je podržíš dost dlouho. Ne.
+Jo.
+Tak to nefunguje, ne.
+Možná bychom měli mít digitální tlačítka, jo.
+Možná bychom měli mít celou klávesnici a psát na ní povely.
+Změň na kanál číslo osm.
+Ne.
+Možná bychom měli mít buď číselné nebo postupné přepínání.
+Já nevím, protože když máš jenom, uh.
+No, jestli je to k něčemu, protože když chceš procházet třeba skrz tři kanály, nemůžeš pracovat jenom s posloupnou pamětí.
+Jo.
+Protože na to máš tlačítko předchozího kanálu, pokud máš pouze postupné přepínání, nevyplatí se to, protože předchozí kanál je jenom o jedno dopředu nebo dozadu.
+Jo.
+Jo.
+Jo.
+Takže myslím, že potřebujeme také čísla.
+Dobře.
+Možná můžeme udělat prominentní tlačítka na přepínání kanálů a hlasitosti a menší tlačítka dole s čísly.
+Jo, když to probíjí, je to tím, že mačkáš pořád stejné tlačítko, jo.
+Jo.
+Nebo můžeme udělat něco takového.
+Můžeme navrhnout dálkové ovládání, abychom měli přístup.
+Víte, některá dálková ovládání mají, uh, ochranu, a tak jo, jo, něco jako joystick.
+Mm-hmm.
+Jo.
+Hele, teď jsem si vzpomněl, že jsou i nějaké s takovým kolem.
+Místo tlačítek nahoru a dolů, uh, můžeš mít kolo.
+Jo.
+Jo.
+Jo.
+Možná bychom mohli mít ovládací kolo pro postupné přepínání.
+Jo.
+Ok.
+Takže budeme mít kolo pro postupné přepínání, čílesník ve spodní části, který jde zavřít, aby byl, jak už jsi říkal, chráněný a, uh, jo, myslím, že tohle je základ. A máme, ne, ovládací kolo bude lepší.
+Mm-hmm.
+Mm-hmm.
+Na spodní straně, myslím, že to musíme otočit.
+Ne?
+Když to uděláme.
+Nebo kouli, jo, ne kolo, ale kouli, a jak říkáš, uh, jo.
+Jo.
+Řekl bych, že kolo je lepší.
+Protože to není jako u hlasitosti, kde to jde plynule, ne?
+Co na to specialista, uh, ok.
+Kanály se mění po jednom.
+Jo.
+Takže uživatel by měl mít pocit ochrany.
+Jo, to jo.
+Jo.
+Jo.
+To je dobrý nápad.
+No, taky se musíme rozhodnout, uh, jestli by mělo svítit ve tmě, protože většina lidí ztrácí svoje dálkové ovládání.
+To je celkem jednoduché, můžeme to udělat se zadním podsvícením na ovládacím kruhu.
+Ok.
+Jo.
+Jestli to bude L_E_D_, uh, nebo jestli to bude L_C_D_ nebo tak, jo.
+Modrý, budeme to prodávat s modrým L_E_D_, um.
+Jo, a dáme tam L_C_D_ displej?
+Jo.
+Protože jestli si pamatujete, bylo to důležité pro mladé zákazníky.
+Myslím, že bychom ho tam měli dát jen pokud bude multifunkční.
+Jo.
+Pokud ho uděláme multifunkční, je zbytečné mít L_C_D_.
+Jenom to navýší cenu.
+Ok.
+Uživatel nemá doopravdy žádnou výhodu.
+Takže žádné L_C_D_?
+Mm-hmm.
+Hmm.
+A taky žádné rozpoznání hlasu, protože by to moc zpozdilo proces vývoje.
+Ok.
+No, možná, že ho to zpozdí, ale jo, bylo by to cool.
+To by bylo.
+Protože uživatel by mohl říct například C_N_N_ a ono by to přeplo na C_N_N_.
+Mm-hmm.
+Mm.
+Jo.
+To by bylo super.
+Ale osm měsíců je opravdu dlouhá doba a možná bychom mohli jen, uh, dobře.
+Jo.
+Deset let, mm-hmm.
+Takže, um, přesunu, um, přesunu se k další schůzce, takže po pauze na oběd, uh, tady jsou jednotlivé akce, které musíme splnit, ale ty vám ještě, myslím, zopakuji v e-mailu, jestli chcete, můžete si dělat poznámky, ale přijdou vám instrukce.
+Takže díky za, uh, vaše návrhy a já udělám shrnutí tohohle setkání, které dám do sílené složky, kterou teď nemůžete vidět a, uh, pak se budete moci podívat, co, uh, bylo řečeno na téhle schůzce a na čem jsme se domluvili.
+Ok.
+Ok.
+Ok.
+Uh, možná mi před příští schůzkou pošlete prezentace e-mailem, abychom se na ně mohli podívat, uh, dohromady.
+Jo.
+To by bylo jednodušší.
+Mm.
+Do jaké složky jsi to dávala?
+A fungovalo to?
+Ne.
+Ne, nefungovalo to.
+Ne, ne.
+Poslala mi to na e-mail.
+A jo.
+Nevím, nevím, co s tím.
+Mm.
+Dobře.
+Takže možná je to tak lepší, poslat to e-mailem.
+Dobře, jaký máš e-mail?
+Ok?
+Tak jo, já, já jsem v prvním, uh, e-mailu, takže jsem účastník jedna zavináč AMI, kde to je, tady to je.
+Účastníkovi jedna.
+Dobře.
+Účastník jedna zavináč AMI.
+Dobře.
+Takže se uvidíme po obědové pauze.
+Ok, děkuju.
+No, vlastně na obědové pauze.
+Příště bychom si měli dát souboj.
+A co, s vedoucím nebo tak.
+Který je shodou okolností tvůj kamarád.

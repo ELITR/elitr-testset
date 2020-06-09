@@ -1,0 +1,401 @@
+Dobře.
+Mm-hmm.
+Takže, jsme tu kvůli schůzce ohledně konceptuálního návrhu.
+Takže, nejprve začneme shrnutím minulé, mm, schůzky a rozhodnutími, ke kterým jsme dospěli.
+Uh, budu si dělat poznámky během tohohle setkání, abyste, uh, se mohli podívat do mé, uh, složky, kde potom najdete shrnutí téhle schůzky.
+Takže, každý z vás, uh představí různé výsledky průzkumů, které jste vykonali během, uh, uplynulých hodin.
+Shodneme se na řešení a potom, uh, si definujeme následující úkol, který splníme před další schůzkou.
+Takže, minule jsme se dohodli na jednoduchém uživatelském rozhraní.
+Také jsme se rozhodli, že k přepínání programů použijeme ovládací kolo.
+Číselná tlačítka na přepínání kanálů by měla být, uh, chránená plastovým krytem nebo něčím, aby dálkové ovládání mělo jednoduchý vzhled.
+Máme také tlačítko na hlasitost a zapnutí a vypnutí televize.
+Máme také funkci osvícení, aby se dálkové ovládání dalo snadno najít a kvůli rychlému vývoji a nízké ceně jsme se shodli, že nepoužijeme L_C_D_ ani ovládání hlasem.
+Takže nyní, uh, budeme mít tři prezentace.
+Takže to bude konceptuální specifikace návrháře výroby, specifikace uživatelského rozhraní, ok. 
+Jmenuji se Abdul al-Hasred.
+A, uh, poslední část bude sledování trendů odborníka na trh.
+Takže možná můžeme začít s, uh, výrobním návrhem.
+Tak, tohle je ta prezentace.
+Uh, chceš I_D_?
+Možná můžu posouvat snímky, když mi řekneš.
+Jo.
+No, mám jenom tři snímky.
+Jen se podívám, mm, um, jen tohle.
+Na některých webových stránkách se dá najít dokumentace a myslím si, že dálkovému ovládání, jak už jsem zmínil minule, stačí velmi jednoduchý čip a, mm, uživatelské rozhraní funguje jen na stisknutí tlačítka a v našem případě používáme ovládací kolo.
+Jo.
+Takže, uh, uh, jednoduše jsem vyhledal ten čip, je, uh, velmi standardní a, uh, a vyhledal jsem senzor kola a standardní tlačítko.
+A, um, můžeme to přímo měnit.
+Jo.
+Vlastně mám číslo toho prvku, což je velmi standardní dálkové ovládání.
+Tlačítka bývají většinou extrémně levná, ale mám jeden problém a to se týká kolového senzoru, který se zdá být docela drahý.
+Ok.
+Mm-hmm.
+A myslím, že bychom se měli pobavit o tom, jestli opravdu potřebujeme kolový senzor nebo jestli nemůžeme udělat nějakou kombinaci tlačítek.
+Dobře.
+Uh, kolový senzor stojí padesátkrát víc než tlačítka. 
+Jo.
+Ale ovlivňuje to nějak zásadně cenu celého dálkového ovládání?
+Mm.
+Protože si můžeme dovolit cenu až dvanáct euro za ovládání. 
+Jo.
+Jo, já, ale nemyslím, měli bychom si říct, jaký chceme design krabičky, do toho taky potřebujeme vložit peníze.
+Takže, bude, bude, uh, to zahrnovat všechny možné věci, bude výroba toho všeho s tlačítky, kolem a čipem, uh, stát míň než dvanáct euro?
+Jo.
+Dobrá, něco jste dostali, hmm.
+Ještě bych se chtěl zeptat, jestli jste dostali e-mail ohledně rozpoznávání hlasu?
+Ale, um, to je všechno, jo.
+Ne?
+Nekoukal jsem. Mm-hmm.
+Jo.
+E-mail, uh, z výrobního střediska, kde už vlastně čip na rozpoznávání hlasu vyvinuli.
+Je to tam, jo.
+Je tam, že v současnosti to používají, uh, jenom na nahrávání odpovědí na konkrétní otázky.
+Ale, hádám, že by to mohlo, hádám, že je to možné.
+A dalo by se to adaptovat?
+Mám na mysli to, že místo nahrávání odpovědí můžete, uh, nahrát něco jednoduššího jako je příkaz.
+Dobře, a pak to může, uh, rozpoznat nějaké příkazy a tak?
+Jo, rozpoznáš příkazy a nahraješ nějaké nové a tak podobně, takže jestli už, uh, mají ten čip, mohli bychom ho použít.
+Ok.
+Jo.
+Dobře, možná si můžeme, uh, poslechnout prezentaci a potom se rozhodnout na základě aktualizací.
+Ok.
+Jo, ale myslím, že jo, pardon, nenapsal jsem své osobní zdroje.
+Um, já chtěl jenom zmínit, že problém je ten, že kolový senzor je dražší než tlačítka a jestli je možnost to nějak snížit.
+Dobře.
+Už máme nějaké dobré nápady, uh, s, um, podsvícením tlačítek.
+Na to bych se vlastně chtěl zeptat.
+Mm-hmm.
+Um, k čemu to světlo slouží?
+Abychom udělali něco, co je trochu víc designové než hranatá pogumovaná krabička, jo.
+Ale, ale, uh, ve tmě to světlo bude vždycky svítit?
+Aby se dala tlačítka jednoduše rozpoznat ve tmě nebo tak?
+Zapne se, když uživatel dálkovým ovládáním pohne, ne?
+Ale když s ním pohneš, znamená to, že už ho máš a nemusíš ho hledat.
+Hmm.
+Samozřejmě uvidíš líp na tlačítka.
+Jo.
+Jo.
+Jo.
+Jo.
+To je pravda.
+Vlastně.
+Ale jestli s ním chceš hýbat, musíš tam mít nějaký senzor, který bude detekovat pohyb.
+Hned, jak pohneš s dálkovým ovládáním, rozsvítí se.
+Jo, ale na to je potřeba další senzor, ne?
+Jo.
+Znovu.
+Jo, ne, to je moc drahé.
+Nemyslím, že je to tak moc drahé, ale nakonec je spousta, eh, hodně levných zařízení, ale, uh, účet začne být, nejdříve jsem myslel, že bychom měli nepřetržité osvícení, a když zmáčkneš tlačítko, ovládání se rozsvítí, nebo jo, když ho chceš trochu ztlumit.
+Dobře.
+Mm.
+Extra.
+Jo, dobře.
+Mm.
+Jo, ale čekal jsem, že to ovládací kolo bude fakt levné, ale ty mi říkáš, že bude stát hodně, takže jo.
+Mm.
+Mm-hmm.
+Ale může to plýtvat baterií, ne?
+Když bude pořád svítit?
+Trochu.
+Mm.
+No, možná se o tom pobavíme po ostatních prezentacích.
+Jo.
+Ok.
+Takže, uh, moje by měla být ve sdílené složce.
+Jo.
+Tak.
+Naposledy tam byla.
+A je tu.
+Ok.
+Takže, posuň to na další snímek.
+Dobře.
+Takže, chceme, aby bylo hodně jednoduché, jo? 
+To je hlavní myšlenka, co nejjednodušší.
+Jo.
+Jo.
+Takže, prošla jsem nějaké současné designy, uh, na webu, většinou jde o složitá dálková ovládání.
+A podívejme se na tato dvě, protože, uh, i když mají spoustu tlačítek, vypadají docela jednoduše.
+A v našem případě jen, uh, zavrhneme tlačítka, která nepotřebujeme, abychom ho udělali jednodušší.
+Jo.
+Um.
+Takže.
+A taky, uh, drží se dobře v rucee?
+Protože tam, uh, byl ten problém se zápěstím.
+Jo.
+No, tahle ovládání jsou docela velká, tak přejdi na další stránku, tedy.
+Máme všechna tahle tlačítka, jak můžete vidět, ale většina z nich, potřebujeme jen ty uprostřed.
+Jo.
+Jo.
+Jo.
+Takže, ze spodní strany nebo co to tam je, uh, čísla, potom vrchní část, uh, až do desítky, tahle střední část a ten nalevo je úplně stejný.
+Jo.
+Jo.
+Takže, takhle bychom to plus minus chtěli, s velkým tlačítkem na ovládání hlasitosti, velkým tlačítkem na přepínání kanálů a ztišení a zapnutí, ano?
+Jo.
+Tohle je základ.
+Takže to je jenom střední část.
+Takže jednoduše, software, který navrhneme, bude vypadat víceméně stejně jako u těhle dvou.
+Jo.
+S možná trochu víc ergonomickým designem ve spodní části.
+Jo, když máte, myslím, že třeba na ta tlačítka hlasitosti nahoře se těžko dosáhne palcem.
+Mohlo by být například na pravé straně.
+Jo.
+Ok.
+Jo.
+Protože nemáme tahle vložená tlačítka a ostatní věci, co oni mají.
+A myslím, že ten plastový obal není moc dobrý, uh, nápad, protože když ho otevřeš, může se zlomit, může se s ním stát spousta věcí.
+Dobře.
+Uh, jen musíte dát číselník na kanály někam jinam.
+Ok.
+Dobře.
+Aby byla trochu oddělená, jo.
+Dáme je dolů, dobře.
+Uh, aby bylo jednoduché zmáčknout ostatní velká tlačítka, ale, uh, nesmí být tak těžké mačkat i tlačítka na změnu kanálů.
+Mm.
+Jo, myslím, že když tam dáme kryt, bude to pro uživatele ještě těžší.
+Ok.
+Dobře, tak to nedělej, jo.
+Většinou jsem si všimla, že lidé dávají plastový kryt na věci, které normálně nepoužívají, jako tlačítka na posun kanálů a tak.
+Dobře.
+Jo.
+Která chcete trochu chránit.
+A myslím si, že je, uh, je to rozumné. 
+Dobře.
+Takže, já nemyslím Jo, to je jen to kolo. 
+Mohli bychom použít možnost stlačit to kolo, mohli bychom využít zmáčknutí dolů k nahrávání, kdybychom chtěli.
+Mm.
+Mm-hmm.
+Uh, takže bychom mohli jednoduše použít to jedno kolo a, uh, uživatel, by mohl v tom případě tím kolem dělat všechny akce s kanály.
+Jo.
+Možná by to kolo mohla být výhoda proti naší konkurenci.
+Mm-hmm.
+Protože jinak je docela obyčejné kromě toho, že je velmi jednoduché. 
+Takže možná je horší na tento aspekt, uh, utratit více.
+To s tebou souhlasím Mm-hmm.
+Jo, řekl bych, že průzkumník trhu nám k tomu řekne víc.
+Dobře.
+Takže můžeme jít dál, jsou nějaké otázky?
+Pro návrháře uživatelského rozhraní? 
+nebo se můžeme posunout k další části, možná, a potom to prodiskutovat?
+Ok.
+Dobře, můžu začít?
+Můžu?
+Jo.
+Takže, teď k posledním průzkumům, které jsme vykonali ohledně dálkového ovládání, um.
+Takže, nejdůležitější část dálkových ovládání je, aby byla na pohled i na dotek luxusní a ne jako současná, která jsou funkční na pohled a na dotek.
+A, um, druhá část je ta, že dálkové ovládání by mělo být technologicky inovativní.
+Dobře.
+A třetí a nejdůležitější část je, že by ovládání mělo být jednoduše ovladatelné.
+Takže, to jsou věci, o kterých už jsme předtím mluvili.
+Mm-hmm.
+Jo.
+Jo.
+A, um, můžeš jít dál.
+Jo.
+A v Paříži a Miláně jsou lidé, kteří sledují módu, kteří zaznamenali následující trendy, uh, ovoce a zelenina jsou nejvýznamnější vzory oblečení, bot a nábytku.
+Takže, možná že když naše dálkové ovládání bude ve tvaru ovoce, zeleniny nebo něčeho takového. A materiál by měl být měkký jako houba.
+Dobře.
+Já jsem za jablko.
+Uh, já nevím, jaké materiály jsou jako houba, a když Mm-hmm.
+Jo.
+To je taky dobré, jo.
+No, já myslím, že můžeme dát elektroniku do něčeho houbového, to by šlo, ne?
+Jo.
+Jo.
+Jo.
+Jo, taky si myslím, že by mělo mít houbovitý materiál, jo.
+Můžeš ho hodit na televizi.
+Jo, protože je robustní.
+Dobře, je robustní, jo.
+Jo.
+Já taky.
+Hej, to je dobré.
+Můžeme říct, že když s ním hodíš, je tam senzor, a když zasáhne televizi, tak se vypne. 
+Když dostane šok.
+Jo, uh, pardon?
+Ah, to je dobrý.
+To není dobrý.
+Vím, že to takhle dělají i s budíky.
+A, uh, tohle, uh, dá se říct, jo.
+Jo.
+Můžeš jít zpátky, jo zpátky. 
+Jo.
+Jo.
+Zpátky?
+Jsou tady mnohem důležitější aspekty, jako je luxusní vzhled a dotek, potom je, uh, technologická inovace a potom jednoduché ovládání.
+Jo.
+Jo.
+Jo.
+Myslím, že je inovativní použít to kolo, mm, protože to podle mě nikdo jiný nemá.
+Jo.
+Jo, proto, jo, proto si myslím, že bychom to tak měli nechat, pokud to jde.
+Nechat?
+Jo.
+Myslím, že tak zůstane jednoduché i inovativní.
+Mm-hmm.
+Inovativní.
+Myslím, že je to dobrý aspekt a mělo by to tak zůstat.
+Mm.
+Otázkou je, jak ho uděláme cool.
+Cool, luxusní?
+Jo.
+Mělo by vypadat jako ovoce nebo zelenina.
+Jo.
+Možná, uh, um, mu dát barvu, co připomíná nějaké ovoce, uh, něco takového.
+A co, um, aby bylo hezké na pohled a na dotek, mohlo by být jako kostka ledu s modrým L_E_D_ uvnitř?
+Mm.
+Ou, barva, jo.
+No, myslím, že se nabízí banán.
+Ou, já měl na mysli třeba hrušku.
+Možná, že jo.
+No, hruška se dobře drží v ruce, jo.
+Jo, a taky je ergonomická.
+Hruška.
+Banán je taky ergonomický.
+Jo.
+Možná hruška nebo něco takového.
+Nebo ovoce nebo tak.
+Nevím.
+Jo.
+Můžeme se o tom pobavit, uh.
+Je něco, co chceš dodat?
+Je nějaké měkké houbovité ovoce?
+Nemyslím si.
+Myslím, že můžeme použít hrušku, to je dobré, dobře se drží. Nebo banán, jak jsi říkal.
+Jo.
+Něco takového.
+Ale to není současný trend.
+Můžeš ho udělat, um, ne tvrdý jako kov.
+Jo.
+. V kurzu je měkký na dotek a ovoce a zelenina. 
+Jo.
+Jo.
+Myslím, že houbovitý materiál je dobrý, protože ho udělá i robustním.
+Plast.
+Jo.
+Takže, myslím, že můžeme nechat kolo, protože je to jednoduché, je to inovativní, i když to stojí trochu víc, a taky musíme přijít na nějaké ovoce jako je hruška nebo banán, uh, jaké máte další nápady.
+Jo.
+S jakým druhem ovoce byste rádi ovládali svoji televizi? 
+Mm.
+Banán je taky žlutý, takže by se pak ovládání neztrácelo.
+Myslím, že banán je dobrý nápad.
+Protože nepoužíváš banán, když je takhle zahnutý, ale když je takhle zahnutý, s kolem nahoře pro ovládání a tady máš tlačítka, jo.
+Jo.
+Jo.
+Dvě tlačítka, jo.
+Jo.
+Jo.
+Ale nemáš, jo.
+Myslím, že je to dobrý nápad, jo.
+Jo, takže máš, uh, tohle zahnutí, jo, a posuneš ruku sem, abys zmáčknul tlačítka a potom se přehodíš na druhou stranu.
+Jo.
+Takže můžeš mít dvě strany a bude to cool, ne?
+Jo.
+Myslím, že je to super návrh a bude to taky inovativní.
+Možná můžeme zustat u banánu.
+A bude se dát jednoduše najít.
+Můžeš dát dovnitř taky vibrátor.
+A každý ví, co je to banán.
+Víceméně.
+Když jsme začali s tím ovocem, uh. Ou, jo, takže použijeme klasickou baterii?
+Aha.
+Taky ber v úvahu, že banán ladí k barvám naší společnosti.
+Jo.
+Jo.
+Jo, to je pravdu dobrá, uh, dobrá připomínka.
+Doufám, že studenti managementu chcípnou, ale to je jedno.
+Kdo teď natáčí tuhle schůzi?
+Myslím, že...Vteřinku.
+Takže, musíme se u téhle části rozhodnout. 
+Takže, součástky, uh, musíme myslet na tyhle části, pardon.
+Jo.
+A, uh, ten čip, co tam dáme, víme už přesně, jaký použijeme.
+Uh, co myslíš tím obalem?
+Myslím, že ta krabička by měla být měkká jako houba a ve tvaru banánu.
+Jo.
+Uh, za mě je to jedno, jestli použijeme houbový obal ve tvaru banánu.
+Chci mít jenom něco, do čeho budu moct dát součástky a to je všechno.
+Jenom, jo.
+Jo, to může být uvnitř struktury.
+Jo, jo.
+Jo.
+Ale, uh, věc je ta, že když tam dáme tlačítka a ovládací kruh, tak protože je to z houbovitého materiálu, budou se hýbat, ne?
+Taky jako houba.
+Takže se bude hodně ohýbat.
+Takže, když to zkusíme s tlačítky, myslíš, že to bude možné? 
+O ne, myslím, že to bude možné.
+Ale ne, to tlačítko, mělo by mít nějaký nezvyklý tvar s houbovitým obalem.
+Jo.
+Ok.
+Jo.
+To je, uh, jako Mm-hmm.
+Jo.
+Dobře, takže nezvyklý tvar s houbovitým obalem.
+A klasická baterie, dobře, a vložený čip, s tím není žádný konkrétní problém.
+Takže jsme odsouhlasili, že použijeme kruh, takže to musí být symetrické.
+Kruh nahoře.
+Tlačítka, kde chceme tlačítka?
+No, většinou, dobře, chceme, aby to bylo vhodné i pro leváky, správně? 
+Jo.
+Uh, jo, ale dobře. 
+Takže řekněme, že můžeme vzít jenom dvě strany, jednu na téhle straně, kde je palec a na druhé straně, kde je, jo, taky palec.
+Jo.
+Jo.
+V podstatě.
+A nebo můžeš použít tenhle, ale nevím, jestli je to pohodlné s použitím kola. 
+Jo, možná že palec je pohodlnější.
+Tohle pro kolo a tohle pro tlačítka? 
+Jo, myslím, že je to dobré zleva i zprava. 
+Měli bychom mít dvě strany.
+Mm-hmm.
+Mm.
+Takže vlevo máme kruhová tlačítka.
+Myslím, že to můžeš otočit i takhle.
+Můžeš to dělat obojí s oběma rukama.
+Jo, problém je ten, že když ho otočíš, tlačítka budou na druhé straně.
+Myslím, že je to v pohodě.
+Takže na ně neuvidíš.
+No, na to si zvykneš.
+Jo.
+A navíc hned poznáš tu správnou stranu, protože tlačítko budou osvětlená. 
+Takže tlačítka musí být tady a ten kruh, jo, já vím, ale když ho budeš držet v levé ruce a kruh bude tady a tlačítka tady, když to otočíš, tlačítka budou na druhé straně.
+Jo.
+Ne, myslíš, že to půjde použít jenom pravou nebo levou rukou, jestli jsi pravák nebo levák.
+Myslím, že pro leváky je to ok.
+Může s tím dělat tohle a pro praváky je to stejné.
+Myslím, že to nic moc nemění.
+Dobře.
+Jo?
+Dobře.
+Možná.
+Jo.
+Takže, v rámci rozhraní jsme se shodli na tvaru banánnu s tlačítky na straně.
+A nahoře ovládací kolo.
+Mm-hmm.
+Jo.
+Takže barva bude žlutá.
+Myslím, že jsme prošli všechno, na čem jsme se měli dohodnout, jo.
+Takže bychom možná mohli na těhle částech pracovat, uh, do dalšího setkání.
+Budeme mít konečný, uh, design vzhledu a jaké je na dotek na základě našich rozhodnutí.
+A mít uživatelské rozhraní a zhodnotit produkt.
+Tím chci říct, aby ses koukla, jestli se to shoduje s požadavky, uh, uživatelů, ale podle, uh, tvé prezentace by to vypadá v pořádku.
+Vypadá luxusně, inovativně a jednoduše na ovládání.
+Mm-hmm.
+Takže, chtěl bych navhnout, aby návrhář výroby a návrhář uživatelského rozhraní spolu spolupracovali a připravili prototyp.
+Myslím, že to by bylo lepší.
+Jo.
+A, uh, takže dostanete další instrukce mailem jako vždy.
+Mm-hmm.
+Chceš něco dodat?
+Ano, pane.
+Ne.
+Jsi v pohodě?
+Jo.
+Máš pocit, že se můžeš vyjádřit?
+Jo.
+Necítíš se omezovaný?
+Ne.
+Máš pocit, že na to nemůžeš odpovědět?
+Možná můžeš, um, ok.
+Dobře, takže se uvidíme.
+Děkuji vám.

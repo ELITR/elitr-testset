@@ -1,0 +1,14 @@
+_T=20200409_14:51:58_1469767	 ls
+_T=20200416_11:05:46_1818427	 ls
+_T=20200416_11:06:02_1818427	 rm *.wav
+_T=20200416_11:06:13_1818427	 ls
+_T=20200416_11:06:45_1818427	 cp ~/data_preperation/ELAN/khan-academy/*.OStt .
+_T=20200416_11:06:52_1818427	 cp ~/data_preperation/ELAN/khan-academy/*.mkv .
+_T=20200416_11:07:00_1818427	 ls *.OStt
+_T=20200416_11:07:06_1818427	 ls *.mkv
+_T=20200416_11:07:59_1818427	 git pull
+_T=20200416_11:08:11_1818427	 git add *
+_T=20200416_11:09:24_1818427	 git commit -m "khan-academy mkv and OStt added"
+_T=20200416_11:09:35_1818427	 cp ~/data_preperation/ELAN/khan-academy/*.ass .
+_T=20200416_11:09:37_1818427	 git add *
+_T=20200416_11:10:01_1818427	 git commit -m "khan-academy ass files added"

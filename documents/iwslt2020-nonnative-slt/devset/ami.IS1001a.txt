@@ -1,0 +1,220 @@
+how do you wear this thing
+hmm
+mm mm mm
+not too many cables and stuff
+original
+is recorded
+okay
+okay so welcome everyone
+so we are here for the kickoff meeting of uh the process of designing a new remote control
+so i will first start with a warm welcome opening stuff then uh we will uh see what will be uh our product and what will be the different step we will have to design it
+and uh then we will uh discuss if we have few ideas and we will uh end uh by uh dispatching the different task you will be you will have to fulfil to complete this process
+so sorry
+uh
+just one thing
+uh you said twentyfive minutes but i have something else to do uh so gotta have another meeting uh soon so maybe you could hurry up a bit its true
+i have another meeting so if you could uh yeah
+you have another meeting soon
+so you have to be quick
+yeah for the lawnmower project
+okay
+okay
+so the the goal is to have a remote control so to have an advantage over our competitors we have to be original we have to be trendy and we have to also try to be userfriendly
+so uh the design step will be divided in three uh main points
+first it will be the functional design
+third is the conceptual design and then is the desired design
+so the functional design is to identify the main user needs the technical function the remote control should fulfil
+and then we will move to f conceptual design where well specify the different component involved what kind of user interf interface we want and what are the different uh trend in user interface and stuff like that
+and then the desired devi design will consist in uh specifically implementing and detailing the choice weve uh made in the second point
+so i will now ask you which is very important for the design of a new remote control for to uh each of us to to draw uh your favourite animal on the white board
+what an original idea
+do you have any idea of which animal you want to show us
+orangutan
+okay thats good
+no no n you should write y the name i think
+n n you should if you want to react uh about this wonderful drawing uh ill let you uh comment
+can i give you the no
+but i dont have to say anything
+when im drawing the orangutan
+its an abstract drawing of an orangutan
+okay its an abstract drawing
+yes
+i think its nice and original
+i dont have a red colour
+usually orangutans have red hair so this is a very important but i dont have red pen so yes
+okay
+you want to draw something christine
+okay uh sorry
+you have to imagine a little bit um
+this sorry too uh
+of course your animal is recorded so its not lost
+yes
+i know
+is this uh ah okay its pretty
+wha what is this strange beast
+is it beautiful
+is it a monster
+do you know
+its a cat
+its a cat
+isnt it
+i thought these things did not exist
+yes yes is it like that
+me ah yeah
+is it better
+ah yeah does have a name
+yeah
+okay
+its my cat
+okay its your cat
+yeah
+the name is caramel
+caramel
+caramel
+ahha
+yeah
+okay
+olivier do you want to okay i go but next time youll do something im sure
+and you i think im too short for the cables
+next time i concentrate
+im a bit short on cable
+okay
+so what could i draw
+maybe i can draw like a very simplified cow
+i dont know if it looks like a cow like a what
+he looks like a bong
+okay
+sorry
+no
+quite squarey
+scary
+he also
+i dunno it it looks more like a donkey in fact i would say
+mm
+i i think we will be finished this uh is it for uh for putting a for logos no
+okay so i hope that it helps you uh in the process of designing a remote control
+thats i is there a matter for a new remote control
+okay
+lets move on
+so here the uh financial objective of our project
+that is to say to to have a production cost lower than twelve point five euros and have a selling price of twice that price t in order to target a profe profit of uh fifty uh million euros
+yeah if its trendy original i d fulfil the user needs
+is it uh a single device remote control or is it a multidevice remote control
+we have to discuss that point
+ah this is not defined at all
+on yeah you you can suggest points like this
+ah okay
+so what what so we have to decide for example if it can control one device or multiple
+so whats what are your ideas about that
+maybe i can have the your opinion from the marketing side
+well uh do we sell other stuff
+uh if if we bundle the remote control with something uh to sell then it could be a single device otherwise it could be programmable one otherwise who would buy a remote control from us
+okay so if it selled uh by its own i it it would rather be for multiple device
+yeah
+do you agree
+mmhmm
+yeah
+so maybe it should be for multiple devices
+and uh do you have any ideas um of uh design ideas or any uh uh technical requirement we we should uh fulfil
+i think we shouldnt have too many b for my part
+no i couldn i cannot fi think of any requirements right now
+i think if we dont have so many buttons could be nice
+few buttons
+okay
+and do you have it also to be to be lighted in order to be used in the dark
+might be a good idea
+yeah
+okay
+and do you have any um any uh idea of the trend the trend in domain what it shouldnt it should look like or things like that
+something which is not squarey maybe uh not a box
+mm
+with rou okay
+like for okay
+something like that least fits in your hand
+yeah
+okay
+yeah
+the basic requirement
+so
+fit in your hand yeah
+only a buck
+and also it have i it may be it may be important for the remote control to be uh to to resist to various shocks that can happen if it fall
+mmhmm
+waterproof
+waterproof as well
+and i think we should have a device sorry
+maybe it is original because you can uh use it in your uh in your bath whereas the others cant
+maybe waterproof would be very original
+havin having a waterproof remote control so that the people can uh use it in their bath
+mm
+that could be uh yeah but it is still something uh you have to buy and that is um not maybe very yeah mayb b but maybe we can bulk it with uh already this plastic thing and uh the waterproof uh stuff as well
+b it seems uh so but uh if you dont have an waterproof remote control it means you can just cover it with some plastic and you can sort of f and and thats one of the thats one of the shock i mean there are people that have a remote control and they are worried that its going to break and they put some extra plastic around it
+thats people they actually do it themselves
+yeah
+directly
+i it will look a bulky in that case
+yeah
+yeah
+maybe we can sell uh all that together so so plastic protection and uh and a waterproof box as well
+that might be good uh track to follow
+like as an optional thing
+optional or selled with it
+and i i think we should have something most of the time i i lose my remote control
+we should have s uh special bu button on the tv to make the remote control beeping
+yeah
+maybe we can have uh but we dont design the tv
+ah yeah
+maybe we can have uh something you whistle and uh the remote control uh beep
+yeah
+barks
+yeah barks yeah
+barks
+so we can uh have a whistle uh remote control
+yeah
+yeah whistle
+i dont know whistleable
+whistle tracking
+th whistle tracking yeah
+whistle tracking remote control
+thats a good idea thats very original and thats can uh improve
+thats thats quite cool but uh of course we you dont normally need uh any audio uh recording stuff on your remote control right
+yeah d d uh
+so i its just going to add t to the cost
+yeah but s still we have to mm we have to have an advantage over our competitors
+i think this is a good advantage
+its cool
+i think i like the idea but im not sure about the what you who is giving whos giving whos giving our budget
+yeah
+we have to ask yeah
+whos yeah
+we have to ask the quest of thats uh design to the uh industrial um designer
+yeah
+yeah
+which is you
+kay
+yeah okay
+okay so try to find that for next meeting
+okay
+so next meeting is in thirty minutes or so uh
+dont panic
+dont pani
+so so i will ask the industrial designer to find out more about this industrial design so any working any working function we have discussed
+mmhmm
+so then i will ask the user interf interface designer to to think about the point we discussed like the number of buttons the the fact that is lighted or not things like that and what would be convenient for the user
+mmhmm
+and also um i will ask the market expert to uh try to find out what are the absolute requirements what is absolutely needed in a remote control uh for the user
+so
+and then uh i will uh just ask you to think about that and uh look at your mail because you will receive uh some good advice soon
+mm
+so
+thank you i think thats all for this point
+good
+mmhmm
+uh so we come back in five minutes
+half an hour
+anyway you will receive some messages
+be careful
+you eat it
+does it move uh
+okay but i dont know if it uh is still correctly uh well see
+ah
