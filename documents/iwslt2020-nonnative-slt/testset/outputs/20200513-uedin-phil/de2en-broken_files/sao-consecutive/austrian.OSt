@@ -1,0 +1,87 @@
+Before I really start, I would like to give you an overview of the largest Austrian communities.
+You can see the municipalities with more than ten thousand inhabitants, and from two thousand and eleven, we are entitled to audit all these municipalities.
+The threshold before was twenty thousand.
+The grey dots have more than twenty thousand inhabitants and the blue have less than twenty thousand inhabitants.
+The explanatory notes are still available in German.
+I'm sorry.
+In total, we are therefore entitled to examine 75 municipalities.
+This is about three points and two percent of the total.
+However, we advise all Austrian municipalities.
+For this reason, in our department, we decided to develop a special tool, which we call a community monitoring tool.
+The development team in our department consists of three young economists, and I'm one of them.
+And all three of us use the instrument for different purposes.
+What was the purpose, what was the objective of shaping this instrument?
+The main reason was to find an analysis tool for financial risk assessment.
+So we're first trying to create a profile for each community.
+In doing so, we take into account all relevant factors.
+In the second step, we evaluate the importance of the municipalities in the auditing activities of the current Austrian Court of Auditors.
+Finally, we classify the municipalities according to the financial risk using certain indicators.
+The classification is always the most interesting method, the most interesting part of the whole story, because we can compare all the communities.
+Thank you.
+The main challenge for each database project is to collect data of good quality.
+We heard it the day before.
+In this context, we are happy to use the data from the Federal Statistics Agency Austria, the Austrian Statistics Agency, which represents our most important partner in this project.
+And we get the following data...
+While these data are actually open to every citizen
+But you have to buy them from the statistics of Austria if you want the aggregated data.
+And only the aggregated data are useful for analysis.
+So we have the intersectoral accounts according to the budgeting and accounting rules.
+We have detailed information about the closed accounts, so we have the accounts at the free card level.
+And we have records of debts and liabilities.
+We mainly use financial and accounting data, but of course we have securities settlement system data separately. We have population figures and other data that come from the statistics of Austria.
+What we have is the data from two thousand eight to two thousand thirteen.
+Ah, that's a mistake, excuse me.
+And we keep updating this data every autumn.
+Since we extract the data from the community's accounting systems, we do not have data on community contributions, data on leasing obligations, and data on balances and assets, as the municipalities do not publish these data.
+This is an important point, because in practice, when you go to the community and interrogate the official accountant, you find the debts, and when you follow the corporate or community contributions, it may happen that you find that debts again, so that they double themselves and you only have half of the story if you only check the accounts of the community alone.
+Based on the available data, we assume that our good distribution indicators, which I will explain later, can create an indicator model, and this monitoring is based on a model consisting of indicators compiled as evaluation indicators, broken down by topic.
+And from this, a statistics between one and a hundred is derived, which is closest to relevance for the examination.
+This model thus enables indicators to be classified according to specific themes.
+In order to determine the relevance for the audit, the Austrian Court of Auditors uses the indicators of the financial situation as a basic setting, but depending on the question raised and the question to be examined, a different indicator setting can be chosen.
+And then you get a different result.
+Thus, the indicator model consists of four themes and the first is the long-term financial situation.
+This means that we assume the net debt plus liabilities less securities holdings and less reserves.
+So the first gives us the long-term perspective, i.e. debt minus assets.
+And the second issue is the short-term perspective.
+Which is ... yes, please.
+In the short term, we define the core balance, i.e. current revenue without transfers minus current expenditure without transfers and pensions.
+This is an important point in the indicator model, because we don't use indicators that I've expressed per capita.
+We use a different indicator, and this is your own income as a relevant figure, as it is better able to show the economic power of the municipality.
+The next item is the administrative structure.
+Because we just put together the administrative and human resources costs.
+The latter was the biggest challenge for us
+We have tried to assess the quality of the accounting systems.
+And yes, we take into account other accounts, the other accounts, the representation costs and the analysis of special accounts.
+That means we're trying to find accounting errors with these data.
+This slide is a screen image of a possible output of the monitoring tool
+And you can see the listed communities from the best to the worst.
+The black column therefore gives us the value and refers to the importance of the audit activities for the Austrian Court of Auditors, and for this purpose it is classified in this picture according to the relevance of the audit for our department.
+So the four columns on the right give us the indicators.
+I explained the indicators of the model before.
+And the black column gives us the value of three decimal thirty-three, as far as the community of Hallwang is concerned, a small community near Salzburg, and this is the best community.
+That means it's a benchmark.
+So if we want to check a community with the best financial situation, we'll check Hallwang.
+If we want to test the worst one, we just jump over the picture and take the last one, but today I don't want to show you these communities.
+And we have all Austrian municipalities in our system, but not every municipality falls within our jurisdiction, so that only the second, indeed the second, can be audited by us.
+And we're trying to compare the communities with the same size, so we're not comparing Vienna to Hallwang, so we're looking for similar communities so that it's a fair comparison.
+So we have many different ways of presenting the search results of this instrument, and another feature is this diary for each community.
+Here, for example, we have the community of Hallwang.
+We can create such a diary for each municipality in Austria, and as you can see, you will probably not be able to read it, but we have a lot of key figures, indicators, graphics and information about the financial situation and development.
+Another yield of the diary are these two pages. For example, you can see the analysis of personal expenses on the left, this is the red line of the diagram.
+And compared to the other communities, you can choose the blue line, and where the red line crosses the blue line, the community is worse.
+Or
+So you can easily judge if the municipality has excessive expenses.
+So on the right side we have the transfers, which means that we have the outgoing and incoming money in a perspective of the community.
+However, these two issues are only two of many.
+We are now using some statistical programs such as R Stat Plus and are able to carry out any analysis that is necessary or is required by our superiors.
+As you can see, we use this tool for examination planning, preparation, operational level and on request, i.e. if someone only goes to the municipality for a presentation, he/she can use the diary.
+If you want to know which communities are worse in a region, we can do this, and this information helps us not only with the examination itself.
+And in line with our advice approach, we provide the specific factsheets to the community.
+So if the mayor calls us and wants to know how his community appears and what the financial situation in that community is, we can give him a factsheet and a diary.
+Thank you for your attention.
+Thank you.
+Marcus, are you online? Can you hear us?
+Shall I start?
+Yeah, yeah.
+Okay. Ha ha ha, sorry.
+First of all, thank you for inviting me to speak at your E-Data conference.

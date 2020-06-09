@@ -1,0 +1,137 @@
+so we would like to continue and i kindly ask the belgian court of auditors to present the presentation
+ok so hereby i present our state of play
+we have two national laws in order to european regulation so two directives
+one is about paper and digital publications
+they have the same rate now
+and on a certain circumstances it is zero rate and under other circumstances it is six percentage
+for real estate rental we have adopted a fat option for renting off properties of their nature and mandatory vat for short term rental of a property
+then we have executed two audits
+one is about mos which we have heard already several times so i will be very brief about it
+another one is for a registered cas cash register system
+and then we have also two new four trends
+so our audit about mos is not finished yet it is not already published
+a so all conclusions and recommendations are just preliminary
+but we are very confident that there wont be any big changes
+m m
+in our conclusions they are very much the same as what we have already heard today
+but for us i just will point out some things that are different but which are more or less specific for belgium i think
+we have in our administration just limited staff for the moment because we are more or less a or a receiver than a an msid that transfers money and we rely very much on on the other member states
+but in the future when the mos will be extended there will be need for more staff
+and that staff should be already be trained now and foreseen now
+another general conclusion we had was it but which we already heard more or less is that theres a change of control policy
+which has to take place its new state of mind
+but our administration is very confident in the other msids because when we look at the conclusions as mscon
+just jump from one to another
+we see that there is very poor control policy
+so we are very confident every msid will send or transfer the money
+that is due to us
+nevertheless we pointed out that it was important to make progress in some way of control policy by making risk profiles
+for now our administration has not been able to make very good risk profiles because they dont have enough data but they think they will
+i have more data in the future and could make some risk profiles so this is something we will follow up in the in the future if the control policy will be better
+another point which is more or less specific
+we do monitor other taxpayers on the internet so there is a system to find taxpayers on the internet
+but for now the results are rather poor
+theres not much taxpayer stuff they have found
+then we see that the
+as an msidd registration procedure is as such as ok but in circumstances where taxpayers are deregistered
+there is no follow up if they are put in and declaration in the regular system
+so there is no link or no follow up system which we still think is important
+then we have with the in the declaration procedure
+there are some automatic checks which we think is very interesting
+so its not a real control of completeness and correctness yeah thank you of completeness and correctness
+but it still helps when common errors are made
+so the real controls are have to be done by mscon but as an msid but belgium is still helping to fill out the declaration so there are certain mistakes
+there will be an alert in the system or when you have to make choices all choices are limited and you have just you can click on the possible choices so there will be a less mistakes
+we also discovered as an mscon that they are working in the benelux
+so with belgium the netherlands and luxembourg they have made matrix of a certain risks and are developing now control activities
+in function of those risks and there are already two test files that has have started up for now
+so we recommended to work further in this little group to make progress there and to expand the knowledge to european forums
+i think thats about the the differences we had from what we didnt hear hear before
+so well go to do a second audit
+there has been an audit for register cash register system
+this is not an audit that was conducted by censored and i but by other members of the audit cell
+it was also audit which was a big bit broader than only vat but i will only present the conclusions and recommendations that are important for vat
+the audit questioned was about the efficiency and effectiveness of control policy
+the installation and the application so they looked at at two problems concerning the cash register system
+and the impact the system had for the fight against tax fraud
+the conclusions and recommendations were they concluded that the recommendation regulation are too complex
+and so the recommendation was to simplify it because there were so many exceptions in the regulation the national regulation
+that it was very difficult difficult to determine a certain group just on the basis of the declaration alone
+and so it was very difficult to monitor or to control certain groups of companies that had to install the register cash register system
+another big conclusion was the control policy
+there are problems with the selections of the taxpayers of the register cash register system taxpayers
+when there was a threshold there is a threshold and when the declaration is too low the you will fall under the just threshold and there will be no control so this was a way to a escape from the legislation
+also there was a problem of crosschecking information data out of databases for the selection of taxpayers for to control them
+another conclusion was that there were poor internal controls as well for the application of the system
+as the fines that were given so they discovered that different control units gave different fines
+so there was not there were prescriptions for fines but some were very strict and other control teams were not strict at all or they had fines are way below the rates that were giving for certain certain faults also the risk analysis and online access
+would be an advantage but its not implemented now so risk analysis was very basic and there is no online access but since we learned that a this kind of system exists in other countries when they do have a online access
+they discovered that it could be a very good advantage
+then there was also the exchange of information with the national social security office which was not very very good
+so a lot of information didnt pass from one to another
+finally about the impact of the system
+there was still a problem with the entering of transactions
+so the system as such works very fine if its use when its used like it has to be used but when certain transactions were not entered in the system they could not be discovered
+so solution could be to have a media campaign for the customers to ask for a ticket
+so this would make sure that every transaction would be entered in the system
+otherwise they will not a be a ticket or that the legislation would be adapted to that only electronic payments would be accepted because then it would be more easy to follow the money
+but as a real impact there is no reliable measurement of the administration of the impact so they have no idea
+and then our team has done some tests and has tried to find some impact but they discovered there was an anticipation effect since the introduction of the system was delayed for a few years
+but everybody knew it was coming so customers and also the companies already anticipated on the legislation that was are going to change and on the introduction of the system
+so it was very difficult to see the exact differences between the vat income before 2016 when the system was introduced and after
+because already a few years there before 2016 vat returns were augmenting just in view of the of the new system which would change
+so our team was not sure of the effect
+this was only about this system or that the effect was even even bigger because it started earlier than they thought
+censored may i interrupt just i have a problem or i would like to understand it correctly
+what do i have to understand under this a term registered cash register system
+does it mean that this this cash register system is somewhere in a database registered
+no its not its not an online its its a cash a yeah kasa
+yeah ok so its its just an cafes hotels restaurants
+its only for a certain branch
+its only in the horeca branch for now and its a system that registers every transaction or should register every projection that is inputted into the system
+so the there is no online access
+so when thats why the selection of the control group is very important because the control teams have to go the different places
+they cant look at it online on a computer they have to go to the horeca and connect their computer to their cash register
+so then they get the data out of it and they do the controls
+yes but they cant do it from a distance
+they always have to go to the premises themselves
+so when and thats why when a declaration is too low and is under the threshold
+the teams wont go there to see only if they would know the caf for instance and they know there is a lot of customers and they are not in it but thats just a coincidence
+but thats something they discovered only later so they will be they
+thank you censored for your question because i was worried that i am the only one im not understanding this is
+ok but what is the difference then between this system you are talking about the cash register system in any seller i mean in a grocery
+then what is the special thing in this particular system youre there
+there is a special software in it that provides any possibility of fraud with the system and it it its software also make sure that the data is transferable to the computer of the control teams
+while a a regular a cash register system you cant extract the data in the same way
+so this a cash register systems that are have a
+yeah they are special too but there are there i think it there are five different marks of cashs cash register systems out of which you can choose and they have a certification
+that all data that is extractable that the formats of the data is good for the control teams to analyze
+yeah yeah so the compatibility is is certified thats the main domain different section
+yeah you mentioned this risk analysis there was like a lack of risk service analysis or they were not performance all or
+i mean online access access to this analysis or
+online access to the the cash register system itself
+ok so which could made controls are far more easy ok and because then we can do automatic controls or extraction of of data
+which could be put into a bigger system and the risk analysis was very very basic actually because they they didnt have enough data
+it was also because this audit or this a system was only introduced in 2016 so they only had two years of data to work with
+ok to finish
+i have two new fraud trends of our administration
+first one was discovered during an operation which was called matrimony it was a registration of many foreign companies
+but always by the same two managers one russian one bulgarian
+but they registered on the names that were very similar to known names
+there was just one letter of difference and just to make it plausible that these companies existed but most of them did not exist at all
+and then they had did just a declaration of vat and asked for vat refund with false invoices but they always did this declaration by paper and for very small amounts
+which means that a the administration had to put in all the information themselves into the system which took time
+and therefore there were already done some refunds before they could actually discover that there was the possibility of fraud and and could control it if the company was really existing and if the invoices war were real
+but this kind of fraud was discovered and the information is spread via eurofisc so i i think that every tax administration now is aware of this kind of fraud
+another a fraud was in green power certificates so very similar to the certificates for co32 in the the past
+this was a scheme more or less in the same sense that they were sending in voices
+or using in voices for a firm that resembled very much of the legal firm that should send the invoice
+so we had a scheme ive had made it very short and didnt make it any a picture of it
+but i will explain it like this
+so it was a company a in a member state x that by certificates from b in another member state a and then they would sell it these certificates to company c
+again another member state z and send to this company an invoice from a accorded aaccent
+so thats the company name that has just one letter of difference with the original one
+so that the company c wouldnt see that there is actually fraud going on
+and of course this a company a and company aaccent were the same managers that have this a a company and the aaccent would be a missing trader
+i hope this kind of schemes is clear
+that was the end of my presentation

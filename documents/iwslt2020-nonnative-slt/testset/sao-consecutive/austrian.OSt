@@ -1,0 +1,87 @@
+Mister Mayrbeurle, the floor is yours.
+Thank you.
+Thank you very much for the invitation.
+It is an honour for me to be here to speak to you.
+And my topic is to give you a brief overview about our big data tool we use in the Austrian Court of Audit since three years now.
+So before I really start I want to give you an overview of the biggest Austrian municipalities.
+You can see the municipalities with more than ten thousand inhabitants and since two thousand and eleven we are entitled to audit all these local governments.
+The limit before was twenty thousand.
+So the grey points are over twenty thousand inhabitants and the blue ones are under twenty thousand.
+The explanations is still in German.
+Sorry for that.
+So in total we are entitled to audit seventy five municipalities.
+This is about three point two percent of the total amount.
+But we are counseling all Austrian communities.
+And for that reason we decided in our department to develop a special tool, which we call the Municipality Monitoring Tool.
+And the development team consists of three young economists in our department and I am one of those.
+And we all three use the tool for different purposes.
+So what was the goal, what was the aim for the  em reason for designing this tool?
+The main reason was to to find an analysis tool for the financial risk assessment.
+So we are trying firstly to prepare a profile for each municipality.
+With to consideration of all relevant factors.
+In the second step we assess the municipalities with regard to their significance for the audit activisties of the Austrian current Austrian Court of Audit.
+And finally we rank the municipalities according to the financial risk on the basis of certain indicators.
+The ranking is always the interesting part, the most interesting part of the whole story, because we can compare any municipalities.
+Thank you.
+So the biggest challenge of every database project is to collect data with quality.
+We heard it the day before.
+In this context we are happy to to use the data of the Statistics of Austria which is the Austrian statistics agency and this agency is our most important partner in this project.
+And we get the following data ehm.
+Actually this data is open for every citizen.
+But you have to buy it from the Statistics of Austria if you want the aggregated data.
+And only the aggregated data is useful for analysis.
+So we have the gross cutting accounts of the budgeting and accounts regulations.
+We have detailed info infomo information of the closed accounts so we have the accounts on its free ticket level.
+And we have statements of debts and liabilities.
+So, mainly we use finance and accounting data but of course we have sss separately we have data, numbers of population and other data which come from the Statistics of Austria s.
+What we we have the data from the period now from two thousand eight to two thousand and thirteen.
+Ah that is a mistake, I am sorry about it.
+And we constantly updating this data every autumn.
+As we have the data from the accounting systems of the municipalities, we we have no data about the municipality contributions, we have no data about the lease obligations and we have no data of the balances and assets because the municipalities do not publish this data.
+This is an important point because em in in practice when you go to the municipality and you have the official accountant, you find the debt number and if you go to the em to the corporation to the municipality contributions it may happen tha it may happen that you find this debt number once again so it will be double and you only have half of the story if you only check the em the accounts of the accounts of the municipality itself.
+So, from the existing data we think that our sell well indicators, which I will explain later, and we try to make a indicator model and this monitoring is based on a model which is comprised of indicators that are compiled as assessment indicators, broken down with themes.
+And from these a statistic is derived between one and hundred that is closest to relevance for audit.
+So this model enables a rating of the indicators according to specific issues.
+And in order to set the relevance for audit, the Austrian Court of Audit uses the indicators for the financial situation as the basic setting but depending on the issue raised, depending on the issue on to audit you can choose another indicator setting.
+And you have a different result.
+So the indicator model consists of four topics and the first one is the financial situation in the long-term.
+That means we we take the net debts, plus the liabilities minus security holdings and minus reserves.
+So the first one gives us the long-term perspective, that means debt minus assets.
+And the second one gives us the short-term perspective.
+Which is..yes please.
+For a short-term we define the core balance, which is the current revenues without transfers minus current expenditures without transfers and pensions.
+That is an important point of the indicator model because we we are not using em key figures which I expressed em per capita.
+We are using a different key figure and this is the own earnings as a relevant figure because its better to to to show the economic power of the municipalitity.
+So the next one is the admisni administrative structure.
+Where we simply put together the administrative expenses and personnel expenses.
+Last one was the biggest challenge for us.
+We tried to to assess the quality of accounting systems.
+And yes we take into account other accounts, the miscellaneous accounts, the representation expenses and the analysis of special accounts.
+That means we are trying to find book keeping errors with this data.
+So this slide is a screen shot of one possible output of the monitoring tool.
+And you can see the municipalities which are listed em end from from the best municipality down to the worst.
+So the black column gives us the value and it is with regard to the significance of the audit activities for the Austrian Court of Audit and for that in this picture it is ranked for for a relevance of audit for our department.
+So the four columns on the right gives us the indicators.
+The indicators of the model I explained before.
+And the black column gives us the value three point thirty three which is take municipality Hallwang, which is a small municel municipality near to Salzburg and this one is the best municipality.
+That means it is a benchmark.
+So if you want to audit the municipality with the best financial sit in the best financial situation, we audit Hallwang.
+If you want to audit the worst one, we just skip the picture and take the last one but I don't want to show you this municipalities today.
+And we have all municipalities of Austria in our system but not every municipality is in our em is in our duty, in our assessment duty so only the second one yes the second one is is is possible to audit for us.
+And we try to compare the municipalities with the class of municipalities with the same size, so we are not comparing Vienna to Hallwang, so we are trying to find similar municipalities so em so  it will be a fair compare, comparision.
+So we have many different output possibilities of this tool and another feature is this output journal for every single municipality.
+Here for example we have the municipality Hallwang.
+We can do thi th th this journal for every municipality of Austria and you as you can see you I think you will not be able to read it but it gives us a lot if indik key figures, indicators, graphs and  em of the financial situation and development.
+Another output of the journal is em these two pages, for example you can see the analysis of the personal expenses em on the left side, this is the red line of the graph.
+And in comparison to the the other municipalities you can choose the blue line and where the red line exceeds the blue line, the municipality is worse.
+Or
+So you can easily assess if the municipality has excessive expenditures.
+So and on the right side we have the transfers that means we have the outgoing and the incoming money in a perspective of the municipality.
+But these two outputs are only two of many.
+We are now using a some statistical programs like R Stat Plus and we are able to do any analysis em which is em em necessary em, which is asked by our em our bosses.
+So, as you can see we we use this tool for the audit planning, for the preparation, for the operational level and upon request, that means when somebody is going to municipality just for a presentation, you can use the journal.
+If you want to know which municipalities are worse in a region, we can do it, and this information helps us not only in the in the audit itself.
+And in line with our advisory approach we provide the specific fact shets fact sheets to the municipality.
+That means if the if the mayor calls us and wants to know about his municipality and how their financial situation is in the in this municipality, we can give them a fact sheets and the journal.
+So thank you very much for your attention.
+Thank you.

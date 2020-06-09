@@ -1,0 +1,11 @@
+_T=20200414_15:12:55_1718940	 ls
+_T=20200414_15:13:09_1718940	 git pull
+_T=20200414_15:16:09_1718940	 ls /net/data/ELITR/ELITR-IWSLT2020-Preparations/clean-repo/testset/antrecorp/*.eaf
+_T=20200414_15:16:20_1718940	 ls /net/data/ELITR/ELITR-IWSLT2020-Preparations/clean-repo/testset/antrecorp/
+_T=20200414_15:16:40_1718940	 ls
+_T=20200414_15:16:48_1718940	 git pull
+_T=20200423_10:42:43_1693268	 ls *.eaf
+_T=20200423_10:43:38_1693268	 cat 09_il-gabbiano.OS.eaf
+_T=20200423_10:44:05_1693268	 ls
+_T=20200423_10:44:10_1693268	 ls *.eaf
+_T=20200423_10:49:27_1693268	 cp 15_brkni.os.eaf ~/data_preperation/ELAN/elan_ost/

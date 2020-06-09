@@ -1,0 +1,614 @@
+Okay.
+Okay, alle sind bereit.
+Hallo.
+Wir sind also wegen des funktionalen Designs hier.
+Ok?
+Wir sind also hier für das Treffen zum funktionalen Design, also werde ich zuerst die Tagesordnung zeigen, also werden wir während dieses Treffens Notizen machen, also werde ich versuchen, eine Zusammenfassung zu erstellen und diese Zusammenfassung in den gemeinsamen Ordner zu legen, wenn Sie sie sich danach ansehen wollen, also wird jeder von Ihnen eine Präsentation über die Aufgabe leiten, die beim letzten Mal erforderlich war, also Benutzeranforderungsspezifikation, technische Funktionsgestaltung und Arbeitsdesign.
+Dann werde ich Ihnen einige neue Projektanforderungen vorstellen, die ich vom Vorstand erhalten habe.
+Dann werden wir die Entscheidung über die benötigten Funktionen der Fernbedienung treffen und dann werde ich Ihnen die Aufgabe für den nächsten Teil der Sitzung zuweisen.
+Betreffend des Prozesses.
+Wer möchte also mit der Präsentation seiner Arbeit beginnen?
+Mm.
+F möchten Sie beginnen?
+Fangen Sie an, ja.
+Sie können anfangen.
+Also.
+Kabel, Kamera.
+Haben Sie PowerPoint?
+Sollte in meinem Ordner sein, oder?
+Ja, vielleicht da.
+Nach oben.
+Okay.
+Wer sind Sie denn?
+Um drei, glaube ich.
+Nein?
+Mhm.
+Autsch.
+Und wir haben ein technisches Problem, äh.
+Okay.
+Glauben wir, dass wir vielleicht im falschen Ordner sind?
+Es ist möglich.
+Sie haben es auf Ja.
+Nein.
+Es war irgendwo in so einem etwas wie das.
+Ich erinnere mich nicht an den Namen, so etwas wie Kurier AMI oder so ähnlich.
+Was haben Sie in der Abkürzung?
+Nach oben.
+Teilnehmer zwei.
+Ja, nach oben.
+Nochmal.
+Nein.
+Gehe zurück.
+Sie haben kein Over.
+Äh, vielleicht ein Kurier AMI.
+Kurier.
+Okay.
+Nein.
+Es gibt nichts.
+Es gibt kein wir haben ein technisches Problem.
+Lass uns nachsehen.
+Ja.
+Ich gehe nachsehen.
+Oder, könnten Sie es sonst von Hand beschreiben?
+Ja.
+Mit dem Whiteboard?
+Ja.
+Wenn Sie sich erinnern, ja, aber das ist Ja.
+Ja.
+Also.
+Im Grunde genommen wollen wir hier eine Fernbedienung.
+Also, ähm, die Frage ist zunächst einmal, was wir steuern sollen.
+Die meisten Leute wollen also eine Fernbedienung für ihre HiFi-Anlage und T_V_ und solche Sachen.
+Mm-hmm.
+Aber andere Leute wollen auch Fernbedienungen für die Steuerung von Spielzeug, wie z.B. Roboterhaustiere und kleine Roboter und so weiter, und andere Leute wollen auch Fernbedienungen für die Steuerung des ganzen Hauses.
+Mm-hmm.
+Mm-hmm.
+Ja.
+Ja, es gibt also ein Projekt namens X_ House oder so ähnlich, das das macht, äh, man kann die Fernbedienung in äh Computer integrieren.
+Mm-hmm.
+Es gibt also eines, das eine Sache ist.
+Die andere ist die Suchfunktion, ja, durch Pfeifen oder was auch immer.
+Wenn Sie die Finder-Funktion haben, können Sie auch gleichzeitig mit allgemeinen Sprachbefehlen arbeiten, wenn Sie wollen, ja.
+Okay.
+Mm-hmm.
+Also ich denke, es sollte in diesem Fall ein Paket sein.
+Äh, also wird die Benutzeroberfläche aus zwei Teilen bestehen.
+Der eine ist der Sprachbefehlsteil und der andere ist der eigentlichen Schaltflächen.
+Und der Teil mit den Schaltflächen wäre ein Satz von Knöpfen für die Auswahl von Geräten, ein Satz von Knöpfen für die spezielle Navigation im Raum, ein Satz von Knöpfe für den linearen Zugriff auf das Medium und ein Satz von Knöpfen für den wahlfreien Zugriff.
+Mm-hmm.
+Mm-hmm.
+Okay.
+Ja?
+Was meinen Sie dann mit linearem Zugriff?
+Wie ein Videoband, das vorwärts und rückwärts läuft, äh, schnell und so weiter, ja.
+Ah.
+Ähm.
+Okay, also spezielle Navigation, linearer Zugriff, wahlfreier Zugriff und es gibt einen vierten, nein?
+Mm?
+Also, je besser jetzt die Spezialnavigation?
+Ja.
+Für die spezielle Navigation könnte man zum Beispiel ein T_V_ im Menü haben und der ändert sich, ja?
+Ja.
+Dann linearer Zugriff, dann wahlfreier Zugriff.
+Äh.
+Mhm.
+Ja und auch Parameteränderung.
+Ah ja, Parameter okay.
+Wenn es also gemeinsame Parameter gibt, sollten wir vielleicht spezielle Knöpfe für diesen ähm, oder vielleicht könnten wir alles ähm Generische haben, aber ähm, es gibt eine Menge ähm-Fernbedienungen auf dem Markt und im Grunde genommen hat fast jeder dieses Zeug.
+Okay.
+Okay.
+Okay, und die Sprachsteuerung hat Sie... Okay.
+Sprachbefehl w wir alles spezifizieren könnten.
+Wir könnten jeder Taste einen Befehl jeder Taste zuweisen, wenn wir genug Rechenleistung haben, schätze ich.
+Okay.
+Ja.
+Okay.
+Ja.
+Das ist also, äh, der Abschluss Ihrer Untersuchungen?
+Ja.
+Äh, ja, ich denke schon.
+Okay.
+Bis jetzt nicht.
+Okay.
+Vielleicht können wir einen Blick auf die Benutzeranforderungen werfen, wobei ich weiß nicht, ob ich es öffnen kann.
+Ja.
+Ähm, ich weiß nicht, ob Sie das öffnen können. Das m ist nicht hier.
+Vielleicht können Sie den Kurrier öffnen.
+Äh in ja, okay.
+Nein.
+Im Dokument.
+Mm, Computer, ja.
+In welchem Ordner?
+Wo haben Sie es abgelegt?
+Hier.
+Hier.
+Short-cut zum gemeinsamen Ordner von AMI?
+mm.
+Aber es ist nicht ähm.
+Vielleicht können Sie es mir per E-Mail schicken.
+Nur an Teilnehmer eins.
+Bei AMI.
+Mm-hmm.
+Ja, das kann ich machen.
+Ich werde versuchen, es allen zu zeigen, das wäre bequemer.
+Okay.
+Ähm.
+Hast du es geschickt?
+Es ist Teilnehmer eins?
+Ja.
+Äh, das ist diese E-Mail.
+Ich entwerfe die Benutzeroberfläche.
+Okay.
+Sie können, äh.
+Okay.
+Vielleicht kann ich also die Folien wechseln, wenn Sie es wünschen, das ist bequemer.
+Ja.
+Also okay, funktionelle Anforderungen.
+Okay, du kannst also gehen.
+Okay, also in unserem Usability-Labor haben wir die Verwendung der Fernbedienung bei hundert Probanden beobachtet, und die Probanden haben auch einen Fragebogen ausgefüllt, okay?
+Mhm.
+Ja.
+Und hier habe ich die Ergebnisse, so wie Sie sehen können, finden fünfundsiebzig Prozent der Benutzer die meisten Fernbedienungen hässlich, so dass wir etwas finden müssen, um sie netter und freundlicher zu machen.
+Achtzig Prozent der Benutzer würden mehr Geld ausgeben, wenn die Fernbedienung schick aussehen würde.
+Achtzig Prozent der Nutzer würden mehr Geld ausgeben, wenn die Fernbedienung oh das ist nicht gut.
+Also gut.
+Es ist also nicht in der Theorie, aber ich kann ja sagen, ja.
+Können wir einfach so weitermachen?
+Ja.
+Fünfzig bis fünfundsiebzig Prozent der Benutzer sagen, dass sie viel zappen.
+Also brauchen wir eine Fernbedienung, welche für das ist.
+Die Knöpfe müssen, wie Sie sagen, gegen Stöße widerstandsfähig sein.
+Okay.
+Fünfzig Prozent der Benutzer sagen, dass sie nur zehn Prozent der Tasten der Fernbedienung benutzen.
+Okay.
+Also müssen alle Tasten, die wir benutzen müssen, auch wirklich benutzt werden und nicht nur oder Ja.
+Okay.
+Okay, also wären vielleicht weniger Knöpfe gut?
+Nicht viele Knöpfe, und äh, äh, brauchbare Knöpfe.
+Okay.
+Aber was für Fernbedienungen haben Sie sich angesehen?
+Wie bitte?
+Was für eine Art von Aufgabe war es?
+Es war eine T_V_?
+Ja
+Äh, für die meisten ist es eine T_V_.
+Ja.
+Ja, aber in der Tat scheint es, dass wir eine T_V_-Fernbedienung gemäß den neuen Anforderungen, die ich vom Vorstand erhalten habe, herstellen werden. Ich werde sie im Folgenden vorstellen.
+Hm.
+Mhm-hm.
+Ah! Gut.
+Okay.
+Okay, du kannst gehen.
+Es gibt also noch andere Frustrationen, die von den Benutzern ausgedrückt wurden, so dass sie sagten, dass sie oft die Fernbedienung im Raum verloren haben, so dass sie eine Möglichkeit haben wollen, sie zu finden.
+Ja.
+Um sie zu finden.
+Ja.
+Ähm und ähm, oft brauchen sie zu viel Zeit, um zu lernen, wie man eine neue Fernbedienung benutzt.
+Ja.
+Also wollen sie etwas wirklich sehr einfaches und ähm leicht zu benutzen.
+Mm-hmm.
+okay.
+Und Fernbedienungen sind schlecht für R_S_I_ ähm, ich weiß nicht.
+Was ist ihre andere Seite?
+Die andere Seite, ja, das ist Ihr Handgelenk.
+Es kann schmerzhaft werden, Sie können eine Sehnenentzündung haben.
+Ach ja?
+Ja.
+Das wusste ich nicht.
+Wenn Sie sich auch an einem Computer in einer komischen Position befinden.
+Okay, also müssen wir es ergonomischer machen, ja.
+Ergonomischer.
+Aber, äh.
+Ja.
+Ich muss "ha ha" sagen.
+Es ist dein Job, oh.
+Äh.
+Äh, tut mir leid, ich habe eine Nachricht von Microsoft bekommen.
+Okay, ähm, vorher muss ich noch etwas sagen, bevor ähm Wir wissen, dass ähm der Benutzer oft seine ähm-Fernbedienung benutzt, um den Kanal zu wechseln.
+Ja.
+Ja, ja.
+Ja.
+Ähm und ähm, um die ähm-Lautstärke zu verändern, und ähm und nicht ähm viel für die Einstellung der Kanäle und ähm, solche Sachen.
+Okay.
+Ja.
+Mm-hmm.
+Mm-hmm.
+Okay.
+Also ist es besser, äh, äh, äh, etwas sehr einfach einzustellen und äh und sehr zugänglich ja.
+Ja.
+Diese Funktion sollte sehr, äh, zugänglich sein.
+Ja, okay.
+Das ist richtig.
+Das ist die Hauptfunktion, okay.
+Dann haben wir ihnen also einige Fragen gestellt und ähm, wir haben diese Frage gestellt, ob sie einen L_C_D_-Bildschirm oder die Fernsteuerung ihrer remultific Funktion bevorzugen und ob sie mehr für die Spracherkennung in der Fernbedienung bezahlen und Sie können gehen, wir haben hier die Ergebnisse der Fragen.
+Ja.
+Ja.
+Ja.
+Die erste Frage.
+Sie wissen also, dass es für die Jüngeren sehr wichtig ist, das s Ja und die Spracherkennung zu haben.
+L_C_D_ und Stimme zu haben.
+Und äh und die anderen ist nicht so wichtig, aber äh, wir wissen, dass äh, äh, Leute zwischen 15 und 25 Jahren Menschen sind, die viel T_V_ sehen und äh, die viel dieses äh... gebrauchen können.
+Okay.
+Vielleicht können wir also eine Spracherkennung einbauen.
+Ja, vielleicht ist das wichtig.
+Ja.
+Außerdem könnten vielleicht jene, wie diese jugendlichen Kunden, ihren Eltern ermutigen, dieses Gerät zu kaufen, und so können wir uns um diesen Gesichtspunkt kümmern, denke ich, oder so.
+Hm.
+Hm.
+Ja.
+Okay, und wenn es jetzt die Schlussfolgerung gibt.
+Also, wie wir schon sagten, ich denke, ähm, eine Fernbedienung, die im Dunkeln aufleuchtet, ist eine gute Sache.
+Okay.
+Nicht zu viele Schlammknöpfe, wie wir vorhin gesagt haben, sie ist leicht zu bedienen, leicht im Raum zu finden und widerstandsfähig gegen Stöße und gegen An I s nein, ja.
+Ja.
+Mm-hmm.
+Okay.
+Okay, das sind die Benutzeranforderungen, ja.
+Ich weiß nicht, ob Sie noch etwas anderes wichtiges sehen oder Mm.
+Ich denke nur an etwas.
+Ähm, wir wollen ein Nein, ich weiß nicht, ob das eine gute Idee ist.
+Wir wollen eine allgemeine Fernbedienung für alles haben.
+Nein, nein, nein.
+Es scheint, dass wir keine T_V_-Fernbedienung haben wollen.
+Okay.
+Vom Vorstand bekomme ich eine E-Mail.
+Mm.
+Ja.
+Denn es wäre kostspielig, äh, und außerdem würde die Entwicklung einer allgemeinen, generischen Fernbedienung mehr Zeit in Anspruch nehmen.
+Ja.
+Ja, ja.
+Ja.
+Ich glaube, es ist nicht wahr.
+Die zweite Behauptung, die Sie aufgestellt haben.
+Nein, nein.
+Dass es zu lange dauern würde, sie zu entwickeln.
+Ja.
+Ich denke, das sollte auch so sein.
+Oh ja.
+Denn ich habe diese E-Mail vom Vorstand erhalten, und sie scheinen zu sagen, dass wir, wenn wir so früh wie möglich auf dem Markt sein wollen, uns mehr auf T_V_ konzentrieren sollten, wo der Markt wichtiger zu sein scheint.
+Vielleicht ist es also eine gute Entscheidung.
+Ich weiß nicht.
+Was ist Ihre Meinung?
+Ich habe, äh, ich habe keine Ahnung, ich meine, ich sollte etwas mehr darüber wissen, wie schnell wir es, äh, gestalten können.
+Ich glaube nicht, äh, ja.
+Heute fertig.
+Ja.
+Okay.
+Aber im Grunde ja, vielleicht kann ich mit meiner Präsentation weitermachen, es wäre allein ihre ihre, aber ich glaube, wir haben einige technische Probleme oder so.
+Ja.
+Okay.
+Ja.
+Ja.
+Ich werde also nur kurz beschreiben, was wir mit der Fernbedienung machen.
+Vielleicht können Sie an die Tafel gehen, wenn Sie ein paar Zeichnungen haben, die ich nicht kenne.
+Falls ja, aber habe ich oh ja.
+Mm.
+Jetzt habe ich genug Kabel.
+Man fühlt sich ein bisschen wie ein Hund mit diesem Zeug.
+Okay, ich beschreibe jetzt einfach, dass das für eine Fernbedienung ziemlich einfach ist.
+Es tut uns einfach leid, ich werde einfach so gehen.
+Okay.
+Geht es Ihnen gut?
+Ich beschreibe es nur.
+Im Grunde genommen haben wir hier eine Batterie, eine Stromversorgung.
+Danach haben wir nur noch eine Benutzeroberfläche.
+Nehmen wir an, dass es sich um so etwas handelt, was z.B. ein L_C_D_ sein könnte oder ein Reihe von Druckknöpfen, so etwas in der Art.
+Druckknopf oder ein L_C_D_.
+Danach speisen wir das in ähm einen elektronischen Chip ein.
+Also sage ich U_C_ und führe das in uh L_E_D_ ein, was uh Infrarot um ist, was eine Infrarot um Komponente ist.
+Und was wir für mich, das ist für für uns ganz einfach.
+U_C_ ist die zentrale Einheit?
+Ja.
+Okay, ja.
+Y es ist a es ist dies nur ein Chip, der alle um numerische Berechnungen entsprechend Ihrer Anzeige durchführt.
+Berechnung.
+Okay.
+Und für uns ist das ganz einfach.
+Wir müssen nur definieren, was wir tun wollen, wenn die Benutzeroberfläche etwas will, und danach codieren wir nur noch die Daten und senden sie an den Fernseher, nicht an den.
+Okay.
+Für uns ist das also ziemlich einfach.
+Okay, das ist also ganz einfach.
+Ja.
+Ähm, wir müssen nur die Verarbeitungsleistung definieren, die wir brauchen, insbesondere wenn wir eine Spracherkennung durchführen wollen, in diesem Fall bedeutet das, dass wir mehr für die einfache Spracherkennung verwenden werden.
+Es gibt nicht so viele Einschränkungen.
+Das bedeutet, dass die Entwicklung auch mehr Zeit in Anspruch nehmen wird.
+Ja.
+Und ähm, aber für eine Standardanwendung ist das wirklich einfach.
+Es ist eine Frage von einem Monat und so weiter. Nein, nein, nein, nein, ich sage, dass eine Standardfernbedienung vielleicht einen Monat dafür benötigt.
+Bald.
+Um eine Sie s Sie sprechen mit voi Sprachsteuerung zu haben?
+Standardtaste eins.
+Ja.
+Das einzige Zeitproblem ist also die Spracherkennung.
+Ja.
+Ja.
+Auf jeden Fall.
+Ja.
+Haben Sie also eine Vorstellung davon, wie lange es dauern würde, bis die Spracherkennung jetzt funktioniert?
+Ich würde sagen.
+Zehn Jahre.
+Ich würde sagen, etwa acht Monate, bis die ersten Ergebnisse vorliegen.
+Okay, es ist also ein bisschen lang, ja.
+Ja.
+Ich kann, ähm.
+Einen Monat für den Standard mit Knopf.
+Ja.
+Auch wenn wir eine L_C_D_-Anzeige haben?
+Ja, sogar.
+Ich meine, das ist jetzt wirklich ein Standardgerät.
+Um acht.
+Für, äh, Spracherkennung.
+Okay, ja.
+Okay, damit wir das berücksichtigen können.
+Also, wer denkt, dass es gut wäre, sich für Spracherkennung zu entscheiden?
+Aber wir haben keine Zeit für die Markteinführung.
+Und auch, wie viel, äh, ich denke, während des Kickoff-Meetings haben Sie gesagt, dass wir nicht auf zwölf Punkt fünf Euro pro Einheit hochgehen sollten, also wie viele Einheiten sollten wir verkaufen, um ein Ja, aber wie viele Ja zu haben.
+Ja, das wird es.
+Ich denke, wir sollten das Management kontaktieren.
+Euro.
+Ja, ja.
+Nun.
+Nun, jede Einheit wird für 25 Euro verkauft.
+Wie viel bekommen Sie wie viel, wenn Sie eine Million Einheiten kaufen? Nein, hunderttausend Einheiten.
+Äh Chips.
+Wir brauchen Chips.
+Ja.
+Ja.
+Wie viel wird es für hunderttausend kosten?
+Normalerweise ist das weniger, zwei Dollar pro Chip.
+Okay.
+Weil wir es sind. Es scheint, dass wir etwa vier Millionen Einheiten vom ersten Treffen an verkaufen wollen.
+Sie haben also eine Idee für einen leistungsfähigen Chip, der gut genug für die Spracherkennung ist.
+Ja, das können wir, mm-hmm.
+Ja?
+Okay.
+Also.
+Nein, tut es nicht.
+Okay.
+Vier Millionen.
+Gut.
+Vielleicht können wir uns die neue Anforderung, die ich vom Vorstand erhalte, ansehen und über alle Funktionen diskutieren, die wir haben wollen.
+Mhm.
+Ähm, ich hatte nur eine Frage, äh, wollen Sie mit Ihrer Presenta weitermachen?
+Ja, ich werde fortfahren.
+Ist es, ähm, Sie sagen, dass ich mich nicht auswendig erinnere, aber dreißig Prozent der getesteten Personen sagen, dass es ziemlich schwierig ist, die Fernbedienung zu bedienen.
+Stellen Sie Ihre Frage, wenn Sie wollen.
+Hm?
+Ja.
+Sagen sie, dass es schwierig ist, aber aus demselben Grund oder haben sie andere Gründe?
+Oh.
+Um vielleicht im Auge zu behalten, dass Sie vielleicht Zugang zu diesem Menü haben, sollten Sie so etwas tun.
+Würde j Äh ja w Ich glaube, sie sagen, dass es uh schwierig ist zu lernen, wie man es benutzt, aber wenn man weiß, wie man es benutzt, ist es in Ordnung.
+Mm-hmm.
+Mm-hmm.
+Okay...
+Aber ja, vielleicht und wie wäre es, wenn wir eine Fernbedienung entwerfen, die nach Ihren Wünschen konfiguriert werden kann?
+Aber ja.
+Es ist nicht zuerst intuitiv.
+Du sagst, dass ich will, ich habe sechs Tasten, ja.
+Mh-hmm.
+Viele Leute sind, äh, wenn man den L_C_D_-Bildschirm hat, man kann es vollständig so machen, wie man will, weil die Tasten auch so aussehen, wie man sie will, aber es wird schwer zu konfigurieren sein, ich meine, stellen Sie sich vor, ich äh, so dass es wirklich etwas für den erfahrenen Benutzer ist.
+Ja.
+Ja.
+Aber, aber es scheint auch, dass Ja.
+Ja
+Okay.
+Also ich meine, es gibt Märkte und Märkte.
+Ich denke, die jungen Leute sind die, die, äh, Christine hier sagte, dass Sie ein, äh, es ist ja.
+Ja.
+Ja.
+Also für unsere jungen Leute wird es cool sein, sie können es benutzen.
+Ihre Eltern werden es vielleicht nicht tun, aber sie werden es konfigurieren.
+Ich denke schon.
+Ich weiß nicht, ob es dazu eine Studie gibt.
+Ja.
+Mm-hmm.
+Vielleicht wäre es komplexer, es so zu konfigurieren, dass es einfach ist, als ein einfaches Produkt zu erstellen.
+Mm.
+Ja.
+Ja.
+Ja.
+Mm.
+Hm.
+Und noch etwas: Wenn wir etwas machen, das einfach und leicht zu benutzen ist, das sofort zu benutzen ist, bedeutet das, dass es genau dasselbe sein wird wie alles andere.
+Ja.
+Ja.
+Ist das in Ordnung?
+Ja.
+Ansonsten, wenn es anders ist, dann muss natürlich jeder erst lernen, es zu benutzen.
+Ja.
+Ja
+Aber wir wir sehen auch, dass die meisten Leute die Fernbedienung als zu komplex empfinden, weil sie zu viele Knöpfe hat und sie hauptsächlich nur Kanäle und Lautstärketasten benutzen.
+Mm.
+Mm-hmm.
+Wir können also eine sehr einfach zu bedienende Fernbedienung herstellen, die hauptsächlich diese Tasten und vielleicht auch ähm einige Lichter enthält, weil die meisten Leute es auch schwierig finden, die Fernbedienung zu finden.
+Ja.
+Verlorene verlieren sie und so weiter.
+Mm-hmm.
+Diese diese beiden Punkte sind die Hauptfrustrationen. Wenn wir also vielleicht etwas sehr einfaches und leicht zu findendes entwerfen, wenn es verloren geht, wird es einen ernsthaften Wettbewerbsvorteil bringen, ohne etwas zu kompliziert und zu lange zu entwickeln.
+Mm.
+Mm-hmm.
+Aber lassen Sie uns zuerst die neue Anforderung sehen.
+Wir müssen also nicht, also das hier, äh, ist, äh, in der gleichen Richtung wie wir gesprochen haben, also müssen wir keine sehr komplexen Fernbedienungen herstellen, um auf Videotext und ähnliches zuzugreifen, ja, aber dann müssen Sie die Tasten definieren, um zwischen den Seiten zu surfen und so weiter.
+Aber Videotext ist nur eine Taste.
+Man man schreibt einfach die Zahlen.
+Ja.
+Also gut. Ja.
+Also werden Sie mit den Kanaltasten hinzufügen, oder?
+Also.
+Jedenfalls müssen wir diese Funktion nicht einbauen, weil sie von den Benutzern nicht mehr benutzt wird, sie ziehen es vor, Ja zu sagen.
+Das tue ich.
+Ich bin sicher, dass es ihm nicht gefällt, aber ich sehe nicht nur eine Taste.
+Also.
+Ich weiß nicht.
+Wenn ein Knopf immer noch ein Knopf ist.
+Wenn wir es sehr einfach machen wollen, müssen wir die Anzahl der Knöpfe im Vergleich zu unseren Konkurrenten reduzieren.
+Mm-hmm.
+Jedenfalls habe ich diesen Punkt.
+Wir können diskutieren.
+Wie ich bereits sagte, wäre es besser, wenn es nur für den T_V_ wäre, denn wir wollen schnell auf dem Markt sein.
+Und dann müssen wir auch sehr, äh, äh, deutlich machen, dass diese Fernbedienung Teil unserer Produkte ist, und unser Firmenlogo und unsere Farben auf dem Design zeigen, damit sie es als eines unserer Produkte identifizieren.
+Das ist also der entscheidende Punkt.
+Vor der Fertigstellung können wir also festlegen, was die Besonderheit der Fernbedienung ausmachen und welche Taste wir für welche Funktion benötigen usw.
+Großartig.
+Mm.
+Ich denke, ein Schlüsselaspekt ist die einfache Bedienung, sie sollte sehr einfach sein, und die meisten Tasten werden nie benutzt, nur zehn Prozent der Tasten werden oft benutzt, also denke ich, wir müssen etwas sehr Einfaches tun, und ich denke, in diesem Punkt sind wir uns alle einig, oder?
+Mm.
+Mm-hmm.
+Mm.
+Nun, wenn es nur eine T_V_-Fernbedienung sein soll, dann wird es sehr einfach sein.
+Ja, okay.
+Also ja, der Schlüsselpunkt hier ist einfach.
+Vielleicht.
+So wenige Knöpfe, Kanal- und Lautstärkeregelung und welche Funktion sehen Sie darüber hinaus?
+Nun, wenn es so einfach wie möglich sein soll, dann nehmen wir einfach die Fernbedienung, es gibt keine andere Funktion, die ich wirklich sehen kann.
+Ja.
+Vielleicht T_V_ ein- und ausschalten Ja.
+Äh nein, Sie wollen das Fernsehen eingeschaltet lassen, damit die Werbeeinnahmen zu uns zurückkommen können.
+Oder so etwas.
+Ja.
+Lautstärke, vielleicht eine Stummschalttaste und dann eine Aus-Taste.
+Mm.
+Und das ist alles?
+Äh, ich weiß, dass Sie sagen, dass viele Leute viel zappen.
+Mm-hmm.
+Mm.
+Ich weiß, dass ich entdeckt habe, dass, als ich kurz nachgesehen habe, äh, dass sie jetzt etwas tun, was jetzt ganz nett ist, man hat einen Knopf, man drückt ihn, und das ist, äh, der vorherige Kanal, der zurückgekommen ist.
+Es ist eine Erinnerung, ja.
+Okay.
+Ja, das ist cool.
+Vielleicht können wir das auch einbauen.
+Taste für den vorherigen Kanal.
+Wir haben also eine Taste für den Kanal, die Taste für den vorherigen Kanal, die Lautstärketaste, plus eine Stummschalttaste und, äh, nur die traditionelle Taste für das Ein- und Ausschalten.
+Mm-hmm.
+Mm-hmm.
+Mm-hmm.
+Und, äh, und natürlich die Kanalwechseltasten.
+Ja.
+Ich rede darüber, ja?
+Wie sollen sie, wie sollen wir das umsetzen?
+Weil äh, es könnte nur numerisch sein oder auch inkrementell.
+Ja.
+Inkrementell, weil man sie durch Zappen vertauscht.
+Mm-hmm.
+Nehmen wir an, wir können so etwas machen.
+Das ist, äh, inkrementell, aber wenn man lange darauf drückt, geht man fünf mal fünf.
+Geht es schneller?
+Um schneller zu gehen, muss man schneller gehen.
+Mhm.
+Hm.
+Es ist eine interessante Idee, dass, wenn man lange darauf drückt, es etwas anderes macht, im Allgemeinen.
+Wenn Sie also Ihre zehn Knöpfe für die für die numerischen Tasten haben, und Sie haben statt nur einem Speicherplatz nur einen, wenn Sie sie lange drücken.
+Doch.
+Das funktioniert nicht, tut es.
+Vielleicht sollten wir auch eine Zifferntaste haben Ja.
+Vielleicht sollten wir eine komplette Tastatur haben und nur Konsolenbefehle eingeben.
+Schalten Sie den Kanal auf acht.
+Nein.
+Vielleicht müssen wir auch Ziffern oder nur inkrementell haben.
+Ich weiß nicht, denn wenn man die Uh.
+Nun, wenn es nützlich ist, wenn man z.B. zwischen drei Kanälen wechseln will, dann kann man nicht arbeiten, wenn der Speicher nur inkrementell ist.
+Ja.
+Wenn Sie die Taste für den vorherigen Kanal haben, wenn Sie nur inkrementell arbeiten, ist es nicht, äh, es lohnt sich nicht, weil der vorherige Kanal entweder minus eins oder plus eins ist.
+Ja.
+Ja.
+Ja.
+Ich glaube, wir brauchen auch Ziffern.
+Okay.
+Vielleicht können wir die Kanal- und Lautstärketaste sehr offensichtlich machen und die kleinere Taste dort unten mit den Ziffern.
+Ja, wenn man normalerweise zappt, muss man immer die gleiche Taste drücken und Ja.
+Ja.
+Oder wir können so etwas tun.
+Wir können die Fernbedienung so konstruieren, dass sie Zugriff hat.
+Manche Fernbedienungen haben einen Schutz, und so haben Sie eine Art Joystick.
+Mhm.
+Ja.
+Hey, ich dachte nur, dass es dieses Ding gibt, ich meine, du weißt schon, es gibt welche mit einem solchen Rad.
+Anstatt der Auf-Ab-Knöpfe für äh, können Sie das Rad haben.
+Ja.
+Ja.
+Ja.
+Vielleicht können wir ein Rad für inkrementelle.
+Ja.
+Okay.
+Dann haben wir ein Rad für Inkrementell, die Ziffern auf der unteren Seite, die geschlossen werden können, damit sie, wie Sie sagen, geschützt sind, und, äh, ja, ich denke, das ist die Basis. Und haben wir ein Nein, ein Rad ist besser.
+Mm-hmm.
+Mm-hmm.
+Auf der unteren Seite, ich glaube, man muss es drehen.
+Nein?
+Wenn wir das machen.
+Oder ein oder ein Ball, ja, kein Rad, sondern ein Ball, und du sagst äh zu Ja.
+Ja.
+Ich würde sagen, das Rad ist besser.
+Weil es, äh, weil es nicht wie ein feines Volumen ist, ja?
+Was ist der Experte für, äh, okay.
+Die Kanäle wechseln einen nach dem anderen.
+Ja.
+Der Benutzer muss also den diskreten Sinn ein bisschen spüren.
+Ja, ja.
+Ja.
+Ja.
+Das ist eine gute Idee.
+Nun, wir müssen auch entscheiden, dass es im Dunkeln aufhellen sollte, weil die meisten Leute ihre Fernbedienung verloren haben.
+Es ist ganz einfach, wenn wir das mit dem Rücklicht auf dem Rad machen.
+Okay.
+Ja.
+Selbst wenn ich L_E_D_ uh oder a if if it's the L_C_D_ feature uh whatever, ja.
+Ein blaues ein blaues L_E_D_ und wir verkaufen das ähm.
+Ja, und zeigen wir auf dem L_C_D_ Display an?
+Ja.
+Weil es für junge Kunden wichtig war, wenn Sie sich erinnern.
+Ich denke, es wird nur dann angebracht, wenn es eine Multifunktionalität hat.
+Ja.
+Wenn Sie keine Multi-Funktion haben, dann gibt es keinen p-Punkt, wenn es einen  L_C_D_ hat.
+Erhöht einfach die Kosten.
+Okay.
+Der Benutzer hat nicht wirklich einen Vorteil.
+Also kein L_C_D_?
+Mm-hmm.
+Hmm.
+Und also auch keine Sprache, weil es den Entwicklungsprozess zu sehr verzögern würde.
+Okay.
+Nun, wenn es den Entwicklungsprozess verzögert, ja, aber äh, dann ist es cool.
+Das wäre es.
+Denn ein Benutzer könnte zum Beispiel C_N_N_N_ sagen und es würde C_N_N_ gehen.
+Mm-hmm.
+Mm.
+Ja.
+Das wäre cool.
+Aber acht Monate sind wirklich lang, und vielleicht können wir einfach, äh, Okay.
+Okay.
+Zehn Jahre, mm-hmm.
+Also, ähm, ich werde, ähm, ich werde, ähm, ich werde, ähm, wir werden zum nächsten Treffen übergehen, also nach der Mittagspause, ähm, hier sind die einzelnen Tasks, ähm, die Sie durchführen müssen, aber Sie werden, ähm, per E-Mail an die Tasks erinnert, ich denke, aber Sie können sich Notizen machen, wenn Sie wollen, aber die Anweisungen werden Ihnen zugeschickt.
+Vielen Dank für Ihren Vorschlag, und ich werde eine Zusammenfassung des Treffens erstellen, die ich in den gemeinsamen Ordner lege, den Sie nicht sehen können, und dann können Sie sehen, was bei diesem Treffen gesagt und was beschlossen wurde.
+Okay.
+Okay.
+Okay.
+Äh, vielleicht schicken Sie mir für das nächste Treffen Ihre Präsentation vorher per E-Mail, damit wir sie, äh, zusammen sehen können.
+Ja.
+Das wäre einfacher.
+Mhm.
+Wie lautet der Ordner, in den Sie Ihren gelegt haben?
+Und hat es funktioniert?
+Nein.
+Nein, er hat nicht funktioniert.
+Nein, nein.
+Sie hat ihn mir per E-Mail geschickt.
+Ah ja.
+Ich weiß nicht, ich weiß es nicht.
+Mm.
+Okay.
+Also ist es vielleicht besser, es per E-Mail zu schicken.
+Okay, was ist Ihre E-Mail?
+Okay?
+Also, ja, ich bin in der ersten E-Mail, also bin ich Teilnehmer Eins bei AMI, wo ist das, das ist hier.
+Bei Teilnehmer eins.
+Okay.
+Teilnehmer eins bei AMI.
+Okay.
+Wir sehen uns nach der Mittagspause.
+Vielen Dank.
+Nun, eigentlich während der Mittagspause.
+Das nächste Mal sollten wir uns also streiten.
+Wie wär's mit dem Management oder so?
+Der zufällig Ihr Freund ist.

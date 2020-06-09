@@ -1,0 +1,3 @@
+_T=20200522_02:17:12_4033288	 ls
+_T=20200522_02:19:55_4033288	 mv ~/concatenate-scores/broken_files/ cs-concatenate-block-base-avg8-bs4a1.0-broken_files
+_T=20200522_02:24:05_4033288	 mv ~/concatenate-scores/broken_files/ cs-concatenate-block-noise-avg8-bs4a1.0-broken_files
