@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo "Running pre-commit hook"
-./check_master.sh
+./checks/check_master.sh
 
 # $? stores exit value of the last command
 if [ $? -ne 0 ]; then
