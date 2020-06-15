@@ -3,9 +3,9 @@ ELITR collection of test sets, for ASR, MT and SLT
 
 ## Organization of the Repository
 
-The repository consists of "documents" and "indices".
+The repository consists of "documents" and "indices" and "checks".
 
-One document is one text or speech or video equipped with its language variants. Indices are useful sets of documents.
+One document is one text or speech or video equipped with its language variants. Indices are useful sets of documents. Checks are scripts that verify document integrity.
 
 ### Documents
 
@@ -47,4 +47,5 @@ Each index will be a simple list of basepathnames of documents that are good for
 
 ### Checks
 
-We need to implement many checks of the format of everything, in a subdir called ``checks``. Ideally, Travis or other system should use them to reject commits which do not pass all checks.
+We need to implement many checks of the format of everything, in a subdir called ``checks``. We will use git hooks to reject all commits that do not pass the checks.
+People who wish to commit to the repository need to run ./checks/install-hooks.sh ! 
