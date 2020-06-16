@@ -3,9 +3,9 @@
 #verifies that paralel text files (OST, TTcs{1,2}, TTde) have the same number of lines.
 
 cd "${0%/*}/.."
-root_dir='./documents/iwslt2020-nonnative-slt/devset'
+root_dir='./documents/'
 
-for ost in `ls $root_dir/*.OSt`; do #everything has an OSt
+for ost in `find "$root_dir" -name "*.OSt" -not -path "*output*"`; do #everything has an OSt
   if test -f "$ost"; then
     length_ost=`cat $ost | wc -l`
   fi
@@ -30,10 +30,15 @@ for ost in `ls $root_dir/*.OSt`; do #everything has an OSt
     length_ttde=`cat $ttde | wc -l`
   fi
 
+  if ! test -f "$ttcs" && ! test -f "$ttcs1" && ! test -f "$ttcs2" && ! test -f "$ttde"; then
+    echo "Warning: $ost does not have any translation!"
+    continue
+  fi
+
   if test -f "$ttcs"; then
     are_lengths_equal=`echo -e "${length_ost}\n${length_ttcs}\n${length_ttde}" | sort -u | wc -l`
     if [ $are_lengths_equal -ne 1 ]; then
-      echo "$ost and its paralel documents don't have the same number of lines"
+      echo "Error: $ost and its paralel documents don't have the same number of lines"
       echo "$ost : $length_ost"
       echo "$ttcs : $length_ttcs"
       echo "$ttde : $length_ttde"
@@ -42,7 +47,7 @@ for ost in `ls $root_dir/*.OSt`; do #everything has an OSt
   else
     are_lengths_equal=`echo -e "${length_ost}\n${length_ttcs1}\n${length_ttcs2}\n${length_ttde}" | sort -u | wc -l`
     if [ $are_lengths_equal -ne 1 ]; then
-      echo "$ost and its paralel documents don't have the same number of lines"
+      echo "Error: $ost and its paralel documents don't have the same number of lines"
       echo "$ost : $length_ost"
       echo "$ttcs1 : $length_ttcs1"
       echo "$ttcs2 : $length_ttcs2"
