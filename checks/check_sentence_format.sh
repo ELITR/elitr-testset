@@ -7,7 +7,7 @@ cd "${0%/*}/.."
 root_dir='./documents/iwslt2020-nonnative-slt/'
 i=1
 
-for file in `find "$root_dir" -not -path "*output*" -name "*.OSt" -o -name "*.TT*"`; do
+for file in `find "$root_dir" -not -path "*output*" \( -name "*.OSt" -o -name "*TT*" \)`; do
 	while IFS= read -r line; do
 
 		#each sentence should start with a capital letter
