@@ -14,6 +14,8 @@ Dev and test set preparations of IWSLT shared task on non-native speech translat
 *.aac  ... for some sources, this is the original sound format; versioned here
 *.mp3  ... for backup purposes, we have these files versioned here
 
+*.RS.* ... respeaker speech, contents should be the same as .OSt, but spoken by a different person
+
 *.OSt  ... original speech, transcribed
            Manually revised transcripts.
            One sentence per line, no time stamps.
