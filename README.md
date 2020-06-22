@@ -26,6 +26,7 @@ Filename **suffixes** are used to indicate the language and processing:
 .en.IScs.mp3 ... original speech in 'en' human-interpreted to 'cs', the sound of it
 .en.IStcs    ... original speech in 'en' human-interpreted to 'cs' and 't'ranscribed
 .en.ISttcs   ... original speech in 'en' human-interpreted to 'cs' and 't'ranscribed, 't'imestamped
+.en.RS.mp3   ... respeaker speech in 'en', same contents as OS, but spoken by a different speaker, the sound of it
 .cs          ... if we do not know if the document was translated from language 'en' to 'cs'
                  (which would be indicated by '.en.TTcs') or vice versa, we can simply use 'cs' to
                  indicate the other language
