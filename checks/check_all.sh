@@ -5,6 +5,7 @@ cd "${0%/*}/.."
 
 echo "Running all checks"
 ./checks/check_file_length.sh
+./checks/check_file_size.sh
 ./checks/check_has_translation.sh
 ./checks/check_sentence_format.sh
 echo "done!" && exit 0

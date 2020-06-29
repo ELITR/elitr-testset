@@ -10,4 +10,5 @@ cd "${0%/*}/.."
 
 echo "Running tests"
 ./checks/check_file_length.sh
+./checks/check_file_size.sh
 echo "done!" && exit 0
