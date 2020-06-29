@@ -31,8 +31,7 @@ for ost in `find "$root_dir" -name "*.OSt" -not -path "*output*"`; do #everythin
   fi
 
   if ! test -f "$ttcs" && ! test -f "$ttcs1" && ! test -f "$ttcs2" && ! test -f "$ttde"; then
-    echo "Warning: $ost does not have any translation!"
-    continue
+    continue #source file does not have any translations, ignore it (probably an ASR file)
   fi
 
   if test -f "$ttcs"; then
