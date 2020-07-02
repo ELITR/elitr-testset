@@ -1,0 +1,13 @@
+_T=20190614_17:06:41_28447	 ls
+_T=20190614_17:06:48_28447	 head *.cs
+_T=20190614_17:07:49_28447	 grep 'Daňová přiznání k DPH. Zatímco v ČR plátci podávají daňová přiznání k DPH pouze za jednotlivá zdaňovací období' *.cs
+_T=20190614_17:08:01_28447	 grep 'Daňová přiznání k DPH.' *.cs
+_T=20190614_17:08:12_28447	 grep 'Daňová přiznání k DPH.' *.cs
+_T=20190614_17:09:00_28447	 vi KA_06_27.cs
+_T=20190614_17:10:22_28447	 vi KA_06_27.cs
+_T=20190614_17:10:24_28447	 ll
+_T=20190614_17:11:15_28447	 grep 'As part of international cooperation, the previous audit' *.en
+_T=20190614_17:11:50_28447	 vi KA_09_11_OCR.en
+_T=20190614_17:12:15_28447	 cp KA_09_11_OCR* ../../usable/
+_T=20190614_17:12:34_28447	 cp KA_06_27.* ../../usable/
+_T=20190614_17:12:35_28447	 ls
