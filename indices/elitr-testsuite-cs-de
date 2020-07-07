@@ -1,0 +1,64 @@
+BRH_2013
+original:
+./documents/wmt19-elitr-testsuite/reference/BRH_2013.en
+human translation:
+./documents/wmt19-elitr-testsuite/reference/BRH_2013.de
+./documents/wmt19-elitr-testsuite/reference/BRH_2013.cs
+machine translation:
+./documents/wmt19-elitr-testsuite/translated/cs-de/BRH_2013/newstest2019.online-G.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/BRH_2013/newstest2019.NICT.6948.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/BRH_2013/newstest2019.online-Y.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/BRH_2013/newstest2019.Unsupervised.cs-de.6979.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/BRH_2013/newstest2019.online-B.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/BRH_2013/newstest2019.online-A.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/BRH_2013/newstest2019.NEU_KingSoft.6783.cs-de
+
+
+KA_06_03
+original:
+./documents/wmt19-elitr-testsuite/reference/KA_06_03.en
+human translation:
+./documents/wmt19-elitr-testsuite/reference/KA_06_03.de
+./documents/wmt19-elitr-testsuite/reference/KA_06_03.cs
+machine translation:
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_03/newstest2019.online-G.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_03/newstest2019.NICT.6948.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_03/newstest2019.online-Y.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_03/newstest2019.Unsupervised.cs-de.6979.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_03/newstest2019.online-B.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_03/newstest2019.online-A.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_03/newstest2019.NEU_KingSoft.6783.cs-de
+
+
+KA_06_27
+original:
+./documents/wmt19-elitr-testsuite/reference/KA_06_27.en
+human translation:
+./documents/wmt19-elitr-testsuite/reference/KA_06_27.de
+./documents/wmt19-elitr-testsuite/reference/KA_06_27.cs
+machine translation:
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_27/newstest2019.online-G.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_27/newstest2019.NICT.6948.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_27/newstest2019.online-Y.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_27/newstest2019.Unsupervised.cs-de.6979.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_27/newstest2019.online-B.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_27/newstest2019.online-A.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_06_27/newstest2019.NEU_KingSoft.6783.cs-de
+
+
+KA_09_11_OCR
+original:
+./documents/wmt19-elitr-testsuite/reference/KA_09_11_OCR.en
+human translation:
+./documents/wmt19-elitr-testsuite/reference/KA_09_11_OCR.de
+./documents/wmt19-elitr-testsuite/reference/KA_09_11_OCR.cs
+machine translation:
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_09_11_OCR/newstest2019.online-G.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_09_11_OCR/newstest2019.NICT.6948.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_09_11_OCR/newstest2019.online-Y.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_09_11_OCR/newstest2019.Unsupervised.cs-de.6979.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_09_11_OCR/newstest2019.online-B.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_09_11_OCR/newstest2019.online-A.0.cs-de
+./documents/wmt19-elitr-testsuite/translated/cs-de/KA_09_11_OCR/newstest2019.NEU_KingSoft.6783.cs-de
+
+
