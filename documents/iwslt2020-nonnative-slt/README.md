@@ -8,6 +8,8 @@ Dev and test set preparations of IWSLT shared task on non-native speech translat
 ## Explanation of File Extensions
 
 ```
+These are english files, unless language is specified (eg. TTcs, TTde)
+
 *.wav  ... the input audio file in the lossless format
            The wav files are too big to be stored in this repo, they live outside.
 
