@@ -1,5 +1,0 @@
-Warning: Ondrej finished checking ruiz.OSt and ruiz.TTcs only till line 100. The rest should be carefully validated.
-
-Known issues:
-- OSt often writes 'most' instead of MOS, also damaging TTcs and TTde.
-  - this should be checked once more.
