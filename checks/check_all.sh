@@ -11,6 +11,7 @@ echo "Running all checks"
 ./checks/check_mp3_integrity.sh
 ./checks/check_has_source_file.sh
 ./checks/check_unusual_filename.sh
+./checks/check_encoding.sh
 ./checks/check_sentence_format.sh
 echo "done!" && exit 0
 
