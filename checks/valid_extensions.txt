@@ -8,6 +8,8 @@ json
 mp3
 md
 link
+OS
+OSasr
 OSt
 OStt
 TTde
@@ -22,3 +24,5 @@ en-cs
 de-en
 cs-de
 en-de
+is
+txt
