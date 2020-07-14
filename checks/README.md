@@ -16,9 +16,10 @@ check_has_translation - finds source files (.OSt) that do not have any translati
 check_mp3_integrity - diagnosis, if the mp3 format looks good, file is not corrupted
 check_sound_format - only mp3 can be stored directly, others path only, eg. waw.link
 check_has_source_file - every translation (eg. TTcs) has a source file (eg. OSt)
-
-to be added:
 check_filename_extensions - all filename extensions are included in readme (prevents typos and ensures good documentation)
 check_utf8 - every text file is in UTF-8 (or ASCII)
-check_line_ends - every text file has native line ends (LF on Linux, CR on old Mac, CRLF on Windows), *last line ends with an explicit linebreak*
+check_line_ends - every text file has native line ends (LF on Linux, CR on old Mac, CRLF on Windows), 
+
+to be added:
+check_last_line - *last line ends with an explicit linebreak*
 ...
