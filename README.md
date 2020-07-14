@@ -18,6 +18,9 @@ Filename **suffixes** are used to indicate the language and processing:
 .WORK        ... should be a directory of parts that are not yet properly processed; to be removed when done
 .en.OS.mp3   ... a backup of the sound in lossy format, **if small enough**
 .en.OS.mp3.URL . the URL where to get the full file, if the file can't fit here; similarly for wav.URL etc.
+.en.OS.mp3.LINK . the path on the UFAL cluster where to get the full file, if the file can't fit here; similarly for wav.LINK etc.
+.mp4         ... backup of the original video, if small enough
+.aac         ... backup of the original video, if small enough
 .en.OSt      ... original speech in language 'en', 't'ranscribed
 .en          ... if the document was never spoken, we can use simply .en to indicate it is in language 'en'
 .en.OStt     ... original speech in language 'en', 't'ranscribed and word-level 't'imestamped
@@ -30,6 +33,14 @@ Filename **suffixes** are used to indicate the language and processing:
 .cs          ... if we do not know if the document was translated from language 'en' to 'cs'
                  (which would be indicated by '.en.TTcs') or vice versa, we can simply use 'cs' to
                  indicate the other language
+                 
+plus other files, generally not included in the indeces yet, probably will be renamed:
+.ass - a file with timestamps and subtitles, used to create .mkv
+.eaf - a file with manually processed timestamps
+.json - similar to eaf, manually processed timestamps
+.mkv - sound file with subtitles, made from transcription of original speech
+.OSasr       ... orriginal speech, automativally transcribed
+en-cs - a document in source language (en), translated into target language (cs)
 ```
 
 The files ``OSt``, ``TT??`` as well as language variants without 'translation history' (``en`` or ``cs`` in the example used above) need to be parallel.

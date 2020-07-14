@@ -1,7 +1,6 @@
 mp4
 mkv
 eaf
-pfsx
 aac
 ass
 json
