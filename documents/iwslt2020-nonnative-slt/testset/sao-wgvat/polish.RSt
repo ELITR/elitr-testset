@@ -1,4 +1,4 @@
-﻿If you don't mind.
+If you don't mind.
 I would like to ask you, the Polish colleagues, to give the presentation.
 So, thank you.
 I would.
