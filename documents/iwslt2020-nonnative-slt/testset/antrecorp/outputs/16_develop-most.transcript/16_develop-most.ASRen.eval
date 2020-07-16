@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/16_develop-most.transcript/16_develop-most.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.OSt
+Sentence count: 17
+WER:   115.344% (       218 /        189)
+WRR:     2.646% (         5 /        189)
+SER:   100.000% (        17 /         17)

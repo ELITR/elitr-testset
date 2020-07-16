@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/17_tf-smart-team.transcript/17_tf-smart-team.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-team.OSt
+Sentence count: 12
+WER:   102.740% (       300 /        292)
+WRR:     6.164% (        18 /        292)
+SER:   100.000% (        12 /         12)
