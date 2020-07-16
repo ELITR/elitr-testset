@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/10_magic-travel.transcript/10_magic-travel.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.OSt
+Sentence count: 10
+WER:   159.524% (       134 /         84)
+WRR:     2.381% (         2 /         84)
+SER:   100.000% (        10 /         10)

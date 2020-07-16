@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/18_tf-magic-world.transcript/18_tf-magic-world.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-world.OSt
+Sentence count: 14
+WER:   111.429% (       273 /        245)
+WRR:     5.306% (        13 /        245)
+SER:   100.000% (        14 /         14)

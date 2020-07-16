@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/20_mela-e-piu.transcript/20_mela-e-piu.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.OSt
+Sentence count: 13
+WER:   107.895% (       164 /        152)
+WRR:     1.974% (         3 /        152)
+SER:   100.000% (        13 /         13)

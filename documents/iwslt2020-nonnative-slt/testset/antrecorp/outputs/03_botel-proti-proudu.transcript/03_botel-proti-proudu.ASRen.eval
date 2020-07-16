@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/03_botel-proti-proudu.transcript/03_botel-proti-proudu.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/03_botel-proti-proudu.OSt
+Sentence count: 25
+WER:   130.833% (       314 /        240)
+WRR:     8.333% (        20 /        240)
+SER:   100.000% (        25 /         25)
