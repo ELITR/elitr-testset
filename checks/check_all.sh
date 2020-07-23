@@ -4,6 +4,7 @@
 cd "${0%/*}/.."
 
 echo "Running all checks"
+./checks/check_empty_lines.sh
 ./checks/check_line_endings.sh
 ./checks/check_sound_format.sh
 ./checks/check_file_length.sh
