@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/36_step-house.transcript/36_step-house.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.OSt
+Sentence count: 12
+WER:   128.369% (       181 /        141)
+WRR:    16.312% (        23 /        141)
+SER:   100.000% (        12 /         12)

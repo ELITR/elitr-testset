@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/25_folkstyle.transcript/25_folkstyle.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.OSt
+Sentence count: 12
+WER:    99.020% (       202 /        204)
+WRR:    11.275% (        23 /        204)
+SER:   100.000% (        12 /         12)

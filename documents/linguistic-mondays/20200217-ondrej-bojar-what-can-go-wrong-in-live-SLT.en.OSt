@@ -233,7 +233,6 @@ And the presentation delivers it to the web.
 And we have just received like a confirmation that this single word, this second of sound was processed along the whole pipeline.
 So this, and this runs across the Europe.
 So some of these components run here in this building.
-
 18:16
 Some of them run somewhere in the cloud of PerVoice, some run in Edinburgh, some running cars through it.
 So that is, it is distributed.
@@ -249,7 +248,6 @@ This is the workers connected to the mediator platform, and you see that some of
 So this, this is like a big infrastructure.
 So let us start with some of the issues.
 Obviously the network can slow things down.
-
 19:43
 So once we face the fact that in Consul where there was some construction or whatever.
 For some reason, the university had a little slower Internet access.
@@ -286,7 +284,6 @@ OK.
 Now, sound acquisition.
 You may recognize some of uh, one of our colleagues here.
 And the problem is if if you have this microphone, that chest microphone, and you put it here.
-
 22:18
 And then you talk to the slice like that.
 The microphone does not really get your ways.
@@ -306,7 +303,6 @@ OK.
 Then, there is cables.
 You have to plug the cables properly and one of these settings in the conferencing room for the interpreters, we were able to get the signal only when one of the connectors here was not fully plugged in.
 23:40
-
 Then, there is cables.
 You, have to plug the cables properly.
 And one of the settings in the conference room for the interpreters, we were able to get the signal only when one of the connectors, here, was not fully plugged in.
@@ -394,7 +390,6 @@ So we are definitely going to gather more parallel data.
 University of Edinburgh is working on that.
 We are going to gather more target side, monolingual data and back translate, that's for the domain adaptations.
 So this is auditing domain.
-
 35:12
 @ 0:34:50
 So what we have, what what is our plan for the machine translation: data, data, data, and then maybe a little bit of models.
@@ -615,7 +610,6 @@ So we have to somehow force align these so that the basic set of units that we a
 Uh, everybody has to reach the same reference segmentation.
 [1:00:07]
 So there is some strategies.59:49
-
 So we have to somehow force align these.
 So that the basic set of units that we are evaluating over is common to all systems, regardless of what the English ASR does.
 Uh.

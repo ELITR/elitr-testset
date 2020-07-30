@@ -1,7 +1,0 @@
-_T=20200522_02:02:51_4033288	 cp ~/concatenate-scores/received_files/martin/ -r ./20200521-uedin-martin
-_T=20200522_02:02:52_4033288	 ls
-_T=20200522_02:55:56_4033288	 cat 20200521-uedin-martin/cs-concatenate-block-noise-avg8-bs4a1.0-broken_files/antrecorp/04_g-t.OSt
-_T=20200522_02:56:18_4033288	 ls
-_T=20200522_02:56:42_4033288	 git pull
-_T=20200522_02:57:10_4033288	 git add *
-_T=20200522_02:57:42_4033288	 git commit -m "Martin files added"

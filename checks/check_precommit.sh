@@ -11,4 +11,6 @@ cd "${0%/*}/.."
 echo "Running tests"
 ./checks/check_file_length.sh
 ./checks/check_file_size.sh
+./checks/check_sound_format.sh
+./checks/check_has_source_file.sh
 echo "done!" && exit 0

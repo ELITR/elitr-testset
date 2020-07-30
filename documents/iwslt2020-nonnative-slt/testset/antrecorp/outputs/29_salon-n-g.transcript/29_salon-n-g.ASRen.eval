@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/29_salon-n-g.transcript/29_salon-n-g.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.OSt
+Sentence count: 16
+WER:   119.598% (       238 /        199)
+WRR:    14.070% (        28 /        199)
+SER:   100.000% (        16 /         16)

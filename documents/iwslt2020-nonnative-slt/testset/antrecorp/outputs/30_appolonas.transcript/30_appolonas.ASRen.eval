@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/30_appolonas.transcript/30_appolonas.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.OSt
+Sentence count: 9
+WER:   109.091% (       120 /        110)
+WRR:    16.364% (        18 /        110)
+SER:   100.000% (         9 /          9)

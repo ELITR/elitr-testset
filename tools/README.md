@@ -24,3 +24,9 @@ The ``other.txt`` file is treated as Czech, sorry.
 ```
 
 Column 1 (0-1, 1-1 and others) indicates how many (automatically guessed) sentences have been joined. Column 2 is largely useless. Column 3 is the source sentence and Column 4 is the target sentence.
+
+
+```
+evaluate_asr.sh - searches for .ASR files in the documents and evaluates them against OSt file with the same name
+Creates an evaluation report file in for each .ASR file in the same directory
+```
