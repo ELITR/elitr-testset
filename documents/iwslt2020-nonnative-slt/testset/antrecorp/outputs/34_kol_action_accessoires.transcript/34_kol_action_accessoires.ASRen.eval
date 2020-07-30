@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/34_kol_action_accessoires.transcript/34_kol_action_accessoires.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_accessoires.OSt
+Sentence count: 15
+WER:   122.293% (       192 /        157)
+WRR:    17.834% (        28 /        157)
+SER:   100.000% (        15 /         15)

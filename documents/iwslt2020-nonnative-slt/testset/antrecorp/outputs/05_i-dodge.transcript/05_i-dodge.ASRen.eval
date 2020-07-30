@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/05_i-dodge.transcript/05_i-dodge.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.OSt
+Sentence count: 14
+WER:   194.175% (       200 /        103)
+WRR:    17.476% (        18 /        103)
+SER:   100.000% (        14 /         14)

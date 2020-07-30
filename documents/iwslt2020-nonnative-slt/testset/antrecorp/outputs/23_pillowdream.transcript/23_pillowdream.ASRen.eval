@@ -1,0 +1,6 @@
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/23_pillowdream.transcript/23_pillowdream.ASRen
+./documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream.OSt
+Sentence count: 17
+WER:   121.393% (       244 /        201)
+WRR:     3.980% (         8 /        201)
+SER:   100.000% (        17 /         17)
