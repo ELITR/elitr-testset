@@ -5,30 +5,32 @@ FROM=en-EU
 FROM_S=EN
 FROMASR=en-EU-ufal-da-20200120
 
+# Separate path to save logs-
+bname=$(basename $1)
+LOGSPATH=$(git rev-parse --show-toplevel)/logs/$(dirname "$1" | cut -d"/" -f10-)
+
+DATE=$(date '+%Y%m%d-%H%M%S')
+filename=$(basename "$bname" | cut -d. -f1,2)
+DIR=${LOGSPATH}/${FROMASR}/${filename}.pvlogs
+TRDIR=${LOGSPATH}/${FROMASR}/${filename}.transcript
+
+if [ -z "$DIR" ]; then
+    DIR=.
+else
+    mkdir -p $DIR
+    mkdir -p $TRDIR
+fi
+
+
 mkfifo $DIR/input-pipe
 i=1;
 eng_cmd="$UNB $CLIENT -f $FROMASR -i $FROM -t text < $DIR/input-pipe | $TEETS $DIR/${filename}.ASR${FROM_S,,}"
 
-# This online-text-flow-events is only for ASR
 cmd="$eng_cmd"
-
-i=$((i + 1))
-#Uses Phils Model
-rb="rb-EU_fromEN-en_to_41"
-cmd="$cmd | $TEE >( $UNB $NEW_TCLIENT -f $FROM -i ${rb} "\"" | $TEE $DIR/${i}-rb-out-${FROM}2rb"
-
-for t in ${!rb_langs[@]}; do
-    # split MT
-    cmd="$cmd | $TEE >( $UNB cut -f1,${split_list[$t]} | $UNB sed 's/ de\t/ /' > $DIR/${filename}.MT${rb_langs[$t]} )"
-
-done
-
-cmd="$cmd )"
 
 # creating pvconfig
 echo "SRCLANG=${FROM}" > ${DIR}/pvconfig
 echo "ASR Worker=${FROMASR}" >> ${DIR}/pvconfig
-echo "MT Worker=${rb}" >> ${DIR}/pvconfig
 
 
 echo $cmd > $DIR/cmd
@@ -55,6 +57,6 @@ echo "sleep 180" >> $bname-start-cmd.tsk
 echo "$(realpath $bname-start-cmd.tsk)" >> run-${FROM_S}.tsk
 chmod a+x *.tsk
 
-# Transcript processing file
+# ASR Transcript processing file
 REF_DIR=$(dirname $1)
 echo "./post-transcript.sh $DIR $REF_DIR" >> run2transcript.sh
