@@ -1,0 +1,54 @@
+# Sentence pair (1) source length 5 target length 5 alignment score : 0.00991122
+Hello, nice to meet you. 
+NULL ({ }) Dobrý ({ 1 }) den, ({ 2 }) rád ({ 3 }) vás ({ 4 }) poznávám. ({ 5 }) 
+# Sentence pair (2) source length 7 target length 9 alignment score : 7.48891e-06
+I would like to introduce myself and my colleague. 
+NULL ({ }) Rád ({ 1 }) bych ({ 2 }) představil ({ 3 4 5 }) sebe ({ 6 }) a ({ 7 }) svoji ({ 8 }) spolupracovnici. ({ 9 }) 
+# Sentence pair (3) source length 9 target length 12 alignment score : 1.01188e-12
+My name is <NAME> and I'm the manager of our travel agency. 
+NULL ({ 7 9 }) Jmenuji ({ 3 }) se ({ }) <NAME> ({ 4 }) a ({ 5 }) jsem ({ 6 }) manažer ({ 8 }) naší ({ 10 }) cestovní ({ 11 }) kanceláře. ({ 1 2 12 }) 
+# Sentence pair (4) source length 8 target length 8 alignment score : 1.49226e-05
+And this is our IT specialist miss <NAME>. 
+NULL ({ }) A ({ 1 }) toto ({ 2 }) je ({ 3 4 }) naše ({ 5 }) IT ({ 6 }) specialistka, ({ 7 }) slečna ({ }) <NAME>. ({ 8 }) 
+# Sentence pair (5) source length 3 target length 4 alignment score : 0.00594794
+Nice to meet you. 
+NULL ({ }) Ráda ({ 1 }) vás ({ 2 }) poznávám. ({ 3 4 }) 
+# Sentence pair (6) source length 8 target length 9 alignment score : 7.52827e-05
+We are glad to be here on this expo. 
+NULL ({ }) Jsme ({ 1 }) rádi, ({ 2 }) že ({ 3 }) můžeme ({ 4 }) být ({ 5 }) na ({ 6 }) tomto ({ 7 }) veletrhu. ({ 8 9 }) 
+# Sentence pair (7) source length 13 target length 19 alignment score : 2.26122e-17
+We are representing our team of nine people from Vlašim and the name of our travel agency is Remoa. 
+NULL ({ 6 12 14 19 }) Zastupujeme ({ 1 4 }) tým ({ 5 }) devíti ({ 7 }) lidí ({ 8 }) z ({ 9 }) Vlašimi ({ 10 }) a ({ 11 }) jméno ({ 13 }) naší ({ 15 }) cestovní ({ 16 }) kanceláře ({ 17 }) je ({ 18 }) Remoa. ({ 2 3 }) 
+# Sentence pair (8) source length 15 target length 14 alignment score : 7.46083e-10
+Our travel agency specializes in travels across Japan, mainly in its largest island Honshu. 
+NULL ({ }) Naše ({ 1 }) cestovní ({ 2 }) agentura ({ }) se ({ }) zaměřuje ({ 3 }) na ({ }) cesty ({ 4 }) po ({ 5 }) Japonsku, ({ 6 }) především ({ 7 }) po ({ 8 }) jeho ({ 9 }) největším ({ 10 }) ostrově ({ 11 }) Honšú. ({ 12 13 14 }) 
+# Sentence pair (9) source length 15 target length 15 alignment score : 1.79984e-11
+We aim to fulfill our customers every wish even the most challenging with individual approach. 
+NULL ({ 10 }) Naším ({ 1 2 3 }) cílem ({ 4 }) je ({ 5 }) vyplnit ({ 6 }) zákazníkům ({ 7 }) každé ({ }) přání, ({ 8 }) i ({ 9 }) to ({ }) nejnáročnější, ({ 11 }) a ({ }) to ({ 12 }) s ({ 13 }) individuálním ({ 14 }) přístupem. ({ 15 }) 
+# Sentence pair (10) source length 10 target length 15 alignment score : 5.37151e-13
+With us, you can discover many faces of Japan like the modern city of Tokyo. 
+NULL ({ 8 11 14 }) S ({ 1 2 3 4 }) námi ({ 5 }) objevíte ({ 6 }) mnoho ({ }) tváří ({ 7 }) Japonska, ({ 9 }) například ({ 10 }) moderní ({ 12 }) město ({ 13 }) Tokyo. ({ 15 }) 
+# Sentence pair (11) source length 6 target length 8 alignment score : 0.000138261
+Vibrant city of Osaka full of concrete skyscrapers. 
+NULL ({ 3 }) Živé ({ 1 }) město ({ 2 }) Osaka, ({ 4 }) plné ({ 5 }) betonových ({ 6 7 }) mrakodrapů. ({ 8 }) 
+# Sentence pair (12) source length 10 target length 13 alignment score : 9.17412e-08
+Culture rich city of Nagoya with its famous castle from the seventeenth century. 
+NULL ({ 4 11 }) Kulturně ({ 1 }) bohaté ({ 2 }) město ({ 3 }) Nagoja ({ 5 6 }) se ({ 7 }) slavným ({ 8 }) hradem ({ 9 }) ze ({ 10 }) sedmnáctého ({ 12 }) století. ({ 13 }) 
+# Sentence pair (13) source length 7 target length 8 alignment score : 0.000346602
+Hakone with Japanese spas under the mountain Fuji. 
+NULL ({ 6 }) Hakone ({ 1 }) s ({ 2 }) japonskými ({ 3 }) lázněmi ({ 4 }) pod ({ 5 }) horou ({ 7 }) Fudži. ({ 8 }) 
+# Sentence pair (14) source length 8 target length 8 alignment score : 0.0017677
+And Nikko with breathtaking nature and beautiful shrines. 
+NULL ({ }) A ({ 1 }) Nikko ({ 2 }) s ({ 3 }) dechberoucí ({ 4 }) přírodou ({ 5 }) a ({ 6 }) krásnými ({ 7 }) svatyněmi. ({ 8 }) 
+# Sentence pair (15) source length 7 target length 10 alignment score : 1.70028e-09
+So let's discover with us the amazing country of Japan. 
+NULL ({ 6 9 }) Objevte ({ 1 2 }) s ({ 4 }) námi ({ 3 }) tu ({ 5 }) úžasnou ({ 7 }) zemi, ({ 8 }) Japonsko. ({ 10 }) 
+# Sentence pair (16) source length 3 target length 6 alignment score : 6.86127e-06
+The land of the rising sun. 
+NULL ({ 3 4 }) Zemi ({ 1 }) vycházejícího ({ 2 }) slunce. ({ 5 6 }) 
+# Sentence pair (17) source length 4 target length 4 alignment score : 0.108261
+So different, so attractive. 
+NULL ({ }) Tak ({ 1 }) jinou, ({ 2 }) tak ({ 3 }) přitažlivou. ({ 4 }) 
+# Sentence pair (18) source length 3 target length 4 alignment score : 0.00565522
+Thanks for your attention. 
+NULL ({ }) Děkujeme ({ 1 }) za ({ 2 }) pozornost. ({ 3 4 }) 

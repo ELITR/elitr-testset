@@ -1,0 +1,24 @@
+# Sentence pair (1) source length 27 target length 29 alignment score : 1.72698e-25
+Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which runs the cinema, shows movies and prepare educational programmes for schools. 
+NULL ({ 14 20 27 }) ﻿Sehr ({ 1 }) geehrte ({ 2 }) Damen ({ 4 }) und ({ 3 }) Herren, ({ 5 }) mein ({ 6 }) Name ({ 7 }) ist ({ 8 }) <NAME> ({ 9 }) Ich ({ 10 }) bin ({ 11 }) Direktor ({ }) des ({ 12 }) fiktionalen ({ 13 }) Unternehmens ({ }) FictionalCine, ({ 15 }) das ({ 16 }) ein ({ 17 18 }) Kino ({ 19 }) betreibt, ({ 21 }) Filme ({ 22 }) zeigt ({ 23 }) und ({ 24 }) Bildungsprogramme ({ 26 29 }) für ({ 28 }) Schulen ({ 25 }) erstellt. ({ }) 
+# Sentence pair (2) source length 10 target length 16 alignment score : 6.77588e-20
+Our company was established in Mělník on the first of the September in two thousand eighteen. 
+NULL ({ 8 11 }) Unser ({ 1 }) Unternehmen ({ 2 }) wurde ({ 3 }) am ({ 4 }) 1. ({ }) September ({ 5 }) 2018 ({ 16 }) in ({ }) Mělník ({ }) gegründet. ({ 6 7 9 10 12 13 14 15 }) 
+# Sentence pair (3) source length 14 target length 15 alignment score : 2.70566e-16
+Our company have... had five members but currently we operate the company with four people. 
+NULL ({ 11 }) Unser ({ 1 }) Unternehmen ({ 2 }) hatte ({ 3 }) fünf ({ 5 }) Mitglieder, ({ 4 }) aber ({ 6 }) zurzeit ({ 7 14 15 }) betreiben ({ 8 }) wir ({ 9 }) das ({ 10 }) Unternehmen ({ 12 }) mit ({ }) vier ({ 13 }) Leuten. ({ }) 
+# Sentence pair (4) source length 12 target length 14 alignment score : 3.27519e-16
+Every month every month we prepare the new programmes and offers for our customers. 
+NULL ({ 7 9 14 }) Jeden ({ 1 }) Monat ({ 2 3 }) erstellen ({ 4 }) wir ({ 5 }) die ({ 6 }) neuen ({ 13 }) Programme ({ 8 }) und ({ 10 }) Angebote ({ }) für ({ 12 }) unsere ({ }) Kunden. ({ 11 }) 
+# Sentence pair (5) source length 9 target length 9 alignment score : 2.51156e-10
+As additional activity we serve refreshment for our customers. 
+NULL ({ }) Als ({ 1 }) zusätzliche ({ }) Aktivität ({ 2 }) versorgen ({ 3 }) wir ({ 9 }) unseren ({ 8 }) Kunden ({ }) mit ({ 4 }) Erfrischungen. ({ 5 6 7 }) 
+# Sentence pair (6) source length 26 target length 30 alignment score : 3.3156e-46
+And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited at our stand number fifty five. 
+NULL ({ 9 }) Wenn ({ 13 14 15 }) Sie ({ 21 }) Interesse ({ 16 18 19 20 }) an ({ 17 24 25 }) unseren ({ 26 }) Bildungsprogrammen ({ 27 }) haben, ({ 28 }) können ({ 29 }) Sie ({ }) per ({ 30 }) E-Mail ({ }) fictionalcine ({ }) at ({ }) gmail ({ 23 }) Punkt ({ 11 }) com ({ 12 }) mit ({ }) uns ({ 3 4 10 22 }) Kontakt ({ 5 }) aufnehmen ({ 6 }) oder ({ 8 }) unseren ({ 7 }) Stand ({ }) Nummer ({ 2 }) 55 ({ }) besuchen. ({ 1 }) 
+# Sentence pair (7) source length 5 target length 7 alignment score : 4.614e-08
+We are looking forward to you welcome. 
+NULL ({ }) Wir ({ 1 }) freuen ({ 2 }) uns ({ 6 }) auf ({ 7 }) Sie. ({ 3 4 5 }) 
+# Sentence pair (8) source length 1 target length 2 alignment score : 0.0107638
+Thank you. 
+NULL ({ }) Danke. ({ 1 2 }) 

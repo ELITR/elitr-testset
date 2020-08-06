@@ -1,0 +1,45 @@
+# Sentence pair (1) source length 1 target length 1 alignment score : 0.607813
+Hello, 
+NULL ({ }) Hallo, ({ 1 }) 
+# Sentence pair (2) source length 10 target length 11 alignment score : 5.55457e-08
+and we are Belgium students from the firm Kol Action Accessories. 
+NULL ({ }) wir ({ 1 2 }) sind ({ 3 }) belgische ({ 4 }) Studenten ({ 5 }) aus ({ 6 }) dem ({ 7 }) Unternehmen ({ 8 }) Kol ({ 9 }) Action ({ 11 }) Accessories. ({ 10 }) 
+# Sentence pair (3) source length 11 target length 12 alignment score : 2.03343e-06
+We sell luxury accessories at a good price and an excellent quality. 
+NULL ({ }) Wir ({ }) verkaufen ({ 1 }) Luxusaccessoires ({ 2 3 }) zu ({ 4 }) einem ({ 5 6 }) guten ({ 7 }) Preis ({ 8 }) und ({ 9 }) in ({ 10 }) ausgezeichneter ({ 11 }) Qualität. ({ 12 }) 
+# Sentence pair (4) source length 9 target length 11 alignment score : 6.56869e-07
+And we selected the best collection of the most exclusive brands. 
+NULL ({ 8 }) Wir ({ 1 2 }) haben ({ 3 }) die ({ 4 }) beste ({ 5 }) Kollektion ({ 6 }) der ({ 7 }) exklusivsten ({ 9 }) Marken ({ 10 }) ausgewählt. ({ 11 }) 
+# Sentence pair (5) source length 18 target length 16 alignment score : 6.83993e-14
+Our collection is meant for men, women, young and old who ever want to know accessory. 
+NULL ({ }) Unsere ({ 1 }) Kollektion ({ 2 }) richtet ({ 3 }) sich ({ 4 }) an ({ 5 }) Männer, ({ 6 }) Frauen, ({ 7 }) Jung ({ 8 }) und ({ 9 }) Alt, ({ 10 }) an ({ }) jeden, ({ 11 }) der ({ }) etwas ({ }) über ({ }) Accessoires ({ }) wissen ({ }) möchte. ({ 12 13 14 15 16 }) 
+# Sentence pair (6) source length 18 target length 18 alignment score : 1.36425e-12
+Imagine you want to make it up with your wife - we are the solution of your life. 
+NULL ({ }) Stellen ({ 1 }) Sie ({ 2 }) sich ({ 3 4 }) vor, ({ 5 }) Sie ({ 6 }) wollen ({ 7 }) sich ({ }) mit ({ }) Ihrer ({ 8 }) Frau ({ 9 }) versöhnen ({ 10 }) - ({ 11 }) wir ({ 12 }) sind ({ 13 }) die ({ 14 }) Lösung ({ 15 }) Ihres ({ 16 }) Lebens. ({ 17 18 }) 
+# Sentence pair (7) source length 12 target length 12 alignment score : 7.01074e-12
+Watches, wallets, belts or jewelry's, you find it with Kol Action Accessories. 
+NULL ({ }) Uhren, ({ 1 2 }) Geldbeutel, ({ 3 }) Gürtel ({ 4 }) oder ({ 5 }) Schmuck, ({ 8 }) bei ({ 9 }) Kol ({ 10 }) Action ({ 12 }) Accessories ({ }) finden ({ 11 }) Sie ({ 6 }) es. ({ 7 }) 
+# Sentence pair (8) source length 7 target length 7 alignment score : 1.09849e-10
+It's two thousand nineteen the world switches. 
+NULL ({ }) Es ({ 4 }) ist ({ 5 }) 2019, ({ 7 }) die ({ }) Welt ({ 6 }) verändert ({ 3 }) sich. ({ 1 2 }) 
+# Sentence pair (9) source length 10 target length 10 alignment score : 9.01177e-11
+The dream when the men do the dishes came true. 
+NULL ({ }) Der ({ 1 }) Traum, ({ 2 3 }) dass ({ 4 }) Männer ({ 5 }) den ({ }) Abwasch ({ 8 }) machen, ({ 6 }) ist ({ 7 }) wahr ({ 10 }) geworden. ({ 9 }) 
+# Sentence pair (10) source length 8 target length 8 alignment score : 4.6148e-07
+So buy a good with Kol Action Accessories. 
+NULL ({ }) Also ({ 1 2 }) kaufen ({ 3 }) Sie ({ }) etwas ({ 4 }) bei ({ 5 }) Kol ({ 6 }) Action ({ 8 }) Accessories. ({ 7 }) 
+# Sentence pair (11) source length 5 target length 6 alignment score : 4.52361e-08
+And give your man a reward. 
+NULL ({ }) Und ({ }) belohnen ({ }) Sie ({ }) Ihren ({ 1 }) Mann. ({ 2 3 4 5 6 }) 
+# Sentence pair (12) source length 13 target length 15 alignment score : 2.25057e-13
+Because the actions that he deed for you will say that you are his award. 
+NULL ({ 2 }) Denn ({ 1 3 }) was ({ 4 5 }) er ({ 6 }) für ({ 7 }) Sie ({ 8 }) getan ({ 9 }) hat, ({ 10 }) zeigt, ({ 11 }) dass ({ 12 }) Sie ({ }) seine ({ 13 }) Belohnung ({ 15 }) sind. ({ 14 }) 
+# Sentence pair (13) source length 16 target length 18 alignment score : 7.03635e-15
+Thank you for your attention and we hope we'll see you back at our stand number seventy nine. 
+NULL ({ }) Danke ({ 1 }) für ({ 2 3 }) Ihre ({ 4 }) Aufmerksamkeit ({ 5 }) und ({ 6 }) wir ({ 7 }) hoffen, ({ 8 9 10 }) dass ({ 11 }) wir ({ }) Sie ({ }) an ({ }) unserem ({ 12 }) Stand ({ 13 }) Nummer ({ 14 }) 79 ({ 15 }) sehen. ({ 16 17 18 }) 
+# Sentence pair (14) source length 7 target length 6 alignment score : 7.91347e-10
+You're welcome with Kol Action Accessories. 
+NULL ({ }) Bei ({ 2 }) Kol ({ 5 }) Action ({ 6 }) Accessories ({ 4 }) sind ({ 3 }) Sie ({ }) willkommen. ({ 1 }) 
+# Sentence pair (15) source length 6 target length 6 alignment score : 0.0151735
+For powerful men and beautiful ladies. 
+NULL ({ }) Für ({ 1 }) starke ({ 2 }) Männer ({ 3 }) und ({ 4 }) schöne ({ 5 }) Frauen. ({ 6 }) 

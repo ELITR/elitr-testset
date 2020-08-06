@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 22 target length 20 alignment score : 4.9488e-28
+Hello, my name is <NAME> and I am the CEO of Smart Team from Maria Teiulenu Economic College, Pitesti, Romania. 
+NULL ({ 9 }) Dobrý ({ 1 }) den, ({ 2 }) mé ({ }) jméno ({ 3 }) je ({ 4 }) <NAME> ({ 5 }) a ({ 6 }) jsem ({ 7 }) výkonným ({ 8 }) ředitelem ({ }) ve ({ }) Smart ({ 10 }) Teamu ({ }) z ({ 11 }) Ekonomické ({ }) univerzity ({ }) Marie ({ 20 }) Teiulenu ({ }) v ({ }) Pitesti ({ }) v ({ }) Rumunsku. ({ 12 13 14 15 16 17 18 19 }) 
+# Sentence pair (2) source length 22 target length 33 alignment score : 3.65413e-34
+The object of our firm is to provide the agrotourist services in the touristic areas of Romania, and to promote the tourist potential, in order to be the best in this business field. 
+NULL ({ 3 7 9 13 16 19 21 26 28 }) Cílem ({ 1 }) naší ({ 2 4 }) firmy ({ 5 }) je ({ 6 }) poskytovat ({ 8 }) agroturistické ({ 10 }) služby ({ 11 }) v ({ 12 }) turistických ({ 14 }) oblastech ({ 15 }) Rumunska ({ 17 }) a ({ 18 }) propagovat ({ 20 }) turistický ({ 22 }) potenciál, ({ }) aby ({ }) byl ({ 23 31 32 33 }) v ({ 24 }) této ({ 25 }) oblasti ({ 27 }) podnikání ({ 29 }) nejlepší. ({ 30 }) 
+# Sentence pair (3) source length 18 target length 23 alignment score : 3.27957e-30
+After analyzing the market for the winter of two thousand nineteen, we created for you a special offer that you can not resist. 
+NULL ({ 3 6 8 15 20 }) Po ({ 1 2 }) tom, ({ 4 }) co ({ 5 7 9 10 11 }) jsme ({ 12 }) provedli ({ 13 }) analýzu ({ 14 }) trhu ({ }) na ({ 16 18 }) zimu ({ }) dva ({ }) tisíce ({ }) devatenáct, ({ }) vytvořili ({ 21 }) jsme ({ }) speciální ({ 23 }) nabídku, ({ 22 }) které ({ 19 }) neodoláte. ({ 17 }) 
+# Sentence pair (4) source length 6 target length 7 alignment score : 1.2103e-11
+The package is called "Discover Dracula's Land." 
+NULL ({ }) Balíček ({ 6 }) se ({ }) jmenuje ({ }) "Objevte ({ 7 }) zemi ({ }) Drákuly". ({ 1 2 3 4 5 }) 
+# Sentence pair (5) source length 14 target length 14 alignment score : 3.0755e-20
+It's an amazing experience in Bran, Poiana Brasov, the city where Dracula was born. 
+NULL ({ 9 }) Je ({ }) to ({ }) úžasný ({ 3 }) zážitek ({ 6 }) v ({ }) Branu ({ 4 }) v ({ 5 }) Poiana ({ 7 }) Brasově, ({ 8 }) městě, ({ 10 }) kde ({ 11 12 13 14 }) se ({ }) Drákula ({ }) narodil. ({ 1 2 }) 
+# Sentence pair (6) source length 25 target length 31 alignment score : 8.04968e-36
+We offer to you three unbelievable three unbelievable days in which you can relax, have fun, visit the surroundings, take pictures and make memories that will last for a life time. 
+NULL ({ 3 4 12 18 }) Nabízíme ({ 1 }) vám ({ 2 }) tři ({ 5 13 14 }) neuvěřitelné ({ 6 7 8 }) dni, ({ 9 }) v ({ 10 }) rámci ({ 11 }) kterých ({ 15 }) můžete ({ }) relaxovat, ({ 16 }) bavit ({ 17 }) se, ({ 19 }) navštívit ({ }) okolí, ({ }) pořídit ({ 20 }) fotky ({ 21 }) a ({ 22 }) získat ({ 23 }) vzpomínky, ({ 24 }) které ({ 25 }) vám ({ 26 27 }) vydrží ({ 28 30 31 }) po ({ }) zbytek ({ 29 }) života. ({ }) 
+# Sentence pair (7) source length 16 target length 28 alignment score : 2.1968e-34
+In the first day, you will start your journey with a visit a the well-known Bran Castle, or the "Castle of Vampire Dracula," a place full of mysteries. 
+NULL ({ 2 14 19 21 27 }) První ({ 1 3 4 }) den ({ 5 6 }) začnete ({ 7 }) svůj ({ 8 }) zájezd ({ 9 }) návštěvou ({ }) známého ({ 10 }) hradu ({ 11 }) Bran, ({ 13 }) neboli ({ 28 }) "hradu ({ 25 }) upíra ({ 26 }) Drákuly," ({ 12 }) místa ({ 15 }) plného ({ 16 17 18 20 22 23 }) záhad. ({ 24 }) 
+# Sentence pair (8) source length 22 target length 30 alignment score : 7.49605e-34
+On the second day you will enjoy time with your friends or family, visiting Dino Park, the only dinosaurs theme park in Romania and the biggest in the Southeastern Europe. 
+NULL ({ 2 17 22 25 28 }) Druhý ({ 1 3 4 }) den ({ 5 6 }) si ({ 7 8 }) užijete ({ 9 }) čas ({ 10 }) strávený ({ 11 }) s ({ }) přáteli ({ 12 }) a ({ }) rodinou, ({ 13 }) navštívíte ({ 14 }) Dinopark, ({ 15 }) jediný ({ 16 }) rumunský ({ 18 19 20 }) park ({ }) s ({ 29 }) dinosaury ({ 30 }) a ({ 24 }) největší ({ 26 }) v ({ 27 }) jihovýchodní ({ 21 23 }) Evropě. ({ }) 
+# Sentence pair (9) source length 25 target length 35 alignment score : 1.01213e-52
+Your next objective will be to discover one of the beautiful creations of the nature, "The Canyon of The Seven Stairs," which is composed by seven waterfalls, the biggest one being thirty five meters tall. 
+NULL ({ 6 10 13 14 18 28 }) Vaším ({ 1 2 }) dalším ({ 3 5 7 }) úkolem ({ }) bude ({ 4 }) objevit ({ }) jeden ({ 8 }) z ({ 9 }) nádherných ({ }) výtvorů ({ 30 }) přírody, ({ 31 32 33 34 35 }) "kaňon ({ }) Sedm ({ }) schodů," ({ }) který ({ }) tvoří ({ }) sedm ({ 26 }) vodopádů, ({ 27 }) největší ({ 29 }) z ({ }) nich ({ 24 25 }) je ({ 23 }) třicet ({ }) sedm ({ }) metrů ({ 22 }) vysoký. ({ 11 12 15 16 17 19 20 21 }) 
+# Sentence pair (10) source length 18 target length 25 alignment score : 1.60016e-36
+In the last day you will have enough time to enjoy our twelve ski slopes, because we offer you a free... free ski day pass. 
+NULL ({ 2 10 19 }) Poslední ({ 1 3 4 }) den ({ 5 6 }) vám ({ }) zbyde ({ }) dost ({ 7 }) času ({ 8 }) si ({ 9 11 }) zalyžovat ({ 14 }) na ({ 18 20 }) našich ({ 12 17 }) dvanácti ({ 13 15 16 }) sjezdovkách, ({ 21 }) protože ({ 22 24 25 }) vám ({ }) nabízíme ({ }) denní ({ 23 }) permanentku ({ }) zdarma. ({ }) 
+# Sentence pair (11) source length 11 target length 17 alignment score : 2.66313e-27
+What a nicer way to end your trip than a special photo session of the Carpathian Mountains? 
+NULL ({ 5 14 15 }) Je ({ 4 6 7 8 9 }) lepší ({ 10 }) způsob, ({ 2 }) jak ({ 3 }) zakončit ({ 11 }) váš ({ 12 }) výlet ({ 17 }) než ({ }) focení ({ 13 16 }) v ({ }) Karpatech? ({ 1 }) 
+# Sentence pair (12) source length 27 target length 29 alignment score : 9.14764e-38
+We hope we made you curious to find out more about our offers and services, so we can't wait to see.. see you at our stand, number fifty eight. 
+NULL ({ 5 7 20 23 }) Doufáme, ({ 1 }) že ({ 2 }) jsme ({ 3 }) vás ({ 4 }) nalákali ({ 6 }) chtít ({ 8 }) se ({ 9 }) dovědět ({ 10 }) víc ({ }) o ({ 11 }) našich ({ 12 17 }) nabídkách ({ 13 }) a ({ 14 }) službách, ({ 15 }) takže ({ 16 }) se ({ }) nemůžeme ({ }) dočkat, ({ }) až ({ }) se ({ }) setkáme ({ }) u ({ 29 }) našeho ({ }) stánku ({ }) číslo ({ }) padesát ({ 18 }) osm. ({ 19 21 22 24 25 26 27 28 }) 

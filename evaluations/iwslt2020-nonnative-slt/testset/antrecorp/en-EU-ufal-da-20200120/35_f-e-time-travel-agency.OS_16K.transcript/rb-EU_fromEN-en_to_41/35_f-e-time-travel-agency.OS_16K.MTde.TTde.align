@@ -1,0 +1,39 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.329349
+God afternoon. 
+NULL ({ }) Guten ({ 1 }) Tag. ({ 2 }) 
+# Sentence pair (2) source length 15 target length 14 alignment score : 9.05936e-08
+My name is <NAME> and today I represent the Time Travel Agency Practice firm. 
+NULL ({ }) Mein ({ 1 }) Name ({ 2 }) ist ({ 3 }) <NAME> ({ 4 }) und ({ 5 }) heute ({ }) stelle ({ 6 }) ich ({ 7 }) Ihnen ({ 8 }) das ({ 9 }) Übungsunternehmen ({ }) Time ({ 10 }) Travel ({ 11 }) Agency ({ 12 }) vor. ({ 13 14 }) 
+# Sentence pair (3) source length 29 target length 32 alignment score : 3.98733e-21
+The company has been in two thousand fourteen. In two thousand eighteen, our class took it over, and rebranding happened, as a result, today, the company is focusing more on historical packages. 
+NULL ({ 18 25 }) Das ({ 1 }) Unternehmen ({ 2 3 }) gibt ({ 4 5 }) es ({ 6 7 }) seit ({ 8 }) 2014. ({ 9 }) 2018 ({ 10 }) hat ({ }) unsere ({ 11 }) Klasse ({ 12 13 }) es ({ }) übernommen ({ 14 }) und ({ }) ihm ({ 15 }) ein ({ 16 }) neues ({ 17 }) Image ({ 19 }) verpasst; ({ 20 }) dadurch ({ 21 }) liegt ({ 22 }) der ({ }) Schwerpunkt ({ 23 }) des ({ 24 }) Unternehmens ({ 26 }) heute ({ 27 }) eher ({ 28 29 }) auf ({ 30 }) historischen ({ 31 }) Paketen. ({ 32 }) 
+# Sentence pair (4) source length 9 target length 12 alignment score : 7.05333e-08
+The team has three leading members and twenty two eleventh grade students. 
+NULL ({ }) Das ({ 1 }) Team ({ 2 }) hat ({ 3 }) drei ({ 4 }) führende ({ 5 }) Mitglieder ({ 6 }) und ({ 7 }) 22 ({ 8 9 10 }) Elftklässler. ({ 11 12 }) 
+# Sentence pair (5) source length 17 target length 20 alignment score : 1.24004e-35
+As I said, we combine the magic of the past with modern trends, all this to meet the costumers demanding. 
+NULL ({ 6 9 16 18 }) Wie ({ 14 15 17 19 }) gesagt ({ 20 }) kombinieren ({ }) wir ({ 4 }) den ({ }) Zauber ({ 13 }) der ({ }) Vergangenheit ({ 1 }) mit ({ }) modernen ({ 2 }) Trends, ({ 3 }) um ({ }) den ({ }) Anforderungen ({ 12 }) der ({ 11 }) Kunden ({ 8 }) nachzukommen. ({ 5 7 10 }) 
+# Sentence pair (6) source length 19 target length 24 alignment score : 1.40236e-13
+Every package that we offer to the clients has three basic type of services: transportation, accommodation and meal, and a variety of complementary services. 
+NULL ({ 7 }) Jedes ({ 1 }) Paket, ({ 2 }) das ({ 3 }) wir ({ 4 }) unseren ({ 5 }) Kunden ({ 6 }) anbieten, ({ 8 }) hat ({ 9 }) drei ({ 10 }) Basisdienstleistungen: ({ 11 }) Transport, ({ 12 }) Unterkunft ({ 13 14 15 16 }) und ({ 17 }) Verpflegung ({ 18 }) sowie ({ 19 }) eine ({ 20 }) Reihe ({ 21 }) zusätzlicher ({ 22 }) Dienstleistungen. ({ 23 24 }) 
+# Sentence pair (7) source length 15 target length 19 alignment score : 9.78989e-11
+For example, folk art workshop, wine tasting, camps for children, equestrian and archery courses, paintball nights, meetings and conferences. 
+NULL ({ }) Zum ({ 1 2 }) Beispiel ({ 3 }) eine ({ 4 }) Folklore-Kunstwerkstatt, ({ 5 }) Weinproben, ({ 6 7 }) Camps ({ 8 }) für ({ 9 }) Kinder, ({ 10 }) Reit- ({ 11 }) und ({ 12 }) Bogenschießparcours, ({ 13 }) Paintball-Abende, ({ 14 15 }) Besprechungen ({ 16 17 }) und ({ 18 }) Konferenzen. ({ 19 }) 
+# Sentence pair (8) source length 20 target length 21 alignment score : 3.29585e-17
+As a tribute to the past, Time Travel Agency donates five percent on the revenue to the castles we cooperate with. 
+NULL ({ 5 14 17 }) Als ({ }) Tribut ({ 2 }) an ({ 3 }) die ({ 4 }) Vergangenheit ({ 1 }) spendet ({ 6 }) Time ({ 7 }) Travel ({ 8 }) Agency ({ 9 }) 5 ({ 10 }) % ({ 11 }) seiner ({ 12 }) Einnahmen ({ 13 }) an ({ }) die ({ }) Schlösser, ({ 15 }) mit ({ 16 }) denen ({ 18 }) wir ({ 19 }) zusammenarbeiten. ({ 20 21 }) 
+# Sentence pair (9) source length 11 target length 13 alignment score : 7.86114e-09
+You can reach us by many ways, Facebook, e-mail, Instagram and post office. 
+NULL ({ }) Sie ({ }) erreichen ({ 1 2 }) uns ({ 3 }) auf ({ 4 }) vielen ({ 5 }) Wegen, ({ 6 }) Facebook, ({ 7 }) E-Mail, ({ 8 }) Instagram ({ 9 10 }) und ({ 11 }) Post. ({ 12 13 }) 
+# Sentence pair (10) source length 6 target length 6 alignment score : 0.00961909
+We have a webpage on timetravelsrl.wixsite.com. 
+NULL ({ }) Wir ({ 1 }) haben ({ 2 }) eine ({ 3 }) Website ({ 4 }) auf ({ 5 }) timetravelsrl.wixsite.com. ({ 6 }) 
+# Sentence pair (11) source length 6 target length 10 alignment score : 2.10525e-12
+Feel free to visit to the stand number sixty six. 
+NULL ({ 6 }) Besuchen ({ 1 }) Sie ({ 2 }) gern ({ 3 4 7 8 9 }) Stand ({ 10 }) Nummer ({ 5 }) 66. ({ }) 
+# Sentence pair (12) source length 9 target length 7 alignment score : 1.37784e-06
+Take your time with time travel agency. 
+NULL ({ }) Nehmen ({ 1 }) Sie ({ }) sich ({ 2 }) Zeit ({ 3 }) mit ({ }) der ({ 4 }) Time ({ 5 }) Travel ({ }) Agency. ({ 6 7 }) 
+# Sentence pair (13) source length 4 target length 5 alignment score : 0.0026284
+Thank you for your attention. 
+NULL ({ }) Danke ({ 1 2 }) für ({ 3 }) Ihre ({ 4 }) Aufmerksamkeit. ({ 5 }) 

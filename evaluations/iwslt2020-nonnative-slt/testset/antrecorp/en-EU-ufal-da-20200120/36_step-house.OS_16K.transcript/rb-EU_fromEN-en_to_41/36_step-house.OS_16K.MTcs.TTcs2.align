@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.215834
+Good afternoon. 
+NULL ({ }) Dobré ({ 1 }) odpoledne. ({ 2 }) 
+# Sentence pair (2) source length 11 target length 13 alignment score : 1.60149e-06
+Welcome to international fair of practical enterprise in capital city of Czech Republic. 
+NULL ({ 11 }) Vítejte ({ 1 }) na ({ 2 }) Mezinárodním ({ 3 }) veletrhu ({ 4 }) fiktivních ({ 5 }) firem ({ 6 }) v ({ 7 }) hlavním ({ 8 }) městě ({ 9 }) České ({ 10 }) republiky. ({ 12 13 }) 
+# Sentence pair (3) source length 7 target length 12 alignment score : 1.63084e-09
+I am, I am personalist of Czech fictional company called Step House. 
+NULL ({ 6 12 }) Jsem ({ 1 }) personalista ({ 2 }) fiktivní ({ 3 }) české ({ 4 }) společnosti ({ 5 }) Step ({ 7 }) House. ({ 8 9 10 11 }) 
+# Sentence pair (4) source length 5 target length 5 alignment score : 0.0499617
+Our company sells branded footwear. 
+NULL ({ }) Naše ({ 1 }) společnost ({ 2 }) prodává ({ 3 }) značkovou ({ 4 }) obuv. ({ 5 }) 
+# Sentence pair (5) source length 11 target length 15 alignment score : 5.33638e-10
+We can offer you wide range of sizes and brands that will please your taste. 
+NULL ({ 7 }) Nabízíme ({ 1 2 3 }) vám ({ 4 }) velkou ({ 5 }) škálu ({ 6 }) značek ({ 8 }) a ({ 9 }) velikostí, ({ 10 }) které ({ 11 }) uspokojí ({ 12 13 }) váš ({ 14 }) vkus. ({ 15 }) 
+# Sentence pair (6) source length 21 target length 26 alignment score : 5.24497e-21
+When choosing your dream shoes, we will try to help you buy ones that provide... that provide maximum level that fit comfortably from morning to night. 
+NULL ({ 3 6 25 }) Při ({ 1 }) výběru ({ 2 }) vašich ({ 4 }) ideálních ({ 5 }) bot ({ 7 }) se ({ 8 }) vám ({ 9 }) budeme ({ 10 }) snažit ({ 21 }) pomoci ({ 22 }) vybrat ({ 23 }) takové, ({ 24 26 }) které ({ 20 }) vám ({ 11 }) budou ({ 12 }) maximálně ({ 13 }) sedět ({ 14 }) od ({ 15 }) rána ({ 16 }) do ({ 17 }) večera. ({ 18 19 }) 
+# Sentence pair (7) source length 20 target length 19 alignment score : 6.63698e-07
+Buyers night... now can choose from many well-known brands, such as Nike, Adidas, New Balance, Fila, Vans and Reebok. 
+NULL ({ }) Zákazníci ({ 1 }) si ({ 2 }) můžou ({ 3 }) v ({ 4 }) současnosti ({ 5 }) vybrat ({ 6 }) z ({ 7 }) množství ({ 8 }) známých ({ 9 }) značek ({ }) jako ({ 10 }) je ({ 11 }) Nike, ({ 12 }) Adidas, ({ 13 }) New ({ 14 }) Balance, ({ 15 }) Fila, ({ 16 }) Vans ({ 17 }) a ({ 18 }) Reebok. ({ 19 }) 
+# Sentence pair (8) source length 5 target length 6 alignment score : 0.00721329
+Our company employs well qualified staff. 
+NULL ({ }) Naše ({ 1 }) společnost ({ 2 }) zaměstnává ({ 3 }) kvalifikovaný ({ 4 }) personál. ({ 5 6 }) 
+# Sentence pair (9) source length 16 target length 19 alignment score : 1.69182e-09
+When dealing with our customers, we try to identify and analyze their wishes in order to satisfy their needs. 
+NULL ({ 8 16 }) Při ({ 1 }) kontaktu ({ 2 3 }) se ({ 4 }) zákazníky ({ 5 }) se ({ 6 }) snažíme ({ 7 }) identifikovat ({ 9 }) a ({ 10 }) analyzovat ({ 11 }) jejich ({ 12 }) přání, ({ 13 }) abychom ({ 14 }) mohli ({ 15 }) uspokojit ({ 17 }) jejich ({ 18 }) potřeby. ({ 19 }) 
+# Sentence pair (10) source length 11 target length 11 alignment score : 2.94472e-08
+And we hope that our sortiment will grow more and more. 
+NULL ({ 2 }) A ({ 1 }) doufáme, ({ 3 }) že ({ 4 }) náš ({ 5 }) sortiment ({ 6 }) se ({ }) bude ({ 7 }) víc ({ 8 9 }) a ({ 10 }) víc ({ }) rozšiřovat. ({ 11 }) 
+# Sentence pair (11) source length 6 target length 7 alignment score : 1.40472e-06
+And we look forward to your purchase. 
+NULL ({ 2 }) A ({ 1 }) těšíme ({ 3 4 }) se ({ }) na ({ 5 }) váš ({ 6 }) nákup. ({ 7 }) 
+# Sentence pair (12) source length 5 target length 6 alignment score : 0.00467504
+And thank you for your attention. 
+NULL ({ }) A ({ 1 }) děkuji ({ 2 }) vám ({ 3 }) za ({ 4 }) pozornost. ({ 5 6 }) 

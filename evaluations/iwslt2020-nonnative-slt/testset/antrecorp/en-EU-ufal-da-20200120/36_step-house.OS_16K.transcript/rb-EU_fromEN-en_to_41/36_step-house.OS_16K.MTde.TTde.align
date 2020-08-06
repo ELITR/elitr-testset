@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.319345
+Good afternoon. 
+NULL ({ }) Guten ({ 1 }) Tag. ({ 2 }) 
+# Sentence pair (2) source length 11 target length 13 alignment score : 5.35354e-17
+Welcome to international fair of practical enterprise in capital city of Czech Republic. 
+NULL ({ 2 }) Willkommen ({ 1 }) bei ({ 3 }) der ({ 5 }) internationalen ({ 6 }) Messe ({ 7 9 10 }) der ({ 12 }) Übungsunternehmen ({ 13 }) in ({ }) der ({ 11 }) Hauptstadt ({ 4 }) Tschechiens. ({ 8 }) 
+# Sentence pair (3) source length 13 target length 12 alignment score : 1.71645e-06
+I am, I am personalist of Czech fictional company called Step House. 
+NULL ({ }) Ich ({ 1 }) bin, ({ 2 3 }) ich ({ 4 }) bin ({ 5 }) aus ({ }) der ({ 6 }) Personalabteilung ({ 7 }) des ({ 8 }) tschechischen ({ 9 }) fiktionalen ({ 10 }) Unternehmens ({ 11 }) Step ({ 12 }) House. ({ }) 
+# Sentence pair (4) source length 4 target length 5 alignment score : 0.00603912
+Our company sells branded footwear. 
+NULL ({ }) Unser ({ 1 }) Unternehmen ({ 2 }) verkauft ({ 3 }) Markenschuhe. ({ 4 5 }) 
+# Sentence pair (5) source length 13 target length 15 alignment score : 3.79207e-08
+We can offer you wide range of sizes and brands that will please your taste. 
+NULL ({ 14 }) Wir ({ 1 }) bieten ({ 2 3 }) eine ({ 4 }) große ({ 5 }) Auswahl ({ 6 }) an ({ 7 }) Größen ({ 8 }) und ({ 9 }) Marken, ({ 10 }) die ({ 11 }) Ihnen ({ 12 }) gefallen ({ 13 }) werden. ({ 15 }) 
+# Sentence pair (6) source length 27 target length 26 alignment score : 5.32545e-13
+When choosing your dream shoes, we will try to help you buy ones that provide... that provide maximum level that fit comfortably from morning to night. 
+NULL ({ 25 26 }) Wenn ({ 1 }) Sie ({ 2 }) sich ({ }) Ihre ({ 3 }) Traumschuhe ({ 4 }) aussuchen, ({ 5 }) versuchen ({ 6 }) wir, ({ }) Ihnen ({ 7 }) dabei ({ 8 }) zu ({ 9 }) helfen, ({ 10 }) welche ({ 11 }) zu ({ }) kaufen, ({ 12 }) die... ({ }) Ihnen ({ }) das ({ 13 }) Maximum ({ 14 }) bieten, ({ 15 }) die ({ 16 }) von ({ 17 }) morgens ({ 18 }) bis ({ 19 }) abends ({ 20 }) bequem ({ 21 }) passen. ({ 22 23 24 }) 
+# Sentence pair (7) source length 17 target length 19 alignment score : 4.94914e-14
+Buyers night... now can choose from many well-known brands, such as Nike, Adidas, New Balance, Fila, Vans and Reebok. 
+NULL ({ }) Kunden ({ }) können ({ 6 }) jetzt ({ }) aus ({ 7 }) vielen ({ 8 }) bekannten ({ 9 }) Marken ({ 10 }) wie ({ 11 }) Nike, ({ 12 }) Adidas, ({ 13 }) New ({ 14 }) Balance, ({ 15 }) Fila, ({ 16 }) Vans ({ 17 }) und ({ 18 }) Reebok ({ 19 }) auswählen. ({ 1 2 3 4 5 }) 
+# Sentence pair (8) source length 6 target length 6 alignment score : 0.0815404
+Our company employs well qualified staff. 
+NULL ({ }) Unser ({ 1 }) Unternehmen ({ 2 }) beschäftigt ({ 3 }) gut ({ 4 }) ausgebildete ({ 5 }) Mitarbeiter. ({ 6 }) 
+# Sentence pair (9) source length 21 target length 19 alignment score : 4.37903e-12
+When dealing with our customers, we try to identify and analyze their wishes in order to satisfy their needs. 
+NULL ({ 16 }) Wenn ({ 1 }) wir ({ }) mit ({ 2 }) unseren ({ 3 }) Kunden ({ }) zu ({ }) tun ({ 4 }) haben, ({ 5 }) versuchen ({ 6 }) wir, ({ 7 }) ihre ({ }) Wünsche ({ 8 }) zu ({ }) identifizieren ({ 9 }) und ({ 10 }) zu ({ }) analysieren, ({ 11 }) um ({ 12 }) ihren ({ 13 }) Bedürfnissen ({ 14 }) nachzukommen. ({ 15 17 18 19 }) 
+# Sentence pair (10) source length 9 target length 11 alignment score : 3.06821e-05
+And we hope that our sortiment will grow more and more. 
+NULL ({ }) Und ({ 1 }) wir ({ 2 }) hoffen, ({ 3 }) dass ({ 4 }) unser ({ 5 }) Sortiment ({ 6 }) immer ({ 7 }) weiter ({ 8 }) wächst. ({ 9 10 11 }) 
+# Sentence pair (11) source length 7 target length 7 alignment score : 8.35496e-05
+And we look forward to your purchase. 
+NULL ({ 5 }) Und ({ 1 }) wir ({ 2 }) freuen ({ 3 }) uns ({ 4 }) auf ({ 6 }) Ihren ({ 7 }) Einkauf. ({ }) 
+# Sentence pair (12) source length 5 target length 6 alignment score : 0.00245876
+And thank you for your attention. 
+NULL ({ }) Und ({ 1 }) danke ({ 2 }) für ({ 3 4 }) Ihre ({ 5 }) Aufmerksamkeit. ({ 6 }) 

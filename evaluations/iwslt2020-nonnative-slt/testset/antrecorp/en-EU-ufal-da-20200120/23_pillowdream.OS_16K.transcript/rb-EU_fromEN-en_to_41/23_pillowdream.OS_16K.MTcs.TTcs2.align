@@ -1,0 +1,60 @@
+# Sentence pair (1) source length 5 target length 6 alignment score : 9.13887e-07
+Oh, it's been a hard day! 
+NULL ({ }) Dneska ({ 1 3 }) to ({ 4 }) byl ({ 5 }) náročný ({ 6 }) den! ({ 2 }) 
+# Sentence pair (2) source length 5 target length 4 alignment score : 0.00641659
+You're right, very hard! 
+NULL ({ }) Ano, ({ 1 }) máš ({ }) pravdu, ({ 2 }) opravdu ({ 3 }) náročný! ({ 4 }) 
+# Sentence pair (3) source length 7 target length 11 alignment score : 5.42905e-10
+Do you think being here at this trade fair will pay? 
+NULL ({ }) Myslíš, ({ 1 2 3 }) že ({ 4 }) se ({ 5 }) návštěva ({ 6 }) na ({ 7 }) veletrhu ({ 8 }) vyplatí? ({ 9 10 11 }) 
+# Sentence pair (4) source length 2 target length 2 alignment score : 0.223828
+Yes, sure! 
+NULL ({ }) Ano, ({ 1 }) jistě! ({ 2 }) 
+# Sentence pair (5) source length 15 target length 17 alignment score : 7.64489e-08
+You know, I am quite confident: selling fashionable and trendy products such as bedroom linens and furniture... 
+NULL ({ }) Víš, ({ 1 2 }) jsem ({ 3 }) si ({ 4 }) docela ({ 5 }) jistý: ({ 6 }) prodávat ({ 7 }) módní ({ 8 }) a ({ 9 }) trendy ({ 10 }) produkty ({ 11 }) jako ({ 12 }) ložní ({ 13 }) prádlo ({ 14 15 }) a ({ 16 }) nábytek... ({ 17 }) 
+# Sentence pair (6) source length 8 target length 8 alignment score : 3.80045e-13
+People will be pushed to buy from us! 
+NULL ({ 5 }) Lidé ({ }) budou ({ }) nucení ({ 1 }) si ({ }) od ({ }) nás ({ }) něco ({ }) koupit! ({ 2 3 4 6 7 8 }) 
+# Sentence pair (7) source length 19 target length 22 alignment score : 1.06582e-11
+And we are young, innovative, creative and all our products are made in Italy: everybody knows it, that stands for high quality. 
+NULL ({ }) A ({ 1 }) jsme ({ 2 }) mladí, ({ 3 4 }) inovativní, ({ 5 }) kreativní ({ 6 }) a ({ 7 }) všechno ({ 8 9 }) naše ({ 10 }) zboží ({ 11 }) vyrábíme ({ 12 }) v ({ 13 }) Itálii: ({ 14 }) všichni ({ 15 }) vědí, ({ 16 }) že ({ 17 }) to ({ 18 }) znamená ({ 19 }) vysokou ({ 20 }) kvalitu. ({ 21 22 }) 
+# Sentence pair (8) source length 14 target length 18 alignment score : 4.5019e-11
+Yes, you're absolutely right, but remember: we are here to get in touch... in touch with new customers. 
+NULL ({ 10 }) Ano, ({ 1 }) máš ({ 2 }) naprostou ({ 3 }) pravdu, ({ 4 }) ale ({ 5 }) pamatuj: ({ 6 }) přišli ({ 7 }) jsme ({ 8 }) se ({ 9 }) sem ({ 11 }) seznámit ({ 12 13 14 }) s ({ 15 }) novými ({ 16 }) zákazníky. ({ 17 18 }) 
+# Sentence pair (9) source length 7 target length 9 alignment score : 1.81788e-07
+Will we be able to target these new markets? 
+NULL ({ 5 }) Podaří ({ 1 }) se ({ 2 }) nám ({ 3 }) zacílit ({ 4 6 }) na ({ 7 }) nové ({ 8 }) trhy? ({ 9 }) 
+# Sentence pair (10) source length 20 target length 28 alignment score : 1.32313e-22
+Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe is just behind the corner! 
+NULL ({ 5 8 19 28 }) Ale ({ 2 }) vždyť ({ 1 }) víš, ({ 3 4 }) sídlíme ({ 6 }) ve ({ 7 }) Benátsku, ({ 9 }) a ({ 10 }) to ({ 11 }) je ({ 12 }) výhoda: ({ 13 14 }) jsme ({ 15 }) blízko ({ 16 }) k ({ 17 }) těmhle ({ 18 }) trhům, ({ 20 21 }) východní ({ 22 }) Evropa ({ 23 }) je ({ 24 }) za ({ 25 }) rohem! ({ 26 27 }) 
+# Sentence pair (11) source length 12 target length 13 alignment score : 2.13771e-06
+Yeah, but Hungary, Czech Republic and Russia gonna cost a lot of money! 
+NULL ({ 10 }) Ano, ({ 1 }) ale ({ 2 }) Maďarsko, ({ 3 }) Česká ({ 4 }) republika ({ 5 }) a ({ 6 }) Rusko ({ 7 }) nás ({ 8 }) budou ({ 9 }) stát ({ 11 }) spoustu ({ 12 }) peněz! ({ 13 }) 
+# Sentence pair (12) source length 6 target length 11 alignment score : 8.03047e-10
+They will foresee a five percent loss in the first year. 
+NULL ({ 4 8 }) V ({ 1 }) prvním ({ 2 }) roce ({ 3 }) předpovídají ({ 5 }) pětiprocentní ({ 6 7 11 }) ztrátu. ({ 9 10 }) 
+# Sentence pair (13) source length 15 target length 13 alignment score : 1.73228e-16
+C'mon, think positive! This 5 percent is our increase in the third year! 
+NULL ({ 10 }) Ale ({ }) no ({ 1 }) tak, ({ 2 }) mysli ({ }) pozitivně! ({ }) O ({ 6 }) těhle ({ 3 }) pět ({ }) procent ({ 4 }) bude ({ 5 }) náš ({ }) nárůst ({ 7 }) v ({ 8 }) třetím ({ 9 }) roce! ({ 11 12 13 }) 
+# Sentence pair (14) source length 7 target length 9 alignment score : 2.72629e-06
+And I'm sure that today we got new customers. 
+NULL ({ }) A ({ 1 }) dneska ({ 2 3 }) jsme ({ 4 }) určitě ({ 5 6 }) získali ({ 7 }) nové ({ 8 }) zákazníky. ({ 9 }) 
+# Sentence pair (15) source length 3 target length 3 alignment score : 0.12539
+Yeah, you're right. 
+NULL ({ }) Jo, ({ 1 }) máš ({ 2 }) pravdu. ({ 3 }) 
+# Sentence pair (16) source length 10 target length 13 alignment score : 3.40118e-14
+As a matter of fact, we got all people need to sleep well. 
+NULL ({ 2 11 }) Ve ({ 1 4 }) skutečnosti ({ 3 5 }) jsme ({ 6 }) získali ({ 7 }) všechny, ({ 8 }) každý ({ 9 }) se ({ }) potřebuje ({ 10 }) dobře ({ 12 }) vyspat. ({ 13 }) 
+# Sentence pair (17) source length 13 target length 14 alignment score : 5.19507e-07
+Who doesn't need a soft pillow, comfortable mattresses and warm sheets to sleep in? 
+NULL ({ 12 }) Kdo ({ 1 }) by ({ 2 }) nechtěl ({ 3 }) spát ({ 4 }) na ({ }) měkkém ({ 5 }) polštáři, ({ 6 }) pohodlné ({ 7 }) matraci ({ 8 }) a ({ 9 }) pod ({ 10 }) teplým ({ 11 }) povlečením? ({ 13 14 }) 
+# Sentence pair (18) source length 10 target length 10 alignment score : 0.000684047
+And everything is handmade by our skilled craftsmen and artisans! 
+NULL ({ }) A ({ 1 }) všechno ({ 2 }) je ({ 3 }) ručně ({ 4 }) dělané ({ 5 }) našimi ({ 6 }) kvalifikovanými ({ 7 }) řemeslníky ({ 8 }) a ({ 9 }) umělci! ({ 10 }) 
+# Sentence pair (19) source length 4 target length 4 alignment score : 0.00030795
+It's such a dream! 
+NULL ({ 3 }) Je ({ 1 }) to ({ }) jako ({ 2 }) sen! ({ 4 }) 
+# Sentence pair (20) source length 14 target length 15 alignment score : 1.8345e-08
+Yes, you know, Pillow Dream is the beauty you want and the comfort you need! 
+NULL ({ 9 }) Ano, ({ 1 }) přece ({ 2 }) víš, ({ 3 }) že ({ }) Pillow ({ 4 }) Dream ({ 5 }) je ({ 6 }) krása, ({ 7 }) kterou ({ 8 }) chceš ({ 10 }) a ({ 11 }) pohodlí, ({ 12 }) které ({ 13 }) potřebuješ! ({ 14 15 }) 

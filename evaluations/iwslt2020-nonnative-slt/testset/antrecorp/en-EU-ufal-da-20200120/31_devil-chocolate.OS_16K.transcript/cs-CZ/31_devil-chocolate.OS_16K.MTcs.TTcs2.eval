@@ -1,0 +1,46 @@
+n ... not considering, not using
+P ... considering Partial segments (in addition to Complete segments)
+T ... considering source Timestamps supplied with MT output
+W ... segmenting by mWER segmenter (i.e. not segmenting by MT source timestamps)
+A ... considering word alignment (by GIZA) to relax word delay (i.e. relaxing more than just linear delay calculation)
+------------------------------------------------------------------------------------------------------------
+--       WordCount     tt1                    136
+avg      wordCount     tt*                    136
+--       SentenceCount tt0                    13
+avg      SentenceCount tt*                    13
+OStt     Duration      --                     8076.000
+tot      Delay         nTnn                   0.000
+avg      Delay         nTnn                   0.000
+tot      MissedWords   nTnn                   0
+tot      Delay         nnWn                   0.000
+avg      Delay         nnWn                   0.000
+tot      MissedWords   nnWn                   130
+tot      mWERQuality   nnWn                   95.3846
+tot      Delay         PTnn                   0.000
+avg      Delay         PTnn                   0.000
+tot      MissedWords   PTnn                   0
+tot      Delay         PnWn                   0.000
+avg      Delay         PnWn                   0.000
+tot      MissedWords   PnWn                   125
+tot      mWERQuality   PnWn                   98.4
+tot      Delay         PTnA                   0.000
+avg      Delay         PTnA                   0.000
+tot      MissedWords   PTnA                   0
+tot      Delay         PnWA                   0.000
+avg      Delay         PnWA                   0.000
+tot      MissedWords   PnWA                   125
+tot      mWERQuality   PnWA                   98.4
+tot      Flicker       count_changed_words    0
+tot      Flicker       count_changed_content  0
+macroavg Flicker       count_changed_content  0
+microavg Flicker       count_changed_content  0
+tot      BLEU          docAsAWhole            8.056
+tot      sacreBLEU     docAsAWhole            13.069
+avg      BLEU          --                     30.442
+avg      sacreBLEU     --                     14.168
+tot      BLEU          mWER-segmented         3.139
+tot      sacreBLEU     mWER-segmented         12.142
+detailed BLEU          span-000000-003000     3.298
+detailed sacreBLEU     span-000000-003000     4.961
+avg      BLEU          span*                  3.298
+avg      sacreBLEU     span*                  4.961

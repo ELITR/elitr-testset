@@ -1,0 +1,39 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.13792
+God afternoon. 
+NULL ({ }) Dobré ({ 1 }) odpoledne. ({ 2 }) 
+# Sentence pair (2) source length 12 target length 14 alignment score : 2.39109e-14
+My name is <NAME> and today I represent the Time Travel Agency Practice firm. 
+NULL ({ 9 }) Jmenuji ({ 1 2 }) se ({ 3 }) <NAME> ({ 4 }) a ({ 5 }) dnes ({ 6 }) tu ({ 7 }) zastupuji ({ 8 }) cvičnou ({ 14 }) firmu ({ 13 }) Time ({ 10 11 }) Travel ({ 12 }) Agency. ({ }) 
+# Sentence pair (3) source length 32 target length 32 alignment score : 1.09306e-32
+The company has been in two thousand fourteen. In two thousand eighteen, our class took it over, and rebranding happened, as a result, today, the company is focusing more on historical packages. 
+NULL ({ 22 25 }) Společnost ({ 6 7 8 9 10 }) byla ({ }) založena ({ }) v ({ 5 }) roce ({ 2 3 4 }) dva ({ 1 }) tisíce ({ }) čtrnáct. ({ 11 }) V ({ 12 }) roce ({ }) dva ({ }) tisíce ({ }) osmnáct ({ 13 }) ji ({ 14 }) převzala ({ 15 }) naše ({ 16 }) třída ({ 17 }) a ({ 18 }) došlo ({ 19 }) k ({ 20 }) změnám. ({ }) Výsledkem ({ 21 }) bylo, ({ 23 }) že ({ 24 }) v ({ }) současnosti ({ 26 }) se ({ 27 }) více ({ 28 }) zaměřuje ({ 29 }) na ({ 30 }) historické ({ 31 }) balíčky. ({ 32 }) 
+# Sentence pair (4) source length 13 target length 12 alignment score : 2.04117e-13
+The team has three leading members and twenty two eleventh grade students. 
+NULL ({ }) Tým ({ 2 }) má ({ 3 }) tři ({ 4 }) vedoucí ({ 5 }) členy ({ 6 }) a ({ 7 }) dvacet ({ 8 }) dva ({ 1 }) studentů ({ }) třetího ({ 9 }) ročníku ({ 10 }) střední ({ 12 }) školy. ({ 11 }) 
+# Sentence pair (5) source length 16 target length 20 alignment score : 7.73401e-30
+As I said, we combine the magic of the past with modern trends, all this to meet the costumers demanding. 
+NULL ({ 6 9 16 18 }) Jak ({ }) už ({ }) bylo ({ }) řečeno, ({ }) spojujeme ({ }) kouzlo ({ }) minulosti ({ 2 }) s ({ 1 }) moderními ({ 3 }) trendy, ({ 4 }) všechno ({ 5 }) proto, ({ 7 }) abychom ({ }) uspokojili ({ 20 }) poptávku ({ 19 }) zákazníků. ({ 8 10 11 12 13 14 15 17 }) 
+# Sentence pair (6) source length 19 target length 24 alignment score : 4.17221e-23
+Every package that we offer to the clients has three basic type of services: transportation, accommodation and meal, and a variety of complementary services. 
+NULL ({ 6 7 19 20 }) Každý ({ 1 2 }) z ({ 3 }) balíčků, ({ 4 }) který ({ }) svých ({ }) klientům ({ 5 }) nabízíme, ({ 8 }) má ({ 9 }) tři ({ 10 }) základní ({ 11 }) typy ({ 12 }) služeb: ({ 13 }) dopravu, ({ 14 }) ubytování, ({ 15 22 23 24 }) stravu ({ 16 }) a ({ 17 }) množství ({ 18 }) doplňkových ({ }) služeb. ({ 21 }) 
+# Sentence pair (7) source length 17 target length 19 alignment score : 2.98628e-24
+For example, folk art workshop, wine tasting, camps for children, equestrian and archery courses, paintball nights, meetings and conferences. 
+NULL ({ }) Například ({ 3 4 5 6 7 }) workshop ({ }) lidového ({ 1 }) umění, ({ 2 }) ochutnávku ({ }) vín, ({ 8 }) dětské ({ }) tábory, ({ 9 }) kurzy ({ 10 }) jezdectví ({ 11 }) a ({ 18 }) lukostřelby, ({ }) paintballové ({ }) večery, ({ }) meetingy ({ 19 }) a ({ 12 }) konference. ({ 13 14 15 16 17 }) 
+# Sentence pair (8) source length 17 target length 21 alignment score : 4.7192e-26
+As a tribute to the past, Time Travel Agency donates five percent on the revenue to the castles we cooperate with. 
+NULL ({ 5 14 16 17 }) Time ({ 8 }) Travel ({ 9 }) Agency ({ 10 }) daruje ({ 11 }) pět ({ 12 }) procent ({ 6 }) ze ({ 7 }) svého ({ }) výdělku ({ 4 }) hradům, ({ 3 }) s ({ 1 }) kterými ({ 2 }) spolupracuje, ({ }) aby ({ 20 }) vzdala ({ 21 }) hold ({ 15 18 19 }) minulosti. ({ 13 }) 
+# Sentence pair (9) source length 13 target length 13 alignment score : 6.55895e-21
+You can reach us by many ways, Facebook, e-mail, Instagram and post office. 
+NULL ({ }) Můžete ({ 3 }) nás ({ }) kontaktovat ({ }) na ({ }) různých ({ }) platformách, ({ 4 5 6 7 }) máme ({ 2 }) Facebook, ({ 1 }) e-mail, ({ }) Instagram ({ 8 }) a ({ 11 }) klasickou ({ 12 13 }) poštu. ({ 9 10 }) 
+# Sentence pair (10) source length 6 target length 6 alignment score : 2.6893e-08
+We have a webpage on timetravelsrl.wixsite.com. 
+NULL ({ }) Najdete ({ 4 }) nás ({ }) na ({ 5 }) webových ({ 6 }) stránkách ({ }) timetravelsrl.wixsite.com. ({ 1 2 3 }) 
+# Sentence pair (11) source length 8 target length 10 alignment score : 2.24013e-16
+Feel free to visit to the stand number sixty six. 
+NULL ({ 5 6 }) Navštívit ({ 1 }) nás ({ 3 }) můžete ({ 10 }) na ({ }) stánku ({ }) číslo ({ }) šedesát ({ 9 }) šest. ({ 2 4 7 8 }) 
+# Sentence pair (12) source length 10 target length 7 alignment score : 8.50816e-11
+Take your time with time travel agency. 
+NULL ({ }) Udělejte ({ 1 2 3 4 }) si ({ 5 }) čas ({ 6 }) na ({ }) cestu ({ 7 }) časem ({ }) s ({ }) Time ({ }) Travel ({ }) Agency. ({ }) 
+# Sentence pair (13) source length 4 target length 5 alignment score : 9.70111e-06
+Thank you for your attention. 
+NULL ({ }) Děkuji ({ 1 2 }) vám ({ 4 }) za ({ 5 }) pozornost. ({ 3 }) 
