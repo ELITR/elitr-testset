@@ -1,0 +1,75 @@
+# Sentence pair (1) source length 1 target length 1 alignment score : 0.599912
+Hello. 
+NULL ({ }) Hallo. ({ 1 }) 
+# Sentence pair (2) source length 1 target length 1 alignment score : 0.693324
+Hey. 
+NULL ({ }) Hey. ({ 1 }) 
+# Sentence pair (3) source length 7 target length 6 alignment score : 0.000496643
+Oh, this is very nice T-shirt. 
+NULL ({ }) Oh, ({ 1 }) das ({ 2 }) ist ({ 3 }) ein ({ }) sehr ({ 4 }) schönes ({ 5 }) T-Shirt. ({ 6 }) 
+# Sentence pair (4) source length 6 target length 4 alignment score : 0.000965021
+What is this brand? 
+NULL ({ }) Was ({ 1 }) ist ({ 2 }) das ({ }) für ({ }) eine ({ 3 }) Marke? ({ 4 }) 
+# Sentence pair (5) source length 12 target length 11 alignment score : 2.98569e-08
+Oh, it's not a brand, it's a logo of my botel. 
+NULL ({ 11 }) Oh, ({ 1 }) das ({ }) ist ({ 2 }) gar ({ 3 }) keine ({ 4 }) Marke, ({ 5 }) es ({ }) ist ({ 6 }) ein ({ 7 }) Logo ({ 8 }) meines ({ 9 }) Botels. ({ 10 }) 
+# Sentence pair (6) source length 2 target length 2 alignment score : 0.335236
+Oh really? 
+NULL ({ }) Ach ({ 1 }) wirklich? ({ 2 }) 
+# Sentence pair (7) source length 4 target length 4 alignment score : 0.00790863
+You have a botel? 
+NULL ({ }) Sie ({ 1 }) haben ({ 2 }) ein ({ 3 }) Botel? ({ 4 }) 
+# Sentence pair (8) source length 5 target length 4 alignment score : 6.57129e-07
+Oh, yes I do. 
+NULL ({ }) Oh ({ 3 }) ja, ({ 4 }) das ({ }) habe ({ 1 }) ich. ({ 2 }) 
+# Sentence pair (9) source length 15 target length 19 alignment score : 3.20269e-10
+We are situated in hearth of České Budějovice on the Vltava river and we have three classes of room. 
+NULL ({ 14 15 }) Es ({ 1 }) befindet ({ 2 }) sich ({ 3 }) im ({ 4 }) Herzen ({ 5 }) von ({ 6 }) České ({ 7 }) Budějovice ({ 8 }) an ({ 9 }) der ({ 10 }) Vlatava ({ 11 12 }) und ({ 13 }) hat ({ 16 }) drei ({ 17 }) Zimmerkategorien. ({ 18 19 }) 
+# Sentence pair (10) source length 13 target length 16 alignment score : 5.23283e-17
+The first class room is named Goldfish and it's the most luxurious room in our botel. 
+NULL ({ 8 15 16 }) Die ({ 1 }) erste ({ 2 }) Kategorie ({ 3 }) heißt ({ 4 }) Goldfish, ({ 5 6 }) es ({ 7 }) ist ({ 9 }) das ({ }) luxuriöseste ({ 12 }) Zimmer ({ 13 }) in ({ 14 }) unserem ({ 10 }) Botel. ({ 11 }) 
+# Sentence pair (11) source length 12 target length 16 alignment score : 2.99363e-13
+Then we have second class, Silverfish, and then we have a third class called the Bronzefish. 
+NULL ({ 3 7 10 }) Dann ({ 1 }) kommt ({ 2 }) die ({ 4 }) zweite ({ 5 }) Kategorie, ({ 6 }) Silverfish, ({ 8 }) und ({ 9 }) die ({ 11 }) dritte ({ 12 }) Kategorie ({ 13 }) heißt ({ 14 15 }) Bronzefish. ({ 16 }) 
+# Sentence pair (12) source length 6 target length 7 alignment score : 4.56077e-05
+Wow, do you have some special rooms? 
+NULL ({ 4 }) Wow, ({ 1 }) haben ({ 2 }) Sie ({ 3 }) auch ({ 5 }) besondere ({ 6 }) Zimmer? ({ 7 }) 
+# Sentence pair (13) source length 5 target length 4 alignment score : 9.46898e-07
+Oh yes, we do. 
+NULL ({ 3 }) Oh ({ 1 }) ja, ({ 4 }) das ({ }) haben ({ }) wir. ({ 2 }) 
+# Sentence pair (14) source length 16 target length 16 alignment score : 1.53054e-10
+We have a special room made for lovers to spend their anniversaries and something like that. 
+NULL ({ }) Wir ({ 1 }) haben ({ 2 }) ein ({ 3 }) besonderes ({ 4 }) Zimmer ({ 5 6 }) für ({ 7 }) Verliebte, ({ 8 }) wo ({ 9 }) man ({ 12 }) den ({ 13 }) Hochzeitstag ({ 14 }) und ({ }) solche ({ 15 }) Dinge ({ 16 }) verbringen ({ 10 }) kann. ({ 11 }) 
+# Sentence pair (15) source length 6 target length 7 alignment score : 8.31901e-06
+Wow, and you have some restaurant, and... 
+NULL ({ 2 }) Wow, ({ 1 }) Sie ({ 3 }) haben ({ 4 }) auch ({ 5 }) ein ({ 6 }) Restaurant... ({ 7 }) 
+# Sentence pair (16) source length 5 target length 4 alignment score : 9.46898e-07
+Oh yes, we do. 
+NULL ({ 3 }) Oh ({ 1 }) ja, ({ 4 }) das ({ }) haben ({ }) wir. ({ 2 }) 
+# Sentence pair (17) source length 19 target length 18 alignment score : 3.35705e-10
+We have a restaurant for our clients, but for public also, but our clients eat there for free. 
+NULL ({ }) Wir ({ 1 }) haben ({ 2 }) ein ({ 3 }) Restaurant ({ 4 }) für ({ 5 }) unsere ({ 6 }) Gäste, ({ 7 }) das ({ }) aber ({ 8 }) auch ({ }) öffentlich ({ 9 }) zugänglich ({ 10 }) ist; ({ 11 }) aber ({ 12 }) unsere ({ 13 }) Gäste ({ }) essen ({ 14 }) dort ({ 15 }) umsonst. ({ 16 17 18 }) 
+# Sentence pair (18) source length 29 target length 27 alignment score : 3.56657e-25
+And if you spend more time than you wanted in our restaurant, you know, it can happen, you can enjoy our fitness centrum with the newest equipment. 
+NULL ({ }) Und ({ 1 }) wenn ({ 2 }) Sie ({ 3 }) einmal ({ 4 }) mehr ({ 5 6 7 8 }) Zeit ({ 9 }) in ({ 10 }) unserem ({ 11 }) Restaurant ({ }) verbringen ({ }) als ({ 12 }) Sie ({ 13 }) wollten ({ 14 }) - ({ }) wissen ({ }) Sie, ({ }) das ({ }) kann ({ 15 }) vorkommen ({ 16 }) -, ({ 17 }) können ({ 18 }) Sie ({ }) unser ({ 19 }) Fitnesszentrum ({ 20 22 23 }) mit ({ 24 }) der ({ 25 }) neuesten ({ 26 }) Ausstattung ({ 27 }) nutzen. ({ 21 }) 
+# Sentence pair (19) source length 11 target length 12 alignment score : 6.43656e-07
+Wow sorry I don't like fitness and you have some massage, and...? 
+NULL ({ 7 }) Wow, ({ }) Entschuldigung, ({ 1 2 }) ich ({ 3 }) mag ({ 4 }) kein ({ 5 }) Fitness, ({ 6 }) Sie ({ 8 }) haben ({ 9 }) auch ({ 10 }) Massagen ({ 11 }) und...? ({ 12 }) 
+# Sentence pair (20) source length 22 target length 22 alignment score : 8.12597e-14
+Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot rocks, and so on. 
+NULL ({ 12 13 }) Nun, ({ 1 }) wenn ({ 2 }) Sie ({ }) nicht ({ 3 }) so ({ 4 }) scharf ({ 5 }) auf ({ 6 }) Fitness ({ 7 }) sind, ({ 8 }) können ({ 9 }) Sie ({ }) unser ({ 10 }) Entspannungszentrum ({ 11 14 }) mit ({ 15 }) Massagen, ({ 16 }) Sauna, ({ 17 }) heißen ({ 18 }) Steinen ({ 19 }) und ({ 20 }) so ({ 21 }) weiter ({ }) besuchen. ({ 22 }) 
+# Sentence pair (21) source length 6 target length 8 alignment score : 3.06395e-05
+Wow, OK, I love it, this is great. 
+NULL ({ }) Wow, ({ 1 }) okay, ({ 2 }) das ({ 3 }) gefällt ({ 4 }) mir, ({ 5 }) großartig. ({ 6 7 8 }) 
+# Sentence pair (22) source length 19 target length 20 alignment score : 1.65013e-12
+And, if I can say it, we have free wi-fi in our whole botel and free parking for our guests. 
+NULL ({ 7 8 }) Und ({ 1 2 }) ich ({ 3 }) möchte ({ 4 }) noch ({ 5 }) hinzufügen, ({ 6 }) dass ({ 9 }) wir ({ 10 }) im ({ 11 }) gesamten ({ 12 }) Botel ({ }) kostenloses ({ 13 }) WLAN ({ 14 }) und ({ 15 }) kostenlose ({ 16 }) Parkmöglichkeiten ({ 17 }) für ({ 18 }) unsere ({ 19 }) Gäste ({ }) haben. ({ 20 }) 
+# Sentence pair (23) source length 3 target length 4 alignment score : 0.00385069
+Oh wow, thank you. 
+NULL ({ }) Oh ({ 1 }) wow, ({ 2 }) danke. ({ 3 4 }) 
+# Sentence pair (24) source length 5 target length 5 alignment score : 3.57517e-05
+I hope you will come. 
+NULL ({ }) Ich ({ 1 }) hoffe, ({ 5 }) dass ({ 2 }) Sie ({ 3 }) kommen. ({ 4 }) 
+# Sentence pair (25) source length 3 target length 2 alignment score : 0.0465314
+I will. 
+NULL ({ }) Das ({ 1 }) werde ({ 2 }) ich. ({ }) 

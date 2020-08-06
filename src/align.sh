@@ -11,7 +11,7 @@ cd ./src/SLTev
 python3 giza++/transcript_to_source.py ../../$ostt > ./giza-pp/run_giza/source_ref
 
 cd giza-pp/run_giza
-bash run.sh tt source_ref ./out_folder
+bash run.sh tt source_ref ./out_folder 1>/dev/null 2>/dev/null #output only to the folder
 cat out_folder/Result.A3.final > ../../../../$path.align
 
 #delete temporary files
