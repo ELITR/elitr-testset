@@ -1,0 +1,105 @@
+# Sentence pair (1) source length 2 target length 1 alignment score : 0.163531
+Hello! 
+NULL ({ }) Dobrý ({ }) den! ({ 1 }) 
+# Sentence pair (2) source length 4 target length 6 alignment score : 4.96648e-08
+Which floor are you going to? 
+NULL ({ 4 }) Do ({ }) kterého ({ 2 3 }) patra ({ 1 }) jedete? ({ 5 6 }) 
+# Sentence pair (3) source length 4 target length 2 alignment score : 0.0103347
+Hi, fifteenth. 
+NULL ({ }) Dobrý ({ }) den, ({ 1 }) do ({ }) patnáctého. ({ 2 }) 
+# Sentence pair (4) source length 2 target length 2 alignment score : 0.193013
+And you? 
+NULL ({ }) A ({ 1 }) vy? ({ 2 }) 
+# Sentence pair (5) source length 3 target length 2 alignment score : 0.00287567
+Twenty second. 
+NULL ({ }) Do ({ }) dvacátého ({ 2 }) druhého. ({ 1 }) 
+# Sentence pair (6) source length 6 target length 9 alignment score : 2.17103e-11
+Would you mind if I take off my shoes? 
+NULL ({ 2 }) Vadilo ({ 1 }) by ({ 4 5 6 7 }) vám, ({ 8 }) kdybych ({ 9 }) se ({ }) zula? ({ 3 }) 
+# Sentence pair (7) source length 4 target length 6 alignment score : 6.58834e-09
+Those high heels are killing me! 
+NULL ({ }) Tyhle ({ 4 }) podpatky ({ 2 3 }) mě ({ 1 }) ničí! ({ 5 6 }) 
+# Sentence pair (8) source length 1 target length 2 alignment score : 0.023017
+Of course. 
+NULL ({ }) Jasně. ({ 1 2 }) 
+# Sentence pair (9) source length 1 target length 4 alignment score : 0.000115576
+I don't mind it. 
+NULL ({ }) Nevadilo. ({ 1 2 3 4 }) 
+# Sentence pair (10) source length 1 target length 2 alignment score : 0.0453755
+Thank you. 
+NULL ({ }) Děkuji. ({ 1 2 }) 
+# Sentence pair (11) source length 9 target length 13 alignment score : 1.2026e-20
+Why do you wear those high heels, if you would wear some sneakers? 
+NULL ({ 3 9 }) Proč ({ 1 }) nosíte ({ }) tyhle ({ }) podpatky, ({ }) když ({ }) byste ({ 12 }) mohla ({ 13 }) mít ({ }) tenisky? ({ 2 4 5 6 7 8 10 11 }) 
+# Sentence pair (12) source length 11 target length 14 alignment score : 6.73483e-20
+I know one really good store, that deals with the sale of free-time footwear. 
+NULL ({ 12 }) Vím ({ }) o ({ 10 }) jednom ({ }) fakt ({ }) dobrém ({ }) obchodu, ({ 11 }) který ({ 13 14 }) se ({ 1 }) zabývá ({ 2 }) volnočasovou ({ 3 }) obuví. ({ 4 5 6 7 8 9 }) 
+# Sentence pair (13) source length 2 target length 2 alignment score : 0.0974516
+Oh, really? 
+NULL ({ }) Jé, ({ 1 }) opravdu? ({ 2 }) 
+# Sentence pair (14) source length 5 target length 6 alignment score : 1.73633e-05
+Yes, actually, I work for them. 
+NULL ({ }) Ano, ({ 1 }) vlastně ({ 2 3 }) pro ({ }) ně ({ 4 }) pracuji. ({ 5 6 }) 
+# Sentence pair (15) source length 25 target length 23 alignment score : 7.46624e-28
+It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for each age and gender. 
+NULL ({ }) Jmenuje ({ 15 }) se ({ }) CaspoWalk ({ }) s. ({ }) r. ({ }) o. ({ }) a ({ 6 }) nabízí ({ 7 }) spoustu ({ 8 }) různých ({ }) druhů ({ 9 }) obuvi ({ 10 }) od ({ 11 12 }) různých ({ 13 }) značek ({ 14 }) jako ({ 1 2 }) je ({ 3 }) Nike, ({ 4 }) Adidas, ({ 5 }) pro ({ 16 }) každý ({ 17 18 19 20 }) věk ({ 21 }) a ({ 22 }) každé ({ 23 }) pohlaví. ({ }) 
+# Sentence pair (16) source length 5 target length 6 alignment score : 0.000180999
+Do you offer some unique shoes? 
+NULL ({ 2 }) Máte ({ 1 }) i ({ 3 }) nějaké ({ 4 }) ojedinělé ({ 5 }) boty? ({ 6 }) 
+# Sentence pair (17) source length 2 target length 3 alignment score : 0.0236682
+Yes, of course. 
+NULL ({ }) Ano, ({ 1 }) samozřejmě. ({ 2 3 }) 
+# Sentence pair (18) source length 6 target length 7 alignment score : 2.91354e-10
+I can show you some of them. 
+NULL ({ }) Mohu ({ 1 }) vám ({ 4 }) některé ({ 6 }) z ({ 7 }) nich ({ 3 5 }) ukázat. ({ 2 }) 
+# Sentence pair (19) source length 19 target length 27 alignment score : 3.33248e-22
+We offer Dutch type clogs as our special offer this month and if you love sport, you would appreciate the brand new Nike shoes called NikeAdapt BB. 
+NULL ({ 14 17 }) Speciální ({ 1 2 3 }) nabídka ({ 4 5 }) pro ({ 6 }) tento ({ 7 }) měsíc ({ 8 }) jsou ({ 9 }) holandské ({ 10 }) dřeváky, ({ 11 }) a ({ 12 }) pokud ({ 13 }) ráda ({ 15 }) sportujete, ({ 16 }) oceníte ({ 18 }) zbrusu ({ 19 20 }) nové ({ 21 }) boty ({ 22 }) Nike ({ 23 }) Adapt ({ 24 26 27 }) BB. ({ 25 }) 
+# Sentence pair (20) source length 10 target length 12 alignment score : 9.18453e-14
+These are smart shoes, that you can control with your mobile phone. 
+NULL ({ 6 }) Jsou ({ 2 }) to ({ 3 4 }) chytré ({ 5 }) boty, ({ 7 }) které ({ 8 }) můžete ({ 11 }) kontrolovat ({ 12 }) svým ({ 10 }) chytrým ({ 9 }) telefonem. ({ 1 }) 
+# Sentence pair (21) source length 14 target length 20 alignment score : 1.57731e-28
+You can customize a shoe lacing, as you see there, and a color of LED diodes with a mobile app. 
+NULL ({ 8 14 }) Jak ({ 3 }) zde ({ 1 2 }) vidíte, ({ 20 }) můžete ({ 19 }) si ({ 5 }) přizpůsobit ({ 6 7 }) šněrování ({ 9 10 }) a ({ 11 }) barvu ({ }) LED ({ 12 }) diod ({ }) pomocí ({ }) mobilní ({ 4 18 }) aplikace. ({ 13 15 16 17 }) 
+# Sentence pair (22) source length 13 target length 13 alignment score : 8.37944e-16
+If I bought some shoes from you, do you offer me some accessories? 
+NULL ({ 9 }) Pokud ({ 1 }) si ({ }) od ({ 5 6 }) vás ({ }) koupím ({ 4 }) boty, ({ }) nabídnete ({ 2 3 }) mi ({ }) k ({ 7 }) nim ({ 8 }) i ({ 10 }) nějaké ({ 11 12 }) doplňky? ({ 13 }) 
+# Sentence pair (23) source length 2 target length 3 alignment score : 0.0236682
+Yes, of course. 
+NULL ({ }) Ano, ({ 1 }) samozřejmě. ({ 2 3 }) 
+# Sentence pair (24) source length 7 target length 8 alignment score : 4.27637e-05
+We offer shoelaces and insoles and many more. 
+NULL ({ }) Nabízíme ({ 1 2 }) tkaničky ({ 3 }) a ({ 4 }) vložky ({ 5 }) a ({ 6 }) mnoho ({ 7 }) dalšího. ({ 8 }) 
+# Sentence pair (25) source length 4 target length 5 alignment score : 1.36379e-07
+Here is my business card. 
+NULL ({ }) Tady ({ 3 }) je ({ 2 }) moje ({ 1 }) vizitka. ({ 4 5 }) 
+# Sentence pair (26) source length 6 target length 8 alignment score : 2.27244e-11
+Do not hesitate to stop at our branch. 
+NULL ({ }) Neváhejte ({ 1 2 }) se ({ }) zastavit ({ 4 }) na ({ 7 8 }) naší ({ 5 6 }) pobočce. ({ 3 }) 
+# Sentence pair (27) source length 2 target length 3 alignment score : 0.0136393
+Oh, thank you. 
+NULL ({ }) Ou, ({ 1 }) děkuji. ({ 2 3 }) 
+# Sentence pair (28) source length 8 target length 9 alignment score : 4.02282e-13
+You can also find us here in this building. 
+NULL ({ }) Můžete ({ 9 }) nás ({ }) také ({ }) najít ({ }) zde ({ 1 2 }) v ({ 3 }) této ({ 4 }) budově. ({ 5 6 7 8 }) 
+# Sentence pair (29) source length 5 target length 11 alignment score : 2.01428e-11
+We are taking part in a trade fair of student companies. 
+NULL ({ 9 }) Účastníme ({ 1 2 3 }) se ({ }) veletrhu ({ 4 5 }) studentských ({ 6 7 }) firem. ({ 8 10 11 }) 
+# Sentence pair (30) source length 3 target length 4 alignment score : 7.75174e-07
+Thank you very much! 
+NULL ({ }) Mockrát ({ 3 }) vám ({ 2 }) děkuji! ({ 1 4 }) 
+# Sentence pair (31) source length 3 target length 6 alignment score : 9.9944e-11
+We have reached my floor, so... 
+NULL ({ }) Tady ({ 4 }) vystupuji, ({ 5 }) takže... ({ 1 2 3 6 }) 
+# Sentence pair (32) source length 4 target length 4 alignment score : 0.0106281
+Nice to meet you. 
+NULL ({ }) Rád ({ 1 }) jsem ({ 2 }) vás ({ 3 }) poznal. ({ 4 }) 
+# Sentence pair (33) source length 2 target length 2 alignment score : 0.0420511
+See you. 
+NULL ({ }) Na ({ 1 }) shledanou. ({ 2 }) 
+# Sentence pair (34) source length 5 target length 5 alignment score : 0.00197009
+Nice to meet you too. 
+NULL ({ }) Také ({ 1 }) jsem ({ 2 }) vás ({ 3 }) ráda ({ 4 }) poznala. ({ 5 }) 
+# Sentence pair (35) source length 1 target length 2 alignment score : 0.023017
+See you. 
+NULL ({ }) Nashle. ({ 1 2 }) 

@@ -1,0 +1,30 @@
+# Sentence pair (1) source length 6 target length 6 alignment score : 8.69555e-06
+OK, good afternoon, ladies and gentleman. 
+NULL ({ }) OK, ({ 1 2 }) dobré ({ }) odpoledne ({ }) dámy ({ 3 4 }) a ({ 5 6 }) pánové. ({ }) 
+# Sentence pair (2) source length 21 target length 18 alignment score : 7.47308e-24
+I show you Logistic service. Logistic service since two thousand two in small country near Karlovy Vary, Dalovice. 
+NULL ({ }) Představím ({ }) vám ({ }) naši ({ 1 }) firmu ({ 2 3 }) Logistic ({ }) Service. ({ 4 5 6 }) Logistic ({ }) Service ({ 7 8 }) funguje ({ }) od ({ }) roku ({ }) dva ({ }) tisíce ({ }) dva ({ }) v ({ }) malé ({ 9 }) vesnici ({ }) Dalovice ({ }) poblíž ({ 17 18 }) Karových ({ }) Varů. ({ 10 11 12 13 14 15 16 }) 
+# Sentence pair (3) source length 3 target length 4 alignment score : 5.8836e-05
+We sell logistic products. 
+NULL ({ }) Prodáváme ({ 1 2 3 }) logistické ({ }) zboží ({ 4 }) 
+# Sentence pair (4) source length 4 target length 4 alignment score : 2.78139e-05
+Logistic products in stock. 
+NULL ({ }) Prodáváme ({ }) logistické ({ }) zboží ({ }) skladem. ({ 1 2 3 4 }) 
+# Sentence pair (5) source length 3 target length 2 alignment score : 0.0101735
+That's it. 
+NULL ({ }) To ({ 1 }) je ({ }) všechno. ({ 2 }) 
+# Sentence pair (6) source length 6 target length 6 alignment score : 2.145e-07
+We imagine what the logistic means? 
+NULL ({ }) Máte ({ 1 2 }) představu, ({ }) co ({ 3 }) je ({ }) to ({ 5 6 }) logistika? ({ 4 }) 
+# Sentence pair (7) source length 11 target length 17 alignment score : 1.0159e-23
+Do you know, what is a re-truck? I priority is our experience, we can offer to you. 
+NULL ({ 8 13 }) Víte, ({ 5 6 7 9 10 }) co ({ 4 }) je ({ 11 }) retrak? ({ }) Naší ({ }) prioritou ({ 12 14 15 16 17 }) je ({ }) zprostředkovat ({ }) vám ({ }) naši ({ }) zkušenost. ({ 1 2 3 }) 
+# Sentence pair (8) source length 9 target length 11 alignment score : 1.38494e-12
+Please, visit our stand and we will explain more to you. 
+NULL ({ 6 }) Prosím ({ 1 2 3 4 }) navštivte ({ 5 }) náš ({ 7 }) stánek, ({ }) pokud ({ 8 9 10 11 }) se ({ }) chcete ({ }) dovědět ({ }) více. ({ }) 
+# Sentence pair (9) source length 5 target length 9 alignment score : 1.61106e-11
+And we visit in... I sorry... Já nevim už. 
+NULL ({ 2 5 }) Navštívíme... ({ 1 3 4 6 }) Promiňte... ({ }) Já ({ 8 9 }) nevim ({ 7 }) už. ({ }) 
+# Sentence pair (10) source length 3 target length 2 alignment score : 0.0228358
+That's it. 
+NULL ({ }) To ({ 1 }) je ({ }) vše. ({ 2 }) 

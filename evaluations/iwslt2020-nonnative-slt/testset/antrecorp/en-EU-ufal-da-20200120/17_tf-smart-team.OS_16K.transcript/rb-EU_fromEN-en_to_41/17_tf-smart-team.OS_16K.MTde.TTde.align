@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 20 target length 20 alignment score : 2.54728e-21
+Hello, my name is <NAME> and I am the CEO of Smart Team from Maria Teiulenu Economic College, Pitesti, Romania. 
+NULL ({ 9 }) Hallo, ({ 1 }) mein ({ 2 }) Name ({ 3 }) ist ({ 4 }) <NAME> ({ 5 }) und ({ 6 }) ich ({ 7 }) bin ({ 8 }) der ({ }) Geschäftsführer ({ 10 }) des ({ 11 }) Smart ({ 12 }) Teams ({ 13 }) im ({ }) Maria ({ 19 }) Teiulenu ({ 20 }) Economic ({ }) College, ({ }) Pitesti, ({ }) Rumänien. ({ 14 15 16 17 18 }) 
+# Sentence pair (2) source length 25 target length 33 alignment score : 2.70495e-41
+The object of our firm is to provide the agrotourist services in the touristic areas of Romania, and to promote the tourist potential, in order to be the best in this business field. 
+NULL ({ 3 9 13 16 21 26 28 }) Unser ({ 1 }) Unternehmensziel ({ 2 4 5 }) ist ({ 6 }) die ({ 7 }) Bereitstellung ({ 8 }) von ({ }) Agrotourismus-Dienstleistungen ({ 10 11 }) in ({ 12 }) den ({ }) Touristengebieten ({ 14 15 }) Rumäniens ({ 17 }) und ({ 18 }) die ({ 19 }) Förderung ({ 20 }) des ({ }) touristischen ({ }) Potenzials, ({ }) um ({ }) die ({ }) besten ({ 22 }) auf ({ 33 }) diesem ({ 32 }) Gebiet ({ 23 27 29 31 }) zu ({ }) werden. ({ 24 25 30 }) 
+# Sentence pair (3) source length 23 target length 23 alignment score : 4.54459e-36
+After analyzing the market for the winter of two thousand nineteen, we created for you a special offer that you can not resist. 
+NULL ({ 3 6 8 15 16 }) Nachdem ({ 9 10 11 13 14 }) wir ({ 12 }) den ({ 17 }) Markt ({ 7 }) für ({ 18 }) den ({ }) Winter ({ }) 2019 ({ }) analysiert ({ }) haben, ({ }) haben ({ 19 }) wir ({ }) für ({ }) Sie ({ 20 }) ein ({ 21 }) besonderes ({ 22 }) Angebot ({ 23 }) entwickelt, ({ 4 }) dem ({ }) Sie ({ }) nicht ({ 5 }) widerstehen ({ 2 }) können. ({ 1 }) 
+# Sentence pair (4) source length 6 target length 7 alignment score : 5.47375e-09
+The package is called "Discover Dracula's Land." 
+NULL ({ }) Das ({ 1 2 3 4 }) Paket ({ 5 }) heißt ({ 6 }) "Entdeckungsreise ({ 7 }) in ({ }) Draculaland". ({ }) 
+# Sentence pair (5) source length 16 target length 14 alignment score : 1.25936e-24
+It's an amazing experience in Bran, Poiana Brasov, the city where Dracula was born. 
+NULL ({ 9 }) Es ({ }) ist ({ }) eine ({ }) fantastische ({ }) Erfahrung ({ 13 }) in ({ }) Bran, ({ }) Poiana ({ }) Brasov, ({ 14 }) der ({ }) Stadt, ({ 4 }) in ({ 5 }) der ({ }) Dracula ({ 6 }) geboren ({ 7 }) wurde. ({ 1 2 3 8 10 11 12 }) 
+# Sentence pair (6) source length 30 target length 31 alignment score : 9.76766e-32
+We offer to you three unbelievable three unbelievable days in which you can relax, have fun, visit the surroundings, take pictures and make memories that will last for a life time. 
+NULL ({ 3 18 29 }) Wir ({ 1 }) bieten ({ 2 }) Ihnen ({ 4 }) drei ({ 5 }) unglaubliche ({ 6 7 8 }) Tage, ({ 9 }) in ({ 10 }) denen ({ 11 }) Sie ({ 12 }) entspannen, ({ }) Spaß ({ 14 }) haben ({ 13 }) und ({ }) die ({ 15 }) Umgebung ({ 16 }) erkunden, ({ 17 }) Fotos ({ 19 20 }) machen ({ 21 }) und ({ 22 }) Erinnerungen ({ 23 }) sammeln ({ 24 }) können, ({ 25 }) die ({ }) Sie ({ }) Ihr ({ 26 }) Leben ({ 27 }) lang ({ }) nicht ({ 28 }) vergessen ({ 30 }) werden. ({ 31 }) 
+# Sentence pair (7) source length 21 target length 28 alignment score : 7.90045e-34
+In the first day, you will start your journey with a visit a the well-known Bran Castle, or the "Castle of Vampire Dracula," a place full of mysteries. 
+NULL ({ 2 5 11 14 19 21 }) Ihr ({ 1 }) erster ({ 3 4 }) Tag ({ 6 }) beginnt ({ 7 }) mit ({ 8 }) einem ({ 9 }) Besuch ({ 10 }) des ({ }) berühmten ({ 12 }) Schlosses ({ 15 }) Bran ({ 13 }) bzw. ({ 24 }) dem ({ }) "Schloss ({ 28 }) des ({ 27 }) Vampirs ({ 16 }) Dracula", ({ 17 }) einem ({ 18 }) Ort ({ 20 }) voller ({ 22 }) Geheimnisse. ({ 23 25 26 }) 
+# Sentence pair (8) source length 27 target length 30 alignment score : 9.71068e-29
+On the second day you will enjoy time with your friends or family, visiting Dino Park, the only dinosaurs theme park in Romania and the biggest in the Southeastern Europe. 
+NULL ({ 2 5 17 28 }) Den ({ 1 3 }) zweiten ({ 4 }) Tag ({ 6 }) genießen ({ 7 8 }) Sie ({ }) mit ({ 9 }) Ihren ({ 10 }) Freunden ({ 11 }) oder ({ 12 }) Ihrer ({ 13 14 }) Familie ({ 15 }) bei ({ 16 }) einem ({ }) Besuch ({ }) des ({ }) Dino ({ 18 }) Parks, ({ 19 }) dem ({ }) einzigen ({ 20 }) Dinosaurier-Themenpark ({ 21 }) in ({ 22 }) Rumänien ({ 23 }) und ({ 24 }) dem ({ 25 }) größten ({ 26 30 }) in ({ 27 }) Südosteuropa. ({ 29 }) 
+# Sentence pair (9) source length 30 target length 35 alignment score : 2.76235e-46
+Your next objective will be to discover one of the beautiful creations of the nature, "The Canyon of The Seven Stairs," which is composed by seven waterfalls, the biggest one being thirty five meters tall. 
+NULL ({ 4 10 14 18 28 }) Ihr ({ 1 }) nächstes ({ 2 5 }) Ziel ({ 3 }) ist ({ 23 }) die ({ 6 }) Entdeckung ({ 7 8 }) einer ({ 9 13 }) der ({ }) schönsten ({ 12 }) Schöpfungen ({ 11 15 }) der ({ }) Natur: ({ }) "The ({ 16 }) Canyon ({ }) of ({ 17 }) The ({ 19 }) Seven ({ 20 }) Stairs", ({ 21 }) der ({ 22 }) aus ({ 33 }) sieben ({ 34 }) Wasserfällen ({ 35 }) besteht, ({ }) wobei ({ 25 }) der ({ }) größte ({ 26 }) 35 ({ 24 27 31 }) Meter ({ 29 }) hoch ({ 30 }) ist. ({ 32 }) 
+# Sentence pair (10) source length 21 target length 25 alignment score : 6.81646e-32
+In the last day you will have enough time to enjoy our twelve ski slopes, because we offer you a free... free ski day pass. 
+NULL ({ 1 2 10 20 }) Am ({ 7 }) letzten ({ 3 }) Tag ({ 6 }) werden ({ 4 }) Sie ({ 5 }) jede ({ 8 }) Menge ({ 9 }) Zeit ({ 11 }) für ({ }) unsere ({ 12 }) 12 ({ 13 }) Skipisten ({ 15 }) haben, ({ }) denn ({ 16 }) wir ({ 17 }) bieten ({ 18 }) Ihnen ({ 19 }) einen ({ 21 }) kostenlosen... ({ 22 25 }) kostenlosen ({ 23 24 }) Tagesskipass. ({ 14 }) 
+# Sentence pair (11) source length 17 target length 17 alignment score : 9.55469e-19
+What a nicer way to end your trip than a special photo session of the Carpathian Mountains? 
+NULL ({ 5 15 }) Gibt ({ 1 }) es ({ 2 }) eine ({ 3 }) schönere ({ 4 }) Art, ({ 6 }) Ihren ({ 7 }) Urlaub ({ 8 }) zu ({ }) beenden, ({ 9 }) als ({ 10 }) mit ({ }) einer ({ 14 }) besonderen ({ 17 }) Fotosession ({ }) von ({ }) den ({ 11 }) Karpaten? ({ 12 13 16 }) 
+# Sentence pair (12) source length 25 target length 29 alignment score : 2.697e-36
+We hope we made you curious to find out more about our offers and services, so we can't wait to see.. see you at our stand, number fifty eight. 
+NULL ({ 7 20 }) Wir ({ 1 }) hoffen, ({ 2 }) dass ({ 4 }) wir ({ 3 }) Sie ({ 5 }) neugierig ({ 6 }) gemacht ({ 8 }) haben, ({ 17 }) mehr ({ 18 }) über ({ 11 }) unsere ({ 12 }) Angebote ({ 13 }) und ({ 14 }) Dienstleistungen ({ 15 19 }) zu ({ }) erfahren; ({ 16 21 }) wir ({ }) erwarten ({ 22 }) Sie ({ 23 }) gespannt ({ 24 }) an ({ 25 }) unserem ({ 28 }) Stand ({ 29 }) Nummer ({ }) 58. ({ 9 10 26 27 }) 

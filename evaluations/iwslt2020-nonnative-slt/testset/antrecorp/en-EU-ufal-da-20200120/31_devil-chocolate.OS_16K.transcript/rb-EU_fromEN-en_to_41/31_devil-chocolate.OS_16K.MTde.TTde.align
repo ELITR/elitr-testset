@@ -1,0 +1,39 @@
+# Sentence pair (1) source length 14 target length 15 alignment score : 2.55396e-05
+Hello, my name is and I am the director of Devil chocolate limited in Vlašim. 
+NULL ({ 10 }) ﻿Hallo, ({ 1 }) mein ({ 2 }) Name ({ 3 }) ist ({ 4 }) und ({ 5 }) ich ({ 6 }) bin ({ 7 }) Direktor ({ 8 }) von ({ 9 }) Devil ({ 11 }) chocolate ({ 12 }) limited ({ 13 }) in ({ 14 }) Vlašim. ({ 15 }) 
+# Sentence pair (2) source length 4 target length 4 alignment score : 0.125286
+This is my assistant. 
+NULL ({ }) Das ({ 1 }) ist ({ 2 }) mein ({ 3 }) Assistent. ({ 4 }) 
+# Sentence pair (3) source length 6 target length 7 alignment score : 0.000476715
+We would like to introduce our company. 
+NULL ({ }) Wir ({ 1 }) würden ({ 2 }) gern ({ 3 }) unser ({ 4 }) Unternehmen ({ 5 }) vorstellen. ({ 6 7 }) 
+# Sentence pair (4) source length 8 target length 13 alignment score : 4.03567e-12
+Our company was founded of the first of October two thousand and eighteen. 
+NULL ({ 5 8 12 13 }) Unser ({ 1 }) Unternehmen ({ 2 }) wurde ({ 3 }) am ({ 4 }) 1. ({ 6 }) Oktober ({ 7 }) 2018 ({ 9 }) gegründet. ({ 10 11 }) 
+# Sentence pair (5) source length 15 target length 15 alignment score : 3.94917e-06
+There are six employees, me, my assistant and departments of accounting, marketing, sales and IT. 
+NULL ({ 10 }) Es ({ 1 }) gibt ({ 2 }) sechs ({ 3 }) Angestellte, ({ 4 }) mich, ({ 5 }) meinen ({ 6 }) Assistenten ({ 7 }) und ({ 8 }) die ({ 9 }) Abteilungen ({ 11 }) Buchhaltung, ({ }) Marketing, ({ 12 }) Verkauf ({ 13 }) und ({ 14 }) IT. ({ 15 }) 
+# Sentence pair (6) source length 6 target length 6 alignment score : 0.000647953
+We have wide selection of them. 
+NULL ({ 5 }) Wir ({ 1 }) haben ({ }) eine ({ 2 }) große ({ 3 }) Auswahl ({ 4 }) davon. ({ 6 }) 
+# Sentence pair (7) source length 22 target length 19 alignment score : 3.39556e-13
+We specialized in some products and we have chocolate in different flavours such as lemon, black currant and nougat. 
+NULL ({ 18 }) Wir ({ 1 }) haben ({ }) uns ({ }) auf ({ 2 }) bestimmte ({ 3 }) Produkte ({ 4 }) spezialisiert ({ 5 }) und ({ 6 }) wir ({ 7 }) haben ({ 8 }) Schokolade ({ 9 }) in ({ 10 }) verschiedenen ({ 11 }) Geschmacksrichtungen ({ 12 }) wie ({ }) zum ({ }) Beispiel ({ }) Zitrone, ({ 13 }) schwarze ({ 14 }) Johannisbeere ({ 15 }) und ({ }) Nougat. ({ 16 17 19 }) 
+# Sentence pair (8) source length 25 target length 25 alignment score : 4.72518e-11
+We also have chocolate drinks, for example chocolate wine and baileys and some specialties like locust in chocolate, almonds in chocolate and coconuts in chocolate. 
+NULL ({ 3 }) Wir ({ 1 }) haben ({ }) auch ({ 2 }) schokoladenbasierte ({ 4 }) Getränke ({ 5 }) wie ({ 6 }) zum ({ 7 }) Beispiel ({ 8 }) Schokoladenwein ({ 9 }) und ({ 10 }) Bailyes ({ 11 }) und ({ 12 }) einige ({ 13 }) Spezialitäten ({ 14 }) wie ({ 15 }) Heuschrecke ({ 16 }) in ({ 17 }) Schokolade, ({ 18 }) Mandeln ({ 19 }) in ({ 20 }) Schokolade ({ 21 }) und ({ 22 }) Kokosnuss ({ 23 }) in ({ 24 }) Schokolade. ({ 25 }) 
+# Sentence pair (9) source length 8 target length 8 alignment score : 0.000777378
+For our costumers we prepared some special discounts. 
+NULL ({ }) Für ({ 1 }) unsere ({ 2 }) Kunden ({ 3 }) haben ({ }) wir ({ 4 }) ein ({ 5 }) paar ({ 6 }) Sonderrabatte. ({ 7 8 }) 
+# Sentence pair (10) source length 13 target length 12 alignment score : 5.68737e-12
+You can follow us on social networks, for example Facebook and Instagram. 
+NULL ({ }) Sie ({ 2 }) können ({ 4 }) uns ({ 5 }) über ({ 3 }) soziale ({ 6 }) Medien ({ 7 }) wie ({ 8 }) zum ({ 9 }) Beispiel ({ }) Facebook ({ 10 }) und ({ 11 }) Instagram ({ 12 }) folgen. ({ 1 }) 
+# Sentence pair (11) source length 18 target length 19 alignment score : 4.04677e-16
+We also have our website and e-shop and you can contact us on our email or phone number too. 
+NULL ({ 4 8 }) Wir ({ 1 }) haben ({ }) auch ({ 2 }) eine ({ 3 }) Website ({ 5 }) und ({ 6 }) einen ({ 7 }) E-Shop ({ 9 }) und ({ }) Sie ({ 10 }) können ({ 12 }) uns ({ 13 }) auch ({ 11 }) per ({ 14 }) E-Mail ({ 15 }) oder ({ 16 }) Telefon ({ 17 }) erreichen. ({ 18 19 }) 
+# Sentence pair (12) source length 4 target length 5 alignment score : 0.00346391
+Thank you for your attention. 
+NULL ({ }) Danke ({ 1 2 }) für ({ 3 }) Ihre ({ 4 }) Aufmerksamkeit. ({ 5 }) 
+# Sentence pair (13) source length 6 target length 6 alignment score : 0.0434301
+We are Devil Chocolate for you. 
+NULL ({ }) Wir ({ 1 }) sind ({ 2 }) Devil ({ 3 }) Chocolate ({ 4 }) für ({ 5 }) Sie. ({ 6 }) 

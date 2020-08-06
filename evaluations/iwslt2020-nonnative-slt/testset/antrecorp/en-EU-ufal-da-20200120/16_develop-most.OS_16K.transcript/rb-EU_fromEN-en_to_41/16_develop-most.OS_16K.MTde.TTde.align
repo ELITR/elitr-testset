@@ -1,0 +1,51 @@
+# Sentence pair (1) source length 1 target length 1 alignment score : 0.588944
+Hi! 
+NULL ({ }) Hi! ({ 1 }) 
+# Sentence pair (2) source length 10 target length 10 alignment score : 1.52155e-14
+I would like to introduce you the company I represent. 
+NULL ({ }) Ich ({ 3 }) würde ({ 2 }) Ihnen ({ 1 9 }) gern ({ 10 }) das ({ 7 }) Unternehmen ({ 8 }) vorstellen, ({ }) das ({ 4 }) ich ({ 5 }) vertrete. ({ 6 }) 
+# Sentence pair (3) source length 2 target length 2 alignment score : 0.225949
+Develop Most. 
+NULL ({ }) Develop ({ 1 }) Most. ({ 2 }) 
+# Sentence pair (4) source length 14 target length 13 alignment score : 5.67165e-07
+Our company was founded this year, but we already won rewards... rewards... prizes. 
+NULL ({ }) Unser ({ 1 }) Unternehmen ({ 2 }) wurde ({ 3 }) dieses ({ 4 }) Jahr ({ 5 }) gegründet, ({ 6 }) aber ({ 7 }) wir ({ 8 }) haben ({ 9 }) bereits ({ 10 }) Auszeichnungen... ({ 11 }) Auszeichnungen... ({ 12 }) Preise ({ 13 }) gewonnen. ({ }) 
+# Sentence pair (5) source length 8 target length 11 alignment score : 3.98531e-10
+So there is a fairly bright future in front of us. 
+NULL ({ 10 }) Uns ({ 1 }) steht ({ 2 }) also ({ 3 }) eine ({ 4 }) ziemlich ({ 5 }) strahlende ({ 6 11 }) Zukunft ({ 7 }) bevor. ({ 8 9 }) 
+# Sentence pair (6) source length 6 target length 6 alignment score : 5.12889e-05
+We offer cloud services and Minecraft. 
+NULL ({ }) Wir ({ 1 }) bieten ({ 2 }) Cloud-Dienste ({ 3 }) und ({ 5 }) Minecraft ({ 6 }) an. ({ 4 }) 
+# Sentence pair (7) source length 9 target length 9 alignment score : 1.53728e-11
+Cloud services are mainly about Office three six five. 
+NULL ({ 3 }) Bei ({ 2 }) den ({ 4 }) Cloud-Diensten ({ 7 8 }) geht ({ 9 }) es ({ }) hauptsächlich ({ }) um ({ 5 }) Office ({ 6 }) 365. ({ 1 }) 
+# Sentence pair (8) source length 11 target length 11 alignment score : 3.03626e-08
+So the proper provider is Microsoft, we just sell the licenses. 
+NULL ({ }) Der ({ 2 }) eigentliche ({ 3 }) Anbieter ({ 4 }) ist ({ 5 }) also ({ 1 }) Microsoft, ({ 6 }) wir ({ 7 }) verkaufen ({ 8 }) nur ({ 9 }) die ({ 10 }) Lizenzen. ({ 11 }) 
+# Sentence pair (9) source length 19 target length 18 alignment score : 3.09143e-15
+Specifically, we offer three basic licenses for household, for individuals, business and one large package named E three. 
+NULL ({ }) Konkret ({ 1 }) bieten ({ 3 }) wir ({ 2 }) drei ({ 4 5 }) Basislizenzen ({ 6 }) für ({ 7 }) einen ({ 8 }) Haushalt, ({ 9 }) Individuen ({ 10 }) und ({ }) Unternehmen ({ 11 }) und ({ 12 }) ein ({ 13 }) großes ({ 14 }) Paket ({ 15 }) namens ({ 16 }) E ({ 17 }) three ({ 18 }) an. ({ }) 
+# Sentence pair (10) source length 17 target length 20 alignment score : 1.16733e-16
+All of these options is are somehow different, but they all contain basic applications such as Word, Excel or Powerpoint. 
+NULL ({ 2 5 }) Jede ({ 1 }) Option ({ 3 }) ist ({ }) auf ({ 4 }) ihre ({ 6 }) Art ({ 7 }) anders, ({ 8 }) aber ({ 9 }) sie ({ 10 }) enthalten ({ 11 }) alle ({ 12 }) Basisanwendungen ({ 13 }) wie ({ 14 }) Word, ({ 19 }) Excel ({ 20 }) oder ({ 15 }) Powerpoint. ({ 16 17 18 }) 
+# Sentence pair (11) source length 6 target length 7 alignment score : 1.39212e-06
+And then, there is already mentioned Minecraft. 
+NULL ({ 4 }) Und ({ 1 }) Minecraft ({ 2 }) wurde ({ 5 }) ja ({ 6 }) schon ({ 7 }) erwähnt. ({ 3 }) 
+# Sentence pair (12) source length 6 target length 8 alignment score : 2.13629e-12
+An open-world building game suitable for all ages. 
+NULL ({ 3 }) Ein ({ 1 }) für ({ 6 }) jedes ({ 2 5 }) Alter ({ 7 }) geeignetes ({ 8 }) Open-World-Bauspiel. ({ 4 }) 
+# Sentence pair (13) source length 16 target length 21 alignment score : 3.55936e-26
+Perhaps there is no need to introduce it, thanks to its popularity it has gain millions of players around the world. 
+NULL ({ 3 6 10 20 }) Vielleicht ({ 2 4 }) muss ({ 5 }) ich ({ 7 }) es ({ 8 }) aufgrund ({ 9 }) seiner ({ 11 }) Beliebtheit ({ 12 }) überhaupt ({ 13 }) nicht ({ 14 }) vorstellen; ({ 15 19 }) mittlerweile ({ 21 }) gibt ({ 17 }) es ({ }) Millionen ({ 16 }) Spieler ({ 18 }) weltweit. ({ 1 }) 
+# Sentence pair (14) source length 11 target length 10 alignment score : 1.01663e-05
+Also, it's important to mention that we offer custom-made applications. 
+NULL ({ }) Es ({ 1 }) ist ({ }) auch ({ 2 }) wichtig ({ 3 }) zu ({ 4 }) erwähnen, ({ 5 }) dass ({ 6 }) wir ({ 7 }) kundenspezifische ({ 8 }) Anwendungen ({ 9 }) anbieten. ({ 10 }) 
+# Sentence pair (15) source length 16 target length 19 alignment score : 5.24346e-19
+According to customers according to customer regards... rega... requirements we are able to create the application that suits everyone. 
+NULL ({ 1 5 11 }) Je ({ 6 }) nach ({ 7 }) Kundenanforderung ({ 8 }) sind ({ 9 }) wir ({ 10 }) in ({ 12 }) der ({ 18 }) Lage, ({ 19 }) Anwendungen ({ 17 }) zu ({ 13 }) entwickeln, ({ 14 }) die ({ 15 }) genau ({ 16 }) zu ({ 2 }) ihm ({ 3 }) passen. ({ 4 }) 
+# Sentence pair (16) source length 11 target length 14 alignment score : 3.94992e-22
+If you are interested in more details I can offer you a business card. 
+NULL ({ 3 }) Wenn ({ 4 }) Sie ({ 2 }) Näheres ({ 10 }) erfahren ({ 11 }) wollen, ({ 1 }) kann ({ 9 }) ich ({ 12 }) Ihnen ({ 8 }) eine ({ 5 }) Visitenkarte ({ 6 13 }) geben. ({ 7 14 }) 
+# Sentence pair (17) source length 8 target length 9 alignment score : 4.62642e-07
+We will be glad to answer your questions anytime. 
+NULL ({ }) Wir ({ 1 }) freuen ({ 2 }) uns, ({ 3 }) Ihre ({ 4 }) Fragen ({ 8 }) jederzeit ({ 9 }) zu ({ 5 }) beantworten. ({ 6 7 }) 

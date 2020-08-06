@@ -1,0 +1,42 @@
+# Sentence pair (1) source length 2 target length 1 alignment score : 0.0944881
+Hello! 
+NULL ({ }) Dobrý ({ 1 }) den! ({ }) 
+# Sentence pair (2) source length 9 target length 13 alignment score : 1.79025e-12
+My name is <NAME> and I am the representant of Magic World team. 
+NULL ({ 3 8 }) Jmenuji ({ 1 2 }) se ({ }) <NAME> ({ 4 }) a ({ 5 }) jsem ({ 6 7 }) zastupuji ({ 9 }) Magic ({ 10 11 }) World ({ 12 }) team. ({ 13 }) 
+# Sentence pair (3) source length 21 target length 23 alignment score : 2.86717e-24
+The purpose of Magic World is to organize social events, especially for kids and teenagers, such us birthday parties, private parties, thematic parties. 
+NULL ({ 6 }) Společnost ({ 1 2 }) Magic ({ 3 4 }) World ({ 5 }) se ({ 7 }) zaměřuje ({ 8 }) na ({ }) pořádání ({ }) společenských ({ 9 }) událostí, ({ 10 19 20 21 22 23 }) zvlášť ({ 11 }) pro ({ 12 }) děti ({ 13 }) a ({ 14 }) náctileté, ({ 15 }) jako ({ 16 }) jsou ({ 17 }) narozeninové, ({ }) soukromé ({ 18 }) a ({ }) tematické ({ }) oslavy. ({ }) 
+# Sentence pair (4) source length 11 target length 16 alignment score : 7.96425e-24
+Our goal is to become one of the most well known firm that organizers such events. 
+NULL ({ 3 4 8 }) Naším ({ 14 15 }) cílem ({ 16 }) je ({ }) stát ({ 2 }) se ({ }) nejznámější ({ 9 }) firmou, ({ 10 11 }) která ({ 13 }) takové ({ 7 12 }) události ({ 1 }) pořádá. ({ 5 6 }) 
+# Sentence pair (5) source length 9 target length 12 alignment score : 2.36592e-13
+Our mission is to transform any basic event in a spectacular one. 
+NULL ({ 3 4 }) Naše ({ 6 7 }) mise ({ 8 }) je ({ }) udělat ({ 9 }) z ({ 10 }) obyčejné ({ 11 12 }) události ({ 1 }) něco ({ 2 }) spektakulárního. ({ 5 }) 
+# Sentence pair (6) source length 18 target length 18 alignment score : 2.80098e-23
+Among the time, the firm has diversified the activities, taking in to consideration our clients' needs and requirements. 
+NULL ({ 8 }) V ({ 9 }) průběhu ({ 10 }) času ({ 11 }) se ({ 12 }) činnosti ({ 13 }) firmy ({ 14 }) rozrůznily ({ }) tím, ({ }) jak ({ 15 }) víc ({ 16 }) a ({ 17 }) víc ({ 18 }) zohledňujeme ({ 4 }) potřeby ({ 2 }) a ({ }) požadavky ({ }) svých ({ 1 3 7 }) zákazníků. ({ 5 6 }) 
+# Sentence pair (7) source length 26 target length 27 alignment score : 2.62113e-41
+Today we have a variety of offers, for different age categories, such as parties with clowns, fairy-tales, cartoon characters, magic and karaoke shows and theater with puppets. 
+NULL ({ 4 5 }) Dnes ({ }) máme ({ 3 }) širokou ({ 9 }) nabídku ({ 7 }) pro ({ 8 }) různé ({ 6 }) věkové ({ 10 }) kategorie, ({ 11 }) jako ({ 12 }) jsou ({ }) party ({ 13 14 }) s ({ 15 }) klauny, ({ 1 }) pohádkové ({ 2 }) party, ({ 16 }) party ({ 17 }) s ({ 26 }) komiksovými ({ 27 }) postavami, ({ }) kouzelnická ({ }) a ({ 24 }) karaoke ({ }) představení ({ 25 }) a ({ 21 }) loutkové ({ 22 23 }) divadlo. ({ 18 19 20 }) 
+# Sentence pair (8) source length 22 target length 21 alignment score : 5.09367e-32
+We keep up the marketing trends so we organize parties at home, kindergarten, school or any location that our client requests. 
+NULL ({ 4 19 }) Držíme ({ 10 11 12 13 14 15 16 17 }) krok ({ 18 }) s ({ }) marketingovými ({ }) trendy, ({ }) takže ({ 20 }) pořádáme ({ }) oslavy ({ 21 }) i ({ 7 }) doma, ({ 9 }) v ({ 8 }) mateřských ({ }) i ({ }) základních ({ }) školách ({ }) a ({ }) na ({ 1 }) dalších ({ 2 }) místech ({ 3 }) podle ({ 5 }) přání ({ 6 }) zákazníka. ({ }) 
+# Sentence pair (9) source length 15 target length 16 alignment score : 7.54688e-23
+We offer you complete services: face painting, all kinds of balloons, theme decorations for unforgivable party. 
+NULL ({ }) Nabízíme ({ 3 4 5 6 }) kompletní ({ 7 }) služby: ({ 8 }) malování ({ 2 }) na ({ 1 }) obličej, ({ 9 }) různé ({ 10 }) druhy ({ 11 }) balonků ({ 12 }) a ({ }) tematické ({ }) dekorace ({ 16 }) pro ({ 14 }) nezapomenutelné ({ 15 }) oslavy. ({ 13 }) 
+# Sentence pair (10) source length 13 target length 15 alignment score : 4.10881e-14
+Our staff have experience with kids and we work in this for a long time. 
+NULL ({ 13 }) Naši ({ 1 }) zaměstnanci ({ 2 }) mají ({ 3 }) zkušenosti ({ 4 }) s ({ 5 }) dětmi ({ 6 }) a ({ 7 }) v ({ 8 }) tomto ({ 9 }) oboru ({ 10 14 }) pracujeme ({ 15 }) již ({ 11 }) dlouho. ({ 12 }) 
+# Sentence pair (11) source length 34 target length 44 alignment score : 1.19088e-62
+We think that our firm has a business idea that is profitable, because it is future oriented, has experience, the experienced staff, who has... does everything with passion and the most important is that it has a complex offer, based on our clients needs. 
+NULL ({ 4 11 15 20 30 33 }) Jsme ({ 40 }) přesvědčení, ({ 43 }) že ({ 44 }) naše ({ 42 }) firma ({ 41 }) má ({ }) obchodní ({ 39 }) myšlenku, ({ }) která ({ 34 }) je ({ }) zisková, ({ 7 }) protože ({ 6 8 9 }) je ({ 3 5 10 }) zaměřená ({ 2 }) na ({ 1 }) budoucnost, ({ 21 }) má ({ 12 13 14 16 17 18 19 }) zkušené ({ 22 }) zaměstnance, ({ 23 24 }) kteří ({ 25 }) pracují ({ 26 }) s ({ 27 }) nadšením, ({ 28 }) a ({ 29 }) hlavně ({ 31 }) je ({ }) její ({ 32 }) nabídka ({ 35 }) komplexní ({ }) a ({ }) vychází ({ }) z ({ 37 }) potřeb ({ 38 }) zákazníků. ({ 36 }) 
+# Sentence pair (12) source length 8 target length 11 alignment score : 4.67246e-10
+That is why our motto is "We love to entertain you!" 
+NULL ({ 2 6 }) Proto ({ 1 3 }) naše ({ 4 }) motto ({ 5 }) zní: ({ 7 }) "Baví ({ 8 }) nás ({ 9 }) bavit ({ 10 }) vás!" ({ 11 }) 
+# Sentence pair (13) source length 25 target length 24 alignment score : 9.83434e-37
+If you are curious to meet my team, my staff, my friends and learn more about us, please stand by our stand seventy nine. 
+NULL ({ 5 }) Kdybyste ({ 2 3 4 6 7 8 9 10 }) měli ({ 11 }) zájem ({ }) seznámit ({ }) se ({ }) s ({ }) mým ({ }) týmem, ({ }) mými ({ 12 }) zaměstnanci ({ }) a ({ 13 }) dozvědět ({ 14 15 }) se ({ }) o ({ 17 18 19 20 }) nás ({ 21 }) víc, ({ 22 }) zastavte ({ 23 }) se ({ }) prosím ({ }) u ({ 24 }) našeho ({ }) stánku ({ }) číslo ({ 16 }) sedmdesát ({ }) devět. ({ 1 }) 
+# Sentence pair (14) source length 2 target length 4 alignment score : 0.000366645
+Thank you so much! 
+NULL ({ }) Moc ({ 1 }) děkuji! ({ 2 3 4 }) 

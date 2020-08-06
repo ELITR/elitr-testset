@@ -1,0 +1,51 @@
+# Sentence pair (1) source length 1 target length 1 alignment score : 0.665675
+Hi! 
+NULL ({ }) Ahoj! ({ 1 }) 
+# Sentence pair (2) source length 7 target length 10 alignment score : 5.27413e-11
+I would like to introduce you the company I represent. 
+NULL ({ 4 7 }) Rád ({ 3 }) bych ({ 5 6 }) vám ({ 1 }) představil ({ 2 }) společnost, ({ 8 }) kterou ({ 9 }) zastupuji. ({ 10 }) 
+# Sentence pair (3) source length 2 target length 2 alignment score : 0.273535
+Develop Most. 
+NULL ({ }) Develop ({ 1 }) Most. ({ 2 }) 
+# Sentence pair (4) source length 11 target length 13 alignment score : 1.42807e-07
+Our company was founded this year, but we already won rewards... rewards... prizes. 
+NULL ({ 8 }) Naše ({ 1 }) společnost ({ 2 }) byla ({ 3 }) založena ({ 4 }) tento ({ 5 }) rok, ({ 6 }) ale ({ 7 }) již ({ 9 }) získala ({ 10 }) několik ({ 11 12 }) ocenění. ({ 13 }) 
+# Sentence pair (5) source length 7 target length 11 alignment score : 1.57691e-14
+So there is a fairly bright future in front of us. 
+NULL ({ 3 }) Před ({ 6 }) námi ({ 2 }) tedy ({ 1 }) leží ({ 4 }) vcelku ({ 5 7 }) skvělá ({ 8 }) budoucnost. ({ 9 10 11 }) 
+# Sentence pair (6) source length 5 target length 6 alignment score : 0.000407304
+We offer cloud services and Minecraft. 
+NULL ({ }) Nabízíme ({ 1 2 }) cloud ({ 3 }) servis ({ 4 }) a ({ 5 }) Minecraft. ({ 6 }) 
+# Sentence pair (7) source length 8 target length 9 alignment score : 3.73778e-05
+Cloud services are mainly about Office three six five. 
+NULL ({ }) Cloud ({ 1 }) servis ({ 2 }) se ({ 3 }) týká ({ 4 }) především ({ 5 }) programu ({ 6 }) Office ({ 7 }) 365. ({ 8 9 }) 
+# Sentence pair (8) source length 9 target length 11 alignment score : 1.85321e-13
+So the proper provider is Microsoft, we just sell the licenses. 
+NULL ({ 7 }) Skutečným ({ 5 }) dodavatelem ({ 2 }) je ({ }) tedy ({ 1 }) Microsoft, ({ 3 }) my ({ 4 }) pouze ({ 6 }) prodáváme ({ 8 }) licenci. ({ 9 10 11 }) 
+# Sentence pair (9) source length 15 target length 18 alignment score : 1.15493e-10
+Specifically, we offer three basic licenses for household, for individuals, business and one large package named E three. 
+NULL ({ 2 }) Konkrétně ({ 1 }) nabízíme ({ 3 }) tři ({ 4 5 }) licence, ({ 6 }) pro ({ 7 }) domácnost, ({ 8 }) jednotlivce, ({ 9 10 }) firmy ({ 11 }) a ({ 12 }) jeden ({ 13 }) velký ({ 14 }) balíček ({ 15 }) pod ({ 16 }) názvem ({ 17 }) E3. ({ 18 }) 
+# Sentence pair (10) source length 18 target length 20 alignment score : 4.35725e-14
+All of these options is are somehow different, but they all contain basic applications such as Word, Excel or Powerpoint. 
+NULL ({ 5 }) Každá ({ 1 }) z ({ 2 }) těchto ({ 3 }) variant ({ 4 }) se ({ 6 }) poněkud ({ 7 }) liší, ({ 8 }) ale ({ 9 }) všechny ({ 10 }) obsahují ({ 11 }) základní ({ 12 }) programy, ({ 13 }) jako ({ 14 }) je ({ }) Word, ({ 20 }) Excel ({ 15 }) nebo ({ 16 }) Powerpoint. ({ 17 18 19 }) 
+# Sentence pair (11) source length 7 target length 7 alignment score : 4.49952e-07
+And then, there is already mentioned Minecraft. 
+NULL ({ }) A ({ 2 }) pak ({ 4 }) tu ({ 1 }) máme ({ 3 }) již ({ 5 }) zmíněný ({ 6 }) Minecraft. ({ 7 }) 
+# Sentence pair (12) source length 9 target length 8 alignment score : 5.03429e-09
+An open-world building game suitable for all ages. 
+NULL ({ }) Stavitelská ({ 3 }) hra ({ }) s ({ 2 }) otevřeným ({ 1 }) světem ({ 4 }) vhodná ({ 5 }) pro ({ 6 }) každý ({ 7 }) věk. ({ 8 }) 
+# Sentence pair (13) source length 15 target length 21 alignment score : 4.55671e-16
+Perhaps there is no need to introduce it, thanks to its popularity it has gain millions of players around the world. 
+NULL ({ 3 10 20 21 }) Snad ({ 1 }) ani ({ 2 4 }) není ({ 5 }) třeba ({ 6 }) ji ({ 7 }) představovat, ({ 8 9 }) díky ({ 11 }) své ({ 12 }) oblíbenosti ({ 13 }) získala ({ 14 }) miliony ({ 15 }) hráčů ({ 16 }) po ({ 17 }) celém ({ 18 }) světě. ({ 19 }) 
+# Sentence pair (14) source length 9 target length 10 alignment score : 2.94702e-12
+Also, it's important to mention that we offer custom-made applications. 
+NULL ({ 7 }) Také ({ 3 }) je ({ 2 }) třeba ({ 4 }) zmínit, ({ 1 }) že ({ 6 }) nabízíme ({ 8 }) aplikace ({ 9 }) na ({ 10 }) míru. ({ 5 }) 
+# Sentence pair (15) source length 12 target length 19 alignment score : 2.83972e-15
+According to customers according to customer regards... rega... requirements we are able to create the application that suits everyone. 
+NULL ({ 2 5 10 13 15 }) Na ({ 1 }) základě ({ 3 }) požadavků ({ 4 }) zákazníka ({ 6 }) můžeme ({ 7 }) vyrobit ({ 8 }) aplikaci, ({ 9 }) která ({ 11 }) mu ({ 12 }) bude ({ 14 }) dokonale ({ 16 }) vyhovovat. ({ 17 18 19 }) 
+# Sentence pair (16) source length 12 target length 14 alignment score : 5.23604e-11
+If you are interested in more details I can offer you a business card. 
+NULL ({ }) Pokud ({ 1 }) byste ({ 2 }) se ({ 3 }) zajímali ({ 4 }) o ({ 5 }) dodatečné ({ 14 }) informace, ({ 6 }) mohu ({ 7 }) vám ({ 8 }) dát ({ 9 }) svoji ({ 10 }) vizitku. ({ 11 12 13 }) 
+# Sentence pair (17) source length 5 target length 9 alignment score : 1.12663e-08
+We will be glad to answer your questions anytime. 
+NULL ({ 5 }) Rádi ({ 1 }) kdykoliv ({ 2 }) zodpovíme ({ 3 4 6 }) vaše ({ 7 }) dotazy. ({ 8 9 }) 

@@ -1,0 +1,27 @@
+# Sentence pair (1) source length 17 target length 19 alignment score : 1.77528e-12
+Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company from Bratislava, Slovakia. 
+NULL ({ 8 14 }) Dobré ({ 1 }) odpoledne, ({ 2 }) dámy ({ 3 }) a ({ 4 }) pánové, ({ 5 }) jmenuji ({ 6 }) se ({ 7 }) <NAME> ({ 9 }) a ({ 10 }) jsem ({ 11 }) ředitel ({ 12 }) společnosti ({ 13 }) Apollonas ({ 15 }) z ({ 16 }) Bratislavy, ({ 17 }) ze ({ 19 }) Slovenska. ({ 18 }) 
+# Sentence pair (2) source length 6 target length 8 alignment score : 1.59256e-07
+I would like to introduce you our services. 
+NULL ({ 5 6 }) Rád ({ 1 }) bych ({ 2 }) vám ({ 3 }) představil ({ 4 }) naše ({ 7 }) služby. ({ 8 }) 
+# Sentence pair (3) source length 19 target length 16 alignment score : 4.47012e-13
+Our company offers you luxurious sailings where you enjoy wine and gastronomic routes or just relax. 
+NULL ({ 4 8 }) Naše ({ 1 }) společnost ({ 2 }) nabízí ({ 3 }) luxusní ({ 5 }) plavby ({ 6 }) plachetnicí, ({ }) při ({ 16 }) kterých ({ }) si ({ }) můžete ({ 7 }) užívat ({ 9 }) víno ({ 10 }) a ({ 11 }) gastronomické ({ 12 }) výlety, ({ 13 }) nebo ({ 14 }) jen ({ }) tak ({ }) odpočívat. ({ 15 }) 
+# Sentence pair (4) source length 6 target length 8 alignment score : 2.80608e-07
+I would like to present you our yachts. 
+NULL ({ 6 }) Rád ({ 1 }) bych ({ 2 }) vám ({ 3 }) představil ({ 4 }) naše ({ 7 }) jachty. ({ 5 8 }) 
+# Sentence pair (5) source length 10 target length 16 alignment score : 7.48024e-17
+One of them is a catamaran called Princess Aphrodite and the other one is Queen Axiera. 
+NULL ({ 2 14 }) Jedna ({ 1 3 4 5 }) je ({ 6 }) katamarán ({ 7 }) Princezna ({ 8 }) Afrodité ({ 9 }) a ({ 10 }) druhá ({ 11 12 13 15 }) je ({ }) Královna ({ 16 }) Axiera. ({ }) 
+# Sentence pair (6) source length 6 target length 12 alignment score : 2.51831e-13
+One of our destination is Greece and the other one is Croatia. 
+NULL ({ 2 3 11 }) Našimi ({ 1 }) destinacemi ({ 4 }) jsou ({ 5 }) Řecko ({ 6 8 9 10 }) a ({ 7 }) Chorvatsko. ({ 12 }) 
+# Sentence pair (7) source length 9 target length 14 alignment score : 4.85668e-15
+If you want to experience a vacation of your dreams, sail away with us! 
+NULL ({ 2 8 }) Pokud ({ 1 3 }) toužíte ({ 4 }) zažít ({ 5 }) dovolenou ({ 6 }) snů, ({ 7 }) pak ({ 12 13 14 }) vyplujte ({ 11 }) s ({ 10 }) námi! ({ 9 }) 
+# Sentence pair (8) source length 8 target length 12 alignment score : 7.75982e-19
+For more information you will find us in our stand number sixty. 
+NULL ({ 4 }) Více ({ 1 }) informací ({ }) získáte ({ }) u ({ 9 }) našeho ({ 11 }) stánku ({ 12 }) číslo ({ }) šedesát. ({ 2 3 5 6 7 8 10 }) 
+# Sentence pair (9) source length 3 target length 5 alignment score : 4.3428e-06
+Thank you for your attention. 
+NULL ({ 2 }) Děkuji ({ 1 3 }) za ({ 5 }) pozornost. ({ 4 }) 

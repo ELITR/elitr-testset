@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 6 target length 9 alignment score : 5.3747e-13
+OK, I'm from the business of a Hotel Bosco. 
+NULL ({ 7 }) Ok, ({ 8 }) jsem ({ 5 }) z ({ 4 6 }) podniku ({ 3 9 }) Hotel ({ 2 }) Bosco. ({ 1 }) 
+# Sentence pair (2) source length 9 target length 10 alignment score : 7.37806e-14
+We're in Barcelona, located in the heart of the city. 
+NULL ({ 2 }) Jsme ({ 10 }) z ({ 8 }) Barcelony ({ 7 }) a ({ 9 }) sídlíme ({ 6 }) přímo ({ 5 }) ve ({ 3 }) středu ({ 4 }) města. ({ 1 }) 
+# Sentence pair (3) source length 8 target length 12 alignment score : 6.26411e-16
+Like you know, Barcelona has a lot of a tourist hotspots, that... 
+NULL ({ 2 6 9 }) Jak ({ 1 }) dobře ({ }) víte, ({ }) Barcelona ({ 12 }) má ({ }) spoustu ({ 11 }) turistických ({ 10 }) míst... ({ 3 4 5 7 8 }) 
+# Sentence pair (4) source length 13 target length 13 alignment score : 3.8711e-19
+Our service is help you to find and to go to these hotspots. 
+NULL ({ 5 }) Našim ({ 1 2 3 }) cílem ({ 4 }) je ({ }) pomoci ({ }) vám ({ }) ta ({ 13 }) místa ({ 12 }) najít ({ }) a ({ 8 }) dopravit ({ 7 }) vás ({ 6 9 11 }) k ({ 10 }) nim. ({ }) 
+# Sentence pair (5) source length 21 target length 28 alignment score : 1.07182e-34
+So we offer a service, of, like, we can give you a car rental or you also have the public transport in about two minutes from our hotel. 
+NULL ({ 4 11 12 16 22 }) Nabízíme ({ 20 }) servis ({ }) jako ({ }) je ({ 19 }) například ({ 18 }) půjčení ({ 13 }) auta ({ 10 14 }) nebo ({ 15 17 }) můžete ({ 9 }) také ({ 8 }) využít ({ 7 }) hromadnou ({ 6 }) dopravu, ({ 5 }) která ({ 3 }) je ({ 2 }) asi ({ 1 }) dvě ({ 28 }) minuty ({ 27 }) od ({ 26 }) našeho ({ 25 }) hotelu. ({ 21 23 24 }) 
+# Sentence pair (6) source length 10 target length 16 alignment score : 2.54381e-21
+So, we also have a gym, like, if you want to train your body or anything. 
+NULL ({ 5 9 }) Takže, ({ 6 7 8 }) máme ({ 4 }) i ({ 3 }) tělocvičnu, ({ 2 }) pokud ({ 1 10 }) chcete ({ 11 }) trénovat ({ 12 }) tělo ({ 16 }) nebo ({ 15 }) cokoli. ({ 13 14 }) 
+# Sentence pair (7) source length 4 target length 7 alignment score : 4.63658e-09
+Also, we have... OK... a conference room. 
+NULL ({ 5 }) Máme ({ 1 }) také ({ 2 }) konferenční ({ 7 }) místnost. ({ 3 4 6 }) 
+# Sentence pair (8) source length 10 target length 14 alignment score : 6.61568e-19
+If you go with your business, you can create really... business relationships in there. 
+NULL ({ 2 7 13 }) Pokud ({ 11 }) cestujete ({ 10 }) za ({ }) obchodem ({ 9 12 }) můžete ({ 8 }) tam ({ 6 }) navázat ({ 14 }) pravé ({ 5 }) obchodní ({ 4 }) vztahy. ({ 1 3 }) 
+# Sentence pair (9) source length 9 target length 13 alignment score : 5.80982e-18
+And also we can offer you some interesting spa or a swimming pool. 
+NULL ({ 6 11 }) A ({ 4 }) také ({ 3 }) vám ({ 5 }) můžeme ({ 7 }) nabídnout ({ 8 }) zajímavé ({ 13 }) lázně ({ 9 12 }) nebo ({ 10 }) bazén. ({ 1 2 }) 
+# Sentence pair (10) source length 7 target length 8 alignment score : 1.72127e-10
+So you can relax also in our hotel. 
+NULL ({ 2 }) Takže ({ }) v ({ 8 }) našem ({ 7 }) hotelu ({ }) můžete ({ 6 }) i ({ 5 }) relaxovat. ({ 1 3 4 }) 
+# Sentence pair (11) source length 23 target length 29 alignment score : 1.39752e-41
+So, basically, this is our hotel and we are located in the stand number hundred five, so if you want to come, I will be glad to see you. 
+NULL ({ 11 19 }) Takže ({ 5 }) jednoduše ({ 4 }) řečeno, ({ 3 6 }) tohle ({ 7 }) je ({ 8 }) náš ({ 10 }) hotel ({ 9 }) a ({ }) sídlíme ({ 12 }) na ({ 13 }) stánku ({ 14 }) číslo ({ 15 }) sto ({ 16 }) pět, ({ 17 }) takže ({ 2 }) pokud ({ 1 }) se ({ 18 }) budete ({ 20 }) chtít ({ }) stavit, ({ 29 }) rád ({ 28 }) vás ({ 21 27 }) uvidím. ({ 22 23 24 25 26 }) 
+# Sentence pair (12) source length 11 target length 9 alignment score : 3.63791e-12
+Hope you like it and thank you for coming. 
+NULL ({ 2 }) Doufám, ({ 8 }) že ({ }) se ({ }) vám ({ }) to ({ 7 }) líbilo ({ 6 }) a ({ 5 }) děkuji, ({ 9 }) že ({ 4 }) jste ({ 3 }) přišli. ({ 1 }) 

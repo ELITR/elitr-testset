@@ -1,0 +1,63 @@
+# Sentence pair (1) source length 3 target length 3 alignment score : 0.000823431
+Hi, Good morning! 
+NULL ({ }) Ahoj, ({ 2 }) dobré ({ 1 }) ráno! ({ 3 }) 
+# Sentence pair (2) source length 2 target length 2 alignment score : 0.400133
+Good morning! 
+NULL ({ }) Dobré ({ 1 }) ráno! ({ 2 }) 
+# Sentence pair (3) source length 2 target length 3 alignment score : 0.0288721
+Etchiu... Pardon me... 
+NULL ({ }) Hepčík... ({ 1 2 }) Pardon... ({ 3 }) 
+# Sentence pair (4) source length 6 target length 7 alignment score : 0.000516726
+Bless you... Wow! That's an amazing hat! 
+NULL ({ }) Zdravíčko... ({ 1 2 }) Wow! ({ 3 }) To ({ 4 }) je ({ 5 }) skvělá ({ 6 }) čepice! ({ 7 }) 
+# Sentence pair (5) source length 12 target length 11 alignment score : 8.22059e-06
+Yes, sure! That's our flagship product, we are Hat&Cap from Italy. 
+NULL ({ 7 }) Jo, ({ 1 }) to ({ 2 }) je! ({ 3 }) Je ({ }) to ({ }) náš ({ 4 }) vlajkový ({ 5 }) produkt, ({ 6 }) jsme ({ 8 }) Hat&Cap ({ 9 }) z ({ 10 }) Itálie. ({ 11 }) 
+# Sentence pair (6) source length 3 target length 5 alignment score : 1.00645e-06
+Wow... So you produce caps? 
+NULL ({ }) Páni... ({ 2 }) Vyrábíte ({ 1 }) kšiltovky? ({ 3 4 5 }) 
+# Sentence pair (7) source length 10 target length 12 alignment score : 7.44286e-06
+No, we market them, we are all young people with innovative ideas. 
+NULL ({ 5 }) Ne, ({ 1 }) prodáváme ({ 2 3 }) je, ({ 4 }) jsme ({ 6 }) všichni ({ 7 }) mladí ({ 8 }) lidé ({ 9 }) s ({ 10 }) novými ({ 11 }) nápady. ({ 12 }) 
+# Sentence pair (8) source length 1 target length 1 alignment score : 0.48747
+Wow! 
+NULL ({ }) Wow! ({ 1 }) 
+# Sentence pair (9) source length 5 target length 6 alignment score : 0.00211333
+But this is a breathtaking cap! 
+NULL ({ }) Ale ({ 1 }) tohle ({ 2 }) je ({ 3 }) úžasná ({ 4 }) kšiltovka! ({ 5 6 }) 
+# Sentence pair (10) source length 11 target length 12 alignment score : 1.26281e-09
+Wow! But... But I think it's very expensive, the quality is excellent. 
+NULL ({ 9 }) Wow! ({ 1 2 }) Ale ({ 3 }) myslím, ({ 4 }) že ({ 5 }) bude ({ 6 7 }) stát ({ 8 }) majlant, ({ 10 }) je ({ 11 }) to ({ }) skvělá ({ }) kvalita. ({ 12 }) 
+# Sentence pair (11) source length 14 target length 18 alignment score : 9.71639e-21
+Yes, in fact we use the best materials on the market, because we aim at total costumer satisfaction. 
+NULL ({ 4 6 10 13 }) Ano, ({ 2 }) vlastně ({ 3 }) používáme ({ 7 8 9 }) nejlepší ({ 12 }) materiály ({ 14 }) na ({ 15 }) trhu, ({ 16 }) protože ({ 17 }) chceme, ({ }) aby ({ 18 }) zákazníci ({ 11 }) byli ({ 5 }) maximálně ({ }) spokojení. ({ 1 }) 
+# Sentence pair (12) source length 6 target length 8 alignment score : 8.00038e-06
+But how can I buy one of this? 
+NULL ({ }) Ale ({ 1 }) kde ({ 2 3 }) si ({ 4 }) takovou ({ 5 6 }) můžu ({ 7 }) pořídit? ({ 8 }) 
+# Sentence pair (13) source length 7 target length 6 alignment score : 4.07233e-09
+You can visit our social media. 
+NULL ({ }) Můžete ({ }) nás ({ 1 }) navštívit ({ }) na ({ }) našich ({ }) sociálních ({ }) médiích. ({ 2 3 4 5 6 }) 
+# Sentence pair (14) source length 9 target length 9 alignment score : 1.45323e-08
+You will find our catalogue and our sales conditions. 
+NULL ({ }) Najdete ({ 1 }) tam ({ 2 }) katalog ({ 3 }) a ({ 4 }) naše ({ 5 }) ceny ({ 8 }) a ({ 7 }) kupní ({ 9 }) podmínky. ({ 6 }) 
+# Sentence pair (15) source length 3 target length 3 alignment score : 0.00601684
+That sounds good! 
+NULL ({ }) To ({ }) zní ({ 1 }) dobře! ({ 2 3 }) 
+# Sentence pair (16) source length 12 target length 15 alignment score : 5.47347e-09
+And you know... we are here at the fair at the stand number ninety two. 
+NULL ({ 4 8 11 }) A ({ 1 }) abyste ({ 2 }) věděl, ({ 3 }) jsme ({ 5 }) tady ({ 6 }) na ({ 7 }) veletrhu ({ 9 }) na ({ 10 }) stánku ({ 12 }) číslo ({ 13 }) devadesát ({ 14 }) dva. ({ 15 }) 
+# Sentence pair (17) source length 5 target length 4 alignment score : 0.0263459
+Come on, see us! 
+NULL ({ }) No ({ 1 }) tak, ({ 2 }) přijďte ({ 3 }) se ({ }) podívat! ({ 4 }) 
+# Sentence pair (18) source length 1 target length 1 alignment score : 0.754753
+Really? 
+NULL ({ }) Vážně? ({ 1 }) 
+# Sentence pair (19) source length 9 target length 12 alignment score : 7.57945e-11
+But I don't think I really have to buy one of these. 
+NULL ({ 9 }) Ale ({ 1 }) myslím, ({ 2 3 }) že ({ 4 }) si ({ 5 }) takovou ({ 10 11 }) už ({ 12 }) nebudu ({ 6 }) muset ({ 7 }) kupovat. ({ 8 }) 
+# Sentence pair (20) source length 1 target length 1 alignment score : 0.456762
+Goodbye! 
+NULL ({ }) Nashle! ({ 1 }) 
+# Sentence pair (21) source length 5 target length 5 alignment score : 0.0361452
+Hey! My hat! My hat! 
+NULL ({ }) Hej! ({ 1 }) Moje ({ 2 }) čepice! ({ 3 }) Moje ({ 4 }) čepice! ({ 5 }) 
