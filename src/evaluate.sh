@@ -12,6 +12,6 @@ for mt in `find $root_dir -type f -name *"MTcs"` ; do
 	ostt=`find "$reference_dir" -name "*$name*.OStt" -not -path *"outputs"*`
 	translation=`find "$reference_dir" -name "*$name*.TTcs1" -not -path *"outputs"*`
 
-	./src/align.sh $mt $ostt $translation $mt
+	./src/align.sh $mt $ostt $translation
 	./src/evaluate_single.sh $mt $ostt $translation
 done
