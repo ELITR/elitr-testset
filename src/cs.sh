@@ -1,9 +1,9 @@
 #!/bin/bash
 source common.sh
 
-FROM=en-EU
-FROM_S=EN
-FROMASR=en-EU-ufal-da-20200120
+FROM=csCZu
+FROM_S=CS
+FROMASR=cs-CZ-kaldi-adapted-talklevel
 
 # Separate path to save logs-
 bname=$(basename $1)
@@ -24,9 +24,9 @@ fi
 
 mkfifo $DIR/input-pipe
 i=1;
-eng_cmd="$UNB $CLIENT -f $FROMASR -i $FROM -t text < $DIR/input-pipe | $TEETS $DIR/${filename}.ASR${FROM_S,,}"
-
-cmd="$eng_cmd"
+#eng_cmd="$UNB $CLIENT -f $FROMASR -i $FROM -t text < $DIR/input-pipe | $TEETS $DIR/${filename}.ASR${FROM_S,,}"
+cs_cmd="$UNB $CLIENT -f $FROMASR -i $FROM -t text < $DIR/input-pipe | $UNB $SEGM_TCLIENT -f csCZu-demo -i csCZt-demo --timestampsIn --timestampsOut  | $TEETS $DIR/${filename}.ASR${FROM_S,,}"
+cmd="$cs_cmd"
 
 # creating pvconfig
 echo "SRCLANG=${FROM}" > ${DIR}/pvconfig
@@ -62,8 +62,10 @@ REF_DIR=$(dirname $1)
 echo "./post-transcript.sh $DIR $REF_DIR" >> run2transcript-${FROM_S}.tsk
 
 # Text2Text-> MT Generation pipeline
-op_fps=("cs-CZ" "rb-EU_fromEN-en_to_41")
+op_fps=("de-EU_fromCZ" "en-EU_fromCZ" "rb-EU_fromCS-cs_to_40")
 for op_fp in "${op_fps[@]}"; do
   echo "./asrtext2text.sh ${FROM_S,,}-EU  ${op_fp} $DIR $REF_DIR" >> ./mt-${FROM_S}-2-${op_fp}.tsk
 done
+
+
 
