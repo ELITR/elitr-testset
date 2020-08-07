@@ -9,29 +9,29 @@ fi
 lang=$(basename "$1" | cut -d. -f1)
 PRE=$2
 suffix=$3
-filename="process_${lang}_${suffix}.sh"
+filename="process_${lang}_${suffix}.tsk"
 
 if [ -f "$filename" ]; then
   rm -rf $filename
 fi
 
 
-# remove old run2transcript.sh file
-if [ -f run2transcript.sh ]; then
-  rm -rf run2transcript.sh
+# remove old run2transcript.tsk file
+if [ -f run2transcript.tsk ]; then
+  rm -rf run2transcript.tsk
   else
-    touch run2transcript.sh
-    chmod a+x run2transcript.sh
+    touch run2transcript.tsk
+    chmod a+x run2transcript.tsk
 
 fi
 
 
 
 
-for i in $PRE/*.wav; do
+for i in $(find $PRE -maxdepth 10 -type f -name "*.wav"); do
     echo $i
-    echo "./en.sh $i" >> ${filename}
+    echo "./$1 $i" >> ${filename}.tmp
 done
-
+sort ${filename}.tmp > ${filename}
+rm -rf ${filename}.tmp
 chmod a+x $filename
-REF_DIR=$2
