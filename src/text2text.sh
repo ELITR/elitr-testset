@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# -ne 3 ] ; then
-    echo "usage: $0 <ip-fingerprint> <op-fingerprint> <input dir with logs> <full path to text based translation file>"
+    echo "usage: $0 <ip-fingerprint> <op-fingerprint> <full path to text based translation file>"
     exit
 fi
 
@@ -16,7 +16,7 @@ source_file=$3 # full path to text based translation file
 filename=$(basename $source_file)
 source_dir=$(dirname $source_file)
 #input=$(find ${TRDIR} -maxdepth 1 -name "${filename}.ASR*") # Get the fullpath of the ASR 'trascript' file
-output_dir=${source_dir}
+output_dir=$(echo ${source_dir} | sed 's/documents/logs/g')
 
 mkdir -p ${output_dir}/${OP_FP}/${filename}.pvlogs/
 mkdir -p ${output_dir}/${OP_FP}/${filename}.transcripts/

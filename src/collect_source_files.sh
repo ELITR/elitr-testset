@@ -6,7 +6,7 @@ if [ $# -ne 1 ] ; then
 fi
 source_dir=$1
 #langs_set=('ar' 'az' 'be' 'bg' 'bs' 'cs' 'da' 'de' 'el' 'en' 'es' 'et' 'fi' 'fr' 'ga' 'he' 'hr' 'hu' 'hy' 'is' 'it' 'ka' 'kk' 'lb' 'lt' 'lv' 'me' 'mk' 'mt' 'nl' 'no' 'pl' 'p    t' 'ro' 'ru' 'sk' 'sl' 'sq' 'sr' 'sv' 'tr' 'uk')
-langs_set=("cs" "en" "de")
+langs_set=("cs" "de" "en" "es" "fr" "sk" "ru")
 for k in "${langs_set[@]}"; do
 
   # This would find all files ending with $k and store it as an array
@@ -41,7 +41,7 @@ for k in "${langs_set[@]}"; do
     # Generate flists for each of the op fingerprint selected above
     op_fp_arr=($mt_fps)
     echo "*********************"
-    rm -rf only-${k}-mt.flist # Delete old flist
+    rm -rf only-${k}-2-${op_fp}-mt.flist     # Delete old flist
     for i in "${op_fp_arr[@]}"; do
       echo "You entered:${mt_workers[$i-1]}"
       # Creating task files for each of the found languages
