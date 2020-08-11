@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/33_logistic-servis.transcript/33_logistic-servis.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-servis.OSt
-Sentence count: 8
-WER:   130.882% (        89 /         68)
-WRR:    10.294% (         7 /         68)
-SER:   100.000% (         8 /          8)

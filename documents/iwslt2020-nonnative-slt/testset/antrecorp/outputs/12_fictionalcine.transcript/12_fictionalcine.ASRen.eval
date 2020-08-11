@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/12_fictionalcine.transcript/12_fictionalcine.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalcine.OSt
-Sentence count: 5
-WER:   103.614% (        86 /         83)
-WRR:    27.711% (        23 /         83)
-SER:   100.000% (         5 /          5)

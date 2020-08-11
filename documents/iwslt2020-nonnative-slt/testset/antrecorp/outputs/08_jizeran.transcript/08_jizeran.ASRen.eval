@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/08_jizeran.transcript/08_jizeran.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.OSt
-Sentence count: 10
-WER:   102.174% (       141 /        138)
-WRR:    11.594% (        16 /        138)
-SER:   100.000% (        10 /         10)

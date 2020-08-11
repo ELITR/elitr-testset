@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/06_masaze-petr-klic.transcript/06_masaze-petr-klic.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr-klic.OSt
-Sentence count: 13
-WER:   138.462% (       198 /        143)
-WRR:    12.587% (        18 /        143)
-SER:   100.000% (        13 /         13)

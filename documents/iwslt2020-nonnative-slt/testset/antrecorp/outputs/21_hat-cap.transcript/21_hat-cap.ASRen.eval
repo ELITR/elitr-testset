@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/21_hat-cap.transcript/21_hat-cap.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.OSt
-Sentence count: 7
-WER:   179.070% (        77 /         43)
-WRR:     6.977% (         3 /         43)
-SER:   100.000% (         7 /          7)

@@ -1,5 +1,5 @@
 #!/bin/bash
-#rename files in the iwslt repository, to include language code in all names
+#rename files in the repository, in order to include language code in names
 
 cd "${0%/*}/.."
 

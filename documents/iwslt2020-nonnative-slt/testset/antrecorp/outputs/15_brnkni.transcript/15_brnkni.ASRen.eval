@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/15_brnkni.transcript/15_brnkni.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.OSt
-Sentence count: 8
-WER:   138.043% (       127 /         92)
-WRR:     2.174% (         2 /         92)
-SER:   100.000% (         8 /          8)

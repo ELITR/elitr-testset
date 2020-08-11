@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/14_llibres-i-revistes-edb.transcript/14_llibres-i-revistes-edb.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.OSt
-Sentence count: 15
-WER:   123.750% (       198 /        160)
-WRR:     3.125% (         5 /        160)
-SER:   100.000% (        15 /         15)

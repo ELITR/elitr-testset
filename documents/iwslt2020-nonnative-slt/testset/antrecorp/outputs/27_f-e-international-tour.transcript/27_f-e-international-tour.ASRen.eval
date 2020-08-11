@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/27_f-e-international-tour.transcript/27_f-e-international-tour.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-international-tour.OSt
-Sentence count: 11
-WER:   118.519% (       256 /        216)
-WRR:     4.167% (         9 /        216)
-SER:   100.000% (        11 /         11)

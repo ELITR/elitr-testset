@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/31_devil-chocolate.transcript/31_devil-chocolate.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-chocolate.OSt
-Sentence count: 13
-WER:   116.883% (       180 /        154)
-WRR:    14.935% (        23 /        154)
-SER:   100.000% (        13 /         13)

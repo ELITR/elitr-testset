@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/11_trefa.transcript/11_trefa.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.OSt
-Sentence count: 18
-WER:   109.845% (       212 /        193)
-WRR:     1.554% (         3 /        193)
-SER:   100.000% (        18 /         18)

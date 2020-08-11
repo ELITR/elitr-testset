@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/22_new-design-world.transcript/22_new-design-world.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-world.OSt
-Sentence count: 14
-WER:   150.355% (       212 /        141)
-WRR:     8.511% (        12 /        141)
-SER:   100.000% (        14 /         14)

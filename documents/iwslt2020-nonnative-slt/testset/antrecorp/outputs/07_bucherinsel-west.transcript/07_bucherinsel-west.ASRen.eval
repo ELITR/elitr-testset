@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/07_bucherinsel-west.transcript/07_bucherinsel-west.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel-west.OSt
-Sentence count: 12
-WER:   118.579% (       217 /        183)
-WRR:     8.743% (        16 /        183)
-SER:   100.000% (        12 /         12)
