@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/32_ck-remoa.transcript/32_ck-remoa.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.OSt
-Sentence count: 13
-WER:   133.813% (       186 /        139)
-WRR:    14.388% (        20 /        139)
-SER:   100.000% (        13 /         13)

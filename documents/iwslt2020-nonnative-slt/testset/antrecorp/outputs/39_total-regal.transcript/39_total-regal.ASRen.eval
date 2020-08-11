@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/39_total-regal.transcript/39_total-regal.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal.OSt
-Sentence count: 16
-WER:   100.917% (       220 /        218)
-WRR:    19.266% (        42 /        218)
-SER:   100.000% (        16 /         16)

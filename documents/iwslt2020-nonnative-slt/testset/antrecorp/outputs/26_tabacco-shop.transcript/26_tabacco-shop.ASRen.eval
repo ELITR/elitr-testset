@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/26_tabacco-shop.transcript/26_tabacco-shop.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-shop.OSt
-Sentence count: 7
-WER:   121.505% (       113 /         93)
-WRR:    11.828% (        11 /         93)
-SER:   100.000% (         7 /          7)

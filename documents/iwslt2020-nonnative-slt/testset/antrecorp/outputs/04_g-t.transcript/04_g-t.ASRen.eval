@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/04_g-t.transcript/04_g-t.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.OSt
-Sentence count: 15
-WER:   108.571% (       190 /        175)
-WRR:     2.286% (         4 /        175)
-SER:   100.000% (        15 /         15)

@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/35_f-e-time-travel-agency.transcript/35_f-e-time-travel-agency.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-travel-agency.OSt
-Sentence count: 13
-WER:   143.243% (       265 /        185)
-WRR:     7.568% (        14 /        185)
-SER:   100.000% (        13 /         13)

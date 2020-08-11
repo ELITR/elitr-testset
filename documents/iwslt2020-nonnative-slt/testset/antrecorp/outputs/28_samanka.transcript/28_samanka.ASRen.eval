@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/28_samanka.transcript/28_samanka.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.OSt
-Sentence count: 10
-WER:    98.462% (       128 /        130)
-WRR:    18.462% (        24 /        130)
-SER:   100.000% (        10 /         10)

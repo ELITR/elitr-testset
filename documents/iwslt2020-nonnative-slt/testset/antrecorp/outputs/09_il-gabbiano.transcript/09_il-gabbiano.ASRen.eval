@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/09_il-gabbiano.transcript/09_il-gabbiano.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.OSt
-Sentence count: 10
-WER:   162.025% (       128 /         79)
-WRR:     2.532% (         2 /         79)
-SER:   100.000% (        10 /         10)

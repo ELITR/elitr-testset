@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/13_don-bosco-barcelona.transcript/13_don-bosco-barcelona.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.OSt
-Sentence count: 12
-WER:   100.000% (       168 /        168)
-WRR:    12.500% (        21 /        168)
-SER:   100.000% (        12 /         12)

@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/19_be-beauty.transcript/19_be-beauty.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.OSt
-Sentence count: 11
-WER:    93.548% (       174 /        186)
-WRR:    20.430% (        38 /        186)
-SER:   100.000% (        11 /         11)

@@ -1,6 +1,0 @@
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/outputs/37_caspowalk.transcript/37_caspowalk.ASRen
-./documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.OSt
-Sentence count: 31
-WER:   141.841% (       339 /        239)
-WRR:     3.766% (         9 /        239)
-SER:   100.000% (        31 /         31)
