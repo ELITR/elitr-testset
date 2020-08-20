@@ -16,12 +16,13 @@ if [ -f "$filename" ]; then
 fi
 
 
-# remove old run2transcript.tsk file
-if [ -f run2transcript.tsk ]; then
-  rm -rf run2transcript.tsk
+# remove old run2transcript-${FROM_S}.tsk file
+FROM_S=${lang^^}
+if [ -f run2transcript-${FROM_S}.tsk ]; then
+  rm -rf run2transcript-${FROM_S}.tsk
   else
-    touch run2transcript.tsk
-    chmod a+x run2transcript.tsk
+    touch run2transcript-${FROM_S}.tsk
+    chmod a+x run2transcript-${FROM_S}.tsk
 
 fi
 
