@@ -6,7 +6,7 @@ if [ $# -ne 1 ]; then
     exit
 fi
 PRE=$1
-for i in $(find $PRE -maxdepth 10 -type f -name "*.mp3" -o -name "*.aac"); do
+for i in $(find $PRE -maxdepth 10 -type f -name "*.mp3" -o -name "*.aac" -o -name "*.mp4"); do
     echo $i
     bname=$(basename $i)
 #    echo $bname

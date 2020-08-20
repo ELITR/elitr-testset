@@ -32,7 +32,7 @@ output_file=${output_dir}/${OP_FP}/${filename}.pvlogs/${filename}.MT${OP_FP:0:2}
 stdbuf -oL ./textclient -p 4448 -f ${IP_FP} -i ${OP_FP} < ${source_file} > $output_file
 
 # Generate readable transcripts for the above translations made
-if [[ $OP_FP == *"rb-EU"* ]]; then
+if [[ $OP_FP == *"rb"* ]]; then
   ## Works only for rainbow workers
   IFS=''
   while read line; do

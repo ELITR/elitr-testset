@@ -50,6 +50,7 @@ for k in "${langs_set[@]}"; do
 
       for file in "${files_found[@]}"; do
         echo "./text2text.sh ${ip_fp} ${op_fp} ${file}" >> only-${k}-2-${op_fp}-mt.flist
+        chmod a+x only-${k}-2-${op_fp}-mt.flist
       done
     done
   fi
