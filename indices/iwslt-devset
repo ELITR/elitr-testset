@@ -61,6 +61,7 @@ elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-02_autocentrum-
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.ass
+elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.IScs.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.json
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.OS.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.OSt
@@ -68,5 +69,4 @@ elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.OS
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.en.TTde
-elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.IScs.en.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/auditing-portuguese.mkv
