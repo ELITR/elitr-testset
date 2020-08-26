@@ -2,8 +2,8 @@
 
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.ass
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.json
-elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.mkv.link
-elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.mp3
+elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.OS.mkv.link
+elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.OS.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.OSt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.OStt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.TTcs
@@ -12,8 +12,8 @@ elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.TTde
 
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.ass
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.json
-elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.mkv.link
-elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.mp3
+elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.OS.mkv.link
+elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.OS.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.OSt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.OStt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.TTcs
@@ -22,8 +22,8 @@ elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.TTde
 
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.ass
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.json
-elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.mkv.link
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.mp3
+elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.OS.mkv.link
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.OSt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.OStt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.TTcs
@@ -33,7 +33,7 @@ elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001c.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001d.en.ass
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001d.en.json
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001d.en.mkv.link
-elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001d.en.mp3
+elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001d.en.OS.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001d.en.OSt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001d.en.OStt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001d.en.TTcs

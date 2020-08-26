@@ -18,3 +18,5 @@ cd "${0%/*}/.."
 #these are indexes grouped by language, domain, data-types, etc. They extract from simple indexes
 ./scripts/asr-any-language-any-domain.sh
 ./scripts/asr-czech-any-domain.sh
+./scripts/asr-english-any-domain.sh
+./scripts/asr-english-auditing.sh
