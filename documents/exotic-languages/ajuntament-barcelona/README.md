@@ -6,6 +6,6 @@ source:
     english: https://ajuntament.barcelona.cat/estrategiaifinances/en/general-account-report-and-financial-reports (Barcelona City Council annual financial statements 2017 (PDF))  
 files:  
     *.pdf - original files, downloaded from the Barcelona city council website (see links above)  
-    *.validated. - extracted raw text files, manually checked and aligned  
+    *.en, *.es - extracted raw text files, manually checked and aligned  
 sentence count: 842  
 state: finished, ready for use  

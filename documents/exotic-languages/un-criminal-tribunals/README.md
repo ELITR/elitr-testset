@@ -5,6 +5,6 @@ source:
     english: https://www.irmct.org/en/news/statements-and-speeches - see  10 Dec 2014 President Meron’s address to the UN Security Council   
 files:  
     *.pdf - original files, downloaded from the website (see links above)  
-    *.validated. - extracted raw text files, manually checked and aligned  
+    *.en, ... - extracted raw text files, manually checked and aligned  
 sentence count: 230  
 state: finished, ready for use  
