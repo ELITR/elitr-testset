@@ -1,0 +1,60 @@
+Eehh.
+Good morning. 
+Eehh, welcome to the LangTools workshop. 
+Eh, on natural language processing and ehmm this time ehh because of the special circumstances eh the workshop is run remotely. 
+So I know that it's really hard it will be harder for you, eh as the participants of the workshop and it will be also little harder for us eh as the presenters because we will be in less touch with you.  
+Ehm ehm yeah. 
+So let me start with a quick introduction and em overview of the workshop and then my colleagues will proceed em with their presentations of the various of the various topics.
+So, you have just arrived to the workshop em called LangTools or language processing tools and it is a workshop devoted to automated processing of text and speech eeh with the goal eh to make this useful in your daily work, in your auditing practice. 
+So if you follow em the news then you know that artificial intelligence em has ehm is collecting successes accross all the various fields and finally it is em growing em up to the state eh where it can be useful for your eh daily practice and this workshop is eeeh the goal of the workshop is to explain to you where it can help and where you can expect ehm such help em in the coming years. 
+Em the computational linguistics eh is an area eh that eh builds together upon the research of languages em so linguistics, em mathematics and statistics and also computer science. 
+Eh and eh if you apply compu computational linguistics to some practical problems, then we usually call these results to belong to the natural language processing.
+I am sure you know some of these results em, so back then when em cell phones had their eehm nine keys eh on the hardware keyboard there was this faster method of text input called T9, that is something which has been abandoned a while ago already. 
+Eehm but what has not been abandoned is lack of eehm focus and and grammar errors eh that people make when typing, so text corrections methods are something which is an early application of computational linguistics and you know it ehm from everyday em text editors ehm when when the machine is processing the text, it has to fairly eem em eh i- it has to do a fair processing of a of the text eh content to analyse where there is an error. 
+Another area which you regularly use and you may not realise belongs to the computationaly linguistics field eh is an internet search eh or any text analytics, if you have vast volumes of text, eem and you need to process them automatically, then eem you will need eem methods from our field.
+Em and eeem what we are also illustrating hopefully today eh with eh automatic subtitling, eh all multilingual processing ee and speech processing belongs also to our area.
+So some of the demos will be devoted em to eee your ee experiments with ee the current tools for speech translation. 
+Ehm I would like to highlight ehh that eeh the importance of the field has been recognised by the European Union as well and ehm through many years eeehm the European Union has been sup has been supporting the field eh with various projects eh and eehm and gradually moving from the research area to the application area.
+Eee so ehh the European eh Union is trying to make natural language processing a commodity in the same sense as electricities, commodity, eeem or eh the transport becomes a commodity. 
+So one of the services that ehh all eh European countries eh can just apply for, all institutions in these countries can apply for is e-translation, eh which is eh service eh of translation of documents, so you simply upload word document and it w it will be translated eh by the machine translation system developed by the commission. 
+Which is a result of series of research projects and we have been part of those in in some cases. 
+And ehh the the difference of this system compared to other commercial services such as Google Translate or eh Microsoft Translator is that the data set on which it is trained is different, so it may be better suited for your legal style documents and also the data is not shipped overseas, and that's another benefit. 
+And eh eh of course it is for free for all European institutions. 
+Eh there is one important aspect that I need to highlight, eh so as you have noticed, we are researchers, we are not a company ehh and ehh and that means that we work on things that are still not quite finished. 
+So there is this scale called technology readiness level ehh TRL and eeh the various stages of the scale indicate how far eh is eh the technology from the core idea eehh over some prototypes or d designs and prototypes to the first eeh working ehh systems and finally ehh to the systems that are deployed on the market and that have many happy users. 
+So these TRL levels go from one to nine and eh it's important to know that we as researchers always work on the things that are still not finished.
+So normally we operate at the readiness levels between three and possibly seven, but not the nine. 
+So the the purpose of this workshop is not to show things that you can just buy somewhere eh in in in a system software shop.
+Ehh eem the work the purpose of the workshop is to show you technologies which are still under development and that will have their peaks in ehh two, three, five, ten years from now maybe. 
+Ehm yeah.
+So the benefit ehh of of this eh of this early ehh demonstration eh is that we can work together, and we can collect the feedback from you and we can also stear the research towards eh uses of system so that in such a way so they would be helpful for you in your daily practice.
+Eh, yep. 
+So that's the technology readiness level and there is still eh further important distinction to make, and that is whether ehh the particular technology is ready and and working for your eem your domain and your language or whether it is developed only in general.
+So eh the truth is, that most components of natural language processing systems these days are not programmed, they are trained or on the vast amounts of data. 
+And this training set-up means that you develop a generic system and you have to feed ehh and eeehm ehh so ehh you have a generic system ehh which is applicable to most languages and and most domains but you have to feed it with examples of how the system should behave on your particular domain and on your particular language pair.
+So that's the distinction between the method or model design and the in-domain training.
+So it takes years or decades eh to come up with a prototype was that with the system that eh provides the automatic speech recognition or machine translation.
+And then when you have this for one language pair,
+then it normally takes months to, to adapt it to a particular domain, or particular language pair.
+So that's the eh that's eeh an important fact to keep in mind.
+If you see something working, you still have to expect that it may not be out of the box ready for your eh set up, but it will not be too ehm long process, and it will not be too demanding to port it to eh, to your situation.
+So here is the overview of eh, of the program blocks of of the workshop.
+Ehh.
+You have just eh obtained a brief overview of ehm lang language processing tools in general.
+And we'll start with named entity recognition, which is one of the low level, uhm natural language processing tools.
+But it's still it still can be pretty useful in your in your practice.
+Then we'll go over something which is very fancy, automatic question answering eehm
+so this is something that doesn't really work.
+And then eh after a break, we'll have ehm a demonstration of machine translation and cross-lingual into information retrieval, uh, and also speech recognition and and speech translation.
+And eh after ehh these demonstrations, where you were always try to eh, and play around with uh, with the stools yourself.
+We will have a discussion, where we would like eh to collect a feedback from you.
+So we would like to know at the end, which of these tools was most useful for you, and which seems to be uh, the most beneficial for your uh, upcoming daily work.
+Eh, if there are any things in the tool that could be improved, or if there is something which is not needed at all.
+And maybe if you also can like think beyond the eh, the workshop itself beyond the demonstrations, what other tools would be useful.
+So think about the tasks that you do every day and think about ehm the problems that you repeatedly have to solve a and mention these, because that it no through this discussion between you and us, it is possible that will propose some totally new, eeh, eeh new tools that no one ever, eh, eh has seen before, um, and that can heavily eh speed up your your processing.
+So eh that is eh, that is the main summary of of this interaction.
+This workshop is not a presentation where we will be talking only and you will be listening.
+It will it will be a discussion, collaboration eh, to find the best tools for language processing, that can help you in your daily practice.
+So I am now eh, handing eh over the presentation to the colleague of mine, Vilem Zohar, who is doing a name consider coaching, and yeah he is not here.
+So let's skip that, right.
+And I'm handing over to question answering, ha ha, yeah.
