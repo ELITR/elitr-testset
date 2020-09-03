@@ -1,0 +1,65 @@
+Good morning, my name is Tomáš and I will tell you something about question answering.
+Now, imagine that you have a question and a really long document that probably contains the answer.
+In the old days, you would have to read through the document and find the answer yourself; in the near future the question answering technology will be able to find the answer for you.
+The technology readiness of this application is somewhere between six and seven, which means that it's almost ready to be prototyped in operational environment.
+Let me demonstrate a question answering system with a simple example.
+You can find the link to the example in your virtual work worksheet under question answering task one.
+Open the task one ?? so.
+Uhm.
+So if you click the link, it will lead you to this page, where you click default context and it will fill the context for you.
+You see that it's a aa uhhmmm paragraph of text about a conference, and now we can ask questions.
+So, eh let's ask eh when will the conference happen.
+Now you click submit query, and we see that the conference will be held on October 6th
+and 7th.
+Let's try another question, for example, who are the speakers.
+Several foreign experts have been invited.
+And some lecturers from FID will also speak as you see.
+And the final question for this part of the demonstration is how much does it cost. 
+Participation is free of charge.
+Now, notice that the the answer doesn't contain any words from the question.
+So, this is where question answering is eehm more sophisticated than a simple full text search.
+For the second task, ehm let's copy the text that you have already seen in the previous part of our ehm presentations.
+So, copy this text to the context area.
+And let's try the same questions ehmm that we were asking before. 
+So the first question was, who was audited.  
+Hm. 
+Hm hm hmm. 
+And this is not the right answer. 
+To je zajímavý, já mám pocit, že předtím to vodpovídalo správně.
+To není úplně špatně, ne? Jenom tam to není celý.
+Nee.
+Jo?-
+To je the audited entities were, the Ministry of Finance. 
+Tady vidím.
+Jo?
+Jo jo jo jo jo jo jo.
+Už to-
+Jo, dobře. 
+OK.
+Ty tam máš první otázku: "Who did the audits?"
+Jo, to bude ta chyba.
+No.
+Proto jsem zvyklej, že mi to píše v opačným-
+No, no, no.
+OK.
+Though.
+Zpátky-
+So, the first question was who did the audit?" The Division Two Department of State Budget Incomes and so on.
+Let's try another question. 
+Who was audited?
+The Ministry of Finance, and then Tax  Offices.
+And now the last question for this part of the demonstration is, when was it finished?
+OK, now you see that-
+Eehh.
+The system gave us a very long answer, almost the whole a context uhhmm text, probably because it wasn't sure which of the dates, the dates at the beginning or the date at the end is the correct one.
+This may seem like a deficiency, but it is in fact an advantage of this system.
+The computer is not thinking for you.
+And in case when it is not sure, like in this example, it will present you with broader options.
+So you are still the one who makes the decisions.
+You are the one who has to accept the final answer.
+And now, you will have a moment to try the system on your own, so you can try the default context, you can try this context about audits or you can take a random article from Wikipedia.
+Let's try something longer perhaps.
+OK. 
+You can copy the first few paragraphs, maybe. 
+And try to ask some questions. 
+And see if the systems comes up with the correct answer.

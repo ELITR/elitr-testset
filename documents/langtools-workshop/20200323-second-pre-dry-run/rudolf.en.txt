@@ -1,0 +1,116 @@
+Hello everyone.
+Um my name is Rudolf and I will show you another tool, coral called CLEAR, which stands for crosslingual information retrieval.
+The situation is, that you want to find some information, which is present in some audits.
+Now, in some cases this is easy.
+If this is audit by your Supreme audit institution, then you just use whatever system you have.
+And you look for this information, and you find it that it is probably easy.
+The problematic part is when you need to find some information, which is present in audits by some other Supreme audit institutions, which are probably written in different language, and maybe are not even uploaded to any database.
+So, this is probably easy if the audits are uploaded to Eurostat database with their English translations.
+And obviously, if you do speak English otherwise this is hard.
+So this is exactly where the place for our tool is, the the cross lingual information retrieval tool or CLEAR for short, can sort exactly these problems by eh allowing you to do the search in your own language.
+So if you speak Czech you just type your your query in Czech.
+You can find all this in any language uploaded to the database.
+So even if it's Estonian, for example, but still, the results get translated back to your own language.
+So you don't have to speak any Estonian.
+Now this is automatic translation.
+So in some cases, it's sufficient for finding out the information that you are interested in. 
+In other cases maybe the automatic translation is not good enough,
+but at least it helps you find the right documents, the right places in the documents, which you can then give to professional translators so that you get the real information that you need, and uhm the technical readiness level of CLEAR is around level six,
+so it is in the state of demos and prototypes.
+It is not deployed yet as far as I know.
+In the demo, we will see the tool eh for four languages, that means you can use the tool in English, Czech, German or French.
+And we have uploaded audits from two Supreme audit institutions, ehm em the Czech Supreme audit institution and Belgian Supreme audit institution. 
+Ehm, so the audits are in in Czech in French.
+Now, let me go eh to the demo. So please, ehh in the worksheet, you also have the link to the demo. 
+And the first task for us will be to find information about pension funds.
+As I said, ehh you can use any of these four languages.
+So whichever language you speak.
+You can try this language.
+Huh.
+Do you still see the screen?
+Yes. OK. So this is the demo.
+I will show it in English at first.
+Here you input your search query, in my case I want to look for pension funds, and you hit search. 
+And you can see a listing of documents that contain information about pension funds.
+Eehh you can see eh the titles of the documents in English.
+But actually, the first two documents are Czech documents, the third one is French. 
+Let's look into the first one for example. 
+Here you can see the original document, so the PDF in in Czech language.
+And here eh you see both, the Czech text and importantly, the automatic translation to your language and we cited English, so we see the translation in English.
+And you can see that there is some information on pension funds.
+We can try the same for example with with German.
+In German it would be penzions fonds.
+And now we see again some documents but in German.
+This one, for example, is in French originally, but em again you have the German translation of document here.
+Now.
+This was the the first task just to see the system.
+And now something ehm really for you where I want you to find out a specific piece of information.
+This will be ehh information on family reunification.
+In Belgium you can get visa for family reunification and I want you to find the information on how many Belgian visas were issued on the basis of family of family reunification in the year 2018.
+So please use any of the four languages and try to find this information, 
+and you should really eh figure out that there is one number, 
+which is the answer to the question.
+Please try to find this information.
+There is a problem. 
+I can't see anything. 
+I have only a blue screen.
+Uhuh.
+And for the others it works?
+For clari fami family reunification. 
+I don't know, maybe you have a typo possibly? 
+I don't know. 
+You can actually share probably your screen as well so that we can try to see what happens.
+Yes it's happens. 
+Can you see it? 
+Hmmmmm a a emm.
+I can't operate the screen when I am showing it.
+Uh. 
+I can't see it.
+Anyway.
+Uh.
+I can see it, but I do not know how to help.
+Uhm.
+Oh.
+Yes, search query the word family. 
+Uhm.
+Yes.
+A- and I don't get this. 
+Hm. 
+Maybe because I have different backing than you, I have different URL.
+Uhh.
+So, if you use the back up one, so the back up one is down, I think.
+There is, in the worksheet there are two links and the first one uhm works fine.
+And the second one is a backup, which just tends to fall actually.
+So it's not not a good backup after all.
+Good to know.
+Ok. So.
+Otherwise have you been able to find the number of the visas?
+Yes.
+No.
+So if we, if you look- me, too - for it.
+If you look for it in any language, you should be able to find eehh the information, which should be 13946 visas.
+OK?
+So, if you have that, then you're eh basically free to play with eh the the tool as the worksheet says or as you can see on the slide now.
+Eehh so feel free to look for other information that's interesting for you, like crime prevention or highway, or state budget, or any other information that you expect to find in the audits.
+And of course, as always feel free to ask our facilitators to help you.
+So if there are any more problems just ask or.
+So have you been able to find some information,  some audits?
+Yes, do do the documents in French and Czech have our linked topics. 
+Have what? 
+Do they have common topics?
+Because I was looking for a tractor-
+Hm.
+It was only in the Czech documents.
+Hmm. 
+Because there are no documents about them in French.
+Or in practice eh yeah that should be the same.
+But might be that the translation is different or the the term is different.
+I think there it was nothing about tractors in.
+Hm. 
+Maybe just they don't have any anything there.
+I don't know. 
+Like, if I look for water for example so I can see some documents from the Czech and from the Belgian institution.
+But obviously, like the documents are different, because the audit offices do different things but uhm in principle, if you look for things that both of the offices care for, like state budget then you should be able to find both, Czech and Belgian documents.
+Hm.
+The Czech version for the budget actually but there is French one as well.
+
