@@ -1,5 +1,9 @@
 #!/bin/bash
 
+'''
+Generate translations of given text document into all available languages.
+'''
+
 if [ $# -ne 4 ] ; then
     echo "usage: $0 <ip-fingerprint> <op-fingerprint> <input dir with logs> <dir containing reference transcripts>"
     exit

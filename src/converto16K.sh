@@ -1,5 +1,8 @@
 #!/bin/bash
-#This script convers all the wav files in a given dir into a 16K 256bit WAV files
+
+'''
+Recursively search for audio recordings of the format mp3, mp4, aac in the given directory and convert into a 16K 256bit WAV files.
+'''
 
 if [ $# -ne 1 ]; then
     echo "usage: $0 <full-path to input direcotry to be processed>"
