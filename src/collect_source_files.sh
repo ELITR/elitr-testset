@@ -1,5 +1,11 @@
 #!/bin/bash
 
+'''
+Search recursively for text based documents in the input dir and segregate them based on their language codes.
+It further creates necessary task files thereby getting a text document ready to be translated into multiple languages 
+using all available MT workers.
+'''
+
 if [ $# -ne 1 ] ; then
     echo "usage: $0 <source dir that contains all text-based translations>"
     exit

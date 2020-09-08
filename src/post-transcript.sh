@@ -1,5 +1,10 @@
 #!/bin/bash
 
+'''
+Generate readable transcripts from the ASR logs and also perform their realignmnet
+using manually transcriptions of the source speech recordings.
+'''
+
 if [ $# -ne 2 ] ; then
     echo "usage: $0 <input dir with logs> <dir containing reference transcripts>"
     exit

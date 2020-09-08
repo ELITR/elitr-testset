@@ -1,5 +1,9 @@
 #!/bin/bash
 
+'''
+Search recursively for WAV files in the given dir and prepare task files to generate ASR logs.
+'''
+
 if [ $# -ne 3 ]; then
     echo "usage: $0 <processing script eg. en.sh, es.sh, cs.sh> <full-path to input direcotry to be processed> <dataset name>"
     exit
@@ -25,8 +29,6 @@ if [ -f run2transcript-${FROM_S}.tsk ]; then
     chmod a+x run2transcript-${FROM_S}.tsk
 
 fi
-
-
 
 
 for i in $(find $PRE -maxdepth 10 -type f -name "*.wav"); do

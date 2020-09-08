@@ -1,5 +1,9 @@
 #!/bin/bash
 
+'''
+Generate transcripts of the text based documents as per the given MT fingerprint.
+'''
+
 if [ $# -ne 3 ] ; then
     echo "usage: $0 <ip-fingerprint> <op-fingerprint> <full path to text based translation file>"
     exit
