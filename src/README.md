@@ -35,9 +35,9 @@ Example-
 1.5 These readable ASR transcripts can now be processed further to perform the MT task and generate translations. Step 1.3 also created task files with name like `mt-EN-2-rb-EU_fromEN-en_to_41.tsk` and `mt-EN-2-cs-CZ.tsk`. As can be seen, the suffix of these files contains the output fingerprint of the MT worker. Execute each of these separately to generate translations from different MT workers in different languages. Once complete these translation transcripts are ready for evaluation.
 
 #### 2. Source- Text docs
-2.1 Collect all the text-based files that need to be translated. All such text-based documents follow a strict naming pattern where the document name is suffixed with its language code.
+2.1 Collect all the text documents that need to be translated. All such text documents follow a strict naming pattern where the document name is suffixed with its language code.
 ```
-usage: ./collect_source_files.sh <source dir that contains all text-based translations>
+usage: ./collect_source_files.sh <source dir that contains all text documents that needs translations>
 ``` 
 Example-
 ```
