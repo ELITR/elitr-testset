@@ -1,5 +1,7 @@
 # ELITR Test Set Language Scope
 
+## This table is now outdated. Up-to-date version: https://docs.google.com/spreadsheets/d/1j8DFWzQ7sWdGvdy5R9hILb1rGMAESGVzQojF4CyQnfA/edit?usp=sharing
+
 As outlined on http://elitr.eu/scope, ELITR needs to cover all EU and about 20
 other languages, the official languages of EUROSAI member countries.
 
