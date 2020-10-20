@@ -1,0 +1,408 @@
+Uvod u Standarde
+Interna revizija provodi se u različitim pravnim i kulturnim okruženjima; u organizacijama koje se razlikuju prema svrsi, veličini, složenosti i strukturi, a provode je osobe unutar organizacije ili izvan nje.
+Iako razlike mogu utjecati na praksu interne revizije u pojedinim okruženjima, usklađenost s Međunarodnim standardima za profesionalno obavljanje interne revizije (Standardima) nužna je kako bi interni revizori i funkcija interne revizije mogli ispuniti obveze u okviru svojih odgovornosti.
+Svrha je Standarda:
+Usmjeravati poštivanje obvezujućih elemenata Međunarodnog okvira profesionalnog djelovanja
+Osigurati okvir za provođenje i promoviranje širokog raspona usluga interne revizije koje pridonose stvaranju dodane vrijednosti
+Uspostaviti osnovu za ocjenu rada interne revizije
+Poticati unaprjeđenja procesa i poslovanja organizacije
+Standardi su skup na načelima utemeljenih obvezujućih zahtjeva koji se sastoje od:
+Navoda povezanih s ključnim zahtjevima za profesionalno obavljanje interne revizije te za ocjenu učinkovitosti provedbe koji su međunarodno primjenjivi na razini organizacije i pojedinca
+Tumačenja koja pojašnjavanju pojmove ili koncepte unutar Standarda
+Standardi, zajedno s Etičkim kodeksom, obuhvaćaju obvezujuće elemente Međunarodnog okvira profesionalnog djelovanja; stoga usklađenost s Etičkim kodeksom i Standardima predstavlja usklađenost s obvezujućim elementima Međunarodnog okvira profesionalnog djelovanja.
+Standardi uključuju pojmove čija su značenja navedena u Pojmovniku. Za ispravno razumijevanje i primjenu Standarda nužno je uzeti u obzir specifična značenja iz Pojmovnika. Štoviše, u Standardima se upotrebljavaju glagol „morati“ kako bi se naglasio bezuvjetan zahtjev i gagol „trebati“ u slučajevima kad se usklađenost očekuje osim ako na temelju profesionalne prosudbe okolnosti opravdavaju odstupanje.
+Standardi se sastoje od dvije osnovne kategorije: Standarda obilježja i Standarda izvođenja. Standardi obilježja odnose se na značajke organizacije i pojedinaca koji pružaju usluge interne revizije. Standardi izvođenja opisuju prirodu usluga interne revizije te navode kriterije kvalitete na temelju kojih se može mjeriti izvršenje tih usluga. Standardi obilježja i Standardi izvođenja primjenjuju se na sve usluge interne revizije.
+Standardi primjene nadovezuju se na Standarde obilježja i Standarde izvođenja tako što osiguravaju smjernice koje se primjenjuju na angažmane s izražavanjem uvjerenja (.A) ili savjetodavne usluge (.C).
+Angažmani s izražavanjem uvjerenja uključ uju objektivnu ocjenu dokaza koju donosi interni revizor kako bi mogao izraziti mišljenje ili zaključak o subjektu, poslovanju, funkciji, procesu, sustavu ili drugom predmetu revizije. Prirodu i opseg angažmana s izražavanjem uvjerenja određuje interni revizor. Općenito, tri su strane sudionici angažmana s izražavanjem uvjerenja: (1) osoba ili grupa koja je neposredno povezana sa subjektom, poslovanjem, funkcijom, procesom, sustavom ili drugim područjem od interesa – vlasnik procesa, (2) osoba ili grupa koja provodi procjenu – interni revizor i (3) osoba ili grupa koja se koristi rezultatom procjene – korisnik.
+Usluge savjetovanja po svojoj su prirodi savjetodavne i u načelu se provode na poseban zahtjev klijenta. Priroda i opseg savjetodavnog angažmana predmet su dogovora s klijentom. Savjetodavne usluge u načelu uključuju dvije strane: (1) osobu ili grupu koja nudi savjet – interni revizor i (2) osobu ili grupu koja traži i dobiva savjet – klijent. Prilikom pr užanja savjetodavnih usluga interni revizor trebao bi zadržati objektivnost i ne preuzimati na sebe odgovornosti menadžmenta.
+Standardi se primjenjuju na interne revizore kao pojedince i na funkciju interne revizije. Svi interni revizori odgovorni su za usklađenost sa standardima koji se odnose na individualnu objektivnost, stručnost i dužnu profesionalnu pažnju, kao i sa standardima važnima za obavljanje posla u skladu s njihovim odgovornostima. Glavni revizori su dodatno odgovorni za sveukupnu usklađenost funkcije interne revizije sa Standardima.
+Ako zakon ili propisi zabranjuju internim revizorima ili funkciji interne revizije postupanje u skladu s nekim dijelovima Standarda, nužna je usklađenost sa svim ostalim dijelovima Standarda, kao i odgovarajuća objava neusklađenosti.
+Ako se Standardi primjenjuju zajedno sa zahtjevima koje propisuju ostala nadležna tijela, interna revizija može navesti i ostale zahtjeve, gdje je primjenjivo. U takvim slučajevima, ako funkcija interne revizije navodi usklađenost sa Standardima, a postoji neusklađenost između Standarda i ostalih zahtjeva, interni revizori i funkcija interne revizije moraju biti usklađeni sa Standardima, a mogu biti usklađeni i s ostalim zahtjevima ako su restriktivniji.
+Pregled i razvoj Standarda stalan je proces. Međunarodni odbor za standarde interne revizije održava sveobuhvatne konzultacije i raspravu prije izdavanja Standarda. To uključuje prikupljanje javnih komentara na nacrt Standarda iz cijelog svijeta. Svi nacrti objavljeni su na internetskoj stranici globalnog Instituta internih revizora (IIA), kao i dostavljeni svim lokalnim institutima internih revizora.
+Prijedlozi i komentari u vezi sa Standardima mogu se poslati na adresu: The Institute of Internal Auditors 1035 Greenwood Blvd., Suite 401 Lake Mary, FL 32746, U.S.A.
+E-pošta: guidance@theiia.org Web: www.globaliia.org
+MEĐUNARODNI STANDARDI ZA PROFESIONALNO OBAVLJANJE INTERNE REVIZIJE (STANDARDI)
+Standardi obilježja
+1000 – Svrha, ovlasti i odgovornost
+Svrha, ovlašćenja i odgovornosti funkcije interne revizije moraju se formalno definirati u povelji interne revizije, koja mora biti u skladu s misijom interne revizije i obvezujućim elementima Međunarodnog okvira profesionalnog djelovanja (Osnovni principi profesionalnog obavljanja interne revizije, Etički kodeks, Standardi i Definicija interne revizije).
+Glavni revizor mora povremeno preispitati sadržaj povelje interne revizije i podnijeti je na odobrenje višem menadžmentu i odboru.
+Tumačenje: povelja interne revizije formalni je dokument koji definira svrhu, ovlaštenja i odgovornost funkcije interne revizije. Povelja interne revizije utvrđuje položaj funkcije interne revizije unutar organizacije, uključujući odnos glavnog revizora i odbora s obzirom na funkcionalno izvještavanje, ovlašćuje funkciju interne revizije za pristup podacima, osoblju i imovini važnima za obavljanje angažmana te definira obim rada funkcije interne revizije. Odbor je odgovoran za konačno odobrenje povelje interne revizije.
+1000.A1 – Priroda usluga angažmana s izražavanjem uvjerenja koje se pružaju organizaciji mora biti definirana poveljom interne revizije. Ako se angažman s izražavanjem uvjerenja pruža trećim stranama, priroda takvih angažmana mora također biti definirana u povelji interne revizije.
+1000.C1 – Priroda savjetodavnih usluga mora biti definirana u povelji interne revizije.
+1010 – Priznavanje obvezujućih smjernica u povelji interne revizije
+Obvezujuća priroda Osnovnih principa profesionalnog obavljanja interne revizije, Etičkog kodeksa, Standarda i Definicije interne revizije mora biti prepoznata u povelji interne revizije. Glavni revizor trebao bi raspraviti o misiji interne revizije iobvezujućim elementima Međunarodnog okvira profesionalnog djelovanja s višim menadžmentom i odborom.
+1100 – Nezavisnost i objektivnost
+Funkcija interne revizije mora biti nezavisna, a interni revizori moraju biti objektivni u obavljanju svojeg posla.
+Tumačenje:
+Nezavisnost znači nepostojanje uvjeta koji ugrožavaju sposobnost funkcije interne revizije za obavljanje dužnosti interne revizije na nepristran način. Da bi se postigao stepen nezavisnosti potreban za djelotvorno ispunjavanje odgovornosti funkcije interne revizije, glavni revizor mora imati direktan i neograničen pristup višem menadžmentu i odboru, što se može postići dvojnim izvještavanjem. Prijetnjama nezavisnosti mora se upravljati na nivou pojedinog revizora, angažmana, kao i na funkcionalnim i organizacijskim nivoima.
+Objektivnost je nepristran mentalni stav koji omogućava internim revizorima obavljanje angažmana tako da vjeruju u rezultat svog rada te da nisu učinjeni nikakvi kompromisi u pogledu kvalitete rada. Objektivnost zahtijeva od internih revizora da svoje mišljenje po pitanjima revizije ne podređuju mišljenjima drugih. Prijetnjama objektivnosti mora se upravljati na nivou pojedinog revizora, angažmana, kao i na funkcionalnim i organizacijskim nivoima.
+1110 – Organizacijska nezavisnost
+Glavni revizor mora odgovarati nivou unutar organizacije koja omogućuje funkciji interne revizije ispunjavanje odgovornosti. Glavni revizor mora najmanje jednom godišnje potvrditi odboru organizacijsku nezavisnost funkcije interne revizije.
+Tumačenje:
+Organizacijska nezavisnost efikasno se postiže kada glavni revizor funkcionalno odgovara odboru. Primjeri funkcionalnog odgovaranja odboru uključuju da odbor:
+Odobrava povelju interne revizije
+Odobrava plan interne revizije temeljen na rizicima
+Odobrava budžet interne revizije i plan resursa
+Prima izvještaje glavnog revizora o radnom efektu funkcije interne revizije u odnosu na plan i ostala pitanja
+Odobrava odluke o imenovanju i razrješenju glavnog revizora
+Odobrava primanja glavnog revizora
+Postavlja odgovarajuće upite menadžmentu i glavnom revizoru kako bi se utvrdilo postoji li neprimjereno ograničenje djelokruga ili resursa.
+1110.A1 – Funkcija interne revizije mora biti oslobođena uticaja kod određivanja djelokruga rada interne revizije, provođenja angažmana i priopćavanja rezultata. Glavni revizor mora obavijestiti odbor o takvim uticajima i raspraviti o mogućim posljedicama.
+1111 – Izravna interakcija s odborom
+Glavni revizor mora komunicirati s odborom i biti s njime u izravnoj interakciji.
+1112 – Uloge glavnog revizora izvan interne revizije
+U slučaju da glavni revizor ima ili se očekuje da će imati ulogu i/ili odgovornosti koje su izvan interne revizije, moraju se uspostaviti mjere zaštite kako bi se ograničilo narušavanje nezavisnosti ili objektivnosti.
+Tumačenje:
+Od glavnog revizora može se zatražiti da preuzme dodatne uloge i odgovornosti izvan interne revizije, kao što su odgovornost za usklađenost ili aktivnosti upravljanja rizicima. Te uloge i odgovornosti mogu narušiti ili djelovati kao da narušavaju organizacijsku nezavisnost funkcije interne revizije ili objektivnost pojedinog internog revizora. Mjere zaštite one su nadzorne aktivnosti, koje odbor često poduzima, čija je svrha rješavanje potencijalnih narušavanja nezavisnosti te mogu uključivati aktivnosti poput povremenog procjenjivanja odgovornosti i linija izvještavanja te razvoja alternativnih postupaka u svrhu dobivanja uvjerenja povezanih s područjima dodatnih odgovornosti.
+1120 – Individualna objektivnost
+Interni revizori moraju imati nepristran, objektivan stav i izbjegavati svaki sukob interesa.
+Tumačenje:
+Sukob interesa jest situacija u kojoj su profesionalni i lični interes internog revizora, kao osobe od povjerenja, suprotni. Takvi suprotni interesi mogu otežati nepristrano ispunjenje njegovih dužnosti. Sukob interesa postoji čak i ako ne dođe do neetičnog ili nedoličnog djelovanja. Sukob interesa može stvoriti dojam nedoličnosti koji može narušiti povjerenje u internog revizora, funkciju interne revizije i profesiju u cjelini. Sukob interesa može narušiti sposobnost pojedinca da objektivno ispunjava svoje dužnosti i odgovornosti.
+1130 – Narušavanje nezavisnosti ili objektivnosti 
+Ako dođe do stvarnog ili prividnog narušavanja nezavisnosti ili objektivnosti, odgovarajuće strane moraju biti obaviještene o detaljima takvog narušavanja. Priroda takve objave ovisit će o samom narušavanju.
+Tumačenje:
+Narušavanje organizacijske nezavisnosti i individualne objektivnosti može uključivati osobni sukob interesa, ograničenje obima rada, ograničenje pristupa podacima, osoblju i fizičkim lokacijama te ograničenje resursa poput financijskih sredstava, ali nije ograničeno samo na to.
+Određivanje odgovarajućih strana koje se mora obavijestiti o pojedinostima narušavanja nezavisnosti ili objektivnosti zavisi od očekivanja od funkcije interne revizije te odgovornostima glavnog revizora prema višem menadžmentu i odboru, kako je definirano poveljom interne revizije, te o prirodi narušavanja.
+1130.A1 – Interni revizori moraju se suzdržati od procjene određenih područja poslovanja za koja su prethodno bili odgovorni. Smatra se da je objektivnost narušena ako interni revizor pruža usluge angažmana s izražavanjem uvjerenja za aktivnost za koju je bio odgovoran tokom prethodne godine.
+1130.A2 – Angažmane s izražavanjem uvjerenja za funkcije za koje je glavni revizor odgovarao mora nadgledati osoba izvan funkcije interne revizije.
+1130.A3 – Funkcija interne revizije može pružati usluge angažmana s izražavanjem uvjerenja za područja gdje je prethodno pružala savjetodavne usluge pod uvjetom da priroda savjetovanja ne narušava objektivnost te pod uslovom da se individualna objektivnost uzima u obzir prilikom određivanja resursa za provođenje angažmana.
+1130.C1 – Interni revizori mogu pružati savjetodavne usluge koje se odnose na područja poslovanja za koje su prethodno bili odgovorni.
+1130.C2 – Ako postoji mogućnost narušavanja nezavisnosti ili objektivnosti internih revizora u odnosu na savjetodavne usluge, o tome se prije prihvaćanja angažmana mora obavijestiti klijenta koji je zatražio uslugu.
+1200 – Stručnost i obavezna profesionalna pažnja
+Angažmani moraju biti obavljeni stručno i uz obaveznu profesionalnu pažnju.
+1210 – Stručnost
+Interni revizori moraju posjedovati znanja, vještine i ostale kompetencije potrebne za ispunjavanje pojedinačnih odgovornosti. Funkcija interne revizije, u kolektivnom smislu, mora posjedovati ili steći znanja, vještine i ostale kompetencije potrebne za ispunjavanje pojedinačnih odgovornosti.
+Tumačenje:
+Stručnost je ukupni pojam koji se odnosi na znanja, vještine i druge kompetencije potrebne internim revizorima kako bi efikasno obavljali svoje profesionalne odgovornosti. Obuhvata razmatranje trenutnih aktivnosti, trendova i novonastalih situacija, kako bi se omogućilo davanje odgovarajućih savjeta i preporuka. Interne revizore podstiče se na dokazivanje stručnosti sticanjem odgovarajućih profesionalnih certifikata i kvalifikacija, poput titule ovlaštenoga internog revizora (CIA) i ostalih certifikata koje nudi Institut internih revizora (IIA) i druge odgovarajuće profesionalne organizacije.
+1210.A1 – Glavni revizor mora osiguratii stručan savjet i pomoć ako internim revizorima nedostaju znanja, vještine i ostale kompetencije koje su potrebne za obavljanje cijelog angažmana ili njegova dijela.
+1210.A2 – Interni revizori moraju posjedovati dovoljan stepen znanja za procjenu rizika od prevare i načina na koji organizacija njime upravlja, ali ne očekuje se da posjeduju stručnost kao osoba čija je glavna odgovornost otkrivanje i istraživanje prevare.
+1210.A3 – Interni revizori moraju posjedovati dovoljno znanja o ključnim rizicima i kontrolama informatičke tehnologije te o dostupnim revizijskim tehnikama osnovanim na tehnologiji za obavljanje posla koji im je povjeren. Međutim, ne očekuje se od svih internih revizora posjedovanje stručnosti internog revizora čija je primarna odgovornost revizija informacijskih sistema.
+1210.C1 – Glavni revizor mora odbiti pružanje savjetodavnih usluga ili pribaviti stručan savjet i pomoć ako internim revizorima nedostaju znanja, vještine i ostale kompetencije koje su potrebne za obavljanje cijelog angažmana ili njegova dijela.
+1220 – Obavezna profesionalna pažnja
+Interni revizori moraju postupati s pažnjom i primjenjivati vještine koje se očekuju od razumno opreznog i stručnog internog revizora. Obavezna profesionalna pažnja ne podrazumijeva nepogrešivost.
+1220.A1 – Interni revizori moraju postupati s obaveznom profesionalnom pažnjom uzimajući u obzir:
+Obim posla potrebnog za ispunjenje ciljeva angažmana
+Relativnu složenost, materijalnost ili važnost područja na koja se primjenjuju procedure angažmana s izražavanjem uvjerenja
+Primjerenost i efikasnost korporativnog upravljanja, upravljanja rizicima i kontrolnih procesa
+Vjerovatnost pojave večih grešaka, prijevare ili neusklađenosti
+Trošak angažmana s izražavanjem uvjerenja u odnosu na moguću korist.
+1220.A2 – Prilikom postupanja s obaveznom profesionalnom pažnjom, interni revizori moraju razmotriti primjenu revizijskih tehnika zasnovanih na tehnologiji te ostalih tehnika analize podataka.
+1220.A3 – Interni revizori moraju obratiti pažnju na ključne rizike koji bi mogli uticati na ciljeve, poslovne aktivnosti ili resurse. Međutim, procedure angažmana s izražavanjem uvjerenja, čak i kada se provode uz dužnu profesionalnu pažnju, ne garantuju da će ključni rizici biti uočeni.
+1220.C1 – Interni revizori moraju postupati s obaveznom profesionalnom pažnjom tokom savjetodavnih angažmana uzimajući u obzir:
+Potrebe i očekivanja klijenata, uključujući prirodu, vrijeme i saopštavanje rezultata angažmana.
+Relativnu složenost i obim posla potrebnog za ispunjenje ciljeva angažmana.
+Trošak savjetodavnog angažmana u odnosu na moguću korist.
+1230 – Kontinuirani profesionalni razvoj
+Interni revizori moraju unaprjeđivati svoja znanja, vještine i ostale kompetencije kroz kontinuirani profesionalni razvoj.
+1300 – Program osiguranja kvalitete i unaprjeđenja
+Glavni revizor mora izraditi i održavati program osiguranja kvalitete i unaprjeđenja koji obuhvaća sve vidove funkcije interne revizije.
+Tumačenje:
+Program osiguranja kvalitete i unaprjeđenja osmišljen je tako da omogućava procjenu usklađenosti funkcije interne revizije sa Standardima te procjenu pridržavaju li se interni revizori Etičkog kodeksa. Program također služi za procjenu efikasnosti i efektivnosti funkcije interne revizije te identificiranje mogućnosti za unaprjeđenje. Glavni revizor trebao bi podržavati nadzor odbora nad programom osiguranja kvalitete i unaprjeđenja.
+1310 – Zahtjevi programa osiguranja kvalitete i unaprjeđenja
+Program osiguranja kvalitete i unaprjeđenja mora uključivati i interna i eksterna procjenjivanja.
+1311 – Interne procjene
+Interne procjene moraju uključivati:
+Kontinuirano praćenje uspješnosti funkcije interne revizije
+Povremene samoprocjene procjene koje obavljaju druge osobe unutar organizacije s dovoljnim stepenom znanja o praksama interne revizije.
+Tumačenje:
+Kontinuirano praćenje komponenti je svakodnevni nadzor, pregled i mjerenja aktivnosti funkcije interne revizije. Kontinuirano praćenje ugrađeno je u uobičajene politike i načine upravljanja funkcijom interne revizije, a koristi se procesima, alatima i informacijama koje se smatraju potrebnima za procjenu usklađenosti s Etičkim kodeksom i Standardima.
+Povremene procjene provode se radi procjene usklađenosti s Etičkim kodeksom i Standardima.
+Dovoljan stepen znanja o praksi interne revizije podrazumijeva u najmanju ruku razumijevanje svih elemenata Međunarodnog okvira profesionalnog djelovanja.
+1312 – Eksterne procjene
+Barem jednom u pet godina kvalificiran nezavisan procjenitelj ili procjeniteljski tim izvan organizacije moraju provesti eksternu procjenu. Glavni revizor mora s odborom raspraviti o sljedećim pitanjima:
+oblik i frekvencija eksterne procjene
+kvalifikacije i nezavisnost eksternog procjenitelja ili procjeniteljskog tima, uključujući i potencijalni sukob interesa.
+Tumačenje:
+Eksterne procjene mogu biti ostvarene kroz potpunu eksternu procjenu ili kroz samoprocjenu s nezavisnom eksternom potvrdom. Eksterni procjenitelj mora donijeti zaključke u skladu s Etičkim kodeksom i Standardima; eksterna procjena također može uključivati operativne i strateške komentare.
+Kvalificirani procjenitelj ili procjenjivački tim pokazuju kompetentnost u dva područja: u profesionalnom obavljanju interne revizije i u postupcima eksternih procjena. Kompetentnost se može pokazati kombinacijom iskustva i teorijskog znanja. Iskustvo stečeno u  organizacijama slične veličine, složenosti, sektora ili djelatnosti i tehničke problematike vrjednije je od iskustva koje je manje relevantno. U slučaju procjenjivačkog tima, ne moraju svi članovi tima posjedovati sve kompetencije; tim kao cjelina mora biti kvalificiran. Glavni revizor primjenjuje profesionalnu procjenu kad procjenjuje pokazuju li procjenitelj ili procjenjivački tim dovoljnu kompetentnost da bi se smatrali kvalificiranima.
+Pojam „nezavisan procjenitelj ili procjenjivački tim“ znači da ne postoji stvaran ili prividan sukob interesa te da nije dio organizacije ili pod kontrolom organizacije kojoj pripada funkcija interne revizije. Glavni revizor trebao bi podržavati nadzor odbora nad eksternim procjenama kako bi se smanjio prividan ili potencijalan sukob interesa.
+1320 – Izvještavanje o programu osiguranja kvalitete i unaprjeđenja
+Glavni revizor mora saopčiti rezultate programa osiguranja kvalitete i unaprjeđenja višem menadžmentu i odboru. Objava bi trebala uključivati:
+obim i učestalost internih i eksternih procjena
+kvalifikacije i nezavisnost procjenitelja ili procjeniteljskog tima, uključujući i potencijalni sukob interesa
+zaključke procjenitelja 
+planove korektivnih mjera.
+Tumačenje:
+Oblik, sadržaj i učestalost saopčenja rezultata programa osiguranja kvalitete i unaprjeđenja definirani su u saradnji s višim menadžmentom i odborom te uzimaju u obzir odgovornosti funkcije interne revizije i glavnog revizora u skladu s poveljom interne revizije. U svrhu demonstriranja usklađenosti s Etičkim kodeksom i Standardima, rezultati eksternog i povremenog internog procjenjivanja saopčavaju se nakon završetka takvih procjena, a rezultati kontinuiranog praćenja saopčavaju se najmanje jednom godišnje. Rezultati uključuju procjene stepena usklađenosti koje je obavio procjenitelj ili procjenjivački tim.
+1321 – Navođenje „u skladu s Međunarodnim standardima za profesionalno obavljanje interne revizije“
+Navođenje da je funkcija interne revizije „u skladu s Međunarodnim standardima za profesionalno obavljanje interne revizije“ prikladno je jedino ako je potkrijepljeno rezultatima programa osiguranja kvalitete i unaprjeđenja.
+Tumačenje:
+Funkcija interne revizije u skladu je s Etičkim kodeksom i Standardima ako postiže rezultate opisane u tim dokumentima. Rezultati programa osiguranja kvalitete i unaprjeđenja uključuju rezultate i internog i eksternog procjenjivanja. Sve funkcije interne revizije imat će rezultate internog procjenjivanja. Funkcije interne revizije koje postoje najmanje pet godina imat će i rezultate eksternog procjenjivanja.
+1322 – Objava neusklađenosti
+Kada neusklađenost s Etičkim kodeksom ili Standardima ima utjecaj na cjelokupni obim ili funkcioniranje funkcije interne revizije, glavni revizor mora obavijestiti menadžment i odbor o neusklađenosti te njezinim posljedicama.
+Standardi izvođenja
+2000 – Upravljanje funkcijom interne revizije
+Glavni revizor mora efikasno upravljati funkcijom interne revizije kako bi osigurao njezin doprinos stvaranju dodane vrijednosti za organizaciju.
+Tumačenje:
+Funkcijom interne revizije efikasnoo se upravlja:
+ako postiže svrhu i odgovornost iz povelje o internoj reviziji
+ako je usklađena sa Standardima
+ako pojedinci koji su dio interne revizije postupaju u skladu s Etičkim kodeksom i Standardima
+ako uzima u obzir trendove i novonastale situacije koje bi mogle imati uticaj na organizaciju.
+Funkcija interne revizije dodaje vrijednost organizaciji i njezinim dionicima kada razmatra strategije, ciljeve i rizike, nastoji predložiti načine unaprjeđenja korporativnog upravljanja, upravljanja rizicima i kontrolnih procesa te objektivno pružiti relevantno uvjerenje.
+2010 – Planiranje
+Glavni revizor mora utvrditi planove koji se zasnivaju na procjeni rizika kako bi se odredili prioriteti funkcije interne revizije koji su konzistentni ciljevima organizacije.
+Tumačenje:
+Kako bi izradio plan temeljen na procjeni rizika, glavni se revizor savjetuje s višim menadžmentom i odborom te stiče razumijevanje o strategijama organizacije, ključnim poslovnim ciljevima, povezanim rizicima i procesima upravljanja rizicima. Kada je potrebno, glavni revizor mora preispitati i prilagoditi plan kao odgovor na promjene poslovanja organizacije, rizika, aktivnosti, programa, sistema i kontrola.
+2010.A1 – Plan angažmana funkcije interne revizije mora se bazirati na dokumentiranoj procjeni rizika koja se provodi barem jednom godišnje. Tokom tog procesa moraju biti uzete u obzir ulazne informacije prikupljene od višeg menadžmenta i odbora.
+2010.A2 – Glavni revizor mora identificirati i razmotriti očekivanja višeg menadžmenta, odbora i ostalih dioničara u pogledu mišljenja interne revizije i drugih zaključaka.
+2010.C1 – Glavni revizor trebao bi razmotriti prihvaćanje predloženih savjetodavnih angažmana na osnovu mogućnosti za unaprjeđenje upravljanja rizicima, stvaranja dodane vrijednosti i unaprjeđenja poslovanja organizacije. Prihvaćeni angažmani moraju biti uključeni u plan.
+2020 – Saopčenje i odobrenje
+Glavni revizor mora obavijestiti viši menadžment i odbor o planovima izvršenja funkcije interne revizije i potrebnim resursima, uključujući važne promjene do kojih je došlo u međuvremenu, kako bi ih mogli uzeti u obzir i odobriti. Obavijest mora uključivati i mogući uticaj ograničavanja resursa
+2030 – Upravljanje resursima
+Glavni revizor mora se pobrinuti da resursi interne revizije budu primjereni, dovoljni i efikasno raspoređeni,u svrhu ostvarenja odobrenog plana.
+Tumačenje:
+Pridjev „primjeren“ odnosi se na kombinaciju znanja, vještina i ostalih kompetencija potrebnih za izvođenje plana. Pridjev „dovoljan“ odnosi se na količinu resursa potrebnih za ostvarenje plana. Resursi su efikasno raspoređeni kada se upotrebljavaju tako da se odobreni plan ostvaruje na optimalan način.
+2040 – Politike i procedure
+Glavni revizor mora uspostaviti politike i procedure kojima se usmjerava funkcioniranje funkcije interne revizije.
+Tumačenje:
+Oblik i sadržaj politika i procedura zavise od veličine i strukture funkcije interne revizije i složenosti njenog posla.
+2050 – Koordinacija i oslanjanje
+Glavni revizor trebao bi podijeliti informacije, uskladiti aktivnosti te uzeti u obzir oslanjanje na posao ostalih internih i eksternih davaoca uvjerenja i savjetovanja kako bi osigurao primjerenu pokrivenost te ponavljanje sveo na najmanju moguću mjeru.
+Tumačenje:
+Pri koordiniranju aktivnosti glavni revizor može se osloniti na posao ostalih davaoca usluga angažmana s izražavanjem uvjerenja i savjetovanja. Trebao bi se utvrditi konzistentan proces kao temelj oslanjanja, a glavni revizor trebao bi razmotriti sposobnost, objektivnost i dužnu profesionalnu pažnju pružatelja usluga angažmana s izražavanjem uvjerenja i savjetovanja. Glavni revizor trebao bi također jasno razumjeti obim, ciljeve i rezultat posla koji su obavili ostali davaoci usluga angažmana s izražavanjem uvjerenja te savjetovanja. Pri oslanjanju na posao drugih, glavni revizor i dalje je nadležan i odgovoran za osiguranje odgovarajuće podrške zaključcima i mišljenju funkcije interne revizije.
+2060 – Izvještavanje višeg menadžmenta i odbora
+Glavni revizor mora periodično izvještavati viši menadžment i odbor o svrsi funkcije interne revizije, ovlastima, odgovornostima i ostvarenjima u odnosu na plan, kao i o njezinoj usklađenosti s Etičkim kodeksom i Standardima. Izvještavanje također mora uključivati pitanja ključnih rizika i kontrole, uključujući rizike prevare, pitanja korporativnog upravljanja te zahtijevaju pažnju višeg menadžmenta i/ili odbora.
+Tumačenje:
+Konzistentnost i sadržaj izvještavanja zajednički definišu glavni revizor, viši menadžment i odbor. Konzistentnost i sadržaj izvještavanja zavise od važnosti informacija koje je potrebno saopčiti te važnosti s time povezanih radnji koje treba poduzeti viši menadžment i/ili odbor.
+Izvještavanje glavnog revizora i saopčenje višem menadžmentu i odboru mora sadržavati informacije o:
+povelji interne revizije  
+nezavisnosti funkcije interne revizije
+planu revizije i stepenu ostvarenja plana
+potrebnim resursima 
+rezultatima revizijskih aktivnosti 
+usklađenosti s Etičkim kodeksom i Standardima, kao i akcijskim planovima u slučaju postojanja bitnih neusklađenosti
+odgovoru menadžmenta na rizik koji prema procjeni glavnog revizora može biti neprihvatljiv za organizaciju.
+Ovi i ostali zahtjevi povezani s saopčenjima glavnog revizora navedeni su u okviru Standarda.
+2070 - Eksterni davaoc usluga i organizacijska odgovornost za internu reviziju
+Kada eksterni izvršioc usluga djeluje kao funkcija interne revizije, izvršioc usluga mora dati na znanje organizaciji da ona snosi odgovornost za održavanje efikasne funkcije interne revizije.
+Tumačenje:
+Odgovornost se iskazuje kroz program osiguranja kvalitete i unaprjeđenja koji procjenjuje usklađenost s Etičkim kodeksom i Standardima.
+2100 – Priroda posla
+Funkcija interne revizije mora pridonositi unaprjeđenju upravljanja, upravljanja rizikom procesa unutar organizacije vrednovati i korporativnog te kontrolnih primjenjujući sistemski, discipliniran i na nivoima zasnovan pristup. Vjerodostojnost i vrijednost interne revizije povećani su kada su revizori proaktivni, a njihove procjene pružaju nove uvide i uzimaju u obzir budući uticaj.
+2110 – Korporativno upravljanje
+Funkcija interne revizije mora procijeniti i dati odgovarajuće preporuke za unaprjeđenje procesa korporativnog upravljanja na području:
+donošenja strateških i operativnih odluka 
+nadziranja upravljanja rizicima i kontrole
+promovisanja odgovarajućih etičkih i drugih vrijednosti unutar organizacije
+osiguravanja efikasnog upravljanja efektom i odgovornošću unutar organizacije 
+prenošenja informacija o rizicima i kontrolama odgovarajućim dijelovima organizacije
+koordinacije aktivnosti i prenošenja informacija između odbora, eksternih i internih revizora te ostalih izvršioca usluga angažmana s izražavanjem uvjerenja i menadžmenta.
+2110.A1 – Funkcija interne revizije mora procijeniti strukturu, provođenje i efikasnost ciljeva, programa i aktivnosti organizacije koje se odnose na etička pitanja.
+2110.A2 – Funkcija interne revizije mora procijeniti podržava li upravljanje informacijskom tehnologijom organizacije njezine strategije i ciljeve.
+2120 – Upravljanje rizicima
+Funkcija interne revizije mora procijeniti efikasnost procesa upravljanja rizicima i pridonijeti njihovu unaprjeđenju.
+Tumačenje:
+Pri utvrđivanju efikasnosti procesa upravljanja rizicima riječ je o procjeni koja proizlazi iz procjene internog revizora o sljedećem:
+podržavaju li ciljevi organizacije njezinu misiju i podudaraju li se s njom
+jesu li otkriveni i procijenjeni ključni rizici
+jesu li odabrani odgovori na rizike odgovarajući i usklađeni s apetitom rizika organizacije
+jesu li relevantne informacije o riziku utvrđene i pravovremeno saopčene unutar organizacije, omogućavajući tako zaposlenicima, menadžmentu odboru izvršenje dužnosti.
+Informacije potrebne za navedenu procjenu funkcija interne revizije može prikupiti tokom različitih revizijskih angažmana. Rezultati tih angažmana uzeti u obzir zajedno omogućavaju razumijevanje procesa upravljanja rizicima unutar organizacije i njihove efikasnosti.
+Procesi upravljanja rizicima prate se putem neprekidnih aktivnosti menadžmenta i/ili posebnih procjena.
+2120.A1 – Funkcija interne revizije mora procijeniti izloženost rizicima koji se odnose na korporativno upravljanje, poslovne aktivnosti i informacijske sisteme organizacije u pogledu:
+ispunjenja strateških ciljeva organizacije 
+pouzdanosti i integriteta financijskih i poslovnih informacija
+efikasnosti i efektivnosti poslovanja i programa
+zaštite imovine i 
+poštivanja zakona, propisa, politika, procedura i ugovora.
+2120.A2 – Funkcija interne revizije mora procijeniti mogućnost nastanka prevare i načina na koji organizacija upravlja rizikom prevare.
+2120.C1 – Tokom savjetodavnih angažmana interni revizori moraju posvetiti pažnju rizicima u skladu s ciljevima angažmana, ali i obratiti pažnju na postojanje ostalih ključnih rizika.
+2120.C2 – Interni revizori moraju ugraditi znanje o rizicima stečeno tijekom savjetodavnih angažmana u postupak procjene procesa upravljanja rizicima unutar organizacije.
+2120.C3 – Prilikom pružanja pomoći menadžmentu da ustanovi ili unaprijedi procese upravljanja rizicima,interni revizori ne smiju preuzimati na sebe odgovornosti menadžmenta u smislu stvarnog upravljanja rizicima.
+2130 – Kontrola
+Funkcija interne revizije mora pomoći organizaciji u održavanju efikasnih kontrola procjenom njihove efikasnosti i efektivnosti i promovisanjem stalnog unaprjeđenja.
+2130.A1 – Funkcija interne revizije mora procijeniti primjerenost i efikasnost kontrola pri odgovaranju na rizike u okviru korporativnog upravljanja, poslovanja i informacijskih sistema unutar organizacije. Trebala bi uključivati:
+ispunjenje strateških ciljeva organizacije 
+pouzdanost i integritet financijskih i operativnih informacija
+efikasnot i efektivnost poslovanja i programa
+zaštitu imovine
+poštivanje zakona, propisa, pravila, postupaka i ugovora.
+2130.C1 – Interni revizori moraju u procjenu kontrolnih procesa organizacije ugraditi saznanja o kontrolama stečena tijekom savjetodavnih angažmana.
+2200 – Planiranje angažmana
+Interni revizori moraju izraditi i dokumentirati plan za svaki angažman, uključujući ciljeve angažmana, obim, vrijeme i raspodjelu resursa. Planom moraju biti obuhvaćene strategije, ciljevi i rizici organizacije koji su relevantni za određeni angažman.
+2201 – Uvjeti planiranja
+Pri planiranju angažmana interni revizori u obzir moraju uzeti:
+Strategije i ciljeve aktivnosti koja je predmet interne revizije i sredstva sa pomoću kojih ta aktivnost vrši nadzor svog efekta rada
+Ključne rizike za ciljeve aktivnosti, resurse i poslovanje, kao i načine s pomoću kojih se mogući utjecaj rizika održava na prihvatljivom nivou
+Primjerenost i efikasnost korporativnog upravljanja, upravljanja rizikom i kontrolnih procesa u poređenju sa odgovarajućim okvirom ili modelom upravljanja
+Prilike za znatno unaprjeđenje korporativnog upravljanja, upravljanja rizikom i kontrolnih procesa
+2201.A1 – Prilikom planiranja angažmana za korisnike izvan organizacije interni revizori s njima moraju sklopiti pisani sporazum o ciljevima, obimu, pojedinačnim odgovornostima i ostalim očekivanjima, uključujući ograničenja distribucije rezultata angažmana te pristupa radnoj dokumentaciji angažmana.
+2201.C1 – Interni revizori moraju se s klijentima kojima pružaju usluge savjetovanja dogovoriti o ciljevima, obimu, pojedinačnim odgovornostima i ostalim očekivanjima klijenta. U slučaju većih angažmana takav dogovor mora biti dokumentiran.
+2210 – Ciljevi angažmana
+Za svaki angažman moraju se utvrditi ciljevi.
+2210.A1 – Interni revizori moraju provesti preliminarnu procjenu rizika koja je relevantna za aktivnost koja se provjerava. Ciljevi angažmana moraju pokazivati rezultate te procjene.
+2210.A2 – Interni revizori prilikom definiranja ciljeva angažmana moraju uzeti u obzir vjerojvatnoću većih grešaka, prevare, neusklađenosti i drugih izloženosti.
+2210.A3 – Za ocjenjivanje korporativnog upravljanja, upravljanja rizicima i kontrola potrebni su odgovarajući kriteriji. Interni revizori moraju utvrditi do koje je mjere menadžment i/ili odbor utvrdio odgovarajuć e kriterije za odlučivanje o tome jesu li postignuti neki zadaci i ciljevi. Ako su kriteriji odgovarajući, interni revizori moraju ih upotrijebiti u svom postupku ocjenjivanja, u suprotnom interni revizori moraju kroz razgovor s menadžmentom i/ili odborom odrediti odgovarajuće kriterije ocjenjivanja.
+Tumačenje:
+Vrste kriterija mogu obuhvatiti:
+interni (npr. politike i procedure organizacije)
+eksterni (npr. odredbe zakona i propisa koje su donijela zakonodavna tijela)
+vodeće prakse (npr. sektorske i strukovne smjernice).
+2210.C1 – Ciljevi savjetodavnih angažmana moraju obuhvatiti korporativno upravljanje, upravljanje rizicima i kontrolne procese u obimu dogovorenom s klijentom.
+2210.C2 – Ciljevi savjetodavnog angažmana moraju biti u skladu s vrijednostima, strategijama i ciljevima organizacije.
+2220 – Obim angažmana
+Utvrđeni obim mora biti dovoljan kako bi se ispunili ciljevi angažmana.
+2220.A1 – Obimom angažmana moraju biti obuhvaćeni odgovarajući sistemi, evidencije, osoblje i fizička imovina, uključujući one pod nadzorom trećih strana.
+2220.A2 – Ako se tokom angažmana izražavanja uvjerenja pruži dodatna prilika za savjetodavni angažman, treba zaključiti poseban pisani sporazum u pogledu ciljeva, obima, odgovornosti i ostalih očekivanja, a rezultate savjetodavnog angažmana treba saopčitiu skladu sa standardima za savjetovanje.
+2220.C1 - Tokom savjetodavnih angažmana interni revizori moraju se pobrinuti za to da obim angažmana bude dovoljan u odnosu na dogovorene ciljeve. Ako tokom angažmana interni revizori uvide neka ograničenja povezana s obimom, o tim ograničenjima moraju raspraviti s klijentom kako bi odlučili o nastavku angažmana.
+2220.C2 – Tokom savjetodavnih angažmana interni revizori moraju posvetiti pažnju kontrolama u skladu s ciljevima angažmana, ali i obratiti pažnjut na postojanje značajnih slabosti u kontrolama.
+2230 – Raspoređivanje resursa za angažman
+Interni revizori moraju odrediti odgovarajuće i dovoljne resurse za ostvarenje ciljeva angažmana zasnovano na procjeni prirode i složenosti svakog angažmana, vremenskih ograničenja i raspoloživih resursa
+Tumačenje:
+Pridjev „odgovarajući“ znači potrebnu kombinaciju znanja, vještina i drugih kompetencija za obavljanje angažmana. „Dostatan“ se odnosi na količinu resursa koji su potrebni da bi angažman bio dovršen primjenom obavezne profesionalne pažnje.
+2240 – Program rada angažmana
+Interni revizori moraju izraditi i dokumentirati programe rada na temelju kojih se ostvaruju ciljevi angažmana.
+2240.A1 – Programi rada moraju obuhvatiti postupke za utvrđivanje analiziranje, procjenjivanje i dokumentiranje informacija tijekom obavljanja angažmana. Program rada mora biti odobren prije provedbe, a sve prilagodbe moraju biti odobrene bez odgađanja.
+2240.C1 – Programi rada za savjetodavne angažmane mogu se razlikovati po sadržaju, ovisno o prirodi angažmana.
+2300 – Obavljanje angažmana
+Internirevizori moraju utvrditi, analizirati, procijeniti i dokumentirati dovoljno informacija za postizanje ciljeva angažmana.
+2310 – Utvrđivanje informacija
+Interni revizori moraju utvrditi informacije koje su dostatne, pouzdane, relevantne i korisne u svrhu postizanja ciljeva angažmana.
+Tumačenje:
+Dovoljne su informacije činjenične, odgovarajuće i uvjerljive tako da informirana osoba može doći do istih zaključaka kao i revizor. Pouzdane su informacije najbolje moguće informacije do kojih se može doći primjenom odgovarajućih tehnika angažmana. Relevantne informacije podupiru zapažanja i preporuke iz angažmana i u skladu su s ciljevima angažmana. Korisne informacije pomažu organizaciji u postizanju njezinih ciljeva.
+2320 – Analiza i procjena
+Interni revizori moraju svoje zaključke i rezultate angažmana bazirati na odgovarajućim analizama i procjenama.
+2330 – Dokumentovanje informacija
+Internirevizori moraju utvrditi, analizirati, procijeniti i dokumentirati dovoljno informacija za postizanje ciljeva angažmana.
+2330.A1 – Glavni revizor mora imati nadzor nad pristupom radnoj dokumentaciji o obavljenim angažmanima. Glavni revizor mora, prema potrebi, nabaviti odobrenje višeg menadžmenta i/ili pravnog savjetnika prije ustupanja takve dokumentacije trećim stranama.
+2330.A2 – Glavni revizor mora definisati zahtjeve koji se odnose na čuvanje radne dokumentacije o angažmanu, nezavisno o mediju na kojem je zapis sačuvan. Zahtjevi koji se odnose na čuvanje radne dokumentacije moraju biti u skladu sa smjernicama organizacije i svim obvezama proizišlima iz mjerodavnih regulatornih i drugih zahtjeva.
+2330.C1 – Glavni revizor mora izraditi politike koje uređuju nadziranje i čuvanje radne dokumentacije o angažmanu, kao i njihovo interno i eksterno distribuiranje. Te politike moraju biti u skladu sa smjernicama organizacije i svim obvezama koje proizilaze iz mjerodavnih regulatornih i drugih zahtjeva.
+2340 – Nadzor angažmana
+Provođenje angažmana mora se odgovarajuće nadzirati kako bi se garantovalo postizanje ciljeva te osigurala kvaliteta i razvoj uposlenika
+Tumačenje:
+Obim potrebnog nadzora zavisit će o stručnosti i iskustvu internih revizora te složenosti angažmana. Glavni revizor odgovoran je za cjelokupni nadzor angažmana, bez obzira na to obavlja li ga funkcija interne revizije ili se obavlja za nju, ali može imenovati članove funkcije interne revizije s odgovarajućim iskustvom za provođenje pregleda. Odgovarajuće dokaze o nadzoru potrebno je dokumentirati i čuvati.
+2400 – Saopčenje rezultata
+Interni revizori moraju priopćavati rezultate angažmana.
+2410 – Kriteriji priopćavanja
+U saopštenjima moraju biti navedeni ciljevi, obim i rezultati angažmana.
+2410.A1 – Završno saopčenje o rezultatima angažmana mora sadržavati primjenjive zaključke, kao i primjenjive preporuke i/ili akcijske planove. Tamo gdje je prikladno potrebno je uključiti i mišljenje internog revizora. Mišljenje mora uzeti u obzir očekivanja višeg menadžmenta, odbora i ostalih dioničara te mora biti potkrijepljeno dovoljnim, pouzdanim, relevantnim i korisnim informacijama.
+Tumačenje:
+Mišljenja na nivou angažmana mogu biti ocjene, zaključci ili drugi opisi rezultata. Može biti riječ o angažmanu koji se odnosi na kontrole nad određenim procesom, rizikom ili poslovnom jedinicom. Formulacija takvog mišljenja zahtijeva sagledavanje rezultata.
+2410.A2 – Interni revizori potiču se da u saopštenjima o angažmanu priznaju prepoznate zadovoljavajuće efekte.
+2410.A3 – Prilikom objave rezultata angažmana trećim stranama u saoptenjima se moraju navesti ograničenja u pogledu distribucije i upotrebe rezultata.
+2410.C1 – Saopštenja o toku i rezultatima savjetodavnih angažmana razlikovat će se oblikom i sadržajem zavisno od prirode angažmana i potrebama klijenta.
+2420 – Kvaliteta saopštenja
+Saopštenja moraju biti tačna, objektivna, jasna, jezgrovita, konstruktivna, potpuna i pravovremena.
+Tumačenje:
+Tačna saopčenja ne sadrže greške ni iskrivljene informacije te vjerodostojno odražavaju činjenice na kojima se temelje. Objektivna su saopčenja pravedna, nepristrana i oslob naklonosti te su rezultat pravične i uravnoteđenažene procjene svih ključnih činjenica i okolnosti. Jasna su saopčenja lako razumljiva i logična, izbjegavaju bespotreban stručni jezik i pružaju sve važne i svrsishodne informacije. Jezgrovita su saopčenja precizna i izbjegavaju bespotrebna objašnjenja, suvišne detalje, suvišnost i opširnost. Konstruktivna saopčenja pomažu klijentu koji je naručio angažman i organizaciji te dovode do potrebnih poboljšanja. Potpuna saopčenja ne izostavljaju ništa važno ciljanoj publici i uključuju sve važne i relevantne informacije i zapažanja u prilog preporukama i zaključcima. Pravovremena su saopčenja vremenski prikladna i svrsi shodna, ovisno o važnosti tematike, te omogućavaju menadžmentu poduzimanje odgovarajućih korektivnih radnji.
+2421 – Greške i propusti
+Ako završno saopštenje sadrži bitnu grešku ili propust, glavni revizor mora dostaviti ispravljene informacije svim stranama koje su dobile prvo saopštenje.
+2430 – Navođenje „provedeno u skladu s Međunarodnim standardima za profesionalno obavljanje interne revizije“
+Navođenje da je angažman „proveden u skladu s Međunarodnim standardima za profesionalno obavljanje interne revizije” prikladno je jedino ako je potkrijepljeno rezultatima programa osiguranja kvalitete i unaprjeđenja.
+2431 – Objava neusklađenosti angažmana
+Kada neusklađenost s Etičkim kodeksom ili Standardima utječe na određeni angažman u priopćenju o rezultatima, moraju se navesti:
+Princip/Principi odnosno pravilo/pravila ponašanja iz Etičkog kodeksa ili Standarda s kojima nije postignuta potpuna usklađenost
+Razlog/razlozi neusklađenosti
+Utjecaj neusklađenosti na angažman i saopčene rezultate angažmana.
+2440 – Distribucija rezultata
+Glavni revizor mora saopčiti rezultate odgovarajućim stranama.
+Tumačenje:
+Glavni revizor odgovoran je za pregled i odobrenje konačnog saopčenja o angažmanu prije njegova izdavanja te odlučuje kome će se i na koji način ono distribuirati. Kada glavni revizor za ovo zaduži nekoga drugoga, i dalje snosi cjelokupnu odgovornost.
+2440.A1 – Glavni revizor odgovoran je za saopčenje konačnih rezultata stranama koje mogu garantovati da će rezultati biti pažljivo razmotreni.
+2440.A2 – Ako pravni, zakonski ili regulatorni zahtjevi ne propisuju drukčije, prije objave rezultata trećim stranama glavni revizor mora:
+Procijeniti potencijalni rizik za organizaciju
+Savjetovati se s višim menadžmentom i/ili pravnim savjetnikom, prema potrebi
+Nadzirati distribuciju ograničavajući uporabu rezultata.
+2440.C1 – Glavni revizor dužan je saopčitii klijentima konačne rezultate savjetodavnih angažmana.
+2440.C2 – Moguće je da se tokom savjetodavnih angažmana utvrde problemi u korporativnom upravljanju, upravljanju rizicima i kontrolama. Kad su ta pitanja važna za organizaciju, o njima moraju biti obaviješten viši menadžment i odbor.
+2450 – Cjelokupno mišljenje
+Kada se izdaje cjelokupno mišljenje, moraju se uzeti u obzir strategije, ciljevi i rizici organizacije, kao i očekivanja višeg menadžmenta, odbora i drugih dioničara. Cjelokupno mišljenje mora biti potkrijepljeno dovoljnim, pouzdanim, relevantnim i korisnim informacijama.
+Tumačenje:
+U izvještaj je potrebno uvrstiti:
+Obim uključujući razdoblje na koje se mišljenje odnosi
+Ograničenja obima
+Razmatranje svih povezanih projekata, uključujući oslanjanje na druge davaoce usluga izražavanja uvjerenja
+Suma informacija koje potkrepljuju mišljenje
+Okvir rizika, kontrolni okvir ili druge kriterije koji su upotrijebljeni kao temelj za cjelokupno mišljenje
+Cjelokupno mišljenje, procjena ili zaključak do kojeg se došlo.
+Razlozi nepovoljnoga cjelokupnog mišljenja moraju biti navedeni.
+2500 – Praćenje postupanja s rezultatima
+Glavni revizor mora uspostaviti i održavati sistem za praćenje postupanja s rezultatima angažmana koji su saopšteni menadžmentu.
+2500.A1 – Glavni revizor mora uspostaviti proces praćenja (follow-up) kojim se prati i osigurava da su radnje koje odredi menadžment uspješno provedene ili da je viši menadžment na sebe preuzeo rizik nedjelovanja.
+2500.C1 – Funkcija interne revizije mora pratiti postupanje s rezultatima savjetodavnih angažmana u obimu koji je ugovoren s klijentom.
+2600 – Saopčenje odluke o prihvaćanju rizika
+Kad glavni revizor zaključi da je menadžment preuzeo stepen rizika koji organizaciji može biti neprihvatljiv, mora o tome razgovarati s višim menadžmentom. Ako glavni revizor utvrdi da problem neprihvatljivosti rizika nije riješen, mora o tome obavijestiti odbor.
+Tumačenje:
+Utvrđivanje rizika koje je preuzeo menadžment može se promatrati kroz angažman izražavanja uvjerenja ili savjetovanja, proces praćenja radnji koje je poduzeo menadžment kao rezultat prethodnih angažmana ili na druge načine. Odluka o tretmanu rizika nije odgovornost glavnog revizora.
+Rječnik
+Dodana vrijednost
+Funkcija interne revizije dodaje vrijednost organizaciji (kao i njezinim dioničarima) pružanjem objektivnog i razumnog uvjerenja te pridonosi efikasnosti i efektivnosti korporativnog upravljanja, upravljanja rizicima i kontrolnih procesa.
+Odgovarajuća kontrola
+Prisutna je ako ju je menadžment planirao i organizirao (dizajnirao) na način koji pruža razumno uvjerenje da se efikasno upravlja rizicima unutar organizacije te da će organizacijska svrha i ciljevi biti ostvareni efikasno i ekonomično.
+Usluge angažmana s izražavanjem uvjerenja
+Objektivan pregled dokaza u svrhu pružanja nezavisne procjene korporativnog upravljanja, upravljanja rizicima te kontrolnih procesa organizacije. Primjeri uključuju financijske i operativne revizije, revizije usklađenosti, revizije sigurnosti sistema te dubinsko snimanje.
+Odbor
+Najviše upravljačko tijelo (npr. odbor direktora, nadzorni odbor, odbor guvrenera i komesara) koje ima odgovornost upravljanja i/ili nadgledanja aktivnosti organizacije i držati viši menadžment odgovornim. Iako se sastav upravljačkih tijela razlikuje između pravnih sustava i sektora poslovanja, odbor uobičajeno uključuje članove koji nisu dio menadžmenta. Ako odbor ne postoji, pojam „odbor“ u Standardima odnosi se na grupu ili osobu zaduženu za upravljanje organizacijom. Nadalje, „odborom“ se u Standardima može smatrati odbor ili neko drugo tijelo kojem je upravljačko tijelo delegiralo određene zadatke (npr. revizorski odbor).
+Povelja
+Povelja interne revizije formalni je dokument koji definiše svrhu funkcije interne revizije, ovlaštenja i odgovornosti. Povelja interne revizije utvrđuje poziciju funkcije interne revizije unutar organizacije, ovlašćuje pristup dokumentaciji, zaposlenicima i fizičkim lokacijama važnima za provođenje angažmana te definiše obim rada funkcije interne revizije.
+Glavni (interni) revizor
+Glavni revizor imenuje ulogu osobe na višoj poziciji odgovorne za djelotvorno upravljanje funkcijom interne revizije u skladu s poveljom interne revizije te obvezujućim elementima Međunarodnog okvira profesionalnog djelovanja (IPPF). Glavni revizor ili oni koji mu podnose izvještaje imaju odgovarajuće profesionalne certifikate i kvalifikacije. Naziv pozicije i/ili odgovornosti glavnog revizora mogu se razlikovati u različitim organizacijama.
+Etički kodeks
+Etički kodeks Instituta internih revizora (IIA) obuhvaća principe važne profesiji i praksi provođenja interne revizije te Pravila ponašanja, koja definiraju očekivane obrasce ponašanja internih revizora. Etički kodeks primjenjuje se i na osobe i na subjekte koji pružaju usluge interne revizije. Svrha je Etičkog kodeksa promoviranje etičke kulture u globalnoj profesiji interne revizije.
+Usklađenost
+Pridržavanje politika, planova, procedura, zakona, propisa, ugovora i ostalih zahtjeva.
+Sukob interesa
+Svaki odnos koji nije ili se čini kao da nije u najboljem interesu organizacije. Sukob interesa doveo bi u pitanje sposobnost pojedinca za objektivno izvršavanje njegovih zadaća i dužnosti.
+Savjetodavne usluge
+Savjetodavne i srodne usluge čija se priroda i obim određuju u dogovoru s klijentom te su namijenjene stvaranju dodane vrijednosti i unaprjeđenju korporativnog upravljanja, upravljanja rizicima te kontrolnih procesa a da pritom interni revizor ne preuzima odgovornosti menadžmenta. Primjeri ovih usluga uključuju savjetovanja, preporuke, usmjeravanje i edukaciju.
+Kontrola
+Svaki postupak, odnosno svaka radnja koju menadžment, odbor i treće osobe poduzimaju u svrhu upravljanja rizicima i podizanja stepena vjerovatnoće postizanja utvrđenih svrha i ciljeva. Menadžment planira, organizuje i usmjerava izvođenje dovoljnih aktivnosti radi pružanja razumnog uvjerenja da će utvrđene svrhe i ciljevi biti ostvareni.
+Kontrolno okruženje
+Stav i aktivnosti odbora te menadžmenta u pogledu važnosti kontrole u organizaciji. Kontrolno okruženje osigurava disciplinu i strukturu za postizanje glavnih ciljeva sistema internih kontrola. Kontrolno okruženje obuhvaća sljedeće elemente:
+integritet i etičke vrijednosti 
+filozofiju i način rada menadžmenta 
+organizacijsku strukturu
+određivanje ovlaštenja i zaduženja
+politike i praksu koji se odnose na ljudske resurse
+kompetentnost osoblja.
+Kontrolni procesi
+Politike, ručne i automatske procedure te aktivnosti koje su komponente kontrolnog okvira, a uspostavljene su i djeluju na način kojim se osigurava zadržavanje rizika na nivou koji je organizacija spremna prihvatiti.
+Osnovni principi profesionalnog obavljanja interne revizije
+Osnovni principi profesionalnog obavljanja interne revizije osnov su Međunarodnog okvira profesionalnog djelovanja i podupiru efikasnost interne revizije.
+Angažman
+Tačno određeno zaduženje funkcije interne revizije, zadaća ili pregled kao što su interna revizija, pregled samoprocjene kontrola, ispitivanje prijevara ili savjetovanje. Angažman može obuhvatiti više zadaća odnosno aktivnosti koje su osmišljene tako da se njima ostvari točno određen skup povezanih ciljeva.
+Ciljevi angažmana
+Uopćene izjave internih revizora kojima se opisuju namjeravana postignuća angažmana.
+Mišljenje angažmana
+Ocjena, zaključak i/ili drugi opis rezultata pojedinog angažmana interne revizije koji se odnosi na aspekte obuhvaćene ciljevima i obimom angažmana.
+Program rada angažmana
+Dokument koji popisuje postupke koje je potrebno slijediti u izvršenju angažmana, osmišljene kako bi se njima ostvario plan angažmana.
+Eksterni davaoc usluga
+Pravna ili fizička osoba izvan same organizacije koja posjeduje specijalistička znanja, vještine i iskustvo u određenoj disciplini.
+Prijevara
+Svako nezakonito postupanje koje je obilježeno obmanjivanjem, prikrivanjem ili izigravanjem povjerenja. Riječ je o radnjama koje ne zavise od prijetnji nasiljem ili fizičkom silom. Izvršioc prevare osobe su i organizacije čiji je cilj nabavljanje novčane ili druge imovinske koristi ili usluga, izbjegavanje plaćanja ili gubitka usluga ili ostvarivanje povoljnijeg ličnog ili poslovnog položaja.
+Korporativno upravljanje
+Kombinacija procesa i struktura koje je uspostavio odbor u cilju informisanja usmjeravanja, upravljanja te nadziranja aktivnosti organizacije usmjerene ostvarenju njezinih ciljeva.
+Nepristranost
+Umanjenje nezavisnosti organizacije i objektivnosti pojedinca može uključivati lični sukob interesa, ograničenja obima rada, ograničenja pristupa dokumentaciji, zaposlenima i imovini, kao i ograničenja financijskih resursa.
+Nezavisnost
+Nepostojanje uvjeta koji ugrožavaju sposobnost funkcije interne revizije u nepristranom izvršenju njezinih zadaća.
+Kontrole informatičke tehnologije
+Kontrole koje pružaju podršku poslovnom rukovođenju i korporativnom upravljanju te osiguravaju opštu i tehničku kontrolu nad komponentama informatičke infrastrukture kao što su aplikacije, informacije, infrastruktura i ljudi.
+Upravljanje informatičkom tehnologijom
+Sastoji se od vodstva, organizacijskih struktura i procesa koji osiguravaju da informatička tehnologija podržava strategiju i ciljeve organizacije.
+Funkcija interne revizije
+Odjeljenje, sektor, tim konsultanata (savjetnika) ili drugih praktičara koji pružaju usluge izražavanja nezavisnog, objektivnog uvjerenja, kao i savjetodavne usluge namijenjene stvaranju dodane vrijednosti i unaprjeđenju poslovanja organizacije. Funkcija interne revizije pomaže organizaciji ostvariti njene ciljeve kroz uspostavljanje sistemskog i discipliniranog pristupa ocjenjivanju i unaprjeđenju efikasnosti procesa korporativnog upravljanja, upravljanja rizicima te kontrolnih procesa.
+Međunarodni okvir profesionalnog djelovanja
+Konceptualni okvir koji sistematizira mjerodavne smjernice koje donosi Institut internih revizora (IIA). Mjerodavne smjernice sastoje se od dvije kategorije – (1) obaveznih i (2) preporučenih smjernica.
+Morati
+U Standardima se glagol „morati“ upotrebljava za označavanje bezuslovne obaveze.
+Objektivnost
+Nepristran mentalni stav koji internim revizorima omogućava obavljanje angažmana tako da sami vjeruju proizvodu svog rada, bez ikakvih kvalitativnih ustupaka. Objektivnost nalaže internim revizorima da vlastitu procjenu po pitanjima revizije ne podređuju tuđim procjenama i mišljenjima.
+Cjelokupno mišljenje
+Ocjena, zaključak i/ili neki drugi opis rezultata glavnog revizora o procesima korporativnog upravljanja, upravljanja rizicima i/ili kontrolnim procesima u organizaciji, gledano u cjelini. Cjelokupno mišljenje stručna je procjena glavnog revizora zasnovana na rezultatima određenog broja pojedinačnih angažmana i drugih aktivnosti u datom razdoblju.
+Rizik
+Mogućnost nastanka događaja koji će uticati na postizanje ciljeva. Rizik se mjeri u kontekstu utjecaja i vjerovatnoće ostvarenja događaja.
+Apetit rizika
+Nivo rizika koji je organizacija spremna prihvatiti.
+Upravljanje rizicima
+Proces utvrđivanja, procjene, upravljanja i nadzora nad mogućim događajima, odnosno situacijama kojim se pruža razumno uvjerenje za postizanje ciljeva organizacije.
+Trebati
+U Standardima se glagol „ trebati“ upotrebljava gdje je usklađenost očekivana, osim kada na osnovu profesionalne procjene okolnosti opravdavaju odstupanje.
+Važnost
+Relativna važnost predmeta u kontekstu u kojem se razmatra, što uključuje kvantitativne i kvalitativne faktore poput veličine, prirode, efikasnosti, važnosti i uticaja. Profesionalna procjena pomaže internim revizorima procijeniti važnost predmeta u kontekstu povezanih ciljeva.
+Standard
+Standard je profesionalna norma koju donosi Odbor za međunarodne standarde interne revizije i kojom su definisani zahtjevi za obavljanje širokog niza aktivnosti interne revizije, kao i za procjenu uspješnosti rada interne revizije.
+Revizijske tehnike zasnovane na tehnologiji
+Svaki automatizirani alat za reviziju, poput revizijskog softvera opšte namjene, zatim generatora podataka za testiranje, kompjuteriziranih programa za reviziju, specijaliziranih revizijskih uslužnih programa i kompjuterski podržanih revizijskih tehnika (CAAT alati).
