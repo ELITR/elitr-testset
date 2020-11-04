@@ -1,0 +1,135 @@
+# Sentence pair (1) source length 4 target length 2 alignment score : 0.0479617
+schraffiere 109 
+NULL ({ }) show ({ 1 }) 109 ({ 2 }) by ({ }) shading ({ }) 
+# Sentence pair (2) source length 14 target length 4 alignment score : 3.51588e-06
+wenn wir 109 ausschreiben 
+NULL ({ }) so ({ }) just ({ }) as ({ }) a ({ }) bit ({ }) of ({ }) review ({ 4 }) 109 ({ 3 }) if ({ 1 }) we ({ }) were ({ }) to ({ 2 }) write ({ }) it ({ }) 
+# Sentence pair (3) source length 10 target length 12 alignment score : 9.13176e-10
+dann sind es wortwörtlich 109 prozent und dass ist das selbe wie 
+NULL ({ }) out ({ 2 }) would ({ 1 }) literally ({ 3 }) be ({ }) 109 ({ 5 }) percent ({ 4 6 7 }) which ({ 8 11 }) is ({ 9 }) the ({ 10 }) same ({ 12 }) 
+# Sentence pair (4) source length 12 target length 11 alignment score : 7.8194e-07
+109 pro und jetzt könnte ich wieder zent schreiben aber das 
+NULL ({ }) thing ({ }) as ({ }) 109 ({ 1 }) per ({ 2 }) and ({ 3 }) i ({ 6 }) could ({ 7 }) write ({ 9 }) cent ({ 8 }) again ({ 5 }) but ({ 10 }) thats ({ 4 11 }) 
+# Sentence pair (5) source length 2 target length 3 alignment score : 0.0101171
+hatten wir schon 
+NULL ({ }) getting ({ 3 }) old ({ 1 2 }) 
+# Sentence pair (6) source length 6 target length 8 alignment score : 7.77839e-06
+zent steht für 100 es heißt also buchstäblich 
+NULL ({ }) cent ({ 1 }) means ({ 6 }) 100 ({ 4 }) so ({ 7 }) it ({ 2 }) literally ({ 3 5 8 }) 
+# Sentence pair (7) source length 4 target length 3 alignment score : 0.0460971
+109 pro 100 
+NULL ({ }) means ({ }) 109 ({ 1 }) per ({ 2 }) hundred ({ 3 }) 
+# Sentence pair (8) source length 12 target length 11 alignment score : 5.59392e-08
+wäre es 100 pro 100 dann hätten wir das ganze aber 
+NULL ({ }) if ({ }) you ({ 8 }) had ({ 1 }) 100 ({ 3 }) per ({ 4 }) 100 ({ 5 }) youre ({ 6 }) dealing ({ 7 9 }) with ({ 10 }) the ({ 2 }) whole ({ }) but ({ 11 }) 
+# Sentence pair (9) source length 7 target length 7 alignment score : 8.85624e-08
+jetzt sind es mehr als ein ganzes 
+NULL ({ }) now ({ 1 }) we ({ }) have ({ 2 }) more ({ 3 }) than ({ 4 5 }) a ({ 6 7 }) whole ({ }) 
+# Sentence pair (10) source length 5 target length 5 alignment score : 0.00501502
+wir haben 109 pro 100 
+NULL ({ }) we ({ 1 }) have ({ 2 }) 109 ({ 3 }) per ({ 4 }) 100 ({ 5 }) 
+# Sentence pair (11) source length 12 target length 8 alignment score : 3.40937e-08
+das können wir als verhältnis oder bruch schreiben 
+NULL ({ }) we ({ 3 }) can ({ }) actually ({ 1 }) write ({ 8 }) this ({ }) as ({ }) a ({ }) ratio ({ 2 4 5 }) or ({ 6 }) as ({ }) a ({ }) fraction ({ 7 }) 
+# Sentence pair (12) source length 9 target length 8 alignment score : 0.000164556
+das ist das gleiche wie 109 pro 100 
+NULL ({ }) this ({ 1 }) is ({ 2 }) the ({ }) same ({ 5 }) thing ({ 4 }) as ({ 3 }) 109 ({ 6 }) per ({ 7 }) 100 ({ 8 }) 
+# Sentence pair (13) source length 7 target length 6 alignment score : 0.00011111
+es ist das gleiche wie 109100 
+NULL ({ }) its ({ 1 }) the ({ 2 }) the ({ }) same ({ 5 }) thing ({ 4 }) as ({ 3 }) 109100 ({ 6 }) 
+# Sentence pair (14) source length 5 target length 4 alignment score : 0.00088029
+schraffieren wir das also 
+NULL ({ }) so ({ 4 }) lets ({ 1 }) shade ({ }) that ({ 3 }) in ({ 2 }) 
+# Sentence pair (15) source length 10 target length 6 alignment score : 3.68633e-06
+also hier haben wir ein ganzes 
+NULL ({ }) so ({ 1 }) we ({ 4 }) have ({ 3 }) a ({ 5 }) whole ({ }) here ({ 2 }) so ({ }) we ({ }) could ({ }) consider ({ 6 }) 
+# Sentence pair (16) source length 4 target length 5 alignment score : 1.28335e-05
+dieses quadrat ist ein ganzes 
+NULL ({ }) this ({ 1 }) square ({ 2 }) a ({ 3 4 5 }) whole ({ }) 
+# Sentence pair (17) source length 6 target length 6 alignment score : 2.54807e-06
+im letzten video haben wir gezählt 
+NULL ({ }) in ({ }) the ({ }) last ({ 2 }) video ({ 1 }) we ({ 4 5 }) counted ({ 3 6 }) 
+# Sentence pair (18) source length 7 target length 4 alignment score : 0.000207384
+das ist ein 10x10quadrat 
+NULL ({ }) this ({ 1 }) is ({ 2 }) a ({ }) 10 ({ 3 }) by ({ }) 10 ({ 4 }) square ({ }) 
+# Sentence pair (19) source length 7 target length 6 alignment score : 0.000766563
+es ist in 100 stücke aufgeteilt 
+NULL ({ }) it ({ 1 }) is ({ 2 }) cut ({ 3 }) up ({ }) into ({ 6 }) 100 ({ 4 }) pieces ({ 5 }) 
+# Sentence pair (20) source length 10 target length 7 alignment score : 1.07188e-05
+wenn wir also 109 dieser stücke wollen 
+NULL ({ }) so ({ 3 }) if ({ 1 }) we ({ 2 }) want ({ }) 109 ({ 4 }) of ({ }) those ({ 5 }) 100 ({ }) pieces ({ 6 }) what ({ 7 }) 
+# Sentence pair (21) source length 4 target length 4 alignment score : 0.00209913
+was heißt das dann 
+NULL ({ }) are ({ 1 }) we ({ }) talking ({ 2 4 }) about ({ 3 }) 
+# Sentence pair (22) source length 10 target length 6 alignment score : 4.12985e-06
+es heißt dass wir alle diese 
+NULL ({ }) that ({ }) means ({ 2 }) were ({ 5 6 }) going ({ 3 }) to ({ 4 }) shade ({ }) in ({ }) all ({ }) of ({ }) the ({ 1 }) 
+# Sentence pair (23) source length 4 target length 4 alignment score : 0.00547601
+100 stücke hier nehmen 
+NULL ({ }) 100 ({ 1 }) right ({ 2 }) over ({ 4 }) here ({ 3 }) 
+# Sentence pair (24) source length 8 target length 6 alignment score : 9.66837e-05
+ich nehme mal eine neue farbe 
+NULL ({ }) let ({ 4 6 }) me ({ 5 }) do ({ 2 }) that ({ }) in ({ }) a ({ }) new ({ 3 }) color ({ 1 }) 
+# Sentence pair (25) source length 7 target length 6 alignment score : 2.28732e-05
+also schraffieren wir all das hier 
+NULL ({ }) so ({ 1 }) well ({ }) shade ({ 2 }) in ({ 3 }) all ({ 4 }) of ({ 6 }) this ({ 5 }) 
+# Sentence pair (26) source length 10 target length 9 alignment score : 3.7314e-07
+wenn wir nur diese schraffieren dann haben wir 100 
+NULL ({ }) if ({ 1 }) you ({ 2 8 }) just ({ 3 }) shaded ({ 4 7 }) that ({ }) in ({ 5 }) that ({ }) would ({ 6 }) be ({ }) 100 ({ 9 }) 
+# Sentence pair (27) source length 10 target length 9 alignment score : 4.32633e-05
+das wären 100100 oder 100 pro 100 oder 100 
+NULL ({ }) that ({ 1 }) would ({ }) be ({ }) 100100 ({ 2 3 }) or ({ 4 }) 100 ({ 5 }) per ({ 6 }) 100 ({ 7 }) or ({ 8 }) 100 ({ 9 }) 
+# Sentence pair (28) source length 10 target length 7 alignment score : 9.36553e-08
+ich glaube ihr wisst worauf ich hinauswill 
+NULL ({ }) i ({ 1 6 }) think ({ 2 }) youre ({ 7 }) getting ({ }) the ({ }) meaning ({ 3 4 5 }) of ({ }) all ({ }) of ({ }) this ({ }) 
+# Sentence pair (29) source length 9 target length 7 alignment score : 3.405e-07
+ich will nur dass ihr es versteht 
+NULL ({ }) i ({ 1 }) dont ({ 2 }) just ({ }) want ({ }) you ({ }) just ({ 3 }) memorize ({ 4 }) this ({ }) stuff ({ 5 6 7 }) 
+# Sentence pair (30) source length 11 target length 11 alignment score : 5.17673e-08
+das heißt wirklich nur 100 von 100 oder von einem ganzen 
+NULL ({ }) this ({ 1 }) really ({ 3 10 }) just ({ 4 }) means ({ 2 }) 100 ({ 5 }) out ({ 6 9 }) of ({ 11 }) 100 ({ 7 }) or ({ 8 }) a ({ }) whole ({ }) 
+# Sentence pair (31) source length 10 target length 10 alignment score : 1.9978e-07
+und wie wir sehen ist das hier das ganze quadrat 
+NULL ({ }) and ({ 1 }) you ({ 3 4 }) can ({ 5 }) see ({ 7 }) that ({ 8 }) this ({ 6 }) is ({ }) the ({ 2 }) whole ({ 9 }) square ({ 10 }) 
+# Sentence pair (32) source length 7 target length 6 alignment score : 0.00025703
+das sind genau 100 von 100 
+NULL ({ }) thats ({ 1 }) 100 ({ 4 }) out ({ 2 5 }) of ({ }) 100 ({ 6 }) right ({ }) there ({ 3 }) 
+# Sentence pair (33) source length 9 target length 5 alignment score : 0.000238891
+jetzt sollten wir 109 schraffieren 
+NULL ({ }) the ({ }) question ({ 3 }) is ({ }) saying ({ 2 }) show ({ }) us ({ 1 }) 109 ({ 4 }) by ({ }) shading ({ 5 }) 
+# Sentence pair (34) source length 13 target length 9 alignment score : 2.07323e-06
+wir haben schon 100 pro 100 fehlen noch 9 
+NULL ({ }) we ({ 1 }) already ({ 2 }) did ({ 3 }) 100 ({ 4 }) per ({ 5 }) 100 ({ 6 }) but ({ }) we ({ }) need ({ 7 }) to ({ }) do ({ }) another ({ 8 }) 9 ({ 9 }) 
+# Sentence pair (35) source length 6 target length 5 alignment score : 0.000690499
+schraffieren wir also noch 9 
+NULL ({ }) so ({ 3 }) lets ({ 1 }) shade ({ }) in ({ 2 }) another ({ 4 }) 9 ({ 5 }) 
+# Sentence pair (36) source length 11 target length 9 alignment score : 8.16003e-08
+also los eins zwei drei vier fünf sechs sieben 
+NULL ({ }) so ({ 1 }) now ({ }) we ({ }) have ({ }) one ({ }) two ({ 2 }) three ({ 9 }) four ({ 8 }) five ({ 7 }) six ({ 4 5 6 }) seven ({ 3 }) 
+# Sentence pair (37) source length 2 target length 2 alignment score : 0.238664
+acht neun 
+NULL ({ }) eight ({ 2 }) nine ({ 1 }) 
+# Sentence pair (38) source length 11 target length 8 alignment score : 8.26994e-07
+dieses stück hier hat also wie wir sehen 
+NULL ({ }) so ({ 5 }) this ({ 1 }) piece ({ 2 }) right ({ }) here ({ 3 }) you ({ 7 8 }) could ({ }) almost ({ 4 }) view ({ 6 }) that ({ }) is ({ }) 
+# Sentence pair (39) source length 3 target length 2 alignment score : 0.0110335
+ganz genau 
+NULL ({ }) well ({ 1 2 }) that ({ }) is ({ }) 
+# Sentence pair (40) source length 7 target length 6 alignment score : 0.000301128
+das sind 9 eines ganzen quadrats 
+NULL ({ }) that ({ 1 }) is ({ }) 9 ({ 3 }) of ({ }) an ({ 2 }) entire ({ 4 6 }) square ({ 5 }) 
+# Sentence pair (41) source length 7 target length 7 alignment score : 7.63809e-05
+das hier sind 100 eines ganzen quadrats 
+NULL ({ }) this ({ 1 }) is ({ }) 100 ({ 4 }) of ({ 2 }) an ({ 3 }) entire ({ 5 7 }) square ({ 6 }) 
+# Sentence pair (42) source length 10 target length 12 alignment score : 4.10557e-10
+wenn wir dieses ganze quadrat und die blauen stücke da drüben angucken 
+NULL ({ }) if ({ 1 }) you ({ 2 }) considered ({ 6 7 }) this ({ 3 }) whole ({ 4 5 }) thing ({ }) plus ({ 8 9 }) this ({ }) blue ({ 10 }) area ({ 11 12 }) 
+# Sentence pair (43) source length 10 target length 8 alignment score : 5.4279e-08
+hier drüben dann sehen wir 109 von einem 
+NULL ({ }) right ({ }) over ({ }) here ({ 1 }) you ({ 4 5 }) are ({ 2 }) talking ({ 3 }) about ({ }) 109 ({ 6 }) of ({ 7 }) one ({ 8 }) 
+# Sentence pair (44) source length 2 target length 2 alignment score : 0.0372956
+ganzen quadrat 
+NULL ({ }) whole ({ 2 }) square ({ 1 }) 
+# Sentence pair (45) source length 4 target length 5 alignment score : 0.00311531
+hoffentlich hat das sinn gemacht 
+NULL ({ }) hopefully ({ 1 2 }) that ({ 3 }) made ({ 5 }) sense ({ 4 }) 

@@ -1,0 +1,192 @@
+# Sentence pair (1) source length 6 target length 8 alignment score : 1.82327e-07
+willkommen lassen sie uns über das web sprechen 
+NULL ({ }) welcome ({ 1 }) lets ({ 3 4 }) talk ({ 2 }) about ({ 5 }) the ({ 6 }) web ({ 7 8 }) 
+# Sentence pair (2) source length 7 target length 7 alignment score : 3.8981e-06
+die sache die sie im augenblick verwenden 
+NULL ({ }) the ({ 1 }) thing ({ 2 }) that ({ 3 }) youre ({ 4 5 }) using ({ 7 }) right ({ 6 }) now ({ }) 
+# Sentence pair (3) source length 9 target length 9 alignment score : 5.38713e-07
+das web ist diese schnelle netzwerk von angeschlossenen computern 
+NULL ({ }) the ({ 1 }) web ({ 2 }) is ({ 3 }) this ({ 4 }) fast ({ 5 }) network ({ 6 8 }) of ({ 7 }) connected ({ }) computers ({ 9 }) 
+# Sentence pair (4) source length 9 target length 11 alignment score : 1.69773e-07
+und ab dem jahr 2014 gibt es sind buchstäblich mehr als 
+NULL ({ }) and ({ 1 }) as ({ 2 }) of ({ }) 2014 ({ 3 4 }) there ({ 5 }) are ({ 8 }) literally ({ 6 9 }) more ({ 7 10 }) than ({ 11 }) 
+# Sentence pair (5) source length 5 target length 5 alignment score : 0.0172684
+eine milliarde websites eine milliarde 
+NULL ({ }) a ({ 1 }) billion ({ 2 }) websites ({ 3 }) a ({ 4 }) billion ({ 5 }) 
+# Sentence pair (6) source length 10 target length 10 alignment score : 3.96497e-06
+als ich ein kind war hatten wir nur eine million 
+NULL ({ }) when ({ }) i ({ 2 }) was ({ 1 }) a ({ 3 }) kid ({ 4 5 }) we ({ 7 }) only ({ 6 }) had ({ 8 }) one ({ 9 }) million ({ 10 }) 
+# Sentence pair (7) source length 6 target length 6 alignment score : 0.007741
+und wir dachten wir waren cool 
+NULL ({ }) and ({ 1 }) we ({ 2 }) thought ({ 3 }) we ({ 4 }) were ({ 5 }) cool ({ 6 }) 
+# Sentence pair (8) source length 6 target length 5 alignment score : 0.00421882
+was tun wir websites für 
+NULL ({ }) what ({ 1 }) do ({ 2 }) we ({ 3 }) use ({ }) websites ({ 4 }) for ({ 5 }) 
+# Sentence pair (9) source length 9 target length 8 alignment score : 4.95995e-05
+nun am anfang forscher verwendeten websites zu teilen 
+NULL ({ }) well ({ 1 }) in ({ 2 }) the ({ }) beginning ({ 3 }) researchers ({ 4 }) used ({ 5 }) websites ({ 6 }) to ({ 7 }) share ({ 8 }) 
+# Sentence pair (10) source length 7 target length 5 alignment score : 0.00339868
+ihre forschung wie auf hochenergieteilchenbeschleuniger 
+NULL ({ }) their ({ 1 }) research ({ 2 }) like ({ 3 }) on ({ 4 }) highenergy ({ }) particle ({ 5 }) colliders ({ }) 
+# Sentence pair (11) source length 9 target length 9 alignment score : 0.0017781
+aber jetzt jeder benutzt es für so ziemlich alles 
+NULL ({ }) but ({ 1 }) now ({ 2 }) everybody ({ 4 }) uses ({ 3 }) it ({ 5 }) for ({ 6 }) pretty ({ 7 }) much ({ 8 }) everything ({ 9 }) 
+# Sentence pair (12) source length 11 target length 11 alignment score : 2.20227e-06
+vielleicht verwenden sie ein soziales netzwerk mit ihrer familie zu unterhalten 
+NULL ({ }) maybe ({ 1 }) you ({ 3 }) use ({ 2 }) a ({ 4 }) social ({ 5 }) network ({ 6 }) to ({ 10 }) chat ({ 7 }) with ({ 8 }) your ({ }) family ({ 9 11 }) 
+# Sentence pair (13) source length 6 target length 7 alignment score : 2.81267e-05
+eine fotowebsite für den austausch von fotos 
+NULL ({ }) a ({ 1 }) photo ({ 2 }) website ({ }) for ({ 3 }) sharing ({ 4 6 }) photos ({ 5 7 }) 
+# Sentence pair (14) source length 5 target length 3 alignment score : 0.0122495
+ihre entzückende miezekatzen 
+NULL ({ }) of ({ }) your ({ 1 }) adorable ({ 2 }) kitty ({ }) cats ({ 3 }) 
+# Sentence pair (15) source length 12 target length 12 alignment score : 3.50297e-07
+eine reisewebsite um zu entscheiden wo auf eine exotische reise zu gehen 
+NULL ({ }) a ({ 1 }) travel ({ 2 }) website ({ }) to ({ 4 }) decide ({ 3 }) where ({ 6 }) to ({ 11 }) go ({ 5 }) on ({ 7 }) an ({ 8 }) exotic ({ 9 }) trip ({ 10 12 }) 
+# Sentence pair (16) source length 7 target length 5 alignment score : 0.00015744
+oder eine nachrichtenwebsite um herauszufinden 
+NULL ({ }) or ({ 1 }) a ({ 2 }) news ({ 3 4 }) website ({ }) to ({ }) figure ({ 5 }) out ({ }) 
+# Sentence pair (17) source length 6 target length 7 alignment score : 7.07978e-07
+was in der welt vor sich geht 
+NULL ({ }) whats ({ 1 }) going ({ 3 }) on ({ }) in ({ 2 }) the ({ }) world ({ 4 5 6 7 }) 
+# Sentence pair (18) source length 7 target length 5 alignment score : 0.00314931
+und natürlich müssen sie verwenden 
+NULL ({ }) and ({ 1 }) of ({ }) course ({ 2 }) you ({ 4 }) must ({ 3 }) be ({ }) using ({ 5 }) 
+# Sentence pair (19) source length 6 target length 6 alignment score : 0.000979532
+die khan academy website zu erfahren 
+NULL ({ }) the ({ 1 }) khan ({ 2 }) academy ({ 3 }) website ({ 4 }) to ({ 5 }) learn ({ 6 }) 
+# Sentence pair (20) source length 5 target length 5 alignment score : 0.00206527
+also was ist ihre lieblingswebseite 
+NULL ({ }) so ({ 1 }) whats ({ 2 }) your ({ 4 }) favorite ({ 3 5 }) website ({ }) 
+# Sentence pair (21) source length 6 target length 6 alignment score : 0.000192213
+eigentlich habe ich eine bessere frage 
+NULL ({ }) actually ({ 1 2 }) i ({ 3 }) have ({ }) a ({ 4 }) better ({ 5 }) question ({ 6 }) 
+# Sentence pair (22) source length 9 target length 8 alignment score : 0.000187426
+welche webseite möchten sie existiert aber noch nicht 
+NULL ({ }) what ({ 1 }) website ({ 2 }) do ({ }) you ({ 4 }) wish ({ 3 }) existed ({ 5 }) but ({ 6 }) doesnt ({ 7 }) yet ({ 8 }) 
+# Sentence pair (23) source length 5 target length 6 alignment score : 0.000118127
+vielleicht eine webseite über sich selbst 
+NULL ({ }) maybe ({ 1 }) a ({ 2 }) website ({ 3 }) about ({ 4 }) yourself ({ 5 6 }) 
+# Sentence pair (24) source length 6 target length 6 alignment score : 0.0024481
+oder über etwas das sie lieben 
+NULL ({ }) or ({ 1 }) about ({ 2 }) something ({ 3 }) that ({ 4 }) you ({ 5 }) love ({ 6 }) 
+# Sentence pair (25) source length 10 target length 10 alignment score : 1.69263e-05
+die coole sache ist können sie programm eine website selbst 
+NULL ({ }) the ({ 1 }) cool ({ 2 }) thing ({ 3 }) is ({ 4 }) you ({ 6 }) can ({ 5 }) program ({ 7 }) a ({ 8 }) website ({ 9 }) yourself ({ 10 }) 
+# Sentence pair (26) source length 12 target length 13 alignment score : 1.86112e-08
+und sie können lernen wie man tun sie es hier auf khan academy 
+NULL ({ 8 }) and ({ 1 }) you ({ 2 }) can ({ 3 }) learn ({ 4 }) how ({ 5 }) to ({ }) do ({ 7 }) it ({ 9 }) here ({ 6 10 }) on ({ 11 }) khan ({ 12 }) academy ({ 13 }) 
+# Sentence pair (27) source length 7 target length 7 alignment score : 2.00725e-05
+starten sie brainstorming was sie machen wollen 
+NULL ({ }) start ({ 1 }) brainstorming ({ 3 }) what ({ 4 }) you ({ 2 }) want ({ 6 }) to ({ }) make ({ 5 7 }) 
+# Sentence pair (28) source length 9 target length 10 alignment score : 4.32884e-08
+denn sie werden in der lage tun es früh genug 
+NULL ({ }) because ({ 1 }) youll ({ 2 3 }) be ({ }) able ({ 4 5 6 }) to ({ }) do ({ 7 }) it ({ 8 }) soon ({ 9 }) enough ({ 10 }) 
+# Sentence pair (29) source length 11 target length 13 alignment score : 2.85628e-07
+lassen sie uns zunächst ein wenig sichern und deaktivieren sie einige begriffe auf 
+NULL ({ }) first ({ 1 }) lets ({ 2 3 }) back ({ 7 }) up ({ 4 }) a ({ 5 }) bit ({ 6 }) and ({ 8 }) clear ({ 9 }) up ({ 10 }) some ({ 11 }) terminology ({ 12 13 }) 
+# Sentence pair (30) source length 5 target length 5 alignment score : 0.00210331
+was ist das web genau 
+NULL ({ }) what ({ 1 }) is ({ 2 }) the ({ 3 }) web ({ 4 }) exactly ({ 5 }) 
+# Sentence pair (31) source length 8 target length 10 alignment score : 1.57586e-06
+nun wie ich schon sagte es ist ein bündel von 
+NULL ({ }) well ({ 1 }) like ({ 2 }) i ({ 3 }) said ({ 5 7 }) its ({ 4 6 }) a ({ 8 }) bunch ({ 9 }) of ({ 10 }) 
+# Sentence pair (32) source length 5 target length 5 alignment score : 4.68338e-05
+verbundenen computern die seiten haben 
+NULL ({ }) connected ({ 1 }) computers ({ 2 4 }) that ({ 3 }) have ({ 5 }) websites ({ }) 
+# Sentence pair (33) source length 8 target length 7 alignment score : 1.64793e-08
+wenn ein computer mit dem internet verbunden 
+NULL ({ }) when ({ 1 4 }) a ({ 2 }) computer ({ 3 5 }) is ({ }) connected ({ 6 7 }) to ({ }) the ({ }) web ({ }) 
+# Sentence pair (34) source length 11 target length 11 alignment score : 4.17961e-06
+und spuckte eine website aus wir rufen dass computer ein server 
+NULL ({ }) and ({ 1 }) spitting ({ 2 }) out ({ 5 }) a ({ 3 }) website ({ 4 }) we ({ 6 }) call ({ 7 }) that ({ 8 }) computer ({ 9 }) a ({ 10 }) server ({ 11 }) 
+# Sentence pair (35) source length 5 target length 7 alignment score : 9.55451e-08
+weil sie dienen auf der website des 
+NULL ({ }) because ({ 1 }) its ({ 2 3 }) serving ({ 4 7 }) the ({ 5 }) website ({ 6 }) 
+# Sentence pair (36) source length 7 target length 7 alignment score : 0.000976105
+eine website ist geschrieben mit drei sprachen 
+NULL ({ }) a ({ 1 }) website ({ 2 }) is ({ 3 }) written ({ 4 }) using ({ 5 }) three ({ 6 }) languages ({ 7 }) 
+# Sentence pair (37) source length 7 target length 6 alignment score : 3.34808e-07
+html zur markierung der websiteinhalte auf 
+NULL ({ }) html ({ 1 }) for ({ }) marking ({ 2 }) up ({ }) the ({ }) website ({ }) content ({ 3 4 5 6 }) 
+# Sentence pair (38) source length 4 target length 5 alignment score : 0.00466372
+css für das styling es 
+NULL ({ }) css ({ 1 }) for ({ 2 }) styling ({ 3 4 }) it ({ 5 }) 
+# Sentence pair (39) source length 6 target length 7 alignment score : 4.76196e-05
+und javascript um es interaktiv zu machen 
+NULL ({ }) and ({ 1 }) javascript ({ 2 }) for ({ }) making ({ 3 }) it ({ 4 }) interactive ({ 5 6 7 }) 
+# Sentence pair (40) source length 9 target length 8 alignment score : 0.000893249
+wie nutzer wie sie tatsächlich sehen diese websites 
+NULL ({ }) how ({ 1 }) do ({ }) users ({ 2 }) like ({ 3 }) you ({ 4 }) actually ({ 5 }) see ({ 6 }) those ({ 7 }) websites ({ 8 }) 
+# Sentence pair (41) source length 9 target length 8 alignment score : 0.000322251
+nun sie verwenden eine app gewidmet für websitebrowsing 
+NULL ({ }) well ({ 1 }) you ({ 2 }) use ({ 3 }) an ({ 4 }) app ({ 6 }) dedicated ({ 5 }) for ({ 7 }) website ({ }) browsing ({ 8 }) 
+# Sentence pair (42) source length 6 target length 6 alignment score : 0.0243159
+wie chrome firefox oder internet explorer 
+NULL ({ }) like ({ 1 }) chrome ({ 2 }) firefox ({ 3 }) or ({ 4 }) internet ({ 5 }) explorer ({ 6 }) 
+# Sentence pair (43) source length 6 target length 6 alignment score : 0.0212471
+und wir nennen diese anwendungen browser 
+NULL ({ }) and ({ 1 }) we ({ 2 }) call ({ 3 }) those ({ 4 }) apps ({ 5 }) browsers ({ 6 }) 
+# Sentence pair (44) source length 11 target length 10 alignment score : 1.00259e-06
+browser versuchen alles zeigen elbe website auf die gleiche weise 
+NULL ({ }) browsers ({ 1 }) try ({ 2 }) to ({ }) all ({ 3 }) show ({ 4 }) the ({ 7 }) same ({ 5 }) website ({ 6 }) the ({ 8 }) same ({ 9 }) way ({ 10 }) 
+# Sentence pair (45) source length 9 target length 6 alignment score : 0.000444992
+aber sie haben ihre unterschiede weshalb 
+NULL ({ }) but ({ 1 }) they ({ 2 }) do ({ }) have ({ 3 }) their ({ 4 }) differences ({ 5 }) which ({ }) is ({ }) why ({ 6 }) 
+# Sentence pair (46) source length 10 target length 11 alignment score : 9.09947e-08
+wir manchmal sagen hoppla es gibt ein problem bei diesem browser 
+NULL ({ }) we ({ 1 }) sometimes ({ 2 }) say ({ 3 }) oops ({ 4 }) theres ({ 5 6 }) a ({ 7 }) bug ({ 8 9 }) in ({ 10 }) that ({ }) browser ({ 11 }) 
+# Sentence pair (47) source length 3 target length 4 alignment score : 0.000291206
+versuchen sie eine andere 
+NULL ({ 2 }) try ({ 1 }) another ({ 4 }) one ({ 3 }) 
+# Sentence pair (48) source length 7 target length 6 alignment score : 0.00100082
+welchen browser verwenden sie gerade jetzt 
+NULL ({ }) which ({ 1 }) browser ({ 2 }) are ({ }) you ({ 4 }) using ({ 3 }) right ({ 5 }) now ({ 6 }) 
+# Sentence pair (49) source length 7 target length 8 alignment score : 1.43808e-05
+nun sie müssen mit sein dass die browser 
+NULL ({ }) well ({ 1 }) you ({ 2 }) must ({ 3 }) be ({ 5 }) using ({ 4 }) that ({ 6 7 }) browser ({ 8 }) 
+# Sentence pair (50) source length 8 target length 8 alignment score : 2.28732e-05
+aus einer art von gerät wie ein laptop 
+NULL ({ }) from ({ 1 }) some ({ }) sort ({ 2 3 }) of ({ 4 }) device ({ 5 }) like ({ 6 }) a ({ 7 }) laptop ({ 8 }) 
+# Sentence pair (51) source length 7 target length 6 alignment score : 0.00620911
+smartphone tablet oder auch ein smarttv 
+NULL ({ }) phone ({ 1 }) tablet ({ 2 }) or ({ 3 }) even ({ 4 }) a ({ 5 }) smart ({ 6 }) tv ({ }) 
+# Sentence pair (52) source length 6 target length 6 alignment score : 0.0140788
+und wir nennen diese geräte kunden 
+NULL ({ }) and ({ 1 }) we ({ 2 }) call ({ 3 }) those ({ 4 }) devices ({ 5 }) clients ({ 6 }) 
+# Sentence pair (53) source length 5 target length 5 alignment score : 0.00366197
+kunden können ganz anders sein 
+NULL ({ }) clients ({ 1 }) can ({ 2 }) be ({ 5 }) really ({ 3 }) different ({ 4 }) 
+# Sentence pair (54) source length 6 target length 6 alignment score : 0.00548204
+einige sind so kleiner als andere 
+NULL ({ }) some ({ 1 }) are ({ 2 }) way ({ 3 }) smaller ({ 4 }) than ({ 5 }) others ({ 6 }) 
+# Sentence pair (55) source length 6 target length 6 alignment score : 0.0184727
+einige haben touchscreens andere haben tastaturen 
+NULL ({ }) some ({ 1 }) have ({ 2 }) touchscreens ({ 3 }) others ({ 4 }) have ({ 5 }) keyboards ({ 6 }) 
+# Sentence pair (56) source length 5 target length 5 alignment score : 0.0467043
+einige sind schwarz und weiß 
+NULL ({ }) some ({ 1 }) are ({ 2 }) black ({ 3 }) and ({ 4 }) white ({ 5 }) 
+# Sentence pair (57) source length 8 target length 7 alignment score : 8.22642e-06
+also müssen websites versuchen gut zu funktionieren 
+NULL ({ }) so ({ 1 }) websites ({ 3 }) have ({ }) to ({ }) try ({ 4 }) to ({ 6 }) work ({ 5 7 }) well ({ 2 }) 
+# Sentence pair (58) source length 5 target length 5 alignment score : 0.00326694
+in allen arten von clients 
+NULL ({ }) in ({ 1 }) all ({ 2 }) sorts ({ 5 }) of ({ 4 }) clients ({ 3 }) 
+# Sentence pair (59) source length 7 target length 6 alignment score : 0.000151301
+welche client verwenden sie im augenblick 
+NULL ({ }) what ({ 1 }) client ({ 2 }) are ({ }) you ({ 4 }) using ({ 3 }) right ({ 6 }) now ({ 5 }) 
+# Sentence pair (60) source length 4 target length 5 alignment score : 0.000335938
+und das ist die bahn 
+NULL ({ }) and ({ 1 }) thats ({ 2 3 }) the ({ 4 }) web ({ 5 }) 
+# Sentence pair (61) source length 4 target length 3 alignment score : 0.0367982
+nun die zweiminutenversion 
+NULL ({ }) well ({ 1 }) the ({ }) twominute ({ 2 }) version ({ 3 }) 
+# Sentence pair (62) source length 8 target length 9 alignment score : 1.54259e-07
+es geht um die bahn viel mehr zu lernen 
+NULL ({ }) theres ({ 1 }) lots ({ 2 3 6 }) more ({ 7 }) to ({ 8 }) learn ({ 9 }) about ({ }) the ({ 4 }) web ({ 5 }) 
+# Sentence pair (63) source length 12 target length 14 alignment score : 1.88422e-16
+aber jetzt denke ich es geht darum zeit zum starten sie schreiben zu müssen 
+NULL ({ }) but ({ 1 }) now ({ 2 }) i ({ 4 }) think ({ 3 }) its ({ 5 }) about ({ 6 }) time ({ 7 }) to ({ 13 }) start ({ 10 }) having ({ 12 }) you ({ 11 }) write ({ 8 9 14 }) 
+# Sentence pair (64) source length 10 target length 9 alignment score : 3.17531e-06
+einige html und css machen sie ihre eigenen webseiten 
+NULL ({ }) some ({ 1 }) html ({ 2 }) and ({ 3 }) css ({ 4 }) to ({ }) make ({ 5 6 }) your ({ 7 }) own ({ 8 }) web ({ }) pages ({ 9 }) 
