@@ -1,0 +1,180 @@
+# Sentence pair (1) source length 13 target length 11 alignment score : 8.45556e-09
+možná jste slyšeli pojem libor když lidé mluví o úrokových sazbách 
+NULL ({ }) you ({ }) might ({ }) have ({ 1 }) heard ({ 2 }) the ({ }) term ({ 3 4 }) libor ({ 5 }) when ({ 6 }) people ({ 7 }) are ({ 10 }) quoting ({ 8 9 }) interest ({ }) rates ({ 11 }) 
+# Sentence pair (2) source length 15 target length 12 alignment score : 1.1589e-07
+nebo říkají půjčím vám peníze o několik procentních bodů nad sazbou libor 
+NULL ({ }) or ({ 1 }) theyre ({ 3 }) saying ({ 2 }) hey ({ }) im ({ }) gonna ({ 4 }) lend ({ }) you ({ }) money ({ 5 }) a ({ }) few ({ 7 8 9 }) percentage ({ 6 }) points ({ 10 }) above ({ 11 }) libor ({ 12 }) 
+# Sentence pair (3) source length 11 target length 9 alignment score : 2.79801e-08
+uslyšíte sazbu libor citovanou na některých finančních zpravodajských kanálech 
+NULL ({ }) you ({ }) will ({ 1 }) hearlibor ({ 2 }) quoted ({ 3 4 }) on ({ }) some ({ }) of ({ }) the ({ }) financial ({ 7 }) news ({ 6 8 9 }) channels ({ 5 }) 
+# Sentence pair (4) source length 19 target length 14 alignment score : 1.06313e-15
+a je to jen průměr úrokových sazeb za které si banky půjčují mezi sebou 
+NULL ({ }) and ({ 1 }) what ({ }) it ({ 3 }) is ({ 2 }) is ({ }) just ({ 4 }) an ({ }) average ({ 5 }) of ({ }) the ({ }) interest ({ }) rates ({ 6 }) that ({ }) banks ({ }) are ({ }) lending ({ 13 }) to ({ }) each ({ 7 8 9 10 11 12 14 }) other ({ }) 
+# Sentence pair (5) source length 9 target length 6 alignment score : 0.000115049
+a je vypočítán britskou bankovní asociací 
+NULL ({ }) and ({ 1 }) it ({ }) is ({ 2 }) calculated ({ 3 6 }) by ({ 4 }) the ({ }) british ({ }) bank ({ }) association ({ 5 }) 
+# Sentence pair (6) source length 11 target length 10 alignment score : 2.45863e-08
+ve skutečnosti je vypočítán thomson reuters pro britskou bankovní asociaci 
+NULL ({ }) its ({ 7 }) actually ({ 1 2 }) calcuated ({ 6 }) by ({ 8 }) thomson ({ 3 4 5 }) reuters ({ 10 }) for ({ }) the ({ }) british ({ }) bank ({ }) association ({ 9 }) 
+# Sentence pair (7) source length 17 target length 11 alignment score : 1.19075e-09
+existuje pro určité srovnání ostatních typů cenných papírů a finančních transakcí 
+NULL ({ }) but ({ }) its ({ 2 }) there ({ }) to ({ }) kind ({ }) of ({ }) provide ({ 1 }) a ({ }) benchmark ({ 3 4 5 }) for ({ }) other ({ }) types ({ 6 7 }) of ({ }) securities ({ 8 }) and ({ 9 }) financial ({ 10 }) transactions ({ 11 }) 
+# Sentence pair (8) source length 10 target length 11 alignment score : 2.20187e-09
+a doslova znamená londýnská mezibankovní nabídková sazba london interbank offered rate 
+NULL ({ }) and ({ 1 }) it ({ }) literally ({ 2 3 8 }) stands ({ 9 10 11 }) for ({ }) the ({ }) london ({ 4 }) interbank ({ 5 }) offered ({ 6 }) rate ({ 7 }) 
+# Sentence pair (9) source length 10 target length 10 alignment score : 3.36806e-09
+je to v londýně je to sazba nabízená mezi bankami 
+NULL ({ }) soits ({ 1 }) the ({ }) in ({ 3 }) londonits ({ 4 10 }) the ({ 5 }) ratethe ({ 2 6 }) offered ({ }) rate ({ 7 }) between ({ 8 9 }) banks ({ }) 
+# Sentence pair (10) source length 5 target length 4 alignment score : 0.00835877
+londýnská mezibankovní nabídková sazba 
+NULL ({ }) the ({ }) london ({ 1 }) interbank ({ 2 }) offered ({ 3 }) rate ({ 4 }) 
+# Sentence pair (11) source length 15 target length 10 alignment score : 6.12525e-09
+abychom tomu trochu lépe porozuměli založili jsme zde dvě banky 
+NULL ({ }) to ({ }) understand ({ 2 }) that ({ }) a ({ }) little ({ 3 }) bit ({ }) better ({ 1 }) we ({ }) have ({ }) set ({ 4 }) up ({ 7 9 }) two ({ 5 6 }) banks ({ 10 }) over ({ }) here ({ 8 }) 
+# Sentence pair (12) source length 12 target length 9 alignment score : 2.08014e-07
+banku a a banku b a již možná víte 
+NULL ({ }) bank ({ }) a ({ }) and ({ 2 }) bank ({ }) b ({ 5 }) and ({ 6 }) you ({ }) might ({ 7 }) have ({ 8 }) already ({ 1 4 }) known ({ 9 }) that ({ 3 }) 
+# Sentence pair (13) source length 9 target length 9 alignment score : 6.9931e-07
+že když jdete a uložíte své peníze do banky 
+NULL ({ }) when ({ 2 }) you ({ 1 }) go ({ }) and ({ 4 }) deposit ({ 3 }) your ({ 5 6 }) money ({ 7 }) in ({ 8 }) banks ({ 9 }) 
+# Sentence pair (14) source length 8 target length 6 alignment score : 0.00010477
+banka si všechny ty peníze nenechá 
+NULL ({ }) the ({ }) bank ({ 1 }) wont ({ 2 }) leave ({ 3 }) all ({ }) that ({ }) money ({ 5 }) around ({ 4 6 }) 
+# Sentence pair (15) source length 17 target length 14 alignment score : 1.07012e-12
+způsob jakým vydělává peníze je že dobrou část peněz půjčuje jiným lidem jako úvěry 
+NULL ({ }) the ({ }) way ({ 12 }) it ({ }) makes ({ 9 10 11 }) money ({ }) is ({ 5 }) lend ({ 1 }) a ({ }) good ({ 2 8 }) bit ({ 7 }) of ({ 6 }) money ({ 4 }) to ({ }) other ({ 3 }) people ({ }) as ({ 13 }) loans ({ 14 }) 
+# Sentence pair (16) source length 8 target length 8 alignment score : 5.63245e-07
+a drží si jen dostatek peněz při ruce 
+NULL ({ }) and ({ 1 }) it ({ }) keeps ({ 2 3 }) just ({ 4 }) enough ({ 5 6 }) cash ({ }) on ({ 7 }) hand ({ 8 }) 
+# Sentence pair (17) source length 17 target length 16 alignment score : 2.29177e-13
+tyhle věci víte lidé by mohli vlastně přijít a žádat své peníze ze svého běžného účtu 
+NULL ({ }) that ({ }) things ({ 1 }) well ({ 2 }) you ({ }) know ({ 3 }) people ({ 4 }) would ({ 5 }) actually ({ }) come ({ 6 }) and ({ 9 }) ask ({ 7 8 10 11 }) for ({ }) money ({ 12 }) from ({ }) their ({ }) checking ({ 13 }) account ({ 14 15 16 }) 
+# Sentence pair (18) source length 5 target length 4 alignment score : 0.000113205
+máme při ruce dostatek 
+NULL ({ }) we ({ }) have ({ 1 }) enough ({ 2 }) on ({ }) hand ({ 3 4 }) 
+# Sentence pair (19) source length 13 target length 16 alignment score : 2.97001e-15
+dokážete si představit že sem a tam se banka dostane do situace kdy má málo hotovosti 
+NULL ({ }) you ({ }) could ({ 2 4 13 15 }) imagineevery ({ 1 3 12 14 }) now ({ 8 }) and ({ 6 }) then ({ 5 7 }) that ({ }) bank ({ 9 }) might ({ 10 }) get ({ 16 }) low ({ 11 }) on ({ }) cash ({ }) 
+# Sentence pair (20) source length 11 target length 9 alignment score : 3.65559e-08
+nebo se může dostat blízko k povinným minimálním rezervám 
+NULL ({ }) or ({ 1 }) it ({ }) might ({ }) get ({ }) close ({ 3 }) to ({ 2 }) kind ({ 4 }) of ({ }) a ({ }) reserve ({ 6 7 8 9 }) requirement ({ 5 }) 
+# Sentence pair (21) source length 14 target length 9 alignment score : 1.52682e-09
+které vyžaduje centrální banka dané země aby banka měla 
+NULL ({ }) that ({ }) the ({ }) central ({ 3 7 }) bank ({ 4 }) in ({ }) that ({ }) country ({ 1 5 9 }) requires ({ 2 6 }) a ({ }) bank ({ 8 }) to ({ }) have ({ }) on ({ }) it ({ }) 
+# Sentence pair (22) source length 12 target length 12 alignment score : 1.8714e-11
+v těchto situacích řekněme že se banka a dostává do takové situace 
+NULL ({ }) so ({ }) in ({ 1 }) those ({ 2 }) situations ({ 3 4 }) say ({ }) bank ({ }) a ({ 8 }) is ({ }) getting ({ 5 }) to ({ 6 }) thatthat ({ 9 10 11 12 }) situation ({ 7 }) 
+# Sentence pair (23) source length 8 target length 7 alignment score : 0.000752498
+řekli půjdeme a půjčíme si nějaké peníze 
+NULL ({ }) they ({ }) said ({ 1 }) let ({ 2 }) me ({ 4 }) go ({ 3 }) borrow ({ 5 }) some ({ 6 }) money ({ 7 }) 
+# Sentence pair (24) source length 8 target length 8 alignment score : 1.38859e-05
+půjdeme a půjčíme si peníze od jiné banky 
+NULL ({ }) let ({ 1 }) me ({ 3 }) go ({ 2 }) borrow ({ 4 }) money ({ 5 }) from ({ 6 8 }) another ({ 7 }) bank ({ }) 
+# Sentence pair (25) source length 5 target length 4 alignment score : 0.0152513
+tohle je mezibankovní půjčování 
+NULL ({ }) so ({ 1 }) this ({ }) is ({ 2 }) interbank ({ 3 }) borrowing ({ 4 }) 
+# Sentence pair (26) source length 9 target length 6 alignment score : 1.37383e-05
+banka b zde je zahlcena hotovostí 
+NULL ({ }) bank ({ 1 }) b ({ 2 }) over ({ }) here ({ 3 }) they ({ }) are ({ }) flushed ({ 5 }) with ({ 4 6 }) cash ({ }) 
+# Sentence pair (27) source length 12 target length 5 alignment score : 1.83377e-05
+řeknou nechceme držet tolik hotovosti 
+NULL ({ }) so ({ }) they ({ }) say ({ 1 }) we ({ }) dont ({ }) like ({ 2 }) to ({ }) keep ({ 3 }) so ({ }) much ({ 4 }) cash ({ 5 }) around ({ }) 
+# Sentence pair (28) source length 17 target length 12 alignment score : 3.98795e-12
+chceme ji půjčit můžeme ve skutečnosti získat úrok z hotovosti úrok nedostáváme 
+NULL ({ }) we ({ }) want ({ 1 12 }) to ({ }) lend ({ }) it ({ }) so ({ }) we ({ 2 }) can ({ 3 }) actually ({ 5 6 }) get ({ }) interest ({ }) we ({ 9 }) get ({ 10 }) no ({ 8 11 }) interest ({ 4 7 }) on ({ }) cash ({ }) 
+# Sentence pair (29) source length 9 target length 7 alignment score : 3.63879e-05
+třeba banka b půjčí peníze bance a 
+NULL ({ }) so ({ }) maybe ({ 1 }) bank ({ 2 }) b ({ 3 }) lends ({ 4 }) money ({ 5 }) to ({ }) bank ({ }) a ({ 6 7 }) 
+# Sentence pair (30) source length 7 target length 4 alignment score : 0.000103034
+třeba půjčí tolik hotovosti 
+NULL ({ }) so ({ }) maybe ({ 1 }) they ({ }) lend ({ }) this ({ }) much ({ 2 3 }) cash ({ 4 }) 
+# Sentence pair (31) source length 9 target length 8 alignment score : 3.46639e-07
+tohle je nová hotovost kterou dostala banka a 
+NULL ({ }) so ({ 1 }) thats ({ 2 }) the ({ }) new ({ 3 }) cash ({ 4 }) that ({ }) bank ({ 7 }) a ({ 8 }) got ({ 5 6 }) 
+# Sentence pair (32) source length 6 target length 5 alignment score : 0.000488147
+právě tady je nová hotovost 
+NULL ({ }) right ({ 2 }) over ({ }) there ({ 1 }) the ({ 3 }) new ({ 4 }) cash ({ 5 }) 
+# Sentence pair (33) source length 7 target length 5 alignment score : 0.00261091
+a samozřejmě je to úvěr 
+NULL ({ }) and ({ 1 }) of ({ }) course ({ 2 }) it ({ 4 }) is ({ 3 }) a ({ }) loan ({ 5 }) 
+# Sentence pair (34) source length 10 target length 10 alignment score : 7.1077e-08
+tohle je nový úvěr aby se to vyrovnalo pamatujte si 
+NULL ({ }) so ({ 1 }) this ({ }) is ({ 2 }) a ({ }) new ({ 3 }) loan ({ 4 }) to ({ 6 }) offset ({ 5 }) it ({ 7 }) remember ({ 8 9 10 }) 
+# Sentence pair (35) source length 7 target length 8 alignment score : 4.22861e-07
+že aktiva se rovnají závazkům plus vlastnímu jmění 
+NULL ({ }) assets ({ 1 }) are ({ }) equal ({ 2 }) to ({ 3 }) liabilities ({ }) plus ({ 4 }) equity ({ 5 6 7 8 }) 
+# Sentence pair (36) source length 8 target length 4 alignment score : 1.37985e-05
+závazky jsou všechno tady 
+NULL ({ }) so ({ }) liabilities ({ 1 }) is ({ }) this ({ }) whole ({ 2 }) thing ({ 3 }) over ({ 4 }) here ({ }) 
+# Sentence pair (37) source length 9 target length 9 alignment score : 1.53557e-06
+tohle je úvěr od banky b za tuto hotovost 
+NULL ({ }) so ({ 1 }) this ({ }) is ({ 2 }) loan ({ 3 }) from ({ 4 5 }) b ({ 6 }) for ({ 7 }) this ({ 8 }) cash ({ 9 }) 
+# Sentence pair (38) source length 9 target length 4 alignment score : 1.07465e-05
+mají trochu lepší rezervu 
+NULL ({ }) they ({ }) have ({ }) a ({ }) little ({ 2 }) bit ({ }) better ({ }) of ({ }) a ({ }) cushion ({ 1 3 4 }) 
+# Sentence pair (39) source length 12 target length 11 alignment score : 3.59671e-06
+a nyní úvěr banky b vzrostl a jejich hotovost se snížila 
+NULL ({ }) and ({ 1 }) now ({ 10 }) b ({ 5 }) their ({ 6 }) loan ({ 3 }) has ({ 2 }) increased ({ 4 }) and ({ 7 }) their ({ }) cash ({ 9 }) has ({ 8 }) decreased ({ 11 }) 
+# Sentence pair (40) source length 8 target length 6 alignment score : 5.22964e-05
+tohle je úvěr úvěr bance a 
+NULL ({ }) so ({ 1 }) this ({ }) is ({ 2 }) a ({ }) loan ({ 3 }) loan ({ 4 }) to ({ }) a ({ 5 6 }) 
+# Sentence pair (41) source length 12 target length 9 alignment score : 7.21036e-08
+tady vzali tuto hotovost a dali ji bance a 
+NULL ({ }) right ({ 1 }) now ({ }) they ({ }) took ({ 2 }) this ({ 3 }) cash ({ 4 }) and ({ 5 }) they ({ 7 }) gave ({ 6 }) to ({ }) bank ({ }) a ({ 8 9 }) 
+# Sentence pair (42) source length 8 target length 6 alignment score : 5.39536e-05
+a sazba za kterou ji půjčili 
+NULL ({ }) and ({ 1 }) that ({ }) rate ({ 2 }) that ({ }) they ({ 5 }) lent ({ 3 4 }) it ({ }) at ({ 6 }) 
+# Sentence pair (43) source length 7 target length 5 alignment score : 0.000209375
+byla třeba 1 roční sazba 
+NULL ({ }) maybe ({ 2 }) it ({ }) was ({ }) that ({ }) 1 ({ 3 }) annual ({ 1 4 }) rate ({ 5 }) 
+# Sentence pair (44) source length 13 target length 10 alignment score : 2.70626e-06
+a samozřejmě se obnovuje každý den je to jednodenní sazba 
+NULL ({ }) and ({ 1 }) of ({ }) course ({ 2 }) it ({ }) is ({ }) to ({ 3 }) be ({ 5 }) renewed ({ 4 }) everyday ({ 6 }) it ({ 8 }) is ({ 7 }) overnight ({ 9 }) rate ({ 10 }) 
+# Sentence pair (45) source length 6 target length 5 alignment score : 0.00830971
+tahle sazba je mezibankovní sazba 
+NULL ({ }) this ({ }) rate ({ 2 }) is ({ 3 }) an ({ 1 }) interbank ({ 4 }) rate ({ 5 }) 
+# Sentence pair (46) source length 12 target length 7 alignment score : 3.3879e-07
+co dělají že jménem britské bankovní asociace 
+NULL ({ }) so ({ }) what ({ 1 }) they ({ 2 }) do ({ 5 }) is ({ }) on ({ }) behalf ({ 4 7 }) of ({ 3 }) the ({ }) british ({ }) bank ({ }) association ({ 6 }) 
+# Sentence pair (47) source length 9 target length 7 alignment score : 5.0548e-07
+dělají průzkum v řadě bank v londýně 
+NULL ({ }) they ({ 1 }) go ({ }) survey ({ 2 4 }) a ({ }) bunch ({ 5 }) of ({ }) banks ({ }) in ({ 3 6 }) london ({ 7 }) 
+# Sentence pair (48) source length 6 target length 6 alignment score : 8.46329e-05
+8 12 16 bank v londýně 
+NULL ({ }) eight ({ 1 }) twelve ({ 3 }) sixteen ({ 2 }) banks ({ }) in ({ 5 }) london ({ 4 6 }) 
+# Sentence pair (49) source length 13 target length 7 alignment score : 7.26855e-08
+řekli hele za jakou sazbu všichni obchodujete 
+NULL ({ }) so ({ }) they ({ }) said ({ 1 }) hey ({ 2 }) what ({ }) was ({ 3 }) the ({ }) rate ({ }) in ({ }) which ({ }) you ({ }) all ({ 4 }) transacted ({ 5 6 7 }) 
+# Sentence pair (50) source length 5 target length 3 alignment score : 0.014574
+a určí to 
+NULL ({ }) and ({ 1 }) they ({ }) will ({ 2 }) quote ({ 3 }) that ({ }) 
+# Sentence pair (51) source length 7 target length 6 alignment score : 1.77565e-05
+určí to jako jednodenní sazbu libor 
+NULL ({ }) they ({ }) quote ({ 1 2 }) that ({ }) as ({ 3 }) the ({ }) overnight ({ 4 5 }) libor ({ 6 }) 
+# Sentence pair (52) source length 15 target length 9 alignment score : 9.28109e-10
+určili ji řeknou 12 napříč všemi bankami z průzkumu 
+NULL ({ }) so ({ }) they ({ 2 }) quoted ({ }) it ({ }) say ({ 3 }) hey ({ }) 12 ({ 1 }) across ({ 4 }) all ({ }) of ({ }) the ({ }) banks ({ }) that ({ }) we ({ 8 }) surveyed ({ 5 6 7 9 }) 
+# Sentence pair (53) source length 12 target length 13 alignment score : 1.22527e-08
+ale co je na sazbě libor zajímavé že je uváděna v deseti měnách 
+NULL ({ }) but ({ 1 }) whats ({ 5 }) interesting ({ 4 }) about ({ 2 }) the ({ 3 }) libor ({ 6 }) it ({ }) is ({ 9 }) done ({ 7 8 10 }) in ({ 11 }) ten ({ 12 }) currencies ({ 13 }) 
+# Sentence pair (54) source length 9 target length 6 alignment score : 7.1882e-06
+není to jen ve šterlinkách dolarech 
+NULL ({ }) it ({ }) is ({ }) not ({ 2 }) just ({ 3 }) in ({ }) the ({ }) sterling ({ 4 5 }) the ({ }) dollar ({ 1 6 }) 
+# Sentence pair (55) source length 7 target length 7 alignment score : 8.82736e-05
+nebo jenech je to v deseti měnách 
+NULL ({ }) or ({ 1 }) the ({ }) yenit ({ 2 4 }) is ({ 3 }) in ({ 5 }) ten ({ 6 }) currencies ({ 7 }) 
+# Sentence pair (56) source length 8 target length 9 alignment score : 4.15497e-09
+to je to co ji odlišuje od dalších věcí 
+NULL ({ }) thats ({ 1 2 }) what ({ 4 }) really ({ 6 }) differentiate ({ 5 }) it ({ 3 }) amongst ({ 7 8 9 }) other ({ }) things ({ }) 
+# Sentence pair (57) source length 16 target length 16 alignment score : 5.81729e-22
+ale opravdu ji to odlišuje od skutečné sazby federálních fondů což je další sazba mezibankovního půjčování 
+NULL ({ }) but ({ 1 }) really ({ 2 5 }) differentiate ({ 3 }) it ({ 4 }) from ({ 6 }) the ({ }) effective ({ 7 8 9 }) federal ({ 11 }) funds ({ 10 13 }) rate ({ 14 }) which ({ 15 }) is ({ 12 }) another ({ }) interbank ({ }) borrowing ({ 16 }) rate ({ }) 
+# Sentence pair (58) source length 6 target length 5 alignment score : 0.000707846
+ale to je v usa 
+NULL ({ }) but ({ 1 }) thats ({ 2 }) in ({ }) the ({ 3 }) united ({ 4 }) states ({ 5 }) 
+# Sentence pair (59) source length 7 target length 5 alignment score : 0.00116146
+a více podléhá politickým tlakům 
+NULL ({ }) and ({ 1 }) thats ({ }) more ({ 2 }) revolving ({ 3 }) around ({ }) policy ({ 4 }) concerns ({ 5 }) 
+# Sentence pair (60) source length 8 target length 8 alignment score : 5.48544e-06
+federální banka se to ve skutečnosti snaží změnit 
+NULL ({ }) the ({ }) federal ({ 1 }) bank ({ 2 }) actually ({ 5 6 }) tries ({ 8 }) to ({ 3 }) change ({ 7 }) it ({ 4 }) 
