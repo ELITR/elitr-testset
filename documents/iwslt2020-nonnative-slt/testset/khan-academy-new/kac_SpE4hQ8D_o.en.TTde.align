@@ -1,0 +1,576 @@
+# Sentence pair (1) source length 6 target length 7 alignment score : 3.09757e-08
+starten wir mit ein paar Aufgaben an 
+NULL ({ }) Lets ({ 1 }) get ({ }) started ({ 2 4 5 7 }) with ({ 3 }) some ({ }) problems ({ 6 }) 
+# Sentence pair (2) source length 2 target length 5 alignment score : 1.43895e-05
+schauen wir uns das an 
+NULL ({ }) lets ({ 1 2 }) see ({ 3 4 5 }) 
+# Sentence pair (3) source length 4 target length 4 alignment score : 0.00213687
+erste Aufgabe, was ist 
+NULL ({ }) first ({ 1 2 }) problem ({ }) what ({ 3 }) is ({ 4 }) 
+# Sentence pair (4) source length 6 target length 6 alignment score : 0.00108779
+Was ist 15 Prozent von 40 
+NULL ({ }) what ({ 1 }) is ({ 2 }) 15 ({ 3 }) percent ({ 4 }) of ({ 5 }) 40 ({ 6 }) 
+# Sentence pair (5) source length 11 target length 6 alignment score : 1.0221e-08
+Prozentaufgaben löse ich so, indem ich 
+NULL ({ }) the ({ }) way ({ 2 4 5 }) i ({ 3 }) do ({ }) percent ({ }) problems ({ 1 }) is ({ }) i ({ 6 }) just ({ }) convert ({ }) the ({ }) 
+# Sentence pair (6) source length 11 target length 12 alignment score : 8.93956e-16
+die Prozentzahl umwandle in eine Dezimalzahl und dann mit der Zahl multipliziere 
+NULL ({ }) percentage ({ 1 2 3 4 }) to ({ }) a ({ 5 }) decimal ({ 6 }) and ({ 7 }) then ({ 12 }) i ({ }) multiply ({ 8 9 11 }) it ({ }) times ({ }) the ({ 10 }) 
+# Sentence pair (7) source length 11 target length 8 alignment score : 2.57173e-10
+von der ich den prozentualen Anteil haben möchte 
+NULL ({ }) the ({ }) number ({ 2 }) that ({ }) i ({ 3 }) m ({ 4 6 8 }) trying ({ 5 7 }) to ({ }) get ({ }) the ({ }) percentage ({ }) of ({ 1 }) 
+# Sentence pair (8) source length 10 target length 8 alignment score : 3.53735e-07
+also 15 als Dezimalzahl ist 1 Punkt 5 
+NULL ({ }) so ({ 1 }) 15 ({ 2 }) percent ({ }) as ({ 3 }) a ({ }) decimal ({ 4 }) is ({ 5 }) point ({ 7 }) 1 ({ 6 }) 5 ({ 8 }) 
+# Sentence pair (9) source length 12 target length 12 alignment score : 6.97021e-13
+das habt ihr bereits gelernt bei der Umwandlung von Prozent zu Dezimal 
+NULL ({ }) you ({ 1 }) learned ({ 2 3 4 }) that ({ }) from ({ 5 }) the ({ }) for ({ 6 }) the ({ }) um ({ }) percent ({ 10 }) to ({ 11 }) decimal ({ }) conversion ({ 7 8 9 12 }) 
+# Sentence pair (10) source length 3 target length 3 alignment score : 0.00436848
+Video, hoffe ich 
+NULL ({ }) a ({ }) video ({ 1 2 }) hopefully ({ 3 }) 
+# Sentence pair (11) source length 7 target length 9 alignment score : 8.84742e-10
+und dann multiplizieren wir diese Zahl einfach mit 40 
+NULL ({ }) and ({ 1 }) we ({ 4 }) just ({ 3 7 }) multiply ({ 2 6 8 }) this ({ 5 }) times ({ }) 40 ({ 9 }) 
+# Sentence pair (12) source length 9 target length 9 alignment score : 4.84713e-08
+Also sagen wir 40 mal 50 Punkt 1 5 
+NULL ({ }) so ({ }) lets ({ 3 }) say ({ 2 }) 40 ({ 4 }) times ({ 5 }) fifth ({ 1 6 }) point ({ 7 }) 1 ({ 8 }) 5 ({ 9 }) 
+# Sentence pair (13) source length 5 target length 5 alignment score : 0.0107968
+5 mal 0 ist 0 
+NULL ({ }) 5 ({ 1 }) times ({ 2 }) 0 ({ 3 }) is ({ 4 }) 0 ({ 5 }) 
+# Sentence pair (14) source length 5 target length 5 alignment score : 0.0296001
+5 mal 4 ist 20 
+NULL ({ }) 5 ({ 1 }) times ({ 2 }) 4 ({ 3 }) is ({ 4 }) 20 ({ 5 }) 
+# Sentence pair (15) source length 2 target length 2 alignment score : 0.189268
+herunter bringen 
+NULL ({ }) bring ({ 1 }) down ({ 2 }) 
+# Sentence pair (16) source length 4 target length 4 alignment score : 0.00100189
+platziere hier eine 0 
+NULL ({ }) put ({ 1 }) a ({ 3 }) 0 ({ 4 }) there ({ 2 }) 
+# Sentence pair (17) source length 7 target length 5 alignment score : 0.000328802
+1 mal 0 ist 0 
+NULL ({ }) and ({ }) then ({ }) 1 ({ 1 }) times ({ 2 }) 0 ({ 3 }) is ({ 4 }) 0 ({ 5 }) 
+# Sentence pair (18) source length 5 target length 5 alignment score : 0.00983261
+1 mal 4 ist 4 
+NULL ({ }) 1 ({ 1 }) times ({ 2 }) 4 ({ 3 }) is ({ 4 }) 4 ({ 5 }) 
+# Sentence pair (19) source length 6 target length 5 alignment score : 8.46668e-06
+das ergibt 6 0 0 
+NULL ({ }) and ({ }) you ({ 1 }) get ({ }) 6 ({ 2 3 }) 0 ({ 4 }) 0 ({ 5 }) 
+# Sentence pair (20) source length 6 target length 4 alignment score : 6.15535e-05
+nun die Dezimalstellen zählen 
+NULL ({ }) then ({ }) you ({ }) count ({ 1 }) the ({ 2 }) decimal ({ }) spots ({ 3 4 }) 
+# Sentence pair (21) source length 2 target length 2 alignment score : 0.014675
+eins zwei 
+NULL ({ }) 1 ({ 1 }) 2 ({ 2 }) 
+# Sentence pair (22) source length 10 target length 8 alignment score : 3.53759e-09
+keine Dezimalstellen hier, also ergibt das eins zwei 
+NULL ({ }) no ({ 1 }) decimals ({ 2 3 5 }) up ({ 4 }) there ({ }) so ({ }) you ({ }) go ({ 6 }) 1 ({ 7 }) 2 ({ 8 }) and ({ }) 
+# Sentence pair (23) source length 5 target length 6 alignment score : 1.11383e-07
+und die Dezimalstelle kommt hier her 
+NULL ({ }) you ({ 1 }) put ({ 3 }) the ({ 2 }) decimal ({ }) there ({ 4 5 6 }) 
+# Sentence pair (24) source length 19 target length 16 alignment score : 9.17277e-17
+also 15 Prozent von 40 ist das gleiche wie Punkt 15 mal 40 was 600 ergibt 
+NULL ({ 7 9 }) so ({ 1 }) 15 ({ 2 }) percent ({ 3 }) of ({ 4 }) 40 ({ 5 }) is ({ 6 }) equal ({ 8 }) to ({ }) point ({ }) 1 ({ }) 5 ({ 11 }) times ({ 12 }) 40 ({ 13 }) which ({ 14 }) equals ({ 15 }) 6 ({ 16 }) point ({ 10 }) 0 ({ }) 0 ({ }) 
+# Sentence pair (25) source length 8 target length 7 alignment score : 6.72066e-07
+und das ist das gleiche wie 6 
+NULL ({ }) well ({ 1 }) thats ({ 2 3 }) just ({ }) the ({ 4 }) same ({ 5 }) thing ({ 6 }) as ({ }) 6 ({ 7 }) 
+# Sentence pair (26) source length 4 target length 7 alignment score : 3.91836e-09
+nun werden wir die nächste Aufgabe machen 
+NULL ({ }) lets ({ 1 3 }) do ({ 4 }) another ({ 2 5 6 7 }) problem ({ }) 
+# Sentence pair (27) source length 7 target length 10 alignment score : 5.23015e-11
+ich hoffe, dass es euch nicht zu fest verwirrte hat 
+NULL ({ }) hopefully ({ 1 }) that ({ }) didnt ({ 6 }) confuse ({ 5 }) you ({ }) too ({ 4 7 }) much ({ 2 3 8 9 10 }) 
+# Sentence pair (28) source length 11 target length 8 alignment score : 2.62309e-08
+und ich werde jetzt versuchen euch zu verwirren 
+NULL ({ }) and ({ 1 }) im ({ 2 }) going ({ 3 4 }) to ({ }) try ({ 5 8 }) to ({ 7 }) confuse ({ 6 }) you ({ }) this ({ }) time ({ }) just ({ }) 
+# Sentence pair (29) source length 9 target length 10 alignment score : 2.79093e-13
+im Falle, dass ihr letztes mal nich richtig verwirrt wart 
+NULL ({ }) in ({ 1 }) case ({ }) you ({ }) werent ({ 4 }) properly ({ 5 6 7 8 9 10 }) confused ({ 3 }) the ({ }) last ({ 2 }) time ({ }) 
+# Sentence pair (30) source length 15 target length 10 alignment score : 7.4653e-13
+was ist 2 Prozent von, lasst mich denken, von 7 
+NULL ({ }) what ({ 1 }) is ({ 2 }) point ({ }) 2 ({ 3 }) percent ({ 4 }) of ({ }) mmm ({ }) let ({ }) me ({ }) think ({ }) of ({ }) a ({ }) number ({ }) of ({ 9 }) seven ({ 5 6 7 8 10 }) 
+# Sentence pair (31) source length 8 target length 8 alignment score : 7.10951e-10
+viele lassen sich täuschen und würden einfach denken 
+NULL ({ }) so ({ }) a ({ }) lot ({ 1 }) of ({ }) peoples ({ 8 }) inclinationt ({ 2 3 4 5 6 7 }) would ({ }) just ({ }) 
+# Sentence pair (32) source length 12 target length 12 alignment score : 3.73918e-10
+sagen wir oh 2 Prozent ist das gleiche wie 0 Punkt 2 
+NULL ({ }) say ({ 1 2 }) oh ({ 3 }) point ({ }) 2 ({ 4 }) percent ({ 5 }) thats ({ 6 7 }) the ({ }) same ({ 8 }) thing ({ 9 }) as ({ 10 }) point ({ 11 }) 2 ({ 12 }) 
+# Sentence pair (33) source length 10 target length 10 alignment score : 2.99879e-10
+und wenn ihr das so denkt, dann wäre das falsch 
+NULL ({ }) and ({ 1 }) if ({ 2 }) that ({ 3 4 9 }) was ({ 5 }) your ({ }) inclination ({ 6 7 }) you ({ }) would ({ }) be ({ }) wrong ({ 8 10 }) 
+# Sentence pair (34) source length 6 target length 8 alignment score : 1.96729e-06
+denn denkt daran das ist nicht Punkt 2 
+NULL ({ }) cos ({ 1 }) remember ({ 2 3 }) this ({ 4 }) isnt ({ 5 6 }) point ({ 7 }) 2 ({ 8 }) 
+# Sentence pair (35) source length 5 target length 5 alignment score : 0.0058669
+das ist Punkt 2 Prozent 
+NULL ({ }) this ({ 1 }) is ({ 2 }) point ({ 3 }) 2 ({ 4 }) percent ({ 5 }) 
+# Sentence pair (36) source length 9 target length 11 alignment score : 1.22292e-15
+es gibt 2 verschiedene Wege wie man sich das vorstellen kann 
+NULL ({ }) so ({ }) there ({ }) is ({ }) 2 ({ 3 }) ways ({ 1 2 4 }) of ({ }) thinking ({ 6 8 10 }) about ({ 5 7 11 }) this ({ 9 }) 
+# Sentence pair (37) source length 15 target length 14 alignment score : 5.1494e-13
+man könnte sagen, dass Punkt 2 geteilt 100 das selbe ist wie wenn man 
+NULL ({ }) you ({ 1 }) could ({ 2 3 4 }) say ({ }) that ({ }) this ({ 9 }) is ({ }) point ({ 5 }) 2 ({ 6 }) over ({ 7 }) a ({ }) 100 ({ 8 }) which ({ 10 12 }) is ({ 11 }) if ({ 13 }) you ({ 14 }) 
+# Sentence pair (38) source length 9 target length 9 alignment score : 5.10065e-10
+den Zähler und den Nenner mit 10 multiplizieren würde 
+NULL ({ }) multiply ({ 6 }) the ({ }) numerator ({ 2 }) and ({ 3 }) denominator ({ 1 4 5 8 9 }) by ({ }) 10 ({ 7 }) is ({ }) the ({ }) 
+# Sentence pair (39) source length 7 target length 7 alignment score : 5.16257e-09
+das ergibt dann 2 geteilt durch 1000 
+NULL ({ }) same ({ 1 }) thing ({ }) as ({ }) 2 ({ 4 }) over ({ 5 }) a ({ }) 1000 ({ 2 3 6 7 }) 
+# Sentence pair (40) source length 9 target length 9 alignment score : 4.64161e-09
+oder man kann eifach die Technik anwenden, wo man 
+NULL ({ }) or ({ 1 }) you ({ 2 }) can ({ 3 }) just ({ }) do ({ }) the ({ 5 }) technique ({ 4 6 7 8 }) where ({ }) you ({ 9 }) 
+# Sentence pair (41) source length 9 target length 9 alignment score : 1.57634e-13
+das Komma einfach um zwei Stellen nach Links verschieben 
+NULL ({ }) move ({ }) the ({ }) decimal ({ }) space ({ 4 6 7 8 }) over ({ }) 2 ({ }) to ({ }) the ({ 1 }) left ({ 2 3 5 9 }) 
+# Sentence pair (42) source length 11 target length 9 alignment score : 1.09658e-10
+wenn wir also mit Punkt 2 starten, verschiebst du 
+NULL ({ }) in ({ }) which ({ }) case ({ }) if ({ 1 }) youre ({ 2 }) starting ({ 3 7 8 9 }) with ({ 4 }) point ({ 5 }) 2 ({ 6 }) you ({ }) move ({ }) 
+# Sentence pair (43) source length 10 target length 10 alignment score : 2.59155e-11
+das Dezimalzeichen um 2 Stellen nach Links kriegt ihr bam 
+NULL ({ }) the ({ 1 }) decimal ({ 2 }) space ({ 3 5 6 7 }) 2 ({ 4 }) to ({ }) the ({ }) left ({ }) you ({ }) go ({ 8 9 }) bam ({ 10 }) 
+# Sentence pair (44) source length 1 target length 1 alignment score : 0.576943
+oops 
+NULL ({ }) whoops ({ 1 }) 
+# Sentence pair (45) source length 2 target length 2 alignment score : 0.290893
+bam bam 
+NULL ({ }) bam ({ 1 }) bam ({ 2 }) 
+# Sentence pair (46) source length 5 target length 5 alignment score : 1.30738e-06
+hier hin gehört das Dezimalzeichen 
+NULL ({ }) thats ({ }) where ({ 1 2 3 }) the ({ 4 }) decimal ({ 5 }) goes ({ }) 
+# Sentence pair (47) source length 5 target length 4 alignment score : 1.93898e-07
+das ergibt dann 0002 
+NULL ({ }) thats ({ 1 }) point ({ }) 0 ({ 3 }) 0 ({ 2 }) 2 ({ 4 }) 
+# Sentence pair (48) source length 3 target length 4 alignment score : 0.00204344
+das ist der Schlüssel 
+NULL ({ }) this ({ 1 }) is ({ 2 }) key ({ 3 4 }) 
+# Sentence pair (49) source length 12 target length 11 alignment score : 3.17258e-06
+Punkt 2 Prozent ist das gleiche wie Punkt 0 0 2 
+NULL ({ }) point ({ 1 }) 2 ({ 2 }) percent ({ 3 }) is ({ 4 }) the ({ 5 }) same ({ 6 }) thing ({ 7 }) as ({ }) point ({ 8 }) 0 ({ 9 }) 0 ({ 10 }) 2 ({ 11 }) 
+# Sentence pair (50) source length 13 target length 12 alignment score : 2.31742e-16
+dieser Fehler kann jedem leicht passieren, ich mache diesen Flüchtigkeitsfehler fast immer 
+NULL ({ }) this ({ }) can ({ 3 }) always ({ 12 }) trip ({ }) you ({ }) up ({ }) and ({ }) ive ({ }) ive ({ 2 }) made ({ 1 }) this ({ }) careless ({ 4 }) mistake ({ 5 6 7 8 9 10 11 }) 
+# Sentence pair (51) source length 12 target length 10 alignment score : 8.48314e-11
+darum nicht so tragisch nehmen wenns es euch mal passiert 
+NULL ({ }) all ({ 1 }) the ({ }) time ({ 8 9 }) so ({ 3 }) dont ({ 2 }) feel ({ 4 5 }) bad ({ 10 }) if ({ }) you ({ }) ever ({ 6 }) do ({ }) it ({ 7 }) 
+# Sentence pair (52) source length 9 target length 7 alignment score : 2.52518e-06
+aber immer äusserst vorsichtig sein beim Dezimalzeichen 
+NULL ({ }) but ({ 1 }) just ({ }) always ({ 2 }) pay ({ }) carefull ({ 3 }) attention ({ 4 5 6 }) to ({ }) your ({ }) decimal ({ 7 }) 
+# Sentence pair (53) source length 7 target length 5 alignment score : 6.43154e-07
+und gleichzeitig auf die Prozente 
+NULL ({ }) and ({ 1 }) a ({ }) percentage ({ }) at ({ 2 3 4 5 }) the ({ }) same ({ }) time ({ }) 
+# Sentence pair (54) source length 11 target length 11 alignment score : 9.36925e-11
+nun da wir herausgefunden haben, wie diese Prozente zu schreiben sind 
+NULL ({ }) so ({ }) now ({ 1 }) that ({ }) weve ({ 2 3 4 5 }) figured ({ 11 }) out ({ 10 }) how ({ 6 }) to ({ 9 }) write ({ 8 }) this ({ 7 }) percentage ({ }) 
+# Sentence pair (55) source length 12 target length 10 alignment score : 1.10109e-13
+also das Dezimal müssen müssen wir mit der Zahl multiplitzieren 
+NULL ({ }) as ({ 1 }) the ({ 2 }) decimal ({ 3 }) we ({ 6 }) just ({ }) have ({ 4 5 }) to ({ }) multiply ({ 7 }) it ({ }) times ({ }) the ({ 8 }) number ({ 9 10 }) 
+# Sentence pair (56) source length 7 target length 8 alignment score : 1.47016e-08
+von der wir den prozentualen Anteil wissen wollen 
+NULL ({ }) that ({ }) we ({ 3 }) want ({ 2 }) take ({ 4 5 6 7 8 }) the ({ }) percentage ({ }) of ({ 1 }) 
+# Sentence pair (57) source length 9 target length 8 alignment score : 6.96762e-05
+also sagen wir 0 0 2 mal 7 
+NULL ({ }) so ({ 1 }) we ({ 3 }) say ({ 2 }) point ({ }) 0 ({ 4 }) 0 ({ 5 }) 2 ({ 6 }) times ({ 7 }) 7 ({ 8 }) 
+# Sentence pair (58) source length 5 target length 4 alignment score : 0.00025972
+das geht ganz einfach 
+NULL ({ }) well ({ }) this ({ 1 }) is ({ }) pretty ({ 2 }) straightforward ({ 3 4 }) 
+# Sentence pair (59) source length 6 target length 5 alignment score : 0.00728146
+7 mal 2 ist 14 
+NULL ({ }) 7 ({ 1 }) times ({ 2 }) 2 ({ 3 }) is ({ 4 }) 14 ({ 5 }) right ({ }) 
+# Sentence pair (60) source length 12 target length 11 alignment score : 7.96712e-07
+und wie viele Nummern haben wir im Ganzen oder wie viele 
+NULL ({ }) and ({ 1 }) how ({ 2 }) many ({ 3 }) totals ({ 4 7 }) numbers ({ 8 }) do ({ }) we ({ 6 }) have ({ 5 }) or ({ 9 }) how ({ 10 }) many ({ 11 }) total ({ }) 
+# Sentence pair (61) source length 8 target length 6 alignment score : 1.24745e-06
+Nachkommastellen haben wir nach dem Dezimalpunkt 
+NULL ({ }) digits ({ 1 }) do ({ }) we ({ 3 }) have ({ 2 }) behind ({ 4 5 6 }) the ({ }) decimal ({ }) point ({ }) 
+# Sentence pair (62) source length 2 target length 5 alignment score : 1.43895e-05
+schauen wir uns das an 
+NULL ({ }) lets ({ 1 2 }) see ({ 3 4 5 }) 
+# Sentence pair (63) source length 4 target length 5 alignment score : 7.62256e-06
+es sind eins zwei drei 
+NULL ({ }) its ({ 1 2 }) 1 ({ 3 }) 2 ({ 4 }) 3 ({ 5 }) 
+# Sentence pair (64) source length 11 target length 10 alignment score : 3.64596e-10
+also brauchen wir eins zwei drei Stellen nach dem Dezimalpunkt 
+NULL ({ }) so ({ 1 }) we ({ 3 }) need ({ 2 }) 1 ({ 4 }) 2 ({ 5 }) 3 ({ 6 }) digits ({ 7 }) behind ({ 8 9 10 }) the ({ }) decimal ({ }) point ({ }) 
+# Sentence pair (65) source length 13 target length 11 alignment score : 3.8107e-08
+also Punkt 2 Prozent von 7 ist gleich Punkt Null 14 
+NULL ({ }) so ({ 1 }) point ({ 2 }) 2 ({ 3 }) percent ({ 4 }) of ({ 5 }) 7 ({ 6 }) is ({ 7 }) equal ({ 8 }) to ({ }) point ({ 9 }) zero ({ 10 11 }) 1 ({ }) 4 ({ }) 
+# Sentence pair (66) source length 8 target length 11 alignment score : 3.04354e-11
+und ihr sagt euch wahrscheinlich Mensch, dass sieht wie eine wirklich 
+NULL ({ }) and ({ 1 }) youre ({ 2 }) probably ({ 3 4 }) thinking ({ }) boy ({ 5 6 7 8 9 }) thats ({ }) a ({ 10 }) really ({ 11 }) 
+# Sentence pair (67) source length 3 target length 4 alignment score : 0.000595759
+wirklich kleine Nummer aus 
+NULL ({ }) really ({ 1 }) small ({ 2 4 }) number ({ 3 }) 
+# Sentence pair (68) source length 14 target length 13 alignment score : 1.85585e-11
+und und das macht Sinn, denn wenn man Punkt 2 Prozent wäre wie 
+NULL ({ }) and ({ 1 }) and ({ 2 }) it ({ 3 }) it ({ }) makes ({ 4 }) sense ({ }) because ({ }) point ({ 9 }) 2 ({ 10 }) percent ({ 11 }) thats ({ }) y ({ 5 6 12 13 }) if ({ 7 }) you ({ 8 }) 
+# Sentence pair (69) source length 12 target length 12 alignment score : 2.45751e-09
+wenn man darüber nachdenkt ist das sogar noch kleiner als 1 Prozent 
+NULL ({ }) if ({ 1 }) you ({ 2 }) wanna ({ 4 }) think ({ }) about ({ 3 }) it ({ }) thats ({ 5 6 }) smaller ({ 9 }) than ({ 7 }) even ({ 8 10 }) 1 ({ 11 }) percent ({ 12 }) 
+# Sentence pair (70) source length 7 target length 8 alignment score : 1.27981e-07
+und das ist noch kleiner als ein hundertstel 
+NULL ({ }) so ({ 1 }) thats ({ 2 3 }) even ({ 4 }) smaller ({ 5 }) than ({ 6 }) 1 ({ }) 100th ({ 7 8 }) 
+# Sentence pair (71) source length 13 target length 11 alignment score : 3.37918e-11
+und wenn ihr darüber denkt Punkt 2 Prozent sind 1 500stel 
+NULL ({ }) and ({ 1 }) actually ({ }) if ({ 2 }) you ({ 3 }) think ({ 5 }) about ({ 4 }) it ({ }) point ({ 6 }) 2 ({ 7 }) percent ({ 8 }) is ({ }) 1 ({ }) 500th ({ 9 10 11 }) 
+# Sentence pair (72) source length 12 target length 9 alignment score : 1.25762e-05
+und wenn man 7 1 500stel von 7 ausrechnet 
+NULL ({ }) so ({ }) and ({ 1 }) if ({ 2 }) you ({ 3 }) do ({ }) the ({ }) math ({ 9 }) 7 ({ 4 }) 1 ({ 5 }) 500th ({ 6 }) of ({ 7 }) 7 ({ 8 }) 
+# Sentence pair (73) source length 7 target length 5 alignment score : 9.07623e-06
+kommt man auf diese Zahl 
+NULL ({ }) will ({ 1 }) turn ({ 2 3 }) out ({ }) to ({ }) be ({ }) this ({ 4 }) number ({ 5 }) 
+# Sentence pair (74) source length 8 target length 8 alignment score : 1.04027e-07
+und es es ist wichtig das zu tun 
+NULL ({ }) and ({ 1 }) thats ({ 4 6 }) thats ({ }) an ({ 2 3 }) important ({ 5 }) thing ({ }) to ({ 7 }) do ({ 8 }) 
+# Sentence pair (75) source length 10 target length 8 alignment score : 5.38024e-08
+es ist immer gut eine Realitätsprüfung zu machen 
+NULL ({ }) is ({ 2 }) always ({ 3 }) good ({ 1 }) to ({ }) do ({ }) a ({ 5 }) reality ({ 6 }) check ({ }) because ({ 7 }) when ({ 4 8 }) 
+# Sentence pair (76) source length 10 target length 7 alignment score : 2.80239e-08
+wenn mann diese Dezimal und Prozentaufgaben rechnet 
+NULL ({ }) youre ({ 1 }) going ({ }) this ({ 3 }) decimal ({ 4 }) or ({ }) these ({ 7 }) ehm ({ 2 }) um ({ 5 }) percent ({ }) problems ({ 6 }) 
+# Sentence pair (77) source length 15 target length 14 alignment score : 5.46589e-14
+da passiert es leicht, dass man mal einen Faktor 10 da oder dort verliert 
+NULL ({ }) its ({ 1 3 }) very ({ 2 4 5 }) easy ({ }) to ({ }) uhm ({ 13 }) kind ({ 14 }) of ({ }) lose ({ 6 7 }) a ({ }) factor ({ 8 9 }) of ({ }) 10 ({ 10 }) here ({ 11 }) or ({ 12 }) there ({ }) 
+# Sentence pair (78) source length 6 target length 7 alignment score : 3.60522e-05
+oder einen Faktor von 10 hinzu gewinnt 
+NULL ({ }) or ({ 1 }) gain ({ 6 7 }) the ({ }) factor ({ 2 3 }) of ({ 4 }) 10 ({ 5 }) 
+# Sentence pair (79) source length 13 target length 13 alignment score : 2.20012e-17
+daher immer eine Realitätsprüfung machen, um zu sehen ob das Ergebnis stimmen kann 
+NULL ({ }) so ({ }) always ({ 2 }) do ({ }) a ({ 3 }) reality ({ 4 5 }) check ({ 6 8 }) to ({ 7 }) see ({ 10 }) if ({ }) your ({ 1 9 12 }) answer ({ 11 13 }) makes ({ }) sense ({ }) 
+# Sentence pair (80) source length 8 target length 4 alignment score : 6.0806e-06
+nun wirds noch verwirrender 
+NULL ({ }) so ({ }) now ({ 1 }) im ({ }) gonna ({ }) confuse ({ }) you ({ }) even ({ 3 }) further ({ 2 4 }) 
+# Sentence pair (81) source length 14 target length 13 alignment score : 1.10848e-08
+was wenn ich euch fragen würde 4 ist 20 Prozent von welcher Nummer 
+NULL ({ }) what ({ 1 }) if ({ 2 }) i ({ 3 }) were ({ 4 5 }) to ({ }) ask ({ 6 }) you ({ }) 4 ({ 7 }) is ({ 8 }) 20 ({ 9 }) percent ({ 10 }) of ({ 11 }) what ({ 12 }) number ({ 13 }) 
+# Sentence pair (82) source length 2 target length 2 alignment score : 0.0192074
+welcher Nummer 
+NULL ({ }) what ({ 1 }) number ({ 2 }) 
+# Sentence pair (83) source length 9 target length 3 alignment score : 6.41502e-05
+viele denken reflexartig 
+NULL ({ }) so ({ }) lot ({ }) of ({ }) peoples ({ 1 }) reflex ({ 2 3 }) would ({ }) might ({ }) just ({ }) be ({ }) 
+# Sentence pair (84) source length 6 target length 5 alignment score : 8.54596e-05
+ich nehme mal 20 Prozent 
+NULL ({ }) oh ({ 1 }) let ({ }) me ({ 2 3 }) take ({ }) 20 ({ 4 }) percent ({ 5 }) 
+# Sentence pair (85) source length 5 target length 4 alignment score : 1.22743e-05
+es wird Punkt 020 
+NULL ({ }) it ({ 1 }) becomes ({ 2 4 }) point ({ 3 }) 2 ({ }) 0 ({ }) 
+# Sentence pair (86) source length 5 target length 5 alignment score : 0.000127153
+und multipliziere das mit 4 
+NULL ({ }) and ({ 1 }) mutiply ({ 2 4 }) it ({ 3 }) times ({ }) 4 ({ 5 }) 
+# Sentence pair (87) source length 10 target length 8 alignment score : 5.32258e-07
+und in diesem Fall wäre das falsch gedacht 
+NULL ({ }) and ({ 1 }) in ({ 2 }) that ({ 6 }) case ({ 3 4 }) again ({ }) you ({ }) you ({ }) may ({ 5 }) be ({ }) wrong ({ 7 8 }) 
+# Sentence pair (88) source length 4 target length 3 alignment score : 0.00068622
+denkt mal darüber 
+NULL ({ }) cos ({ 1 }) think ({ 2 }) about ({ 3 }) it ({ }) 
+# Sentence pair (89) source length 9 target length 9 alignment score : 1.54712e-06
+ich sage nicht was sind 20 Prozent von 4 
+NULL ({ }) im ({ 1 }) not ({ 3 5 }) saying ({ 2 }) what ({ 4 }) is ({ }) 20 ({ 6 }) percent ({ 7 }) of ({ 8 }) 4 ({ 9 }) 
+# Sentence pair (90) source length 10 target length 11 alignment score : 9.69642e-11
+ich sage was ist 20 von einer bestimmten Zahl ist 4 
+NULL ({ 4 }) im ({ 1 }) saying ({ 2 3 }) that ({ }) 20 ({ 5 }) percent ({ }) of ({ 6 }) some ({ 7 8 }) number ({ 9 }) is ({ 10 }) 4 ({ 11 }) 
+# Sentence pair (91) source length 11 target length 6 alignment score : 8.96538e-10
+dafür brauchen wir jetzt etwas Algebra 
+NULL ({ }) so ({ }) now ({ }) were ({ }) gonna ({ }) be ({ }) doing ({ }) a ({ }) little ({ 6 }) bit ({ }) of ({ }) algebra ({ 1 2 3 4 5 }) 
+# Sentence pair (92) source length 10 target length 10 alignment score : 2.5096e-09
+ich wette das habt ihr nicht erwartet im Prozent Modul 
+NULL ({ }) i ({ 1 }) bet ({ 2 }) you ({ }) didnt ({ 6 }) expect ({ 4 5 }) that ({ 3 }) in ({ 8 }) the ({ }) percent ({ 9 }) module ({ 7 10 }) 
+# Sentence pair (93) source length 6 target length 4 alignment score : 6.13827e-07
+x sei diese zahl 
+NULL ({ }) so ({ }) let ({ 2 3 4 }) x ({ 1 }) equal ({ }) the ({ }) number ({ }) 
+# Sentence pair (94) source length 2 target length 2 alignment score : 0.00962862
+die Zahl 
+NULL ({ }) the ({ 1 }) number ({ 2 }) 
+# Sentence pair (95) source length 3 target length 3 alignment score : 0.0108185
+oder diese Nummer 
+NULL ({ }) or ({ 1 }) this ({ 2 }) number ({ 3 }) 
+# Sentence pair (96) source length 5 target length 5 alignment score : 6.36856e-06
+lasse x gleich dieser Nummer 
+NULL ({ }) let ({ 1 }) x ({ 2 }) equal ({ 3 }) that ({ }) number ({ 4 5 }) 
+# Sentence pair (97) source length 15 target length 14 alignment score : 1.31525e-10
+und das Problem beschreibt, dass 20 Prozent 20 Prozent von X gleich 4 ist 
+NULL ({ }) and ({ 1 }) this ({ 2 }) problem ({ }) says ({ 3 4 5 }) that ({ }) 20 ({ 6 }) percent ({ 7 }) 20 ({ 8 }) percent ({ 9 }) of ({ 10 }) x ({ 11 }) is ({ 14 }) equal ({ 12 }) to ({ }) 4 ({ 13 }) 
+# Sentence pair (98) source length 11 target length 12 alignment score : 1.13888e-10
+ich glaube jetzt ist es in einer Form die euch bekannt vorkommt 
+NULL ({ }) i ({ 1 }) think ({ 2 }) now ({ 3 }) its ({ 4 5 }) in ({ 6 }) a ({ }) form ({ 7 8 }) that ({ }) you ({ }) might ({ 9 }) recognise ({ 10 11 12 }) 
+# Sentence pair (99) source length 12 target length 10 alignment score : 2.33566e-09
+so wie schreibt man 20 Prozent davon wie ein Dezimal 
+NULL ({ }) so ({ 1 }) how ({ 2 }) do ({ 3 }) you ({ 4 }) write ({ 7 }) 20 ({ 5 }) percent ({ 6 }) of ({ }) it ({ }) as ({ 8 }) a ({ 9 }) decimal ({ 10 }) 
+# Sentence pair (100) source length 9 target length 12 alignment score : 5.36977e-12
+nun, dass ist das Gleiche wie Punkt 2 0 oder Punkt 2 
+NULL ({ 6 }) well ({ 1 }) thats ({ 2 3 4 5 }) just ({ }) point ({ 7 }) 2 ({ 8 }) 0 ({ 9 }) or ({ 10 }) point ({ 11 }) 2 ({ 12 }) 
+# Sentence pair (101) source length 10 target length 10 alignment score : 2.54222e-11
+und wir multiplizieren das mit x um 4 zu kriegen 
+NULL ({ }) and ({ 1 }) we ({ 2 }) just ({ 3 }) multiply ({ 5 }) it ({ 4 }) by ({ }) x ({ 6 }) to ({ 7 }) get ({ }) four ({ 8 9 10 }) 
+# Sentence pair (102) source length 10 target length 9 alignment score : 8.28812e-07
+so 20 Prozent ist das selbe wie Punkt 2 
+NULL ({ }) so ({ 1 }) 20 ({ 2 }) percent ({ 3 }) thats ({ 4 5 }) the ({ }) same ({ 6 }) thing ({ 7 }) as ({ }) point ({ 8 }) 2 ({ 9 }) 
+# Sentence pair (103) source length 12 target length 12 alignment score : 4.22305e-08
+es ist das selbe als Punkt 2 0 aber das letzte nachfolgende 
+NULL ({ }) its ({ 1 2 }) the ({ 3 }) same ({ 4 }) thing ({ }) as ({ 5 }) point ({ 6 }) 2 ({ 7 }) 0 ({ 8 }) but ({ 9 }) that ({ 10 }) last ({ 11 }) trailing ({ 12 }) 
+# Sentence pair (104) source length 4 target length 5 alignment score : 4.98971e-05
+Null hat keine grosse Bedeutung 
+NULL ({ }) zero ({ 1 }) doesnt ({ 2 }) mean ({ 3 4 5 }) much ({ }) 
+# Sentence pair (105) source length 8 target length 7 alignment score : 0.00215236
+Punkt 2 mal x ist gleich 4 
+NULL ({ }) point ({ 1 }) 2 ({ 2 }) times ({ 3 }) x ({ 4 }) is ({ 5 }) equal ({ 6 }) to ({ }) 4 ({ 7 }) 
+# Sentence pair (106) source length 9 target length 9 alignment score : 9.4297e-07
+und nun haben wir eine lineare Gleichung ersten Grades 
+NULL ({ }) and ({ 1 }) now ({ 2 }) we ({ 4 }) have ({ 3 }) a ({ 5 }) level ({ 6 }) 1 ({ }) linear ({ 7 8 }) equation ({ 9 }) 
+# Sentence pair (107) source length 8 target length 8 alignment score : 7.00075e-09
+ich wette, dads ihr das nicht erwarter habt 
+NULL ({ }) i ({ 1 }) bet ({ 2 }) you ({ }) didnt ({ 6 }) expect ({ 3 4 7 8 }) to ({ }) see ({ }) that ({ 5 }) 
+# Sentence pair (108) source length 5 target length 5 alignment score : 5.39197e-05
+so was können wir tun 
+NULL ({ }) so ({ 1 }) what ({ 2 }) do ({ 3 }) we ({ 4 }) do ({ 5 }) 
+# Sentence pair (109) source length 4 target length 3 alignment score : 0.000610625
+wir können entweder 
+NULL ({ }) we ({ 1 }) we ({ }) can ({ 2 }) either ({ 3 }) 
+# Sentence pair (110) source length 9 target length 10 alignment score : 1.18356e-10
+oh nun, jetzt gibt es zwei Möglichkeiten dies zu betrachten 
+NULL ({ }) oh ({ 1 }) well ({ 2 }) there ({ }) is ({ }) two ({ 3 6 10 }) ways ({ 4 }) to ({ 9 }) view ({ 7 8 }) it ({ 5 }) 
+# Sentence pair (111) source length 10 target length 8 alignment score : 7.64768e-09
+man kann eifach beide Seiten dieser Gleichung teilen 
+NULL ({ }) you ({ 1 }) can ({ 2 }) just ({ }) divide ({ }) the ({ }) both ({ 3 4 5 }) sides ({ 6 }) of ({ }) this ({ }) equation ({ 7 8 }) 
+# Sentence pair (112) source length 5 target length 5 alignment score : 4.45139e-05
+durch den Koeffizient von x 
+NULL ({ }) by ({ 1 }) the ({ 2 }) coefficient ({ 3 4 }) on ({ }) x ({ 5 }) 
+# Sentence pair (113) source length 14 target length 14 alignment score : 1.49094e-11
+also wenn man durch Punkt 2 dividiert hier, teilt man durch Punkt 2 hier 
+NULL ({ }) so ({ 1 }) if ({ 2 }) you ({ 3 }) do ({ }) divide ({ }) point ({ 5 }) 2 ({ 6 }) here ({ 7 }) you ({ 10 }) divide ({ 8 9 }) by ({ 4 11 }) point ({ 12 }) 2 ({ 13 }) here ({ 14 }) 
+# Sentence pair (114) source length 12 target length 12 alignment score : 1.95882e-09
+und so erhält man x ist gleich 4 geteilt durch Punkt 2 
+NULL ({ }) so ({ 1 }) you ({ 4 }) get ({ 2 3 }) x ({ 5 }) is ({ 6 }) equal ({ 7 }) to ({ }) 4 ({ 8 }) divided ({ 9 }) by ({ 10 }) point ({ 11 }) 2 ({ 12 }) 
+# Sentence pair (115) source length 11 target length 11 alignment score : 3.63577e-12
+so lasst uns nun herausfinden was 4 geteilt durch 02 ist 
+NULL ({ }) so ({ 1 }) lets ({ }) figure ({ 2 3 5 }) out ({ 4 }) what ({ 6 }) 4 ({ 7 }) divided ({ 8 10 }) by ({ 9 }) point ({ }) 2 ({ }) is ({ 11 }) 
+# Sentence pair (116) source length 7 target length 7 alignment score : 1.1508e-08
+so ich hoffe wir haben genügend Platz 
+NULL ({ }) see ({ }) i ({ }) hope ({ 1 3 }) i ({ 2 }) have ({ 5 }) enough ({ 4 6 }) space ({ 7 }) 
+# Sentence pair (117) source length 12 target length 12 alignment score : 8.06244e-16
+Punkt 2 geht ins 4, so ich werde ein Dezimalstelle hierhin tun 
+NULL ({ }) point ({ 1 }) 2 ({ 2 }) goes ({ 3 }) into ({ }) 4 ({ }) im ({ 7 }) gonna ({ 4 5 6 8 11 12 }) put ({ 10 }) a ({ }) decimal ({ }) point ({ }) here ({ 9 }) 
+# Sentence pair (118) source length 10 target length 6 alignment score : 1.05885e-07
+und um das auszurechnen verschieben wir 
+NULL ({ }) and ({ 1 }) the ({ }) way ({ 4 }) we ({ }) do ({ }) these ({ 2 }) problems ({ }) we ({ 6 }) move ({ 5 }) the ({ 3 }) 
+# Sentence pair (119) source length 8 target length 8 alignment score : 1.74882e-12
+den Dezimalpunkt hier um eine Stelle nach rechts 
+NULL ({ }) decimal ({ 1 }) point ({ }) here ({ 3 }) 1 ({ }) over ({ 4 }) to ({ }) the ({ }) right ({ 2 5 6 7 8 }) 
+# Sentence pair (120) source length 12 target length 12 alignment score : 3.53825e-15
+also bekommen wir hier eine 2 und wir können den Dezimalpunkt verschieben 
+NULL ({ }) we ({ 1 3 }) just ({ }) get ({ 2 4 }) a ({ 5 }) 2 ({ 6 }) and ({ 7 }) we ({ 8 }) can ({ 9 }) move ({ 11 12 }) the ({ }) decimal ({ 10 }) point ({ }) 
+# Sentence pair (121) source length 5 target length 5 alignment score : 1.04865e-07
+um 1 Stelle nach Rechts 
+NULL ({ }) 1 ({ 2 }) over ({ 3 }) to ({ 1 }) the ({ }) right ({ 4 5 }) 
+# Sentence pair (122) source length 12 target length 8 alignment score : 6.64913e-14
+02 passt also genau sooft in 4 wie 
+NULL ({ }) so ({ 1 3 }) this ({ }) point ({ }) 2 ({ }) goes ({ 2 4 }) into ({ 5 6 }) 4 ({ 7 }) the ({ }) same ({ 8 }) number ({ }) of ({ }) times ({ }) 
+# Sentence pair (123) source length 5 target length 5 alignment score : 0.000318998
+das 2 in 40 passt 
+NULL ({ }) that ({ 1 }) 2 ({ 2 }) goes ({ 5 }) into ({ 3 }) 40 ({ 4 }) 
+# Sentence pair (124) source length 4 target length 4 alignment score : 0.0102895
+und das ist einfach 
+NULL ({ }) and ({ 1 }) this ({ 2 }) is ({ 3 }) easy ({ 4 }) 
+# Sentence pair (125) source length 7 target length 7 alignment score : 1.94113e-06
+2 passt wie oft in die 40 
+NULL ({ }) 2 ({ 1 }) goes ({ 2 }) into ({ 5 6 }) 40 ({ 7 }) how ({ 3 }) many ({ 4 }) times ({ }) 
+# Sentence pair (126) source length 11 target length 10 alignment score : 9.02934e-08
+nun 2 passt 4 2 mal und zwei geht dann 
+NULL ({ }) well ({ 1 }) 2 ({ 2 }) goes ({ 3 }) into ({ }) 4 ({ 4 }) 2 ({ 5 }) times ({ 6 }) and ({ 7 }) then ({ 10 }) 2 ({ 8 }) goes ({ 9 }) 
+# Sentence pair (127) source length 4 target length 4 alignment score : 0.0108271
+zu 0 0 mal 
+NULL ({ }) to ({ 1 }) 0 ({ 2 }) 0 ({ 3 }) times ({ 4 }) 
+# Sentence pair (128) source length 7 target length 5 alignment score : 0.000166829
+das geht auch im Kopf 
+NULL ({ }) you ({ 1 }) couldve ({ 2 }) done ({ 3 }) that ({ }) in ({ 4 }) your ({ }) head ({ 5 }) 
+# Sentence pair (129) source length 6 target length 6 alignment score : 0.00281087
+2 in 40 ist 20 mal 
+NULL ({ }) 2 ({ 1 }) into ({ 2 }) 40 ({ 3 }) is ({ 4 }) 20 ({ 5 }) times ({ 6 }) 
+# Sentence pair (130) source length 8 target length 8 alignment score : 1.22582e-08
+also ist 4 geteilt durch 02 gleich 20 
+NULL ({ }) so ({ 1 }) 4 ({ 3 }) divided ({ 4 6 7 }) by ({ 5 }) point ({ }) 2 ({ }) is ({ 2 }) 20 ({ 8 }) 
+# Sentence pair (131) source length 10 target length 10 alignment score : 1.70328e-08
+die Antwort ist also 4 ist 20 prozent von 20 
+NULL ({ }) so ({ 4 }) the ({ 1 }) answer ({ 2 }) is ({ 3 }) 4 ({ 5 }) is ({ 6 }) 20 ({ 7 }) percent ({ 8 }) of ({ 9 }) 20 ({ 10 }) 
+# Sentence pair (132) source length 5 target length 3 alignment score : 0.00424624
+macht das sinn 
+NULL ({ }) and ({ }) does ({ 1 }) that ({ 2 }) make ({ 3 }) sense ({ }) 
+# Sentence pair (133) source length 9 target length 8 alignment score : 9.72989e-10
+nun, es gibt unterschiedlich Wege dies zu betrachten 
+NULL ({ }) well ({ 1 }) theres ({ 2 }) a ({ }) couple ({ 4 5 6 7 8 }) ways ({ 3 }) to ({ }) think ({ }) about ({ }) it ({ }) 
+# Sentence pair (134) source length 5 target length 5 alignment score : 0.0224812
+20 Prozent ist ungefähr was 
+NULL ({ }) 20 ({ 1 }) percent ({ 2 }) is ({ 3 }) roughly ({ 4 }) what ({ 5 }) 
+# Sentence pair (135) source length 7 target length 5 alignment score : 0.00167291
+es ist exact ein Fünftel 
+NULL ({ }) it ({ 1 }) it ({ }) is ({ 2 }) exactly ({ 3 }) a ({ }) one ({ 4 }) 5th ({ 5 }) 
+# Sentence pair (136) source length 7 target length 7 alignment score : 0.000369257
+und genau 4 mal 5 ist 20 
+NULL ({ }) and ({ 1 }) right ({ 2 }) 4 ({ 3 }) times ({ 4 }) 5 ({ 5 }) is ({ 6 }) 20 ({ 7 }) 
+# Sentence pair (137) source length 3 target length 3 alignment score : 0.00293705
+das macht Sinn 
+NULL ({ }) that ({ 1 }) makes ({ 2 3 }) sense ({ }) 
+# Sentence pair (138) source length 10 target length 12 alignment score : 1.30562e-12
+falls ihr euch noch Unsicher seit, können wir das ja nochmal überprüfen 
+NULL ({ }) if ({ 1 }) youre ({ 2 }) still ({ 3 4 5 }) not ({ }) sure ({ 6 }) we ({ 8 }) can ({ 7 }) check ({ 10 11 }) the ({ 9 }) problem ({ 12 }) 
+# Sentence pair (139) source length 6 target length 6 alignment score : 0.000129947
+nehmen wir 20 Prozent von 20 
+NULL ({ }) lets ({ 1 2 }) take ({ }) 20 ({ 3 }) percent ({ 4 }) of ({ 5 }) 20 ({ 6 }) 
+# Sentence pair (140) source length 12 target length 11 alignment score : 3.56981e-07
+20 Prozent von 20 ist gleich wie Punkt 2 mal 20 
+NULL ({ 7 }) so ({ }) 20 ({ 1 }) percent ({ 2 }) of ({ 3 }) 20 ({ 4 }) is ({ 5 }) equal ({ 6 }) to ({ }) point ({ 8 }) 2 ({ 9 }) times ({ 10 }) 20 ({ 11 }) 
+# Sentence pair (141) source length 11 target length 8 alignment score : 8.78518e-08
+wenn man das ausrechnet ergibt das ebenfalls 4 
+NULL ({ }) and ({ }) if ({ 1 }) you ({ 2 }) do ({ }) the ({ 3 }) maths ({ 4 5 }) that ({ 6 }) also ({ 7 }) will ({ }) equal ({ }) 4 ({ 8 }) 
+# Sentence pair (142) source length 9 target length 6 alignment score : 1.191e-09
+damit haben wir das Ergebnis überprüft 
+NULL ({ }) so ({ }) you ({ }) made ({ }) sure ({ }) you ({ }) got ({ 1 2 3 }) the ({ 4 }) right ({ }) answer ({ 5 6 }) 
+# Sentence pair (143) source length 6 target length 6 alignment score : 5.75071e-08
+machen wir noch eine weitere Übung 
+NULL ({ }) lets ({ 1 2 }) do ({ }) another ({ }) one ({ 3 }) like ({ 4 5 6 }) that ({ }) 
+# Sentence pair (144) source length 5 target length 6 alignment score : 2.82043e-06
+ich wähle die Zahlen zufällig aus 
+NULL ({ }) eehmm ({ }) im ({ 1 }) picking ({ 2 3 }) numbers ({ }) randomly ({ 4 5 6 }) 
+# Sentence pair (145) source length 10 target length 10 alignment score : 1.73171e-08
+hier die aufgabe 3 ist 9 Prozent von welcher zahl 
+NULL ({ }) lets ({ }) say ({ }) 3 ({ 4 }) is ({ 5 }) mmm ({ 1 }) hm ({ 2 3 10 }) 9 ({ 6 }) percent ({ 7 }) of ({ 8 }) what ({ 9 }) 
+# Sentence pair (146) source length 3 target length 3 alignment score : 0.0277162
+so wenn x 
+NULL ({ }) so ({ 1 }) if ({ 2 }) x ({ 3 }) 
+# Sentence pair (147) source length 2 target length 1 alignment score : 0.254923
+nochmal 
+NULL ({ }) once ({ 1 }) again ({ }) 
+# Sentence pair (148) source length 6 target length 7 alignment score : 5.58305e-08
+nun lassen wir X gleich der Nummer 
+NULL ({ }) lets ({ 1 3 }) let ({ 2 }) x ({ 4 }) equal ({ 5 }) the ({ 6 }) number ({ 7 }) 
+# Sentence pair (149) source length 8 target length 8 alignment score : 2.29725e-10
+die nummer, welche 3 von 9 Prozent von 
+NULL ({ }) the ({ 1 }) number ({ 2 3 }) that ({ }) 3 ({ 4 }) is ({ 5 }) 9 ({ 6 }) percent ({ 7 }) of ({ 8 }) 
+# Sentence pair (150) source length 7 target length 6 alignment score : 1.53323e-08
+das braucht ihr nicht alles hinzuschreiben 
+NULL ({ }) you ({ 1 }) dont ({ 4 }) have ({ }) to ({ }) write ({ }) all ({ 2 3 5 6 }) that ({ }) 
+# Sentence pair (151) source length 11 target length 11 alignment score : 1.05669e-07
+nun in diesem Fall wissen wir das Punkt 0 9 x 
+NULL ({ }) well ({ 1 }) in ({ 2 }) that ({ }) case ({ 3 4 }) we ({ 6 }) know ({ 5 }) that ({ 7 }) point ({ 8 }) 0 ({ 9 }) 9 ({ 10 }) x ({ 11 }) 
+# Sentence pair (152) source length 7 target length 6 alignment score : 5.90759e-08
+recht Punkt 09 ist das Gleiche 
+NULL ({ }) right ({ 1 }) point ({ 2 }) 0 ({ }) 9 ({ 3 }) thats ({ 4 5 }) the ({ }) same ({ 6 }) 
+# Sentence pair (153) source length 10 target length 8 alignment score : 0.000197796
+wie 9 Prozent von x ist gleich 3 
+NULL ({ }) thing ({ 1 }) as ({ }) 9 ({ 2 }) percent ({ 3 }) of ({ 4 }) x ({ 5 }) is ({ 6 }) equal ({ 7 }) to ({ }) 3 ({ 8 }) 
+# Sentence pair (154) source length 12 target length 10 alignment score : 1.41139e-05
+oder x ist gleich 3 geteilt durch Punkt 0 9 
+NULL ({ }) or ({ 1 }) that ({ }) x ({ 2 }) is ({ 3 }) equal ({ 4 }) to ({ }) 3 ({ 5 }) divided ({ 6 }) by ({ 7 }) point ({ 8 }) 0 ({ 9 }) 9 ({ 10 }) 
+# Sentence pair (155) source length 13 target length 14 alignment score : 6.60305e-14
+nun führen wir die Division durch Punkt 0 9 geht wie oft in 3 
+NULL ({ 11 }) well ({ 1 }) if ({ }) we ({ 3 }) do ({ }) the ({ 4 }) decimal ({ }) division ({ 2 5 6 }) point ({ 7 }) 0 ({ 8 }) 9 ({ 9 }) goes ({ 10 }) into ({ 12 13 }) 3 ({ 14 }) 
+# Sentence pair (156) source length 6 target length 6 alignment score : 4.21613e-09
+wir machen hier ein Dezimalzeichen hin 
+NULL ({ }) lets ({ 1 }) put ({ 2 3 }) a ({ 4 }) decimal ({ 5 }) point ({ }) here ({ 6 }) 
+# Sentence pair (157) source length 10 target length 10 alignment score : 9.28359e-08
+ich weiß noch nicht wie viele Nullen ich brauchen werde 
+NULL ({ }) i ({ 1 }) dont ({ 4 }) know ({ }) how ({ 5 }) many ({ 6 }) 0s ({ 2 3 7 }) im ({ 8 }) going ({ 10 }) to ({ }) need ({ 9 }) 
+# Sentence pair (158) source length 13 target length 11 alignment score : 7.80103e-11
+also wenn ich das Dezimalzeichen zwei mal nach Rechts verschiebe, dann 
+NULL ({ }) so ({ 1 }) if ({ 2 }) i ({ 3 }) move ({ }) this ({ }) decimal ({ 5 }) over ({ }) to ({ }) the ({ 4 }) right ({ 8 }) twice ({ 6 7 }) then ({ 11 }) ill ({ 9 10 }) 
+# Sentence pair (159) source length 8 target length 6 alignment score : 1.113e-09
+verschiebe diesen Dezimalpunkt zwei nach Rechts 
+NULL ({ }) move ({ 3 }) this ({ }) decimal ({ }) over ({ }) to ({ }) the ({ }) right ({ 5 }) twice ({ 1 2 4 6 }) 
+# Sentence pair (160) source length 12 target length 11 alignment score : 1.69371e-12
+also Punkt 0 9 passt genau so oft in 3 wie 
+NULL ({ }) so ({ 1 7 }) point ({ 2 }) 0 ({ 3 }) 9 ({ 4 }) goes ({ 5 6 }) into ({ 8 9 }) 3 ({ 10 }) the ({ }) same ({ 11 }) number ({ }) of ({ }) times ({ }) 
+# Sentence pair (161) source length 5 target length 5 alignment score : 1.40889e-05
+9 in 300 rein passt 
+NULL ({ }) that ({ }) 9 ({ 1 }) goes ({ }) into ({ 2 }) 300 ({ 3 4 5 }) 
+# Sentence pair (162) source length 7 target length 6 alignment score : 2.18876e-05
+also passt 9 genau 30 rein 
+NULL ({ }) so ({ 1 }) 9 ({ 3 }) goes ({ 2 }) into ({ 4 }) 30 ({ 5 }) three ({ 6 }) times ({ }) 
+# Sentence pair (163) source length 5 target length 5 alignment score : 0.0170368
+3 mal 9 ist 27 
+NULL ({ }) 3 ({ 1 }) times ({ 2 }) 9 ({ 3 }) is ({ 4 }) 27 ({ 5 }) 
+# Sentence pair (164) source length 8 target length 8 alignment score : 6.19262e-07
+ich glaube ich erkenne hier bereits ein Muster 
+NULL ({ }) i ({ 1 }) think ({ 2 }) i ({ 3 }) see ({ }) a ({ }) pattern ({ 4 }) here ({ 5 }) already ({ 6 7 8 }) 
+# Sentence pair (165) source length 7 target length 7 alignment score : 0.0049831
+30 3 3 mal 9 ist 27 
+NULL ({ }) 30 ({ 1 }) 3 ({ 2 }) 3 ({ 3 }) times ({ 4 }) 9 ({ 5 }) is ({ 6 }) 27 ({ 7 }) 
+# Sentence pair (166) source length 13 target length 10 alignment score : 8.69346e-11
+man bekommt immer wieder 3 3 3 die 3s wiederholen 
+NULL ({ }) youre ({ 1 }) just ({ }) gonna ({ }) keep ({ 2 3 }) getting ({ 4 }) 33 ({ }) 3 ({ 5 }) 3 ({ 6 }) 3 ({ 7 }) the ({ 8 }) 3s ({ 9 }) are ({ 10 }) just ({ }) 
+# Sentence pair (167) source length 4 target length 4 alignment score : 0.000114019
+für immer und ewig 
+NULL ({ }) gonna ({ }) go ({ 4 }) on ({ 3 }) forever ({ 1 2 }) 
+# Sentence pair (168) source length 15 target length 16 alignment score : 2.38627e-18
+das Ergebnis ist nun 3 ist 9 prozent davon und ihr könnt es entweder schreiben als 
+NULL ({ 3 }) so ({ }) turns ({ 2 }) out ({ 4 }) that ({ 1 }) 3 ({ 5 }) is ({ 6 }) 9 ({ 7 }) percent ({ 8 }) of ({ }) you ({ 10 }) can ({ }) either ({ 11 12 13 14 15 }) write ({ 9 }) it ({ }) as ({ 16 }) 
+# Sentence pair (169) source length 14 target length 18 alignment score : 7.41299e-15
+33 Punkt 3 mal wiederholen oder wir alle wissen das dieser Punkt 3 für immer ist, ist das 
+NULL ({ }) 33 ({ 1 }) point ({ 2 }) 3 ({ 3 }) repeating ({ 4 5 }) or ({ 6 }) we ({ 7 }) all ({ }) know ({ 8 9 11 }) that ({ 10 }) point ({ 12 }) 3 ({ 13 }) forever ({ 14 15 16 }) is ({ 17 }) the ({ 18 }) 
+# Sentence pair (170) source length 5 target length 4 alignment score : 0.00148345
+selbe als ein Drittel 
+NULL ({ }) same ({ 1 }) thing ({ }) as ({ 2 }) one ({ 3 }) third ({ 4 }) 
+# Sentence pair (171) source length 10 target length 10 alignment score : 0.00011939
+also 3 ist 9 Prozent von 33 und ein Drittel 
+NULL ({ }) so ({ 1 }) 3 ({ 2 }) is ({ 3 }) 9 ({ 4 }) percent ({ 5 }) of ({ 6 }) 33 ({ 7 }) and ({ 8 }) one ({ 9 }) third ({ 10 }) 
+# Sentence pair (172) source length 9 target length 5 alignment score : 1.15977e-08
+beide dieser Antworten sind richtig 
+NULL ({ }) either ({ }) one ({ }) of ({ }) those ({ 2 3 4 5 }) would ({ }) be ({ }) an ({ }) acceptable ({ 1 }) answer ({ }) 
+# Sentence pair (173) source length 8 target length 6 alignment score : 5.47133e-08
+und häufig möchte man beim Prozentrechnen 
+NULL ({ }) a ({ }) lot ({ }) times ({ }) when ({ }) youre ({ 6 }) doing ({ 2 }) percentages ({ 3 4 5 }) youre ({ 1 }) 
+# Sentence pair (174) source length 7 target length 6 alignment score : 1.37261e-07
+tatsächlich nur eine grobe Abschätzung haben 
+NULL ({ }) actually ({ 1 }) just ({ }) trying ({ }) to ({ }) get ({ }) a ({ 3 }) ballpark ({ 2 4 5 6 }) 
+# Sentence pair (175) source length 12 target length 8 alignment score : 2.41172e-06
+also ist die Präzision nicht immer das Allerwichtigste 
+NULL ({ }) so ({ 1 }) ahm ({ 2 }) the ({ }) precision ({ 4 }) might ({ 3 }) not ({ 5 }) always ({ 6 }) be ({ }) the ({ 7 }) most ({ 8 }) important ({ }) thing ({ }) 
+# Sentence pair (176) source length 8 target length 7 alignment score : 2.49978e-05
+aber in diesem Fall sind wir präzise 
+NULL ({ }) but ({ 1 }) in ({ 2 }) this ({ }) case ({ 3 4 }) we ({ 6 }) will ({ 5 }) be ({ }) precise ({ 7 }) 
+# Sentence pair (177) source length 9 target length 12 alignment score : 4.94654e-11
+und offensichtlich muss man in Tests und Dingen die ihr tun müsst 
+NULL ({ }) and ({ 1 }) obviously ({ 2 6 8 9 }) on ({ 5 }) tests ({ 10 11 12 }) and ({ 7 }) things ({ 3 }) you ({ 4 }) need ({ }) to ({ }) 
+# Sentence pair (178) source length 4 target length 4 alignment score : 1.22761e-05
+sehr wohl präzise sein 
+NULL ({ }) be ({ 1 }) precise ({ 2 3 4 }) as ({ }) well ({ }) 
+# Sentence pair (179) source length 11 target length 11 alignment score : 3.4117e-13
+hoffentlich war das nicht zu schnell und ihr habt ein gutes 
+NULL ({ }) hopefully ({ 1 }) i ({ }) didnt ({ 4 }) go ({ 3 }) too ({ 5 }) fast ({ 2 6 }) and ({ 7 }) you ({ 8 }) have ({ }) a ({ }) good ({ 9 10 11 }) 
+# Sentence pair (180) source length 3 target length 3 alignment score : 0.000382188
+Gespühr für Prozentrechnen 
+NULL ({ }) sense ({ 1 2 3 }) of ({ }) percentage ({ }) 
+# Sentence pair (181) source length 10 target length 11 alignment score : 4.49118e-09
+wichtig bei dieser Art von Aufgaben ist genau darauf zu achten 
+NULL ({ }) the ({ }) important ({ 1 }) thing ({ }) for ({ 2 }) these ({ 3 }) type ({ 4 }) of ({ 5 }) problems ({ 6 }) is ({ 7 }) pay ({ 8 9 10 11 }) 
+# Sentence pair (182) source length 7 target length 5 alignment score : 2.74129e-05
+wie das Problem formuliert ist 
+NULL ({ }) attention ({ }) to ({ }) how ({ 1 }) the ({ 2 }) problem ({ }) is ({ 5 }) written ({ 3 4 }) 
+# Sentence pair (183) source length 11 target length 7 alignment score : 4.74202e-05
+wenn es heißt 10 Prozent von 100 
+NULL ({ }) if ({ 1 }) it ({ 2 }) says ({ }) find ({ 3 }) you ({ }) know ({ }) 10 ({ 4 }) percent ({ 5 }) of ({ 6 }) a ({ }) hundred ({ 7 }) 
+# Sentence pair (184) source length 2 target length 3 alignment score : 0.00744635
+das ist leicht 
+NULL ({ }) thats ({ 1 2 }) easy ({ 3 }) 
+# Sentence pair (185) source length 12 target length 14 alignment score : 8.04335e-16
+man muss einfach die 10 Prozent in eine Dezimalzahl umwandeln und mit 100 multiplizieren 
+NULL ({ }) you ({ 1 }) just ({ 3 11 }) te ({ 2 10 }) convert ({ 7 8 }) 10 ({ 5 }) percent ({ 6 }) to ({ }) the ({ 4 }) decimal ({ 9 }) multiply ({ 12 }) by ({ }) 100 ({ 13 14 }) 
+# Sentence pair (186) source length 14 target length 12 alignment score : 1.47546e-10
+aber wenn die Formulierung lautet 100 ist 10 prozent von welcher Zahl 
+NULL ({ }) but ({ 1 }) if ({ 2 }) i ({ 3 }) were ({ 4 5 }) to ({ }) ask ({ 12 }) you ({ }) a ({ }) 100 ({ 6 }) is ({ 7 }) 10 ({ 8 }) percent ({ 9 }) of ({ 10 }) what ({ 11 }) 
+# Sentence pair (187) source length 9 target length 12 alignment score : 2.54119e-15
+dann muss man sich daran erinnern dass das eine andere Problemstellung ist 
+NULL ({ }) you ({ 3 }) have ({ }) to ({ }) remember ({ 4 5 }) that ({ 8 }) thats ({ }) a ({ 9 }) different ({ 1 2 6 10 }) problem ({ 7 11 12 }) 
+# Sentence pair (188) source length 15 target length 14 alignment score : 2.03282e-08
+in diesem Fall gilt 100 ist 10 Prozent von und wenn man das ausrechnet 
+NULL ({ }) in ({ 1 }) which ({ }) case ({ 2 3 }) a ({ }) 100 ({ 5 }) is ({ 6 }) 10 ({ 7 }) percent ({ 8 }) of ({ 9 }) and ({ 10 }) if ({ 11 }) you ({ 12 }) did ({ 4 }) the ({ 13 }) math ({ 14 }) 
+# Sentence pair (189) source length 5 target length 4 alignment score : 2.01947e-05
+kommt dabei 1000 heraus 
+NULL ({ }) it ({ }) would ({ 1 2 }) be ({ }) a ({ }) 1000 ({ 3 4 }) 
+# Sentence pair (190) source length 15 target length 10 alignment score : 2.76295e-12
+ich denke in diesem Modul hatten wir ein flottes Tempo 
+NULL ({ }) i ({ 1 }) think ({ }) i ({ }) spoke ({ 2 }) very ({ }) quickly ({ 4 6 7 }) on ({ 3 }) this ({ }) problem ({ }) on ({ }) this ({ }) ehhm ({ 8 9 10 }) on ({ }) this ({ }) module ({ 5 }) 
+# Sentence pair (191) source length 8 target length 9 alignment score : 7.68078e-11
+und ich hoffe dass es nicht zu verwirrend war 
+NULL ({ }) so ({ 1 }) i ({ 2 }) hope ({ 3 }) you ({ }) didnt ({ }) get ({ }) too ({ 5 6 7 }) confused ({ 4 8 9 }) 
+# Sentence pair (192) source length 5 target length 6 alignment score : 0.000219113
+aber ich werde mehr davon aufnehmen 
+NULL ({ }) but ({ 1 }) i ({ 2 }) will ({ 3 }) record ({ 4 5 }) more ({ 6 }) 
