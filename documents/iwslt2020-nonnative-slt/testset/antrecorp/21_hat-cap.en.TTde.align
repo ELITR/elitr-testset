@@ -1,0 +1,63 @@
+# Sentence pair (1) source length 3 target length 3 alignment score : 0.104352
+Hi, guten Morgen! 
+NULL ({ }) Hi, ({ 1 }) Good ({ 3 }) morning! ({ 2 }) 
+# Sentence pair (2) source length 2 target length 2 alignment score : 0.227991
+Guten Morgen! 
+NULL ({ }) Good ({ 2 }) morning! ({ 1 }) 
+# Sentence pair (3) source length 3 target length 3 alignment score : 0.18215
+Hatschi... Entschuldigen Sie... 
+NULL ({ }) Etchiu... ({ 1 }) Pardon ({ 3 }) me... ({ 2 }) 
+# Sentence pair (4) source length 7 target length 7 alignment score : 6.11912e-05
+Gesundheit... Wow! Das ist ein toller Hut! 
+NULL ({ 4 }) Bless ({ 1 }) you... ({ 6 }) Wow! ({ 2 }) That's ({ 3 }) an ({ }) amazing ({ 5 }) hat! ({ 7 }) 
+# Sentence pair (5) source length 11 target length 11 alignment score : 9.5026e-06
+Ja, natürlich! Das ist unser Flagschiffprodukt, wir sind Hat&Cap aus Italien. 
+NULL ({ 4 }) Yes, ({ 1 }) sure! ({ 6 }) That's ({ 3 }) our ({ }) flagship ({ 5 }) product, ({ 9 }) we ({ 7 }) are ({ 8 }) Hat&Cap ({ 10 }) from ({ 2 }) Italy. ({ 11 }) 
+# Sentence pair (6) source length 5 target length 6 alignment score : 0.00154125
+Wow... Sie stellen also Mützen her? 
+NULL ({ }) Wow... ({ 1 }) So ({ 2 }) you ({ 3 }) produce ({ 4 }) caps? ({ 5 6 }) 
+# Sentence pair (7) source length 12 target length 12 alignment score : 0.000239031
+Nein, wir vermarkten sie, wir sind alle junge Leute mit innovativen Ideen. 
+NULL ({ }) No, ({ 1 }) we ({ 2 }) market ({ 3 }) them, ({ 7 }) we ({ 5 }) are ({ 6 }) all ({ 11 }) young ({ 10 }) people ({ 9 }) with ({ 8 }) innovative ({ 4 }) ideas. ({ 12 }) 
+# Sentence pair (8) source length 1 target length 1 alignment score : 0.96213
+Wow! 
+NULL ({ }) Wow! ({ 1 }) 
+# Sentence pair (9) source length 6 target length 6 alignment score : 0.0200624
+Aber das ist eine atemberaubende Mütze! 
+NULL ({ }) But ({ 1 }) this ({ 2 }) is ({ 3 }) a ({ 4 }) breathtaking ({ 5 }) cap! ({ 6 }) 
+# Sentence pair (10) source length 12 target length 14 alignment score : 1.13375e-07
+Wow! Aber... Aber ich denke, dass sie sehr teuer ist, die Qualität ist ausgezeichnet. 
+NULL ({ 13 }) Wow! ({ 1 }) But... ({ 2 }) But ({ 3 }) I ({ 4 }) think ({ 6 }) it's ({ 7 }) very ({ 8 }) expensive, ({ 5 }) the ({ 11 }) quality ({ 10 }) is ({ 12 }) excellent. ({ 9 14 }) 
+# Sentence pair (11) source length 18 target length 15 alignment score : 3.56622e-09
+Ja, wir verwenden tatsächlich die besten Materialien auf dem Markt, weil wir vollständige Kundenzufriedenheit anstreben. 
+NULL ({ }) Yes, ({ 1 }) in ({ 10 }) fact ({ 4 }) we ({ 2 }) use ({ 3 }) the ({ 5 }) best ({ 9 }) materials ({ 6 }) on ({ }) the ({ 8 }) market, ({ }) because ({ }) we ({ 12 }) aim ({ 13 }) at ({ }) total ({ }) costumer ({ 14 }) satisfaction. ({ 7 11 15 }) 
+# Sentence pair (12) source length 8 target length 8 alignment score : 7.90284e-06
+Aber wie kann ich eine von ihnen kaufen? 
+NULL ({ }) But ({ 1 }) how ({ 2 7 }) can ({ 3 }) I ({ 4 }) buy ({ }) one ({ 6 }) of ({ }) this? ({ 5 8 }) 
+# Sentence pair (13) source length 6 target length 6 alignment score : 3.1084e-05
+Sie erreichen uns über soziale Medien. 
+NULL ({ }) You ({ 1 }) can ({ }) visit ({ 2 }) our ({ }) social ({ 4 5 }) media. ({ 3 6 }) 
+# Sentence pair (14) source length 9 target length 8 alignment score : 3.18763e-05
+Dort finden Sie unseren Katalog und unsere Verkaufsbedingungen. 
+NULL ({ }) You ({ 3 }) will ({ 1 }) find ({ 4 }) our ({ }) catalogue ({ 2 }) and ({ }) our ({ }) sales ({ 5 }) conditions. ({ 6 7 8 }) 
+# Sentence pair (15) source length 3 target length 3 alignment score : 0.192358
+Das klingt gut! 
+NULL ({ }) That ({ 1 }) sounds ({ 3 }) good! ({ 2 }) 
+# Sentence pair (16) source length 15 target length 13 alignment score : 3.91345e-09
+Und wissen Sie... wir sind hier auf der Messe am Stand Nummer 92. 
+NULL ({ }) And ({ 2 }) you ({ }) know... ({ 10 }) we ({ 4 }) are ({ 5 }) here ({ 3 6 13 }) at ({ }) the ({ 7 }) fair ({ 8 }) at ({ }) the ({ }) stand ({ 9 }) number ({ 11 }) ninety ({ 1 }) two. ({ 12 }) 
+# Sentence pair (17) source length 4 target length 4 alignment score : 0.011537
+Kommen Sie uns besuchen! 
+NULL ({ }) Come ({ 4 }) on, ({ 2 }) see ({ 3 }) us! ({ 1 }) 
+# Sentence pair (18) source length 1 target length 1 alignment score : 0.7077
+Wirklich? 
+NULL ({ }) Really? ({ 1 }) 
+# Sentence pair (19) source length 12 target length 12 alignment score : 2.63528e-05
+Aber ich denke nicht, dass ich wirklich einen von diesen kaufen muss. 
+NULL ({ }) But ({ 1 }) I ({ 2 }) don't ({ 3 }) think ({ 5 }) I ({ 6 }) really ({ 10 }) have ({ 11 }) to ({ 4 }) buy ({ 7 }) one ({ 9 }) of ({ }) these. ({ 8 12 }) 
+# Sentence pair (20) source length 1 target length 2 alignment score : 0.0609952
+Auf Wiedersehen! 
+NULL ({ }) Goodbye! ({ 1 2 }) 
+# Sentence pair (21) source length 5 target length 5 alignment score : 0.0167306
+Hey! Mein Hut! Mein Hut! 
+NULL ({ }) Hey! ({ 1 }) My ({ 2 }) hat! ({ 5 }) My ({ 4 }) hat! ({ 3 }) 

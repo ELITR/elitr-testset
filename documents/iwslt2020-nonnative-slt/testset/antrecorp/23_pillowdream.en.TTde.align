@@ -1,0 +1,60 @@
+# Sentence pair (1) source length 6 target length 6 alignment score : 0.00065711
+Oh, das war ein harter Tag! 
+NULL ({ }) Oh, ({ 5 }) it's ({ 2 }) been ({ 1 }) a ({ }) hard ({ 3 4 }) day! ({ 6 }) 
+# Sentence pair (2) source length 4 target length 5 alignment score : 0.00176737
+Sie haben recht, sehr hart! 
+NULL ({ }) You're ({ 2 }) right, ({ 3 }) very ({ 1 4 }) hard! ({ 5 }) 
+# Sentence pair (3) source length 11 target length 12 alignment score : 1.00568e-07
+Glauben Sie, dass es sich lohnt, hier auf der Messe zu sein? 
+NULL ({ }) Do ({ 12 }) you ({ }) think ({ 2 }) being ({ 1 }) here ({ 11 }) at ({ 7 }) this ({ 9 }) trade ({ 10 }) fair ({ 4 5 }) will ({ 3 }) pay? ({ 6 8 }) 
+# Sentence pair (4) source length 2 target length 2 alignment score : 0.345387
+Ja, natürlich! 
+NULL ({ }) Yes, ({ 1 }) sure! ({ 2 }) 
+# Sentence pair (5) source length 17 target length 16 alignment score : 1.66519e-10
+Wissen Sie, ich bin sehr zuversichtlich: modische und angesagte Produkte wie Bettwäsche und Möbel zu verkaufen... 
+NULL ({ }) You ({ 1 }) know, ({ 2 }) I ({ }) am ({ }) quite ({ 4 }) confident: ({ 15 }) selling ({ 3 12 }) fashionable ({ 7 16 }) and ({ 13 }) trendy ({ 11 14 }) products ({ 10 }) such ({ }) as ({ 5 }) bedroom ({ }) linens ({ 6 }) and ({ 8 }) furniture... ({ 9 }) 
+# Sentence pair (6) source length 8 target length 9 alignment score : 2.23423e-07
+Die Leute werden dazu gebracht, bei uns zu kaufen! 
+NULL ({ }) People ({ 6 7 9 }) will ({ }) be ({ 8 }) pushed ({ 2 }) to ({ }) buy ({ 5 }) from ({ 1 4 }) us! ({ 3 }) 
+# Sentence pair (7) source length 22 target length 23 alignment score : 3.24753e-17
+Und wir sind jung, innovativ, kreativ und alle unsere Produkte werden in Italien hergestellt: jeder, der etwas auf hohe Qualität gibt, weiß das. 
+NULL ({ }) And ({ 1 }) we ({ }) are ({ }) young, ({ 13 }) innovative, ({ 9 }) creative ({ 6 }) and ({ 7 }) all ({ 8 }) our ({ 11 }) products ({ 10 }) are ({ 3 }) made ({ 4 }) in ({ 12 }) Italy: ({ 5 }) everybody ({ 14 }) knows ({ 16 }) it, ({ 18 20 22 }) that ({ 2 }) stands ({ 23 }) for ({ 15 }) high ({ 17 19 21 }) quality. ({ }) 
+# Sentence pair (8) source length 18 target length 20 alignment score : 2.62824e-14
+Ja, Sie haben absolut recht, aber vergessen Sie nicht: Wir sind hier, um... mit neuen Kunden in Kontakt zu treten. 
+NULL ({ }) Yes, ({ 1 }) you're ({ 2 3 8 }) absolutely ({ 4 9 }) right, ({ 5 }) but ({ 6 10 }) remember: ({ }) we ({ }) are ({ 11 }) here ({ 12 }) to ({ 19 }) get ({ 18 20 }) in ({ 17 }) touch... ({ 14 }) in ({ }) touch ({ 13 }) with ({ 7 }) new ({ 15 }) customers. ({ 16 }) 
+# Sentence pair (9) source length 9 target length 11 alignment score : 1.39723e-07
+Werden wir in der Lage sein, diese neuen Märkte zu erreichen? 
+NULL ({ }) Will ({ 1 }) we ({ 2 }) be ({ 10 }) able ({ 7 11 }) to ({ 3 }) target ({ 4 5 }) these ({ 6 }) new ({ 8 }) markets? ({ 9 }) 
+# Sentence pair (10) source length 28 target length 27 alignment score : 1.3505e-18
+Nun, wissen Sie, unser Sitz ist in Venetien und das ist ein Vorteil: Wir sind so nah dran an diesen Märkten, Osteuropa ist gleich um die Ecke! 
+NULL ({ 6 }) Well, ({ 1 13 }) but ({ 14 }) you ({ 2 }) know, ({ 3 }) we ({ }) are ({ 15 }) based ({ 16 }) in ({ }) Veneto ({ 4 }) and ({ 9 }) that ({ 10 }) is ({ 11 }) an ({ 5 12 }) advantage: ({ 8 }) we ({ }) are ({ }) so ({ 17 }) close ({ 18 }) to ({ 7 }) these ({ }) markets, ({ 24 }) Eastern ({ 20 21 }) Europe ({ 19 }) is ({ 23 }) just ({ 27 }) behind ({ }) the ({ 26 }) corner! ({ 22 25 }) 
+# Sentence pair (11) source length 13 target length 10 alignment score : 7.51762e-06
+Ja, aber Ungarn, Tschechien und Russland werden viel Geld kosten! 
+NULL ({ }) Yeah, ({ 1 }) but ({ 2 }) Hungary, ({ 10 }) Czech ({ 4 }) Republic ({ }) and ({ 5 }) Russia ({ 6 }) gonna ({ 3 }) cost ({ 9 }) a ({ }) lot ({ 7 }) of ({ }) money! ({ 8 }) 
+# Sentence pair (12) source length 11 target length 14 alignment score : 3.62063e-10
+Es ist absehbar, dass sie im ersten Jahr einen Verlust von 5 % machen. 
+NULL ({ }) They ({ 5 }) will ({ 4 }) foresee ({ 6 10 }) a ({ 1 }) five ({ 3 }) percent ({ 8 12 13 }) loss ({ 7 11 }) in ({ }) the ({ 2 }) first ({ 9 }) year. ({ 14 }) 
+# Sentence pair (13) source length 13 target length 15 alignment score : 1.05193e-10
+Kommen Sie, denken Sie positiv! Diese 5 % werden im dritten Jahr unserem Wachstum entsprechen! 
+NULL ({ }) C'mon, ({ 1 10 13 }) think ({ 2 }) positive! ({ 8 }) This ({ 6 }) 5 ({ 11 }) percent ({ 7 12 }) is ({ }) our ({ 9 }) increase ({ 3 }) in ({ }) the ({ 4 }) third ({ 5 }) year! ({ 14 15 }) 
+# Sentence pair (14) source length 9 target length 10 alignment score : 1.1284e-07
+Und ich bin sicher, dass wir heute neue Kunden gewinnen. 
+NULL ({ }) And ({ 1 }) I'm ({ 2 4 7 }) sure ({ 10 }) that ({ 6 }) today ({ 3 8 }) we ({ }) got ({ 5 }) new ({ }) customers. ({ 9 }) 
+# Sentence pair (15) source length 3 target length 4 alignment score : 0.00578051
+Ja, Sie haben recht. 
+NULL ({ }) Yeah, ({ 1 }) you're ({ 2 }) right. ({ 3 4 }) 
+# Sentence pair (16) source length 13 target length 11 alignment score : 3.55233e-08
+Es ist nun einmal so, dass alle Leute gut schlafen müssen. 
+NULL ({ }) As ({ 1 }) a ({ 2 }) matter ({ 3 }) of ({ 8 }) fact, ({ 4 }) we ({ }) got ({ 6 }) all ({ 7 }) people ({ 10 }) need ({ }) to ({ }) sleep ({ 9 }) well. ({ 5 11 }) 
+# Sentence pair (17) source length 14 target length 12 alignment score : 4.68614e-08
+Wer braucht kein weiches Kissen, bequeme Matratzen und warme Bettlaken zum Schlafen? 
+NULL ({ }) Who ({ 3 }) doesn't ({ 4 5 }) need ({ 2 }) a ({ }) soft ({ 6 }) pillow, ({ 7 12 }) comfortable ({ 10 }) mattresses ({ 11 }) and ({ 8 }) warm ({ 9 }) sheets ({ }) to ({ }) sleep ({ }) in? ({ 1 }) 
+# Sentence pair (18) source length 10 target length 10 alignment score : 3.69837e-06
+Und alles wird handgefertigt von unseren qualifizierten Handwerkern und Künstlern! 
+NULL ({ }) And ({ 1 }) everything ({ 2 }) is ({ }) handmade ({ 4 }) by ({ 3 }) our ({ }) skilled ({ 5 6 }) craftsmen ({ 7 8 }) and ({ 9 }) artisans! ({ 10 }) 
+# Sentence pair (19) source length 4 target length 5 alignment score : 0.00166935
+Es ist so ein Traum! 
+NULL ({ }) It's ({ 2 }) such ({ 3 }) a ({ 1 }) dream! ({ 4 5 }) 
+# Sentence pair (20) source length 15 target length 17 alignment score : 2.06804e-13
+Ja, wissen Sie, Pillow Dream ist die Schönheit, die Sie wollen, und der Komfort, den Sie brauchen! 
+NULL ({ }) Yes, ({ 1 }) you ({ 2 }) know, ({ 3 }) Pillow ({ 10 16 }) Dream ({ 5 8 11 15 }) is ({ 6 }) the ({ 9 }) beauty ({ 4 }) you ({ 13 }) want ({ 14 17 }) and ({ 12 }) the ({ 7 }) comfort ({ }) you ({ }) need! ({ }) 

@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 20 target length 20 alignment score : 8.22746e-19
+Hallo, mein Name ist <NAME> und ich bin der Geschäftsführer des Smart Teams im Maria Teiulenu Economic College, Pitesti, Rumänien. 
+NULL ({ }) Hello, ({ 8 }) my ({ 2 }) name ({ 5 10 }) is ({ 4 9 }) <NAME> ({ }) and ({ 6 }) I ({ 7 20 }) am ({ 3 15 17 19 }) the ({ 11 }) CEO ({ 12 }) of ({ }) Smart ({ 14 }) Team ({ 13 }) from ({ 16 18 }) Maria ({ }) Teiulenu ({ }) Economic ({ }) College, ({ }) Pitesti, ({ 1 }) Romania. ({ }) 
+# Sentence pair (2) source length 33 target length 25 alignment score : 7.88284e-20
+Unser Unternehmensziel ist die Bereitstellung von Agrotourismus-Dienstleistungen in den Touristengebieten Rumäniens und die Förderung des touristischen Potenzials, um die besten auf diesem Gebiet zu werden. 
+NULL ({ }) The ({ }) object ({ 1 2 }) of ({ }) our ({ }) firm ({ 4 5 6 }) is ({ 3 }) to ({ }) provide ({ 7 }) the ({ }) agrotourist ({ 10 }) services ({ }) in ({ }) the ({ 15 }) touristic ({ 13 }) areas ({ 9 }) of ({ }) Romania, ({ }) and ({ 12 }) to ({ }) promote ({ 11 }) the ({ }) tourist ({ 16 }) potential, ({ }) in ({ 8 }) order ({ 14 }) to ({ 24 }) be ({ 19 }) the ({ }) best ({ 22 }) in ({ 25 }) this ({ 23 }) business ({ 17 18 21 }) field. ({ 20 }) 
+# Sentence pair (3) source length 23 target length 23 alignment score : 1.05246e-16
+Nachdem wir den Markt für den Winter 2019 analysiert haben, haben wir für Sie ein besonderes Angebot entwickelt, dem Sie nicht widerstehen können. 
+NULL ({ }) After ({ 9 }) analyzing ({ 8 }) the ({ }) market ({ 16 17 18 23 }) for ({ }) the ({ }) winter ({ 7 }) of ({ }) two ({ 4 }) thousand ({ }) nineteen, ({ 1 }) we ({ 2 12 }) created ({ 22 }) for ({ }) you ({ 14 }) a ({ }) special ({ 3 6 }) offer ({ 5 13 }) that ({ 21 }) you ({ 10 20 }) can ({ 11 }) not ({ 19 }) resist. ({ 15 }) 
+# Sentence pair (4) source length 7 target length 6 alignment score : 0.000317133
+Das Paket heißt "Entdeckungsreise in Draculaland". 
+NULL ({ }) The ({ 5 }) package ({ 1 }) is ({ }) called ({ 3 }) "Discover ({ 2 }) Dracula's ({ 4 }) Land." ({ 6 }) 
+# Sentence pair (5) source length 14 target length 16 alignment score : 1.36613e-13
+Es ist eine fantastische Erfahrung in Bran, Poiana Brasov, der Stadt, in der Dracula geboren wurde. 
+NULL ({ }) It's ({ 10 }) an ({ }) amazing ({ 7 }) experience ({ }) in ({ 6 12 }) Bran, ({ 2 }) Poiana ({ }) Brasov, ({ 8 }) the ({ }) city ({ 13 }) where ({ 5 16 }) Dracula ({ 11 }) was ({ 9 14 15 }) born. ({ 1 3 4 }) 
+# Sentence pair (6) source length 31 target length 30 alignment score : 7.79844e-25
+Wir bieten Ihnen drei unglaubliche Tage, in denen Sie entspannen, Spaß haben und die Umgebung erkunden, Fotos machen und Erinnerungen sammeln können, die Sie Ihr Leben lang nicht vergessen werden. 
+NULL ({ 7 }) We ({ 1 }) offer ({ }) to ({ }) you ({ 24 }) three ({ 22 }) unbelievable ({ }) three ({ 29 }) unbelievable ({ }) days ({ 26 }) in ({ 30 }) which ({ 14 23 }) you ({ 9 }) can ({ 12 }) relax, ({ 21 }) have ({ }) fun, ({ 18 }) visit ({ 25 }) the ({ }) surroundings, ({ 27 }) take ({ 17 }) pictures ({ 16 }) and ({ 13 19 }) make ({ 15 20 }) memories ({ }) that ({ 28 }) will ({ }) last ({ 2 3 4 }) for ({ }) a ({ }) life ({ 11 }) time. ({ 5 6 8 10 }) 
+# Sentence pair (7) source length 28 target length 21 alignment score : 1.26581e-19
+Ihr erster Tag beginnt mit einem Besuch des berühmten Schlosses Bran bzw. dem "Schloss des Vampirs Dracula", einem Ort voller Geheimnisse. 
+NULL ({ }) In ({ 3 }) the ({ }) first ({ }) day, ({ 2 }) you ({ }) will ({ }) start ({ }) your ({ 5 }) journey ({ 12 }) with ({ }) a ({ }) visit ({ 1 }) a ({ }) the ({ }) well-known ({ }) Bran ({ 4 }) Castle, ({ 21 }) or ({ 6 7 18 }) the ({ 8 13 15 }) "Castle ({ 9 14 16 }) of ({ }) Vampire ({ }) Dracula," ({ 19 }) a ({ }) place ({ 11 17 20 }) full ({ 10 }) of ({ }) mysteries. ({ }) 
+# Sentence pair (8) source length 30 target length 27 alignment score : 2.69751e-20
+Den zweiten Tag genießen Sie mit Ihren Freunden oder Ihrer Familie bei einem Besuch des Dino Parks, dem einzigen Dinosaurier-Themenpark in Rumänien und dem größten in Südosteuropa. 
+NULL ({ }) On ({ 1 }) the ({ }) second ({ 16 }) day ({ }) you ({ 5 }) will ({ }) enjoy ({ 3 }) time ({ }) with ({ 14 }) your ({ 6 7 }) friends ({ 4 12 }) or ({ 13 }) family, ({ 9 }) visiting ({ }) Dino ({ }) Park, ({ 2 }) the ({ 15 }) only ({ }) dinosaurs ({ 11 }) theme ({ 8 27 }) park ({ 10 22 }) in ({ 21 }) Romania ({ 17 }) and ({ 23 }) the ({ 24 }) biggest ({ 25 }) in ({ 26 }) the ({ 18 }) Southeastern ({ 19 }) Europe. ({ 20 }) 
+# Sentence pair (9) source length 35 target length 30 alignment score : 5.62603e-34
+Ihr nächstes Ziel ist die Entdeckung einer der schönsten Schöpfungen der Natur: "The Canyon of The Seven Stairs", der aus sieben Wasserfällen besteht, wobei der größte 35 Meter hoch ist. 
+NULL ({ }) Your ({ 2 }) next ({ }) objective ({ }) will ({ 1 }) be ({ }) to ({ }) discover ({ 18 }) one ({ }) of ({ }) the ({ }) beautiful ({ }) creations ({ 9 }) of ({ }) the ({ }) nature, ({ }) "The ({ }) Canyon ({ }) of ({ 7 }) The ({ }) Seven ({ 3 }) Stairs," ({ }) which ({ 5 }) is ({ 4 }) composed ({ 12 20 26 28 29 30 }) by ({ 13 14 15 16 17 21 22 23 27 }) seven ({ 10 }) waterfalls, ({ 24 }) the ({ }) biggest ({ }) one ({ 11 }) being ({ 8 }) thirty ({ 6 }) five ({ 19 }) meters ({ 25 }) tall. ({ }) 
+# Sentence pair (10) source length 25 target length 21 alignment score : 4.09304e-18
+Am letzten Tag werden Sie jede Menge Zeit für unsere 12 Skipisten haben, denn wir bieten Ihnen einen kostenlosen... kostenlosen Tagesskipass. 
+NULL ({ }) In ({ 3 }) the ({ }) last ({ }) day ({ }) you ({ 5 }) will ({ }) have ({ 16 17 18 }) enough ({ 2 }) time ({ }) to ({ }) enjoy ({ }) our ({ 10 }) twelve ({ 1 }) ski ({ 19 }) slopes, ({ 11 }) because ({ 4 }) we ({ 13 15 }) offer ({ 9 }) you ({ }) a ({ }) free... ({ 7 21 }) free ({ 8 12 14 }) ski ({ }) day ({ 6 }) pass. ({ 20 }) 
+# Sentence pair (11) source length 17 target length 17 alignment score : 2.58614e-13
+Gibt es eine schönere Art, Ihren Urlaub zu beenden, als mit einer besonderen Fotosession von den Karpaten? 
+NULL ({ }) What ({ 1 }) a ({ }) nicer ({ 5 7 }) way ({ 2 3 4 6 }) to ({ 8 }) end ({ 13 }) your ({ 11 }) trip ({ 17 }) than ({ 9 }) a ({ }) special ({ 16 }) photo ({ 15 }) session ({ 14 }) of ({ }) the ({ }) Carpathian ({ }) Mountains? ({ 10 12 }) 
+# Sentence pair (12) source length 29 target length 25 alignment score : 8.92179e-22
+Wir hoffen, dass wir Sie neugierig gemacht haben, mehr über unsere Angebote und Dienstleistungen zu erfahren; wir erwarten Sie gespannt an unserem Stand Nummer 58. 
+NULL ({ }) We ({ 1 }) hope ({ }) we ({ 8 }) made ({ 7 }) you ({ 5 }) curious ({ 3 }) to ({ 15 }) find ({ 6 }) out ({ 9 }) more ({ 10 }) about ({ 16 }) our ({ }) offers ({ }) and ({ 13 }) services, ({ }) so ({ 12 25 }) we ({ 4 17 }) can't ({ 14 }) wait ({ }) to ({ }) see.. ({ }) see ({ 18 }) you ({ 19 }) at ({ }) our ({ 11 }) stand, ({ 20 21 22 23 }) number ({ 2 }) fifty ({ }) eight. ({ 24 }) 

@@ -1,1 +1,9 @@
 _T=20201104_11:30:26_538055	 cp ~/personal_work_ms/Mohammad/new-SLTev/khan-academy-new/ -r .
+_T=20201125_20:15:31_2261577	 ls
+_T=20201125_20:16:26_2261577	 ls
+_T=20201125_20:16:38_2261577	 cp ~/my_test/SLTev1/giza-outs/testset/khan-academy/* khan-academy
+_T=20201125_20:16:54_2261577	 ls khan-academy
+_T=20201125_20:24:10_2261577	 cp ~/my_test/SLTev1/giza-outs/testset/antrecorp/* antrecorp/
+_T=20201125_20:24:30_2261577	 cp ~/my_test/SLTev1/giza-outs/testset/sao-wgvat/* sao-wgvat/
+_T=20201125_20:24:44_2261577	 cp ~/my_test/SLTev1/giza-outs/testset/sao-consecutive/* sao-consecutive/
+_T=20201125_20:25:10_2261577	 ls

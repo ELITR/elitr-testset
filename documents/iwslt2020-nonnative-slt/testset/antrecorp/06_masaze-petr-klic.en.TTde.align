@@ -1,0 +1,42 @@
+# Sentence pair (1) source length 3 target length 4 alignment score : 0.00547183
+﻿Meine Damen und Herren. 
+NULL ({ }) Ladies ({ 1 }) and ({ 3 }) gentlemen. ({ 2 4 }) 
+# Sentence pair (2) source length 5 target length 5 alignment score : 0.0146786
+Ich möchte mich Ihnen vorstellen. 
+NULL ({ }) Let ({ 5 }) me ({ 3 }) to ({ 4 }) introduce ({ 2 }) myself. ({ 1 }) 
+# Sentence pair (3) source length 19 target length 19 alignment score : 5.37402e-13
+Mein Name ist <NAME> und ich bin der Vertreter des Unternehmens Masáže Petr Klíč, das im Wellnessbereich tätig ist. 
+NULL ({ }) My ({ 4 }) name ({ 14 19 }) is ({ 3 }) <NAME> ({ 13 }) and ({ 5 }) I ({ 6 }) am ({ 10 }) representative ({ 16 }) of ({ 15 }) the ({ 8 }) company ({ 7 }) Masáže ({ 11 12 }) Petr ({ 9 17 }) Klíč ({ 18 }) that ({ }) deals ({ }) with ({ }) spa ({ 1 2 }) procedures. ({ }) 
+# Sentence pair (4) source length 21 target length 25 alignment score : 2.76327e-23
+Wir haben in Most teilgenommen, wo wir den ersten Preis in zwei Kategorien gewonnen haben und wir haben dieses Jahr auch Preise in Sokolov gewonnen. 
+NULL ({ 6 17 }) We ({ 1 }) participated ({ 5 14 20 }) in ({ 3 }) Most ({ 4 9 25 }) where ({ 7 21 }) we ({ 2 15 }) won ({ }) first ({ }) price ({ 8 }) in ({ }) two ({ 13 }) categories ({ 11 }) and ({ 16 }) we ({ 18 }) also ({ }) won ({ 10 22 }) prizes ({ 19 }) in ({ 23 }) Sokolov ({ 12 24 }) this ({ }) year. ({ }) 
+# Sentence pair (5) source length 9 target length 10 alignment score : 1.45063e-08
+Wir leben in einer Zeit, wo es jeder eilig hat. 
+NULL ({ }) We ({ 1 }) live ({ 6 }) in ({ }) time ({ 7 }) when ({ 5 8 9 10 }) everyone ({ 2 }) is ({ }) in ({ 3 }) hurry. ({ 4 }) 
+# Sentence pair (6) source length 2 target length 2 alignment score : 0.092192
+Und... doprčic. 
+NULL ({ }) And... ({ 2 }) doprčic. ({ 1 }) 
+# Sentence pair (7) source length 9 target length 11 alignment score : 1.20391e-07
+Für das psychische und geistige Wohlbefinden müssen sich alle Sinne regenerieren. 
+NULL ({ }) Psychical ({ 1 }) and ({ 4 }) mental ({ 5 }) well-being ({ 7 }) requires ({ 8 9 10 11 }) regeneration ({ 3 }) of ({ 2 }) all ({ 6 }) senses. ({ }) 
+# Sentence pair (8) source length 6 target length 6 alignment score : 1.16164e-05
+Eine Möglichkeit dafür ist die Massage. 
+NULL ({ }) One ({ 1 }) of ({ }) the ({ }) option ({ 2 5 }) is ({ 4 }) massage. ({ 3 6 }) 
+# Sentence pair (9) source length 8 target length 7 alignment score : 2.59261e-09
+Massagen sind so alt wie die Menschheit. 
+NULL ({ }) Massage ({ }) is ({ }) as ({ 3 4 5 6 7 }) old ({ }) as ({ }) humanity ({ }) ourselves, ({ 2 }) itself. ({ 1 }) 
+# Sentence pair (10) source length 6 target length 5 alignment score : 0.00233155
+Dafür ist unser Unternehmen da. 
+NULL ({ }) This ({ 1 }) why ({ 4 }) our ({ 3 }) company ({ }) is ({ 2 }) here. ({ 5 }) 
+# Sentence pair (11) source length 17 target length 13 alignment score : 5.51414e-15
+Wir bieten Ihnen... doprčic, Magnetfeldtherapie, eine Salzgrotte, eine já nevim... Salzgrotte, Moorpackungen, Kräuterpackungen. 
+NULL ({ }) We ({ 1 }) can ({ }) offer ({ }) you... ({ 4 }) doprčic, ({ }) magnetotherapy, ({ 2 }) salt ({ }) cave, ({ 3 }) a ({ }) já ({ 13 }) nevim... ({ }) salt ({ 5 6 7 8 9 10 11 12 }) cave, ({ }) peat ({ }) wrap, ({ }) herbal ({ }) wrap. ({ }) 
+# Sentence pair (12) source length 12 target length 11 alignment score : 5.95777e-24
+Und wir haben ein besonderes Retro-Angebot zur Feier der Ersten Republik. 
+NULL ({ }) And ({ 1 10 }) we ({ 3 }) have ({ 5 11 }) special ({ }) retro ({ }) offer ({ 2 9 }) for ({ }) the ({ }) celebrate ({ 4 }) the ({ 8 }) First ({ 6 }) Republic. ({ 7 }) 
+# Sentence pair (13) source length 26 target length 25 alignment score : 8.53576e-59
+Wir laden Sie herzlich in unser Haus ein, wo wir Ihnen verschiedene Formen der Entspannung für Ihre müden Körper, aber auch für Ihre Seele anbieten. 
+NULL ({ 9 }) We ({ 1 }) cordinally ({ 2 }) invite ({ 8 }) you ({ }) to ({ 11 }) our ({ 6 }) salon ({ 12 }) where ({ }) we ({ }) offer ({ 10 14 }) you ({ }) various ({ 3 }) forms ({ }) of ({ }) relaxation ({ 15 }) not ({ }) only ({ 19 }) for ({ 17 23 }) your ({ 16 22 }) tired ({ 18 24 }) bodies ({ 13 }) but ({ }) also ({ 5 21 }) to ({ 7 }) your ({ }) soul. ({ 4 20 25 }) 
+# Sentence pair (14) source length 5 target length 4 alignment score : 0.00442511
+Danke für Ihre Aufmerksamkeit. 
+NULL ({ }) Thank ({ 4 }) you ({ 2 }) for ({ 3 }) your ({ }) attention. ({ 1 }) 

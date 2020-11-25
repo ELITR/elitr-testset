@@ -1,0 +1,39 @@
+# Sentence pair (1) source length 24 target length 18 alignment score : 4.15108e-13
+Guten Tag, wir sind das Unternehmen Mela e Piu und jetzt singen wir ein Lied für Sie... OK... 
+NULL ({ }) Good ({ 1 }) afternoon, ({ }) we ({ 13 }) are ({ 4 }) a ({ 5 15 }) company ({ 6 17 }) Mela ({ }) e ({ 7 }) Piu, ({ 8 }) we ({ }) come ({ 3 }) from ({ 11 }) and ({ 10 }) the ({ }) now, ({ 9 }) we ({ }) are ({ 14 }) going ({ 12 }) sing ({ }) a ({ }) song ({ 18 }) for ({ 16 }) you... ({ 2 }) OK... ({ }) 
+# Sentence pair (2) source length 13 target length 13 alignment score : 2.69843e-05
+Mela e Piu, Apfel für dich, Apfel für dich - Mela e Piu! 
+NULL ({ }) Mela ({ 2 }) e ({ 1 }) Piu, ({ 3 }) apple ({ 4 }) for ({ 5 }) you, ({ 6 }) apple ({ 7 }) for ({ 8 }) you ({ 9 }) - ({ 10 }) Mela ({ 12 }) e ({ 11 }) Piu! ({ 13 }) 
+# Sentence pair (3) source length 8 target length 7 alignment score : 4.99461e-06
+Hey ihr, der Rap ist richtig gut! 
+NULL ({ }) Hey, ({ 1 }) you ({ }) guys, ({ 2 3 4 }) this ({ }) rap ({ }) is ({ 5 }) really ({ 6 }) nice! ({ 7 }) 
+# Sentence pair (4) source length 12 target length 13 alignment score : 2.26402e-08
+Wir gehen auf die italenische Schule - diese Reise nach Prag ist cool. 
+NULL ({ }) We ({ }) attend ({ 1 }) the ({ 4 }) Italian ({ 5 }) school ({ 10 }) - ({ 7 }) this ({ }) trip ({ 8 }) to ({ 2 }) Prague ({ 3 6 9 11 }) is ({ 12 }) cool. ({ 13 }) 
+# Sentence pair (5) source length 10 target length 9 alignment score : 4.93562e-07
+Hier haben wir einen Stand und präsentieren die Marke. 
+NULL ({ }) Where ({ 1 2 5 }) you ({ }) have ({ }) a ({ }) stand ({ 7 }) and ({ 6 }) we ({ 3 }) present ({ 4 }) the ({ 8 }) brand. ({ 9 }) 
+# Sentence pair (6) source length 14 target length 14 alignment score : 6.46512e-05
+Mela e Piu - Äpfel für dich, Äpfel für dich - Mela e Piu. 
+NULL ({ }) Mela ({ 2 }) e ({ 1 }) Piu ({ 3 }) - ({ 4 }) apples ({ 5 }) for ({ 6 }) you, ({ 7 }) apples ({ 8 }) for ({ 9 }) you ({ 10 }) - ({ 11 }) Mela ({ 13 }) e ({ 12 }) Piu. ({ 14 }) 
+# Sentence pair (7) source length 12 target length 9 alignment score : 1.29663e-09
+Unser Tal heißt di Non, da kommen wir her. 
+NULL ({ }) Our ({ 2 }) valley ({ 1 }) is ({ }) di ({ }) Non, ({ }) it's ({ 3 4 5 6 7 }) the ({ }) place ({ }) where ({ }) we ({ }) come ({ 8 }) from. ({ 9 }) 
+# Sentence pair (8) source length 8 target length 5 alignment score : 0.000285305
+Apfelkuchen, Apfelsaft, Gebäck, Strudel, Apfelmus. 
+NULL ({ }) Apple ({ }) pie, ({ 4 }) apple ({ }) juice, ({ 3 }) biscuit, ({ 5 }) strudel, ({ 2 }) apple ({ }) mousse. ({ 1 }) 
+# Sentence pair (9) source length 11 target length 9 alignment score : 5.072e-05
+Schmackhaft, süß und lecker, der ideale Snack, natürlich, Ernährung. 
+NULL ({ }) Tasty, ({ 2 }) sweet, ({ 4 }) and ({ 3 }) delicious, ({ }) the ({ }) ideal ({ 5 6 }) snack ({ 7 }) that ({ 1 }) has ({ 8 }) natural ({ 9 }) nutrition. ({ }) 
+# Sentence pair (10) source length 12 target length 12 alignment score : 0.00028631
+Mela e Piu, Äpfel für dich, Äpfel für dich, Mela e Piu. 
+NULL ({ }) Mela ({ 2 }) e ({ 1 }) Piu, ({ 3 }) apples ({ 4 }) for ({ 5 }) you, ({ 6 }) apples ({ 7 }) for ({ 8 }) you, ({ 9 }) Mela ({ 11 }) e ({ 10 }) Piu. ({ 12 }) 
+# Sentence pair (11) source length 10 target length 10 alignment score : 5.09217e-06
+Mmmmmhh, so gut, aber keine Panik, unsere Produkte sind biologisch. 
+NULL ({ }) Mmmmmhh ({ 1 }) so ({ 3 8 }) good ({ 2 }) but ({ 4 }) don't ({ 5 }) panic, ({ 7 }) our ({ }) products ({ 6 }) are ({ 9 }) organic. ({ 10 }) 
+# Sentence pair (12) source length 9 target length 10 alignment score : 4.28615e-06
+Sie folgen der alten Tradition, aber wir fügen Innovation hinzu. 
+NULL ({ }) We ({ }) follow ({ 1 }) our ({ 2 }) tradition, ({ 3 5 }) but ({ 6 }) we ({ 7 }) have ({ 8 }) our ({ 4 }) aspiration. ({ 9 10 }) 
+# Sentence pair (13) source length 9 target length 9 alignment score : 0.00359288
+Mela e Piu, Äpfel für dich, Äpfel für dich. 
+NULL ({ }) Mela ({ 2 }) e ({ 1 }) Piu, ({ 3 }) apples ({ 4 }) for ({ 5 }) you, ({ 6 }) apples ({ 7 }) for ({ 8 }) you. ({ 9 }) 

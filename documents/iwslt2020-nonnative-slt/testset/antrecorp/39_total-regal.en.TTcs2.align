@@ -1,0 +1,48 @@
+# Sentence pair (1) source length 28 target length 23 alignment score : 7.04752e-19
+Ahoj všichni, jmenuju se <NAME> a jsem váš moderátor dnešního reklamního vstupu, kterej vám přináší nejznámější působící firma přímo z Rakouska Total Regal. 
+NULL ({ 4 }) Hello ({ 1 }) fellas, ({ 9 }) my ({ }) name ({ 2 }) is ({ }) <NAME> ({ 7 }) and ({ 6 }) I ({ 3 }) am ({ 5 }) your ({ }) host ({ }) for ({ }) today's ({ 23 }) infomercial ({ 8 }) which ({ }) is ({ }) presented ({ 20 }) by ({ }) the ({ }) most ({ }) famous ({ 13 14 15 16 17 18 }) practice ({ 10 11 }) firm, ({ 12 }) straight ({ }) outta ({ 19 }) Austria, ({ }) Total ({ 22 }) Regal. ({ 21 }) 
+# Sentence pair (2) source length 20 target length 16 alignment score : 4.7182e-17
+Ovládáme trh už od roku devatenáct set devadesát devět a zničili jsme tak sny ostatních firem. 
+NULL ({ }) We ({ }) have ({ }) conquered ({ }) the ({ }) market ({ 2 3 13 14 15 16 }) all ({ }) the ({ }) way ({ 9 }) since ({ 4 }) nineteen ({ }) ninety ({ }) nine ({ 11 }) and ({ 10 }) we ({ }) have ({ 5 6 7 8 }) crushed ({ }) other ({ }) firm's ({ 1 }) dreams ({ }) also. ({ 12 }) 
+# Sentence pair (3) source length 21 target length 18 alignment score : 1.91361e-15
+Takže, ve skutečnosti náš výkonnej ředitel vedl tuhle úspěšnou organizaci předtím, než se některý z vás vůbec narodili. 
+NULL ({ }) So, ({ 1 }) in ({ }) fact ({ 2 3 5 }) our ({ 4 }) chief ({ }) executive ({ 6 }) officer ({ 12 }) has ({ }) led ({ 8 }) this ({ 7 }) successful ({ }) organization ({ }) before ({ 18 }) some ({ 15 }) of ({ 13 }) you ({ }) all ({ 14 }) weren't ({ }) even ({ }) born ({ 9 10 11 17 }) yet. ({ 16 }) 
+# Sentence pair (4) source length 3 target length 4 alignment score : 1.18461e-06
+Zamyslete se nad tím. 
+NULL ({ }) Think ({ 4 }) about ({ 2 3 }) that. ({ 1 }) 
+# Sentence pair (5) source length 9 target length 5 alignment score : 0.000111962
+Takže, kde sídlí naše vedení? 
+NULL ({ }) So ({ }) we ({ }) are ({ 4 }) our... ({ 3 }) where ({ 2 }) are ({ }) our ({ 1 }) headquarters ({ }) located? ({ 5 }) 
+# Sentence pair (6) source length 6 target length 5 alignment score : 0.000598112
+Evidentně je to v horách. 
+NULL ({ }) They ({ 1 }) are ({ }) obviously ({ 3 }) in ({ }) the ({ 2 }) mountains. ({ 4 5 }) 
+# Sentence pair (7) source length 11 target length 12 alignment score : 6.32382e-10
+Ne, dělám si srandu, máme i jiný skutečný města než jenom Vídeň. 
+NULL ({ }) No ({ 4 }) just ({ 2 }) kidding, ({ 11 }) we ({ }) actually ({ 3 }) do ({ 1 }) have ({ }) real ({ }) cities ({ 6 7 8 9 10 }) besides ({ 5 }) Vienna. ({ 12 }) 
+# Sentence pair (8) source length 4 target length 4 alignment score : 0.0148504
+A náš kodex oblíkání? 
+NULL ({ }) And, ({ 1 }) our ({ 2 }) dress ({ 3 }) code? ({ 4 }) 
+# Sentence pair (9) source length 8 target length 8 alignment score : 2.43884e-05
+Minisukně a kožený šortky, ne, dělám si srandu. 
+NULL ({ }) Short ({ 4 }) skirts ({ 3 }) and ({ 2 }) leather ({ 5 }) shorts, ({ }) no ({ 1 8 }) just ({ 6 }) kidding. ({ 7 }) 
+# Sentence pair (10) source length 24 target length 22 alignment score : 1.40732e-18
+Ale vážně, možná se převlečem z našeho běžnýho oblečení na některým z nespočet večírků, co pořádáme, abysme si dali pivo nebo tak. 
+NULL ({ 4 }) But ({ 11 }) we ({ }) actually ({ 18 }) might ({ }) crack ({ 10 }) up ({ }) our ({ }) traditional ({ 13 }) clothes ({ 22 }) at ({ }) some ({ 6 }) of ({ 12 }) the ({ }) countless ({ 5 }) parties ({ 3 }) that ({ }) we ({ 14 17 }) have, ({ 7 }) to ({ 2 }) have ({ }) one ({ 1 15 }) beer ({ 16 }) or ({ 9 21 }) something. ({ 8 19 20 }) 
+# Sentence pair (11) source length 5 target length 4 alignment score : 0.0185201
+Dobře, spíš dvě piva. 
+NULL ({ }) Alright ({ 1 }) make ({ 4 }) that ({ }) two ({ 3 }) beers. ({ 2 }) 
+# Sentence pair (12) source length 7 target length 8 alignment score : 6.27059e-07
+Takže, proč byste si měli koupit naše výrobky? 
+NULL ({ }) So, ({ 1 }) why ({ 3 5 6 7 }) should ({ 2 }) you ({ }) buy ({ 8 }) our ({ }) products? ({ 4 }) 
+# Sentence pair (13) source length 23 target length 17 alignment score : 1.18272e-13
+Prodáváme nejoblíbenější zboží, který je mimochodem fakt ikonický, od roku devatenáct set devadesát devět, takže dvě dekády. 
+NULL ({ }) We ({ 9 }) have ({ }) been ({ 4 }) selling ({ 3 }) our ({ }) most ({ }) popular ({ 1 }) products, ({ 2 }) which ({ 5 }) have ({ 10 11 12 13 }) become ({ 7 }) really ({ 8 }) iconic ({ }) by ({ }) the ({ }) way, ({ 6 }) since ({ }) nineteen ({ }) ninety ({ }) nine, ({ 17 }) so ({ }) two ({ 16 }) decades. ({ 14 15 }) 
+# Sentence pair (14) source length 29 target length 24 alignment score : 8.30515e-19
+Jako třeba Helping Hand, což je perfektní úložnej prostor pro všechny druhy oblečení jako třeba bundy nebo Spacewonder, kde můžete uskladňovat boty a tašky. 
+NULL ({ }) And... ({ 5 }) Like ({ 3 }) the ({ }) Helping ({ 4 7 }) Hand, ({ 2 }) which ({ 6 }) is ({ }) a ({ 8 }) perfect ({ }) storage ({ 15 }) for ({ }) any ({ 11 }) kind ({ }) of ({ }) clothes, ({ 9 10 }) just ({ }) like ({ }) jackets, ({ 1 }) or ({ }) the ({ }) Spacewonder ({ 12 16 }) where ({ 19 }) you ({ }) can ({ 14 18 }) stack ({ 20 }) up ({ 13 17 }) shoes ({ 22 24 }) and ({ 23 }) bags. ({ 21 }) 
+# Sentence pair (15) source length 18 target length 15 alignment score : 2.03763e-14
+Takže přijďte obhlídnout náš obchod a jak německy říkáme: "Ihre Zufriedenheit ist uns nicht egal." 
+NULL ({ }) So ({ 3 }) go ({ 1 }) check ({ 5 }) out ({ }) our ({ 4 }) store ({ 7 }) and ({ 6 }) like ({ }) we ({ }) say ({ 9 10 11 12 13 14 15 }) in ({ }) German: ({ }) "Ihre ({ 8 }) Zufriedenheit ({ }) ist ({ }) uns ({ }) nicht ({ 2 }) egal." ({ }) 
+# Sentence pair (16) source length 2 target length 1 alignment score : 0.392827
+Díky! 
+NULL ({ }) Thank ({ 1 }) you! ({ }) 

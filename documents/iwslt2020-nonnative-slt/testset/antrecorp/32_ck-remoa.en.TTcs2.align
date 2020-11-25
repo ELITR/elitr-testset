@@ -1,0 +1,54 @@
+# Sentence pair (1) source length 5 target length 5 alignment score : 0.000534279
+Dobrý den, rád vás poznávám. 
+NULL ({ }) Hello, ({ 3 }) nice ({ 1 2 }) to ({ 4 }) meet ({ }) you. ({ 5 }) 
+# Sentence pair (2) source length 9 target length 8 alignment score : 0.000305423
+Rád bych vám představil sebe a své spolupracovníky. 
+NULL ({ }) I ({ 2 4 }) would ({ 5 }) like ({ 3 }) to ({ }) introduce ({ }) myself ({ 1 }) and ({ 6 }) my ({ 7 }) colleague. ({ 8 }) 
+# Sentence pair (3) source length 12 target length 9 alignment score : 7.00641e-05
+Jmenuji se <NAME> a jsem manažer naší cestovní kanceláře. 
+NULL ({ }) My ({ }) name ({ 6 }) is ({ }) <NAME> ({ 3 }) and ({ 4 }) I'm ({ 5 }) the ({ 2 }) manager ({ 1 }) of ({ }) our ({ 7 }) travel ({ 8 }) agency. ({ 9 }) 
+# Sentence pair (4) source length 8 target length 8 alignment score : 6.01301e-05
+A tohle je naše IT specialistka slečna <NAME>. 
+NULL ({ }) And ({ 1 }) this ({ 5 }) is ({ 4 }) our ({ }) IT ({ 2 }) specialist ({ 3 6 }) miss ({ 7 }) <NAME>. ({ 8 }) 
+# Sentence pair (5) source length 4 target length 3 alignment score : 0.0171229
+Ráda vás poznávám. 
+NULL ({ }) Nice ({ 1 }) to ({ 2 }) meet ({ }) you. ({ 3 }) 
+# Sentence pair (6) source length 9 target length 8 alignment score : 3.02161e-06
+Jsme rádi, že můžeme být zde na veletrhu. 
+NULL ({ }) We ({ }) are ({ 6 }) glad ({ 7 }) to ({ }) be ({ 8 }) here ({ 1 }) on ({ 2 4 5 }) this ({ }) expo. ({ 3 }) 
+# Sentence pair (7) source length 19 target length 14 alignment score : 8.43724e-08
+Zastupujeme zde náš devítičlenný tým z Vlašimi a naše cestovní kancelář se jmenuje Remoa. 
+NULL ({ }) We ({ }) are ({ 2 }) representing ({ 4 }) our ({ }) team ({ 3 }) of ({ }) nine ({ 7 14 }) people ({ 6 }) from ({ 13 }) Vlašim ({ 5 }) and ({ 8 }) the ({ 12 }) name ({ }) of ({ }) our ({ }) travel ({ 10 }) agency ({ 11 }) is ({ 9 }) Remoa. ({ 1 }) 
+# Sentence pair (8) source length 14 target length 17 alignment score : 2.25984e-16
+Naše cestovní kancelář se zaměřuje na cesty po Japonsku, a to zejména na jeho největší ostrov Honšú. 
+NULL ({ 4 10 }) Our ({ 1 }) travel ({ 2 }) agency ({ 3 }) specializes ({ }) in ({ }) travels ({ }) across ({ }) Japan, ({ 13 }) mainly ({ 17 }) in ({ 8 11 14 16 }) its ({ 5 }) largest ({ 7 }) island ({ 6 }) Honshu. ({ 9 12 15 }) 
+# Sentence pair (9) source length 15 target length 12 alignment score : 7.53123e-13
+Chceme splnit přání všech našich zákazníků i ta nejnáročnější vyžadující individuální přístup. 
+NULL ({ }) We ({ }) aim ({ 1 2 3 4 5 }) to ({ }) fulfill ({ 6 }) our ({ }) customers ({ }) every ({ 7 }) wish ({ }) even ({ }) the ({ }) most ({ }) challenging ({ 12 }) with ({ }) individual ({ 8 9 10 11 }) approach. ({ }) 
+# Sentence pair (10) source length 15 target length 14 alignment score : 5.56968e-30
+S námi můžete objevit spoustu tváří, které Japonsko nabízí, jako je moderní město Tokio. 
+NULL ({ }) With ({ 7 8 9 }) us, ({ 1 }) you ({ 6 }) can ({ 3 }) discover ({ 2 4 }) many ({ 10 }) faces ({ 5 }) of ({ }) Japan ({ 12 }) like ({ }) the ({ }) modern ({ 14 }) city ({ 13 }) of ({ }) Tokyo. ({ 11 }) 
+# Sentence pair (11) source length 8 target length 6 alignment score : 0.0147432
+Živé město Osaka plné betonových mrakodrapů. 
+NULL ({ }) Vibrant ({ 1 }) city ({ 2 }) of ({ }) Osaka ({ 3 }) full ({ 4 }) of ({ }) concrete ({ 5 }) skyscrapers. ({ 6 }) 
+# Sentence pair (12) source length 13 target length 11 alignment score : 1.01721e-08
+Kulturně bohaté město Nagoya se svým známým hradem ze sedmnáctého století. 
+NULL ({ }) Culture ({ }) rich ({ 4 }) city ({ 3 }) of ({ }) Nagoya ({ 1 }) with ({ }) its ({ }) famous ({ 6 11 }) castle ({ 2 }) from ({ }) the ({ 5 }) seventeenth ({ 8 9 10 }) century. ({ 7 }) 
+# Sentence pair (13) source length 8 target length 7 alignment score : 0.000313041
+Hakone s japonskými lázněmi pod horou Fudži. 
+NULL ({ }) Hakone ({ 1 }) with ({ 2 }) Japanese ({ 4 }) spas ({ 3 }) under ({ 5 }) the ({ }) mountain ({ 6 }) Fuji. ({ 7 }) 
+# Sentence pair (14) source length 8 target length 8 alignment score : 0.00185312
+A Nikko s dechberoucí přírodou a nádhernými svatyněmi. 
+NULL ({ }) And ({ 1 }) Nikko ({ 4 }) with ({ 3 }) breathtaking ({ 5 }) nature ({ 2 }) and ({ 6 }) beautiful ({ 7 }) shrines. ({ 8 }) 
+# Sentence pair (15) source length 10 target length 7 alignment score : 0.000342861
+Pojďte s námi objevit úžasnou zemi Japonsko. 
+NULL ({ }) So ({ }) let's ({ 5 }) discover ({ 3 4 }) with ({ 2 }) us ({ }) the ({ }) amazing ({ 6 }) country ({ 1 }) of ({ }) Japan. ({ 7 }) 
+# Sentence pair (16) source length 6 target length 3 alignment score : 0.0262674
+Zemi vycházejícího slunce. 
+NULL ({ }) The ({ 3 }) land ({ 2 }) of ({ }) the ({ }) rising ({ 1 }) sun. ({ }) 
+# Sentence pair (17) source length 4 target length 4 alignment score : 0.00516875
+Tak jiné, tak přitažlivé. 
+NULL ({ }) So ({ 1 }) different, ({ 2 }) so ({ 3 }) attractive. ({ 4 }) 
+# Sentence pair (18) source length 4 target length 4 alignment score : 0.0277128
+Děkuji vám za pozornost. 
+NULL ({ }) Thanks ({ 1 }) for ({ 2 }) your ({ 3 }) attention. ({ 4 }) 

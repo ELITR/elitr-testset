@@ -1,0 +1,336 @@
+# Sentence pair (1) source length 8 target length 4 alignment score : 0.00150817
+<CENSORED>, jsi na příjmu? 
+NULL ({ }) <CENSORED> ({ 1 }) you ({ }) are ({ }) on-line, ({ 2 }) can ({ 3 }) you ({ }) hear ({ }) us? ({ 4 }) 
+# Sentence pair (2) source length 6 target length 2 alignment score : 0.0474707
+Mám začít? 
+NULL ({ }) Do ({ }) you ({ }) want ({ 1 }) me ({ }) to ({ }) start? ({ 2 }) 
+# Sentence pair (3) source length 1 target length 1 alignment score : 0.536205
+Ano. 
+NULL ({ }) Yes. ({ 1 }) 
+# Sentence pair (4) source length 5 target length 6 alignment score : 1.34846e-06
+Jasně, ha ha ha, omlouvám se. 
+NULL ({ }) Ok, ({ 1 2 3 }) ha ({ 4 5 6 }) ha ({ }) ha, ({ }) sorry. ({ }) 
+# Sentence pair (5) source length 14 target length 17 alignment score : 2.37501e-15
+V prvé řadě bych vám chtěl poděkovat, že jste mě pozval na vaši konferenci o elektronických datech. 
+NULL ({ }) First ({ 1 }) of ({ }) all, ({ 2 3 4 5 6 }) thank ({ 8 9 10 }) you ({ }) for ({ }) inviting ({ 7 }) me ({ }) to ({ }) speak ({ 11 }) at ({ 12 }) your ({ 13 }) e-data ({ 14 15 }) conference. ({ 16 17 }) 
+# Sentence pair (6) source length 12 target length 10 alignment score : 1.29367e-09
+Právo na přístup k vládním informacím je základní demokratické právo. 
+NULL ({ }) With ({ 1 }) an ({ }) access ({ 3 5 }) to ({ 4 }) government ({ }) information ({ }) it ({ }) is ({ }) a ({ 2 }) fundamental ({ 6 7 }) democratic ({ 8 9 }) right. ({ 10 }) 
+# Sentence pair (7) source length 10 target length 9 alignment score : 4.82668e-10
+K tomu je nutné, aby vláda sdílela veřejné informace. 
+NULL ({ }) And ({ }) that ({ }) role ({ 2 3 5 }) requires ({ 1 }) the ({ }) government ({ 6 }) to ({ }) share ({ 4 }) public ({ }) information. ({ 7 8 9 }) 
+# Sentence pair (8) source length 12 target length 9 alignment score : 1.18583e-08
+Od vstupu zákona v platnost se společnost hodně změnila. 
+NULL ({ }) A ({ 3 }) society ({ 2 }) changed ({ }) a ({ }) great ({ }) deal ({ 4 }) since ({ 5 }) an ({ }) act ({ 6 }) came ({ 7 8 }) into ({ }) force. ({ 1 9 }) 
+# Sentence pair (9) source length 13 target length 11 alignment score : 2.94185e-11
+Informace se již neuchovávají na papíře, ale v dynamických počítačových systémech. 
+NULL ({ }) And ({ }) information ({ }) is ({ 2 }) no ({ }) longer ({ 1 }) kept ({ 3 4 6 }) on ({ 5 }) paper ({ }) but ({ 7 }) in ({ 8 }) dynamic ({ }) computer ({ 9 }) systems. ({ 10 11 }) 
+# Sentence pair (10) source length 16 target length 14 alignment score : 2.09231e-15
+Postupem času začali prakticky všichni lidé používat Internet, a to často na více zařízeních. 
+NULL ({ }) And ({ }) at ({ 12 }) the ({ }) meantime ({ 3 4 5 6 }) virtually ({ 8 10 11 }) everyone ({ 7 9 }) is ({ }) connected ({ }) through ({ }) a ({ }) series ({ 1 14 }) of ({ }) devices ({ 13 }) to ({ }) the ({ }) internet. ({ 2 }) 
+# Sentence pair (11) source length 19 target length 18 alignment score : 3.90912e-18
+Vláda dvacátého prvního století může na tyto úkoly reagovat tím, že poskytne veřejnosti přímý přístup k vládním informacím. 
+NULL ({ }) And ({ }) twenty ({ 1 }) first ({ }) century ({ 2 3 4 5 }) government ({ }) can ({ 6 }) respond ({ 11 }) to ({ }) these ({ 7 8 9 }) challenges ({ 12 13 }) by ({ }) giving ({ 10 }) the ({ }) public ({ }) direct ({ 14 }) access ({ 15 17 }) to ({ 16 }) government ({ }) information. ({ 18 }) 
+# Sentence pair (12) source length 10 target length 9 alignment score : 1.16846e-09
+Jinými slovy, vláda by mohla aktivně zveřejňovat otevřená data. 
+NULL ({ }) In ({ }) another ({ 2 }) words, ({ 1 }) the ({ }) government ({ 3 }) could ({ 4 }) publish ({ }) open ({ }) data ({ }) actively. ({ 5 6 7 8 9 }) 
+# Sentence pair (13) source length 16 target length 16 alignment score : 1.76553e-16
+V takovém případě je třeba objem otevřených dat posuzovat v kontextu s přechodem na digitální správu. 
+NULL ({ }) Then ({ 1 }) the ({ }) volume ({ 2 }) of ({ }) open ({ 7 }) data ({ 8 }) cannot ({ 9 }) be ({ }) seen ({ 11 }) separately ({ }) from ({ }) the ({ 10 }) move ({ 3 4 5 6 }) towards ({ 12 15 16 }) digital ({ 13 }) government. ({ 14 }) 
+# Sentence pair (14) source length 13 target length 12 alignment score : 1.18991e-16
+Tempo v této oblasti přitom udává zde Velká Británie, spolu s USA. 
+NULL ({ }) And ({ }) here ({ 1 }) the ({ 2 }) United ({ }) Kingdom ({ }) and ({ }) the ({ }) United ({ }) States ({ 11 }) are ({ }) setting ({ 3 4 5 6 7 8 9 10 }) the ({ }) pace. ({ 12 }) 
+# Sentence pair (15) source length 16 target length 17 alignment score : 4.89203e-19
+Na otevřená data tyto země zjevně nepohlíží jako na cíl, nýbrž na prostředek k dosažení větší transparentnosti. 
+NULL ({ }) They ({ 2 }) see ({ 1 }) open ({ }) data, ({ }) em ({ 3 }) are ({ }) clearly ({ }) not ({ }) a ({ 9 }) goal ({ 4 }) but ({ }) a ({ 12 }) means ({ 11 13 }) to ({ 14 }) become ({ 5 15 16 }) transparent. ({ 6 7 8 10 17 }) 
+# Sentence pair (16) source length 14 target length 12 alignment score : 4.80554e-15
+Ze světového hlediska zaujímají vedoucí postavení s ohledem na otevřené vládní partnerství. 
+NULL ({ 9 }) And ({ }) they ({ 1 }) are ({ }) leading ({ 3 4 }) in ({ }) the ({ }) w ({ 2 }) the ({ }) world ({ 5 6 7 8 }) in ({ }) the ({ }) open ({ }) government ({ }) partnership... ({ 10 11 12 }) 
+# Sentence pair (17) source length 12 target length 13 alignment score : 2.91543e-13
+To je iniciativa, která má přimět vládu k tomu, aby byla co nejotevřenější. 
+NULL ({ }) An ({ 1 }) ini ({ 7 }) initiative ({ 5 6 9 }) to ({ }) encourage ({ 2 3 4 }) government ({ }) to ({ 8 }) be ({ }) as ({ }) open ({ }) as ({ 10 11 }) possible. ({ 12 13 }) 
+# Sentence pair (18) source length 19 target length 18 alignment score : 4.78888e-18
+A v Evropě existuje několik evropských směrnic a smluv, které jsou pro legislativu a politiku otevřených údajů důležité. 
+NULL ({ }) And ({ 1 }) in ({ 2 }) Europe ({ 3 4 }) there ({ }) are ({ 11 }) several ({ 5 }) european ({ 6 7 13 }) directives ({ 17 18 }) and ({ 8 }) treaties ({ 9 10 15 }) which ({ }) are ({ }) important ({ }) for ({ 12 }) open ({ 16 }) data ({ }) legislation ({ }) and ({ 14 }) policies. ({ }) 
+# Sentence pair (19) source length 10 target length 14 alignment score : 3.36934e-13
+Také nizozemská vláda má v oblasti otevřených dat značné ambice a přijala nová pravidla. 
+NULL ({ }) And ({ }) the ({ 5 }) Dutch ({ 1 2 }) government ({ 3 }) has ({ 4 6 }) open ({ 7 }) data ({ 8 }) ambitions ({ 9 10 }) and ({ 11 }) policies. ({ 12 13 14 }) 
+# Sentence pair (20) source length 13 target length 7 alignment score : 5.29841e-07
+Skutečná realizace je však dosud v plenkách. 
+NULL ({ }) But ({ }) the ({ }) actual ({ 2 }) implementation ({ }) is ({ }) still ({ 4 5 }) grass ({ 3 }) roots ({ 1 }) and ({ }) its ({ }) in ({ 6 }) early ({ }) stages. ({ 7 }) 
+# Sentence pair (21) source length 18 target length 15 alignment score : 1.14025e-15
+Nizozemský účetní dvůr a jeho bývalá předsedkyně, paní Stuivelingová, vidí v otevřených datech velký potenciál. 
+NULL ({ }) The ({ 1 }) Netherlands ({ }) Court ({ 2 3 }) of ({ }) Audit ({ }) and ({ 4 }) its ({ }) former ({ 5 6 }) President, ({ 7 }) Mrs. ({ }) Stuiveling, ({ 8 9 }) see ({ }) the ({ }) great ({ 10 13 14 15 }) potential ({ }) in ({ 11 }) open ({ 12 }) data. ({ }) 
+# Sentence pair (22) source length 15 target length 12 alignment score : 5.66768e-12
+V roce 2013 jsme se rozhodli sledovat vývoj otevřených dat v Nizozemsku. 
+NULL ({ }) And ({ 1 }) in ({ }) 2013, ({ 2 3 }) we ({ 4 }) decided ({ 7 }) to ({ }) monitor ({ 6 }) the ({ 5 }) progress ({ 8 }) of ({ }) open ({ 9 }) data ({ 10 }) in ({ 11 }) the ({ }) Netherlands. ({ 12 }) 
+# Sentence pair (23) source length 21 target length 17 alignment score : 4.14033e-12
+V naší první zprávě jsme se zaměřili na definici otevřených dat a stav otevřených dat v Nizozemsku. 
+NULL ({ }) In ({ 1 }) our ({ 2 }) first ({ 3 }) report ({ 4 }) we ({ 5 }) concentrated ({ 6 7 }) on ({ 8 }) the ({ }) definition ({ 9 }) of ({ }) open ({ 10 }) data ({ 11 }) and ({ 12 }) the ({ }) state ({ 13 }) of ({ }) open ({ 14 }) data ({ 15 }) in ({ 16 }) the ({ }) Netherlands. ({ 17 }) 
+# Sentence pair (24) source length 13 target length 11 alignment score : 1.08169e-11
+Provedli jsme průzkum zaměřený na odhodlání ministerstev uplatňovat politiku otevřených dat. 
+NULL ({ }) We ({ 2 }) did ({ 1 }) a ({ 5 }) survey ({ 3 4 6 7 8 }) on ({ }) the ({ }) commitment ({ 9 }) of ({ }) the ({ }) ministries ({ }) to ({ }) open ({ 10 }) data. ({ 11 }) 
+# Sentence pair (25) source length 23 target length 23 alignment score : 1.8587e-21
+Náš přístup je pozitivní, protože jsme se soustředili na ministerstva, která si vedla dobře, a naopak jsme se snažili povzbudit ministerstva, která zaostala. 
+NULL ({ }) Our ({ }) approach ({ 4 }) is ({ 3 }) positive, ({ }) because ({ 5 }) we ({ 6 }) concentrated ({ }) on ({ 9 }) ministries ({ 7 }) which ({ }) were ({ 8 10 }) doing ({ 11 }) well ({ 13 14 16 }) and ({ 15 }) we ({ 17 }) tried ({ 12 }) to ({ }) encourage ({ }) the ({ }) ministries ({ 18 }) who ({ 1 }) fell ({ 2 }) behind. ({ 19 20 21 22 23 }) 
+# Sentence pair (26) source length 20 target length 22 alignment score : 2.40671e-18
+Prostřednictvím setkání s odborníky na otevřená data a státními úředníky a zveřejněním informačních přehledů s dobrými příklady na národní a mezinárodní úrovni. 
+NULL ({ 18 }) And ({ }) through ({ 6 7 }) sessions ({ 4 5 }) with ({ 3 }) open ({ }) data ({ }) experts ({ 1 2 }) and ({ 8 }) civil ({ 9 }) servants, ({ 10 }) and ({ 11 }) publications ({ 12 }) of ({ }) factsheets ({ 13 14 16 }) with ({ 15 }) good ({ }) examples ({ 17 }) national ({ 19 }) and ({ 20 }) international. ({ 21 22 }) 
+# Sentence pair (27) source length 13 target length 11 alignment score : 1.29353e-09
+Ve druhé zprávě jsme zdůraznili význam otevřených údajů a sledovali pokrok. 
+NULL ({ }) In ({ }) second ({ 2 }) report ({ 3 }) we ({ 4 }) emphasised ({ 5 }) the ({ }) importance ({ 6 }) of ({ }) open ({ 7 }) data ({ 8 }) and ({ 9 }) monitored ({ 10 }) progress. ({ 1 11 }) 
+# Sentence pair (28) source length 9 target length 7 alignment score : 4.82396e-06
+Identifikovali jsme několik potenciálních výhod otevřených dat. 
+NULL ({ }) We've ({ 1 }) in ({ }) identified ({ 2 }) several ({ 3 }) potential ({ }) benefits ({ 4 5 }) of ({ }) open ({ 6 }) data. ({ 7 }) 
+# Sentence pair (29) source length 7 target length 5 alignment score : 4.17344e-05
+Otevřená data nabízejí vládě příležitosti. 
+NULL ({ }) Open ({ 1 2 }) data ({ }) offers ({ 3 }) opportunities ({ 4 5 }) to ({ }) the ({ }) government. ({ }) 
+# Sentence pair (30) source length 21 target length 19 alignment score : 1.09026e-18
+Tím, že vláda začne otevřeně informovat o svých výdajích a výkonnosti, bude mít lepší představu o svém vlastním financování. 
+NULL ({ }) And ({ }) by ({ }) opening ({ 2 }) em ({ }) e ({ 1 }) data ({ }) on ({ }) its ({ }) expenditure ({ }) and ({ 10 }) performance, ({ 11 12 13 }) the ({ }) government ({ 3 }) will ({ }) have ({ }) better ({ 14 15 16 }) understanding ({ 4 5 6 7 8 9 }) of ({ }) its ({ 17 }) own ({ 18 }) funding. ({ 19 }) 
+# Sentence pair (31) source length 10 target length 10 alignment score : 3.04008e-10
+Tím způsobem se změní způsob, jak Parlament dohlíží na vládu. 
+NULL ({ }) This ({ }) way ({ 4 }) it ({ 1 2 }) turn ({ }) how ({ }) the ({ 3 }) parliament ({ 6 7 8 }) scrutinise ({ 5 }) the ({ }) government. ({ 9 10 }) 
+# Sentence pair (32) source length 14 target length 11 alignment score : 6.05707e-15
+Otevřené soubory údajů by pro občany zvýšily transparentnost a přístupnost vlády. 
+NULL ({ }) For ({ }) citizens ({ }) the ({ }) open ({ }) data ({ }) sets ({ }) would ({ 2 }) make ({ 3 }) the ({ }) government ({ }) more ({ }) transparent ({ 4 5 6 7 }) and ({ 9 }) accessible. ({ 1 8 10 11 }) 
+# Sentence pair (33) source length 13 target length 12 alignment score : 2.59177e-13
+Z obchodního hlediska mohou inovativní podnikatelé převádět otevřená data na nové aplikace. 
+NULL ({ }) From ({ }) a ({ }) business ({ }) view, ({ 2 3 4 5 6 }) innovative ({ 1 7 }) entrepreneurs ({ 8 9 }) can ({ }) turn ({ }) open ({ }) data ({ }) into ({ }) new ({ 10 }) applications. ({ 11 12 }) 
+# Sentence pair (34) source length 18 target length 19 alignment score : 1.17388e-20
+Jedním z našich cílů bylo najít, v čem by se Nizozemsko mohlo přiučit od Velké Británie a Spojených států. 
+NULL ({ }) One ({ 1 2 }) of ({ }) our ({ 3 }) objectives ({ 4 6 }) was ({ 5 8 }) what ({ }) the ({ 10 }) Netherlands ({ 11 }) could ({ 9 }) learn ({ 12 13 14 15 }) from ({ }) the ({ 7 }) United ({ }) Kingdom ({ 16 }) and ({ 17 }) the ({ }) United ({ }) States. ({ 18 19 }) 
+# Sentence pair (35) source length 20 target length 17 alignment score : 3.52487e-17
+S využitím dat pro otevřený datový biometr provedený World Web Foundation jsme porovnali tři aspekty otevřených dat. 
+NULL ({ }) Using ({ 1 2 }) data ({ 3 }) for ({ 4 }) the ({ }) open ({ }) data ({ }) bio ({ }) meter ({ 6 7 }) made ({ 9 }) by ({ }) World ({ 8 10 }) Web ({ 5 }) Foundation, ({ 11 }) we ({ 12 }) compared ({ }) three ({ }) aspects ({ 13 14 15 }) of ({ }) open ({ 16 }) data. ({ 17 }) 
+# Sentence pair (36) source length 11 target length 11 alignment score : 1.22843e-14
+Povědomí o zajištění pozitivních výsledků z vládních iniciativ o otevřených datech. 
+NULL ({ }) The ({ }) awareness ({ 1 4 5 }) to ({ }) secure ({ 3 }) positive ({ }) outcomes ({ 7 8 11 }) from ({ 2 6 9 }) open ({ 10 }) government ({ }) data ({ }) initiatives. ({ }) 
+# Sentence pair (37) source length 8 target length 8 alignment score : 7.07503e-10
+Rozsah, v jakém jsou otevřené údaje k dispozici. 
+NULL ({ }) The ({ 1 }) extent ({ }) to ({ }) which ({ 2 3 }) open ({ }) data ({ }) are ({ 4 }) available. ({ 5 6 7 8 }) 
+# Sentence pair (38) source length 8 target length 7 alignment score : 1.03284e-05
+A dopad na společnost, ekonomiku a vládu. 
+NULL ({ }) And ({ 1 }) the ({ }) impact ({ 2 }) on ({ 3 }) society, ({ 4 5 }) business ({ }) and ({ 6 }) government. ({ 7 }) 
+# Sentence pair (39) source length 5 target length 5 alignment score : 8.55582e-05
+ehm společnost, ekonomiku a vládu. 
+NULL ({ }) ehm ({ 1 }) society, ({ 2 3 }) business ({ 5 }) and ({ 4 }) government ({ }) 
+# Sentence pair (40) source length 7 target length 5 alignment score : 6.35858e-05
+A pokud porovnáme ... promiňte 
+NULL ({ }) And ({ 1 }) if ({ }) we ({ }) compared ({ 5 }) I ({ }) am ({ 2 3 }) sorry. ({ 4 }) 
+# Sentence pair (41) source length 1 target length 1 alignment score : 0.565048
+promiňte 
+NULL ({ }) Sorry. ({ 1 }) 
+# Sentence pair (42) source length 13 target length 6 alignment score : 1.1043e-05
+Hlas mi v monitoru nějak vazbí. 
+NULL ({ }) I ({ }) am ({ }) getting ({ 1 }) am ({ }) getting ({ }) em ({ }) my ({ }) voice ({ 5 }) feeding ({ 2 4 }) back ({ 3 }) into ({ }) the ({ }) monitor. ({ 6 }) 
+# Sentence pair (43) source length 4 target length 4 alignment score : 0.000275869
+Dost mě to ruší. 
+NULL ({ }) It ({ 1 }) is ({ }) very ({ 3 }) distractive. ({ 2 4 }) 
+# Sentence pair (44) source length 1 target length 2 alignment score : 0.058142
+V pořádku. 
+NULL ({ }) OK. ({ 1 2 }) 
+# Sentence pair (45) source length 2 target length 2 alignment score : 0.0357506
+Můžeme pokračovat. 
+NULL ({ }) But ({ }) continue. ({ 1 2 }) 
+# Sentence pair (46) source length 12 target length 8 alignment score : 1.6085e-07
+Porovnáme-li Velkou Británii a Spojené státy s Nizozemskem, 
+NULL ({ }) If ({ 2 }) we ({ }) compare ({ 3 }) the ({ }) United ({ }) Kingdom ({ }) and ({ 4 }) United ({ 5 }) States ({ 6 }) with ({ 7 }) the ({ }) Netherlands... ({ 1 8 }) 
+# Sentence pair (47) source length 16 target length 14 alignment score : 1.16056e-16
+vychází z toho Velká Británie a USA s ohledem na realizaci a dopad lépe. 
+NULL ({ }) We ({ }) can ({ 10 }) see ({ }) that ({ }) the ({ }) United ({ 7 }) Kingdom ({ 4 5 }) and ({ 6 }) United ({ }) States ({ 8 }) come ({ 1 2 9 }) better ({ }) on ({ }) implementation ({ 3 11 }) and ({ 12 }) impact. ({ 13 14 }) 
+# Sentence pair (48) source length 10 target length 14 alignment score : 1.66866e-17
+Pokud jde o jejich připravenost na otevřená data, existuje mezi nimi jen malý rozdíl. 
+NULL ({ 6 }) There ({ 4 5 7 }) is ({ }) little ({ 12 13 14 }) difference ({ 1 9 }) regarding ({ 8 }) the ({ }) readiness ({ 2 10 11 }) for ({ 3 }) open ({ }) data. ({ }) 
+# Sentence pair (49) source length 10 target length 7 alignment score : 1.43435e-07
+Naproti tomu Nizozemsko je připraveno výrazně hůř. 
+NULL ({ }) If ({ }) we ({ }) look ({ 1 7 }) at ({ }) readiness, ({ 2 }) the ({ }) Netherlands ({ 3 }) score ({ 4 5 }) less ({ 6 }) well. ({ }) 
+# Sentence pair (50) source length 19 target length 18 alignment score : 1.02071e-20
+Týká se to pouze práva na informace a rozsahu, v němž vláda podporuje iniciativy v oblasti otevřených údajů. 
+NULL ({ 6 }) Only ({ 1 }) with ({ }) regards ({ 3 4 5 7 9 }) to ({ }) the ({ 2 }) right ({ }) for ({ }) information ({ }) and ({ 8 }) the ({ }) extent ({ 11 }) to ({ }) which ({ 10 15 }) the ({ }) government ({ 12 }) supports ({ 13 14 }) open ({ }) data ({ }) initiatives. ({ 16 17 18 }) 
+# Sentence pair (51) source length 15 target length 15 alignment score : 1.95311e-14
+Pokud jde o dostupnost, Spojené království a Spojené státy zveřejňují mnohem otevřenější údaje než Nizozemsko. 
+NULL ({ }) Regarding ({ 1 2 }) availability, ({ 4 5 6 }) United ({ 8 }) Kingdom ({ }) and ({ 7 }) United ({ }) States ({ 9 }) publish ({ 10 }) far ({ 11 12 13 }) more ({ 3 }) open ({ }) data ({ }) than ({ 14 }) the ({ }) Netherlands. ({ 15 }) 
+# Sentence pair (52) source length 12 target length 9 alignment score : 2.72202e-11
+Počet souborů otevřených dat je ve Spojených státech obrovský. 
+NULL ({ }) The ({ }) number ({ 2 }) of ({ }) open ({ 3 }) data ({ 4 }) sets ({ }) in ({ }) the ({ }) United ({ }) States ({ }) is ({ 5 }) enormous. ({ 1 6 7 8 9 }) 
+# Sentence pair (53) source length 13 target length 9 alignment score : 4.60437e-09
+Typ údajů, které země zveřejňují, se liší počtem bodů. 
+NULL ({ }) The ({ }) type ({ }) of ({ }) data ({ }) the ({ }) countries ({ 2 3 4 }) release ({ 5 }) differs ({ 1 }) on ({ }) the ({ }) number ({ 6 }) of ({ }) points. ({ 7 8 9 }) 
+# Sentence pair (54) source length 14 target length 15 alignment score : 8.06473e-15
+Nizozemsko v současné době publikuje jen málo otevřených údajů o vládních výdajích a veřejných zakázkách. 
+NULL ({ }) The ({ 9 }) Netherlands ({ 1 }) currently ({ 2 3 4 }) publish ({ 10 }) publishes ({ 5 11 }) little ({ 6 7 }) open ({ 8 }) data ({ }) on ({ }) government ({ }) spending ({ 12 }) and ({ 13 }) public ({ 14 }) contracting. ({ 15 }) 
+# Sentence pair (55) source length 9 target length 7 alignment score : 7.11356e-08
+Ani Nizozemský obchodní rejstřík není příliš otevřený. 
+NULL ({ }) And ({ }) the ({ }) Dutch ({ }) Trade ({ 2 3 4 }) Register ({ 1 }) is ({ }) not ({ }) open ({ }) either. ({ 5 6 7 }) 
+# Sentence pair (56) source length 15 target length 12 alignment score : 6.82896e-13
+Jak vidíte, naproti tomu Velká Británie má otevřená data ve všech oblastech. 
+NULL ({ }) As ({ 1 }) you ({ 9 }) can ({ 8 }) see ({ }) the ({ }) u ({ 10 }) United ({ }) Kingdom ({ 5 6 }) has ({ 7 }) open ({ }) data ({ }) on ({ }) all ({ 11 }) policy ({ 2 3 }) fields. ({ 4 12 }) 
+# Sentence pair (57) source length 15 target length 9 alignment score : 8.34123e-09
+Dopad otevřených údajů má politický, sociální a ekonomický rozměr. 
+NULL ({ }) The ({ 3 }) impact ({ }) of ({ }) open ({ 2 }) data ({ }) can ({ }) be ({ }) broken ({ 4 }) down ({ 5 }) into ({ }) political, ({ 6 }) social ({ }) and ({ 7 }) economic ({ 8 }) dimensions. ({ 1 9 }) 
+# Sentence pair (58) source length 17 target length 13 alignment score : 6.50008e-17
+Ze sociálního a ekonomického hlediska Nizozemsko za Velkou Británií i Spojenými státy zaostává. 
+NULL ({ }) And ({ }) the ({ }) Netherlands ({ 6 }) lag ({ 1 2 4 5 }) behind ({ 7 }) United ({ 8 }) Kingdom ({ }) and ({ }) United ({ }) States ({ }) on ({ }) the ({ }) shows ({ 9 10 11 12 13 }) social ({ }) and ({ 3 }) economic ({ }) dimensions. ({ }) 
+# Sentence pair (59) source length 20 target length 17 alignment score : 2.57679e-16
+To znamená, že Nizozemsko méně využívá otevřené údaje k zapojení občanů do tvorby a kontroly vládní politiky. 
+NULL ({ }) This ({ 1 2 }) means ({ }) that ({ 3 }) the ({ }) Netherlands ({ 4 }) makes ({ 5 6 }) less ({ }) use ({ 7 8 }) of ({ }) open ({ }) data ({ }) to ({ 9 }) involve ({ 10 }) citizens ({ 11 12 13 }) in ({ }) making ({ 16 17 }) and ({ 14 }) scrutinising ({ 15 }) government ({ }) policy. ({ }) 
+# Sentence pair (60) source length 8 target length 8 alignment score : 3.1382e-07
+Ekonomický přínos otevřených dat je jen velmi malý. 
+NULL ({ }) Businesses ({ 1 2 }) generate ({ 5 }) little ({ 6 }) added ({ 4 }) value ({ 7 8 }) with ({ }) open ({ 3 }) data. ({ }) 
+# Sentence pair (61) source length 18 target length 15 alignment score : 1.33557e-16
+V obou našich zprávách jsme uvedli mezinárodní příklady, které mohou být dobrým příkladem pro Nizozemsko. 
+NULL ({ }) In ({ 1 }) both ({ 2 }) our ({ 3 }) reports ({ }) we've ({ 4 5 6 7 8 }) added ({ }) international ({ 9 10 }) examples ({ }) which ({ }) can ({ }) serve ({ 11 12 13 }) as ({ }) a ({ }) good ({ }) example ({ }) for ({ 14 }) the ({ }) Netherlands. ({ 15 }) 
+# Sentence pair (62) source length 16 target length 14 alignment score : 1.85804e-10
+A například ve Švédsku obce a regiony zveřejňují podrobné tabulky o čekacích dobách nemocnic. 
+NULL ({ }) And ({ 1 }) in ({ }) Sweden, ({ 2 }) for ({ }) example, ({ 3 }) municipalities ({ 4 }) and ({ 6 }) regions ({ 5 7 }) publish ({ 8 }) detailed ({ 9 }) charts ({ 10 }) on ({ }) waiting ({ 13 }) times ({ 14 }) for ({ 11 }) hospitals. ({ 12 }) 
+# Sentence pair (63) source length 10 target length 8 alignment score : 5.30403e-07
+Nespoléhali jsme se pouze na barometry otevřených dat 
+NULL ({ }) We ({ 2 }) did ({ }) not ({ }) re ({ 1 }) rely ({ 3 }) on ({ 5 }) open ({ 7 }) data ({ 8 }) barometers ({ 6 }) only. ({ 4 }) 
+# Sentence pair (64) source length 8 target length 7 alignment score : 3.41524e-07
+a provedli jsme si náš vlastní průzkum. 
+NULL ({ }) And ({ }) we ({ 3 }) did ({ 2 }) our ({ }) own ({ 1 }) research ({ 4 }) as ({ }) well. ({ 5 6 7 }) 
+# Sentence pair (65) source length 16 target length 14 alignment score : 4.48758e-12
+A abychom si udělali lepší představu o aktuálně dostupném objemu a typu otevřených dat 
+NULL ({ }) And ({ 1 }) to ({ }) get ({ 2 3 4 }) a ({ }) better ({ 5 6 7 }) picture ({ 8 9 }) of ({ }) the ({ }) volume ({ 10 }) and ({ 11 }) type ({ 12 }) of ({ }) open ({ 13 }) data ({ 14 }) currently ({ }) available ({ }) 
+# Sentence pair (66) source length 14 target length 12 alignment score : 3.61585e-14
+podívali jsme se na data zveřejněná na našem národním otevřeném datovém portálu. 
+NULL ({ }) we ({ 2 }) looked ({ 1 }) at ({ 4 }) the ({ 3 }) data ({ }) that ({ }) are ({ }) published ({ 5 6 8 }) on ({ 7 }) our ({ }) national ({ }) open ({ }) data ({ }) portal. ({ 9 10 11 12 }) 
+# Sentence pair (67) source length 20 target length 15 alignment score : 4.63163e-17
+Celkem bylo v únoru dva tisíce patnáct k dispozici tři tisíce dvě stě souborů dat. 
+NULL ({ }) In ({ }) total ({ 1 4 }) there ({ 2 3 }) is ({ }) a ({ }) three ({ 9 10 }) thousand ({ 5 6 }) two ({ }) hundreds ({ 7 12 13 }) data ({ }) sets ({ 14 }) were ({ }) available ({ }) in ({ }) February ({ }) February ({ 15 }) two ({ }) thousand ({ 11 }) and ({ }) fifteen. ({ 8 }) 
+# Sentence pair (68) source length 14 target length 11 alignment score : 3.84467e-09
+A o něco více než polovinu souborů dat poskytla ústřední vláda. 
+NULL ({ }) And ({ 1 }) slightly ({ 3 6 }) more ({ 2 }) than ({ 5 }) half ({ 4 }) of ({ }) the ({ }) data ({ 8 }) sets ({ 7 }) are ({ }) provided ({ 9 }) by ({ }) central ({ 10 }) government. ({ 11 }) 
+# Sentence pair (69) source length 18 target length 11 alignment score : 1.25639e-13
+Větší část otevřených údajů zveřejňovaných ústřední vládou pochází od Ministerstva infrastruktury. 
+NULL ({ }) The ({ }) greater ({ }) part ({ 2 }) of ({ }) the ({ }) open ({ 3 }) data ({ }) published ({ }) by ({ 4 5 }) central ({ 6 }) government ({ }) is ({ }) produced ({ 7 8 }) by ({ 1 }) the ({ }) Ministry ({ }) of ({ }) Infrastructure. ({ 9 10 11 }) 
+# Sentence pair (70) source length 21 target length 12 alignment score : 1.12146e-13
+A zdaleka nejdůležitějším zdrojem otevřených dat v Nizozemsku jsou veřejné práce ministerstva. 
+NULL ({ }) And ({ 1 }) the ({ }) ministry's ({ 2 }) public ({ }) work ({ 3 }) public ({ }) work ({ }) dimension ({ }) is ({ }) by ({ }) far ({ }) the ({ }) most ({ 4 }) important ({ }) source ({ 8 9 10 11 12 }) of ({ }) open ({ 5 }) data ({ 6 }) in ({ 7 }) the ({ }) Netherlands. ({ }) 
+# Sentence pair (71) source length 17 target length 17 alignment score : 1.12533e-17
+V případě našich dvou zpráv jsme se zeptali všech ministerstev, jaké kroky podnikají k zveřejňování otevřených údajů. 
+NULL ({ }) For ({ }) our ({ 3 }) two ({ }) reports ({ 1 2 }) we ({ 6 }) asked ({ 8 9 10 11 }) all ({ }) ministries ({ 7 }) what ({ }) actions ({ 4 5 }) they ({ }) are ({ }) taking ({ 12 13 17 }) to ({ 14 }) publish ({ 15 }) open ({ 16 }) data. ({ }) 
+# Sentence pair (72) source length 13 target length 10 alignment score : 1.45018e-12
+Skóre, které jsme udělili každému ministerstvu, vycházelo ze šesti ukazatelů. 
+NULL ({ }) And ({ }) the ({ }) score ({ }) we ({ 3 }) awarded ({ 1 2 }) to ({ }) each ({ 4 }) ministry, ({ }) was ({ }) based ({ }) on ({ }) six ({ }) indicators. ({ 5 6 7 8 9 10 }) 
+# Sentence pair (73) source length 15 target length 12 alignment score : 2.67751e-10
+Jednalo se například o podporu od vedení ministerstva a akční plán subjektu. 
+NULL ({ }) Such ({ 1 2 3 }) as ({ }) support ({ 5 6 }) from ({ 4 }) the ({ }) top ({ 7 }) of ({ }) the ({ }) ministry ({ 8 }) and ({ 9 }) person's ({ 10 }) of ({ }) an ({ 11 }) action ({ }) plan. ({ 12 }) 
+# Sentence pair (74) source length 16 target length 14 alignment score : 1.15331e-12
+Od zveřejnění naší první zprávy přijala některá ministerstva k zveřejňování otevřených dat výjimečné iniciativy. 
+NULL ({ }) Since ({ 1 }) the ({ }) publication ({ 2 }) of ({ }) our ({ 3 }) first ({ 4 }) report, ({ }) some ({ 5 6 }) ministries ({ 8 }) took ({ 7 }) exceptional ({ 13 14 }) initiatives ({ }) to ({ 9 }) publish ({ 10 }) open ({ 11 }) data. ({ 12 }) 
+# Sentence pair (75) source length 21 target length 17 alignment score : 1.9612e-15
+Zeptali jsme se také ministerstev, kolik lidí a jaké finanční prostředky poskytla v roce dva tisíce čtrnáct. 
+NULL ({ }) We ({ 1 2 }) also ({ }) asked ({ }) the ({ }) ministries ({ 3 }) how ({ 5 6 9 }) many ({ 4 }) people ({ 7 }) and ({ 8 }) how ({ }) much ({ 10 }) funding ({ 11 }) they ({ }) have ({ }) provided ({ 12 }) in ({ 13 }) two ({ }) thousand ({ 15 16 }) and ({ }) fou ({ 14 }) fourteen. ({ 17 }) 
+# Sentence pair (76) source length 5 target length 5 alignment score : 6.13077e-05
+Jejich odpovědi byly velmi rozdílné. 
+NULL ({ }) Their ({ 1 }) answers ({ 2 }) were ({ }) very ({ }) different. ({ 3 4 5 }) 
+# Sentence pair (77) source length 20 target length 15 alignment score : 2.02811e-10
+Ministerstvo obrany a ministerstvo bezpečnosti a spravedlnosti na zveřejňování veřejných údajů neměly čas ani peníze. 
+NULL ({ }) Ministry ({ 1 }) of ({ }) Defence ({ 2 }) and ({ 3 }) Ministry ({ 4 }) of ({ }) Security ({ 5 }) and ({ 6 }) Justice ({ 7 }) had ({ }) spent ({ 12 }) no ({ 14 }) time ({ 11 }) or ({ 13 }) money ({ 15 }) on ({ 8 }) publication ({ 9 }) of ({ }) public ({ 10 }) data. ({ }) 
+# Sentence pair (78) source length 18 target length 15 alignment score : 2.84677e-14
+Jiná ministerstva však pověřila zveřejňováním otevřených dat několik pracovníků a uvolnila rozpočet na tyto činnosti. 
+NULL ({ }) But ({ 1 }) other ({ }) ministries ({ 2 }) have ({ }) tasked ({ 3 4 5 }) several ({ 8 }) people ({ }) with ({ }) publishing ({ }) open ({ 6 }) data ({ 7 }) and ({ 10 }) have ({ }) released ({ 9 11 }) a ({ 13 }) budget ({ 12 14 }) for ({ }) activities. ({ 15 }) 
+# Sentence pair (79) source length 23 target length 24 alignment score : 8.60797e-26
+Na základě zkoumání let dva tisíce třináct a čtrnáct jsme dospěli k závěru, že otevřená data jsou standardem, ale dosud nejsou v praxi uplatňována. 
+NULL ({ }) And ({ }) the ({ }) conclusions ({ 4 11 }) of ({ }) two ({ 12 }) thousand ({ 5 6 }) and ({ 8 }) thirteen ({ 7 9 }) ff ({ 13 }) fourteen; ({ }) we ({ 10 }) concluded ({ }) that ({ 14 }) the ({ 22 }) open ({ 15 }) data ({ 16 }) are ({ 17 }) a ({ }) standard ({ 18 }) but ({ 19 }) not ({ 1 }) yet ({ 20 }) practice. ({ 2 3 21 23 24 }) 
+# Sentence pair (80) source length 26 target length 27 alignment score : 7.32134e-26
+A s ohledem na to, co bylo v oblasti otevřených dat uzákoněno, týkalo se to hlavně vlády, toho, co vláda ví, spíše než toho, co vláda dělá. 
+NULL ({ }) And ({ 1 }) the ({ }) open ({ 10 }) data ({ 11 }) that ({ }) have ({ }) been ({ }) enacted ({ 6 }) there ({ 7 8 }) has ({ 9 }) been ({ 12 13 15 }) a ({ }) concerned ({ 16 17 }) chiefly ({ 3 5 }) with ({ 2 }) the ({ 14 }) government ({ 20 }) what ({ }) government ({ }) knows ({ }) rather ({ 18 24 }) than ({ 23 }) what ({ 19 25 }) a ({ 4 }) government ({ 26 }) does. ({ 21 22 27 }) 
+# Sentence pair (81) source length 21 target length 13 alignment score : 1.10502e-12
+Také jsme dostali pár komentářů, které se spoléhají na úspěch politiky otevřených dat. 
+NULL ({ }) We ({ 1 2 }) also ({ 7 }) got ({ 3 }) a ({ }) couple ({ 4 5 }) of ({ }) comments ({ 6 }) and ({ }) em ({ }) a ({ 9 }) they ({ }) rely ({ 8 }) on ({ }) the ({ }) ehm ({ }) the ({ }) success ({ 10 11 }) of ({ }) open ({ 12 }) data ({ }) policy. ({ 13 }) 
+# Sentence pair (82) source length 14 target length 13 alignment score : 2.63852e-11
+A vláda by měla lépe informovat o tom, jaká data jsou k dispozici. 
+NULL ({ }) And ({ 1 }) the ({ }) government ({ 2 }) should ({ 3 }) ehm ({ 4 }) give ({ 5 6 }) a ({ }) greater ({ 7 }) inside ({ 8 }) into ({ }) what ({ 9 10 }) data ({ }) are ({ 11 }) available. ({ 12 13 }) 
+# Sentence pair (83) source length 10 target length 10 alignment score : 1.62438e-10
+Měli by vytvářet správné podmínky, správné podmínky pro otevřená data. 
+NULL ({ }) They ({ 9 }) should ({ 2 }) create ({ 1 3 }) right ({ 4 10 }) conditions, ({ 7 }) right ({ 5 6 }) conditions ({ }) for ({ 8 }) open ({ }) data. ({ }) 
+# Sentence pair (84) source length 21 target length 18 alignment score : 2.82312e-16
+A třetí bylo to, že vláda musí do investovat do obou; na straně nabídky i poptávky otevřených dat. 
+NULL ({ }) And ({ 1 }) the ({ }) third ({ 2 }) one ({ }) was ({ 3 }) that ({ 5 }) the ({ }) government ({ 6 }) must ({ 4 7 }) invest ({ 8 9 }) in ({ }) both; ({ 10 }) the ({ }) supply ({ 11 12 }) and ({ }) the ({ }) demand ({ 16 }) sides ({ 13 14 15 }) of ({ }) open ({ 17 }) data. ({ 18 }) 
+# Sentence pair (85) source length 8 target length 6 alignment score : 1.71307e-07
+Například založením institutu pro otevřená data. 
+NULL ({ }) For ({ }) example ({ 4 }) by ({ }) founding ({ 2 }) an ({ 1 }) open ({ }) data ({ }) institute. ({ 3 5 6 }) 
+# Sentence pair (86) source length 24 target length 21 alignment score : 3.11498e-20
+Pro naši zprávu na rok dva tisíce patnáct jsme zjistili, že vláda a ministerstva podnikly kroky k širšímu akceptování otevřených údajů. 
+NULL ({ 4 }) For ({ 21 }) our ({ }) two ({ 17 }) thousand ({ 6 7 }) and ({ }) fifteen ({ 8 }) report ({ }) we ({ 9 }) found ({ 10 }) that ({ 11 }) the ({ }) government ({ 12 }) and ({ 13 }) ministries ({ 14 }) had ({ }) taken ({ 15 }) steps ({ 16 18 19 }) to ({ }) make ({ }) open ({ 20 }) data ({ }) more ({ }) widely ({ 1 }) accepted. ({ 2 3 5 }) 
+# Sentence pair (87) source length 25 target length 24 alignment score : 1.19288e-20
+A částečně v reakci na naši první zprávu, která se týká otevřených dat, ministerstvo vnitra v současné době koordinuje celou vládní analýzu souboru dat. 
+NULL ({ }) And ({ 1 }) partly ({ 2 }) in ({ 3 }) response ({ 4 6 }) to ({ }) our ({ }) first ({ 7 }) open ({ 12 }) data ({ }) turned ({ 8 11 }) report, ({ 9 13 }) the ({ 10 }) Ministry ({ 14 }) of ({ }) Interior ({ 15 }) is ({ }) cur ({ }) currently ({ 16 17 18 }) coordinating ({ 19 20 }) a ({ 5 }) government ({ }) wide ({ }) data ({ }) set ({ 24 }) analysis. ({ 21 22 23 }) 
+# Sentence pair (88) source length 16 target length 11 alignment score : 2.1799e-11
+Nizozemsko tak následuje dobré příklady stanovené Velkou Británií a Spojenými státy. 
+NULL ({ }) The ({ }) Netherlands ({ 1 }) is ({ }) thus ({ 2 3 }) following ({ 4 }) the ({ }) good ({ 6 }) examples ({ 5 }) set ({ }) by ({ }) the ({ }) United ({ 7 }) Kingdom ({ 8 }) and ({ 9 }) United ({ 10 }) States. ({ 11 }) 
+# Sentence pair (89) source length 4 target length 3 alignment score : 0.000650639
+Objevila se nevýhoda. 
+NULL ({ }) There ({ }) was ({ }) a ({ }) downside. ({ 1 2 3 }) 
+# Sentence pair (90) source length 15 target length 12 alignment score : 1.03826e-13
+Zjistili jsme také, že otevřená data poskytovaná prostřednictvím národního portálu byla jednostranná. 
+NULL ({ }) We ({ 1 2 }) also ({ }) found ({ 3 }) that ({ 4 }) the ({ }) open ({ }) data ({ }) provided ({ }) through ({ 5 6 }) the ({ }) national ({ }) portal ({ 10 }) was ({ }) one ({ 7 8 }) sided. ({ 9 11 12 }) 
+# Sentence pair (91) source length 22 target length 17 alignment score : 1.20003e-15
+Prakticky všechny soubory otevřených dat jsou geo data, geografická data a téměř všechna jsou publikována jedním ministerstvem. 
+NULL ({ }) Virtual ({ 2 }) virtually ({ }) all ({ }) the ({ }) open ({ 4 }) data ({ 5 }) sets ({ }) are ({ 6 }) geo ({ 7 }) data, ({ 3 9 10 }) geographical ({ 8 }) data, ({ }) and ({ 11 }) almost ({ 12 13 }) all ({ }) of ({ }) them ({ 15 16 17 }) are ({ 14 }) published ({ }) by ({ }) one ({ }) ministry. ({ 1 }) 
+# Sentence pair (92) source length 20 target length 20 alignment score : 2.71913e-23
+Důležitých je jen velmi málo údajů, které jsou důležité pro veřejnou kontrolu vládních financí a k dispozici je činnost vlády. 
+NULL ({ }) Very ({ 1 12 13 }) few ({ 11 }) data ({ }) are ({ }) important, ({ 2 3 4 5 }) that ({ }) are ({ 8 }) important ({ 6 7 9 }) for ({ 10 }) a ({ }) public ({ }) control ({ }) of ({ }) government ({ }) finances ({ 14 20 }) and ({ 15 }) government ({ 16 }) activities ({ 17 18 19 }) are ({ }) available. ({ }) 
+# Sentence pair (93) source length 24 target length 21 alignment score : 2.68819e-21
+Ve většině našich závěrů se domníváme, že pro vývoj nizozemské politiky otevřených dat by se měl vzít v úvahu následující bod. 
+NULL ({ }) Most ({ 1 2 }) of ({ }) our ({ 3 }) conclusions, ({ 4 6 }) we ({ }) believe ({ 19 20 21 }) that ({ 7 }) the ({ 5 }) following ({ }) point ({ 11 }) should ({ 14 }) be ({ }) taken ({ }) into ({ }) consideration ({ 16 17 }) for ({ 8 }) the ({ 15 }) development ({ 9 10 }) of ({ }) the ({ 18 }) Dutch ({ }) open ({ 12 }) data ({ 13 }) policy. ({ }) 
+# Sentence pair (94) source length 13 target length 13 alignment score : 1.05351e-10
+Nizozemská vláda by tedy měla v konkrétním akčním plánu definovat cíle a milníky. 
+NULL ({ }) Thus ({ }) Dutch ({ }) government ({ 2 }) should ({ 3 }) define ({ 4 }) goals ({ 5 }) and ({ 12 }) milestones ({ 1 }) in ({ 6 }) a ({ }) concrete ({ 7 }) action ({ 8 9 10 11 }) plan. ({ 13 }) 
+# Sentence pair (95) source length 12 target length 10 alignment score : 1.16503e-11
+Myslíme si rovněž, že otevírání údajů by mělo být povinné. 
+NULL ({ }) And ({ }) we ({ }) also ({ }) think ({ 6 }) that ({ 4 }) the ({ }) opening ({ 5 }) of ({ }) data ({ }) should ({ 7 }) be ({ 8 9 }) mandatory. ({ 1 2 3 10 }) 
+# Sentence pair (96) source length 9 target length 8 alignment score : 1.33245e-05
+A vláda by měla vypracovat národní informační infrastrukturu. 
+NULL ({ }) And ({ 1 }) the ({ }) government ({ 2 }) should ({ 3 }) develop ({ 4 5 }) a ({ }) national ({ 6 }) information ({ 7 }) infrastructure. ({ 8 }) 
+# Sentence pair (97) source length 24 target length 22 alignment score : 9.13418e-23
+V té by mělo být určeno, která data mají největší společenský význam a jaká data by v každém případě měla být zpřístupněna. 
+NULL ({ }) On ({ 1 2 }) which ({ }) em ({ }) will ({ }) be ({ 3 4 5 }) determined ({ 6 7 }) what ({ 8 }) data ({ }) are ({ }) the ({ }) grow ({ 9 10 11 }) greatest ({ 12 }) social ({ }) importance ({ }) and ({ 13 }) what ({ 14 15 }) data ({ }) should ({ 16 }) in ({ 17 }) any ({ 19 20 21 22 }) event ({ 18 }) be ({ }) open ({ }) data. ({ }) 
+# Sentence pair (98) source length 15 target length 13 alignment score : 4.75552e-12
+A vláda by měla sama používat otevřené údaje, například v decentralizaci sociálních sítí. 
+NULL ({ }) And ({ 1 }) the ({ }) government ({ 2 }) should ({ 3 }) use ({ }) open ({ }) data ({ }) themselves ({ 7 }) for ({ }) example ({ }) in ({ 10 }) the ({ }) social ({ 4 5 }) domain ({ 8 9 11 }) decentralisations. ({ 6 12 13 }) 
+# Sentence pair (99) source length 22 target length 19 alignment score : 1.91798e-18
+V Nizozemsku se jedná o velký celonárodní program, v rámci kterého se odpovědnost přenáší z ústřední vlády na obce. 
+NULL ({ }) This ({ }) is ({ 3 }) a ({ 18 }) big ({ 7 }) nationwide ({ 8 }) programme ({ 10 11 }) in ({ 9 }) the ({ }) Netherlands, ({ 1 2 }) where ({ 12 }) responsibility ({ }) is ({ }) being ({ 13 14 15 }) transferred ({ 4 6 }) from ({ 5 }) the ({ }) cetr ({ }) central ({ 16 }) government ({ }) to ({ }) to ({ }) municipalities. ({ 17 19 }) 
+# Sentence pair (100) source length 8 target length 5 alignment score : 1.14097e-05
+Naše zprávy měly pozitivní dopad. 
+NULL ({ }) Our ({ 1 2 }) em ({ }) our ({ }) reports ({ }) had ({ 3 }) a ({ }) positive ({ 4 }) impact. ({ 5 }) 
+# Sentence pair (101) source length 17 target length 9 alignment score : 2.09886e-10
+Ministerstvo vnitra tento měsíc zveřejní výsledky celostátního průzkumu údajů. 
+NULL ({ }) The ({ }) Ministry ({ 1 }) of ({ }) Interior ({ 2 }) will ({ }) publish ({ }) results ({ 3 4 5 }) of ({ }) a ({ }) government ({ }) wide ({ }) data ({ }) sets ({ }) data ({ }) survey ({ }) this ({ 6 }) month. ({ 7 8 9 }) 
+# Sentence pair (102) source length 13 target length 7 alignment score : 1.38119e-06
+Sněmovna reprezentantů přijala návrh národní informační infrastruktury. 
+NULL ({ }) And ({ }) the ({ }) House ({ 2 }) of ({ }) Representatives ({ 1 3 }) accepted ({ 4 }) the ({ }) Motion ({ }) for ({ }) a ({ }) national ({ 5 }) information ({ 6 }) infrastructure. ({ 7 }) 
+# Sentence pair (103) source length 18 target length 12 alignment score : 1.12346e-10
+A na základě inventarizace dat ministerstvo vnitra zřídí národní agendu otevřených dat. 
+NULL ({ }) And ({ 1 }) based ({ 3 4 }) on ({ 2 }) the ({ }) data ({ 5 }) inventory, ({ 8 }) the ({ }) Ministry ({ 6 }) of ({ }) Interior ({ 7 }) will ({ }) set ({ }) up ({ }) a ({ }) national ({ 9 }) open ({ 11 }) data ({ }) agenda. ({ 10 12 }) 
+# Sentence pair (104) source length 20 target length 12 alignment score : 6.26763e-13
+V této agendě zveřejní, jaká data budou otevřena a kdy budou otevřena. 
+NULL ({ }) And ({ }) in ({ }) that ({ }) agenda ({ 2 3 }) they ({ 1 }) will ({ }) publish ({ }) what ({ 6 }) data ({ }) wi ({ 4 }) em ({ }) will ({ 5 }) be ({ }) open ({ }) and ({ 9 }) when ({ 12 }) they ({ }) will ({ }) open ({ }) it. ({ 7 8 10 11 }) 
+# Sentence pair (105) source length 10 target length 5 alignment score : 3.97514e-05
+Snažíme se přitom jít příkladem. 
+NULL ({ }) Ehm ({ 1 }) we ({ }) also ({ 2 }) try ({ 5 }) to ({ }) lead ({ 3 4 }) by ({ }) the ({ }) example ({ }) ehm ({ }) 
+# Sentence pair (106) source length 29 target length 20 alignment score : 1.18931e-25
+Na našich webových stránkách jsme zveřejnili své vlastní výdaje, aby každý viděl, za co nizozemský účetní dvůr utrácí své peníze. 
+NULL ({ }) And ({ }) we ({ }) published ({ }) our ({ }) own ({ }) expenditure ({ }) on ({ }) the ({ }) on ({ }) our ({ 2 }) website ({ 3 5 }) so ({ 4 6 }) that ({ }) everyone ({ }) can ({ }) see ({ 1 }) what ({ }) the ({ }) Netherlands ({ }) Court ({ }) of ({ }) Audit ({ 15 16 17 }) spends ({ 7 18 }) its ({ }) mone ({ 8 9 }) spends ({ 19 }) its ({ }) money ({ 20 }) on. ({ 10 11 12 13 14 }) 
+# Sentence pair (107) source length 10 target length 8 alignment score : 7.31484e-08
+Taková forma finanční transparentnosti se nazývá otevřené výdaje. 
+NULL ({ }) Such ({ }) a ({ }) form ({ 1 2 }) of ({ }) financial ({ 3 5 }) transparency ({ 4 }) is ({ }) called ({ 6 }) open ({ }) spending. ({ 7 8 }) 
+# Sentence pair (108) source length 19 target length 13 alignment score : 1.90639e-13
+Ministerstvo financí nyní plánuje v příštím roce zpřístupnit vládě podrobné údaje o výdajích. 
+NULL ({ }) And ({ }) the ({ }) Ministry ({ 1 }) of ({ }) Finance ({ 2 5 }) now ({ 3 4 6 }) has ({ }) planned ({ 13 }) to ({ }) open ({ }) up ({ 11 }) detailed ({ 10 }) expenditure ({ 12 }) data ({ }) for ({ }) the ({ }) government ({ }) next ({ 7 }) year. ({ 8 9 }) 
+# Sentence pair (109) source length 1 target length 2 alignment score : 0.058142
+V pořádku. 
+NULL ({ }) OK. ({ 1 2 }) 
+# Sentence pair (110) source length 24 target length 20 alignment score : 4.44971e-18
+Jak jste viděli, pohyb otevřených dat v Nizozemsku se pozitivně vyvíjí a nizozemský účetní dvůr bude vývoj i nadále sledovat, 
+NULL ({ }) As ({ 1 }) you ({ }) have ({ }) seen ({ 2 }) the ({ }) open ({ 5 }) data ({ 6 }) movement ({ 3 4 }) in ({ 7 }) the ({ }) Netherlandsis ({ 8 }) maturing ({ 10 11 }) and ({ 12 }) the ({ 9 }) Netherlands ({ }) Court ({ 13 14 15 }) of ({ }) Audit ({ }) will ({ }) continue ({ 19 20 }) to ({ }) follow ({ 16 17 18 }) the ({ }) progress. ({ }) 
+# Sentence pair (111) source length 5 target length 5 alignment score : 4.66585e-05
+Děkuji Vám za vaši pozornost. 
+NULL ({ }) Thank ({ 1 2 }) you ({ }) for ({ }) your ({ 4 }) attention. ({ 3 5 }) 
+# Sentence pair (112) source length 21 target length 21 alignment score : 2.35292e-22
+V případě vašeho zájmu můžete naše zprávy najít na naší webové stránce v angličtině a data o našich výdajích v holandštině. 
+NULL ({ }) And ({ }) if ({ 14 }) you ({ 16 17 }) are ({ }) interested ({ 4 5 6 7 8 10 11 }) you ({ }) can ({ }) find ({ 3 }) our ({ }) reports ({ 1 2 }) in ({ 20 }) English ({ 12 }) and ({ 15 }) our ({ 18 }) spending ({ }) data ({ }) in ({ 13 }) Dutch ({ }) on ({ 9 }) our ({ }) website. ({ 19 21 }) 

@@ -1,0 +1,54 @@
+# Sentence pair (1) source length 13 target length 15 alignment score : 5.96284e-09
+Also, guten Tag, mein Name ist <NAME> und ich bin aus der Personal- und Rechtsabteilung. 
+NULL ({ 14 }) So, ({ 1 }) good ({ 11 }) afternoon, ({ 5 }) my ({ 7 }) name ({ 4 }) is ({ 6 }) <NAME> ({ 10 }) and ({ 8 }) I ({ 3 9 }) control ({ }) the ({ 12 }) legal ({ 2 15 }) department. ({ 13 }) 
+# Sentence pair (2) source length 15 target length 14 alignment score : 9.125e-08
+Guten Tag, mein Name ist <NAME> und ich bin der Geschäftsführer des Unternehmens Brnkni. 
+NULL ({ }) Good ({ 11 }) afternoon, ({ 4 }) my ({ 6 }) name ({ 3 }) is ({ 5 }) <NAME> ({ 9 }) and ({ 7 }) I ({ 2 8 }) am ({ 1 }) the ({ }) manager ({ 13 14 }) of ({ }) the ({ 10 }) company ({ }) Brnkni. ({ 12 }) 
+# Sentence pair (3) source length 7 target length 6 alignment score : 0.000339629
+Unser Unternehmen ist... kann ich? Entschuldigung... 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) is... ({ 3 }) can ({ 4 }) I? ({ }) I'm ({ }) sorry... ({ 5 6 }) 
+# Sentence pair (4) source length 14 target length 5 alignment score : 7.40031e-06
+Unser Unternehmen Brnkni verkauft Saiteninstrumente. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) Brnkni ({ 3 }) is ({ }) kni ({ }) engaged ({ }) in ({ }) the ({ }) sale ({ 5 }) of ({ }) the ({ }) stringed ({ 4 }) music ({ }) instruments. ({ }) 
+# Sentence pair (5) source length 12 target length 13 alignment score : 1.8598e-08
+Natürlich zahlen wir Umsatzsteuer und unser Unternehmen ist eine Gesellschaft mit beschränkter Haftung. 
+NULL ({ }) Of ({ 1 }) course, ({ }) we ({ 3 }) are ({ }) VAT ({ 4 }) payers ({ 2 }) and ({ 5 }) our ({ 6 }) company ({ 7 }) is ({ 8 }) limited ({ 9 10 11 12 }) company. ({ 13 }) 
+# Sentence pair (6) source length 8 target length 8 alignment score : 0.00126035
+Unser Hauptlieferant ist das kleine chinesische Unternehmen Kumikochi. 
+NULL ({ }) Our ({ 1 }) main ({ 2 }) supplier ({ 6 }) is ({ 3 }) small ({ 4 }) Chinese ({ 5 }) company ({ 7 }) Kumikochi. ({ 8 }) 
+# Sentence pair (7) source length 16 target length 15 alignment score : 1.41398e-10
+Unser Spezialgebiet sind verschiedene Arten von Gitarren, aber wir bieten auch andere Arten von Instrumenten. 
+NULL ({ }) Our ({ 1 }) main ({ 2 }) specialties ({ 3 }) are ({ }) different ({ }) types ({ }) of ({ }) guitars ({ }) but ({ 4 }) we ({ 9 }) also ({ 12 }) offer ({ 11 }) other ({ 5 13 15 }) types ({ 6 7 14 }) of ({ 8 }) instruments. ({ 10 }) 
+# Sentence pair (8) source length 7 target length 7 alignment score : 0.00755738
+Zum Beispiel Banjos, Mandolinen, Ukulelen und andere. 
+NULL ({ }) Such ({ 1 }) as ({ 5 }) banjo, ({ 4 }) mandolins, ({ 2 }) ukuleles ({ 3 }) and ({ 6 }) others. ({ 7 }) 
+# Sentence pair (9) source length 6 target length 4 alignment score : 0.0266781
+Wir sind spezialisiert... Entschuldigung. 
+NULL ({ }) We ({ 1 }) specialize ({ 2 }) in ({ }) the... ({ 3 }) I'm ({ }) sorry. ({ 4 }) 
+# Sentence pair (10) source length 14 target length 12 alignment score : 3.13171e-08
+Wir sind darauf spezialisiert, Grundschulen, Kunstgrundschulen und Schüler mit Musikinstrumente zu beliefern. 
+NULL ({ }) We ({ 1 }) specialize ({ 2 }) in ({ }) providing ({ 3 }) musical ({ }) instruments ({ }) to ({ 4 }) primary ({ 5 }) schools, ({ 12 }) primary ({ }) art ({ 6 10 11 }) school ({ 9 }) and ({ 7 }) students. ({ 8 }) 
+# Sentence pair (11) source length 9 target length 10 alignment score : 1.4069e-07
+Natürlich bieten wir auch das notwendige Zubehör für unsere Instrumente. 
+NULL ({ }) Of ({ 1 }) course, ({ }) we ({ 3 }) offer ({ 2 }) necessary ({ 5 9 }) accessories ({ 6 7 10 }) for ({ 8 }) our ({ }) instruments. ({ 4 }) 
+# Sentence pair (12) source length 10 target length 7 alignment score : 7.41517e-07
+Zum Beispiel Gitarrenständer oder Notenständer oder Geigenbögen. 
+NULL ({ }) For ({ }) example, ({ }) guitar ({ 4 }) stands ({ }) or ({ 3 5 7 }) music ({ 6 }) stands ({ }) or ({ }) fiddle ({ 1 }) stick. ({ 2 }) 
+# Sentence pair (13) source length 14 target length 13 alignment score : 1.74743e-08
+Wenn Sie also Interesse an Musikinstrumenten haben... die... in Ordnung... machen wir weiter. 
+NULL ({ }) So ({ 1 }) if ({ 2 }) you ({ }) are ({ 12 }) interested ({ 4 }) in ({ 3 }) musical ({ 5 6 }) instruments... ({ 7 }) which... ({ 9 }) alright...can ({ 8 10 11 }) I? ({ }) so... ({ 13 }) let's ({ }) continue... ({ }) 
+# Sentence pair (14) source length 16 target length 13 alignment score : 2.94506e-07
+Wenn Sie also Interesse an Musikinstrumenten haben, ist unser Unternehmen die beste Wahl. 
+NULL ({ }) So ({ 1 }) if ({ 2 }) you ({ }) are ({ }) interested ({ 4 }) in ({ 3 }) musical ({ 5 6 }) instruments, ({ 7 }) our ({ 9 }) company ({ 10 }) is ({ 8 }) the ({ }) best ({ 13 }) choice ({ 11 }) for ({ }) you. ({ 12 }) 
+# Sentence pair (15) source length 11 target length 12 alignment score : 3.59535e-08
+Und klar, wenn Sie uns nicht finden, folgen Sie einfach der Musik. 
+NULL ({ }) And ({ 3 8 12 }) of ({ }) course, ({ }) if ({ 4 }) you ({ 9 }) can't ({ 7 }) find ({ 10 }) us, ({ 5 }) follow ({ 2 }) the ({ 11 }) music. ({ 1 6 }) 
+# Sentence pair (16) source length 5 target length 4 alignment score : 0.0534097
+Danke für Ihre Aufmerksamkeit. 
+NULL ({ }) Thank ({ 3 }) you ({ }) for ({ 2 }) your ({ 1 }) attention. ({ 4 }) 
+# Sentence pair (17) source length 5 target length 4 alignment score : 0.0534097
+Danke für Ihre Aufmerksamkeit. 
+NULL ({ }) Thank ({ 3 }) you ({ }) for ({ 2 }) your ({ 1 }) attention. ({ 4 }) 
+# Sentence pair (18) source length 4 target length 4 alignment score : 0.086515
+Einen schönen Tag Ihnen. 
+NULL ({ }) Have ({ 4 }) a ({ 2 }) nice ({ 1 }) day. ({ 3 }) 

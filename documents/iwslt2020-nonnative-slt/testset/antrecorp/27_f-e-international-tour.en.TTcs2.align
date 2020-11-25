@@ -1,0 +1,33 @@
+# Sentence pair (1) source length 34 target length 30 alignment score : 1.21739e-30
+Dobrý den, jmenuji se <NAME>, stejně jako to auto, a jsem zástupce marketingu v International Tour, cestovní agentuře, která prodává a komercializuje turistické služby v Rumunsku a po celé Evropě. 
+NULL ({ 4 }) Hello, ({ 1 2 3 5 6 7 16 17 18 }) my ({ }) name ({ 8 19 }) is ({ }) <NAME>, ({ 22 }) like ({ 26 }) the ({ 10 21 }) car, ({ 11 }) and ({ }) I'm ({ }) a ({ }) marketing ({ }) representant ({ 20 }) at ({ }) International ({ }) Tour, ({ }) which ({ }) is ({ }) a ({ }) tour ({ 29 }) agency ({ }) that ({ }) sells ({ }) and ({ }) commercializes ({ 13 24 30 }) tourist ({ }) products ({ 15 28 }) in ({ 14 25 }) Romania ({ 12 23 }) and ({ }) all ({ }) over ({ 9 }) the ({ 27 }) Europe. ({ }) 
+# Sentence pair (2) source length 14 target length 14 alignment score : 7.57149e-15
+Úspěšně se nám daří uspokojovat naše zákazníky a podle mě máme ten nejlepší tým. 
+NULL ({ }) We ({ }) manage ({ 3 4 }) to ({ 2 }) satisfy ({ }) our ({ 6 13 }) clients ({ 7 14 }) and ({ }) our ({ }) team ({ 5 9 10 11 12 }) is ({ }) the ({ 8 }) greatest, ({ }) by ({ 1 }) me. ({ }) 
+# Sentence pair (3) source length 10 target length 8 alignment score : 7.7753e-05
+Účastníme se hodně soutěží, co k tomu dodat. 
+NULL ({ }) What ({ 3 }) can ({ 4 }) I ({ }) say ({ }) we ({ }) participate ({ 5 6 }) to ({ 7 }) lots ({ 1 }) of ({ 2 }) competitions ({ 8 }) 
+# Sentence pair (4) source length 10 target length 9 alignment score : 3.85899e-08
+A dosahujeme skvělých výsledků, které nám v současnosti pomáhají. 
+NULL ({ }) and ({ 7 }) we ({ }) achieve ({ 2 3 4 }) great ({ 8 }) results ({ 6 }) that ({ 5 }) are ({ }) helping ({ 1 }) us ({ }) today. ({ 9 }) 
+# Sentence pair (5) source length 24 target length 20 alignment score : 3.26463e-18
+Minulý rok touhle dobou jsme byli na stáži v Itálii, díky tomu vám mohu poskytnout nabídku vycházející z mé zkušenosti. 
+NULL ({ }) We ({ }) had ({ }) an ({ }) internship ({ }) last ({ 4 }) year ({ 17 }) in ({ 9 }) this ({ 7 }) period, ({ 10 11 }) in ({ }) Italy, ({ 5 18 }) and, ({ 8 }) because ({ }) I'm ({ }) going ({ }) to ({ 12 }) give ({ 20 }) an ({ }) offer, ({ 13 19 }) I'm ({ 6 }) based ({ }) on ({ 1 2 14 15 }) my ({ }) experience. ({ 3 16 }) 
+# Sentence pair (6) source length 50 target length 40 alignment score : 1.81169e-41
+Strávili jsme prázdniny v Rimini v Itálii ve tříhvězdičkovém hotelu Kursaal, který se nachází blízko mořského útesu a má soukromou pláž a částečný výhled na moře z pokojů. Cena za dvě osoby na šest nocí je sedm set dvacet euro. 
+NULL ({ 13 }) We ({ }) had ({ 2 25 27 }) a ({ }) holiday ({ }) in ({ 4 6 }) Rimini, ({ 1 26 }) Italy, ({ }) for ({ }) seven ({ 33 }) days, ({ 24 }) at ({ 10 }) hotel ({ }) Hotel ({ 3 }) Kursaal, ({ 28 }) three ({ }) starts, ({ }) which ({ }) is ({ }) located ({ }) in... ({ }) in... ({ }) near ({ 5 }) the ({ 22 }) sea ({ 23 }) cliff, ({ }) and ({ }) has ({ 7 8 17 19 20 21 }) a ({ }) private ({ 9 35 }) beach ({ }) with ({ }) a ({ }) partial ({ }) sea ({ }) view ({ 15 }) from ({ }) the ({ 18 }) rooms. ({ 14 }) The ({ }) price ({ 11 29 37 }) is ({ 36 }) seven ({ }) hundred ({ }) twenty ({ }) euros ({ 16 34 40 }) for ({ 30 38 }) six ({ 31 39 }) nights, ({ }) two ({ 32 }) persons. ({ 12 }) 
+# Sentence pair (7) source length 20 target length 10 alignment score : 2.87014e-09
+Krom toho mám s sebou letáky, které zahrnují tři nabídky. 
+NULL ({ }) In ({ 1 }) addition, ({ 2 3 }) I ({ }) have ({ 5 }) with ({ }) me... ({ }) at... ({ }) this ({ }) tour... ({ 4 }) I ({ }) have ({ }) a ({ }) flyer ({ 6 }) that ({ 7 }) consists ({ 9 }) in ({ }) three... ({ 8 }) in ({ }) three ({ }) offers. ({ 10 }) 
+# Sentence pair (8) source length 24 target length 20 alignment score : 5.23074e-15
+První je pobyt v Římě, druhý je mimoměstský a třetí je v našem městě Bukurešti, v našem čtyřhvězdičkovém hotelu Interbusiness. 
+NULL ({ }) One ({ 5 8 }) is ({ 2 }) a ({ }) stay ({ 1 }) in ({ 4 16 }) Rome, ({ 6 }) one ({ }) is ({ 7 }) a ({ }) city ({ 10 }) break ({ 3 }) and ({ 9 }) one ({ }) is ({ 11 }) in ({ 12 }) our ({ }) town, ({ 20 }) Bucharest, ({ }) at ({ 19 }) our ({ }) hotel, ({ 14 18 }) Interbusiness, ({ 15 }) four ({ 13 17 }) stars. ({ }) 
+# Sentence pair (9) source length 20 target length 15 alignment score : 7.69112e-17
+Na závěr bych chtěl zmínit, že na tomto veletrhu mohou naši zákazníci obdržet desetiprocentní slevu. 
+NULL ({ }) For ({ 1 }) the ({ }) final, ({ }) I ({ }) have ({ }) to ({ }) say ({ }) that ({ }) in ({ }) this ({ 7 }) trade ({ }) fair, ({ 6 }) our ({ }) customers ({ }) will ({ 14 }) benefit ({ }) a ({ }) ten ({ 3 5 9 11 13 }) percent ({ 2 8 }) discount. ({ 4 10 12 15 }) 
+# Sentence pair (10) source length 6 target length 5 alignment score : 0.000161343
+Děkuji vám za pozornost a... 
+NULL ({ }) Thank ({ }) you ({ 2 }) for ({ 3 }) your ({ 4 }) attention ({ 1 }) and... ({ 5 }) 
+# Sentence pair (11) source length 4 target length 3 alignment score : 0.0239249
+Mockrát vám děkuji. 
+NULL ({ }) Thank ({ }) you ({ 2 }) very ({ 3 }) much. ({ 1 }) 

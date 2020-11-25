@@ -1,0 +1,75 @@
+# Sentence pair (1) source length 1 target length 2 alignment score : 0.0570214
+Dobrý den. 
+NULL ({ }) Hello. ({ 1 2 }) 
+# Sentence pair (2) source length 1 target length 2 alignment score : 0.0487324
+Dobrý den. 
+NULL ({ }) Hey. ({ 1 2 }) 
+# Sentence pair (3) source length 6 target length 6 alignment score : 0.000308937
+Jé, to je fakt pěkné triko. 
+NULL ({ }) Oh, ({ 2 }) this ({ }) is ({ 3 }) very ({ 4 5 }) nice ({ 1 }) T-shirt. ({ 6 }) 
+# Sentence pair (4) source length 4 target length 5 alignment score : 0.00267158
+Co je to za značku? 
+NULL ({ }) What ({ 4 5 }) is ({ 2 }) this ({ 3 }) brand? ({ 1 }) 
+# Sentence pair (5) source length 11 target length 10 alignment score : 2.22421e-07
+No, to není žádná značka, to je logo mého botelu. 
+NULL ({ }) Oh, ({ 2 6 }) it's ({ 3 }) not ({ }) a ({ 4 8 }) brand, ({ 5 }) it's ({ 7 }) a ({ }) logo ({ 9 }) of ({ }) my ({ 1 }) botel. ({ 10 }) 
+# Sentence pair (6) source length 2 target length 2 alignment score : 0.0297705
+Ó, vážně? 
+NULL ({ }) Oh ({ }) really? ({ 1 2 }) 
+# Sentence pair (7) source length 4 target length 2 alignment score : 0.183374
+Máte botel? 
+NULL ({ }) You ({ 2 }) have ({ }) a ({ }) botel? ({ 1 }) 
+# Sentence pair (8) source length 4 target length 3 alignment score : 0.0718289
+Jo, to mám. 
+NULL ({ }) Oh, ({ 2 }) yes ({ 3 }) I ({ }) do. ({ 1 }) 
+# Sentence pair (9) source length 19 target length 14 alignment score : 4.35813e-09
+Nacházíme se v srdci Českých Budějovic na řece Vltavě a máme tři druhy pokojů. 
+NULL ({ }) We ({ }) are ({ 4 }) situated ({ 5 }) in ({ 3 }) hearth ({ 6 }) of ({ }) České ({ }) Budějovice ({ 7 }) on ({ }) the ({ 2 }) Vltava ({ 1 }) river ({ 8 }) and ({ 10 }) we ({ 11 }) have ({ }) three ({ 9 }) classes ({ 12 }) of ({ }) room. ({ 13 14 }) 
+# Sentence pair (10) source length 16 target length 14 alignment score : 1.01018e-08
+První třída se jmenuje Zlatá ryba a je to nejluxusnější pokoj v našem botelu. 
+NULL ({ 9 }) The ({ 1 }) first ({ 2 }) class ({ 5 }) room ({ }) is ({ 8 }) named ({ 6 }) Goldfish ({ 10 }) and ({ 7 }) it's ({ }) the ({ 3 }) most ({ 4 }) luxurious ({ 13 }) room ({ 11 }) in ({ 12 }) our ({ }) botel. ({ 14 }) 
+# Sentence pair (11) source length 16 target length 14 alignment score : 4.53302e-10
+Pak máme druhou třídu, Stříbrnou rybu, a potom třetí třídu, které říkáme Bronzová ryba. 
+NULL ({ }) Then ({ 1 }) we ({ }) have ({ }) second ({ 6 }) class, ({ 3 }) Silverfish, ({ 9 }) and ({ 7 }) then ({ 8 }) we ({ 2 }) have ({ }) a ({ }) third ({ 10 11 12 }) class ({ 13 }) called ({ 4 5 }) the ({ }) Bronzefish. ({ 14 }) 
+# Sentence pair (12) source length 7 target length 6 alignment score : 5.52373e-05
+Wow, máte i nějaké speciální pokoje? 
+NULL ({ }) Wow, ({ 1 }) do ({ 3 }) you ({ }) have ({ }) some ({ 2 }) special ({ }) rooms? ({ 4 5 6 }) 
+# Sentence pair (13) source length 4 target length 3 alignment score : 0.0411727
+Jo, to máme. 
+NULL ({ }) Oh ({ 2 }) yes, ({ 3 }) we ({ }) do. ({ 1 }) 
+# Sentence pair (14) source length 16 target length 14 alignment score : 3.12332e-08
+Máme zvláštní pokoj vyhrazený pro páry, aby zde mohly trávit výročí a tak podobně. 
+NULL ({ }) We ({ 1 }) have ({ }) a ({ }) special ({ 2 }) room ({ 3 }) made ({ 4 }) for ({ 5 }) lovers ({ 6 }) to ({ 7 }) spend ({ 13 }) their ({ 8 }) anniversaries ({ }) and ({ 12 }) something ({ 10 }) like ({ }) that. ({ 9 11 14 }) 
+# Sentence pair (15) source length 7 target length 5 alignment score : 0.0145996
+Wow, a máte i restauraci... 
+NULL ({ }) Wow, ({ 1 }) and ({ 2 }) you ({ }) have ({ }) some ({ 3 }) restaurant, ({ 4 }) and... ({ 5 }) 
+# Sentence pair (16) source length 4 target length 3 alignment score : 0.0411727
+Jo, to máme. 
+NULL ({ }) Oh ({ 2 }) yes, ({ 3 }) we ({ }) do. ({ 1 }) 
+# Sentence pair (17) source length 18 target length 17 alignment score : 2.20812e-11
+Máme restauraci určenou pro naše zákazníky, je i pro veřejnost, ale naši zákazníci se tu nají zdarma. 
+NULL ({ }) We ({ 1 }) have ({ }) a ({ }) restaurant ({ 2 }) for ({ 4 }) our ({ 5 }) clients, ({ 3 6 }) but ({ }) for ({ 17 }) public ({ 15 }) also, ({ 16 }) but ({ 8 }) our ({ }) clients ({ 7 }) eat ({ 14 }) there ({ 13 }) for ({ 9 }) free. ({ 10 11 12 }) 
+# Sentence pair (18) source length 27 target length 21 alignment score : 1.16731e-18
+A pokud se v naší restauraci trochu rozšoupnete, to víte, to se stává, můžete využít naše fitness centrum s nejnovějším vybavením. 
+NULL ({ 9 11 }) And ({ }) if ({ 1 }) you ({ }) spend ({ }) more ({ 2 }) time ({ 3 }) than ({ }) you ({ }) wanted ({ 5 }) in ({ 4 }) our ({ }) restaurant, ({ }) you ({ }) know, ({ 6 }) it ({ }) can ({ }) happen, ({ 8 }) you ({ }) can ({ }) enjoy ({ 10 21 }) our ({ }) fitness ({ 17 }) centrum ({ 20 }) with ({ 14 16 19 }) the ({ 12 }) newest ({ 7 }) equipment. ({ 13 15 18 }) 
+# Sentence pair (19) source length 12 target length 12 alignment score : 5.70858e-09
+Jé, pardon, ale já na fitness moc nejsem, máte třeba masáže, nebo...? 
+NULL ({ }) Wow ({ 1 7 }) sorry ({ 2 4 8 }) I ({ }) don't ({ 5 }) like ({ 3 }) fitness ({ 6 }) and ({ }) you ({ }) have ({ }) some ({ 9 }) massage, ({ 10 }) and...? ({ 11 12 }) 
+# Sentence pair (20) source length 22 target length 16 alignment score : 1.93676e-11
+Jestli nemáte rád fitness, můžete navštívit naše relaxační centrum s masážemi, saunami, horkými kameny a tak. 
+NULL ({ }) Well, ({ 3 }) if ({ }) you're ({ 1 }) not ({ }) really ({ 4 }) keen ({ }) on ({ }) fitness, ({ 12 }) you ({ }) can ({ }) visit ({ 9 }) our ({ }) relax ({ 8 11 }) centrum, ({ 6 }) with ({ 5 7 10 }) massageses, ({ }) saunas, ({ 13 }) hot ({ }) rocks, ({ 2 }) and ({ 15 }) so ({ 16 }) on. ({ 14 }) 
+# Sentence pair (21) source length 8 target length 9 alignment score : 2.3432e-05
+Wow, ok, to se mi líbí, to je super. 
+NULL ({ }) Wow, ({ 1 }) OK, ({ 2 }) I ({ }) love ({ 4 }) it, ({ 6 }) this ({ 3 7 }) is ({ 8 }) great. ({ 5 9 }) 
+# Sentence pair (22) source length 20 target length 15 alignment score : 4.59723e-10
+A jestli vám můžu ještě něco prozradit, máme wi-fi v celém botelu a parkování zdarma. 
+NULL ({ }) And, ({ 3 }) if ({ 1 }) I ({ }) can ({ }) say ({ 2 }) it, ({ }) we ({ 8 }) have ({ }) free ({ 11 }) wi-fi ({ 9 }) in ({ 10 }) our ({ }) whole ({ 7 12 }) botel ({ 6 }) and ({ 13 }) free ({ 14 }) parking ({ }) for ({ 15 }) our ({ }) guests. ({ 4 5 }) 
+# Sentence pair (23) source length 4 target length 3 alignment score : 0.0432482
+Ty jo, díky. 
+NULL ({ }) Oh ({ }) wow, ({ 3 }) thank ({ 2 }) you. ({ 1 }) 
+# Sentence pair (24) source length 5 target length 3 alignment score : 0.0794327
+Doufám, že přijdete. 
+NULL ({ }) I ({ }) hope ({ 3 }) you ({ }) will ({ 1 }) come. ({ 2 }) 
+# Sentence pair (25) source length 2 target length 2 alignment score : 0.060667
+Já určitě. 
+NULL ({ }) I ({ }) will. ({ 1 2 }) 

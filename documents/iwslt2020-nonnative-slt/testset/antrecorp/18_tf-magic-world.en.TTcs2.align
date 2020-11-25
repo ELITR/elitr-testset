@@ -1,0 +1,42 @@
+# Sentence pair (1) source length 1 target length 2 alignment score : 0.0457419
+Dobrý den! 
+NULL ({ }) Hello! ({ 1 2 }) 
+# Sentence pair (2) source length 13 target length 9 alignment score : 3.47194e-07
+Jmenuji se <NAME> a jsem zástupcem týmu Magic World. 
+NULL ({ 2 }) My ({ 5 }) name ({ 3 }) is ({ }) <NAME> ({ 1 }) and ({ 4 }) I ({ }) am ({ 6 }) the ({ }) representant ({ 9 }) of ({ }) Magic ({ 8 }) World ({ }) team. ({ 7 }) 
+# Sentence pair (3) source length 23 target length 20 alignment score : 7.12013e-14
+Magic World slouží k pořádání společenských událostí, zejména pro děti a teenagery, jako jsou narozeninové oslavy, soukromé večírky, tematické večírky. 
+NULL ({ }) The ({ 3 4 }) purpose ({ 2 }) of ({ 9 }) Magic ({ 1 }) World ({ }) is ({ }) to ({ }) organize ({ 5 }) social ({ 20 }) events, ({ }) especially ({ 8 10 }) for ({ 19 }) kids ({ }) and ({ 11 }) teenagers, ({ 12 16 }) such ({ 13 14 }) us ({ 7 }) birthday ({ 15 }) parties, ({ }) private ({ 18 }) parties, ({ }) thematic ({ 17 }) parties. ({ 6 }) 
+# Sentence pair (4) source length 16 target length 13 alignment score : 5.54576e-11
+Naším cílem je stát se jednou z nejznámějších firem, která takové akce organizuje. 
+NULL ({ }) Our ({ 5 }) goal ({ 4 }) is ({ }) to ({ 3 }) become ({ 6 }) one ({ 2 }) of ({ }) the ({ }) most ({ 10 }) well ({ 7 }) known ({ 1 11 }) firm ({ }) that ({ }) organizers ({ 9 12 }) such ({ }) events. ({ 8 13 }) 
+# Sentence pair (5) source length 12 target length 9 alignment score : 1.01012e-06
+Naše mise je proměnit každou obyčejnou událost ve výjimečnou. 
+NULL ({ }) Our ({ }) mission ({ 7 }) is ({ }) to ({ 3 }) transform ({ 4 }) any ({ 8 }) basic ({ 6 9 }) event ({ 2 }) in ({ }) a ({ }) spectacular ({ 5 }) one. ({ 1 }) 
+# Sentence pair (6) source length 18 target length 17 alignment score : 2.86193e-13
+Postupem času si firma rozčlenila své aktivity a brala u toho v potaz zákazníkovy potřeby a požadavky. 
+NULL ({ }) Among ({ 1 }) the ({ }) time, ({ 2 3 13 }) the ({ }) firm ({ 4 }) has ({ }) diversified ({ 5 }) the ({ }) activities, ({ 6 14 }) taking ({ 7 }) in ({ 12 }) to ({ }) consideration ({ 17 }) our ({ }) clients' ({ 10 11 15 }) needs ({ 9 }) and ({ 8 16 }) requirements. ({ }) 
+# Sentence pair (7) source length 27 target length 22 alignment score : 1.88674e-18
+Dnes máme množství nabídek pro různé věkové kategorie jako jsou party s klauny, pohádkami, kreslenými postavičkami, kouzelnická představení, karaoke a loutková divadla. 
+NULL ({ }) Today ({ 3 }) we ({ }) have ({ }) a ({ }) variety ({ 4 }) of ({ 5 }) offers, ({ 7 }) for ({ }) different ({ }) age ({ 16 17 18 19 21 22 }) categories, ({ 6 }) such ({ 9 10 }) as ({ }) parties ({ 11 }) with ({ }) clowns, ({ 8 }) fairy-tales, ({ }) cartoon ({ 2 }) characters, ({ 15 }) magic ({ }) and ({ 20 }) karaoke ({ 14 }) shows ({ }) and ({ }) theater ({ 13 }) with ({ 12 }) puppets. ({ 1 }) 
+# Sentence pair (8) source length 21 target length 17 alignment score : 2.14273e-14
+Následujeme obchodní trendy, takže organizujeme party doma, ve školce, škole nebo na jakémkoli místě dle zákazníkova přání. 
+NULL ({ }) We ({ 2 12 }) keep ({ }) up ({ 5 }) the ({ }) marketing ({ 4 14 17 }) trends ({ 15 }) so ({ 3 13 16 }) we ({ }) organize ({ }) parties ({ 6 }) at ({ 7 }) home, ({ 10 }) kindergarten, ({ }) school ({ 11 }) or ({ }) any ({ 8 }) location ({ 9 }) that ({ }) our ({ }) client ({ 1 }) requests. ({ }) 
+# Sentence pair (9) source length 16 target length 15 alignment score : 1.45237e-09
+Nabízíme vám kompletní služby: malování na obličej, různé druhy balónků, tematické dekorace pro nezapomenutelnou party. 
+NULL ({ }) We ({ 6 }) offer ({ 3 }) you ({ 2 }) complete ({ 8 }) services: ({ 7 }) face ({ 1 }) painting, ({ 5 }) all ({ 9 10 }) kinds ({ 14 }) of ({ 13 }) balloons, ({ }) theme ({ 12 }) decorations ({ }) for ({ 11 }) unforgivable ({ 4 }) party. ({ 15 }) 
+# Sentence pair (10) source length 15 target length 16 alignment score : 2.08994e-13
+Naši zaměstnanci mají zkušenost s prací s dětmi a pohybujeme se v tomto odvětví už dlouho. 
+NULL ({ }) Our ({ 11 }) staff ({ 1 13 }) have ({ 3 5 }) experience ({ 8 }) with ({ 7 }) kids ({ }) and ({ 9 }) we ({ }) work ({ 4 6 16 }) in ({ 12 }) this ({ 2 14 }) for ({ }) a ({ }) long ({ 10 }) time. ({ 15 }) 
+# Sentence pair (11) source length 44 target length 43 alignment score : 1.13124e-35
+Myslíme si, že naše firma má obchodní strategii, která je výdělečná, protože se orientuje do budoucnosti, je prověřená zkušeností, má zkušené zaměstnance, kteří jdou do všeho s vášní a ze všeho nejdůležitější je, že naše nabídky jsou komplexní a postavené na potřebách zákazníka. 
+NULL ({ 13 }) We ({ 7 41 }) think ({ 42 }) that ({ }) our ({ 4 }) firm ({ 5 }) has ({ }) a ({ }) business ({ 3 }) idea ({ 6 }) that ({ }) is ({ }) profitable, ({ 8 }) because ({ 43 }) it ({ }) is ({ }) future ({ 33 }) oriented, ({ }) has ({ }) experience, ({ 31 }) the ({ }) experienced ({ 21 }) staff, ({ 22 }) who ({ 23 }) has... ({ }) does ({ 20 30 40 }) everything ({ 26 28 }) with ({ 27 }) passion ({ 15 32 38 }) and ({ 29 39 }) the ({ }) most ({ 9 }) important ({ 16 }) is ({ 10 17 }) that ({ }) it ({ }) has ({ }) a ({ }) complex ({ }) offer, ({ 34 }) based ({ 2 }) on ({ 1 11 12 18 24 }) our ({ 35 }) clients ({ 14 19 25 36 }) needs. ({ 37 }) 
+# Sentence pair (12) source length 11 target length 7 alignment score : 6.21614e-05
+Proto je naše motto "Milujeme vás bavit!" 
+NULL ({ }) That ({ 5 }) is ({ }) why ({ 4 }) our ({ }) motto ({ 7 }) is ({ }) "We ({ 6 }) love ({ }) to ({ 2 }) entertain ({ 3 }) you!" ({ 1 }) 
+# Sentence pair (13) source length 24 target length 25 alignment score : 3.37542e-30
+Pokud jste zvědaví na můj tým, moje zaměstnance, moje přátele a chcete se o nás dovědět víc, prosím zastavte se u našeho stánku sedmdesát devět. 
+NULL ({ 13 20 }) If ({ 16 17 18 19 21 22 23 24 25 }) you ({ }) are ({ 9 }) curious ({ 15 }) to ({ }) meet ({ }) my ({ }) team, ({ }) my ({ 6 }) staff, ({ 8 }) my ({ }) friends ({ }) and ({ 11 }) learn ({ 12 }) more ({ }) about ({ 14 }) us, ({ }) please ({ }) stand ({ }) by ({ }) our ({ 4 }) stand ({ 2 5 7 10 }) seventy ({ 1 }) nine. ({ 3 }) 
+# Sentence pair (14) source length 4 target length 3 alignment score : 0.0425015
+Moc vám děkuji! 
+NULL ({ }) Thank ({ 3 }) you ({ 2 }) so ({ }) much! ({ 1 }) 

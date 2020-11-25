@@ -1,0 +1,24 @@
+# Sentence pair (1) source length 29 target length 27 alignment score : 9.6031e-29
+﻿Sehr geehrte Damen und Herren, mein Name ist <NAME> Ich bin Direktor des fiktionalen Unternehmens FictionalCine, das ein Kino betreibt, Filme zeigt und Bildungsprogramme für Schulen erstellt. 
+NULL ({ }) Dear ({ 7 9 11 13 15 21 }) ladies ({ }) and ({ 6 8 10 12 14 20 }) gentlemens, ({ }) my ({ }) name ({ 1 2 19 }) is ({ }) <NAME> ({ }) I ({ }) am ({ }) a ({ }) director ({ }) of ({ }) the ({ }) fictional ({ 18 27 }) company ({ 17 }) FictionalCine, ({ }) which ({ }) runs ({ 16 }) the ({ }) cinema, ({ 26 }) shows ({ 5 24 }) movies ({ }) and ({ 3 22 }) prepare ({ 25 }) educational ({ }) programmes ({ }) for ({ 4 23 }) schools. ({ }) 
+# Sentence pair (2) source length 16 target length 10 alignment score : 7.9188e-09
+Unser Unternehmen wurde am 1. September 2018 in Mělník gegründet. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) was ({ }) established ({ }) in ({ 3 }) Mělník ({ 4 }) on ({ 8 }) the ({ }) first ({ }) of ({ }) the ({ }) September ({ }) in ({ 9 }) two ({ 10 }) thousand ({ 5 }) eighteen. ({ 6 7 }) 
+# Sentence pair (3) source length 15 target length 14 alignment score : 3.1788e-10
+Unser Unternehmen hatte fünf Mitglieder, aber zurzeit betreiben wir das Unternehmen mit vier Leuten. 
+NULL ({ 12 }) Our ({ 1 }) company ({ 2 }) have... ({ 3 }) had ({ 4 }) five ({ 6 }) members ({ 7 }) but ({ }) currently ({ }) we ({ 9 }) operate ({ 8 14 }) the ({ }) company ({ 11 }) with ({ 10 }) four ({ 13 }) people. ({ 5 }) 
+# Sentence pair (4) source length 14 target length 12 alignment score : 7.70975e-11
+Jeden Monat erstellen wir die neuen Programme und Angebote für unsere Kunden. 
+NULL ({ }) Every ({ 1 2 }) month ({ 7 9 }) every ({ 6 11 }) month ({ 3 12 }) we ({ 4 }) prepare ({ 10 }) the ({ }) new ({ }) programmes ({ 5 }) and ({ }) offers ({ }) for ({ 8 }) our ({ }) customers. ({ }) 
+# Sentence pair (5) source length 9 target length 9 alignment score : 8.40128e-07
+Als zusätzliche Aktivität versorgen wir unseren Kunden mit Erfrischungen. 
+NULL ({ }) As ({ 2 3 4 }) additional ({ 1 }) activity ({ 9 }) we ({ 5 }) serve ({ 7 }) refreshment ({ }) for ({ }) our ({ 6 }) customers. ({ 8 }) 
+# Sentence pair (6) source length 30 target length 26 alignment score : 2.77003e-27
+Wenn Sie Interesse an unseren Bildungsprogrammen haben, können Sie per E-Mail fictionalcine at gmail Punkt com mit uns Kontakt aufnehmen oder unseren Stand Nummer 55 besuchen. 
+NULL ({ 17 }) And ({ 20 }) if ({ 23 }) you ({ }) are ({ 18 }) interested ({ 19 }) in ({ }) our ({ 16 }) educational ({ }) programmes ({ }) you ({ }) can ({ }) contact ({ }) us ({ 2 3 8 9 10 11 12 13 14 }) via ({ 7 24 }) email ({ 25 }) fictionalcine ({ }) at ({ 15 }) gmail ({ }) dot ({ }) com ({ }) or ({ }) you ({ 4 21 }) can ({ 26 }) visited ({ 6 }) at ({ }) our ({ 5 22 }) stand ({ }) number ({ 1 }) fifty ({ }) five. ({ }) 
+# Sentence pair (7) source length 7 target length 5 alignment score : 0.00482397
+Wir freuen uns auf Sie. 
+NULL ({ }) We ({ }) are ({ 3 }) looking ({ 4 }) forward ({ 2 }) to ({ 5 }) you ({ }) welcome. ({ 1 }) 
+# Sentence pair (8) source length 2 target length 1 alignment score : 0.309578
+Danke. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

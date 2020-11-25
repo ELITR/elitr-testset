@@ -1,0 +1,33 @@
+# Sentence pair (1) source length 34 target length 30 alignment score : 6.7308e-26
+Hallo, mein Name ist <NAME>, wie das Auto, und ich bin der Marketingvertreter von International Tour, einer Reiseagentur, die touristische Angebote in Rumänien und in ganz Europa verkauft und vermarktet. 
+NULL ({ }) Hello, ({ 1 2 3 5 6 }) my ({ 7 }) name ({ 8 }) is ({ 4 }) <NAME>, ({ }) like ({ }) the ({ }) car, ({ }) and ({ 24 }) I'm ({ }) a ({ }) marketing ({ }) representant ({ }) at ({ 22 25 }) International ({ }) Tour, ({ 26 }) which ({ 12 }) is ({ }) a ({ }) tour ({ 27 28 }) agency ({ 17 18 19 }) that ({ 10 21 }) sells ({ 20 }) and ({ 29 }) commercializes ({ 23 }) tourist ({ 30 }) products ({ }) in ({ }) Romania ({ }) and ({ 9 }) all ({ }) over ({ 16 }) the ({ 14 }) Europe. ({ 11 13 15 }) 
+# Sentence pair (2) source length 14 target length 15 alignment score : 5.51267e-13
+Wir schaffen es, unsere Kunden zufriedenzustellen und unser Team ist das beste, meiner Meinung nach. 
+NULL ({ }) We ({ 1 }) manage ({ 8 13 }) to ({ 5 11 }) satisfy ({ 6 12 }) our ({ }) clients ({ 15 }) and ({ 7 }) our ({ 4 }) team ({ 3 9 }) is ({ 10 }) the ({ }) greatest, ({ }) by ({ 2 }) me. ({ 14 }) 
+# Sentence pair (3) source length 10 target length 11 alignment score : 6.13792e-09
+Was gibt es zu sagen; wir nehmen an vielen Wettbewerben teil 
+NULL ({ }) What ({ 1 }) can ({ 2 }) I ({ }) say ({ 3 }) we ({ }) participate ({ 10 }) to ({ }) lots ({ 5 7 }) of ({ 9 }) competitions ({ 4 6 8 11 }) 
+# Sentence pair (4) source length 10 target length 8 alignment score : 2.17665e-07
+und erzielen großartige Erfolge, die uns heute helfen. 
+NULL ({ }) and ({ 1 }) we ({ }) achieve ({ 2 3 4 }) great ({ 7 }) results ({ }) that ({ }) are ({ 5 }) helping ({ }) us ({ 6 }) today. ({ 8 }) 
+# Sentence pair (5) source length 24 target length 22 alignment score : 1.97832e-22
+Letztes Jahr hatten wir zu dieser Zeit ein Praktikum in Italien und wenn ich ein Angebot abgebe, beruht das auf meiner Erfahrung. 
+NULL ({ 12 }) We ({ }) had ({ 10 }) an ({ }) internship ({ 1 }) last ({ 17 }) year ({ 5 13 }) in ({ }) this ({ 6 14 }) period, ({ 7 9 }) in ({ 8 15 }) Italy, ({ }) and, ({ 16 }) because ({ }) I'm ({ }) going ({ }) to ({ }) give ({ 11 }) an ({ }) offer, ({ }) I'm ({ }) based ({ }) on ({ 2 3 18 20 21 22 }) my ({ 19 }) experience. ({ 4 }) 
+# Sentence pair (6) source length 50 target length 48 alignment score : 6.50844e-46
+Wir haben einen siebentägigen Urlaub in Rimini, Italien, im Hotel Kursaal, 3 Sterne, gemacht; es befindet sich in... in... in der Nähe der Klippen und hat einen Privatstrand, von den Zimmern aus hat man einen seitlichen Meerblick. Der Preis beträgt 720 Euro für sechs Nächte und zwei Personen. 
+NULL ({ 46 }) We ({ 1 }) had ({ 20 }) a ({ 3 6 27 }) holiday ({ }) in ({ }) Rimini, ({ 4 5 }) Italy, ({ }) for ({ }) seven ({ }) days, ({ 7 18 19 }) at ({ }) hotel ({ 2 }) Hotel ({ 22 }) Kursaal, ({ 8 }) three ({ 21 }) starts, ({ }) which ({ 23 }) is ({ }) located ({ }) in... ({ }) in... ({ 26 }) near ({ }) the ({ }) sea ({ }) cliff, ({ }) and ({ 25 }) has ({ 24 }) a ({ }) private ({ 28 }) beach ({ 33 }) with ({ 35 }) a ({ }) partial ({ 36 }) sea ({ }) view ({ }) from ({ 30 31 }) the ({ 29 }) rooms. ({ 34 }) The ({ }) price ({ 42 }) is ({ }) seven ({ 15 }) hundred ({ }) twenty ({ }) euros ({ 17 32 48 }) for ({ 43 }) six ({ 9 37 44 45 47 }) nights, ({ }) two ({ 10 11 12 13 14 16 38 39 40 }) persons. ({ 41 }) 
+# Sentence pair (7) source length 20 target length 16 alignment score : 7.09257e-15
+Zusätzlich habe ich... auf... dieser Reise... ich habe einen Flyer dabei, der drei... drei Angebote enthält. 
+NULL ({ }) In ({ 1 }) addition, ({ 3 4 }) I ({ }) have ({ }) with ({ 9 }) me... ({ }) at... ({ 8 }) this ({ 5 }) tour... ({ 6 }) I ({ }) have ({ }) a ({ }) flyer ({ 14 }) that ({ 7 15 }) consists ({ }) in ({ }) three... ({ 2 10 11 13 }) in ({ }) three ({ 12 }) offers. ({ 16 }) 
+# Sentence pair (8) source length 24 target length 23 alignment score : 2.6404e-22
+Eins ist ein Aufenthalt in Rom, eins ist eine Städtereise und eins ist in unserer Stadt, Bukarest, in unserem Hotel, Interbusiness, 4 Sterne. 
+NULL ({ }) One ({ 6 9 10 }) is ({ 2 8 13 }) a ({ }) stay ({ 1 }) in ({ 3 }) Rome, ({ 7 12 }) one ({ }) is ({ }) a ({ }) city ({ }) break ({ 15 }) and ({ 11 }) one ({ 4 }) is ({ }) in ({ }) our ({ }) town, ({ }) Bucharest, ({ }) at ({ 5 14 18 }) our ({ }) hotel, ({ }) Interbusiness, ({ 16 23 }) four ({ 19 }) stars. ({ 17 20 21 22 }) 
+# Sentence pair (9) source length 20 target length 18 alignment score : 5.97301e-15
+Zum Schluss möchte ich Ihnen sagen, dass unsere Kunden bei dieser Messe einen Nachlass von 10 % bekommen. 
+NULL ({ }) For ({ 1 }) the ({ 15 }) final, ({ }) I ({ }) have ({ 13 }) to ({ 9 }) say ({ }) that ({ 4 }) in ({ }) this ({ 11 }) trade ({ 5 }) fair, ({ 10 }) our ({ }) customers ({ }) will ({ 12 }) benefit ({ 3 }) a ({ }) ten ({ 2 }) percent ({ 6 14 }) discount. ({ 7 8 16 17 18 }) 
+# Sentence pair (10) source length 6 target length 5 alignment score : 0.00114899
+Danke für Ihre Aufmerksamkeit und... 
+NULL ({ }) Thank ({ 1 }) you ({ }) for ({ 2 }) your ({ 5 }) attention ({ 4 }) and... ({ 3 }) 
+# Sentence pair (11) source length 4 target length 2 alignment score : 0.0485656
+Vielen Dank. 
+NULL ({ }) Thank ({ }) you ({ }) very ({ 1 }) much. ({ 2 }) 

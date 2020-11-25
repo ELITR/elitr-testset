@@ -1,0 +1,42 @@
+# Sentence pair (1) source length 12 target length 14 alignment score : 1.67517e-12
+Dobrý den, já jsem <NAME> a pracuji pro Mole GP Technologies v oddělení komunikace. 
+NULL ({ 6 }) Hi, ({ 1 }) I'm ({ 4 7 }) <NAME> ({ 2 8 }) working ({ 14 }) in ({ }) Mole ({ }) GP ({ 10 11 }) Technologies ({ }) in ({ 12 }) a ({ 9 }) communication ({ 3 5 }) department. ({ 13 }) 
+# Sentence pair (2) source length 11 target length 13 alignment score : 1.59477e-10
+Dobrý den, ja jsem <NAME>, je mi šestnáct a pracuji v oddělení marketingu. 
+NULL ({ }) Hi, ({ 1 }) I'm ({ }) <NAME>, ({ 3 13 }) sixteen ({ 4 6 7 8 }) and ({ 9 }) I ({ 10 }) work ({ }) in ({ }) the ({ 11 }) marketing ({ 5 }) department. ({ 2 12 }) 
+# Sentence pair (3) source length 11 target length 10 alignment score : 3.52169e-10
+Pro tuto příležitost jsme si připravili krátkou scénku ve výtahu: 
+NULL ({ }) For ({ 1 }) this ({ }) event ({ 9 10 }) we ({ }) prepared ({ 3 4 5 6 7 }) a ({ }) little ({ 2 }) scene ({ 8 }) in ({ }) the ({ }) lift: ({ }) 
+# Sentence pair (4) source length 20 target length 17 alignment score : 3.26888e-31
+Ano, jdu pozdě, pracuji zde v nejvyšším patře v Mole GP Technologies a vy, kam máte namířeno? 
+NULL ({ }) Yes, ({ 1 }) I'm ({ }) late, ({ 2 }) I ({ 4 }) work ({ }) here ({ }) on ({ 5 }) the ({ 6 9 }) top ({ }) floor ({ 7 }) at ({ }) Mole ({ 10 }) GP ({ 11 12 }) Technologies ({ }) and ({ 13 }) you, ({ 14 }) where ({ 3 }) are ({ 16 }) you ({ }) going? ({ 8 15 17 }) 
+# Sentence pair (5) source length 3 target length 3 alignment score : 0.00986739
+Já jdu domů. 
+NULL ({ }) I'm ({ }) going ({ 1 }) home. ({ 2 3 }) 
+# Sentence pair (6) source length 5 target length 6 alignment score : 3.12665e-05
+Řekněte mi něco o vaší společnosti. 
+NULL ({ }) Tell ({ 1 6 }) me ({ 3 }) about ({ 2 }) your ({ 5 }) company. ({ 4 }) 
+# Sentence pair (7) source length 26 target length 25 alignment score : 5.38956e-57
+Dobře, Mole GP Technologies je nová společnost z Turína, kterou založil tým mladých profesionálů ze střední školy Peano v Turíně v roce dva tisíce osmnáct. 
+NULL ({ }) Well, ({ 1 }) Mole ({ 2 }) GP ({ 3 4 }) Technologies ({ }) is ({ 5 }) a ({ }) young ({ 13 }) company ({ }) set ({ 9 }) up ({ 7 15 }) in ({ }) twenty ({ 17 }) eighteen ({ }) in ({ }) Turin ({ 11 }) by ({ }) young ({ 20 }) professional ({ }) from ({ 8 10 12 14 16 24 25 }) the ({ }) secondary ({ 6 }) school ({ 22 }) of ({ }) Peano ({ 23 }) in ({ 19 21 }) Turin. ({ 18 }) 
+# Sentence pair (8) source length 17 target length 12 alignment score : 1.01911e-12
+Nabízíme množství služeb jako: databáze, správu databází, návrhy softwarů a grafický design. 
+NULL ({ }) We ({ 3 4 5 6 7 12 }) can ({ }) offer ({ 8 }) a ({ }) full ({ }) range ({ }) of ({ }) services ({ }) like: ({ }) database... ({ 1 }) database ({ }) management, ({ }) software ({ }) design ({ 2 }) and ({ 10 }) graphic ({ 11 }) design. ({ 9 }) 
+# Sentence pair (9) source length 11 target length 8 alignment score : 2.6329e-06
+Navíc tiskneme loga na poznámkové bloky a propisky. 
+NULL ({ }) And ({ 1 }) more ({ }) even ({ 8 }) we ({ }) can ({ }) print ({ 6 }) brands ({ 2 }) on ({ }) notepads ({ 3 4 5 }) and ({ 7 }) pen. ({ }) 
+# Sentence pair (10) source length 7 target length 6 alignment score : 0.000242556
+Aha, ok, takže jste italská firma? 
+NULL ({ }) Oh, ({ 1 }) OK, ({ 3 }) so ({ 2 }) you ({ }) are ({ }) Italian ({ 4 }) company? ({ 5 6 }) 
+# Sentence pair (11) source length 32 target length 25 alignment score : 1.3357e-58
+Ano, s vaší pomocí můžeme pomoci vaší společnosti v rozvoji a můžeme zlepšit výkon vaší společnosti, máme mezinárodní zázemí, takže můžeme pracovat po celé Evropě. 
+NULL ({ 20 }) Yes, ({ 1 }) we, ({ 12 }) we... ({ 2 6 14 }) with ({ }) our ({ 13 }) help ({ }) we ({ }) can ({ }) help ({ }) your ({ }) company ({ }) with ({ }) the ({ 9 }) development ({ 5 10 }) and ({ 11 }) with... ({ 21 }) we ({ 4 8 }) can ({ }) improve ({ 24 }) your ({ 3 7 15 }) company ({ 16 }) performances ({ 25 }) given ({ 18 22 23 }) our ({ 19 }) international ({ }) background ({ }) we ({ }) can ({ }) work ({ }) all ({ }) over ({ }) Europe. ({ 17 }) 
+# Sentence pair (12) source length 12 target length 12 alignment score : 6.20489e-12
+Aha, ok, takže když budu potřebovat pomoc, můžu se na vás obrátit? 
+NULL ({ }) Oh, ({ 1 }) OK, ({ 3 }) so ({ 2 }) if ({ 5 12 }) I ({ }) need ({ 4 }) a ({ }) help ({ }) you ({ }) can ({ }) help ({ }) me? ({ 6 7 8 9 10 11 }) 
+# Sentence pair (13) source length 4 target length 4 alignment score : 0.000856436
+Ano, ano, takže tak. 
+NULL ({ }) Yeah, ({ 2 4 }) Yeah...Yes, ({ 3 }) just ({ }) this. ({ 1 }) 
+# Sentence pair (14) source length 1 target length 1 alignment score : 0.752573
+Děkujeme. 
+NULL ({ }) Thanks. ({ 1 }) 

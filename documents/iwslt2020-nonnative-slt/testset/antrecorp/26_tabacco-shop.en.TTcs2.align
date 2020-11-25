@@ -1,0 +1,21 @@
+# Sentence pair (1) source length 4 target length 3 alignment score : 0.0262403
+Jmenuji se <NAME>. 
+NULL ({ }) My ({ 3 }) name ({ }) is ({ 2 }) <NAME>. ({ 1 }) 
+# Sentence pair (2) source length 13 target length 13 alignment score : 3.84865e-11
+Rád bych vám představil naši fiktivní společnost jménem Tobacco Shop s. r. o. 
+NULL ({ }) And ({ 9 }) I'd ({ }) like ({ 7 }) to ({ 3 }) introduce ({ 2 5 8 10 13 }) you ({ }) our ({ 12 }) fiction ({ 6 }) company ({ 4 }) named ({ }) Tobacco ({ 11 }) Shop ({ }) LTD. ({ 1 }) 
+# Sentence pair (3) source length 18 target length 15 alignment score : 7.90314e-13
+Bylo nám řečeno, že jsme první a zároveň poslední fiktivní firma s tímhle konkrétním námětem. 
+NULL ({ }) We ({ }) were ({ 4 }) fir... ({ }) told ({ 6 }) to ({ }) be ({ 3 }) the ({ 7 }) first ({ }) fiction ({ 10 }) firm ({ 5 13 15 }) with ({ 9 14 }) this ({ 11 }) certain ({ 8 }) theme ({ }) and ({ }) also ({ 1 2 12 }) the ({ }) last. ({ }) 
+# Sentence pair (4) source length 19 target length 15 alignment score : 2.32805e-13
+Naší specializací je prodej tabákových výrobků jako jsou cigarety, doutníky, žvýkací tabák, dýmky a další. 
+NULL ({ }) We ({ 3 }) specialize ({ 4 }) on ({ 6 }) z... ({ }) selling ({ }) the ({ }) tobacco ({ }) products ({ }) like ({ }) cigarettes, ({ 1 2 7 10 12 13 }) cigars, ({ 9 }) chewing ({ 11 }) tobacco, ({ 15 }) pipes ({ }) and ({ 8 }) the ({ 14 }) others ({ }) at ({ 5 }) us. ({ }) 
+# Sentence pair (5) source length 14 target length 13 alignment score : 2.65562e-26
+Každý, komu bylo přes osmnáct let, u nás najde různé druhy tabákových výrobků. 
+NULL ({ }) Everyone ({ 9 }) above ({ }) eighteen ({ 1 }) may ({ 10 }) find ({ 2 5 8 }) at ({ 12 }) us ({ 13 }) a ({ 6 }) different ({ 4 }) species ({ 7 }) of ({ 11 }) the ({ }) tobacco ({ }) products. ({ 3 }) 
+# Sentence pair (6) source length 8 target length 6 alignment score : 3.7334e-06
+Nabízíme je v té nejvyšší kvalitě. 
+NULL ({ }) We ({ 2 }) offer ({ 3 }) you ({ }) the ({ }) highest ({ 5 }) quality ({ 1 4 6 }) of ({ }) them. ({ }) 
+# Sentence pair (7) source length 17 target length 15 alignment score : 5.59681e-34
+Naši zaměstnanci jsou velmi ochotní a vždy připravení vám pomoci a doporučit ten nejlepší produkt. 
+NULL ({ 11 }) Our ({ 3 }) employees ({ 4 }) are ({ 1 }) very ({ }) helpful ({ 14 }) and ({ }) always ({ }) ready ({ }) to ({ 9 }) guide ({ 2 5 10 15 }) you ({ 8 }) and ({ }) recommend ({ 13 }) you ({ }) the ({ 6 }) best ({ 12 }) product ({ 7 }) 

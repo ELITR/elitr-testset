@@ -1,0 +1,75 @@
+# Sentence pair (1) source length 7 target length 5 alignment score : 0.000365995
+vyplňte tabulku celými čísly tak 
+NULL ({ }) fill ({ 2 3 }) in ({ }) the ({ }) table ({ 4 }) with ({ 5 }) whole ({ }) numbers ({ 1 }) 
+# Sentence pair (2) source length 7 target length 7 alignment score : 5.02361e-05
+abyste zapsali číslo 430 pěti různými způsoby 
+NULL ({ }) to ({ }) write ({ 5 }) 430 ({ 4 }) in ({ }) five ({ 3 }) different ({ 2 7 }) ways ({ 1 6 }) 
+# Sentence pair (3) source length 8 target length 5 alignment score : 0.000855319
+trochu se nad tím zamyslete 
+NULL ({ }) so ({ }) lets ({ 1 }) think ({ 3 }) about ({ 4 }) this ({ }) a ({ }) little ({ 2 }) bit ({ 5 }) 
+# Sentence pair (4) source length 9 target length 8 alignment score : 9.87614e-05
+tuto 4 tady můžeme vidět jako 4 stovky 
+NULL ({ }) we ({ 4 }) could ({ }) literally ({ 1 3 }) view ({ 5 }) this ({ }) 4 ({ 2 }) as ({ 6 }) 4 ({ 7 }) hundreds ({ 8 }) 
+# Sentence pair (5) source length 4 target length 3 alignment score : 0.0982954
+takže 4 stovky 
+NULL ({ }) so ({ }) its ({ 1 }) 4 ({ 2 }) hundreds ({ 3 }) 
+# Sentence pair (6) source length 12 target length 10 alignment score : 1.14604e-06
+a tady je 3 na místě desítek takže 3 desítky 
+NULL ({ }) and ({ 1 }) the ({ 5 }) 3 ({ 4 }) is ({ 3 }) in ({ 2 6 }) the ({ }) tens ({ 7 }) place ({ }) so ({ }) its ({ 8 }) 3 ({ 9 }) tens ({ 10 }) 
+# Sentence pair (7) source length 8 target length 7 alignment score : 0.000123278
+to máme 4 stovky a 3 desítky 
+NULL ({ }) so ({ 2 }) this ({ 1 }) is ({ }) 4 ({ 3 }) hundreds ({ 4 }) and ({ 5 }) 3 ({ 6 }) tens ({ 7 }) 
+# Sentence pair (8) source length 8 target length 6 alignment score : 5.5213e-05
+ale jde to zapsat i jinak 
+NULL ({ }) but ({ 1 }) we ({ }) could ({ }) rearrange ({ 4 5 }) things ({ 2 }) a ({ 3 }) little ({ }) bit ({ 6 }) 
+# Sentence pair (9) source length 8 target length 6 alignment score : 0.000153129
+například můžeme mít pouze 3 stovky 
+NULL ({ }) for ({ }) example ({ 1 }) we ({ 2 }) might ({ }) only ({ 4 }) have ({ 3 }) 3 ({ 5 }) hundreds ({ 6 }) 
+# Sentence pair (10) source length 9 target length 8 alignment score : 9.74091e-10
+vzali jsme 100 z místa stovek a nyní 
+NULL ({ }) so ({ }) we ({ }) took ({ 1 2 5 6 }) a ({ }) hundred ({ 3 }) from ({ 4 8 }) the ({ 7 }) hundreds ({ }) place ({ }) 
+# Sentence pair (11) source length 9 target length 7 alignment score : 7.16498e-07
+ji můžeme dát na místo pro desítky 
+NULL ({ }) and ({ }) we ({ 2 }) could ({ }) give ({ 6 }) it ({ 3 }) to ({ 1 5 }) the ({ }) tens ({ 7 }) place ({ 4 }) 
+# Sentence pair (12) source length 13 target length 11 alignment score : 6.97618e-08
+když vezmete tu 100 a dáte ji na místo pro desítky 
+NULL ({ }) so ({ }) if ({ 1 }) you ({ }) take ({ 3 }) that ({ 2 }) hundred ({ 4 }) and ({ 5 }) give ({ 6 10 }) it ({ 7 }) to ({ 9 }) the ({ }) tens ({ 11 }) place ({ 8 }) 
+# Sentence pair (13) source length 5 target length 4 alignment score : 0.0193902
+100 je 10 desítek 
+NULL ({ }) a ({ }) hundred ({ 1 }) is ({ 2 }) 10 ({ 3 }) tens ({ 4 }) 
+# Sentence pair (14) source length 12 target length 11 alignment score : 2.06551e-07
+teď máte 10 desítek ale předtím jste už měli 3 desítky 
+NULL ({ }) so ({ }) youve ({ 1 }) got ({ 5 }) 10 ({ 3 }) tens ({ 4 }) and ({ }) then ({ 6 7 8 }) you ({ }) already ({ 2 }) had ({ 9 }) 3 ({ 10 }) tens ({ 11 }) 
+# Sentence pair (15) source length 10 target length 6 alignment score : 0.000301751
+tudíž tady budete mít 13 desítek 
+NULL ({ }) so ({ }) youre ({ 1 }) going ({ 5 }) to ({ }) have ({ 4 }) 13 ({ }) tens ({ 6 }) right ({ }) over ({ 2 }) here ({ 3 }) 
+# Sentence pair (16) source length 6 target length 6 alignment score : 0.000759829
+možná se to zdá trochu matoucí 
+NULL ({ }) now ({ 4 }) this ({ 3 }) seems ({ 1 }) a ({ 5 }) little ({ 2 }) confusing ({ 6 }) 
+# Sentence pair (17) source length 4 target length 4 alignment score : 0.0184138
+nezapomeňte je to 430 
+NULL ({ }) remember ({ 1 }) this ({ 3 }) is ({ 2 }) 430 ({ 4 }) 
+# Sentence pair (18) source length 5 target length 5 alignment score : 0.00106038
+tohle je 300 plus 130 
+NULL ({ }) this ({ }) is ({ 2 }) 300 ({ 3 }) plus ({ 4 }) 130 ({ 1 5 }) 
+# Sentence pair (19) source length 3 target length 4 alignment score : 0.00184262
+to je pořád 430 
+NULL ({ }) thats ({ 1 2 }) still ({ 3 }) 430 ({ 4 }) 
+# Sentence pair (20) source length 9 target length 9 alignment score : 1.50599e-05
+podobně můžete to vidět také jako 200 plus 230 
+NULL ({ }) likewise ({ 2 }) you ({ }) could ({ 1 }) view ({ 4 }) this ({ 3 }) as ({ 6 }) 200 ({ 5 7 }) plus ({ 8 }) 230 ({ 9 }) 
+# Sentence pair (21) source length 8 target length 6 alignment score : 0.00118945
+230 je stejné jako 23 desítek 
+NULL ({ }) 230 ({ 1 }) is ({ 2 }) the ({ }) same ({ }) thing ({ 3 }) as ({ 4 }) 23 ({ 5 }) tens ({ 6 }) 
+# Sentence pair (22) source length 10 target length 11 alignment score : 5.96767e-09
+stejnou cestou lze na to nahlédnout jako na 100 plus 330 
+NULL ({ }) same ({ 2 }) way ({ 1 4 9 }) you ({ 3 }) could ({ }) view ({ }) this ({ 5 }) as ({ 7 }) 100 ({ 6 8 }) plus ({ 10 }) 330 ({ 11 }) 
+# Sentence pair (23) source length 4 target length 4 alignment score : 0.0422654
+33 desítek je 330 
+NULL ({ }) 33 ({ 1 }) tens ({ 2 }) is ({ 3 }) 330 ({ 4 }) 
+# Sentence pair (24) source length 12 target length 10 alignment score : 1.44178e-08
+lze to také vidět jako 0 stovek a 43 desítek 
+NULL ({ 2 }) and ({ }) finally ({ 3 }) you ({ 1 }) could ({ }) view ({ 4 }) it ({ }) as ({ 5 }) 0 ({ 6 7 }) hundreds ({ }) and ({ 8 }) 43 ({ 9 }) tens ({ 10 }) 
+# Sentence pair (25) source length 4 target length 4 alignment score : 0.0269277
+43 desítek je 430 
+NULL ({ }) 43 ({ 1 }) tens ({ 2 }) is ({ 3 }) 430 ({ 4 }) 

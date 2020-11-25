@@ -1,0 +1,576 @@
+# Sentence pair (1) source length 6 target length 4 alignment score : 5.81932e-05
+pojďme na několik příkladů 
+NULL ({ }) Lets ({ 1 }) get ({ }) started ({ 2 3 4 }) with ({ }) some ({ }) problems ({ }) 
+# Sentence pair (2) source length 2 target length 4 alignment score : 9.61501e-05
+podívejme se na to 
+NULL ({ }) lets ({ 1 }) see ({ 2 3 4 }) 
+# Sentence pair (3) source length 4 target length 2 alignment score : 0.00602075
+první příklad 
+NULL ({ }) first ({ 1 }) problem ({ 2 }) what ({ }) is ({ }) 
+# Sentence pair (4) source length 6 target length 5 alignment score : 0.000461821
+kolik je 15 ze 40 
+NULL ({ }) what ({ 1 }) is ({ 2 }) 15 ({ 3 }) percent ({ }) of ({ 4 }) 40 ({ 5 }) 
+# Sentence pair (5) source length 11 target length 7 alignment score : 9.20113e-09
+příklady s procenty řešíme tak že převedeme 
+NULL ({ }) the ({ }) way ({ 1 2 3 4 5 }) i ({ }) do ({ }) percent ({ }) problems ({ }) is ({ }) i ({ 6 }) just ({ }) convert ({ 7 }) the ({ }) 
+# Sentence pair (6) source length 11 target length 7 alignment score : 2.87552e-09
+procenta na desetinné číslo kterým pak násobíme 
+NULL ({ }) percentage ({ 1 }) to ({ }) a ({ }) decimal ({ }) and ({ }) then ({ 5 6 }) i ({ }) multiply ({ 2 3 7 }) it ({ }) times ({ }) the ({ 4 }) 
+# Sentence pair (7) source length 11 target length 6 alignment score : 4.88325e-07
+číslo z něhož chceme procenta spočítat 
+NULL ({ }) the ({ }) number ({ 1 }) that ({ }) i ({ }) m ({ 3 4 6 }) trying ({ }) to ({ }) get ({ }) the ({ }) percentage ({ 5 }) of ({ 2 }) 
+# Sentence pair (8) source length 10 target length 10 alignment score : 2.45115e-10
+tedy 15 vyjádřeno desetinným číslem je nula celá 15 setin 
+NULL ({ }) so ({ 1 }) 15 ({ 2 3 }) percent ({ }) as ({ 4 }) a ({ 5 }) decimal ({ }) is ({ 6 }) point ({ 7 8 }) 1 ({ 9 }) 5 ({ 10 }) 
+# Sentence pair (9) source length 12 target length 14 alignment score : 2.38037e-15
+to už jsme se doufám naučili ve videu o převodu procent na desetinné číslo 
+NULL ({ }) you ({ }) learned ({ }) that ({ 1 }) from ({ 2 3 }) the ({ }) for ({ 4 }) the ({ }) um ({ 5 6 7 8 9 }) percent ({ }) to ({ }) decimal ({ }) conversion ({ 10 11 12 13 14 }) 
+# Sentence pair (10) source length 3 target length 3 alignment score : 0.012827
+ve videu snad 
+NULL ({ }) a ({ }) video ({ 1 2 }) hopefully ({ 3 }) 
+# Sentence pair (11) source length 7 target length 5 alignment score : 6.88264e-06
+a jím právě vynásobíme 40 
+NULL ({ }) and ({ 1 }) we ({ }) just ({ 2 3 4 }) multiply ({ }) this ({ }) times ({ }) 40 ({ 5 }) 
+# Sentence pair (12) source length 9 target length 7 alignment score : 3.2926e-06
+tedy 40 krát nula celá 15 setin 
+NULL ({ }) so ({ 1 }) lets ({ }) say ({ }) 40 ({ 2 }) times ({ 3 }) fifth ({ }) point ({ 4 5 }) 1 ({ 6 }) 5 ({ 7 }) 
+# Sentence pair (13) source length 5 target length 5 alignment score : 0.000245269
+5 krát 0 je 0 
+NULL ({ }) 5 ({ 1 }) times ({ 2 }) 0 ({ 3 }) is ({ 4 }) 0 ({ 5 }) 
+# Sentence pair (14) source length 5 target length 5 alignment score : 0.000628835
+5 krát 4 je dvacet 
+NULL ({ }) 5 ({ 1 }) times ({ 2 }) 4 ({ 3 }) is ({ 4 }) 20 ({ 5 }) 
+# Sentence pair (15) source length 2 target length 2 alignment score : 0.115491
+posunout dolu 
+NULL ({ }) bring ({ 1 }) down ({ 2 }) 
+# Sentence pair (16) source length 4 target length 2 alignment score : 0.00104184
+zapíšeme nulu 
+NULL ({ }) put ({ }) a ({ }) 0 ({ }) there ({ 1 2 }) 
+# Sentence pair (17) source length 7 target length 7 alignment score : 1.09007e-06
+a pak 0 krát 0 je 0 
+NULL ({ }) and ({ 1 }) then ({ 2 3 }) 1 ({ }) times ({ 4 }) 0 ({ 5 }) is ({ 6 }) 0 ({ 7 }) 
+# Sentence pair (18) source length 5 target length 5 alignment score : 1.96094e-05
+1 krát 4 jsou 4 
+NULL ({ }) 1 ({ 1 }) times ({ 2 }) 4 ({ 3 }) is ({ 4 }) 4 ({ 5 }) 
+# Sentence pair (19) source length 6 target length 5 alignment score : 3.04985e-06
+a dostaneme šest nula nula 
+NULL ({ }) and ({ 1 }) you ({ }) get ({ 2 3 }) 6 ({ }) 0 ({ 5 }) 0 ({ 4 }) 
+# Sentence pair (20) source length 6 target length 3 alignment score : 0.00327282
+napíšeme desetinnou čárku 
+NULL ({ }) then ({ }) you ({ }) count ({ 1 }) the ({ }) decimal ({ }) spots ({ 2 3 }) 
+# Sentence pair (21) source length 2 target length 2 alignment score : 0.00472127
+jedna dva 
+NULL ({ }) 1 ({ 1 2 }) 2 ({ }) 
+# Sentence pair (22) source length 10 target length 9 alignment score : 4.49355e-09
+nahoře desetinná čárka není takže jedna dva a čárka 
+NULL ({ }) no ({ 1 }) decimals ({ 2 }) up ({ 3 4 9 }) there ({ }) so ({ 5 }) you ({ }) go ({ }) 1 ({ 6 7 }) 2 ({ }) and ({ 8 }) 
+# Sentence pair (23) source length 5 target length 2 alignment score : 0.00235457
+patří sem 
+NULL ({ }) you ({ }) put ({ }) the ({ }) decimal ({ }) there ({ 1 2 }) 
+# Sentence pair (24) source length 19 target length 19 alignment score : 6.11372e-18
+takže 15 ze 40 se rovná nula celá 15 setin krát 40 což se rovná 6 celých nula setin 
+NULL ({ }) so ({ 1 }) 15 ({ 2 }) percent ({ }) of ({ 3 }) 40 ({ 4 }) is ({ }) equal ({ 6 15 }) to ({ 5 14 }) point ({ 7 8 }) 1 ({ 9 }) 5 ({ 10 }) times ({ 11 }) 40 ({ 12 }) which ({ 13 }) equals ({ 17 }) 6 ({ 16 }) point ({ }) 0 ({ 18 }) 0 ({ 19 }) 
+# Sentence pair (25) source length 8 target length 6 alignment score : 5.47038e-05
+to je to samé jako 6 
+NULL ({ }) well ({ }) thats ({ 1 2 }) just ({ }) the ({ }) same ({ 4 }) thing ({ 3 }) as ({ 5 }) 6 ({ 6 }) 
+# Sentence pair (26) source length 4 target length 2 alignment score : 0.0201386
+další příklad 
+NULL ({ }) lets ({ }) do ({ }) another ({ 1 }) problem ({ 2 }) 
+# Sentence pair (27) source length 7 target length 6 alignment score : 3.49858e-06
+doufám že vás to moc nezmátlo 
+NULL ({ }) hopefully ({ }) that ({ 2 }) didnt ({ 4 }) confuse ({ 3 }) you ({ }) too ({ 1 }) much ({ 5 6 }) 
+# Sentence pair (28) source length 11 target length 5 alignment score : 2.99844e-06
+teď vás zkusím trochu zmást 
+NULL ({ }) and ({ }) im ({ 1 }) going ({ }) to ({ }) try ({ 3 4 5 }) to ({ }) confuse ({ 2 }) you ({ }) this ({ }) time ({ }) just ({ }) 
+# Sentence pair (29) source length 9 target length 8 alignment score : 2.94561e-08
+pokud ovšem nejste zmateni již z předchozího příkladu 
+NULL ({ }) in ({ }) case ({ }) you ({ }) werent ({ 2 3 }) properly ({ 1 }) confused ({ 4 }) the ({ }) last ({ }) time ({ 5 6 7 8 }) 
+# Sentence pair (30) source length 15 target length 13 alignment score : 1.18191e-11
+kolik je nula celá dvě desetiny procent z teď vymyslet číslo ze sedmi 
+NULL ({ }) what ({ 1 }) is ({ 2 }) point ({ 3 4 }) 2 ({ 5 6 }) percent ({ }) of ({ }) mmm ({ }) let ({ }) me ({ 7 }) think ({ }) of ({ 8 }) a ({ }) number ({ 11 }) of ({ 12 }) seven ({ 9 10 13 }) 
+# Sentence pair (31) source length 8 target length 7 alignment score : 8.3385e-08
+mnoho lidí se přiklání k tomu říci 
+NULL ({ }) so ({ }) a ({ }) lot ({ 2 3 4 }) of ({ }) peoples ({ 1 }) inclinationt ({ 5 6 7 }) would ({ }) just ({ }) 
+# Sentence pair (32) source length 12 target length 14 alignment score : 8.86775e-11
+oh nula celá dvě desetiny procenta je to samé jako nula celá dvě desetiny 
+NULL ({ }) say ({ }) oh ({ 1 }) point ({ 2 3 }) 2 ({ 4 5 }) percent ({ 6 }) thats ({ 7 }) the ({ }) same ({ 9 }) thing ({ 8 }) as ({ 10 }) point ({ 11 12 }) 2 ({ 13 14 }) 
+# Sentence pair (33) source length 10 target length 8 alignment score : 3.18091e-07
+pokud to vidíte stejně pak je to chyba 
+NULL ({ }) and ({ }) if ({ 1 }) that ({ 2 }) was ({ 3 4 }) your ({ }) inclination ({ 5 }) you ({ }) would ({ 6 7 }) be ({ }) wrong ({ 8 }) 
+# Sentence pair (34) source length 6 target length 10 alignment score : 8.43235e-08
+protože si uvědomme že to není nula celá dvě desetiny 
+NULL ({ }) cos ({ 1 }) remember ({ 2 3 4 }) this ({ 5 }) isnt ({ 6 }) point ({ 7 8 }) 2 ({ 9 10 }) 
+# Sentence pair (35) source length 5 target length 7 alignment score : 3.15135e-07
+je to nula celá dvě desetiny procenta 
+NULL ({ }) this ({ 2 }) is ({ 1 }) point ({ 3 4 }) 2 ({ 5 6 }) percent ({ 7 }) 
+# Sentence pair (36) source length 9 target length 7 alignment score : 2.88308e-09
+dá se o tom přemýšle dvojím způsobem 
+NULL ({ }) so ({ }) there ({ }) is ({ }) 2 ({ }) ways ({ 1 2 3 }) of ({ }) thinking ({ 5 6 7 }) about ({ 4 }) this ({ }) 
+# Sentence pair (37) source length 15 target length 13 alignment score : 7.84209e-13
+můžem si říct že to je nula celá dvě lomeno stem což je 
+NULL ({ }) you ({ }) could ({ 1 2 3 }) say ({ }) that ({ 4 }) this ({ 5 }) is ({ 6 }) point ({ 7 8 }) 2 ({ 9 }) over ({ 10 }) a ({ }) 100 ({ 11 }) which ({ 12 }) is ({ 13 }) if ({ }) you ({ }) 
+# Sentence pair (38) source length 9 target length 6 alignment score : 2.45348e-08
+pokud násobíte čitatele i jmenovatele deseti 
+NULL ({ }) multiply ({ }) the ({ }) numerator ({ 1 }) and ({ }) denominator ({ 2 3 4 5 6 }) by ({ }) 10 ({ }) is ({ }) the ({ }) 
+# Sentence pair (39) source length 7 target length 6 alignment score : 1.72176e-05
+to samé jako dvě lomeno tisícem 
+NULL ({ }) same ({ 2 }) thing ({ 1 }) as ({ 3 }) 2 ({ }) over ({ 4 }) a ({ }) 1000 ({ 5 6 }) 
+# Sentence pair (40) source length 9 target length 5 alignment score : 1.62397e-06
+nebo užijeme techniku kdy posuneme 
+NULL ({ }) or ({ 1 }) you ({ }) can ({ }) just ({ }) do ({ }) the ({ }) technique ({ 2 3 4 5 }) where ({ }) you ({ }) 
+# Sentence pair (41) source length 9 target length 6 alignment score : 1.37109e-06
+desetinnou čárku o dvě místa vlevo 
+NULL ({ }) move ({ }) the ({ }) decimal ({ 1 2 }) space ({ 3 }) over ({ 4 }) 2 ({ }) to ({ }) the ({ }) left ({ 5 6 }) 
+# Sentence pair (42) source length 11 target length 10 alignment score : 1.44464e-10
+čímž pokud začínáme s nula celá dvěmi desetinami a posuneme 
+NULL ({ }) in ({ }) which ({ 1 }) case ({ 3 }) if ({ 2 }) youre ({ }) starting ({ 4 }) with ({ 7 8 }) point ({ 5 6 }) 2 ({ }) you ({ 9 }) move ({ 10 }) 
+# Sentence pair (43) source length 10 target length 8 alignment score : 3.63558e-08
+desetinnou čárku o dvě místa vlevo dostaneme hopla 
+NULL ({ }) the ({ }) decimal ({ 1 2 }) space ({ 3 }) 2 ({ 4 }) to ({ }) the ({ }) left ({ 5 6 }) you ({ }) go ({ 7 }) bam ({ 8 }) 
+# Sentence pair (44) source length 1 target length 1 alignment score : 0.626623
+oh 
+NULL ({ }) whoops ({ 1 }) 
+# Sentence pair (45) source length 2 target length 2 alignment score : 0.0682252
+hop hop 
+NULL ({ }) bam ({ 1 }) bam ({ 2 }) 
+# Sentence pair (46) source length 5 target length 4 alignment score : 1.19314e-05
+desetinná čárka přijde sem 
+NULL ({ }) thats ({ }) where ({ 1 2 3 4 }) the ({ }) decimal ({ }) goes ({ }) 
+# Sentence pair (47) source length 5 target length 7 alignment score : 8.1035e-08
+je to tedy nula celá dvě tisíciny 
+NULL ({ }) thats ({ 1 2 }) point ({ 4 5 }) 0 ({ 3 }) 0 ({ 7 }) 2 ({ 6 }) 
+# Sentence pair (48) source length 3 target length 3 alignment score : 0.0158523
+to je klíč 
+NULL ({ }) this ({ 1 }) is ({ 2 }) key ({ 3 }) 
+# Sentence pair (49) source length 12 target length 12 alignment score : 2.12121e-11
+nula celá dvě desetiny procenta je stejné jako nula celá dvě tisíciny 
+NULL ({ }) point ({ 1 2 }) 2 ({ 3 4 }) percent ({ 5 }) is ({ 6 }) the ({ }) same ({ 7 }) thing ({ }) as ({ 8 }) point ({ 9 10 }) 0 ({ 12 }) 0 ({ }) 2 ({ 11 }) 
+# Sentence pair (50) source length 13 target length 12 alignment score : 2.76529e-15
+může vás to svádět k této chybě sám ji z nepozornosti dělám 
+NULL ({ }) this ({ }) can ({ }) always ({ }) trip ({ 1 }) you ({ }) up ({ }) and ({ }) ive ({ }) ive ({ 2 }) made ({ }) this ({ 3 }) careless ({ 4 }) mistake ({ 5 6 7 8 9 10 11 12 }) 
+# Sentence pair (51) source length 12 target length 7 alignment score : 4.15548e-09
+ale nebuďte smutní když ji někdy uděláte 
+NULL ({ }) all ({ 1 }) the ({ }) time ({ }) so ({ }) dont ({ }) feel ({ 2 }) bad ({ 3 4 5 }) if ({ }) you ({ }) ever ({ 6 7 }) do ({ }) it ({ }) 
+# Sentence pair (52) source length 9 target length 6 alignment score : 4.30159e-08
+vždycky ale zbystřete když uvidíte pohromadě 
+NULL ({ }) but ({ 2 }) just ({ }) always ({ }) pay ({ 3 4 5 6 }) carefull ({ 1 }) attention ({ }) to ({ }) your ({ }) decimal ({ }) 
+# Sentence pair (53) source length 7 target length 4 alignment score : 3.99876e-05
+desetinné číslo a procenta 
+NULL ({ }) and ({ 3 }) a ({ }) percentage ({ 4 }) at ({ 1 }) the ({ 2 }) same ({ }) time ({ }) 
+# Sentence pair (54) source length 11 target length 10 alignment score : 2.77236e-10
+teď když jsme přišli jsme na to jak napsat procenta 
+NULL ({ }) so ({ }) now ({ 1 }) that ({ }) weve ({ 6 }) figured ({ 2 3 4 5 }) out ({ 9 }) how ({ 8 }) to ({ }) write ({ }) this ({ 7 }) percentage ({ 10 }) 
+# Sentence pair (55) source length 12 target length 7 alignment score : 1.86798e-09
+jako desetinné číslo musíme jím vynásobit číslo 
+NULL ({ }) as ({ 1 }) the ({ }) decimal ({ }) we ({ 4 }) just ({ 5 }) have ({ 6 }) to ({ }) multiply ({ 2 }) it ({ }) times ({ }) the ({ }) number ({ 3 7 }) 
+# Sentence pair (56) source length 7 target length 4 alignment score : 0.000186948
+z něhož procenta počítáme 
+NULL ({ }) that ({ }) we ({ }) want ({ 2 4 }) take ({ }) the ({ }) percentage ({ 3 }) of ({ 1 }) 
+# Sentence pair (57) source length 9 target length 7 alignment score : 1.37007e-07
+tedy nula celá dvě tisíciny krát 7 
+NULL ({ }) so ({ 1 }) we ({ }) say ({ }) point ({ 2 3 }) 0 ({ }) 0 ({ 5 }) 2 ({ 4 }) times ({ 6 }) 7 ({ 7 }) 
+# Sentence pair (58) source length 5 target length 5 alignment score : 0.000155843
+to už je celkem jednoduché 
+NULL ({ }) well ({ }) this ({ 1 }) is ({ 3 }) pretty ({ 2 }) straightforward ({ 4 5 }) 
+# Sentence pair (59) source length 6 target length 5 alignment score : 0.00024933
+7 krát 2 je 14 
+NULL ({ }) 7 ({ 1 }) times ({ 2 }) 2 ({ }) is ({ 4 }) 14 ({ 3 5 }) right ({ }) 
+# Sentence pair (60) source length 12 target length 3 alignment score : 0.000149573
+kolik máme čísel 
+NULL ({ }) and ({ }) how ({ }) many ({ }) totals ({ 1 }) numbers ({ }) do ({ }) we ({ }) have ({ }) or ({ }) how ({ }) many ({ }) total ({ 2 3 }) 
+# Sentence pair (61) source length 8 target length 3 alignment score : 0.000655245
+za desetinnou čárkou 
+NULL ({ }) digits ({ 1 }) do ({ }) we ({ }) have ({ }) behind ({ 3 }) the ({ }) decimal ({ 2 }) point ({ }) 
+# Sentence pair (62) source length 2 target length 1 alignment score : 0.0769949
+počítejme 
+NULL ({ }) lets ({ 1 }) see ({ }) 
+# Sentence pair (63) source length 4 target length 3 alignment score : 0.000316287
+jeden dva tři 
+NULL ({ }) its ({ 1 }) 1 ({ 2 }) 2 ({ }) 3 ({ 3 }) 
+# Sentence pair (64) source length 11 target length 8 alignment score : 5.62758e-10
+musíme tedy mít tři čísla za desetinnou čárkou 
+NULL ({ }) so ({ }) we ({ 1 }) need ({ 2 3 4 5 }) 1 ({ }) 2 ({ }) 3 ({ }) digits ({ 6 }) behind ({ 8 }) the ({ }) decimal ({ 7 }) point ({ }) 
+# Sentence pair (65) source length 13 target length 14 alignment score : 1.04199e-12
+tedy nula celá dvě desetiny procenta ze 7 se rovná nula celá 14 tisícin 
+NULL ({ }) so ({ 1 }) point ({ 2 3 }) 2 ({ 4 5 }) percent ({ 6 }) of ({ 7 }) 7 ({ 8 }) is ({ }) equal ({ 9 10 }) to ({ }) point ({ 11 12 }) zero ({ 13 14 }) 1 ({ }) 4 ({ }) 
+# Sentence pair (66) source length 8 target length 6 alignment score : 1.32343e-06
+asi si říkáte že je to 
+NULL ({ }) and ({ }) youre ({ }) probably ({ 1 }) thinking ({ }) boy ({ 2 3 4 }) thats ({ 5 }) a ({ }) really ({ 6 }) 
+# Sentence pair (67) source length 3 target length 3 alignment score : 0.0183398
+opravdu malé číslo 
+NULL ({ }) really ({ 1 }) small ({ 2 }) number ({ 3 }) 
+# Sentence pair (68) source length 14 target length 14 alignment score : 9.0288e-14
+a to je správně protože nula celá dvě desetiny procenta pokud o tom přemýšlíme 
+NULL ({ }) and ({ }) and ({ 1 }) it ({ 2 }) it ({ 3 }) makes ({ }) sense ({ }) because ({ 4 5 }) point ({ 6 7 }) 2 ({ 8 9 }) percent ({ 10 }) thats ({ }) y ({ 12 13 14 }) if ({ 11 }) you ({ }) 
+# Sentence pair (69) source length 12 target length 5 alignment score : 5.4658e-06
+je ještě menší než 1 
+NULL ({ }) if ({ }) you ({ }) wanna ({ 2 }) think ({ }) about ({ }) it ({ }) thats ({ 1 }) smaller ({ 3 }) than ({ 4 }) even ({ 5 }) 1 ({ }) percent ({ }) 
+# Sentence pair (70) source length 7 target length 5 alignment score : 5.90429e-05
+tedy méně než jedna setina 
+NULL ({ }) so ({ 1 }) thats ({ }) even ({ }) smaller ({ 2 }) than ({ 3 }) 1 ({ 4 }) 100th ({ 5 }) 
+# Sentence pair (71) source length 13 target length 14 alignment score : 2.13794e-12
+a vlastně když nad tím dumáme nula celá dvě desetiny procenta je jedna pětsettina 
+NULL ({ }) and ({ 1 }) actually ({ 2 4 5 }) if ({ 3 }) you ({ }) think ({ 6 }) about ({ }) it ({ }) point ({ 7 8 }) 2 ({ 9 10 }) percent ({ 11 }) is ({ 12 }) 1 ({ 13 }) 500th ({ 14 }) 
+# Sentence pair (72) source length 12 target length 9 alignment score : 8.0756e-09
+a když to spočítáme pak jedna pětsettina ze 7 
+NULL ({ }) so ({ }) and ({ 1 }) if ({ 2 }) you ({ }) do ({ }) the ({ }) math ({ 3 4 5 }) 7 ({ }) 1 ({ 6 }) 500th ({ 7 }) of ({ 8 }) 7 ({ 9 }) 
+# Sentence pair (73) source length 7 target length 4 alignment score : 8.82033e-05
+bude právě tohle číslo 
+NULL ({ }) will ({ }) turn ({ 1 2 3 }) out ({ }) to ({ }) be ({ }) this ({ }) number ({ 4 }) 
+# Sentence pair (74) source length 8 target length 5 alignment score : 2.26942e-06
+je důležité si to zkontrolovat 
+NULL ({ }) and ({ }) thats ({ 1 }) thats ({ }) an ({ 2 }) important ({ 3 5 }) thing ({ 4 }) to ({ }) do ({ }) 
+# Sentence pair (75) source length 10 target length 7 alignment score : 2.20535e-07
+je vždy dobré udělat si zkoušku protože 
+NULL ({ }) is ({ 1 }) always ({ 2 }) good ({ }) to ({ }) do ({ }) a ({ }) reality ({ }) check ({ 6 }) because ({ 7 }) when ({ 3 4 5 }) 
+# Sentence pair (76) source length 10 target length 7 alignment score : 9.33147e-08
+když pracujete s desetinnými čísly a procenty 
+NULL ({ }) youre ({ }) going ({ 1 2 6 }) this ({ }) decimal ({ }) or ({ }) these ({ 3 }) ehm ({ 4 5 }) um ({ }) percent ({ }) problems ({ 7 }) 
+# Sentence pair (77) source length 15 target length 8 alignment score : 2.71042e-10
+je velmi snadné ztratit se v desetinných místech 
+NULL ({ }) its ({ 1 }) very ({ }) easy ({ }) to ({ }) uhm ({ 3 }) kind ({ 4 6 7 8 }) of ({ }) lose ({ 5 }) a ({ }) factor ({ 2 }) of ({ }) 10 ({ }) here ({ }) or ({ }) there ({ }) 
+# Sentence pair (78) source length 6 target length 4 alignment score : 3.31068e-05
+nebo vyrobit násobek deseti 
+NULL ({ }) or ({ 1 }) gain ({ 2 3 }) the ({ }) factor ({ 4 }) of ({ }) 10 ({ }) 
+# Sentence pair (79) source length 13 target length 5 alignment score : 8.42346e-07
+vždy si tedy udělejte zkoušku 
+NULL ({ }) so ({ }) always ({ 1 2 }) do ({ }) a ({ }) reality ({ 3 }) check ({ 5 }) to ({ }) see ({ }) if ({ }) your ({ 4 }) answer ({ }) makes ({ }) sense ({ }) 
+# Sentence pair (80) source length 8 target length 5 alignment score : 9.49004e-06
+teď vás zmatu ještě víc 
+NULL ({ }) so ({ }) now ({ 1 }) im ({ }) gonna ({ }) confuse ({ 2 }) you ({ }) even ({ }) further ({ 3 4 5 }) 
+# Sentence pair (81) source length 14 target length 10 alignment score : 1.25816e-13
+co když řeknu z jakého čísla je čtyři dvacet procent 
+NULL ({ }) what ({ }) if ({ }) i ({ }) were ({ 1 2 3 10 }) to ({ }) ask ({ 8 }) you ({ }) 4 ({ }) is ({ 7 }) 20 ({ 9 }) percent ({ }) of ({ 4 }) what ({ 5 }) number ({ 6 }) 
+# Sentence pair (82) source length 2 target length 3 alignment score : 0.000134271
+z jakého čísla 
+NULL ({ }) what ({ 1 2 }) number ({ 3 }) 
+# Sentence pair (83) source length 9 target length 3 alignment score : 3.18595e-05
+mnozí možná vyhrknou 
+NULL ({ }) so ({ }) lot ({ }) of ({ }) peoples ({ }) reflex ({ 1 2 3 }) would ({ }) might ({ }) just ({ }) be ({ }) 
+# Sentence pair (84) source length 6 target length 2 alignment score : 0.00793928
+vezmu 20 
+NULL ({ }) oh ({ }) let ({ }) me ({ 1 }) take ({ }) 20 ({ 2 }) percent ({ }) 
+# Sentence pair (85) source length 5 target length 6 alignment score : 2.93761e-06
+což bude nula celá dvacet setin 
+NULL ({ }) it ({ }) becomes ({ 1 2 5 }) point ({ 3 4 }) 2 ({ }) 0 ({ 6 }) 
+# Sentence pair (86) source length 5 target length 5 alignment score : 3.48472e-05
+a vynásobím to čtyři krát 
+NULL ({ }) and ({ 1 }) mutiply ({ 2 4 }) it ({ 3 }) times ({ 5 }) 4 ({ }) 
+# Sentence pair (87) source length 10 target length 5 alignment score : 8.86423e-05
+a to by byla chyba 
+NULL ({ }) and ({ 1 }) in ({ }) that ({ 2 }) case ({ }) again ({ }) you ({ }) you ({ }) may ({ 3 4 }) be ({ }) wrong ({ 5 }) 
+# Sentence pair (88) source length 4 target length 2 alignment score : 0.00993116
+protože přemýšlejme 
+NULL ({ }) cos ({ 1 }) think ({ 2 }) about ({ }) it ({ }) 
+# Sentence pair (89) source length 9 target length 8 alignment score : 9.97665e-06
+řekl jsem kolik je 20 ze 4 ne 
+NULL ({ }) im ({ 1 }) not ({ 8 }) saying ({ 2 }) what ({ 3 }) is ({ 4 }) 20 ({ 5 }) percent ({ }) of ({ 6 }) 4 ({ 7 }) 
+# Sentence pair (90) source length 10 target length 9 alignment score : 6.23655e-07
+řekl jsem že 20 z nějakého čísla je 4 
+NULL ({ }) im ({ 1 }) saying ({ 2 }) that ({ 3 }) 20 ({ 4 }) percent ({ }) of ({ 5 }) some ({ 6 }) number ({ 7 }) is ({ 8 }) 4 ({ 9 }) 
+# Sentence pair (91) source length 11 target length 6 alignment score : 2.17325e-07
+budeme se teď trochu věnovat algebře 
+NULL ({ }) so ({ }) now ({ }) were ({ }) gonna ({ }) be ({ }) doing ({ 1 }) a ({ }) little ({ 3 4 5 6 }) bit ({ }) of ({ }) algebra ({ 2 }) 
+# Sentence pair (92) source length 10 target length 10 alignment score : 7.02875e-11
+vsadím se že jste to v příkladech na procenta nečekali 
+NULL ({ }) i ({ }) bet ({ 1 }) you ({ }) didnt ({ }) expect ({ 2 3 4 }) that ({ 5 }) in ({ 6 }) the ({ }) percent ({ }) module ({ 7 8 9 10 }) 
+# Sentence pair (93) source length 6 target length 6 alignment score : 1.06261e-08
+řekněme že x je hledané číslo 
+NULL ({ }) so ({ }) let ({ 1 2 }) x ({ 3 }) equal ({ }) the ({ 4 }) number ({ 5 6 }) 
+# Sentence pair (94) source length 2 target length 2 alignment score : 0.00541488
+hledané číslo 
+NULL ({ }) the ({ }) number ({ 1 2 }) 
+# Sentence pair (95) source length 3 target length 3 alignment score : 0.000718309
+nebo toto číslo 
+NULL ({ }) or ({ 1 2 }) this ({ }) number ({ 3 }) 
+# Sentence pair (96) source length 5 target length 6 alignment score : 1.88553e-07
+ať x se rovná tomu číslu 
+NULL ({ }) let ({ 1 5 }) x ({ 2 }) equal ({ 3 4 }) that ({ }) number ({ 6 }) 
+# Sentence pair (97) source length 15 target length 10 alignment score : 2.9204e-09
+a zadání říká že 20 z x se rovná 4 
+NULL ({ }) and ({ 1 }) this ({ }) problem ({ }) says ({ 2 3 }) that ({ 4 }) 20 ({ }) percent ({ }) 20 ({ 5 }) percent ({ }) of ({ 6 }) x ({ 7 }) is ({ }) equal ({ 8 9 }) to ({ }) 4 ({ 10 }) 
+# Sentence pair (98) source length 11 target length 8 alignment score : 4.2232e-09
+myslím že v této podobě už to poznáváte 
+NULL ({ }) i ({ 2 }) think ({ 1 }) now ({ }) its ({ }) in ({ }) a ({ }) form ({ 3 }) that ({ 7 }) you ({ }) might ({ }) recognise ({ 4 5 6 8 }) 
+# Sentence pair (99) source length 12 target length 5 alignment score : 1.66472e-06
+jak zapíšeme 20 desetinným číslem 
+NULL ({ }) so ({ }) how ({ 1 2 }) do ({ }) you ({ }) write ({ 4 5 }) 20 ({ 3 }) percent ({ }) of ({ }) it ({ }) as ({ }) a ({ }) decimal ({ }) 
+# Sentence pair (100) source length 9 target length 9 alignment score : 1.66522e-11
+nula celá dvacet setin nebo nula celá dvě desetiny 
+NULL ({ }) well ({ }) thats ({ }) just ({ }) point ({ }) 2 ({ }) 0 ({ 4 }) or ({ 3 5 }) point ({ 1 2 6 7 }) 2 ({ 8 9 }) 
+# Sentence pair (101) source length 10 target length 7 alignment score : 2.06012e-07
+a to vynásobíme x abychom získali 4 
+NULL ({ }) and ({ 1 }) we ({ }) just ({ 3 }) multiply ({ }) it ({ 2 }) by ({ }) x ({ 4 }) to ({ }) get ({ }) four ({ 5 6 7 }) 
+# Sentence pair (102) source length 10 target length 9 alignment score : 6.3831e-07
+20 je to samé jako nula celá dvě desetiny 
+NULL ({ }) so ({ }) 20 ({ 1 }) percent ({ }) thats ({ 2 }) the ({ }) same ({ 4 }) thing ({ 3 }) as ({ 5 }) point ({ 6 7 }) 2 ({ 8 9 }) 
+# Sentence pair (103) source length 12 target length 13 alignment score : 3.35542e-10
+je to to samé jako nula celá dvacet setin ale tu poslení nulu 
+NULL ({ }) its ({ 1 }) the ({ }) same ({ 4 }) thing ({ 3 }) as ({ 5 }) point ({ 6 7 }) 2 ({ }) 0 ({ 9 }) but ({ 10 }) that ({ 2 }) last ({ 8 }) trailing ({ 11 12 13 }) 
+# Sentence pair (104) source length 4 target length 1 alignment score : 0.0708255
+nepotřebujeme 
+NULL ({ }) zero ({ }) doesnt ({ 1 }) mean ({ }) much ({ }) 
+# Sentence pair (105) source length 8 target length 9 alignment score : 2.69992e-08
+nula celá dvě desetiny krát x se rovná čtyřem 
+NULL ({ }) point ({ 1 2 }) 2 ({ 3 4 }) times ({ 5 }) x ({ 6 }) is ({ }) equal ({ 7 8 }) to ({ }) 4 ({ 9 }) 
+# Sentence pair (106) source length 9 target length 6 alignment score : 4.46662e-06
+a je tu jednoduchá lineární rovníce 
+NULL ({ }) and ({ 1 }) now ({ }) we ({ }) have ({ }) a ({ 2 }) level ({ 3 4 }) 1 ({ }) linear ({ 5 }) equation ({ 6 }) 
+# Sentence pair (107) source length 8 target length 6 alignment score : 3.69517e-07
+vsadím se že jste to nečekali 
+NULL ({ }) i ({ }) bet ({ 1 }) you ({ }) didnt ({ 5 }) expect ({ 3 4 6 }) to ({ 2 }) see ({ }) that ({ }) 
+# Sentence pair (108) source length 5 target length 3 alignment score : 4.5107e-05
+co s tím 
+NULL ({ }) so ({ }) what ({ }) do ({ }) we ({ }) do ({ 1 2 3 }) 
+# Sentence pair (109) source length 4 target length 2 alignment score : 0.0452734
+můžeme buď 
+NULL ({ }) we ({ }) we ({ }) can ({ 1 }) either ({ 2 }) 
+# Sentence pair (110) source length 9 target length 4 alignment score : 8.1671e-07
+jsou možné dva pohledy 
+NULL ({ }) oh ({ }) well ({ }) there ({ }) is ({ }) two ({ 1 2 3 4 }) ways ({ }) to ({ }) view ({ }) it ({ }) 
+# Sentence pair (111) source length 10 target length 7 alignment score : 1.1978e-08
+můžeme prostě vydělit obě strany této rovnice 
+NULL ({ }) you ({ }) can ({ 1 }) just ({ }) divide ({ }) the ({ }) both ({ 3 4 5 }) sides ({ 2 }) of ({ }) this ({ }) equation ({ 6 7 }) 
+# Sentence pair (112) source length 5 target length 3 alignment score : 0.0188683
+koeficientem u x 
+NULL ({ }) by ({ }) the ({ }) coefficient ({ 1 2 }) on ({ }) x ({ 3 }) 
+# Sentence pair (113) source length 14 target length 14 alignment score : 6.51492e-14
+pokud tedy dělíme nula celá dvěmi desetinami tady a nula celá dvěmi desetinami tady 
+NULL ({ }) so ({ 2 }) if ({ 1 }) you ({ }) do ({ 3 }) divide ({ 7 8 }) point ({ 4 5 }) 2 ({ }) here ({ 6 }) you ({ 9 }) divide ({ 13 14 }) by ({ }) point ({ 10 11 }) 2 ({ }) here ({ 12 }) 
+# Sentence pair (114) source length 12 target length 11 alignment score : 1.48931e-10
+vyjde že x se rovná 4 děleno nula celá dvěmi desetinami 
+NULL ({ }) so ({ }) you ({ }) get ({ 1 2 }) x ({ 3 }) is ({ }) equal ({ 4 5 }) to ({ }) 4 ({ 6 }) divided ({ 7 }) by ({ 10 11 }) point ({ 8 9 }) 2 ({ }) 
+# Sentence pair (115) source length 11 target length 10 alignment score : 5.48799e-08
+spočítejme tedy kolik je 4 děleno nula celá dvě desetiny 
+NULL ({ }) so ({ }) lets ({ }) figure ({ 1 2 }) out ({ }) what ({ 3 }) 4 ({ 5 }) divided ({ 6 }) by ({ }) point ({ 7 8 }) 2 ({ 9 10 }) is ({ 4 }) 
+# Sentence pair (116) source length 7 target length 5 alignment score : 2.78362e-06
+snad budeme mít dost místa 
+NULL ({ }) see ({ }) i ({ }) hope ({ }) i ({ }) have ({ }) enough ({ 1 2 3 4 }) space ({ 5 }) 
+# Sentence pair (117) source length 12 target length 12 alignment score : 1.88925e-12
+nula celá dvě desetiny se vejde do čtyř napíšeme sem desetinnou čárku 
+NULL ({ }) point ({ 1 2 }) 2 ({ 3 4 }) goes ({ 5 6 }) into ({ 7 }) 4 ({ }) im ({ }) gonna ({ 8 }) put ({ 9 10 }) a ({ }) decimal ({ 11 12 }) point ({ }) here ({ }) 
+# Sentence pair (118) source length 10 target length 4 alignment score : 3.27112e-06
+tady desetinnou čárku posuneme 
+NULL ({ }) and ({ }) the ({ }) way ({ }) we ({ }) do ({ }) these ({ 4 }) problems ({ }) we ({ }) move ({ 1 2 3 }) the ({ }) 
+# Sentence pair (119) source length 8 target length 4 alignment score : 8.52879e-07
+o jedno místo vpravo 
+NULL ({ }) decimal ({ }) point ({ }) here ({ }) 1 ({ }) over ({ }) to ({ }) the ({ }) right ({ 1 2 3 4 }) 
+# Sentence pair (120) source length 12 target length 9 alignment score : 7.9483e-12
+dostaneme 2 a i tady musíme posunout desetinnou čárku 
+NULL ({ }) we ({ }) just ({ }) get ({ 1 2 }) a ({ }) 2 ({ }) and ({ 3 }) we ({ }) can ({ 4 }) move ({ 5 6 7 8 9 }) the ({ }) decimal ({ }) point ({ }) 
+# Sentence pair (121) source length 5 target length 4 alignment score : 8.35339e-06
+o jedno místo vpravo 
+NULL ({ }) 1 ({ }) over ({ }) to ({ }) the ({ }) right ({ 1 2 3 4 }) 
+# Sentence pair (122) source length 12 target length 8 alignment score : 4.2011e-13
+platí že 02 se vejde do 4 tolikrát 
+NULL ({ }) so ({ 2 }) this ({ 1 }) point ({ }) 2 ({ }) goes ({ 3 4 5 }) into ({ 6 }) 4 ({ 7 }) the ({ }) same ({ 8 }) number ({ }) of ({ }) times ({ }) 
+# Sentence pair (123) source length 5 target length 4 alignment score : 7.76586e-05
+jako 2 do 40 
+NULL ({ }) that ({ 1 }) 2 ({ }) goes ({ }) into ({ 2 3 }) 40 ({ 4 }) 
+# Sentence pair (124) source length 4 target length 4 alignment score : 0.00681297
+a to je jednoduché 
+NULL ({ }) and ({ 1 }) this ({ 2 }) is ({ 3 }) easy ({ 4 }) 
+# Sentence pair (125) source length 7 target length 6 alignment score : 2.7353e-06
+kolikrát se vejde 2 do 40 
+NULL ({ }) 2 ({ }) goes ({ 2 3 }) into ({ 4 5 }) 40 ({ 6 }) how ({ }) many ({ 1 }) times ({ }) 
+# Sentence pair (126) source length 11 target length 5 alignment score : 2.95213e-10
+2 je ve čtyřech 2krát 
+NULL ({ }) well ({ 1 2 }) 2 ({ }) goes ({ }) into ({ 3 }) 4 ({ }) 2 ({ }) times ({ }) and ({ }) then ({ }) 2 ({ }) goes ({ 4 5 }) 
+# Sentence pair (127) source length 4 target length 8 alignment score : 2.72828e-14
+a do nuly se vejde 2 nula krát 
+NULL ({ }) to ({ 1 4 }) 0 ({ 5 }) 0 ({ 2 3 7 }) times ({ 6 8 }) 
+# Sentence pair (128) source length 7 target length 5 alignment score : 3.47306e-05
+2 je ve čtyřiceti 20krát 
+NULL ({ }) you ({ }) couldve ({ 1 2 }) done ({ 3 }) that ({ }) in ({ }) your ({ }) head ({ 4 5 }) 
+# Sentence pair (129) source length 6 target length 6 alignment score : 5.17518e-07
+2 je ve čtyřiceti 20 krát 
+NULL ({ }) 2 ({ }) into ({ 1 3 }) 40 ({ 4 }) is ({ 2 }) 20 ({ 5 }) times ({ 6 }) 
+# Sentence pair (130) source length 8 target length 9 alignment score : 1.73248e-06
+takže 4 děleno nula celá dvě desetiny je 20 
+NULL ({ }) so ({ 1 }) 4 ({ 2 }) divided ({ 3 }) by ({ }) point ({ 4 5 }) 2 ({ 6 7 }) is ({ 8 }) 20 ({ 9 }) 
+# Sentence pair (131) source length 10 target length 8 alignment score : 2.62187e-06
+odpověď tedy je 4 je 20 z dvaceti 
+NULL ({ }) so ({ 2 }) the ({ }) answer ({ 1 }) is ({ 3 }) 4 ({ 4 }) is ({ 5 }) 20 ({ 6 }) percent ({ }) of ({ 7 }) 20 ({ 8 }) 
+# Sentence pair (132) source length 5 target length 4 alignment score : 0.00374408
+a dává to smysl 
+NULL ({ }) and ({ 1 }) does ({ 2 }) that ({ 3 }) make ({ 4 }) sense ({ }) 
+# Sentence pair (133) source length 9 target length 7 alignment score : 2.86237e-08
+je víc způsobů jak o tom přemýšlet 
+NULL ({ }) well ({ }) theres ({ 2 }) a ({ 1 }) couple ({ 3 4 }) ways ({ 5 7 }) to ({ }) think ({ }) about ({ 6 }) it ({ }) 
+# Sentence pair (134) source length 5 target length 3 alignment score : 0.0188439
+20 je přesně 
+NULL ({ }) 20 ({ 1 }) percent ({ }) is ({ 2 }) roughly ({ 3 }) what ({ }) 
+# Sentence pair (135) source length 7 target length 5 alignment score : 5.48642e-05
+je to přesně jedna pětina 
+NULL ({ }) it ({ }) it ({ }) is ({ 1 }) exactly ({ 2 3 }) a ({ }) one ({ }) 5th ({ 4 5 }) 
+# Sentence pair (136) source length 7 target length 6 alignment score : 0.0010144
+a 4 krát 5 je 20 
+NULL ({ }) and ({ 1 }) right ({ }) 4 ({ 2 }) times ({ 3 }) 5 ({ 4 }) is ({ 5 }) 20 ({ 6 }) 
+# Sentence pair (137) source length 3 target length 2 alignment score : 0.0294291
+to souhlasí 
+NULL ({ }) that ({ 1 }) makes ({ 2 }) sense ({ }) 
+# Sentence pair (138) source length 10 target length 5 alignment score : 1.15167e-05
+pro jistotu můžeme udělat zkoušku 
+NULL ({ }) if ({ }) youre ({ }) still ({ 1 2 }) not ({ }) sure ({ }) we ({ }) can ({ 3 }) check ({ 4 5 }) the ({ }) problem ({ }) 
+# Sentence pair (139) source length 6 target length 6 alignment score : 3.57646e-06
+zjistíme kolik je 20 z dvaceti 
+NULL ({ }) lets ({ }) take ({ 1 2 3 }) 20 ({ 4 }) percent ({ }) of ({ 5 }) 20 ({ 6 }) 
+# Sentence pair (140) source length 12 target length 12 alignment score : 4.6e-10
+tedy 20 z dvaceti je jako nula celá dvě desetiny krát 20 
+NULL ({ }) so ({ 1 }) 20 ({ 2 }) percent ({ }) of ({ 3 }) 20 ({ 4 }) is ({ 5 }) equal ({ 6 }) to ({ }) point ({ 7 8 }) 2 ({ 9 10 }) times ({ 11 }) 20 ({ 12 }) 
+# Sentence pair (141) source length 11 target length 7 alignment score : 3.59732e-06
+a když to spočteme vyjde také 4 
+NULL ({ }) and ({ 1 }) if ({ 2 }) you ({ }) do ({ }) the ({ }) maths ({ 4 5 }) that ({ 3 }) also ({ 6 }) will ({ }) equal ({ }) 4 ({ 7 }) 
+# Sentence pair (142) source length 9 target length 8 alignment score : 1.05259e-09
+tak jsme se přesvědčili že výsledek je správně 
+NULL ({ }) so ({ }) you ({ }) made ({ 1 2 }) sure ({ }) you ({ }) got ({ 3 4 5 6 8 }) the ({ }) right ({ }) answer ({ 7 }) 
+# Sentence pair (143) source length 6 target length 4 alignment score : 5.59562e-06
+zkusme jiný podobný příklad 
+NULL ({ }) lets ({ }) do ({ }) another ({ }) one ({ }) like ({ 1 2 3 4 }) that ({ }) 
+# Sentence pair (144) source length 5 target length 3 alignment score : 0.011158
+vybírám čísla nahodile 
+NULL ({ }) eehmm ({ 1 }) im ({ }) picking ({ 2 }) numbers ({ }) randomly ({ 3 }) 
+# Sentence pair (145) source length 10 target length 6 alignment score : 6.34937e-05
+třeba 3 je 9 z kolika 
+NULL ({ }) lets ({ }) say ({ 1 }) 3 ({ 2 }) is ({ 3 }) mmm ({ }) hm ({ 6 }) 9 ({ 4 }) percent ({ }) of ({ 5 }) what ({ }) 
+# Sentence pair (146) source length 3 target length 3 alignment score : 0.00741074
+takže pokud x 
+NULL ({ }) so ({ 1 }) if ({ 2 }) x ({ 3 }) 
+# Sentence pair (147) source length 2 target length 1 alignment score : 0.204762
+znovu 
+NULL ({ }) once ({ 1 }) again ({ }) 
+# Sentence pair (148) source length 6 target length 4 alignment score : 0.000188967
+x se rovná číslu 
+NULL ({ }) lets ({ }) let ({ }) x ({ 1 }) equal ({ 2 3 }) the ({ }) number ({ 4 }) 
+# Sentence pair (149) source length 8 target length 5 alignment score : 7.63413e-06
+z něhož 3 je 9 
+NULL ({ }) the ({ }) number ({ 2 }) that ({ }) 3 ({ 3 }) is ({ 4 }) 9 ({ 5 }) percent ({ }) of ({ 1 }) 
+# Sentence pair (150) source length 7 target length 4 alignment score : 4.21571e-05
+nemusíte to takhle přepisovat 
+NULL ({ }) you ({ }) dont ({ 1 }) have ({ }) to ({ }) write ({ }) all ({ 3 4 }) that ({ 2 }) 
+# Sentence pair (151) source length 11 target length 8 alignment score : 7.34595e-08
+tedy vímeli že nula celá devět setin x 
+NULL ({ }) well ({ }) in ({ }) that ({ }) case ({ }) we ({ }) know ({ 1 2 }) that ({ 3 }) point ({ 4 5 }) 0 ({ 7 }) 9 ({ 6 }) x ({ 8 }) 
+# Sentence pair (152) source length 7 target length 8 alignment score : 2.13551e-09
+nula celá devět setin x je to samé 
+NULL ({ }) right ({ }) point ({ 1 2 }) 0 ({ 4 }) 9 ({ 3 5 }) thats ({ 6 7 }) the ({ }) same ({ 8 }) 
+# Sentence pair (153) source length 10 target length 7 alignment score : 7.34811e-06
+jako 9 z x se rovná 3 
+NULL ({ }) thing ({ }) as ({ 1 }) 9 ({ 2 }) percent ({ }) of ({ 3 }) x ({ 4 }) is ({ }) equal ({ 5 6 }) to ({ }) 3 ({ 7 }) 
+# Sentence pair (154) source length 12 target length 10 alignment score : 2.30806e-09
+neboli x se rovná 3 děleno nula celá devět setin 
+NULL ({ }) or ({ }) that ({ 1 }) x ({ 2 }) is ({ }) equal ({ 3 4 }) to ({ }) 3 ({ 5 }) divided ({ 6 }) by ({ }) point ({ 7 8 }) 0 ({ 10 }) 9 ({ 9 }) 
+# Sentence pair (155) source length 13 target length 3 alignment score : 3.24841e-07
+dělíme desetinným číslem 
+NULL ({ }) well ({ }) if ({ }) we ({ }) do ({ }) the ({ }) decimal ({ }) division ({ 1 2 3 }) point ({ }) 0 ({ }) 9 ({ }) goes ({ }) into ({ }) 3 ({ }) 
+# Sentence pair (156) source length 6 target length 4 alignment score : 1.49663e-05
+takže napíšeme desetinnou čárku 
+NULL ({ }) lets ({ 1 }) put ({ 2 }) a ({ }) decimal ({ 3 4 }) point ({ }) here ({ }) 
+# Sentence pair (157) source length 10 target length 4 alignment score : 1.96272e-06
+a několik potřebných nul 
+NULL ({ }) i ({ }) dont ({ }) know ({ }) how ({ }) many ({ }) 0s ({ 1 2 3 4 }) im ({ }) going ({ }) to ({ }) need ({ }) 
+# Sentence pair (158) source length 13 target length 8 alignment score : 8.76942e-12
+posunemeli tady desetinnou čárku o dvě místa vpravo 
+NULL ({ }) so ({ }) if ({ }) i ({ }) move ({ 2 }) this ({ }) decimal ({ 3 4 }) over ({ 5 6 7 }) to ({ }) the ({ }) right ({ 8 }) twice ({ }) then ({ }) ill ({ 1 }) 
+# Sentence pair (159) source length 8 target length 8 alignment score : 2.02423e-11
+musíme ji posunout o dvě místa i tady 
+NULL ({ }) move ({ }) this ({ }) decimal ({ }) over ({ 5 }) to ({ }) the ({ }) right ({ }) twice ({ 1 2 3 4 6 7 8 }) 
+# Sentence pair (160) source length 12 target length 6 alignment score : 3.0388e-09
+009 se vejde do 3 tolikrát 
+NULL ({ }) so ({ }) point ({ }) 0 ({ }) 9 ({ 1 }) goes ({ 2 3 }) into ({ 4 }) 3 ({ 5 }) the ({ }) same ({ 6 }) number ({ }) of ({ }) times ({ }) 
+# Sentence pair (161) source length 5 target length 4 alignment score : 0.000319675
+jako 9 do 300 
+NULL ({ }) that ({ 1 }) 9 ({ 2 }) goes ({ }) into ({ 3 }) 300 ({ 4 }) 
+# Sentence pair (162) source length 7 target length 6 alignment score : 1.1215e-05
+9 se vejde do 30 třikrát 
+NULL ({ }) so ({ }) 9 ({ 1 }) goes ({ 2 3 }) into ({ 4 }) 30 ({ 5 }) three ({ 6 }) times ({ }) 
+# Sentence pair (163) source length 5 target length 5 alignment score : 0.0041327
+3 krát 9 je 27 
+NULL ({ }) 3 ({ 1 }) times ({ 2 }) 9 ({ 3 }) is ({ 4 }) 27 ({ 5 }) 
+# Sentence pair (164) source length 8 target length 6 alignment score : 2.97902e-07
+myslím že už tu vidím vzor 
+NULL ({ }) i ({ }) think ({ 1 }) i ({ }) see ({ }) a ({ }) pattern ({ 2 }) here ({ }) already ({ 3 4 5 6 }) 
+# Sentence pair (165) source length 7 target length 7 alignment score : 4.8321e-05
+třicet tři 3 krát 9 je 27 
+NULL ({ }) 30 ({ 1 }) 3 ({ 2 }) 3 ({ 3 }) times ({ 4 }) 9 ({ 5 }) is ({ 6 }) 27 ({ 7 }) 
+# Sentence pair (166) source length 13 target length 4 alignment score : 6.63979e-07
+30 se bude opakovat 
+NULL ({ }) youre ({ }) just ({ }) gonna ({ }) keep ({ }) getting ({ }) 33 ({ }) 3 ({ }) 3 ({ }) 3 ({ }) the ({ }) 3s ({ 2 3 4 }) are ({ 1 }) just ({ }) 
+# Sentence pair (167) source length 4 target length 4 alignment score : 0.000153299
+stále bude vycházet 3 
+NULL ({ }) gonna ({ 1 }) go ({ }) on ({ }) forever ({ 2 3 4 }) 
+# Sentence pair (168) source length 15 target length 9 alignment score : 3.69065e-10
+vychází že 3 je 9 z můžete také napsat 
+NULL ({ }) so ({ }) turns ({ 1 7 8 }) out ({ 9 }) that ({ 2 }) 3 ({ 3 }) is ({ 4 }) 9 ({ 5 }) percent ({ }) of ({ 6 }) you ({ }) can ({ }) either ({ }) write ({ }) it ({ }) as ({ }) 
+# Sentence pair (169) source length 14 target length 6 alignment score : 2.29656e-10
+333 periodických taky víme že 03 
+NULL ({ }) 33 ({ }) point ({ }) 3 ({ }) repeating ({ 1 2 3 4 6 }) or ({ }) we ({ }) all ({ }) know ({ }) that ({ 5 }) point ({ }) 3 ({ }) forever ({ }) is ({ }) the ({ }) 
+# Sentence pair (170) source length 5 target length 4 alignment score : 4.28652e-06
+je vlastně jedna třetina 
+NULL ({ }) same ({ 1 }) thing ({ }) as ({ }) one ({ 2 3 }) third ({ 4 }) 
+# Sentence pair (171) source length 10 target length 10 alignment score : 2.75249e-08
+takže 3 je 9 z 33 celých a jedné třetiny 
+NULL ({ }) so ({ 1 }) 3 ({ 2 }) is ({ 3 }) 9 ({ 4 }) percent ({ }) of ({ 5 }) 33 ({ 6 7 }) and ({ 8 }) one ({ }) third ({ 9 10 }) 
+# Sentence pair (172) source length 9 target length 5 alignment score : 9.49631e-05
+i to je přijatelná odpověď 
+NULL ({ }) either ({ }) one ({ }) of ({ }) those ({ 1 }) would ({ 2 }) be ({ }) an ({ 3 }) acceptable ({ 4 }) answer ({ 5 }) 
+# Sentence pair (173) source length 8 target length 5 alignment score : 1.18465e-08
+často když zpracujeme s procenty 
+NULL ({ }) a ({ }) lot ({ }) times ({ }) when ({ }) youre ({ }) doing ({ }) percentages ({ 3 }) youre ({ 1 2 4 5 }) 
+# Sentence pair (174) source length 7 target length 4 alignment score : 4.26743e-05
+hledáme pouze přibližný výsledek 
+NULL ({ }) actually ({ }) just ({ }) trying ({ 1 }) to ({ }) get ({ }) a ({ }) ballpark ({ 2 3 4 }) 
+# Sentence pair (175) source length 12 target length 5 alignment score : 8.78636e-07
+preciznost tu není tak důležitá 
+NULL ({ }) so ({ }) ahm ({ 1 2 }) the ({ }) precision ({ 3 }) might ({ }) not ({ }) always ({ }) be ({ }) the ({ }) most ({ 4 5 }) important ({ }) thing ({ }) 
+# Sentence pair (176) source length 8 target length 6 alignment score : 7.49969e-07
+v tomhle případě ale precizní budeme 
+NULL ({ }) but ({ 4 }) in ({ 1 }) this ({ }) case ({ 2 }) we ({ }) will ({ 3 5 }) be ({ }) precise ({ 6 }) 
+# Sentence pair (177) source length 9 target length 6 alignment score : 4.65894e-06
+stejně jako v testech a tam 
+NULL ({ }) and ({ }) obviously ({ 1 }) on ({ }) tests ({ 2 3 4 }) and ({ 5 }) things ({ 6 }) you ({ }) need ({ }) to ({ }) 
+# Sentence pair (178) source length 4 target length 4 alignment score : 6.92761e-05
+kde je to potřeba 
+NULL ({ }) be ({ 1 }) precise ({ 4 }) as ({ }) well ({ 2 3 }) 
+# Sentence pair (179) source length 11 target length 10 alignment score : 2.24921e-10
+snad to nebylo moc rychlé a máte z výpočtu procent 
+NULL ({ }) hopefully ({ 1 }) i ({ }) didnt ({ 2 }) go ({ }) too ({ }) fast ({ 3 4 5 }) and ({ 6 }) you ({ }) have ({ 7 }) a ({ 8 }) good ({ 9 10 }) 
+# Sentence pair (180) source length 3 target length 2 alignment score : 0.0025713
+dobrý pocit 
+NULL ({ }) sense ({ 1 2 }) of ({ }) percentage ({ }) 
+# Sentence pair (181) source length 10 target length 6 alignment score : 1.88971e-06
+v příkladech s procenty je nutné 
+NULL ({ }) the ({ }) important ({ }) thing ({ }) for ({ }) these ({ 3 }) type ({ 1 2 }) of ({ }) problems ({ 4 }) is ({ 5 }) pay ({ 6 }) 
+# Sentence pair (182) source length 7 target length 5 alignment score : 1.38929e-05
+dávat pozor jak jsou napsány 
+NULL ({ }) attention ({ 1 2 }) to ({ }) how ({ 3 }) the ({ }) problem ({ }) is ({ }) written ({ 4 5 }) 
+# Sentence pair (183) source length 11 target length 7 alignment score : 4.94018e-07
+pokud je uvedeno najdi 10 ze 100 
+NULL ({ }) if ({ 1 }) it ({ 2 }) says ({ }) find ({ 3 4 }) you ({ }) know ({ }) 10 ({ 5 }) percent ({ }) of ({ 6 }) a ({ }) hundred ({ 7 }) 
+# Sentence pair (184) source length 2 target length 3 alignment score : 0.00968004
+je to jednoduché 
+NULL ({ }) thats ({ 1 2 }) easy ({ 3 }) 
+# Sentence pair (185) source length 12 target length 10 alignment score : 3.48238e-11
+jen převedeme 10 na desetinné číslo a násobíme ho stem 
+NULL ({ }) you ({ }) just ({ }) te ({ 1 }) convert ({ 2 }) 10 ({ 3 }) percent ({ }) to ({ 7 }) the ({ 6 }) decimal ({ }) multiply ({ 4 5 8 }) by ({ }) 100 ({ 9 10 }) 
+# Sentence pair (186) source length 14 target length 9 alignment score : 7.97676e-10
+pokud je ale zadání 100 je 10 z kolika 
+NULL ({ }) but ({ 3 }) if ({ 1 }) i ({ }) were ({ }) to ({ }) ask ({ 4 }) you ({ }) a ({ 2 }) 100 ({ 5 }) is ({ 6 }) 10 ({ 7 }) percent ({ }) of ({ 8 }) what ({ 9 }) 
+# Sentence pair (187) source length 9 target length 9 alignment score : 2.09192e-10
+je třeba si uvědomit že jde o jiný příklad 
+NULL ({ }) you ({ }) have ({ }) to ({ }) remember ({ 3 4 5 }) that ({ }) thats ({ 1 }) a ({ }) different ({ 2 6 7 }) problem ({ 8 9 }) 
+# Sentence pair (188) source length 15 target length 10 alignment score : 1.50025e-12
+z jakého čísla je sto 10 a když to spočítáme 
+NULL ({ }) in ({ }) which ({ }) case ({ }) a ({ }) 100 ({ }) is ({ 4 }) 10 ({ 6 }) percent ({ }) of ({ 1 }) and ({ 7 }) if ({ 8 }) you ({ }) did ({ 2 3 5 }) the ({ }) math ({ 9 10 }) 
+# Sentence pair (189) source length 5 target length 4 alignment score : 1.17109e-05
+bude to z tisíce 
+NULL ({ }) it ({ 1 }) would ({ 2 }) be ({ }) a ({ 3 }) 1000 ({ 4 }) 
+# Sentence pair (190) source length 15 target length 8 alignment score : 2.5577e-10
+možná jsem při počítání procent mluvil dost rychle 
+NULL ({ }) i ({ }) think ({ }) i ({ }) spoke ({ 5 }) very ({ }) quickly ({ 6 7 8 }) on ({ }) this ({ }) problem ({ }) on ({ }) this ({ }) ehhm ({ 1 2 3 4 }) on ({ }) this ({ }) module ({ }) 
+# Sentence pair (191) source length 8 target length 6 alignment score : 2.51553e-06
+ale doufám že vás to nezmátlo 
+NULL ({ }) so ({ }) i ({ 3 }) hope ({ 1 }) you ({ }) didnt ({ 4 5 }) get ({ }) too ({ 2 }) confused ({ 6 }) 
+# Sentence pair (192) source length 5 target length 4 alignment score : 9.29037e-06
+nahraju vám další příklady 
+NULL ({ }) but ({ }) i ({ }) will ({ }) record ({ 3 }) more ({ 1 2 4 }) 

@@ -1,0 +1,42 @@
+# Sentence pair (1) source length 12 target length 14 alignment score : 1.72027e-09
+Hi, ich bin <NAME> und ich arbeite bei Mole GP Technologies in der Kommunikationsabteilung. 
+NULL ({ }) Hi, ({ 1 }) I'm ({ 3 7 }) <NAME> ({ 4 8 }) working ({ 2 6 14 }) in ({ }) Mole ({ 9 }) GP ({ 10 }) Technologies ({ }) in ({ 12 }) a ({ 11 }) communication ({ 5 }) department. ({ 13 }) 
+# Sentence pair (2) source length 11 target length 10 alignment score : 3.77134e-07
+Hi, ich bin <NAME>, 16 und arbeite in der Marketingabteilung. 
+NULL ({ }) Hi, ({ 1 }) I'm ({ }) <NAME>, ({ 4 10 }) sixteen ({ 3 }) and ({ 6 }) I ({ 2 }) work ({ 7 }) in ({ }) the ({ 8 }) marketing ({ 5 }) department. ({ 9 }) 
+# Sentence pair (3) source length 11 target length 11 alignment score : 8.43449e-09
+Für diese Veranstaltung haben wir eine kleine Szene im Aufzug vorbereitet: 
+NULL ({ }) For ({ 1 }) this ({ 2 }) event ({ 8 11 }) we ({ 5 }) prepared ({ 3 4 }) a ({ 6 }) little ({ }) scene ({ 7 10 }) in ({ }) the ({ 9 }) lift: ({ }) 
+# Sentence pair (4) source length 20 target length 21 alignment score : 4.65299e-12
+Ja, ich bin zu spät, ich arbeite hier im obersten Stockwerk bei Mole GP Technologies; und Sie, wo gehen Sie hin? 
+NULL ({ }) Yes, ({ 1 }) I'm ({ 3 }) late, ({ 4 }) I ({ 2 6 }) work ({ 7 }) here ({ 5 }) on ({ 8 }) the ({ 9 }) top ({ 10 }) floor ({ }) at ({ 11 }) Mole ({ 13 }) GP ({ 14 }) Technologies ({ 12 }) and ({ 16 }) you, ({ 15 21 }) where ({ 17 }) are ({ 19 }) you ({ 20 }) going? ({ 18 }) 
+# Sentence pair (5) source length 3 target length 4 alignment score : 0.000800699
+Ich gehe nach Hause. 
+NULL ({ }) I'm ({ }) going ({ 1 2 }) home. ({ 3 4 }) 
+# Sentence pair (6) source length 5 target length 6 alignment score : 0.000219634
+Erzählen Sie mir von Ihrem Unternehmen. 
+NULL ({ }) Tell ({ 2 3 }) me ({ 1 }) about ({ 4 }) your ({ 5 }) company. ({ 6 }) 
+# Sentence pair (7) source length 26 target length 23 alignment score : 2.43563e-17
+Nun, Mole GP Technologies ist ein junges Unternehmen, das 2018 in Turin von einem Berufseinsteiger vom Gymnasium von Peano in Turin gegründet wurde. 
+NULL ({ }) Well, ({ 1 5 }) Mole ({ 2 }) GP ({ 3 }) Technologies ({ }) is ({ 8 }) a ({ 4 }) young ({ }) company ({ }) set ({ 7 }) up ({ 6 }) in ({ }) twenty ({ }) eighteen ({ 15 }) in ({ 20 }) Turin ({ 23 }) by ({ 9 22 }) young ({ 10 19 }) professional ({ 17 }) from ({ }) the ({ 11 }) secondary ({ 12 21 }) school ({ }) of ({ 13 18 }) Peano ({ }) in ({ }) Turin. ({ 14 16 }) 
+# Sentence pair (8) source length 17 target length 16 alignment score : 8.6435e-16
+Wir bieten eine ganze Reihe von Dienstleistungen wie zum Beispiel: Datenbank... Datenbankmanagement, Software Design und Grafikdesign. 
+NULL ({ }) We ({ 2 8 9 10 11 12 }) can ({ }) offer ({ 4 }) a ({ 3 }) full ({ 13 }) range ({ }) of ({ 6 }) services ({ 7 }) like: ({ }) database... ({ }) database ({ }) management, ({ }) software ({ }) design ({ }) and ({ 15 }) graphic ({ 1 }) design. ({ 5 14 16 }) 
+# Sentence pair (9) source length 11 target length 11 alignment score : 1.79824e-06
+Darüber hinaus können wir auch Marken auf Notizbücher und Stifte drucken. 
+NULL ({ }) And ({ 1 }) more ({ 2 }) even ({ 11 }) we ({ 4 }) can ({ 3 }) print ({ 8 }) brands ({ 5 10 }) on ({ }) notepads ({ 7 }) and ({ 9 }) pen. ({ 6 }) 
+# Sentence pair (10) source length 7 target length 8 alignment score : 0.000154138
+Oh, OK, Sie sind also ein italienisches Unternehmen? 
+NULL ({ }) Oh, ({ 1 }) OK, ({ 2 }) so ({ 5 }) you ({ 3 }) are ({ 4 }) Italian ({ 6 }) company? ({ 7 8 }) 
+# Sentence pair (11) source length 32 target length 29 alignment score : 6.60097e-29
+Ja, wir... mit unserer Hilfe können wir Ihrem Unternehmen bei der Entwicklung helfen... und wir können Ihre Unternehmensleistung verbessern; durch unseren internationalen Hintergrund können wir in ganz Europa arbeiten. 
+NULL ({ 10 }) Yes, ({ 1 }) we, ({ 3 }) we... ({ }) with ({ }) our ({ 4 }) help ({ 5 }) we ({ }) can ({ 13 }) help ({ }) your ({ 27 }) company ({ 28 }) with ({ 2 }) the ({ 26 }) development ({ }) and ({ 14 }) with... ({ 22 }) we ({ 7 15 25 }) can ({ 6 24 }) improve ({ 19 20 21 }) your ({ 8 }) company ({ 9 }) performances ({ 29 }) given ({ }) our ({ }) international ({ 12 }) background ({ }) we ({ 17 }) can ({ 16 }) work ({ 11 }) all ({ 18 }) over ({ }) Europe. ({ 23 }) 
+# Sentence pair (12) source length 12 target length 11 alignment score : 8.61733e-07
+Oh, OK, wenn ich also Hilfe brauche, können Sie mir helfen? 
+NULL ({ }) Oh, ({ 1 }) OK, ({ 2 }) so ({ 5 }) if ({ 11 }) I ({ 4 }) need ({ 3 }) a ({ }) help ({ }) you ({ 9 }) can ({ 8 }) help ({ 6 }) me? ({ 7 10 }) 
+# Sentence pair (13) source length 4 target length 5 alignment score : 1.62571e-05
+Ja, ja... so ist es. 
+NULL ({ }) Yeah, ({ 1 2 3 5 }) Yeah...Yes, ({ }) just ({ 4 }) this. ({ }) 
+# Sentence pair (14) source length 1 target length 1 alignment score : 0.639534
+Danke. 
+NULL ({ }) Thanks. ({ 1 }) 
