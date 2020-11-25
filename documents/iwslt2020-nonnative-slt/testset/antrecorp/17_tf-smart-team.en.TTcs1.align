@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 20 target length 22 alignment score : 8.0169e-21
+Dobrý den, jmenuji se <NAME> a jsem výkonný ředitel společnosti Smart Team z Vysoké školy ekonomické Mariy Teiulenu v Pitești v Rumunsku. 
+NULL ({ }) Hello, ({ 12 }) my ({ }) name ({ 14 }) is ({ 13 }) <NAME> ({ 3 5 7 8 9 10 11 }) and ({ 6 }) I ({ 20 22 }) am ({ 4 }) the ({ 19 21 }) CEO ({ }) of ({ }) Smart ({ 15 }) Team ({ 17 }) from ({ }) Maria ({ }) Teiulenu ({ 18 }) Economic ({ 16 }) College, ({ 2 }) Pitesti, ({ 1 }) Romania. ({ }) 
+# Sentence pair (2) source length 33 target length 24 alignment score : 9.80253e-20
+Záměrem naší firmy je poskytovat agroturistické služby v turistických oblastech Rumunska a podporovat turistický potenciál tak, abychom byli jedničkou na trhu v této oblasti. 
+NULL ({ }) The ({ }) object ({ 4 5 }) of ({ }) our ({ }) firm ({ }) is ({ }) to ({ }) provide ({ 21 }) the ({ }) agrotourist ({ }) services ({ 1 }) in ({ }) the ({ 8 22 }) touristic ({ 23 }) areas ({ 13 }) of ({ }) Romania, ({ 11 }) and ({ 12 }) to ({ 2 }) promote ({ 24 }) the ({ }) tourist ({ 3 9 }) potential, ({ 10 14 }) in ({ }) order ({ }) to ({ }) be ({ 19 }) the ({ }) best ({ 20 }) in ({ }) this ({ 15 }) business ({ 6 16 17 18 }) field. ({ 7 }) 
+# Sentence pair (3) source length 23 target length 14 alignment score : 1.03772e-13
+Po analýze trhu pro zimní sezónu 2019 jsme pro vás vytvořili nabídku, které neodoláte. 
+NULL ({ }) After ({ }) analyzing ({ 12 }) the ({ }) market ({ 11 }) for ({ }) the ({ }) winter ({ }) of ({ }) two ({ }) thousand ({ 10 }) nineteen, ({ 8 }) we ({ }) created ({ 14 }) for ({ }) you ({ }) a ({ }) special ({ }) offer ({ }) that ({ }) you ({ }) can ({ 13 }) not ({ 1 3 5 7 }) resist. ({ 2 4 6 9 }) 
+# Sentence pair (4) source length 7 target length 6 alignment score : 0.000397413
+Balíček jsme nazvali "Objevte Drákulovu zemi". 
+NULL ({ }) The ({ }) package ({ 1 }) is ({ }) called ({ 4 }) "Discover ({ 2 5 }) Dracula's ({ 3 }) Land." ({ 6 }) 
+# Sentence pair (5) source length 14 target length 13 alignment score : 2.50279e-12
+Nabízí báječné zážitky v městě Bran, v Poiana Brašov, kde se narodil Drákula. 
+NULL ({ }) It's ({ }) an ({ }) amazing ({ }) experience ({ }) in ({ }) Bran, ({ }) Poiana ({ 11 }) Brasov, ({ 10 12 }) the ({ 4 7 }) city ({ 8 }) where ({ 13 }) Dracula ({ 9 }) was ({ }) born. ({ 1 2 3 5 6 }) 
+# Sentence pair (6) source length 31 target length 20 alignment score : 4.85857e-21
+Nabízíme vám tři neuvěřitelné dny, během nichž můžete odpočívat, bavit se, navštívit okolí, fotit a získat vzpomínky na celý život. 
+NULL ({ }) We ({ }) offer ({ }) to ({ }) you ({ }) three ({ 5 }) unbelievable ({ }) three ({ }) unbelievable ({ }) days ({ }) in ({ }) which ({ 7 }) you ({ }) can ({ }) relax, ({ 1 }) have ({ }) fun, ({ }) visit ({ 4 }) the ({ }) surroundings, ({ }) take ({ }) pictures ({ 9 }) and ({ 15 }) make ({ 8 }) memories ({ 3 }) that ({ 6 }) will ({ }) last ({ 2 }) for ({ }) a ({ }) life ({ 14 20 }) time. ({ 10 11 12 13 16 17 18 19 }) 
+# Sentence pair (7) source length 28 target length 14 alignment score : 9.71926e-14
+První den začíná návštěvou známého hradu Bran, či "hradu upíra Drákuly", místa plného záhad. 
+NULL ({ }) In ({ }) the ({ }) first ({ }) day, ({ }) you ({ }) will ({ 2 }) start ({ 3 }) your ({ }) journey ({ 4 }) with ({ }) a ({ }) visit ({ }) a ({ }) the ({ }) well-known ({ }) Bran ({ 1 }) Castle, ({ 14 }) or ({ }) the ({ }) "Castle ({ 6 }) of ({ }) Vampire ({ 5 }) Dracula," ({ 7 8 9 10 11 12 }) a ({ }) place ({ }) full ({ 13 }) of ({ }) mysteries. ({ }) 
+# Sentence pair (8) source length 30 target length 24 alignment score : 1.56593e-20
+Druhý den si užijete s přáteli nebo s rodinou návštěvu Dino parku, jediného dinosauřího parku v Rumunsku a největšího takového parku v jihovýchodní Evropě. 
+NULL ({ }) On ({ }) the ({ }) second ({ 4 }) day ({ }) you ({ }) will ({ 2 }) enjoy ({ 3 }) time ({ }) with ({ }) your ({ }) friends ({ 1 }) or ({ }) family, ({ 8 }) visiting ({ }) Dino ({ 13 }) Park, ({ }) the ({ }) only ({ 12 }) dinosaurs ({ 24 }) theme ({ 6 7 9 10 11 }) park ({ 14 }) in ({ }) Romania ({ 5 }) and ({ 18 }) the ({ }) biggest ({ 19 }) in ({ }) the ({ 16 22 }) Southeastern ({ 17 20 21 23 }) Europe. ({ 15 }) 
+# Sentence pair (9) source length 35 target length 23 alignment score : 8.97414e-25
+Dalším cílem bude objevování jednoho z nádherných výtvorů přírody, "Kaňonu sedmi schodů", který tvoří sedm vodopádů, z nichž nejvyšší měří třicet pět metrů. 
+NULL ({ }) Your ({ }) next ({ }) objective ({ 2 }) will ({ }) be ({ }) to ({ }) discover ({ 3 }) one ({ }) of ({ }) the ({ }) beautiful ({ 4 }) creations ({ }) of ({ }) the ({ }) nature, ({ 1 }) "The ({ }) Canyon ({ }) of ({ }) The ({ }) Seven ({ 5 15 16 }) Stairs," ({ }) which ({ 7 18 }) is ({ 6 17 }) composed ({ 9 20 23 }) by ({ 10 11 12 13 21 22 }) seven ({ 14 }) waterfalls, ({ }) the ({ }) biggest ({ }) one ({ }) being ({ }) thirty ({ 8 }) five ({ }) meters ({ }) tall. ({ 19 }) 
+# Sentence pair (10) source length 25 target length 19 alignment score : 2.0867e-16
+Poslední den budete mít dostatek času k tomu, abyste si užili dvanáct sjezdovek, protože vám poskytneme zdarma denní permanentku. 
+NULL ({ }) In ({ 16 }) the ({ }) last ({ 15 }) day ({ 11 12 13 14 }) you ({ }) will ({ 2 }) have ({ 3 }) enough ({ 1 }) time ({ }) to ({ }) enjoy ({ 10 }) our ({ }) twelve ({ 8 }) ski ({ }) slopes, ({ }) because ({ 4 }) we ({ }) offer ({ }) you ({ 9 }) a ({ }) free... ({ 17 18 }) free ({ 19 }) ski ({ 7 }) day ({ 6 }) pass. ({ 5 }) 
+# Sentence pair (11) source length 17 target length 14 alignment score : 1.06792e-18
+A jak lépe byste mohli zakončit svůj výlet než speciální lekcí fotografie v Karpatech? 
+NULL ({ }) What ({ }) a ({ }) nicer ({ 5 14 }) way ({ 6 7 8 9 10 11 12 }) to ({ }) end ({ 2 }) your ({ }) trip ({ 4 }) than ({ }) a ({ }) special ({ }) photo ({ 3 }) session ({ 1 }) of ({ }) the ({ 13 }) Carpathian ({ }) Mountains? ({ }) 
+# Sentence pair (12) source length 29 target length 29 alignment score : 6.02425e-69
+Doufáme, že jsme vzbudili vaši zvědavost, abyste zjistili víc o naší nabídce a službách, a nemůžeme se dočkat, až se s vámi setkáme u svého stánku číslo padesát osm. 
+NULL ({ 20 }) We ({ }) hope ({ 12 14 }) we ({ }) made ({ }) you ({ }) curious ({ 1 }) to ({ 11 }) find ({ 18 }) out ({ }) more ({ 2 }) about ({ }) our ({ }) offers ({ 16 }) and ({ 13 15 }) services, ({ 17 }) so ({ 19 29 }) we ({ 3 }) can't ({ 10 }) wait ({ }) to ({ }) see.. ({ 21 }) see ({ }) you ({ 7 }) at ({ }) our ({ }) stand, ({ 5 6 23 24 25 26 27 }) number ({ 4 8 22 }) fifty ({ 28 }) eight. ({ 9 }) 

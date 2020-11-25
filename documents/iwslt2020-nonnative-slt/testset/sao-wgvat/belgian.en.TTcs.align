@@ -1,0 +1,411 @@
+# Sentence pair (1) source length 19 target length 13 alignment score : 6.02309e-15
+Takže bychom rádi pokračovali. Laskavě žádám belgický účetní dvůr, aby přednesl svou prezentaci. 
+NULL ({ }) So, ({ 1 }) we ({ }) would ({ }) like ({ }) to ({ }) continue ({ 4 }) and ({ }) I ({ }) kindly ({ 2 3 }) ask ({ }) the ({ }) Belgian ({ }) court ({ 5 6 7 8 9 10 }) of ({ }) auditors ({ 11 }) to ({ }) present ({ 12 }) the ({ }) presentation. ({ 13 }) 
+# Sentence pair (2) source length 9 target length 6 alignment score : 1.19576e-07
+Dobře, tímto představuji náš aktuální stav. 
+NULL ({ }) Ok, ({ 1 }) so ({ }) hereby ({ 2 }) I ({ }) present ({ }) our ({ }) state ({ }) of ({ }) play. ({ 3 4 5 6 }) 
+# Sentence pair (3) source length 13 target length 10 alignment score : 4.61874e-14
+Máme dva vnitrostátní zákony, abychom evropskou regulaci udělali dvě směrnice. 
+NULL ({ }) We ({ }) have ({ }) two ({ 2 }) national ({ }) laws ({ 4 5 6 7 }) in ({ }) order ({ }) to ({ }) european ({ 8 }) regulation ({ }) so ({ }) two ({ }) directives. ({ 1 3 9 10 }) 
+# Sentence pair (4) source length 7 target length 7 alignment score : 0.000568778
+Jeden je o papírových a digitálních publikacích. 
+NULL ({ }) One ({ 1 }) is ({ 2 }) about ({ 3 }) paper ({ 4 }) and ({ 5 }) digital ({ 6 }) publications. ({ 7 }) 
+# Sentence pair (5) source length 6 target length 4 alignment score : 0.000371192
+Nyní mají stejnou sazbu. 
+NULL ({ }) They ({ 1 }) have ({ }) the ({ }) same ({ 2 }) rate ({ 3 }) now. ({ 4 }) 
+# Sentence pair (6) source length 17 target length 16 alignment score : 4.37778e-22
+A za jistých okolností je to nulová sazba, ale za jiných okolností je to šest procent. 
+NULL ({ }) And ({ 1 }) on ({ }) a ({ }) certain ({ }) circumstances ({ }) it ({ 6 }) is ({ 5 }) zero ({ }) rate ({ }) and ({ }) under ({ }) other ({ 9 }) circumstances ({ 2 10 }) it ({ 14 }) is ({ 13 }) six ({ 3 7 11 15 }) percentage. ({ 4 8 12 16 }) 
+# Sentence pair (7) source length 27 target length 17 alignment score : 4.53063e-17
+V případě pronájmu nemovitostí jsme přijali ...možnost pronájmu nemovitostí ... a povinnou DPH u krátkodobého pronájmu nemovitosti. 
+NULL ({ }) For ({ }) real ({ }) estate ({ 2 }) rental, ({ 1 4 }) we ({ 5 }) have ({ }) adopted ({ 6 }) a ({ }) fat ({ }) option ({ 3 }) for ({ }) renting ({ 7 8 9 }) off ({ }) properties ({ 10 }) of ({ }) their ({ }) nature ({ }) and ({ 11 }) mandatory ({ 12 }) VAT ({ 13 }) for ({ }) short ({ }) term ({ }) rental ({ 14 }) of ({ }) a ({ }) property. ({ 15 16 17 }) 
+# Sentence pair (8) source length 6 target length 5 alignment score : 0.00519878
+Pak jsme provedli dva audity. 
+NULL ({ }) Then ({ 1 }) we ({ 2 }) have ({ }) executed ({ 3 }) two ({ 4 }) audits. ({ 5 }) 
+# Sentence pair (9) source length 19 target length 17 alignment score : 1.58602e-21
+Jeden se týká ... , co už jsme zde několikrát slyšeli, takže ohledně něj budu velmi stručný. 
+NULL ({ }) One ({ 1 }) is ({ }) about ({ }) MOS ({ 2 }) which ({ }) we ({ 8 }) have ({ }) heard ({ 6 }) already ({ 7 9 }) several ({ 3 10 }) times, ({ 4 5 11 }) so ({ 12 }) I ({ }) will ({ }) be ({ }) very ({ 16 }) brief ({ 13 14 15 17 }) about ({ }) it. ({ }) 
+# Sentence pair (10) source length 10 target length 6 alignment score : 4.87215e-07
+Druhý se týká systému registračních pokladen. 
+NULL ({ }) Another ({ }) one ({ }) is ({ }) for ({ }) a ({ }) registered ({ 2 }) cas ({ 1 3 }) cash ({ 4 }) register ({ 5 }) system. ({ 6 }) 
+# Sentence pair (11) source length 9 target length 8 alignment score : 1.48887e-05
+A pak máme také dva nové čtyři trendy. 
+NULL ({ }) And ({ 1 }) then ({ 2 }) we ({ }) have ({ 3 }) also ({ 4 }) two ({ 5 }) new ({ 6 }) four ({ 7 }) trends. ({ 8 }) 
+# Sentence pair (12) source length 14 target length 12 alignment score : 2.99744e-13
+Náš audit o MOS... tedy ještě není dokončen a není ani zveřejněn. 
+NULL ({ }) So, ({ }) our ({ 1 }) audit ({ 2 }) about ({ 3 }) MOS ({ 4 }) is ({ }) not ({ 7 }) finished, ({ 5 9 }) yet ({ 6 }) it ({ }) is ({ }) not ({ }) already ({ }) published. ({ 8 10 11 12 }) 
+# Sentence pair (13) source length 9 target length 9 alignment score : 1.31322e-07
+Tudíž všechny závěry a doporučení jsou tedy pouze předběžné. 
+NULL ({ }) A ({ }) so, ({ 1 }) all ({ 2 }) conclusions ({ 3 }) and ({ 4 }) recommendations ({ 5 }) are ({ 6 }) just ({ }) preliminary. ({ 7 8 9 }) 
+# Sentence pair (14) source length 12 target length 12 alignment score : 1.2492e-13
+Ale jsme si téměř jisti, že k žádným velkým změnám již nedojde. 
+NULL ({ }) But ({ 1 }) we ({ 2 }) are ({ }) very ({ }) confident ({ }) that ({ 6 }) there ({ 7 }) won't ({ 3 5 }) be ({ }) any ({ 8 }) big ({ 4 9 }) changes. ({ 10 11 12 }) 
+# Sentence pair (15) source length 2 target length 1 alignment score : 0.340292
+Hmmm. 
+NULL ({ }) M ({ }) m. ({ 1 }) 
+# Sentence pair (16) source length 16 target length 14 alignment score : 4.30765e-14
+Naše závěry jsou v podstatě shodné s tím, co už jsme zde dnes slyšeli. 
+NULL ({ }) In ({ 1 }) our ({ 4 }) conclusions, ({ 2 5 6 }) they ({ }) are ({ 3 }) very ({ }) much ({ }) the ({ }) same ({ 7 }) as ({ 8 }) what ({ 9 }) we ({ 11 }) have ({ }) already ({ 10 }) heard ({ 12 }) today. ({ 13 14 }) 
+# Sentence pair (17) source length 24 target length 24 alignment score : 8.035e-24
+Ale pokud jde o nás, tak jen poukážu na některé věci, které jsou odlišné, ale které jsou dle mého názoru pro Belgii víceméně specifické. 
+NULL ({ }) But ({ 1 }) for ({ }) us, ({ 2 3 4 5 6 }) I ({ }) just ({ 7 }) will ({ }) point ({ 8 }) out ({ 9 }) some ({ 10 }) things ({ 11 12 }) that ({ }) are ({ 13 }) different, ({ 14 }) but ({ 15 }) which ({ 16 }) are ({ 17 }) more ({ }) or ({ }) less ({ }) specific ({ 18 19 20 }) for ({ 21 }) Belgium, ({ }) I ({ }) think. ({ 22 23 24 }) 
+# Sentence pair (18) source length 39 target length 29 alignment score : 1.03298e-31
+V současné době máme ve správě jen omezený počet zaměstnanců, protože jsme více méně příjemcem na rozdíl od MSID, který převádí peníze, a značně závisíme na ostatních členských státech. 
+NULL ({ }) We ({ }) have ({ }) in ({ }) our ({ }) administration ({ }) just ({ 7 }) limited ({ 1 }) staff ({ 2 8 }) for ({ }) the ({ }) moment, ({ 3 4 5 6 9 10 }) because ({ 11 }) we ({ 12 }) are ({ }) more ({ 13 }) or ({ }) less ({ 14 }) a ({ }) or ({ }) a ({ }) receiver ({ 21 }) than ({ }) a ({ }) an ({ }) MSID ({ }) that ({ }) transfers ({ 15 }) money, ({ }) and ({ 23 }) we ({ }) rely ({ 22 }) very ({ }) much ({ 24 25 }) on ({ 26 }) on ({ 16 }) the ({ }) other ({ 17 }) member ({ 18 27 }) states. ({ 19 20 28 29 }) 
+# Sentence pair (19) source length 17 target length 12 alignment score : 5.58222e-12
+Ale v budoucnu, kdy se MOS rozšíří nejvíce, bude zapotřebí více zaměstnanců. 
+NULL ({ }) But ({ 1 }) in ({ 2 }) the ({ }) future ({ }) when ({ 4 }) the ({ }) MOS ({ 5 }) will ({ }) be ({ }) extended ({ 10 }) there ({ }) will ({ 9 }) be ({ }) need ({ 3 6 }) for ({ }) more ({ 11 }) staff. ({ 7 8 12 }) 
+# Sentence pair (20) source length 12 target length 10 alignment score : 5.8828e-11
+A ti by měli být nyní vyškoleni a známi dopředu. 
+NULL ({ }) And ({ 1 }) that ({ }) staff ({ 2 }) should ({ 3 }) be ({ }) already ({ }) be ({ }) trained ({ 4 5 7 }) now ({ 6 }) and ({ 8 }) foreseen ({ 9 }) now. ({ 10 }) 
+# Sentence pair (21) source length 23 target length 21 alignment score : 1.28822e-25
+Další obecný závěr, ke kterému jsme dospěli, ale který už zde také zazněl, je, že došlo ke změnám v kontrolních strategiích. 
+NULL ({ }) Another ({ 1 }) general ({ 2 3 4 }) conclusion ({ 5 }) we ({ 6 }) had ({ }) was ({ }) it, ({ 7 }) but ({ 8 }) which ({ 9 }) we ({ }) already ({ 10 }) heard ({ 11 }) more ({ }) or ({ }) less ({ }) is ({ }) that ({ 15 }) there's ({ 12 13 14 16 17 18 20 }) a ({ }) change ({ 19 }) of ({ }) control ({ }) policy. ({ 21 }) 
+# Sentence pair (22) source length 10 target length 8 alignment score : 9.8917e-09
+Co se musí stát, je nový směr myšlení. 
+NULL ({ }) Which ({ }) has ({ 2 }) to ({ }) take ({ 3 4 }) place ({ }) it's ({ 5 }) new ({ 6 }) state ({ }) of ({ }) mind. ({ 1 7 8 }) 
+# Sentence pair (23) source length 19 target length 16 alignment score : 2.02465e-13
+Ale naše správa silně věří v další MSID, protože když se podíváme na závěry jako MSCON... 
+NULL ({ }) But ({ 1 }) our ({ 2 }) administration ({ 3 }) is ({ }) very ({ }) confident ({ 4 5 }) in ({ 6 }) the ({ }) other ({ 7 }) MSID's, ({ 8 }) because ({ 9 }) when ({ 10 }) we ({ }) look ({ 12 }) at ({ 11 }) the ({ 13 }) conclusions ({ 14 }) as ({ 15 }) MSCON. ({ 16 }) 
+# Sentence pair (24) source length 6 target length 6 alignment score : 4.49885e-08
+Jen přeskočte z jednoho na druhé. 
+NULL ({ }) Just ({ 1 3 }) jump ({ 2 }) from ({ 4 }) one ({ }) to ({ 5 }) another. ({ 6 }) 
+# Sentence pair (25) source length 9 target length 9 alignment score : 2.59947e-07
+Tak vidíme, že je zde velmi špatná kontrolní strategie. 
+NULL ({ }) We ({ 1 }) see ({ 2 }) that ({ 3 }) there ({ 5 }) is ({ 4 }) very ({ 6 }) poor ({ 7 }) control ({ 8 }) policy. ({ 9 }) 
+# Sentence pair (26) source length 13 target length 10 alignment score : 3.20833e-15
+Proto silně věříme, že každý MSID peníze pošle nebo převede. 
+NULL ({ }) So ({ }) we ({ }) are ({ }) very ({ }) confident ({ }) every ({ }) MSID ({ 2 }) will ({ }) send ({ }) or ({ }) transfer ({ 4 }) the ({ }) money. ({ 1 3 5 6 7 8 9 10 }) 
+# Sentence pair (27) source length 5 target length 4 alignment score : 0.000603664
+To je na nás. 
+NULL ({ }) That ({ }) is ({ 2 }) due ({ 3 }) to ({ }) us. ({ 1 4 }) 
+# Sentence pair (28) source length 21 target length 17 alignment score : 4.18591e-16
+Nicméně, vyzdvihli jsme, že je důležité pokročit nějak v oblasti kontrolní strategie, a sice vytvořením profilů rizik. 
+NULL ({ }) Nevertheless, ({ 1 3 }) we ({ }) pointed ({ 2 }) out ({ }) that ({ 4 }) it ({ }) was ({ }) important ({ 5 }) to ({ }) make ({ }) progress ({ 6 7 8 }) in ({ 9 }) some ({ }) way ({ 10 }) of ({ }) control ({ 11 }) policy ({ 12 }) by ({ 13 }) making ({ 14 }) risk ({ }) profiles. ({ 15 16 17 }) 
+# Sentence pair (29) source length 25 target length 19 alignment score : 3.63206e-22
+Naše správa zatím nedokázala vytvořit dobré profily rizik, protože nemají dostatek dat, ale myslí si, že do budoucna ano. 
+NULL ({ }) For ({ }) now ({ }) our ({ 1 }) administration ({ 2 }) has ({ }) not ({ }) been ({ }) able ({ 7 8 }) to ({ }) make ({ }) very ({ }) good ({ }) risk ({ }) profiles ({ }) because ({ 9 }) they ({ 10 }) don't ({ 3 4 5 6 }) have ({ }) enough ({ 11 }) data, ({ 12 }) but ({ 13 }) they ({ 14 }) think ({ 16 }) they ({ }) will. ({ 15 17 18 19 }) 
+# Sentence pair (30) source length 33 target length 24 alignment score : 6.93324e-26
+Mám v budoucnu více údajů a mohl bych vytvořit určité rizikové profily, takže v budoucnu budeme v budoucnu sledovat, zda bude kontrolní politika lepší. 
+NULL ({ }) I ({ 1 }) have ({ }) more ({ 4 }) data ({ }) in ({ 2 }) the ({ }) future ({ 3 5 }) and ({ 6 }) could ({ 7 }) make ({ }) some ({ }) risk ({ }) profiles ({ 8 9 10 11 12 }) so ({ 13 }) this ({ }) is ({ }) something ({ }) we ({ }) will ({ }) follow ({ }) up ({ }) in ({ 17 }) the ({ }) in ({ 14 }) the ({ }) future ({ 15 16 18 19 }) if ({ 20 }) the ({ }) control ({ 22 }) policy ({ 23 }) will ({ 21 }) be ({ }) better. ({ 24 }) 
+# Sentence pair (31) source length 8 target length 8 alignment score : 2.26015e-07
+Další bod, který je více či méně specifický. 
+NULL ({ }) Another ({ 1 }) point ({ 2 }) which ({ 3 }) is ({ 4 }) more ({ 5 }) or ({ }) less ({ 7 }) specific. ({ 6 8 }) 
+# Sentence pair (32) source length 19 target length 16 alignment score : 2.78745e-19
+Sledujeme jiné daňové poplatníky na internetu, takže je zde systém k hledání daňových poplatníků na internetu. 
+NULL ({ }) We ({ }) do ({ }) monitor ({ }) other ({ }) taxpayers ({ }) on ({ 5 }) the ({ }) internet, ({ 6 }) so ({ 7 }) there ({ 9 }) is ({ 8 }) a ({ }) system ({ 10 }) to ({ 11 }) find ({ 12 }) taxpayers ({ 13 14 }) on ({ 15 }) the ({ }) internet. ({ 1 2 3 4 16 }) 
+# Sentence pair (33) source length 8 target length 6 alignment score : 9.05983e-05
+Ale prozatím jsou výsledky spíše špatné. 
+NULL ({ }) But ({ 1 }) for ({ }) now ({ }) the ({ }) results ({ 2 }) are ({ 3 }) rather ({ 4 }) poor. ({ 5 6 }) 
+# Sentence pair (34) source length 8 target length 9 alignment score : 7.93194e-10
+Není mnoho věcí o daňových poplatnících, které lze dohledat. 
+NULL ({ }) There's ({ 1 }) not ({ }) much ({ }) taxpayer ({ 2 4 5 }) stuff ({ 3 6 }) they ({ }) have ({ }) found. ({ 7 8 9 }) 
+# Sentence pair (35) source length 5 target length 3 alignment score : 0.000384487
+Pak vidíme, že... 
+NULL ({ }) Then, ({ }) we ({ }) see ({ 2 }) that ({ }) the... ({ 1 3 }) 
+# Sentence pair (36) source length 17 target length 16 alignment score : 2.37231e-12
+Postup registrace MSIDD je jako takový v pořádku, ale za okolností, kdy jsou daňoví poplatníci odhlášeni... 
+NULL ({ }) As ({ 1 }) an ({ }) MSIDD ({ 2 }) registration ({ 3 }) procedure ({ 5 }) is ({ 4 }) as ({ }) such ({ 6 }) as ({ }) ok, ({ 11 12 }) but ({ 9 }) in ({ 7 }) circumstances ({ 10 }) where ({ 8 }) taxpayers ({ }) are ({ 13 }) de-registered. ({ 14 15 16 }) 
+# Sentence pair (37) source length 16 target length 10 alignment score : 1.89059e-10
+Neexistují žádné následné kroky, pokud podají přiznání v běžném systému. 
+NULL ({ }) There ({ 1 }) is ({ }) no ({ }) follow ({ 2 3 }) up ({ 4 }) if ({ 5 }) they ({ }) are ({ }) put ({ 6 }) in ({ }) and ({ }) declaration ({ 7 }) in ({ 8 }) the ({ }) regular ({ 9 }) system. ({ 10 }) 
+# Sentence pair (38) source length 16 target length 14 alignment score : 1.07998e-16
+Neexistuje tedy žádná vazba ani žádný následný systém, což se domníváme, že je důležité. 
+NULL ({ }) So, ({ }) there ({ }) is ({ }) no ({ }) link ({ 4 6 7 }) or ({ }) no ({ 5 }) follow ({ }) up ({ 8 }) system, ({ 9 }) which ({ 10 }) we ({ }) still ({ 11 }) think ({ 12 }) is ({ 13 }) important. ({ 1 2 3 14 }) 
+# Sentence pair (39) source length 9 target length 7 alignment score : 3.20718e-09
+Pak máme ... v procesu podání přiznání. 
+NULL ({ }) Then ({ 1 }) we ({ }) have ({ }) with ({ }) the ({ }) in ({ 4 }) the ({ }) declaration ({ }) procedure. ({ 2 3 5 6 7 }) 
+# Sentence pair (40) source length 11 target length 9 alignment score : 2.85377e-09
+Existují některé automatické kontroly, což považujeme za velmi zajímavé. 
+NULL ({ }) There ({ 1 }) are ({ }) some ({ 2 }) automatic ({ 3 }) checks, ({ 4 }) which ({ 5 }) we ({ }) think ({ }) is ({ }) very ({ 8 }) interesting. ({ 6 7 9 }) 
+# Sentence pair (41) source length 17 target length 13 alignment score : 2.70094e-13
+Takže to není skutečná kontrola úplnosti a správnosti (ano, děkuji) úplnosti a správnosti. 
+NULL ({ }) So ({ 1 }) it's ({ 2 }) not ({ 3 }) a ({ }) real ({ }) control ({ }) of ({ }) completeness ({ 6 }) and ({ 7 }) correctness ({ 4 8 }) (yeah ({ 5 9 }) thank ({ }) you) ({ 10 }) of ({ }) completeness ({ 11 }) and ({ 12 }) correctness. ({ 13 }) 
+# Sentence pair (42) source length 9 target length 10 alignment score : 1.26648e-09
+Ale i tak to pomáhá, když dojde k běžným chybám. 
+NULL ({ }) But ({ 1 }) it ({ 4 }) still ({ }) helps ({ 5 }) when ({ 6 }) common ({ 3 }) errors ({ 2 }) are ({ }) made. ({ 7 8 9 10 }) 
+# Sentence pair (43) source length 30 target length 20 alignment score : 1.34678e-19
+Skutečné kontroly tedy musí provádět MSCON, ale jako MSID, ale Belgie stále pomáhá vyplňovat přiznání, takže dochází k určitým chybám. 
+NULL ({ }) So, ({ }) the ({ }) real ({ 1 }) controls ({ 2 }) are ({ }) have ({ }) to ({ 3 }) be ({ }) done ({ 4 }) by ({ }) MSCON ({ 5 6 }) but ({ 7 }) as ({ 8 }) an ({ }) MSID, ({ 9 }) but ({ 10 }) Belgium ({ 11 }) is ({ }) still ({ 20 }) helping ({ 19 }) to ({ }) fill ({ 12 13 14 15 }) out ({ }) the ({ }) declaration, ({ }) so ({ 16 }) there ({ 18 }) are ({ }) certain ({ }) mistakes. ({ 17 }) 
+# Sentence pair (44) source length 37 target length 24 alignment score : 3.09233e-24
+V systému bude výstraha, nebo když budete muset provést výběr a všechny možnosti budou omezené, stačí kliknout na možné volby, takže bude méně chyb. 
+NULL ({ }) There ({ }) will ({ 3 }) be ({ }) an ({ }) alert ({ 4 }) in ({ }) the ({ }) system ({ 2 }) or ({ 5 }) when ({ 6 }) you ({ }) have ({ }) to ({ }) make ({ }) choices ({ 20 }) all ({ }) choices ({ 7 8 9 10 }) are ({ }) limited ({ 1 }) and ({ 11 }) you ({ 12 }) have ({ }) just ({ }) you ({ 13 }) can ({ }) click ({ 14 15 16 17 }) on ({ 18 }) the ({ }) possible ({ 19 }) choices ({ }) so ({ 21 }) there ({ }) will ({ 22 }) be ({ }) a ({ }) less ({ 23 }) mistakes. ({ 24 }) 
+# Sentence pair (45) source length 13 target length 9 alignment score : 8.18823e-10
+Jako MSCON jsme také zjistili, že pracují v Beneluxu. 
+NULL ({ }) We ({ }) also ({ 4 }) discovered ({ 5 }) as ({ }) an ({ }) MSCON ({ }) that ({ 6 }) they ({ }) are ({ }) working ({ 7 }) in ({ 8 }) the ({ }) Benelux. ({ 1 2 3 9 }) 
+# Sentence pair (46) source length 21 target length 16 alignment score : 8.73339e-13
+Takže společně s Belgií, Nizozemskem a Lucemburskem vytvořili matici určitých rizik a vyvíjejí nové kontrolní činnosti. 
+NULL ({ }) So ({ 1 }) with ({ 3 }) Belgium, ({ 2 }) the ({ }) Netherlands ({ 4 5 }) and ({ 6 }) Luxembourg ({ 7 }) they ({ }) have ({ }) made ({ }) matrix ({ 8 9 10 }) of ({ }) a ({ }) certain ({ }) risks ({ 11 }) and ({ 12 }) are ({ }) developing ({ 13 }) now ({ 14 }) control ({ 15 }) activities. ({ 16 }) 
+# Sentence pair (47) source length 19 target length 14 alignment score : 2.27518e-10
+Ve funkci těchto rizik a jsou již dva testovací soubory, které se dosud zahájily. 
+NULL ({ }) In ({ 1 }) function ({ 3 }) of ({ }) those ({ 2 }) risks ({ 4 }) and ({ 5 }) there ({ }) are ({ 6 }) already ({ 7 }) two ({ 8 }) test ({ 9 10 }) files ({ 11 }) that ({ }) has ({ 12 }) have ({ }) started ({ 13 }) up ({ }) for ({ }) now. ({ 14 }) 
+# Sentence pair (48) source length 22 target length 17 alignment score : 1.02495e-18
+Doporučujeme tedy dále pracovat v této malé skupině, abychom dosáhli pokroku a rozšířili poznatky do evropských fór. 
+NULL ({ }) So, ({ }) we ({ }) recommended ({ 1 }) to ({ }) work ({ }) further ({ 2 3 4 }) in ({ 5 }) this ({ }) little ({ 6 }) group ({ }) to ({ }) make ({ }) progress ({ }) there ({ }) and ({ 12 }) to ({ }) expand ({ 13 }) the ({ }) knowledge ({ 7 8 9 14 }) to ({ 15 }) European ({ 10 11 16 }) forums. ({ 17 }) 
+# Sentence pair (49) source length 16 target length 16 alignment score : 1.14821e-20
+Myslím, že jde o rozdíly, které jsme měli na rozdíl od toho, co jsme předtím neslyšeli. 
+NULL ({ }) I ({ }) think ({ 2 }) that's ({ }) about ({ 4 }) the ({ }) the ({ }) differences ({ }) we ({ 7 }) had ({ 9 }) from ({ }) what ({ 13 }) we ({ 14 }) didn't ({ 11 }) hear ({ 8 12 }) hear ({ 10 15 }) before. ({ 1 3 5 6 16 }) 
+# Sentence pair (50) source length 8 target length 6 alignment score : 1.81087e-05
+Takže se chystáme udělat druhý audit. 
+NULL ({ }) So, ({ 1 }) we'll ({ 2 }) go ({ }) to ({ }) do ({ }) a ({ }) second ({ 3 4 }) audit. ({ 5 6 }) 
+# Sentence pair (51) source length 10 target length 5 alignment score : 7.90363e-05
+Proběhl audit systému registračních pokladen. 
+NULL ({ }) There ({ }) has ({ }) been ({ 1 }) an ({ }) audit ({ 2 }) for ({ }) register ({ }) cash ({ 3 }) register ({ 4 }) system. ({ 5 }) 
+# Sentence pair (52) source length 20 target length 16 alignment score : 1.75806e-17
+Nejedná se o audit, který provedli Luden a já, ale který realizovali další členové auditorské buňky. 
+NULL ({ }) This ({ }) is ({ }) not ({ }) an ({ }) audit ({ }) that ({ }) was ({ }) conducted ({ 6 }) by ({ 5 }) <CENSORED> ({ 7 }) and ({ 8 }) I, ({ 9 }) but ({ 10 }) by ({ 11 12 }) other ({ 13 }) members ({ 14 }) of ({ }) the ({ }) audit ({ }) cell. ({ 1 2 3 4 15 16 }) 
+# Sentence pair (53) source length 27 target length 23 alignment score : 8.77295e-20
+Byl to také audit, který byl o něco širší než pouze VT, ale představím pouze závěry a doporučení, které jsou pro VT důležité. 
+NULL ({ }) It ({ }) was ({ }) also ({ 3 }) audit, ({ 1 4 }) which ({ 5 }) was ({ 6 }) a ({ 2 }) big ({ }) bit ({ 7 8 }) broader ({ 9 }) than ({ 10 }) only ({ 11 }) VAT, ({ 12 }) but ({ 13 }) i ({ 14 }) will ({ }) only ({ }) present ({ 15 }) the ({ }) conclusions ({ 16 }) and ({ 17 }) recommendations ({ 18 }) that, ({ 19 }) are ({ 20 }) important ({ }) for ({ 21 }) VAT. ({ 22 23 }) 
+# Sentence pair (54) source length 12 target length 9 alignment score : 6.11753e-08
+Audit byl zaměřen na účinnost a účelnost kontrolní politiky. 
+NULL ({ }) The ({ 1 }) audit ({ }) questioned ({ 3 }) was ({ 2 }) about ({ }) the ({ 4 }) efficiency ({ 5 }) and ({ 6 }) effectiveness ({ 7 }) of ({ }) control ({ 8 }) policy. ({ 9 }) 
+# Sentence pair (55) source length 17 target length 14 alignment score : 7.80453e-10
+Instalace a aplikace, takže se podívali na dva problémy týkající se systému registračních pokladen. 
+NULL ({ }) The ({ }) installation ({ 1 }) and ({ 2 }) the ({ }) application, ({ 3 }) so ({ 4 }) they ({ }) looked ({ 6 }) at ({ 7 }) at ({ 5 }) two ({ 8 }) problems ({ 9 }) concerning ({ 10 11 }) the ({ }) cash ({ 12 }) register ({ 13 }) system. ({ 14 }) 
+# Sentence pair (56) source length 12 target length 9 alignment score : 2.61194e-08
+A na dopad systému na boj proti daňovým podvodům. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) impact ({ 3 }) the ({ }) system ({ 4 }) had ({ 5 }) for ({ }) the ({ }) fight ({ 6 }) against ({ 7 8 }) tax ({ }) fraud. ({ 9 }) 
+# Sentence pair (57) source length 14 target length 13 alignment score : 2.60464e-12
+Závěry a doporučení, ke kterým dospěli, jsou takové, že nařízení je příliš složité. 
+NULL ({ }) The ({ }) conclusions ({ 1 }) and ({ 2 }) recommendations ({ 3 }) were ({ }) they ({ }) concluded ({ 4 5 6 }) that ({ 9 }) the ({ }) recommendation ({ 10 }) regulation ({ 11 }) are ({ 7 }) too ({ 12 }) complex. ({ 8 13 }) 
+# Sentence pair (58) source length 20 target length 13 alignment score : 6.69743e-18
+Doporučují tedy zjednodušit, protože v nařízení je příliš výjimek v nařízení národní nařízení. 
+NULL ({ }) And ({ }) so ({ }) the ({ }) recommendation ({ 6 }) was ({ }) to ({ }) simplify ({ }) it, ({ }) because ({ 4 }) there ({ }) were ({ }) so ({ }) many ({ 5 10 }) exceptions ({ 9 }) in ({ }) the ({ }) regulation ({ 7 8 11 }) the ({ }) national ({ }) regulation. ({ 1 2 3 12 13 }) 
+# Sentence pair (59) source length 19 target length 13 alignment score : 1.21153e-14
+To, že bylo velmi obtížné stanovit určitou skupinu pouze na základě samotného prohlášení. 
+NULL ({ }) That ({ 1 }) it ({ }) was ({ 2 }) very ({ 4 }) difficult ({ 3 }) difficult ({ 5 }) to ({ }) determine ({ 6 }) a ({ }) certain ({ }) group ({ }) just ({ 9 }) on ({ 10 }) the ({ }) basis ({ 7 8 11 }) of ({ }) the ({ }) declaration ({ }) alone. ({ 12 13 }) 
+# Sentence pair (60) source length 24 target length 17 alignment score : 4.33761e-17
+A tak bylo velmi obtížné sledovat nebo kontrolovat určité skupiny společností, které musely instalovat systém registračních pokladen. 
+NULL ({ }) And ({ 1 }) so ({ 2 }) it ({ }) was ({ }) very ({ 4 }) difficult ({ 3 5 }) to ({ }) monitor ({ 6 8 }) or ({ 7 }) to ({ }) control ({ }) certain ({ 9 }) groups ({ 10 11 }) of ({ }) companies ({ 12 13 }) that ({ }) had ({ }) to ({ }) install ({ 14 }) the ({ }) register ({ 15 }) cash ({ }) register ({ 16 }) system. ({ 17 }) 
+# Sentence pair (61) source length 7 target length 6 alignment score : 3.09105e-06
+Dalším velkým závěrem byla kontrolní politika. 
+NULL ({ }) Another ({ 1 }) big ({ 2 4 }) conclusion ({ 3 }) was ({ }) the ({ }) control ({ 5 }) policy. ({ 6 }) 
+# Sentence pair (62) source length 16 target length 12 alignment score : 1.41384e-11
+Jsou zde problémy s výběrem daňových poplatníků daňových poplatníků systému registračních pokladen. 
+NULL ({ }) There ({ }) are ({ }) problems ({ 3 }) with ({ 4 }) the ({ }) selections ({ 5 }) of ({ }) the ({ }) taxpayers ({ 6 7 8 9 }) of ({ }) the ({ }) register ({ }) cash ({ 10 }) register ({ 11 }) system ({ }) taxpayers. ({ 1 2 12 }) 
+# Sentence pair (63) source length 41 target length 31 alignment score : 2.49097e-31
+Když existoval limit, tak je limit. A když je přiznání příliš nízké, pak spadnete právě pod tento limit a zde už není žádná kontrola, takže toto byl způsob, jak uniknout legislativě. 
+NULL ({ }) When ({ }) there ({ }) was ({ }) a ({ }) threshold, ({ 1 2 3 4 6 }) there ({ }) is ({ 5 }) a ({ }) threshold ({ }) and ({ 19 }) when ({ 8 }) the ({ }) declaration ({ 10 }) is ({ 9 }) too ({ 11 }) low, ({ 12 13 14 }) the ({ }) you ({ }) will ({ }) fall ({ 15 17 }) under ({ 16 }) the ({ }) just ({ }) threshold ({ 18 }) and ({ }) there ({ 20 }) will ({ }) be ({ }) no ({ }) control, ({ 21 22 23 24 }) so ({ 25 }) this ({ }) was ({ 27 }) a ({ }) way ({ 26 }) to ({ }) a ({ }) escape ({ 28 29 30 }) from ({ 7 }) the ({ }) legislation. ({ 31 }) 
+# Sentence pair (64) source length 21 target length 18 alignment score : 3.58837e-18
+Rovněž se vyskytl problém s křížovými kontrolami informačních údajů z databází pro výběr daňových poplatníků pro jejich kontrolu. 
+NULL ({ }) Also, ({ 1 }) there ({ }) was ({ }) a ({ }) problem ({ 3 4 }) of ({ 5 }) cross-checking ({ 11 }) information ({ 2 }) data ({ }) out ({ 10 }) of ({ }) databases ({ 6 7 8 9 }) for ({ 12 }) the ({ }) selection ({ 13 }) of ({ }) taxpayers ({ 14 15 }) for ({ 16 }) to ({ }) control ({ }) them. ({ 17 18 }) 
+# Sentence pair (65) source length 17 target length 12 alignment score : 2.26224e-11
+Dalším závěrem bylo, že existovaly špatné vnitřní kontroly i pro aplikaci systému. 
+NULL ({ }) Another ({ 1 }) conclusion ({ 2 }) was ({ }) that ({ 4 }) there ({ }) were ({ }) poor ({ 3 6 }) internal ({ 5 7 }) controls ({ 8 }) as ({ }) well ({ 9 }) for ({ 10 }) the ({ }) application ({ 11 }) of ({ }) the ({ }) system. ({ 12 }) 
+# Sentence pair (66) source length 16 target length 16 alignment score : 3.06029e-14
+Pokud jde o pokuty, které byly uděleny, tak zjistili, že různé kontrolní jednotky dávaly různé pokuty. 
+NULL ({ }) As ({ }) the ({ }) fines ({ 4 5 }) that ({ 10 }) were ({ 6 }) given, ({ 7 }) so ({ 8 }) they ({ }) discovered ({ 9 }) that ({ }) different ({ 11 }) control ({ 12 }) units ({ 13 }) gave ({ 14 }) different ({ 15 }) fines. ({ 1 2 3 16 }) 
+# Sentence pair (67) source length 46 target length 36 alignment score : 1.60951e-31
+Neexistovaly tedy žádné předpisy pro pokuty, ale některé byly velmi přísné a jiné kontrolní týmy nebyly přísné vůbec, nebo měly pokuty mnohem nižší než sazby, které dávaly za určité chyby, také analýzu rizik a online přístup. 
+NULL ({ }) So ({ }) there ({ }) was ({ }) not ({ }) there ({ }) were ({ }) prescriptions ({ 1 2 3 4 }) for ({ 5 }) fines, ({ 6 }) but ({ 7 }) some ({ 8 }) were ({ 9 }) very ({ 10 }) strict ({ 11 }) and ({ 12 }) other ({ 13 }) control ({ 14 }) teams ({ 15 }) were ({ }) not ({ 16 }) strict ({ 17 }) at ({ }) all ({ 18 }) or ({ 19 }) they ({ }) had ({ }) fines ({ 26 }) are ({ }) way ({ }) below ({ 20 }) the ({ }) rates ({ 21 22 23 }) that ({ }) were ({ 24 }) giving ({ 25 27 }) for ({ }) certain ({ 28 }) certain ({ 29 }) faults ({ 30 32 }) also ({ 31 }) the ({ }) risk ({ }) analysis ({ 33 }) and ({ 34 }) online ({ 35 }) access. ({ 36 }) 
+# Sentence pair (68) source length 42 target length 35 alignment score : 1.59569e-29
+Byla by to výhoda, ale nyní není implementována, takže analýza rizik byla velmi jednoduchá a neexistuje online přístup, ale jakmile jsme se dozvěděli, že tento druh systému existuje v jiných zemích, když mají online přístup. 
+NULL ({ }) Would ({ 1 }) be ({ 2 }) an ({ }) advantage, ({ 4 }) but ({ 5 }) it's ({ }) not ({ 7 }) implemented ({ 8 }) now ({ 6 }) so ({ 9 }) risk ({ }) analysis ({ 10 11 12 }) was ({ }) very ({ 13 }) basic ({ 14 16 }) and ({ 15 }) there ({ }) is ({ }) no ({ }) online ({ 17 }) access ({ 18 }) but ({ 19 }) since ({ 20 }) we ({ 21 }) learned ({ 23 }) that ({ 24 }) a ({ }) this ({ 25 }) kind ({ 26 }) of ({ }) system ({ 27 }) exists ({ 28 }) in ({ 29 }) other ({ }) countries ({ 30 31 }) when ({ 32 }) they ({ }) do ({ 22 }) have ({ 33 }) a ({ 3 }) online ({ 34 }) access. ({ 35 }) 
+# Sentence pair (69) source length 10 target length 8 alignment score : 1.08141e-09
+Zjistili, že to může být velmi dobrá výhoda. 
+NULL ({ }) They ({ }) discovered ({ }) that ({ 2 }) it ({ 3 }) could ({ 5 }) be ({ }) a ({ }) very ({ 6 }) good ({ 7 }) advantage. ({ 1 4 8 }) 
+# Sentence pair (70) source length 20 target length 16 alignment score : 1.29706e-16
+Poté došlo také k výměně informací s národním úřadem sociálního zabezpečení, což nebylo zrovna moc dobré. 
+NULL ({ }) Then ({ }) there ({ }) was ({ }) also ({ 3 }) the ({ }) exchange ({ 4 5 }) of ({ }) information ({ 6 }) with ({ 7 }) the ({ }) national ({ 8 }) social ({ 9 }) security ({ 10 }) office ({ 11 }) which ({ 12 }) was ({ }) not ({ }) very ({ }) very ({ }) good. ({ 1 2 13 14 15 16 }) 
+# Sentence pair (71) source length 11 target length 9 alignment score : 5.7658e-10
+Spousta informací se tedy nedostala od jednoho k druhému. 
+NULL ({ }) So ({ }) a ({ }) lot ({ }) of ({ }) information ({ 2 }) didn't ({ 6 }) pass ({ 1 5 }) from ({ 7 }) one ({ 3 }) to ({ 4 }) another. ({ 8 9 }) 
+# Sentence pair (72) source length 7 target length 4 alignment score : 0.000375206
+Konečně o dopadu systému. 
+NULL ({ }) Finally ({ 1 3 }) about ({ 2 }) the ({ }) impact ({ }) of ({ }) the ({ }) system. ({ 4 }) 
+# Sentence pair (73) source length 10 target length 7 alignment score : 4.37979e-07
+Stále tu byl problém s vkládáním transakcí 
+NULL ({ }) There ({ }) was ({ 3 }) still ({ }) a ({ }) problem ({ 4 }) with ({ 5 }) the ({ }) entering ({ 6 }) of ({ }) transactions ({ 1 2 7 }) 
+# Sentence pair (74) source length 35 target length 28 alignment score : 1.57027e-27
+Systém jako takový funguje velmi dobře, pokud je používán, když je používán, jako by měl být používán, ale když nebyly do systému zadány určité transakce, nemohly být objeveny. 
+NULL ({ }) So, ({ }) the ({ }) system ({ 1 }) as ({ 2 13 }) such ({ 3 }) works ({ 4 }) very ({ 5 }) fine ({ 6 }) if ({ 7 }) it's ({ 8 }) use ({ 9 }) when ({ 10 }) it's ({ 11 }) used ({ 12 }) like ({ 20 }) it ({ }) has ({ }) to ({ }) be ({ 14 }) used, ({ 15 16 17 }) but ({ 18 }) when ({ 19 }) certain ({ 24 }) transactions ({ }) were ({ }) not ({ }) entered ({ 21 }) in ({ }) the ({ }) system ({ 22 }) they ({ }) could ({ }) not ({ }) be ({ }) discovered. ({ 23 25 26 27 28 }) 
+# Sentence pair (75) source length 17 target length 14 alignment score : 1.58714e-14
+Řešením by tedy mohlo být vytvoření mediální kampaně, aby zákazníci mohli požádat o lístek. 
+NULL ({ }) So ({ }) solution ({ 1 4 }) could ({ 5 }) be ({ 2 }) to ({ }) have ({ }) a ({ }) media ({ 6 }) campaign ({ 7 8 }) for ({ }) the ({ }) customers ({ 9 10 }) to ({ 3 }) ask ({ 11 }) for ({ }) a ({ }) ticket. ({ 12 13 14 }) 
+# Sentence pair (76) source length 14 target length 11 alignment score : 3.66905e-14
+Tím by se zajistilo, že každá transakce bude zadána do systému. 
+NULL ({ 3 }) So ({ }) this ({ }) would ({ 2 }) make ({ }) sure ({ 1 }) that ({ 5 }) every ({ }) transaction ({ 6 }) would ({ }) be ({ }) entered ({ 4 7 8 9 10 }) in ({ }) the ({ }) system. ({ 11 }) 
+# Sentence pair (77) source length 34 target length 26 alignment score : 1.25562e-28
+Jinak to nebude lístek nebo že právní předpisy by byly přizpůsobeny tomu, že by byly přijímány pouze elektronické platby, protože pak by bylo snadnější sledovat peníze. 
+NULL ({ }) Otherwise ({ 1 }) they ({ }) will ({ }) not ({ }) a ({ }) be ({ }) a ({ 2 }) ticket ({ 3 4 }) or ({ }) that ({ 6 }) the ({ }) legislation ({ 7 }) would ({ 9 }) be ({ 11 14 }) adapted ({ 8 10 12 15 }) to ({ }) that ({ 13 }) only ({ 17 }) electronic ({ 16 }) payments ({ 18 }) would ({ }) be ({ }) accepted ({ 19 24 25 26 }) because ({ 20 }) then ({ 21 }) it ({ }) would ({ 22 }) be ({ }) more ({ }) easy ({ 23 }) to ({ }) follow ({ }) the ({ }) money. ({ 5 }) 
+# Sentence pair (78) source length 21 target length 13 alignment score : 3.00453e-15
+Jako skutečný dopad však neexistuje spolehlivé měření správy dopadu, takže nemají ani ponětí. 
+NULL ({ }) But ({ }) as ({ }) a ({ }) real ({ 2 }) impact ({ 3 4 }) there ({ }) is ({ }) no ({ 5 }) reliable ({ 6 }) measurement ({ 7 }) of ({ }) the ({ }) administration ({ }) of ({ }) the ({ }) impact, ({ 8 9 }) so ({ 10 }) they ({ 11 }) have ({ }) no ({ 12 }) idea. ({ 1 13 }) 
+# Sentence pair (79) source length 35 target length 27 alignment score : 2.1333e-27
+Náš tým pak provedl několik testů a pokusil se najít nějaký dopad, ale zjistili, že došlo k efektu očekávání, protože zavedení systému bylo odloženo o několik let. 
+NULL ({ 15 }) And ({ }) then ({ 3 }) our ({ 1 }) team ({ 2 }) has ({ 9 }) done ({ 4 }) some ({ }) tests ({ 5 6 }) and ({ 7 }) has ({ 8 }) tried ({ 10 }) to ({ }) find ({ }) some ({ 11 }) impact, ({ 12 }) but ({ 13 }) they ({ }) discovered ({ 14 }) there ({ }) was ({ }) an ({ }) anticipation ({ 17 18 20 }) effect, ({ 16 19 }) since ({ }) the ({ }) introduction ({ 21 }) of ({ }) the ({ }) system ({ 22 }) was ({ }) delayed ({ 23 }) for ({ }) a ({ }) few ({ }) years. ({ 24 25 26 27 }) 
+# Sentence pair (80) source length 30 target length 23 alignment score : 6.98039e-30
+Všichni však věděli, že to přichází, takže zákazníci i společnosti již očekávali právní předpisy, které se chystají provést změnu a zavést tento systém. 
+NULL ({ }) But ({ }) everybody ({ 18 }) knew ({ 1 2 3 19 21 22 23 }) it ({ 5 }) was ({ }) coming, ({ 6 9 }) so ({ 7 }) customers ({ 8 }) and ({ }) also ({ }) the ({ }) companies ({ 10 }) already ({ 11 }) anticipated ({ 12 }) on ({ }) the ({ }) legislation ({ 13 14 }) that ({ 4 }) was ({ }) are ({ 15 }) going ({ 17 }) to ({ }) change ({ }) and ({ 20 }) on ({ }) the ({ }) introduction ({ }) of ({ 16 }) the ({ }) system. ({ }) 
+# Sentence pair (81) source length 23 target length 20 alignment score : 3.91514e-19
+Přesné rozdíly mezi příjmy z DPH před rokem 2016, kdy byl systém zaveden a poté, tedy bylo velmi obtížné vysledovat. 
+NULL ({ }) So ({ }) it ({ }) was ({ }) very ({ 18 }) difficult ({ 17 19 }) to ({ 16 }) see ({ }) the ({ }) exact ({ 1 }) differences ({ 2 4 20 }) between ({ 3 5 }) the ({ }) VAT ({ 6 }) income ({ 7 }) before ({ 8 }) 2016, ({ 9 }) when ({ 10 }) the ({ }) system ({ }) was ({ 11 }) introduced ({ 12 13 }) and ({ 14 }) after. ({ 15 }) 
+# Sentence pair (82) source length 24 target length 22 alignment score : 4.36506e-22
+Protože již pár let před rokem 2016 se daňová přiznání k DPH zvětšovala s ohledem na nový systém, který by podléhal změně. 
+NULL ({ }) Because ({ 1 3 4 }) already ({ 2 }) a ({ }) few ({ 9 10 }) years ({ 11 }) there ({ }) before ({ 5 6 }) 2016 ({ 7 }) VAT ({ 12 }) returns ({ 13 14 }) were ({ }) augmenting ({ 15 }) just ({ }) in ({ }) view ({ }) of ({ 8 }) the ({ }) of ({ }) the ({ 16 }) new ({ 17 }) system ({ 18 }) which ({ 19 }) would ({ 20 }) change. ({ 21 22 }) 
+# Sentence pair (83) source length 9 target length 6 alignment score : 1.02317e-06
+Náš tým si nebyl jistý účinkem. 
+NULL ({ }) So ({ }) our ({ 1 }) team ({ 2 }) was ({ }) not ({ }) sure ({ }) of ({ }) the ({ }) effect. ({ 3 4 5 6 }) 
+# Sentence pair (84) source length 21 target length 20 alignment score : 1.73337e-16
+Jde jen o tento systém nebo o to, že účinek byl ještě větší, protože to začalo dříve, než si mysleli. 
+NULL ({ }) This ({ 1 }) was ({ }) only ({ 2 }) about ({ 3 }) this ({ 4 }) system ({ 5 }) or ({ 6 }) that ({ 9 }) the ({ }) effect ({ 10 }) was ({ 11 }) even ({ 7 }) even ({ 8 }) bigger, ({ 12 13 }) because ({ 14 }) it ({ 15 }) started ({ }) earlier ({ 16 17 }) than ({ 18 }) they ({ }) thought. ({ 19 20 }) 
+# Sentence pair (85) source length 17 target length 13 alignment score : 2.3253e-12
+Podívejte, můžu vás přerušit, prostě, mám problém, nebo rád bych tomu rozuměl správně. 
+NULL ({ }) <CENSORED>, ({ 1 }) may ({ 2 }) I ({ }) interrupt, ({ 3 }) just, ({ 4 5 }) I ({ }) have ({ }) a ({ }) problem, ({ 7 9 }) or ({ 8 }) I ({ }) would ({ }) like ({ }) to ({ }) understand ({ 6 }) it ({ }) correctly. ({ 10 11 12 13 }) 
+# Sentence pair (86) source length 14 target length 9 alignment score : 3.03584e-08
+Co si mám představit pod pojmem systém registračních pokladen? 
+NULL ({ }) What ({ 1 }) do ({ }) I ({ }) have ({ }) to ({ }) understand ({ 3 }) under ({ 5 }) this ({ }) a ({ }) term ({ 4 6 }) registered ({ 7 }) cash ({ }) register ({ 8 }) system? ({ 2 9 }) 
+# Sentence pair (87) source length 15 target length 11 alignment score : 1.10113e-09
+Znamená to, že tento pokladní systém je někde v databázi registrován? 
+NULL ({ }) Does ({ 1 }) it ({ }) mean ({ }) that ({ 3 }) this, ({ 2 4 5 }) this ({ }) cash ({ }) register ({ }) system ({ 6 }) is ({ 7 }) somewhere ({ 8 }) in ({ 9 }) a ({ }) database ({ 10 }) registered? ({ 11 }) 
+# Sentence pair (88) source length 14 target length 10 alignment score : 2.24435e-09
+Ne, není, to online, je to hotovostní pokladna, jo "kasa". 
+NULL ({ }) No, ({ 1 2 }) it's ({ 3 }) not ({ }) it's ({ }) not ({ }) an ({ }) online, ({ 4 }) it's ({ 5 }) it's ({ 6 }) a ({ }) cash ({ }) a ({ }) yeah ({ 7 8 9 }) "kasa". ({ 10 }) 
+# Sentence pair (89) source length 10 target length 11 alignment score : 2.20334e-11
+Aha, ok, takže je to jen pro kavárny, hotely a restaurace. 
+NULL ({ }) Yeah, ({ }) ok, ({ }) so ({ 3 }) it's ({ 4 }) it's ({ 5 }) just ({ 6 }) an ({ }) cafes, ({ 7 }) hotels, ({ 8 }) restaurants. ({ 1 2 9 10 11 }) 
+# Sentence pair (90) source length 6 target length 6 alignment score : 3.26766e-05
+Je to jen pro určité odvětví. 
+NULL ({ }) It's ({ 1 }) only ({ 3 }) for ({ 4 }) a ({ 2 }) certain ({ 5 }) branch. ({ 6 }) 
+# Sentence pair (91) source length 27 target length 26 alignment score : 6.36111e-27
+Zatím je to pouze v odvětví Horeca a je to systém, který registruje každou transakci nebo by měl registrovat každou projekci, která je vložena do systému. 
+NULL ({ 2 }) It's ({ 3 }) only ({ 4 }) in ({ 5 }) the ({ }) Horeca ({ 6 }) branch ({ 1 7 }) for ({ }) now ({ }) and ({ 8 }) it's ({ 9 }) a ({ 10 }) system ({ }) that ({ 22 }) registers ({ 11 }) every ({ 12 13 14 }) transaction ({ 15 }) or ({ 16 }) should ({ 17 18 }) register ({ }) every ({ 19 20 }) projection ({ 21 }) that ({ }) is ({ 23 }) inputted ({ 24 }) into ({ 25 }) the ({ }) system. ({ 26 }) 
+# Sentence pair (92) source length 7 target length 5 alignment score : 0.000343058
+(Takže) Neexistuje žádný online přístup. 
+NULL ({ }) (So, ({ 1 }) the) ({ 2 3 }) There ({ }) is ({ }) no ({ }) online ({ 4 }) access. ({ 5 }) 
+# Sentence pair (93) source length 23 target length 18 alignment score : 2.34988e-17
+To je důvod, proč je výběr kontrolní skupiny tak důležitý, protože kontrolní týmy musí jet na různá místa. 
+NULL ({ }) So ({ }) when ({ }) that's ({ 2 }) why ({ 1 4 }) the ({ }) selection ({ 6 }) of ({ }) the ({ }) control ({ 7 }) group ({ 3 8 9 }) is ({ 5 }) very ({ }) important ({ 10 }) because ({ 11 }) the ({ }) control ({ 12 }) teams ({ 13 }) have ({ }) to ({ }) go ({ 14 15 }) the ({ 16 }) different ({ 17 }) places. ({ 18 }) 
+# Sentence pair (94) source length 24 target length 19 alignment score : 2.68924e-21
+Nemohou se na to zaměřit online na počítači, musí je to do HoReCa a připojit svůj počítač k pokladně. 
+NULL ({ 10 }) They ({ 1 }) can't ({ }) look ({ }) at ({ 2 }) it ({ }) online ({ 6 }) on ({ 3 7 }) a ({ }) computer ({ 4 5 8 9 11 }) they ({ }) have ({ }) to ({ 12 }) go ({ }) to ({ }) the ({ }) Horeca ({ 13 }) and ({ 14 }) connect ({ 15 }) their ({ }) computer ({ }) to ({ }) their ({ 16 }) cash ({ }) register. ({ 17 18 19 }) 
+# Sentence pair (95) source length 14 target length 8 alignment score : 8.04557e-12
+Aby z ní vytáhli data a provedli kontrolu. 
+NULL ({ }) So ({ }) then ({ }) they ({ }) get ({ }) the ({ }) data ({ }) out ({ }) of ({ }) it ({ }) and ({ 6 }) they ({ }) do ({ }) the ({ }) controls. ({ 1 2 3 4 5 7 8 }) 
+# Sentence pair (96) source length 9 target length 7 alignment score : 2.56619e-08
+Ano, ale nemohou to dělat na dálku. 
+NULL ({ }) Yes, ({ 1 3 }) but ({ 2 }) they ({ }) can't ({ 4 }) do ({ }) it ({ }) from ({ }) a ({ }) distance. ({ 5 6 7 }) 
+# Sentence pair (97) source length 9 target length 7 alignment score : 2.89611e-07
+Vždy musí do dané provozovny dojet sami. 
+NULL ({ }) They ({ 1 }) always ({ 2 }) have ({ }) to ({ 3 }) go ({ }) to ({ }) the ({ }) premises ({ 4 }) themselves. ({ 5 6 7 }) 
+# Sentence pair (98) source length 16 target length 11 alignment score : 9.70508e-09
+Takže proto, kdy je přiznání příliš nízké a je pod limitem. 
+NULL ({ }) So ({ 1 }) when ({ 3 }) and ({ }) that's ({ 4 }) why ({ 2 }) when ({ }) a ({ }) declaration ({ 5 }) is ({ }) too ({ 6 }) low ({ 7 }) and ({ 8 }) is ({ 9 }) under ({ 10 }) the ({ }) threshold. ({ 11 }) 
+# Sentence pair (99) source length 36 target length 27 alignment score : 8.872e-34
+Týmy tam nebudou jezdit, aby zjistily, zda danou kavárnu například znají a vědí, že je tu spousta zákazníků a nejsou tam, ale to je jen souhra náhod. 
+NULL ({ }) The ({ }) teams ({ }) won't ({ }) go ({ }) there ({ }) to ({ }) see ({ }) only ({ }) if ({ 7 }) they ({ }) would ({ }) know ({ 9 }) the ({ }) café, ({ 11 }) for ({ }) instance ({ 10 13 16 }) and ({ 12 }) they ({ 14 }) know ({ 8 }) there ({ }) is ({ 15 }) a ({ }) lot ({ 6 17 18 20 21 }) of ({ }) customers ({ 5 }) and ({ 19 }) they ({ }) are ({ }) not ({ }) in ({ }) it ({ 23 }) but ({ 22 }) that's ({ 24 }) just ({ 25 }) a ({ }) coincidence. ({ 1 2 3 4 26 27 }) 
+# Sentence pair (100) source length 12 target length 12 alignment score : 2.09328e-13
+Ale to je něco, co zjistili až později, takže to budou oni. 
+NULL ({ }) But ({ 1 }) that's ({ 2 3 }) something ({ 4 }) they ({ 5 }) discovered ({ }) only ({ }) later, ({ 6 7 8 }) so ({ 9 }) they ({ }) will ({ }) be ({ }) they. ({ 10 11 12 }) 
+# Sentence pair (101) source length 21 target length 16 alignment score : 1.80969e-16
+Děkuji vám, Janet, za vaši otázku, protože jsem se bál, že jsem jediný, kdo tomu nerozumí. 
+NULL ({ }) Thank ({ 1 3 }) you, ({ 2 4 }) <CENSORED>, ({ }) for ({ }) your ({ 5 }) question, ({ 6 }) because ({ 7 }) I ({ }) was ({ }) worried ({ }) that ({ 11 }) I ({ }) am ({ 8 }) the ({ }) only ({ }) one ({ 9 }) I'm ({ 10 12 13 }) not ({ }) understanding ({ 14 }) this ({ }) is. ({ 15 16 }) 
+# Sentence pair (102) source length 26 target length 22 alignment score : 8.03658e-25
+Dobře, ale jaký je tedy rozdíl mezi tímto systémem, o kterém mluvíte o registrační pokladně u kteréhokoli prodejce, tím myslím v potravinách? 
+NULL ({ }) Ok, ({ 1 }) but ({ 2 }) what ({ 3 }) is ({ 4 }) the ({ }) difference ({ 6 }) then ({ }) between ({ 7 }) this ({ }) system ({ }) you ({ }) are ({ }) talking ({ 8 9 11 12 14 }) about ({ 10 13 }) the ({ 5 }) cash ({ }) register ({ }) system ({ }) in ({ }) any ({ }) seller ({ 15 16 17 }) I ({ }) mean ({ 18 19 20 }) in ({ 21 }) a ({ }) grocery. ({ 22 }) 
+# Sentence pair (103) source length 12 target length 12 alignment score : 9.66163e-12
+Co je tedy tak zvláštní na tomto konkrétním systému, že jste tam. 
+NULL ({ }) Then, ({ 1 }) what ({ 3 }) is ({ 2 }) the ({ }) special ({ 4 }) thing ({ 5 }) in ({ }) this ({ }) particular ({ 6 }) system ({ }) you're ({ 7 }) there. ({ 8 9 10 11 12 }) 
+# Sentence pair (104) source length 36 target length 26 alignment score : 1.07593e-33
+Je zde speciální software, který nabízí jakoukoli možnost podvodu se systémem a je to také software, který zajišťuje, že data jsou přenositelná do počítače kontrolních týmů. 
+NULL ({ }) There ({ }) is ({ }) a ({ }) special ({ }) software ({ }) in ({ }) it ({ }) that ({ }) provides ({ 1 2 3 4 5 6 }) any ({ }) possibility ({ 7 8 11 }) of ({ 10 }) fraud ({ 9 }) with ({ }) the ({ }) system ({ }) and ({ 12 }) it ({ 14 }) it ({ }) it's ({ }) software ({ 16 17 18 }) also ({ 15 }) make ({ }) sure ({ }) that ({ 19 }) the ({ }) data ({ 20 21 }) is ({ 13 }) transferable ({ 22 }) to ({ 23 }) the ({ }) computer ({ }) of ({ }) the ({ }) control ({ }) teams. ({ 24 25 26 }) 
+# Sentence pair (105) source length 17 target length 11 alignment score : 5.13251e-14
+Zatímco u běžného systému registračních pokladen nemůžete extrahovat data stejným způsobem. 
+NULL ({ }) While ({ 1 2 3 }) a ({ }) a ({ }) regular ({ }) a ({ }) cash ({ 4 }) register ({ 5 }) system ({ }) you ({ }) can't ({ }) extract ({ 7 }) the ({ }) data ({ }) in ({ }) the ({ }) same ({ }) way. ({ 6 8 9 10 11 }) 
+# Sentence pair (106) source length 10 target length 9 alignment score : 9.34e-10
+Takže to jsou systémy registračních pokladen, kterou jsou mají. 
+NULL ({ }) So ({ 1 }) this ({ }) a ({ 2 }) cash ({ }) register ({ 5 }) systems ({ 6 }) that ({ }) are ({ 3 }) have ({ }) a. ({ 4 7 8 9 }) 
+# Sentence pair (107) source length 33 target length 22 alignment score : 5.06923e-25
+Ano, jsou také speciální, ale je tam myslím pět různých známek systémů registračních pokladen, z nichž si můžete vybrat a mají certifikaci. 
+NULL ({ 6 }) Yeah, ({ 1 }) they ({ }) are ({ }) special ({ 3 }) too, ({ 4 }) but ({ 5 }) there ({ 7 }) are ({ 2 }) there ({ }) I ({ }) think ({ }) it ({ }) there ({ }) are ({ }) five ({ 8 }) different ({ }) marks ({ 9 10 11 }) of ({ }) cash's ({ 12 }) cash ({ }) register ({ 13 }) systems ({ 14 }) out ({ 15 }) of ({ }) which ({ }) you ({ }) can ({ }) choose ({ 16 17 }) and ({ 20 }) they ({ }) have ({ }) a ({ }) certification. ({ 18 19 21 22 }) 
+# Sentence pair (108) source length 20 target length 17 alignment score : 9.91868e-23
+Že všechna data, která lze extrahovat v datových formátech, jsou vhodné pro analýzu ze strany kontrolních týmů. 
+NULL ({ }) That ({ }) all ({ }) data ({ }) that ({ }) is ({ }) extractable, ({ 4 }) that ({ }) the ({ }) formats ({ 5 6 7 8 9 }) of ({ }) the ({ }) data ({ 10 }) is ({ }) good ({ 11 }) for ({ 12 }) the ({ }) control ({ }) teams ({ 13 }) to ({ }) analyze. ({ 1 2 3 14 15 16 17 }) 
+# Sentence pair (109) source length 14 target length 13 alignment score : 5.05234e-10
+Jo, ano, takže kompatibilita je certifikována, což je hlavní část doména různé sekce. 
+NULL ({ }) Yeah, ({ }) yeah, ({ 1 2 }) so ({ 3 }) the ({ }) compatibility ({ 4 }) is ({ }) is ({ 5 }) certified ({ 6 7 }) that's ({ 8 }) the ({ }) main ({ 9 }) domain ({ 10 11 }) different ({ 12 }) section. ({ 13 }) 
+# Sentence pair (110) source length 22 target length 18 alignment score : 2.43153e-21
+Ano, zmínili jste se o této analýze rizik, že chybí analýza rizikových služeb, nebo nebyly všechny provedeny nebo. 
+NULL ({ }) Yeah, ({ 1 }) you ({ }) mentioned ({ 2 }) this ({ }) risk ({ }) analysis ({ }) there ({ }) was ({ 9 }) like ({ }) a ({ }) lack ({ 3 5 6 7 8 10 }) of ({ 4 }) risk ({ 11 }) service ({ 12 13 }) analysis ({ }) or ({ 14 }) they ({ }) were ({ }) not ({ }) performance ({ 15 }) all ({ 16 }) or. ({ 17 18 }) 
+# Sentence pair (111) source length 9 target length 9 alignment score : 1.97735e-11
+Mám na mysli online přístup k této analýze nebo? 
+NULL ({ }) I ({ 1 }) mean ({ }) online ({ 4 }) access ({ 3 5 }) access ({ 2 }) to ({ }) this ({ }) analysis ({ }) or? ({ 6 7 8 9 }) 
+# Sentence pair (112) source length 9 target length 7 alignment score : 4.23193e-07
+Online přístup do vlastního systému registračních pokladen. 
+NULL ({ }) Online ({ 1 }) access ({ 2 }) to ({ 3 }) the ({ }) the ({ }) cash ({ 5 }) register ({ 6 }) system ({ }) itself. ({ 4 7 }) 
+# Sentence pair (113) source length 24 target length 19 alignment score : 5.05396e-15
+Dobře, takže které by mohly kontroly jsou mnohem snazší, dobře a protože můžeme provádět automatické kontroly či extrakci dat. 
+NULL ({ }) Ok, ({ 1 }) so ({ 2 }) which ({ }) could ({ }) made ({ 3 4 5 }) controls ({ 6 }) are ({ 7 }) far ({ 8 }) more ({ }) easy ({ 9 }) ok ({ 10 }) and ({ 11 }) because ({ 12 }) then ({ }) we ({ }) can ({ 13 14 }) do ({ }) automatic ({ 15 }) controls ({ 16 }) or ({ }) extraction ({ 17 18 }) of ({ }) of ({ }) data. ({ 19 }) 
+# Sentence pair (114) source length 24 target length 20 alignment score : 1.3745e-17
+Které by bylo možné vložit do většího systému a analýza rizik byla ve skutečnosti velmi základní, protože neměli dostatek dat. 
+NULL ({ }) Which ({ 1 }) could ({ }) be ({ 2 }) put ({ 3 4 5 }) into ({ 6 }) a ({ }) bigger ({ 7 }) system ({ 8 }) and ({ 9 }) the ({ }) risk ({ 10 }) analysis ({ 11 }) was ({ }) very ({ }) very ({ 15 }) basic, ({ 12 13 14 }) actually, ({ 16 }) because ({ 17 }) they ({ }) they ({ }) didn't ({ 18 }) have ({ }) enough ({ 19 }) data. ({ 20 }) 
+# Sentence pair (115) source length 26 target length 24 alignment score : 1.34509e-46
+Bylo to také proto, že tento audit nebo tento systém byl zaveden teprve v roce 2016, takže měli k dispozici pouze dva roky dat. 
+NULL ({ }) It ({ 1 4 }) was ({ }) also ({ 3 }) because ({ 5 }) this ({ 6 }) audit ({ 7 }) or ({ 8 }) this ({ 9 }) a ({ 2 }) system ({ 10 }) was ({ 11 }) only ({ }) introduced ({ 12 13 }) in ({ 14 }) 2016, ({ 16 }) so ({ 17 }) they ({ }) only ({ 21 }) had ({ 18 }) two ({ 22 }) years ({ 19 23 24 }) of ({ }) data ({ }) to ({ }) work ({ 20 }) with. ({ 15 }) 
+# Sentence pair (116) source length 3 target length 3 alignment score : 0.0069138
+Dobře, na závěr. 
+NULL ({ }) Ok, ({ 1 }) to ({ }) finish. ({ 2 3 }) 
+# Sentence pair (117) source length 9 target length 9 alignment score : 6.21958e-08
+Mám zde dva nové podvodné trendy v naší správě. 
+NULL ({ }) I ({ 1 }) have ({ }) two ({ 3 }) new ({ 4 }) fraud ({ 2 }) trends ({ 5 6 }) of ({ }) our ({ 7 }) administration. ({ 8 9 }) 
+# Sentence pair (118) source length 19 target length 17 alignment score : 8.43974e-19
+První byl objeven během operace, která se nazývala Matrimony, a spočívala v registraci velkého množství zahraničních společností. 
+NULL ({ }) First ({ 1 }) one ({ 7 }) was ({ }) discovered ({ }) during ({ }) an ({ }) operation ({ 3 }) which ({ }) was ({ }) called ({ 4 }) matrimony, ({ 5 6 8 9 }) it ({ }) was ({ 2 }) a ({ 10 }) registration ({ }) of ({ }) many ({ 11 12 }) foreign ({ 13 }) companies. ({ 14 15 16 17 }) 
+# Sentence pair (119) source length 11 target length 9 alignment score : 2.17093e-08
+Ale vždy stejnými dvěma manažery, jeden Rus, jeden Bulhar. 
+NULL ({ }) But ({ 1 }) always ({ 2 }) by ({ }) the ({ }) same ({ }) two ({ }) managers, ({ 3 }) one ({ }) Russian, ({ 4 5 }) one ({ }) Bulgarian. ({ 6 7 8 9 }) 
+# Sentence pair (120) source length 13 target length 11 alignment score : 5.7405e-10
+Ale zaregistrovali se na jména, která byla velmi podobná známým jménům. 
+NULL ({ }) But ({ 1 }) they ({ }) registered ({ 2 3 }) on ({ 4 }) the ({ }) names ({ 5 6 }) that ({ }) were ({ }) very ({ 8 }) similar ({ 7 }) to ({ }) known ({ 9 10 }) names. ({ 11 }) 
+# Sentence pair (121) source length 26 target length 23 alignment score : 3.23356e-25
+Byl tam rozdíl pouze v jediném písmenu, jen aby bylo možné věrohodně předpokládat, že tyto společnosti existovaly, ale většina z nich vůbec neexistovala. 
+NULL ({ }) There ({ 1 }) was ({ }) just ({ 4 }) one ({ }) letter ({ 2 6 7 }) of ({ }) difference ({ 3 }) and ({ }) just ({ 8 }) to ({ }) make ({ 5 9 }) it ({ }) plausible ({ 10 11 12 13 }) that ({ 14 }) these ({ 15 }) companies ({ 16 }) existed, ({ 17 }) but ({ 18 }) most ({ 19 }) of ({ }) them ({ }) did ({ }) not ({ }) exist ({ 20 }) at ({ }) all. ({ 21 22 23 }) 
+# Sentence pair (122) source length 31 target length 26 alignment score : 5.49863e-21
+A pak podali pouze přiznání k DPH a požádali o vrácení DPH s falešnými fakturami, ale toto přiznání vždy dělali písemně a na velmi malé částky. 
+NULL ({ }) And ({ 1 }) then ({ 2 }) they ({ }) had ({ }) did ({ 3 6 }) just ({ 4 }) a ({ }) declaration ({ 5 }) of ({ }) VAT ({ 7 }) and ({ 8 }) asked ({ 9 10 }) for ({ 23 }) VAT ({ 12 }) refund ({ 11 }) with ({ 13 }) false ({ 14 }) invoices, ({ 15 17 }) but ({ 16 }) they ({ }) always ({ 19 }) did ({ }) this ({ }) declaration ({ 18 }) by ({ }) paper ({ 21 }) and ({ 22 }) for ({ }) very ({ 24 }) small ({ 25 26 }) amounts. ({ 20 }) 
+# Sentence pair (123) source length 20 target length 13 alignment score : 5.99499e-15
+Což znamená, že správa musela do systému vložit všechny informace, což zabralo čas 
+NULL ({ }) Which ({ }) means ({ 2 }) that ({ 3 }) a ({ }) the ({ }) administration ({ 4 }) had ({ }) to ({ }) put ({ }) in ({ }) all ({ }) the ({ }) information ({ }) themselves ({ 5 8 9 10 }) into ({ 6 }) the ({ }) system, ({ 7 }) which ({ 11 }) took ({ 12 }) time. ({ 1 13 }) 
+# Sentence pair (124) source length 38 target length 29 alignment score : 3.76051e-30
+A proto již byly provedeny nějaké vratky dřív, než mohli skutečně zjistit, že existuje možnost podvodu a mohli zkontrolovat, zda společnost skutečně existuje a zda byly uvedené faktury skutečné. 
+NULL ({ }) And ({ 1 }) therefore ({ 2 }) there ({ }) were ({ 4 }) already ({ 3 }) done ({ }) some ({ }) refunds ({ }) before ({ }) they ({ }) could ({ }) actually ({ }) discover ({ 11 12 14 }) that ({ 13 }) there ({ }) was ({ }) the ({ }) possibility ({ 15 }) of ({ }) fraud ({ 16 }) and ({ }) and ({ 17 }) could ({ 18 19 }) control ({ }) it ({ }) if ({ 20 }) the ({ }) company ({ 21 }) was ({ }) really ({ 22 }) existing, ({ 23 }) and ({ 24 }) if ({ 25 }) the ({ }) invoices ({ 5 }) war ({ 6 }) were ({ 26 }) real. ({ 7 8 9 10 27 28 29 }) 
+# Sentence pair (125) source length 30 target length 29 alignment score : 6.90147e-34
+Tento druh podvodu však byl objeven a informace o něm se již šíří prostřednictvím eurofiscu, takže si myslím, že každá daňová správa je o tomto druhu podvodu již informována. 
+NULL ({ }) But ({ }) this ({ }) kind ({ 1 2 4 }) of ({ }) fraud ({ 3 }) was ({ 5 }) discovered ({ 6 }) and ({ 7 }) the ({ }) information ({ }) is ({ }) spread ({ 8 9 }) via ({ 10 12 13 14 }) EUROFISC, ({ 15 }) so ({ 16 }) I ({ }) I ({ }) think ({ 17 18 }) that ({ 19 }) every ({ 20 }) tax ({ 21 }) administration ({ 22 }) now ({ }) is ({ 23 }) aware ({ 24 25 26 27 28 29 }) of ({ 11 }) this ({ }) kind ({ }) of ({ }) fraud. ({ }) 
+# Sentence pair (126) source length 20 target length 15 alignment score : 4.49775e-17
+Další podvod spočíval v certifikátech zelené energie, které se velmi podobaly dřívějším certifikátům na CO3-2. 
+NULL ({ }) Another ({ 1 }) a ({ }) fraud ({ }) was ({ }) in ({ 4 }) green ({ }) power ({ 2 5 }) certificates, ({ 3 6 7 8 }) so ({ }) very ({ 10 }) similar ({ 9 11 }) to ({ }) the ({ }) certificates ({ }) for ({ 14 }) CO3-2 ({ 12 13 }) in ({ }) the ({ }) the ({ }) past. ({ 15 }) 
+# Sentence pair (127) source length 17 target length 11 alignment score : 9.94862e-11
+Podvodný plán byl více méně stejný v tom, že posílali faktury. 
+NULL ({ }) This ({ 1 }) was ({ 3 }) a ({ }) scheme ({ 2 }) more ({ 4 }) or ({ }) less ({ 5 }) in ({ }) the ({ }) same ({ }) sense ({ }) that ({ 9 }) they ({ }) were ({ }) sending ({ 6 8 }) in ({ 7 }) voices. ({ 10 11 }) 
+# Sentence pair (128) source length 20 target length 14 alignment score : 2.12113e-16
+Nebo používali faktury firmy, která značně připomínala právní firmu, jež měla jinak faktury zasílat. 
+NULL ({ }) Or ({ 6 }) using ({ 7 }) in ({ }) voices ({ 8 9 }) for ({ }) a ({ }) firm ({ 11 }) that ({ }) resembled ({ 5 }) very ({ }) much ({ }) of ({ }) the ({ }) legal ({ 10 }) firm ({ }) that ({ }) should ({ }) send ({ }) the ({ }) invoice. ({ 1 2 3 4 12 13 14 }) 
+# Sentence pair (129) source length 20 target length 15 alignment score : 1.50643e-17
+Měli jsme tedy plán podvodu, hodně jsem to zkrátil a nemám z toho žádný obrázek. 
+NULL ({ }) So ({ }) we ({ 2 }) had ({ }) a ({ }) scheme ({ 3 4 5 6 }) I've ({ 7 }) had ({ }) made ({ }) it ({ 8 }) very ({ }) short ({ 9 11 }) and ({ 10 }) didn't ({ }) make ({ }) it ({ }) any ({ }) a ({ }) picture ({ 12 13 14 }) of ({ }) it. ({ 1 15 }) 
+# Sentence pair (130) source length 7 target length 4 alignment score : 0.00521297
+Ale vysvětlím to takto. 
+NULL ({ }) But ({ 1 }) I ({ }) will ({ }) explain ({ 2 }) it ({ 3 }) like ({ }) this. ({ 4 }) 
+# Sentence pair (131) source length 32 target length 23 alignment score : 3.47065e-26
+Existovala společnost A v členském státě X, která dle certifikátů od B v jiném členském státě A, a prodala tyto certifikáty společnosti C. 
+NULL ({ }) So, ({ }) it ({ }) was ({ }) a ({ }) company ({ 2 }) A ({ 3 }) in ({ 4 }) a ({ }) member ({ 5 }) state ({ 6 }) X ({ 1 }) that ({ }) by ({ }) certificates ({ }) from ({ }) B ({ 7 8 9 10 }) in ({ 13 }) another ({ 22 }) member ({ 11 14 }) state ({ 12 15 16 }) A, ({ 19 }) and ({ 18 }) then ({ }) they ({ }) would ({ }) sell ({ 21 23 }) it ({ }) these ({ 20 }) certificates ({ }) to ({ }) company ({ }) C. ({ 17 }) 
+# Sentence pair (132) source length 16 target length 15 alignment score : 5.29802e-18
+Opět jiný členský stát Z a zaslala této společnosti fakturu z odpovídajícího A s čárkou... 
+NULL ({ }) Again ({ 1 8 }) another ({ 2 9 }) member ({ }) state ({ }) Z ({ 3 4 5 7 10 11 }) and ({ 6 }) send ({ }) to ({ }) this ({ }) company ({ }) an ({ }) invoice ({ 12 }) from ({ 13 }) a ({ }) accorded ({ 14 }) A-accent. ({ 15 }) 
+# Sentence pair (133) source length 16 target length 13 alignment score : 1.667e-14
+Takže to je název společnosti, který se liší jen jedním písmenem od originálu. 
+NULL ({ }) So, ({ 1 }) that's ({ 2 3 }) the ({ }) company ({ }) name ({ 4 5 6 8 }) that ({ }) has ({ }) just ({ 9 }) one ({ 7 }) letter ({ 10 }) of ({ }) difference ({ }) with ({ }) the ({ }) original ({ 11 }) one. ({ 12 13 }) 
+# Sentence pair (134) source length 14 target length 11 alignment score : 1.3911e-10
+Takže společnost C by neviděla, že ve skutečnosti dochází k podvodům. 
+NULL ({ }) So, ({ 1 }) that ({ }) the ({ }) company ({ 2 }) C ({ 3 }) wouldn't ({ 4 5 }) see ({ }) that ({ 6 }) there ({ }) is ({ }) actually ({ 7 }) fraud ({ }) going ({ 8 }) on. ({ 9 10 11 }) 
+# Sentence pair (135) source length 28 target length 25 alignment score : 1.09496e-33
+A samozřejmě společnost A a společnost A s čárkou tvořili stejní manažeři, kteří mají tuto společnost A, a A s čárkou by byl chybějící obchodník. 
+NULL ({ }) And ({ 1 }) of ({ }) course ({ 2 3 }) this ({ }) a ({ }) company ({ 16 }) A ({ 17 }) and ({ 18 }) company ({ 6 }) A-accent ({ 7 19 }) were ({ }) the ({ }) same ({ 8 14 20 }) managers ({ 9 15 21 }) that ({ }) have ({ }) this ({ }) a ({ }) A ({ 4 }) company ({ }) and ({ 5 }) the ({ }) A-accent ({ }) would ({ 22 }) be ({ }) a ({ 23 }) missing ({ 10 24 }) trader. ({ 11 12 13 25 }) 
+# Sentence pair (136) source length 8 target length 7 alignment score : 1.83719e-05
+Doufám, že tento druh podvodů je jasný. 
+NULL ({ }) I ({ }) hope ({ 1 2 }) this ({ 3 }) kind ({ 4 }) of ({ }) schemes ({ 5 }) is ({ 6 }) clear. ({ 7 }) 
+# Sentence pair (137) source length 7 target length 6 alignment score : 3.07314e-06
+A to byl konec mé prezentace. 
+NULL ({ }) That ({ 1 }) was ({ }) the ({ }) end ({ 2 3 }) of ({ }) my ({ 4 }) presentation. ({ 5 6 }) 

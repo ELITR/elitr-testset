@@ -1,0 +1,60 @@
+# Sentence pair (1) source length 6 target length 5 alignment score : 0.0133949
+Ach, to by náročný den! 
+NULL ({ }) Oh, ({ 2 }) it's ({ 3 }) been ({ 1 }) a ({ }) hard ({ 4 }) day! ({ 5 }) 
+# Sentence pair (2) source length 4 target length 5 alignment score : 0.0035261
+To máš pravdu, opravdu náročný! 
+NULL ({ }) You're ({ 2 }) right, ({ 3 }) very ({ 1 4 }) hard! ({ 5 }) 
+# Sentence pair (3) source length 11 target length 10 alignment score : 2.38595e-11
+Myslíš si, že se nám účast na tomto veletrhu vyplatí? 
+NULL ({ }) Do ({ }) you ({ }) think ({ }) being ({ }) here ({ }) at ({ }) this ({ 1 }) trade ({ 2 }) fair ({ 3 4 5 6 }) will ({ }) pay? ({ 7 8 9 10 }) 
+# Sentence pair (4) source length 2 target length 2 alignment score : 0.0936286
+No určitě! 
+NULL ({ }) Yes, ({ 1 }) sure! ({ 2 }) 
+# Sentence pair (5) source length 17 target length 16 alignment score : 1.88039e-11
+Víš, mně nechybí sebedůvěra, protože prodáváme módní a trendy výrobky, jako je ložní prádlo a nábytek... 
+NULL ({ }) You ({ 2 3 4 }) know, ({ }) I ({ 1 }) am ({ 5 }) quite ({ }) confident: ({ }) selling ({ }) fashionable ({ 7 14 }) and ({ 8 }) trendy ({ 6 }) products ({ }) such ({ 12 }) as ({ 16 }) bedroom ({ 13 }) linens ({ 9 }) and ({ 15 }) furniture... ({ 10 11 }) 
+# Sentence pair (6) source length 8 target length 8 alignment score : 7.71339e-07
+Lidé neodolají, aby si od nás něco koupili! 
+NULL ({ }) People ({ 4 5 6 8 }) will ({ }) be ({ }) pushed ({ 3 }) to ({ }) buy ({ 2 }) from ({ 7 }) us! ({ 1 }) 
+# Sentence pair (7) source length 22 target length 21 alignment score : 3.17567e-15
+A jsme mladí, inovativní, kreativní a všechny naše výrobky jsou vyrobené v Itálii: všichni vědí, že to je zárukou vysoké kvality. 
+NULL ({ 17 18 }) And ({ 1 }) we ({ 2 }) are ({ }) young, ({ 3 9 }) innovative, ({ 4 10 }) creative ({ 7 }) and ({ 6 }) all ({ 12 }) our ({ 11 }) products ({ }) are ({ 8 }) made ({ }) in ({ }) Italy: ({ 20 }) everybody ({ 5 }) knows ({ 13 }) it, ({ }) that ({ 16 }) stands ({ 21 }) for ({ 19 }) high ({ 14 }) quality. ({ 15 }) 
+# Sentence pair (8) source length 18 target length 14 alignment score : 1.40056e-09
+Máš naprostou pravdu, ale pamatuj si: jsme tu, abychom navázali kontakt s novými zákazníky. 
+NULL ({ }) Yes, ({ 6 }) you're ({ 1 }) absolutely ({ 2 }) right, ({ 3 }) but ({ 4 }) remember: ({ 5 }) we ({ 7 }) are ({ }) here ({ 8 }) to ({ }) get ({ 11 }) in ({ }) touch... ({ 9 13 }) in ({ }) touch ({ 12 }) with ({ 10 }) new ({ }) customers. ({ 14 }) 
+# Sentence pair (9) source length 9 target length 7 alignment score : 5.88992e-05
+Dokážeme se uplatnit na těchto nových trzích? 
+NULL ({ }) Will ({ 1 }) we ({ }) be ({ 4 }) able ({ 3 }) to ({ 2 }) target ({ 5 }) these ({ 6 }) new ({ }) markets? ({ 7 }) 
+# Sentence pair (10) source length 28 target length 24 alignment score : 4.47962e-17
+No, ale víš, naše sídlo je ve Venetu a to je výhoda: jsme k těmto trhům tak blízko, východní Evropa je hned za rohem! 
+NULL ({ }) Well, ({ 23 }) but ({ 2 }) you ({ 3 }) know, ({ }) we ({ }) are ({ 4 }) based ({ 5 12 }) in ({ 10 }) Veneto ({ 6 11 }) and ({ 9 }) that ({ }) is ({ 7 }) an ({ }) advantage: ({ 8 }) we ({ 13 }) are ({ }) so ({ 14 }) close ({ 15 }) to ({ }) these ({ }) markets, ({ }) Eastern ({ 17 }) Europe ({ 18 19 }) is ({ 21 }) just ({ 16 }) behind ({ 22 }) the ({ 1 }) corner! ({ 20 24 }) 
+# Sentence pair (11) source length 13 target length 10 alignment score : 8.41589e-06
+To ano, ale Maďarsko, Česká republika a Rusko budou drahé! 
+NULL ({ }) Yeah, ({ }) but ({ 3 }) Hungary, ({ 4 }) Czech ({ 5 }) Republic ({ }) and ({ 7 }) Russia ({ 9 }) gonna ({ 2 }) cost ({ 6 }) a ({ 1 }) lot ({ 8 }) of ({ }) money! ({ 10 }) 
+# Sentence pair (12) source length 11 target length 8 alignment score : 2.55936e-06
+Bude to znamenat pětiprocentní ztrátu v prvním roce. 
+NULL ({ }) They ({ 5 }) will ({ }) foresee ({ 3 6 }) a ({ }) five ({ 4 }) percent ({ }) loss ({ 1 7 }) in ({ }) the ({ }) first ({ 2 }) year. ({ 8 }) 
+# Sentence pair (13) source length 13 target length 13 alignment score : 2.55137e-12
+No tak, mysli pozitivně! Těch pět procent bude náš zisk ve třetím roce! 
+NULL ({ }) C'mon, ({ 12 }) think ({ }) positive! ({ 5 7 9 }) This ({ }) 5 ({ 4 6 8 10 }) percent ({ }) is ({ 11 }) our ({ }) increase ({ 2 }) in ({ 1 }) the ({ }) third ({ 3 }) year! ({ 13 }) 
+# Sentence pair (14) source length 9 target length 10 alignment score : 7.92335e-06
+A jsem si jistý, že jsme dnes získali nové zákazníky. 
+NULL ({ }) And ({ 1 }) I'm ({ 4 }) sure ({ 3 8 }) that ({ 5 }) today ({ 2 }) we ({ 6 }) got ({ 9 }) new ({ 7 }) customers. ({ 10 }) 
+# Sentence pair (15) source length 3 target length 3 alignment score : 0.0738098
+Jo, máš pravdu. 
+NULL ({ }) Yeah, ({ 1 }) you're ({ 2 }) right. ({ 3 }) 
+# Sentence pair (16) source length 13 target length 7 alignment score : 2.4386e-06
+Ve skutečnosti se každý potřebuje dobře vyspat. 
+NULL ({ }) As ({ 3 }) a ({ }) matter ({ 4 5 }) of ({ }) fact, ({ 6 }) we ({ }) got ({ }) all ({ }) people ({ 7 }) need ({ 1 }) to ({ }) sleep ({ 2 }) well. ({ }) 
+# Sentence pair (17) source length 14 target length 11 alignment score : 2.17123e-07
+Kdo nepotřebuje měkký polštář, pohodlnou matraci a teplou pokrývku na spaní? 
+NULL ({ }) Who ({ 5 }) doesn't ({ 3 4 }) need ({ }) a ({ }) soft ({ 2 }) pillow, ({ 6 11 }) comfortable ({ }) mattresses ({ 8 }) and ({ 7 }) warm ({ 9 }) sheets ({ 1 }) to ({ }) sleep ({ }) in? ({ 10 }) 
+# Sentence pair (18) source length 10 target length 9 alignment score : 5.12887e-06
+A všechno je to ručně vyrobené našimi šikovnými řemeslníky! 
+NULL ({ }) And ({ 1 }) everything ({ 2 }) is ({ 3 }) handmade ({ 5 }) by ({ 4 }) our ({ 6 }) skilled ({ 8 9 }) craftsmen ({ 7 }) and ({ }) artisans! ({ }) 
+# Sentence pair (19) source length 4 target length 3 alignment score : 0.0877429
+To je sen! 
+NULL ({ }) It's ({ 1 }) such ({ 2 }) a ({ }) dream! ({ 3 }) 
+# Sentence pair (20) source length 15 target length 12 alignment score : 1.14133e-09
+No, víš, Pillow Dream je krása, kterou chceš, a pohodlí, které potřebuješ! 
+NULL ({ }) Yes, ({ }) you ({ 2 }) know, ({ }) Pillow ({ 11 }) Dream ({ 10 }) is ({ 5 }) the ({ }) beauty ({ 8 }) you ({ }) want ({ 7 12 }) and ({ 9 }) the ({ 1 }) comfort ({ 3 }) you ({ }) need! ({ 4 6 }) 

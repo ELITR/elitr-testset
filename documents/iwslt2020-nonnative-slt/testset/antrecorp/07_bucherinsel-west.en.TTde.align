@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 12 target length 10 alignment score : 4.78677e-07
+﻿Ist das "Sea Witch", das Buch, das jeder haben will? 
+NULL ({ }) Is ({ 4 10 }) that ({ 2 }) the ({ }) sea ({ 3 }) witch, ({ 9 }) the ({ 6 }) book ({ 5 }) that ({ 7 }) everyone ({ 8 }) wants ({ 1 }) to ({ }) have? ({ }) 
+# Sentence pair (2) source length 2 target length 2 alignment score : 0.0364488
+Ah ja. 
+NULL ({ }) Ah, ({ 1 }) yeah. ({ 2 }) 
+# Sentence pair (3) source length 9 target length 9 alignment score : 1.13696e-06
+Oh mein Gott, ich wünschte, ich hätte es auch. 
+NULL ({ }) Oh ({ }) my ({ 2 }) God, ({ 1 }) I ({ 8 }) wish ({ 9 }) I ({ }) had ({ 3 4 5 6 }) it ({ }) too. ({ 7 }) 
+# Sentence pair (4) source length 7 target length 6 alignment score : 0.000284832
+Ich würde es wirklich gerne lesen. 
+NULL ({ }) I ({ 3 }) really ({ 4 5 }) would ({ 1 }) like ({ 6 }) to ({ }) read ({ 2 }) it. ({ }) 
+# Sentence pair (5) source length 6 target length 7 alignment score : 3.3792e-07
+Aber leider ist es nicht mehr verfügbar. 
+NULL ({ }) But ({ 1 }) sadly ({ }) its ({ }) not ({ }) available ({ 7 }) anymore. ({ 2 3 4 5 6 }) 
+# Sentence pair (6) source length 13 target length 11 alignment score : 3.74869e-07
+Egal, welches Buch Sie lesen wollen: Bücherinsel West hat sie alle. 
+NULL ({ }) No ({ 1 }) matter ({ 2 11 }) what ({ 10 }) book ({ 4 }) you ({ }) want ({ 5 }) to ({ }) read, ({ }) Bücherinsel ({ 7 }) West ({ 8 }) has ({ 9 }) it ({ 3 }) all. ({ 6 }) 
+# Sentence pair (7) source length 17 target length 17 alignment score : 4.96154e-17
+Bücherinsel West ist ein Unternehmen, das verschiedene Arten von Büchern verkauft, von Kinderbüchern bis hin zu Wirtschaftsbüchern. 
+NULL ({ }) Bücherinsel ({ 1 }) West ({ 2 }) is ({ }) a ({ }) company ({ 3 4 5 }) that ({ 6 }) sells ({ }) different ({ }) kind ({ 8 }) of ({ 7 }) books, ({ }) from ({ }) children ({ }) books ({ 9 10 11 12 13 14 15 16 }) to ({ }) economy ({ }) books. ({ 17 }) 
+# Sentence pair (8) source length 17 target length 12 alignment score : 1.88561e-10
+Das... Es befindet sich in Amstetten in Österreich und wir verkaufen europaweit. 
+NULL ({ }) The... ({ 1 }) We ({ }) are ({ }) located ({ }) in ({ }) Amstetten ({ 2 }) in ({ 9 }) Austria ({ }) and ({ }) we ({ 6 8 }) are ({ 5 7 }) selling ({ }) to ({ }) all ({ 4 }) over ({ 3 }) the ({ }) Europe. ({ 10 11 12 }) 
+# Sentence pair (9) source length 29 target length 27 alignment score : 1.87925e-29
+Wenn Sie heute kein Buch kaufen, macht das nichts; aber besuchen Sie auf jeden Fall unseren Webshop oder schicken Sie uns einfach eine E-Mail oder einen Brief. 
+NULL ({ 8 }) Also ({ 21 }) if ({ }) you ({ }) don't ({ 1 4 7 18 19 23 }) get ({ }) to ({ 2 }) buy ({ 6 }) a ({ }) book ({ 20 }) today, ({ 22 }) it ({ 5 }) doesn't ({ 3 9 24 }) matter, ({ 10 17 }) just ({ }) make ({ 15 }) sure ({ 14 }) to ({ 12 }) visit ({ }) our ({ 13 }) webshop ({ }) or ({ 11 }) just ({ 25 }) send ({ 16 }) us ({ 26 }) an ({ 27 }) email ({ }) or ({ }) a ({ }) letter. ({ }) 
+# Sentence pair (10) source length 9 target length 7 alignment score : 3.09351e-05
+Unsere Adresse finden Sie auf unserer Visitenkarte. 
+NULL ({ }) You ({ 6 }) can ({ 4 }) find ({ 1 }) our ({ 5 }) address ({ }) on ({ }) our ({ }) business ({ 3 }) card. ({ 2 7 }) 
+# Sentence pair (11) source length 57 target length 49 alignment score : 1.56313e-125
+Besuchen Sie uns auch auf jeden Fall an unserem Stand Nummer 108, wo Sie jedes Buch, das Sie wollen, kaufen und an unserem Spiel teilnehmen können: Sie müssen raten, wie viele Kaugummis in einem Spender sind, und wenn Sie richtig raten, bekommen Sie die Chance auf einen tollen Preis. 
+NULL ({ 17 }) Also ({ 3 }) make ({ 7 }) sure ({ 6 }) to ({ }) visit ({ }) us ({ 47 }) at ({ }) our ({ 46 }) booth ({ 22 48 }) number ({ 8 }) one ({ }) hundred ({ }) and ({ }) eight ({ 1 4 }) where ({ }) you ({ }) can ({ 2 43 }) purchase ({ 30 }) whatever ({ 29 41 42 44 45 }) book ({ 39 }) you ({ }) want ({ }) and ({ }) participate ({ 28 40 }) at ({ }) our ({ 5 }) game ({ 31 }) where ({ }) you ({ }) have ({ 32 36 }) to ({ 27 }) guess ({ }) how ({ 35 }) many ({ 37 }) chewing ({ }) gums ({ 34 }) are ({ 33 }) in ({ }) a ({ }) dispender ({ 38 }) and ({ }) if ({ }) you ({ }) guess ({ }) it ({ }) correctly, ({ }) then ({ 21 }) you ({ }) will ({ 19 }) get ({ 14 18 }) the ({ 16 }) opportunity ({ 20 49 }) of ({ }) winning ({ }) a ({ }) great ({ 9 10 11 12 23 24 25 26 }) prize. ({ 13 15 }) 
+# Sentence pair (12) source length 5 target length 5 alignment score : 9.68864e-05
+Bücherinsel West is the best. 
+NULL ({ }) Bücherinsel ({ 1 }) West ({ 2 }) is ({ }) the ({ }) best. ({ 3 4 5 }) 

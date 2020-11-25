@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.0469764
+Dobré odpoledne. 
+NULL ({ }) Good ({ 2 }) afternoon. ({ 1 }) 
+# Sentence pair (2) source length 13 target length 11 alignment score : 2.83624e-13
+Vítejte na mezinárodním veletrhu fiktivních firem v hlavním městě České republiky. 
+NULL ({ }) Welcome ({ 1 }) to ({ }) international ({ }) fair ({ }) of ({ }) practical ({ 2 }) enterprise ({ 11 }) in ({ }) capital ({ }) city ({ }) of ({ 3 4 5 6 7 8 9 10 }) Czech ({ }) Republic. ({ }) 
+# Sentence pair (3) source length 12 target length 8 alignment score : 5.67648e-10
+Jsem personalista české fiktivní firmy nazvané Step House. 
+NULL ({ }) I ({ 3 4 5 6 7 }) am, ({ 2 }) I ({ 8 }) am ({ }) personalist ({ }) of ({ }) Czech ({ }) fictional ({ }) company ({ }) called ({ }) Step ({ 1 }) House. ({ }) 
+# Sentence pair (4) source length 5 target length 5 alignment score : 9.56812e-06
+Naše společnost prodává značkovou obuv. 
+NULL ({ }) Our ({ }) company ({ }) sells ({ }) branded ({ 3 4 5 }) footwear. ({ 1 2 }) 
+# Sentence pair (5) source length 15 target length 10 alignment score : 4.7406e-09
+Nabízíme širokou škálu velikostí a značek, která uspokojí váš vkus. 
+NULL ({ }) We ({ }) can ({ 6 }) offer ({ }) you ({ }) wide ({ }) range ({ 1 }) of ({ }) sizes ({ 7 }) and ({ 5 }) brands ({ 2 }) that ({ }) will ({ }) please ({ 3 4 }) your ({ }) taste. ({ 8 9 10 }) 
+# Sentence pair (6) source length 26 target length 21 alignment score : 3.46344e-57
+Až si budete vybírat své vysněné boty, pomůžeme vám najít takové, které vám od rána do večera poskytnou největší možné pohodlí. 
+NULL ({ }) When ({ }) choosing ({ }) your ({ }) dream ({ }) shoes, ({ 1 }) we ({ }) will ({ }) try ({ }) to ({ }) help ({ 6 12 13 15 18 21 }) you ({ 5 8 11 14 17 20 }) buy ({ 9 }) ones ({ }) that ({ 4 7 10 16 19 }) provide... ({ }) that ({ }) provide ({ }) maximum ({ }) level ({ }) that ({ }) fit ({ }) comfortably ({ }) from ({ 2 }) morning ({ 3 }) to ({ }) night. ({ }) 
+# Sentence pair (7) source length 19 target length 19 alignment score : 1.54191e-16
+Kupující si nyní mohou vybrat z mnoha známých značek, jako je Nike, Adidas, New Balance, Fila, Vans a Reebok. 
+NULL ({ }) Buyers ({ 3 }) night... ({ 1 }) now ({ }) can ({ 9 }) choose ({ }) from ({ 2 }) many ({ }) well-known ({ 4 }) brands, ({ }) such ({ 8 }) as ({ 15 19 }) Nike, ({ 5 10 }) Adidas, ({ }) New ({ 7 }) Balance, ({ }) Fila, ({ 6 }) Vans ({ }) and ({ 18 }) Reebok. ({ 11 12 13 14 16 17 }) 
+# Sentence pair (8) source length 6 target length 6 alignment score : 5.07855e-05
+V naší firmě pracují zkušení zaměstnanci. 
+NULL ({ }) Our ({ 1 }) company ({ }) employs ({ 2 }) well ({ }) qualified ({ 3 }) staff. ({ 4 5 6 }) 
+# Sentence pair (9) source length 19 target length 15 alignment score : 2.16604e-24
+Když jednáme se zákazníky, snažíme se poznat a prozkoumat jejich přání, abychom uspokojili jejich potřeby. 
+NULL ({ }) When ({ }) dealing ({ 1 }) with ({ 9 }) our ({ }) customers, ({ 10 }) we ({ 3 6 }) try ({ 4 7 }) to ({ }) identify ({ }) and ({ 8 }) analyze ({ 15 }) their ({ 5 14 }) wishes ({ 2 }) in ({ }) order ({ }) to ({ }) satisfy ({ 13 }) their ({ 11 12 }) needs. ({ }) 
+# Sentence pair (10) source length 11 target length 11 alignment score : 4.61667e-22
+A doufáme, že náš sortiment se bude dál a dál rozšiřovat. 
+NULL ({ }) And ({ 1 }) we ({ 6 }) hope ({ }) that ({ }) our ({ 10 }) sortiment ({ 2 }) will ({ 7 }) grow ({ 3 8 11 }) more ({ 4 }) and ({ 9 }) more. ({ 5 }) 
+# Sentence pair (11) source length 7 target length 6 alignment score : 0.000264974
+A těšíme se na vaše nákupy. 
+NULL ({ }) And ({ 1 }) we ({ 3 }) look ({ 4 }) forward ({ 2 }) to ({ }) your ({ }) purchase. ({ 5 6 }) 
+# Sentence pair (12) source length 6 target length 4 alignment score : 0.0114083
+A děkujeme za pozornost. 
+NULL ({ }) And ({ 1 }) thank ({ 3 }) you ({ }) for ({ 2 }) your ({ }) attention. ({ 4 }) 

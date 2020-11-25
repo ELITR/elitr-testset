@@ -1,0 +1,411 @@
+# Sentence pair (1) source length 19 target length 13 alignment score : 1.69908e-14
+﻿Wir möchten also fortfahren und ich bitte den belgische Rechnungshof, die Präsentation vorzuführen. 
+NULL ({ }) So, ({ }) we ({ }) would ({ }) like ({ }) to ({ }) continue ({ 4 }) and ({ 5 }) I ({ 6 }) kindly ({ 7 }) ask ({ 3 }) the ({ }) Belgian ({ 1 }) court ({ 2 8 9 }) of ({ }) auditors ({ 10 }) to ({ }) present ({ }) the ({ 11 }) presentation. ({ 12 13 }) 
+# Sentence pair (2) source length 9 target length 8 alignment score : 4.27091e-10
+Ok, hiermit präsentiere ich unseren Stand der Dinge. 
+NULL ({ }) Ok, ({ }) so ({ }) hereby ({ 3 }) I ({ 4 }) present ({ 5 6 }) our ({ }) state ({ }) of ({ 7 }) play. ({ 1 2 8 }) 
+# Sentence pair (3) source length 13 target length 12 alignment score : 6.65035e-10
+Wir haben zwei nationale Gesetze, um die europäische Regulierung, also zwei Richtlinien. 
+NULL ({ }) We ({ 1 }) have ({ 2 }) two ({ 3 }) national ({ 4 }) laws ({ 5 }) in ({ }) order ({ 6 7 8 }) to ({ }) european ({ 9 }) regulation ({ }) so ({ 10 }) two ({ 11 }) directives. ({ 12 }) 
+# Sentence pair (4) source length 7 target length 7 alignment score : 2.95909e-06
+Eines handelt um Papier- und digitale Veröffentlichungen. 
+NULL ({ }) One ({ 1 2 }) is ({ }) about ({ 3 }) paper ({ 4 }) and ({ 5 }) digital ({ 6 }) publications. ({ 7 }) 
+# Sentence pair (5) source length 6 target length 6 alignment score : 1.21113e-06
+Beide haben jetzt den gleichen Steuersatz. 
+NULL ({ }) They ({ 1 }) have ({ 2 }) the ({ 4 }) same ({ 5 }) rate ({ 6 }) now. ({ 3 }) 
+# Sentence pair (6) source length 17 target length 15 alignment score : 2.71587e-14
+Und unter bestimmten Umständen ist es Nullsatz und unter anderen Umständen sind es sechs Prozent. 
+NULL ({ }) And ({ 1 }) on ({ }) a ({ }) certain ({ }) circumstances ({ }) it ({ 6 }) is ({ 5 }) zero ({ 7 }) rate ({ }) and ({ 8 }) under ({ 2 9 }) other ({ 10 }) circumstances ({ 3 4 11 12 }) it ({ 13 }) is ({ }) six ({ 14 }) percentage. ({ 15 }) 
+# Sentence pair (7) source length 27 target length 25 alignment score : 6.12415e-28
+Für die Immobilienmietung haben wir eine Finanzaktivitätssteuer-Option zur Vermietung von Liegenschaften ihrer Natur nach und eine obligatorische Mehrwertsteuer für die kurzfristige Vermietung einer Immobilie angenommen. 
+NULL ({ 2 20 }) For ({ }) real ({ }) estate ({ 3 }) rental, ({ 1 }) we ({ 5 }) have ({ 4 }) adopted ({ 6 }) a ({ }) fat ({ 7 17 }) option ({ 8 18 }) for ({ 19 }) renting ({ 21 }) off ({ 9 }) properties ({ 10 11 12 13 }) of ({ }) their ({ }) nature ({ 14 }) and ({ 15 }) mandatory ({ 16 }) VAT ({ }) for ({ }) short ({ }) term ({ }) rental ({ 22 }) of ({ }) a ({ }) property. ({ 23 24 25 }) 
+# Sentence pair (8) source length 6 target length 6 alignment score : 0.000680638
+Dann haben wir zwei Audits durchgeführt. 
+NULL ({ }) Then ({ 1 }) we ({ 3 }) have ({ 2 }) executed ({ 5 }) two ({ 4 }) audits. ({ 6 }) 
+# Sentence pair (9) source length 19 target length 17 alignment score : 2.13603e-19
+Einen davon über MOS, wovon wir bereits mehrmals gehört haben, daher werde ich mich sehr kurz fassen. 
+NULL ({ }) One ({ 1 2 }) is ({ }) about ({ }) MOS ({ }) which ({ }) we ({ 6 }) have ({ }) heard ({ 9 }) already ({ 7 10 }) several ({ 4 8 11 }) times, ({ 5 12 }) so ({ }) I ({ 13 }) will ({ }) be ({ }) very ({ 15 }) brief ({ 14 16 }) about ({ 3 }) it. ({ 17 }) 
+# Sentence pair (10) source length 10 target length 7 alignment score : 7.91323e-09
+Einen Anderen ist für ein zugelassenes Cash-Registrierkassensystem, 
+NULL ({ }) Another ({ }) one ({ }) is ({ }) for ({ 4 }) a ({ 5 }) registered ({ 6 }) cas ({ 1 2 7 }) cash ({ 3 }) register ({ }) system. ({ }) 
+# Sentence pair (11) source length 9 target length 9 alignment score : 4.83612e-08
+und da haben wir auch zwei neue vier Trends. 
+NULL ({ }) And ({ 1 }) then ({ }) we ({ 4 }) have ({ 3 }) also ({ 5 }) two ({ 6 }) new ({ 7 }) four ({ 8 }) trends. ({ 2 9 }) 
+# Sentence pair (12) source length 14 target length 16 alignment score : 1.67311e-20
+Daher ist unser Audit über MOS ist noch nicht abgeschlossen, daher ist er noch nicht veröffentlicht. 
+NULL ({ }) So, ({ }) our ({ 3 }) audit ({ 4 }) about ({ 5 }) MOS ({ 6 11 }) is ({ 7 }) not ({ 9 }) finished, ({ }) yet ({ 8 10 13 14 }) it ({ }) is ({ }) not ({ 15 }) already ({ }) published. ({ 1 2 12 16 }) 
+# Sentence pair (13) source length 9 target length 8 alignment score : 1.93202e-06
+Also, alle Schlussfolgerungen und Empfehlungen sind nur vorläufig, 
+NULL ({ }) A ({ }) so, ({ 2 }) all ({ }) conclusions ({ 3 }) and ({ 4 }) recommendations ({ 5 }) are ({ 6 }) just ({ 7 }) preliminary. ({ 1 8 }) 
+# Sentence pair (14) source length 12 target length 12 alignment score : 2.53747e-11
+Aber wir sind sehr zuversichtlich, dass es keine großen Änderungen geben wird. 
+NULL ({ }) But ({ 1 }) we ({ 2 }) are ({ 3 }) very ({ 4 }) confident ({ 5 }) that ({ 6 }) there ({ 7 }) won't ({ }) be ({ }) any ({ 8 }) big ({ }) changes. ({ 9 10 11 12 }) 
+# Sentence pair (15) source length 2 target length 2 alignment score : 0.172601
+M m. 
+NULL ({ }) M ({ 1 }) m. ({ 2 }) 
+# Sentence pair (16) source length 16 target length 14 alignment score : 3.36165e-14
+In unseren Schlussfolgerungen finden sich sehr ähnliche Ausführungen, als wir heute bereits gehört haben. 
+NULL ({ }) In ({ 1 }) our ({ }) conclusions, ({ 2 3 4 5 }) they ({ }) are ({ }) very ({ 6 }) much ({ 7 }) the ({ }) same ({ 8 }) as ({ 9 }) what ({ }) we ({ 10 }) have ({ }) already ({ 12 }) heard ({ 13 }) today. ({ 11 14 }) 
+# Sentence pair (17) source length 24 target length 24 alignment score : 2.44065e-20
+Aber für uns, möchte ich nur auf einige Dinge hinweisen, die anders sind, aber meiner Meinung nach mehr oder weniger spezifisch für Belgien sind. 
+NULL ({ }) But ({ 1 }) for ({ 2 }) us, ({ 3 4 }) I ({ 5 }) just ({ 6 }) will ({ 7 }) point ({ }) out ({ }) some ({ 8 }) things ({ 9 10 }) that ({ }) are ({ }) different, ({ 12 13 }) but ({ 14 }) which ({ 11 }) are ({ }) more ({ 18 }) or ({ 19 }) less ({ 20 }) specific ({ 15 16 17 21 }) for ({ 22 }) Belgium, ({ 23 }) I ({ }) think. ({ 24 }) 
+# Sentence pair (18) source length 39 target length 34 alignment score : 1.46965e-34
+Mittlerweile haben wir in unserer Verwaltung nur begrenztes Personal, weil wir im Großen und Ganzen eher als ein Empfänger als eine Geld überweisender Mitgliedstaat funktionieren, und wir verlassen uns sehr auf die anderen Mitgliedstaaten. 
+NULL ({ }) We ({ 3 }) have ({ 2 }) in ({ 4 }) our ({ 5 }) administration ({ 6 }) just ({ 7 }) limited ({ 8 }) staff ({ 9 }) for ({ }) the ({ }) moment, ({ 1 }) because ({ 10 }) we ({ 11 }) are ({ }) more ({ }) or ({ 14 }) less ({ }) a ({ }) or ({ }) a ({ }) receiver ({ 16 19 }) than ({ 17 20 }) a ({ 18 }) an ({ 21 }) MSID ({ 22 }) that ({ }) transfers ({ 12 23 }) money, ({ 13 24 25 }) and ({ 26 }) we ({ 27 }) rely ({ 15 28 29 }) very ({ 30 }) much ({ }) on ({ 31 }) on ({ }) the ({ 32 }) other ({ 33 }) member ({ }) states. ({ 34 }) 
+# Sentence pair (19) source length 17 target length 13 alignment score : 4.31765e-11
+Aber in Zukunft, wenn das MOS erweitert wird, werden wir mehr Personal benötigen. 
+NULL ({ }) But ({ 1 }) in ({ 2 }) the ({ }) future ({ 3 }) when ({ 4 }) the ({ 5 }) MOS ({ 6 }) will ({ }) be ({ }) extended ({ 7 8 }) there ({ }) will ({ }) be ({ 9 }) need ({ 10 }) for ({ }) more ({ 11 }) staff. ({ 12 13 }) 
+# Sentence pair (20) source length 12 target length 10 alignment score : 1.23427e-07
+Und dieses Personal sollte bereits jetzt vorgesehen und geschult werden. 
+NULL ({ }) And ({ 1 }) that ({ }) staff ({ 2 }) should ({ 3 }) be ({ 4 }) already ({ 5 }) be ({ }) trained ({ 7 }) now ({ 6 }) and ({ 8 }) foreseen ({ 9 }) now. ({ 10 }) 
+# Sentence pair (21) source length 23 target length 24 alignment score : 5.81273e-26
+Eine andere allgemeine Schlussfolgerung, die wir gemacht haben, aber bereits mehr oder weniger gehört haben, ist, dass eine Änderung der Kontrollpolitik zu Stande kommt. 
+NULL ({ }) Another ({ 1 }) general ({ 2 3 4 }) conclusion ({ 5 }) we ({ 6 }) had ({ }) was ({ }) it, ({ 7 8 22 23 }) but ({ 9 }) which ({ }) we ({ }) already ({ 10 }) heard ({ 14 }) more ({ 11 }) or ({ 12 }) less ({ 13 }) is ({ }) that ({ 17 }) there's ({ 16 24 }) a ({ }) change ({ 15 19 }) of ({ 20 }) control ({ 21 }) policy. ({ 18 }) 
+# Sentence pair (22) source length 10 target length 7 alignment score : 3.40351e-07
+Es muss sich eine neue Gesinnungsart umsetzen. 
+NULL ({ }) Which ({ 1 }) has ({ }) to ({ }) take ({ 4 }) place ({ 2 3 }) it's ({ }) new ({ 5 }) state ({ }) of ({ }) mind. ({ 6 7 }) 
+# Sentence pair (23) source length 19 target length 16 alignment score : 6.12406e-21
+Aber unsere Verwaltung hat ein starkes Vertrauen in andere MSIDs, denn wir folgern daras das MSCON. 
+NULL ({ }) But ({ 1 }) our ({ 2 }) administration ({ 3 }) is ({ }) very ({ }) confident ({ 4 }) in ({ 8 }) the ({ }) other ({ 5 9 }) MSID's, ({ 6 7 10 }) because ({ }) when ({ }) we ({ 12 }) look ({ 11 }) at ({ }) the ({ }) conclusions ({ }) as ({ }) MSCON. ({ 13 14 15 16 }) 
+# Sentence pair (24) source length 6 target length 7 alignment score : 4.35806e-07
+Nur einen Sprung von einem zum Anderen. 
+NULL ({ }) Just ({ 1 }) jump ({ 2 3 5 }) from ({ 4 }) one ({ }) to ({ }) another. ({ 6 7 }) 
+# Sentence pair (25) source length 9 target length 9 alignment score : 1.79046e-08
+Wir sehen, dass es eine sehr schlechte Kontrollpolitik gibt. 
+NULL ({ }) We ({ 1 }) see ({ 2 }) that ({ 3 }) there ({ 4 }) is ({ }) very ({ 6 }) poor ({ 7 }) control ({ 8 }) policy. ({ 5 9 }) 
+# Sentence pair (26) source length 13 target length 11 alignment score : 1.99404e-13
+Daher glauben wir, dass jeder MSID das Geld sendet oder überweist. 
+NULL ({ }) So ({ }) we ({ }) are ({ }) very ({ }) confident ({ }) every ({ 7 }) MSID ({ 8 }) will ({ }) send ({ 9 }) or ({ 10 }) transfer ({ 11 }) the ({ }) money. ({ 1 2 3 4 5 6 }) 
+# Sentence pair (27) source length 5 target length 4 alignment score : 0.000785147
+Das passiert wegen uns. 
+NULL ({ }) That ({ 1 }) is ({ }) due ({ 2 }) to ({ }) us. ({ 3 4 }) 
+# Sentence pair (28) source length 21 target length 21 alignment score : 5.88153e-25
+Wir haben jedoch darauf hingewiesen, dass es wichtig ist, Fortschritte in Bezug auf die Kontrollpolitik zu erzielen, indem Risikoprofile erstellt werden. 
+NULL ({ }) Nevertheless, ({ 4 }) we ({ }) pointed ({ 3 5 }) out ({ }) that ({ 6 }) it ({ 7 }) was ({ }) important ({ 8 }) to ({ }) make ({ }) progress ({ 1 }) in ({ 11 }) some ({ }) way ({ 2 9 12 }) of ({ }) control ({ 14 }) policy ({ 10 13 15 }) by ({ }) making ({ 16 }) risk ({ }) profiles. ({ 17 18 19 20 21 }) 
+# Sentence pair (29) source length 25 target length 21 alignment score : 1.995e-24
+Bisher konnte unsere Verwaltung keine guten Risikoprofile erstellen, da sie nicht über genügend Daten verfügt, aber sie hofft es zu schaffen. 
+NULL ({ }) For ({ 1 2 }) now ({ }) our ({ 3 }) administration ({ 4 }) has ({ }) not ({ }) been ({ 5 }) able ({ 6 }) to ({ }) make ({ }) very ({ }) good ({ }) risk ({ }) profiles ({ 7 8 }) because ({ 9 }) they ({ }) don't ({ 10 }) have ({ }) enough ({ 11 }) data, ({ 12 13 14 15 }) but ({ 16 }) they ({ 19 }) think ({ }) they ({ 17 }) will. ({ 18 20 21 }) 
+# Sentence pair (30) source length 33 target length 24 alignment score : 2.17367e-29
+Ich werde in Zukunft mehr Daten haben und werde einige Risikoprofile machen; daher werden wir dieser Sache weiter nachgehen, falls die Kontrollpolitik besser wird. 
+NULL ({ }) I ({ 1 }) have ({ 7 }) more ({ 5 }) data ({ 6 }) in ({ }) the ({ }) future ({ 4 }) and ({ 8 }) could ({ 9 }) make ({ }) some ({ 10 }) risk ({ }) profiles ({ 11 12 }) so ({ }) this ({ }) is ({ }) something ({ 13 }) we ({ 15 }) will ({ }) follow ({ }) up ({ }) in ({ 3 }) the ({ }) in ({ }) the ({ }) future ({ 2 }) if ({ }) the ({ 21 }) control ({ }) policy ({ }) will ({ }) be ({ 14 }) better. ({ 16 17 18 19 20 22 23 24 }) 
+# Sentence pair (31) source length 8 target length 9 alignment score : 6.2988e-10
+Ein weiterer Punkt, der mehr oder weniger spezifisch ist. 
+NULL ({ }) Another ({ }) point ({ 3 }) which ({ }) is ({ }) more ({ 5 }) or ({ 6 }) less ({ 7 }) specific. ({ 1 2 4 8 9 }) 
+# Sentence pair (32) source length 19 target length 18 alignment score : 1.15457e-19
+Wir überwachen andere Steuerzahler im Internet, es gibt da ein System, um Steuerzahler über das Internet zu finden. 
+NULL ({ }) We ({ 1 }) do ({ }) monitor ({ 2 }) other ({ 3 }) taxpayers ({ 4 }) on ({ }) the ({ }) internet, ({ 5 6 8 9 }) so ({ }) there ({ 7 }) is ({ }) a ({ 10 }) system ({ 11 }) to ({ }) find ({ 12 }) taxpayers ({ 13 }) on ({ }) the ({ 15 }) internet. ({ 14 16 17 18 }) 
+# Sentence pair (33) source length 8 target length 7 alignment score : 1.71686e-06
+Aber derzeit sind die Ergebnisse eher schlecht. 
+NULL ({ }) But ({ 1 }) for ({ }) now ({ }) the ({ 4 }) results ({ 2 3 }) are ({ }) rather ({ 5 }) poor. ({ 6 7 }) 
+# Sentence pair (34) source length 8 target length 6 alignment score : 7.19577e-05
+Wir haben nicht viele Steuerzahlersachen gefunden. 
+NULL ({ }) There's ({ 1 2 }) not ({ 3 }) much ({ }) taxpayer ({ 5 }) stuff ({ 4 }) they ({ }) have ({ }) found. ({ 6 }) 
+# Sentence pair (35) source length 5 target length 5 alignment score : 3.74452e-05
+Aber wir werden noch sehen. 
+NULL ({ }) Then, ({ 1 }) we ({ 2 }) see ({ 3 }) that ({ }) the... ({ 4 5 }) 
+# Sentence pair (36) source length 17 target length 19 alignment score : 2.32724e-20
+Als das MSID Registrierungsverfahren ist es in Ordnung, aber nicht unter jenen Umständen, in denen die Steuerzahler abgemeldet sind. 
+NULL ({ 16 }) As ({ 1 }) an ({ 2 }) MSIDD ({ 3 }) registration ({ 4 }) procedure ({ 5 }) is ({ }) as ({ 8 }) such ({ }) as ({ 7 }) ok, ({ 6 }) but ({ 9 }) in ({ 14 }) circumstances ({ }) where ({ 15 }) taxpayers ({ 17 }) are ({ }) de-registered. ({ 10 11 12 13 18 19 }) 
+# Sentence pair (37) source length 16 target length 14 alignment score : 8.26127e-18
+Es gibt keine Folgemaßnahmen, wenn sie irgendwas im regulären System eingegeben und deklariert haben. 
+NULL ({ }) There ({ 1 }) is ({ }) no ({ 3 }) follow ({ 4 }) up ({ 2 5 }) if ({ }) they ({ 6 }) are ({ }) put ({ 7 8 }) in ({ }) and ({ 12 }) declaration ({ }) in ({ }) the ({ }) regular ({ 9 13 }) system. ({ 10 11 14 }) 
+# Sentence pair (38) source length 16 target length 15 alignment score : 8.40695e-15
+Es besteht also kein Link oder kein Weiterverfolgungssystem, was wir noch immer für wichtig halten. 
+NULL ({ }) So, ({ 3 }) there ({ }) is ({ }) no ({ 4 }) link ({ 5 }) or ({ 6 }) no ({ 1 2 7 }) follow ({ 8 }) up ({ }) system, ({ 9 }) which ({ }) we ({ 10 }) still ({ 11 12 }) think ({ 13 }) is ({ }) important. ({ 14 15 }) 
+# Sentence pair (39) source length 9 target length 9 alignment score : 9.03307e-10
+Dann haben wir mit dem Deklarationsverfahren etwas zu tun. 
+NULL ({ }) Then ({ 1 }) we ({ 3 }) have ({ 2 }) with ({ 4 5 }) the ({ }) in ({ }) the ({ }) declaration ({ }) procedure. ({ 6 7 8 9 }) 
+# Sentence pair (40) source length 11 target length 11 alignment score : 3.62591e-07
+Es gibt einige automatische Überprüfungen, die wir für sehr interessant halten. 
+NULL ({ }) There ({ 1 }) are ({ 2 }) some ({ 3 }) automatic ({ 4 }) checks, ({ 5 }) which ({ 6 }) we ({ 7 }) think ({ 8 }) is ({ }) very ({ 9 }) interesting. ({ 10 11 }) 
+# Sentence pair (41) source length 17 target length 15 alignment score : 7.20765e-17
+Es handelt sich aber nicht um eine echte Kontrolle der Vollständigkeit und Richtigkeit (ja, danke). 
+NULL ({ }) So ({ }) it's ({ }) not ({ 5 }) a ({ 7 }) real ({ }) control ({ 10 }) of ({ }) completeness ({ }) and ({ }) correctness ({ 6 }) (yeah ({ 3 4 }) thank ({ 8 }) you) ({ 9 }) of ({ }) completeness ({ 11 }) and ({ 12 }) correctness. ({ 1 2 13 14 15 }) 
+# Sentence pair (42) source length 9 target length 9 alignment score : 7.44717e-07
+Aber es hilft trotzdem, wenn häufige Fehler gemacht werden. 
+NULL ({ }) But ({ 1 }) it ({ 2 }) still ({ }) helps ({ 3 4 }) when ({ 5 }) common ({ 6 }) errors ({ 7 }) are ({ }) made. ({ 8 9 }) 
+# Sentence pair (43) source length 30 target length 27 alignment score : 7.02001e-28
+Die eigentlichen Kontrollen müssen also vom MSCON durchgeführt werden, jedoch als MSID, aber Belgien hilft weiterhin beim Ausfüllen der Deklarierung, also liegen bestimmte Fehler noch immer vor. 
+NULL ({ }) So, ({ 1 }) the ({ }) real ({ 2 4 5 6 7 }) controls ({ 3 }) are ({ }) have ({ }) to ({ }) be ({ }) done ({ 8 }) by ({ }) MSCON ({ 9 10 }) but ({ }) as ({ 11 }) an ({ }) MSID, ({ 12 }) but ({ 13 }) Belgium ({ 14 }) is ({ }) still ({ 25 26 }) helping ({ 15 16 17 18 27 }) to ({ }) fill ({ 22 }) out ({ }) the ({ 19 }) declaration, ({ 20 21 }) so ({ }) there ({ }) are ({ }) certain ({ 23 }) mistakes. ({ 24 }) 
+# Sentence pair (44) source length 37 target length 31 alignment score : 1.81976e-28
+Es wird eine Warnung im System angezeigt oder wenn man eine Auswahl treffen muss, alle Auswahlmöglichkeiten sind begrenzt und man kann nur auf die gebotenen Auswahloptionen klicken, damit weniger Fehler auftreten. 
+NULL ({ }) There ({ 1 }) will ({ }) be ({ }) an ({ 3 }) alert ({ 2 4 5 7 }) in ({ }) the ({ }) system ({ 6 }) or ({ 8 }) when ({ 9 }) you ({ 10 }) have ({ }) to ({ }) make ({ }) choices ({ 12 13 }) all ({ 15 }) choices ({ 16 }) are ({ 17 }) limited ({ 18 }) and ({ 19 }) you ({ 20 }) have ({ }) just ({ 22 }) you ({ 21 }) can ({ 11 }) click ({ 14 }) on ({ 23 }) the ({ 24 }) possible ({ 25 26 }) choices ({ 27 28 }) so ({ }) there ({ }) will ({ }) be ({ }) a ({ }) less ({ 29 }) mistakes. ({ 30 31 }) 
+# Sentence pair (45) source length 13 target length 12 alignment score : 1.292e-14
+Als MSCNO haben wir auch festgestellt, dass dies in den Benelux-Ländern funktioniert. 
+NULL ({ }) We ({ 4 }) also ({ 5 }) discovered ({ 6 }) as ({ }) an ({ }) MSCON ({ }) that ({ 7 }) they ({ }) are ({ }) working ({ 8 }) in ({ 9 }) the ({ 10 }) Benelux. ({ 1 2 3 11 12 }) 
+# Sentence pair (46) source length 21 target length 19 alignment score : 7.89303e-20
+Mit Belgien, den Niederlanden und Luxemburg wurde eine Matrix von bestimmten Risiken erstellt und nun werden die Kontrollaktivitäten entwickelt. 
+NULL ({ }) So ({ }) with ({ }) Belgium, ({ 3 }) the ({ }) Netherlands ({ 4 }) and ({ 5 }) Luxembourg ({ 6 7 8 9 }) they ({ }) have ({ }) made ({ }) matrix ({ 1 2 }) of ({ 10 }) a ({ }) certain ({ 11 }) risks ({ 12 13 }) and ({ 14 }) are ({ }) developing ({ 15 }) now ({ 16 }) control ({ 17 }) activities. ({ 18 19 }) 
+# Sentence pair (47) source length 19 target length 14 alignment score : 3.25348e-16
+Unter Bezug auf diese Risiken gibt es bereits zwei Testdateien, die vorerst gestartet wurden. 
+NULL ({ 11 }) In ({ 1 }) function ({ 2 3 }) of ({ }) those ({ 4 }) risks ({ 5 }) and ({ }) there ({ 7 }) are ({ }) already ({ 8 }) two ({ 9 }) test ({ 10 12 }) files ({ 13 14 }) that ({ }) has ({ }) have ({ }) started ({ }) up ({ 6 }) for ({ }) now. ({ }) 
+# Sentence pair (48) source length 22 target length 22 alignment score : 3.67118e-22
+Wir empfehlen daher, in dieser kleinen Gruppe weiter zu arbeiten, um dort Fortschritte zu erzielen und das Wissen auf europäische Foren auszudehnen. 
+NULL ({ }) So, ({ }) we ({ }) recommended ({ 2 }) to ({ }) work ({ }) further ({ 3 }) in ({ 4 }) this ({ 5 }) little ({ 6 }) group ({ 7 }) to ({ 9 }) make ({ 8 }) progress ({ 1 }) there ({ }) and ({ 16 }) to ({ }) expand ({ 10 11 12 13 }) the ({ 17 }) knowledge ({ 18 }) to ({ 14 }) European ({ 15 }) forums. ({ 19 20 21 22 }) 
+# Sentence pair (49) source length 16 target length 17 alignment score : 3.85705e-19
+Ich denke, das sind die Unterschiede, die wir daraus gewonnen haben, was wir vorher nicht gehört haben. 
+NULL ({ 7 }) I ({ 1 }) think ({ 2 }) that's ({ 3 }) about ({ }) the ({ }) the ({ 5 }) differences ({ 4 6 }) we ({ 8 }) had ({ }) from ({ }) what ({ 12 }) we ({ 13 }) didn't ({ 15 }) hear ({ 14 }) hear ({ 9 16 }) before. ({ 10 11 17 }) 
+# Sentence pair (50) source length 8 target length 8 alignment score : 1.18869e-11
+Fahren wir nun mit dem zweiten Audit fort. 
+NULL ({ }) So, ({ }) we'll ({ 2 }) go ({ }) to ({ }) do ({ }) a ({ }) second ({ 6 }) audit. ({ 1 3 4 5 7 8 }) 
+# Sentence pair (51) source length 10 target length 8 alignment score : 5.53146e-09
+Es wurde eine Prüfung für das Cash-Registrierkassensystem durchgeführt. 
+NULL ({ }) There ({ 1 }) has ({ }) been ({ 2 8 }) an ({ 3 }) audit ({ 4 }) for ({ 5 }) register ({ 6 }) cash ({ }) register ({ 7 }) system. ({ }) 
+# Sentence pair (52) source length 20 target length 14 alignment score : 1.7065e-17
+Diese Prüfung wurde nicht <CENSORED> und mir durchgeführt, sondern von anderen Mitgliedern der Auditstelle. 
+NULL ({ }) This ({ }) is ({ }) not ({ 4 }) an ({ }) audit ({ 2 }) that ({ }) was ({ }) conducted ({ 5 }) by ({ }) <CENSORED> ({ }) and ({ 6 }) I, ({ 7 }) but ({ }) by ({ }) other ({ 11 }) members ({ 8 9 12 }) of ({ 10 }) the ({ }) audit ({ 13 }) cell. ({ 1 3 14 }) 
+# Sentence pair (53) source length 27 target length 27 alignment score : 9.65539e-26
+Es war auch eine Prüfung, die viel umfassender war als nur die MwSt., aber ich werde bloß die Schlussfolgerungen und Empfehlungen präsentieren, die für MwSt. wichtig sind. 
+NULL ({ 23 }) It ({ }) was ({ 2 }) also ({ 3 }) audit, ({ 1 4 }) which ({ 6 12 }) was ({ }) a ({ }) big ({ }) bit ({ 5 7 8 }) broader ({ 9 }) than ({ 10 }) only ({ 11 }) VAT, ({ 13 }) but ({ 14 }) i ({ 15 17 }) will ({ 16 }) only ({ }) present ({ }) the ({ 18 }) conclusions ({ 19 }) and ({ 20 }) recommendations ({ 21 }) that, ({ 22 }) are ({ }) important ({ }) for ({ 24 }) VAT. ({ 25 26 27 }) 
+# Sentence pair (54) source length 12 target length 13 alignment score : 2.2485e-12
+Bei der betreffenden Prüfung ging es um die Effizienz und Wirksamkeit der Kontrollpolitik. 
+NULL ({ }) The ({ 1 }) audit ({ 2 4 }) questioned ({ 3 5 }) was ({ }) about ({ 7 }) the ({ 8 }) efficiency ({ 6 9 }) and ({ 10 }) effectiveness ({ 11 }) of ({ }) control ({ 12 }) policy. ({ 13 }) 
+# Sentence pair (55) source length 17 target length 15 alignment score : 1.61556e-13
+Bei der Installation und der Anwendung wurden zwei Probleme im Zusammenhang mit dem Registrierkassensystem untersucht. 
+NULL ({ }) The ({ 1 }) installation ({ 2 3 }) and ({ 4 }) the ({ 5 }) application, ({ 6 7 }) so ({ }) they ({ }) looked ({ 15 }) at ({ 13 }) at ({ 14 }) two ({ 8 }) problems ({ 9 }) concerning ({ 10 11 12 }) the ({ }) cash ({ }) register ({ }) system. ({ }) 
+# Sentence pair (56) source length 12 target length 10 alignment score : 3.87383e-10
+Und die Auswirkungen des Systems auf die Bekämpfung von Steuerbetrug. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) impact ({ 3 4 }) the ({ 7 }) system ({ }) had ({ }) for ({ }) the ({ }) fight ({ 5 }) against ({ 6 8 }) tax ({ 9 }) fraud. ({ 10 }) 
+# Sentence pair (57) source length 14 target length 14 alignment score : 3.00279e-12
+Die Schlussfolgerungen und Empfehlungen kamen zu dem Schluss, dass die Empfehlungsverordnung zu komplex ist. 
+NULL ({ }) The ({ 1 }) conclusions ({ 2 }) and ({ 3 }) recommendations ({ 4 }) were ({ }) they ({ }) concluded ({ 5 7 8 }) that ({ 9 }) the ({ 10 }) recommendation ({ 11 }) regulation ({ 12 }) are ({ }) too ({ 6 }) complex. ({ 13 14 }) 
+# Sentence pair (58) source length 20 target length 19 alignment score : 7.30997e-23
+Es wurde deshalb empfohlen, die Verordnung zu vereinfachen, weil die Verordnung sowie die nationale Regelung zu viele Ausnahmen gestatten. 
+NULL ({ }) And ({ }) so ({ 1 }) the ({ 5 }) recommendation ({ }) was ({ }) to ({ 7 }) simplify ({ 8 }) it, ({ }) because ({ 9 }) there ({ }) were ({ 10 }) so ({ }) many ({ 2 }) exceptions ({ 3 4 6 11 12 }) in ({ }) the ({ }) regulation ({ }) the ({ 13 }) national ({ 14 }) regulation. ({ 15 16 17 18 19 }) 
+# Sentence pair (59) source length 19 target length 14 alignment score : 1.95953e-13
+Denn es war sehr schwierig, eine bestimmte Gruppe allein aufgrund der Erklärung zu bestimmen. 
+NULL ({ }) That ({ 1 }) it ({ 2 }) was ({ 3 }) very ({ 4 }) difficult ({ 5 }) difficult ({ }) to ({ }) determine ({ 6 }) a ({ }) certain ({ 7 }) group ({ 8 }) just ({ }) on ({ }) the ({ 11 }) basis ({ 9 10 }) of ({ }) the ({ }) declaration ({ 12 }) alone. ({ 13 14 }) 
+# Sentence pair (60) source length 24 target length 18 alignment score : 2.68846e-22
+Daher war es auch sehr schwierig, bestimmte Unternehmensgruppen zu überwachen oder zu kontrollieren, welche das Cash-Registrierkassensystem installieren sollten. 
+NULL ({ }) And ({ }) so ({ }) it ({ 3 }) was ({ 2 4 }) very ({ 5 }) difficult ({ 6 }) to ({ }) monitor ({ 10 }) or ({ 11 }) to ({ 9 12 }) control ({ }) certain ({ 7 }) groups ({ 8 13 }) of ({ }) companies ({ 14 }) that ({ }) had ({ 15 }) to ({ }) install ({ 1 17 18 }) the ({ }) register ({ }) cash ({ }) register ({ 16 }) system. ({ }) 
+# Sentence pair (61) source length 7 target length 7 alignment score : 1.66863e-06
+Eine weitere wichtige Schlussfolgerung war die Kontrollpolitik. 
+NULL ({ }) Another ({ 1 2 }) big ({ 3 }) conclusion ({ 4 }) was ({ 5 }) the ({ }) control ({ 6 }) policy. ({ 7 }) 
+# Sentence pair (62) source length 16 target length 10 alignment score : 5.13855e-10
+Es gibt Probleme mit der Auswahl der Steuerzahler des Cash-Registrierkassensystems. 
+NULL ({ }) There ({ 1 }) are ({ 2 }) problems ({ 3 }) with ({ 4 }) the ({ }) selections ({ 5 6 7 }) of ({ }) the ({ }) taxpayers ({ 8 }) of ({ }) the ({ }) register ({ }) cash ({ }) register ({ }) system ({ }) taxpayers. ({ 9 10 }) 
+# Sentence pair (63) source length 41 target length 35 alignment score : 6.07852e-37
+Seitdem ein Schwellenbetrag festgesetzt wurde, gilt der Schwellenbetrag, und wenn die Steuererklärung zu niedrig ist, fällt man unter diese Schwelle und es besteht keine Kontrolle; so besteht ein Weg, wie den Steuervorschriften entkommen werden kann. 
+NULL ({ }) When ({ 1 }) there ({ }) was ({ }) a ({ 2 }) threshold, ({ 3 4 5 6 }) there ({ 22 }) is ({ }) a ({ }) threshold ({ 8 }) and ({ 9 }) when ({ 10 }) the ({ 11 }) declaration ({ 12 }) is ({ }) too ({ 14 }) low, ({ 15 16 }) the ({ 7 }) you ({ 17 }) will ({ }) fall ({ }) under ({ 18 }) the ({ }) just ({ }) threshold ({ 20 }) and ({ 21 }) there ({ }) will ({ }) be ({ 34 }) no ({ 23 24 }) control, ({ 25 26 27 35 }) so ({ }) this ({ 19 }) was ({ }) a ({ }) way ({ }) to ({ 13 }) a ({ 28 }) escape ({ 29 }) from ({ }) the ({ }) legislation. ({ 30 31 32 33 }) 
+# Sentence pair (64) source length 21 target length 21 alignment score : 3.36268e-26
+Es gab auch ein Problem mit der Überkreuzprüfung von Informationsdaten aus den Datenbanken zwecks Auswahl der Steuerzahler, um diese zu kontrollieren. 
+NULL ({ }) Also, ({ 6 }) there ({ }) was ({ 3 }) a ({ 4 }) problem ({ 1 2 5 }) of ({ }) cross-checking ({ 8 10 }) information ({ }) data ({ }) out ({ 11 }) of ({ 9 }) databases ({ 12 }) for ({ }) the ({ 7 }) selection ({ 13 14 15 }) of ({ }) taxpayers ({ }) for ({ }) to ({ }) control ({ 16 }) them. ({ 17 18 19 20 21 }) 
+# Sentence pair (65) source length 17 target length 16 alignment score : 2.32886e-14
+Eine weitere Schlussfolgerung war, dass es auch für die Anwendung des Systems schlechte interne Kontrollen erfolgen. 
+NULL ({ }) Another ({ 1 2 }) conclusion ({ 3 }) was ({ }) that ({ 5 }) there ({ 6 }) were ({ }) poor ({ 13 }) internal ({ 14 16 }) controls ({ 15 }) as ({ 7 }) well ({ 4 }) for ({ 8 }) the ({ 9 }) application ({ 10 11 12 }) of ({ }) the ({ }) system. ({ }) 
+# Sentence pair (66) source length 16 target length 14 alignment score : 1.84234e-15
+Es wurde von den verhängten Geldstrafen festgestellt, dass verschiedene Kontrolleinheiten unterschiedliche Geldstrafen vergeben haben. 
+NULL ({ }) As ({ 1 }) the ({ }) fines ({ 2 }) that ({ }) were ({ }) given, ({ 3 }) so ({ }) they ({ }) discovered ({ 7 }) that ({ 8 }) different ({ }) control ({ 4 }) units ({ 5 6 }) gave ({ }) different ({ 9 }) fines. ({ 10 11 12 13 14 }) 
+# Sentence pair (67) source length 46 target length 44 alignment score : 5.43871e-46
+Es gab also keine Vorschriften für Geldstrafen, aber einige Kontrollteams waren sehr streng, hingegen anderen überhaupt nicht streng waren oder sie haben solche Geldstrafen auferlegt, die weit unter den Raten lagen, die für bestimmte bestimmte Fehler, auch die Risikoanalyse und den Online-Zugang, festgesetzt wurden. 
+NULL ({ }) So ({ 3 }) there ({ }) was ({ }) not ({ }) there ({ }) were ({ }) prescriptions ({ 4 5 }) for ({ 6 }) fines, ({ 7 }) but ({ 8 }) some ({ 9 }) were ({ 11 }) very ({ 12 }) strict ({ 13 14 18 }) and ({ 40 }) other ({ 15 }) control ({ 32 }) teams ({ 10 }) were ({ 19 }) not ({ 17 }) strict ({ 16 }) at ({ }) all ({ }) or ({ 20 }) they ({ 21 }) had ({ }) fines ({ 22 }) are ({ }) way ({ }) below ({ 23 25 43 }) the ({ 41 }) rates ({ 24 27 42 44 }) that ({ }) were ({ 26 }) giving ({ 28 29 30 31 }) for ({ 33 }) certain ({ 34 }) certain ({ 35 }) faults ({ 36 }) also ({ 37 }) the ({ 38 }) risk ({ 39 }) analysis ({ 2 }) and ({ }) online ({ }) access. ({ 1 }) 
+# Sentence pair (68) source length 42 target length 40 alignment score : 5.83726e-37
+Es wäre ein Vorteil, aber es ist jetzt nicht implementiert, sodass die Risikoanalyse nur sehr elementar war und es keinen Online-Zugang gibt, aber inzwischen haben wir erfahren, dass ein solches System in anderen Ländern existiert, wenn sie einen Online-Zugang haben. 
+NULL ({ 12 }) Would ({ 10 }) be ({ }) an ({ }) advantage, ({ 4 22 }) but ({ 5 }) it's ({ 6 }) not ({ 9 }) implemented ({ 24 }) now ({ 8 }) so ({ 11 }) risk ({ 13 }) analysis ({ 14 }) was ({ 17 }) very ({ 15 }) basic ({ 16 }) and ({ 18 }) there ({ 19 }) is ({ 7 }) no ({ 40 }) online ({ 20 21 }) access ({ }) but ({ 23 }) since ({ }) we ({ 26 }) learned ({ 27 }) that ({ 28 }) a ({ 29 }) this ({ }) kind ({ }) of ({ }) system ({ 31 }) exists ({ 30 }) in ({ 32 }) other ({ 33 }) countries ({ 34 35 }) when ({ 36 }) they ({ 37 }) do ({ }) have ({ 25 }) a ({ 3 }) online ({ 38 39 }) access. ({ 1 2 }) 
+# Sentence pair (69) source length 10 target length 10 alignment score : 4.83705e-09
+Sie entdeckten, dass dies ein sehr guter Vorteil sein könnte. 
+NULL ({ }) They ({ 1 }) discovered ({ 2 }) that ({ 3 }) it ({ }) could ({ 4 }) be ({ }) a ({ 5 }) very ({ 6 }) good ({ 7 }) advantage. ({ 8 9 10 }) 
+# Sentence pair (70) source length 20 target length 12 alignment score : 4.5923e-14
+Zudem auch der Informationsaustausch mit dem nationalen Sozialversicherungsamt, was nicht gut funktionierte. 
+NULL ({ }) Then ({ }) there ({ }) was ({ }) also ({ 2 }) the ({ 3 }) exchange ({ 1 4 }) of ({ }) information ({ }) with ({ 5 6 }) the ({ }) national ({ }) social ({ 7 }) security ({ 8 }) office ({ 9 }) which ({ }) was ({ }) not ({ 10 }) very ({ }) very ({ }) good. ({ 11 12 }) 
+# Sentence pair (71) source length 11 target length 11 alignment score : 1.97066e-13
+Viele Informationen wurden also von einer zur anderen Partei nicht übergeben. 
+NULL ({ }) So ({ 4 }) a ({ }) lot ({ 3 }) of ({ 5 }) information ({ 2 6 }) didn't ({ 7 10 }) pass ({ 1 9 }) from ({ 8 }) one ({ }) to ({ }) another. ({ 11 }) 
+# Sentence pair (72) source length 7 target length 7 alignment score : 1.24747e-07
+Schließlich etwas über die Auswirkungen des Systems. 
+NULL ({ }) Finally ({ 1 2 }) about ({ 3 }) the ({ 4 }) impact ({ 5 6 7 }) of ({ }) the ({ }) system. ({ }) 
+# Sentence pair (73) source length 10 target length 11 alignment score : 4.30768e-12
+Es gab immer noch ein Problem bei der Eingabe von Transaktionen 
+NULL ({ }) There ({ 1 }) was ({ }) still ({ 3 4 }) a ({ 5 }) problem ({ 2 6 }) with ({ }) the ({ }) entering ({ 7 8 9 }) of ({ 10 }) transactions ({ 11 }) 
+# Sentence pair (74) source length 35 target length 33 alignment score : 2.49971e-29
+Das System als solches funktioniert also sehr gut, wenn es so verwendet wird, wie es verwendet werden soll, aber wenn bestimmte Transaktionen in das System nicht eingegeben sind, können sie nicht erkannt werden. 
+NULL ({ }) So, ({ 1 }) the ({ }) system ({ 2 }) as ({ 3 }) such ({ 4 }) works ({ 5 6 }) very ({ 7 }) fine ({ 8 }) if ({ }) it's ({ }) use ({ 11 12 13 14 }) when ({ 9 }) it's ({ 10 }) used ({ 16 }) like ({ }) it ({ 15 }) has ({ }) to ({ }) be ({ }) used, ({ 18 }) but ({ 19 }) when ({ 20 }) certain ({ 21 }) transactions ({ 22 }) were ({ }) not ({ 26 }) entered ({ 25 }) in ({ 23 }) the ({ 24 }) system ({ }) they ({ 30 }) could ({ }) not ({ 31 }) be ({ 17 }) discovered. ({ 27 28 29 32 33 }) 
+# Sentence pair (75) source length 17 target length 18 alignment score : 1.06123e-21
+Die Lösung könnte also darin bestehen, eine Medienkampagne für die Kunden durchzuführen, um nach einem Schein zu fragen. 
+NULL ({ }) So ({ }) solution ({ 12 16 }) could ({ }) be ({ }) to ({ 17 }) have ({ }) a ({ 7 }) media ({ 14 18 }) campaign ({ 15 }) for ({ 9 }) the ({ 10 }) customers ({ 11 }) to ({ 13 }) ask ({ 4 5 6 }) for ({ }) a ({ }) ticket. ({ 1 2 3 8 }) 
+# Sentence pair (76) source length 14 target length 12 alignment score : 8.95097e-15
+Dies würde also sicherstellen, dass jede Transaktion in das System eingegeben wird. 
+NULL ({ }) So ({ 3 }) this ({ }) would ({ 4 }) make ({ }) sure ({ }) that ({ 5 }) every ({ 6 }) transaction ({ 1 7 }) would ({ 2 }) be ({ }) entered ({ 10 }) in ({ 8 }) the ({ }) system. ({ 9 11 12 }) 
+# Sentence pair (77) source length 34 target length 30 alignment score : 1.6127e-37
+Andernfalls sollte es sich nicht um einen Schein handeln, sondern die Gesetzgebung würde daran angepasst, dass nur elektronische Zahlungen akzeptiert seien, da es dann einfacher wäre, die Geldflüsse zu verfolgen. 
+NULL ({ 27 }) Otherwise ({ }) they ({ 3 }) will ({ }) not ({ 5 }) a ({ }) be ({ 2 }) a ({ }) ticket ({ 1 }) or ({ }) that ({ }) the ({ }) legislation ({ 4 }) would ({ 6 }) be ({ }) adapted ({ 7 8 9 28 }) to ({ 29 }) that ({ 16 }) only ({ 17 }) electronic ({ 10 18 19 30 }) payments ({ 12 20 }) would ({ 13 21 }) be ({ }) accepted ({ 14 15 }) because ({ 22 }) then ({ 24 }) it ({ 23 }) would ({ }) be ({ }) more ({ }) easy ({ 25 }) to ({ }) follow ({ 26 }) the ({ 11 }) money. ({ }) 
+# Sentence pair (78) source length 21 target length 16 alignment score : 1.53094e-19
+Es gibt jedoch keine zuverlässige Messung der Verwaltung von Auswirkungen, sodass sie keine Ahnung davon haben. 
+NULL ({ }) But ({ }) as ({ }) a ({ }) real ({ }) impact ({ }) there ({ }) is ({ }) no ({ 1 }) reliable ({ 2 }) measurement ({ 3 4 5 6 }) of ({ }) the ({ }) administration ({ 8 }) of ({ 9 }) the ({ 7 }) impact, ({ 10 }) so ({ 11 }) they ({ 12 }) have ({ }) no ({ 13 }) idea. ({ 14 15 16 }) 
+# Sentence pair (79) source length 35 target length 32 alignment score : 2.52311e-30
+Und dann hat unser Team einige Tests durchgeführt und versucht, einige Auswirkungen zu finden, hat aber festgestellt, dass hier ein Vorzieheffekt ersteht, da sich die Einführung des Systems um einige Jahre verzögerte. 
+NULL ({ }) And ({ 1 }) then ({ 2 }) our ({ 4 }) team ({ 5 }) has ({ 3 }) done ({ 8 }) some ({ 6 }) tests ({ 7 }) and ({ 9 }) has ({ 10 }) tried ({ 15 }) to ({ 13 }) find ({ 14 }) some ({ 11 }) impact, ({ 12 }) but ({ 16 }) they ({ }) discovered ({ 18 }) there ({ }) was ({ }) an ({ }) anticipation ({ 17 }) effect, ({ 19 21 23 }) since ({ 22 }) the ({ 25 }) introduction ({ 24 }) of ({ }) the ({ }) system ({ }) was ({ }) delayed ({ 26 }) for ({ }) a ({ 20 }) few ({ 27 28 29 30 31 }) years. ({ 32 }) 
+# Sentence pair (80) source length 30 target length 29 alignment score : 9.69907e-31
+Aber jeder wusste, dass es kommen soll, und deshalb die Kunden sowie die Unternehmen bereits vorweggenommen haben, welche Gesetze sich ändern würden und wie das System eingeführt werden sollte. 
+NULL ({ }) But ({ 1 }) everybody ({ 2 3 }) knew ({ 27 28 29 }) it ({ 5 }) was ({ }) coming, ({ 6 7 9 12 }) so ({ }) customers ({ 11 }) and ({ 8 }) also ({ }) the ({ 13 }) companies ({ 14 }) already ({ 15 }) anticipated ({ 16 }) on ({ }) the ({ 10 }) legislation ({ 20 }) that ({ 4 }) was ({ }) are ({ }) going ({ 18 }) to ({ }) change ({ 17 }) and ({ 23 }) on ({ }) the ({ }) introduction ({ 19 21 22 24 }) of ({ }) the ({ }) system. ({ 25 26 }) 
+# Sentence pair (81) source length 23 target length 22 alignment score : 2.27973e-21
+Daher war es sehr schwierig, die genauen Unterschiede zwischen den MwSt.-Einnahmen vor 2016, als das System eingeführt wurde, und danach zu erkennen. 
+NULL ({ }) So ({ 1 }) it ({ 3 }) was ({ }) very ({ 4 }) difficult ({ 5 }) to ({ }) see ({ }) the ({ 6 }) exact ({ 7 8 }) differences ({ }) between ({ 9 }) the ({ 10 }) VAT ({ 11 }) income ({ 13 14 }) before ({ 12 }) 2016, ({ }) when ({ }) the ({ 15 }) system ({ 16 }) was ({ 2 }) introduced ({ 17 18 }) and ({ 19 }) after. ({ 20 21 22 }) 
+# Sentence pair (82) source length 24 target length 19 alignment score : 1.38792e-22
+Denn bereits einige Jahre vor 2016 stiegen die MwSt.-Erklärungen allein angesichts des abgewarteten neuen Systems welches Veränderung bringen würde. 
+NULL ({ }) Because ({ 1 }) already ({ 2 }) a ({ }) few ({ 3 4 }) years ({ }) there ({ }) before ({ 5 }) 2016 ({ 6 }) VAT ({ 7 }) returns ({ 9 }) were ({ }) augmenting ({ 10 }) just ({ }) in ({ }) view ({ 11 12 }) of ({ }) the ({ }) of ({ }) the ({ }) new ({ }) system ({ }) which ({ 8 }) would ({ }) change. ({ 13 14 15 16 17 18 19 }) 
+# Sentence pair (83) source length 9 target length 10 alignment score : 1.93818e-12
+Unser Team war sich mit dem Effekt also nicht sicher. 
+NULL ({ }) So ({ 8 }) our ({ }) team ({ 2 4 }) was ({ 3 }) not ({ 9 }) sure ({ 5 6 }) of ({ }) the ({ }) effect. ({ 1 7 10 }) 
+# Sentence pair (84) source length 21 target length 21 alignment score : 2.32856e-20
+Hier ging es nur um dieses System oder darum, dass der Effekt noch größer war, weil es früher begann als vermutet. 
+NULL ({ }) This ({ }) was ({ 3 }) only ({ 4 }) about ({ 5 }) this ({ 6 }) system ({ 7 }) or ({ 8 }) that ({ 10 }) the ({ 11 }) effect ({ 9 12 }) was ({ }) even ({ }) even ({ 13 }) bigger, ({ 14 15 }) because ({ 16 }) it ({ 17 }) started ({ 18 }) earlier ({ 19 }) than ({ 20 }) they ({ }) thought. ({ 1 2 21 }) 
+# Sentence pair (85) source length 17 target length 15 alignment score : 4.87302e-11
+<CENSORED>, darf ich nun unterbrechen, ich habe ein Problem und ich möchte es richtig verstehen. 
+NULL ({ }) <CENSORED>, ({ 1 }) may ({ 2 }) I ({ 3 }) interrupt, ({ 4 7 }) just, ({ 5 }) I ({ 6 }) have ({ }) a ({ 8 }) problem, ({ 9 }) or ({ 10 }) I ({ 11 }) would ({ }) like ({ }) to ({ }) understand ({ 12 }) it ({ 13 }) correctly. ({ 14 15 }) 
+# Sentence pair (86) source length 14 target length 8 alignment score : 6.84084e-09
+Was soll ich unter dem Begriff Cash-Registrierkassensystem verstehen? 
+NULL ({ }) What ({ 1 }) do ({ 2 }) I ({ 3 }) have ({ }) to ({ }) understand ({ }) under ({ 4 }) this ({ }) a ({ }) term ({ 5 6 }) registered ({ }) cash ({ }) register ({ 7 }) system? ({ 8 }) 
+# Sentence pair (87) source length 15 target length 11 alignment score : 1.1558e-11
+Bedeutet dies, dass dieses Cash-Registrierkassensystem irgendwo in einer Datenbank registriert ist? 
+NULL ({ }) Does ({ 1 }) it ({ }) mean ({ }) that ({ 3 }) this, ({ 4 }) this ({ }) cash ({ }) register ({ 5 }) system ({ }) is ({ }) somewhere ({ 2 }) in ({ 7 }) a ({ }) database ({ 8 9 10 11 }) registered? ({ 6 }) 
+# Sentence pair (88) source length 14 target length 11 alignment score : 1.1376e-11
+Nein, es ist kein Online, es ist ein Bargeld, ein „Kasse“. 
+NULL ({ }) No, ({ 1 }) it's ({ 2 }) not ({ }) it's ({ 3 }) not ({ }) an ({ }) online, ({ 4 5 }) it's ({ 6 }) it's ({ }) a ({ }) cash ({ 7 }) a ({ 8 }) yeah ({ 9 }) "kasa". ({ 10 11 }) 
+# Sentence pair (89) source length 10 target length 10 alignment score : 2.20234e-08
+Ja, es ist also nur für Cafés, Hotels, Restaurants bestimmt. 
+NULL ({ }) Yeah, ({ 1 }) ok, ({ 2 }) so ({ 4 }) it's ({ 3 }) it's ({ }) just ({ 5 }) an ({ 6 }) cafes, ({ 7 }) hotels, ({ 8 }) restaurants. ({ 9 10 }) 
+# Sentence pair (90) source length 6 target length 7 alignment score : 2.81719e-07
+Es ist nur für einen gewissen Zweig. 
+NULL ({ }) It's ({ 1 2 }) only ({ 3 }) for ({ 4 }) a ({ }) certain ({ }) branch. ({ 5 6 7 }) 
+# Sentence pair (91) source length 27 target length 26 alignment score : 1.53143e-27
+Derzeit ist es nur in der HoReCa-Branche verfügbar und es heißt ein System, das jede Transaktion registriert oder jede in das System eingegebene Hochrechnung registrieren sollte. 
+NULL ({ }) It's ({ 2 }) only ({ 4 }) in ({ 5 }) the ({ 6 }) Horeca ({ 7 }) branch ({ 1 8 }) for ({ }) now ({ }) and ({ 9 }) it's ({ 3 10 }) a ({ 12 }) system ({ 22 }) that ({ }) registers ({ 11 13 }) every ({ 14 15 }) transaction ({ 16 17 }) or ({ 18 }) should ({ 26 }) register ({ }) every ({ 19 }) projection ({ 23 }) that ({ }) is ({ }) inputted ({ 24 25 }) into ({ 20 }) the ({ }) system. ({ 21 }) 
+# Sentence pair (92) source length 7 target length 5 alignment score : 8.70917e-05
+Es besteht kein Online-Zugang hier. 
+NULL ({ }) (So, ({ }) the) ({ 2 }) There ({ 1 }) is ({ }) no ({ 3 }) online ({ 4 }) access. ({ 5 }) 
+# Sentence pair (93) source length 23 target length 15 alignment score : 1.09923e-14
+Deshalb ist die Auswahl der Kontrollgruppe sehr wichtig, da die Kontrollteams verschiedene Orte aufsuchen müssen. 
+NULL ({ }) So ({ }) when ({ }) that's ({ 2 }) why ({ 1 }) the ({ 3 }) selection ({ 4 }) of ({ }) the ({ }) control ({ 5 }) group ({ 6 }) is ({ }) very ({ 7 }) important ({ 8 }) because ({ 9 }) the ({ }) control ({ }) teams ({ 11 }) have ({ }) to ({ }) go ({ }) the ({ 10 }) different ({ 12 }) places. ({ 13 14 15 }) 
+# Sentence pair (94) source length 24 target length 24 alignment score : 3.84902e-34
+Das Kontrollteam kann die Orte nicht online auf einem Computer ansehen, sondern muss zu den HoReCas gehen und ihren Computer an deren Registrierkasse anschließen. 
+NULL ({ 4 }) They ({ }) can't ({ }) look ({ }) at ({ }) it ({ }) online ({ }) on ({ }) a ({ }) computer ({ 8 }) they ({ }) have ({ }) to ({ }) go ({ 5 6 13 }) to ({ 14 }) the ({ 15 }) Horeca ({ 16 17 }) and ({ 18 }) connect ({ 7 19 }) their ({ }) computer ({ 10 20 }) to ({ }) their ({ 11 12 21 }) cash ({ 9 }) register. ({ 1 2 3 22 23 24 }) 
+# Sentence pair (95) source length 14 target length 11 alignment score : 5.22266e-12
+Dann holt es die Daten heraus und führt die Kontrolle durch. 
+NULL ({ }) So ({ 1 }) then ({ }) they ({ }) get ({ 6 }) the ({ 4 }) data ({ 5 }) out ({ }) of ({ }) it ({ 3 }) and ({ 7 }) they ({ }) do ({ 8 }) the ({ 9 }) controls. ({ 2 10 11 }) 
+# Sentence pair (96) source length 9 target length 11 alignment score : 6.94386e-12
+Ja, aber aus der Ferne kann es dies nicht nicht machen. 
+NULL ({ }) Yes, ({ 1 }) but ({ 2 }) they ({ }) can't ({ 9 10 }) do ({ 8 }) it ({ 7 }) from ({ }) a ({ }) distance. ({ 3 4 5 6 11 }) 
+# Sentence pair (97) source length 9 target length 8 alignment score : 1.2872e-08
+Sie müsssen immer selbst zu den Lokalitäten gehen. 
+NULL ({ }) They ({ 1 }) always ({ 2 3 }) have ({ }) to ({ }) go ({ }) to ({ 5 }) the ({ 6 }) premises ({ 4 7 }) themselves. ({ 8 }) 
+# Sentence pair (98) source length 16 target length 14 alignment score : 1.74441e-12
+Dann und deshalb, wenn eine Steuererklärung zu niedrig ist und unter dem Schwellenbetrag liegt. 
+NULL ({ }) So ({ 1 }) when ({ 4 }) and ({ 2 }) that's ({ 9 }) why ({ 3 }) when ({ }) a ({ 5 }) declaration ({ 6 }) is ({ }) too ({ 7 }) low ({ 8 }) and ({ 10 }) is ({ }) under ({ 11 }) the ({ }) threshold. ({ 12 13 14 }) 
+# Sentence pair (99) source length 36 target length 36 alignment score : 2.3526e-41
+Die Teams werden nicht dorthin gehen, um nur zu sehen, falls sie zum Beispiel das Café kennen und wissen, dass es viele Kunden besuchen und diese nicht aufgenommen worden sind, aber das ist nur ein Zufall. 
+NULL ({ 20 }) The ({ 1 }) teams ({ 2 }) won't ({ 6 }) go ({ }) there ({ 21 }) to ({ 9 }) see ({ 3 4 10 }) only ({ 8 }) if ({ 11 }) they ({ 12 }) would ({ 7 }) know ({ 13 14 }) the ({ 15 }) café, ({ 5 16 }) for ({ }) instance ({ 17 }) and ({ 18 }) they ({ }) know ({ 19 }) there ({ }) is ({ 33 }) a ({ }) lot ({ 22 24 }) of ({ }) customers ({ 23 }) and ({ 25 }) they ({ 26 }) are ({ }) not ({ 27 }) in ({ }) it ({ }) but ({ 31 }) that's ({ 32 }) just ({ 34 }) a ({ 35 }) coincidence. ({ 28 29 30 36 }) 
+# Sentence pair (100) source length 12 target length 12 alignment score : 2.65236e-12
+Aber sie haben dies erst später entdeckt, also sie werden da gehen. 
+NULL ({ }) But ({ 1 }) that's ({ }) something ({ 3 }) they ({ 2 }) discovered ({ 4 }) only ({ 5 }) later, ({ 6 7 }) so ({ 8 }) they ({ 9 }) will ({ }) be ({ 10 }) they. ({ 11 12 }) 
+# Sentence pair (101) source length 21 target length 19 alignment score : 2.4366e-14
+Vielen Dank, <CENSORED>, für Ihre Frage, denn ich war besorgt, dass ich der einzige bin, der es nicht versteht. 
+NULL ({ }) Thank ({ 1 }) you, ({ 2 }) <CENSORED>, ({ 3 }) for ({ 4 }) your ({ 5 }) question, ({ 6 7 }) because ({ }) I ({ 8 }) was ({ 9 }) worried ({ 10 }) that ({ 11 }) I ({ 12 }) am ({ 13 14 15 16 }) the ({ }) only ({ }) one ({ }) I'm ({ }) not ({ 18 }) understanding ({ 17 }) this ({ }) is. ({ 19 }) 
+# Sentence pair (102) source length 26 target length 27 alignment score : 1.46497e-30
+OK, aber was ist dann der Unterschied zwischen diesem System von welchem Sie sprechen, und einer Cash-Registrierkassensystem bei einem beliebigen Verkäufer, ich meine das in einem Lebensmittelgeschäft. 
+NULL ({ 15 }) Ok, ({ 1 }) but ({ 2 }) what ({ 3 }) is ({ 4 }) the ({ 6 }) difference ({ 7 }) then ({ 5 }) between ({ 8 }) this ({ }) system ({ }) you ({ }) are ({ }) talking ({ 9 18 }) about ({ }) the ({ }) cash ({ }) register ({ 17 24 }) system ({ 10 }) in ({ 25 }) any ({ 11 }) seller ({ 12 13 14 }) I ({ 22 }) mean ({ 16 23 }) in ({ }) a ({ }) grocery. ({ 19 20 21 26 27 }) 
+# Sentence pair (103) source length 12 target length 13 alignment score : 1.59891e-16
+Was ist dann das Besondere an diesem speziellen System, das wir da haben? 
+NULL ({ }) Then, ({ 1 }) what ({ }) is ({ 2 }) the ({ }) special ({ }) thing ({ 3 }) in ({ }) this ({ }) particular ({ 7 }) system ({ }) you're ({ 4 5 6 8 9 10 }) there. ({ 11 12 13 }) 
+# Sentence pair (104) source length 36 target length 33 alignment score : 1.15358e-34
+Es steht eine spezielle Software zur Verfügung, die jede Möglichkeit von Betrug mit dem System feststellt, und diese Software stellt auch sicher, dass die Daten auf den Computer der Kontrollteams übertragen werden können. 
+NULL ({ }) There ({ 1 }) is ({ }) a ({ 3 }) special ({ 4 }) software ({ 2 5 }) in ({ }) it ({ }) that ({ }) provides ({ 9 }) any ({ 6 }) possibility ({ 7 10 }) of ({ 11 }) fraud ({ 12 }) with ({ 13 14 }) the ({ 8 }) system ({ 15 }) and ({ 17 }) it ({ 16 }) it ({ 18 }) it's ({ }) software ({ 19 20 }) also ({ 21 }) make ({ }) sure ({ }) that ({ 23 }) the ({ 24 }) data ({ 25 }) is ({ }) transferable ({ 22 26 }) to ({ }) the ({ }) computer ({ 28 }) of ({ }) the ({ 27 }) control ({ 29 }) teams. ({ 30 31 32 33 }) 
+# Sentence pair (105) source length 17 target length 15 alignment score : 7.6599e-17
+Dagegen mit einem normalen Cash-Registrierkassensystem können Sie die Daten nicht auf die gleiche Weise extrahieren. 
+NULL ({ }) While ({ 1 2 3 4 }) a ({ }) a ({ }) regular ({ }) a ({ }) cash ({ }) register ({ 5 }) system ({ }) you ({ 7 }) can't ({ 10 11 }) extract ({ 6 }) the ({ 8 }) data ({ 9 }) in ({ }) the ({ 12 }) same ({ 13 }) way. ({ 14 15 }) 
+# Sentence pair (106) source length 10 target length 10 alignment score : 9.85624e-14
+Das ist also ein Cash Registrierkassensystem, das einen Vorteil hat. 
+NULL ({ }) So ({ 1 3 }) this ({ }) a ({ 4 }) cash ({ 2 }) register ({ }) systems ({ 5 }) that ({ }) are ({ }) have ({ }) a. ({ 6 7 8 9 10 }) 
+# Sentence pair (107) source length 33 target length 26 alignment score : 6.36247e-28
+Ja, es gibt auch andere besondere Kontrollinstrumente, ich denke, es gibt fünf verschiedene Marken von Cash-Registrierkassensystemen, aus denen Sie auswählen können und welche eine Zertifizierung haben. 
+NULL ({ }) Yeah, ({ 1 }) they ({ }) are ({ 3 }) special ({ 4 }) too, ({ 5 6 7 }) but ({ }) there ({ 2 }) are ({ }) there ({ }) I ({ 8 }) think ({ 9 }) it ({ 10 }) there ({ }) are ({ 11 }) five ({ 12 }) different ({ 13 }) marks ({ 14 }) of ({ 15 }) cash's ({ 16 }) cash ({ }) register ({ }) systems ({ }) out ({ 17 }) of ({ }) which ({ }) you ({ }) can ({ }) choose ({ 18 }) and ({ 22 }) they ({ }) have ({ }) a ({ 24 }) certification. ({ 19 20 21 23 25 26 }) 
+# Sentence pair (108) source length 20 target length 18 alignment score : 2.94941e-22
+SO dass sämtliche Daten extrahierbar sind, in den Datenformaten, welche gut für die Analysen durch Kontrollteams geeignet sind. 
+NULL ({ }) That ({ }) all ({ }) data ({ }) that ({ 2 }) is ({ }) extractable, ({ 1 3 5 6 }) that ({ 7 }) the ({ }) formats ({ 9 10 11 }) of ({ }) the ({ }) data ({ 4 }) is ({ }) good ({ }) for ({ 12 }) the ({ 13 }) control ({ 8 }) teams ({ 16 }) to ({ }) analyze. ({ 14 15 17 18 }) 
+# Sentence pair (109) source length 14 target length 13 alignment score : 6.09558e-11
+Ja, die Kompatibilität ist also zertifiziert, das ist der andere Teil der Hauptdomäne. 
+NULL ({ }) Yeah, ({ 1 }) yeah, ({ 3 }) so ({ }) the ({ 2 }) compatibility ({ 4 }) is ({ }) is ({ }) certified ({ 5 6 }) that's ({ 7 8 }) the ({ 9 }) main ({ 10 }) domain ({ 11 }) different ({ }) section. ({ 12 13 }) 
+# Sentence pair (110) source length 22 target length 19 alignment score : 7.29771e-20
+Ja, Sie haben diese Risikoanalyse erwähnt, es gab vielmehr Mängel an Risikodienstanalyse oder sie war gar nicht durchgeführt worden. 
+NULL ({ }) Yeah, ({ 1 }) you ({ 2 }) mentioned ({ 3 6 }) this ({ 4 }) risk ({ 5 }) analysis ({ }) there ({ }) was ({ }) like ({ 7 }) a ({ }) lack ({ 8 9 10 11 }) of ({ }) risk ({ }) service ({ 12 }) analysis ({ }) or ({ 13 }) they ({ 14 }) were ({ }) not ({ 17 }) performance ({ 15 16 }) all ({ }) or. ({ 18 19 }) 
+# Sentence pair (111) source length 9 target length 7 alignment score : 3.7144e-07
+Ich meine Online-Zugriff auf diese Analyse oder? 
+NULL ({ }) I ({ 1 }) mean ({ 2 }) online ({ }) access ({ 4 }) access ({ 3 }) to ({ }) this ({ 5 }) analysis ({ }) or? ({ 6 7 }) 
+# Sentence pair (112) source length 9 target length 5 alignment score : 1.4399e-05
+Online-Zugriff auf die Registrierkasse selbst. 
+NULL ({ }) Online ({ 1 }) access ({ 2 }) to ({ }) the ({ 3 }) the ({ }) cash ({ }) register ({ }) system ({ }) itself. ({ 4 5 }) 
+# Sentence pair (113) source length 24 target length 23 alignment score : 4.25148e-21
+Gut, dies ist, was die Kontrollen weitaus einfacher machen könnte, und da wir dann automatische Kontrollen oder das Extrahieren von Daten durchführen könnten. 
+NULL ({ }) Ok, ({ }) so ({ }) which ({ 5 }) could ({ }) made ({ 7 }) controls ({ 6 }) are ({ }) far ({ 1 2 3 4 }) more ({ }) easy ({ 8 }) ok ({ 9 10 }) and ({ 11 }) because ({ 12 }) then ({ 14 }) we ({ 13 }) can ({ }) do ({ }) automatic ({ 15 }) controls ({ 16 }) or ({ 17 }) extraction ({ 18 19 }) of ({ }) of ({ 20 }) data. ({ 21 22 23 }) 
+# Sentence pair (114) source length 24 target length 23 alignment score : 4.58222e-25
+Was in ein größeres System eingebaut werden könnte und die Risikoanalyse wirklich nur sehr elementar war, weil nicht genug Daten zur Verfügung standen. 
+NULL ({ }) Which ({ 1 }) could ({ }) be ({ }) put ({ }) into ({ 2 }) a ({ 3 }) bigger ({ 4 6 7 8 }) system ({ 5 }) and ({ 9 }) the ({ 10 }) risk ({ 11 }) analysis ({ }) was ({ }) very ({ }) very ({ 14 }) basic, ({ 12 13 15 }) actually, ({ 16 }) because ({ 17 }) they ({ }) they ({ }) didn't ({ 18 21 }) have ({ }) enough ({ 19 22 }) data. ({ 20 23 }) 
+# Sentence pair (115) source length 26 target length 25 alignment score : 9.4514e-26
+Dies lag auch daran, dass dieser Audit oder dieses System erst im Juli 2016 eingeführt wurde, sodass sie nur mit Daten von zwei Jahren arbeiten konnten. 
+NULL ({ }) It ({ 1 2 4 }) was ({ 5 }) also ({ 3 }) because ({ }) this ({ 6 }) audit ({ 7 }) or ({ 8 }) this ({ 9 }) a ({ }) system ({ 10 }) was ({ }) only ({ }) introduced ({ 14 }) in ({ }) 2016, ({ 15 }) so ({ 16 }) they ({ 17 }) only ({ 18 }) had ({ 19 }) two ({ 22 }) years ({ 23 24 25 }) of ({ 21 }) data ({ 20 }) to ({ }) work ({ 11 }) with. ({ 12 13 }) 
+# Sentence pair (116) source length 3 target length 6 alignment score : 9.46634e-07
+OK, lassen Sie uns das beenden. 
+NULL ({ }) Ok, ({ 1 }) to ({ }) finish. ({ 2 3 4 5 6 }) 
+# Sentence pair (117) source length 9 target length 10 alignment score : 2.87535e-10
+Ich habe zwei neue Betrugstrends im Rahmen unserer Verwaltung erkannt. 
+NULL ({ }) I ({ 1 }) have ({ }) two ({ 3 }) new ({ 4 }) fraud ({ }) trends ({ 5 6 7 }) of ({ }) our ({ 8 }) administration. ({ 2 9 10 }) 
+# Sentence pair (118) source length 19 target length 20 alignment score : 6.07099e-24
+Der erste wurde während einer Operation entdeckt, die als „Ehe“ bezeichnet wurde: es war die Registrierung von vielen ausländischen Gesellschaften. 
+NULL ({ }) First ({ 1 2 }) one ({ }) was ({ 14 }) discovered ({ }) during ({ 9 10 }) an ({ }) operation ({ }) which ({ 8 15 }) was ({ }) called ({ 16 }) matrimony, ({ 11 12 }) it ({ 13 }) was ({ }) a ({ }) registration ({ }) of ({ 17 }) many ({ 3 18 }) foreign ({ 4 19 }) companies. ({ 5 6 7 20 }) 
+# Sentence pair (119) source length 11 target length 10 alignment score : 3.56737e-13
+Aber immer durch dieselben zwei Manager, einen Russen, einen Bulgaren. 
+NULL ({ }) But ({ 1 }) always ({ 2 }) by ({ 3 }) the ({ }) same ({ 4 }) two ({ 5 }) managers, ({ 6 }) one ({ }) Russian, ({ }) one ({ }) Bulgarian. ({ 7 8 9 10 }) 
+# Sentence pair (120) source length 13 target length 15 alignment score : 9.58724e-15
+Aber sie registrierten sich unter den Namen, die sehr ähnlich zu bereits bekannten Namen waren. 
+NULL ({ }) But ({ 1 }) they ({ 2 }) registered ({ 3 5 }) on ({ 4 }) the ({ 6 }) names ({ 7 }) that ({ }) were ({ 8 }) very ({ 9 }) similar ({ 10 }) to ({ 11 }) known ({ 12 }) names. ({ 13 14 15 }) 
+# Sentence pair (121) source length 26 target length 26 alignment score : 2.88673e-25
+Es gab nur Unterschied in einem Buchstaben und lediglich um es glaubwürdig zu machen, dass diese Unternehmen existieren, aber die meisten von ihnen bestanden überhaupt nicht. 
+NULL ({ 20 }) There ({ 1 }) was ({ }) just ({ }) one ({ }) letter ({ 2 }) of ({ }) difference ({ 4 }) and ({ 8 }) just ({ 3 }) to ({ 13 }) make ({ }) it ({ 11 }) plausible ({ 12 14 }) that ({ 15 }) these ({ 6 16 }) companies ({ 17 }) existed, ({ 18 }) but ({ 19 }) most ({ 7 9 10 21 }) of ({ 22 }) them ({ 23 }) did ({ 5 }) not ({ }) exist ({ 24 }) at ({ }) all. ({ 25 26 }) 
+# Sentence pair (122) source length 31 target length 30 alignment score : 2.44238e-23
+Und dann haben sie nur eine MwSt.-Erklärung abgegeben und haben die MwSt.-Rückerstattung mit falschen Rechnungen beantragt, aber sie haben diese Erklärung immer in Papierform und für sehr kleine Beträge vorgelegt. 
+NULL ({ 11 }) And ({ 1 }) then ({ 2 }) they ({ 4 }) had ({ 13 }) did ({ 3 }) just ({ 5 }) a ({ 6 }) declaration ({ 7 }) of ({ }) VAT ({ 8 }) and ({ 9 }) asked ({ 10 12 }) for ({ }) VAT ({ }) refund ({ 14 }) with ({ }) false ({ 15 }) invoices, ({ 16 }) but ({ 17 }) they ({ 18 }) always ({ 22 }) did ({ 19 }) this ({ 20 }) declaration ({ 21 }) by ({ }) paper ({ 23 24 }) and ({ 25 }) for ({ 26 }) very ({ 27 }) small ({ 28 }) amounts. ({ 29 30 }) 
+# Sentence pair (123) source length 20 target length 19 alignment score : 9.64705e-19
+Dies bedeutet, dass die Verwaltung alle Informationen selbst in das System eintragen musste, was einige Zeit in Anspruch nahm. 
+NULL ({ }) Which ({ }) means ({ 1 2 }) that ({ 3 }) a ({ }) the ({ 4 }) administration ({ 5 }) had ({ 10 }) to ({ }) put ({ }) in ({ 9 }) all ({ 6 }) the ({ }) information ({ 7 }) themselves ({ 8 11 12 13 }) into ({ 17 }) the ({ }) system, ({ 14 }) which ({ 15 }) took ({ 16 }) time. ({ 18 19 }) 
+# Sentence pair (124) source length 38 target length 34 alignment score : 4.3456e-45
+Und deshalb wurden bereits einige Rückerstattungen vorgenommen, bevor die Verwaltung tatsächlich feststellen konnte, dass ein möglicher Betrug bestand, und bevor sie überprüfen konnten, ob die Gesellschaft tatsächlich existiert und ob die Rechnungen echt sind. 
+NULL ({ }) And ({ 1 }) therefore ({ 2 3 }) there ({ }) were ({ }) already ({ 4 }) done ({ }) some ({ 5 }) refunds ({ 6 7 }) before ({ }) they ({ 21 }) could ({ }) actually ({ 15 }) discover ({ 13 16 }) that ({ 14 }) there ({ }) was ({ }) the ({ }) possibility ({ }) of ({ }) fraud ({ 17 }) and ({ 19 }) and ({ }) could ({ }) control ({ }) it ({ }) if ({ }) the ({ }) company ({ }) was ({ }) really ({ 27 }) existing, ({ 18 28 }) and ({ 29 }) if ({ 8 20 24 30 }) the ({ 9 25 31 }) invoices ({ 10 22 26 32 }) war ({ 11 12 23 33 }) were ({ }) real. ({ 34 }) 
+# Sentence pair (125) source length 30 target length 28 alignment score : 2.03406e-29
+Aber diese Art von Betrug wurde entdeckt und die Informationen werden über Eurofisc verbreitet, deshalb denke ich, dass jetzt jede Steuerverwaltung von dieser Art von Betrug Kenntnis hat. 
+NULL ({ }) But ({ 1 }) this ({ 2 }) kind ({ 3 }) of ({ 4 }) fraud ({ 5 }) was ({ }) discovered ({ }) and ({ 8 }) the ({ 9 }) information ({ 10 }) is ({ }) spread ({ 6 7 11 12 }) via ({ 13 14 }) EUROFISC, ({ 15 16 17 }) so ({ }) I ({ }) I ({ }) think ({ }) that ({ 18 }) every ({ 20 }) tax ({ 21 }) administration ({ }) now ({ 19 }) is ({ }) aware ({ 26 27 28 }) of ({ 22 }) this ({ 23 }) kind ({ 24 }) of ({ }) fraud. ({ 25 }) 
+# Sentence pair (126) source length 20 target length 14 alignment score : 4.89993e-14
+Ein weiterer Betrug betraf Ökostrom-Zertifikate, die den ehemaligen Zertifikaten für CO3-2 sehr ähnlich waren. 
+NULL ({ }) Another ({ }) a ({ }) fraud ({ 3 }) was ({ }) in ({ }) green ({ 1 2 }) power ({ 4 }) certificates, ({ 5 }) so ({ }) very ({ 12 }) similar ({ 13 14 }) to ({ }) the ({ 6 }) certificates ({ }) for ({ 10 }) CO3-2 ({ 11 }) in ({ }) the ({ 7 }) the ({ }) past. ({ 8 9 }) 
+# Sentence pair (127) source length 17 target length 17 alignment score : 6.6207e-14
+Dies war ein Schema mehr oder weniger in dem gleichen Sinne, wie sie die Rechnungen gesandt haben. 
+NULL ({ }) This ({ 1 }) was ({ 2 }) a ({ 3 }) scheme ({ 4 }) more ({ 5 }) or ({ 6 }) less ({ 7 }) in ({ 8 }) the ({ }) same ({ 10 }) sense ({ 11 12 }) that ({ }) they ({ 13 }) were ({ 14 }) sending ({ 9 15 }) in ({ }) voices. ({ 16 17 }) 
+# Sentence pair (128) source length 20 target length 20 alignment score : 7.23374e-22
+Oder sie verwenden Rechnungen im Namen einer Firma, die sehr stark einer legalen Firma ähnelt, welche die Rechnung senden sollte. 
+NULL ({ }) Or ({ 4 }) using ({ 5 6 }) in ({ }) voices ({ 12 13 14 }) for ({ }) a ({ }) firm ({ 7 }) that ({ }) resembled ({ 8 }) very ({ 10 }) much ({ 11 }) of ({ }) the ({ 9 }) legal ({ 15 }) firm ({ 16 }) that ({ }) should ({ }) send ({ }) the ({ 17 }) invoice. ({ 1 2 3 18 19 20 }) 
+# Sentence pair (129) source length 20 target length 15 alignment score : 7.32889e-17
+Wir hatten also ein Schema, das ich sehr kurzgefasst habe und kein Bild davon machte. 
+NULL ({ }) So ({ 3 }) we ({ }) had ({ }) a ({ }) scheme ({ 2 5 }) I've ({ 1 }) had ({ 6 }) made ({ 7 }) it ({ }) very ({ 8 }) short ({ 9 }) and ({ 11 }) didn't ({ }) make ({ }) it ({ }) any ({ }) a ({ 4 }) picture ({ 10 12 13 }) of ({ }) it. ({ 14 15 }) 
+# Sentence pair (130) source length 7 target length 8 alignment score : 6.79381e-07
+Aber ich möchte es auf diese Weise erklären. 
+NULL ({ }) But ({ 1 }) I ({ 2 }) will ({ }) explain ({ 3 }) it ({ 4 }) like ({ }) this. ({ 5 6 7 8 }) 
+# Sentence pair (131) source length 32 target length 28 alignment score : 1.85946e-29
+Es war also eine Firma A in einem Mitgliedstaat X, die durch Zertifikate von Firma B in einem anderen Mitgliedstaat A diese Zertifikate an Firma C verkaufen wollte. 
+NULL ({ 11 }) So, ({ 3 }) it ({ }) was ({ 2 }) a ({ 4 }) company ({ 5 }) A ({ 6 }) in ({ 7 }) a ({ }) member ({ 8 }) state ({ 1 9 }) X ({ 10 12 13 }) that ({ }) by ({ }) certificates ({ 15 16 }) from ({ 14 }) B ({ 23 }) in ({ 17 }) another ({ 18 }) member ({ 19 }) state ({ 20 }) A, ({ 21 }) and ({ }) then ({ }) they ({ }) would ({ }) sell ({ 24 }) it ({ }) these ({ 22 }) certificates ({ }) to ({ }) company ({ 25 }) C. ({ 26 27 28 }) 
+# Sentence pair (132) source length 16 target length 17 alignment score : 6.97149e-17
+Wieder eine Firma in einem anderen Mitgliedstaat Z sendet der letzten Firma eine Rechnung von einer A-mit-Akzentzeichen-Firma. 
+NULL ({ }) Again ({ 1 4 }) another ({ 2 3 5 }) member ({ 6 }) state ({ 7 }) Z ({ 8 }) and ({ }) send ({ }) to ({ }) this ({ }) company ({ 12 }) an ({ 13 }) invoice ({ 14 }) from ({ 15 }) a ({ }) accorded ({ 9 10 11 }) A-accent. ({ 16 17 }) 
+# Sentence pair (133) source length 16 target length 15 alignment score : 1.70405e-15
+Das ist auch die Firma mit dem Namen, der nur einen Buchstabenunterschied zum Original hat. 
+NULL ({ }) So, ({ 1 }) that's ({ 2 }) the ({ 4 }) company ({ 5 }) name ({ 3 8 }) that ({ }) has ({ }) just ({ 10 }) one ({ 11 }) letter ({ }) of ({ }) difference ({ 9 }) with ({ 6 7 }) the ({ }) original ({ 12 }) one. ({ 13 14 15 }) 
+# Sentence pair (134) source length 14 target length 15 alignment score : 2.01957e-17
+Somit kann die Firma C nicht erkennen, dass hier in der Tat ein Betrug vorliegt. 
+NULL ({ }) So, ({ }) that ({ }) the ({ 3 }) company ({ 4 }) C ({ 5 }) wouldn't ({ 6 7 9 10 }) see ({ }) that ({ 8 }) there ({ }) is ({ }) actually ({ 11 12 13 }) fraud ({ 14 }) going ({ }) on. ({ 1 2 15 }) 
+# Sentence pair (135) source length 28 target length 28 alignment score : 8.73325e-31
+Und natürlich waren es die Firma A und Firma A mit Akzentzeichen, die dieselben Geschäftsleiter vertreten und die Firma A besitzen, und die A-mit-Akzentzeichen-Firma wäre der fehlende Händler. 
+NULL ({ 5 18 }) And ({ 1 }) of ({ }) course ({ 2 3 }) this ({ 4 }) a ({ }) company ({ 6 }) A ({ 7 }) and ({ 8 17 }) company ({ 9 }) A-accent ({ 10 11 12 20 }) were ({ }) the ({ 13 }) same ({ 14 }) managers ({ 15 16 21 }) that ({ }) have ({ }) this ({ }) a ({ }) A ({ }) company ({ 19 }) and ({ 22 }) the ({ 23 }) A-accent ({ 24 }) would ({ }) be ({ }) a ({ }) missing ({ 25 }) trader. ({ 26 27 28 }) 
+# Sentence pair (136) source length 8 target length 8 alignment score : 1.09542e-06
+Ich hoffe, diese Art von Schemata ist klar. 
+NULL ({ }) I ({ 1 }) hope ({ 2 }) this ({ 3 }) kind ({ 4 }) of ({ 5 }) schemes ({ 6 }) is ({ 7 }) clear. ({ 8 }) 
+# Sentence pair (137) source length 7 target length 6 alignment score : 1.20069e-05
+Das war das Ende meiner Präsentation. 
+NULL ({ }) That ({ 1 }) was ({ 2 }) the ({ 3 }) end ({ 4 }) of ({ }) my ({ 5 }) presentation. ({ 6 }) 

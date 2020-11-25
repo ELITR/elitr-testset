@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 1 target length 2 alignment score : 0.0605119
+Dobrý den. 
+NULL ({ }) Hello. ({ 1 2 }) 
+# Sentence pair (2) source length 15 target length 11 alignment score : 9.77635e-08
+Jmenuji se <NAME> a jsem z cvičné společnosti Folkstyle z <CITY>. 
+NULL ({ }) My ({ 1 }) name ({ 8 }) is ({ }) <NAME> ({ 5 }) and ({ 4 }) I ({ }) am ({ }) from ({ 6 }) the ({ 2 }) training ({ 7 }) company ({ }) Folkstyle ({ 9 }) from ({ 10 }) the ({ }) <CITY>. ({ 3 11 }) 
+# Sentence pair (3) source length 11 target length 9 alignment score : 5.35213e-06
+Rád bych vám řekl pár slov o naší společnosti. 
+NULL ({ }) I ({ 8 }) would ({ 6 }) like ({ }) to ({ 1 }) tell ({ 7 9 }) you ({ }) briefly ({ }) something ({ 5 }) about ({ 3 }) our ({ 2 }) company. ({ 4 }) 
+# Sentence pair (4) source length 24 target length 20 alignment score : 3.07989e-12
+Naše společnost Folkstyle je ze Slovenska a soustředí se na produkci oblečení a módních doplňků zdobených tradičními slovenskými folklorními motivy. 
+NULL ({ }) Our ({ 1 }) company ({ }) Folkstyle ({ 3 }) comes ({ }) from ({ }) Slovakia ({ 5 }) and ({ 7 }) is ({ 4 }) focusing ({ 8 }) on ({ 2 }) production ({ }) of ({ 10 }) the ({ 9 }) clothing ({ 11 }) and ({ 13 }) fashion ({ }) accessories ({ 6 }) decorated ({ 12 }) with ({ }) the ({ }) traditional ({ 20 }) Slovak ({ 14 }) folklore ({ 16 18 }) motifs. ({ 15 17 19 }) 
+# Sentence pair (5) source length 23 target length 17 alignment score : 2.42978e-11
+Folklor, jak všichni víte, má na Slovensku dlouholetou tradici, a proto máme na výběr ze spousty motivů. 
+NULL ({ }) Folklore, ({ 12 }) as ({ }) you ({ }) know, ({ 4 }) has ({ 14 }) a ({ 17 }) very ({ 13 }) long ({ }) tradition ({ 2 }) in ({ }) Slovakia ({ 15 }) and ({ 10 }) therefore ({ 7 }) we ({ 16 }) have ({ 3 }) still ({ }) a ({ }) lot ({ }) of ({ 6 }) plenty ({ 11 }) to ({ }) choose ({ 5 8 9 }) from. ({ 1 }) 
+# Sentence pair (6) source length 12 target length 10 alignment score : 1.94247e-06
+Rád bych podotknul, že všechny naše výrobky jsou ručně vyšívané. 
+NULL ({ }) It ({ 6 }) is ({ }) necessary ({ 9 }) to ({ 1 }) point ({ }) that ({ 8 }) all ({ 7 }) our ({ 2 }) products ({ 3 }) are ({ }) handy ({ 4 }) embroidered. ({ 5 10 }) 
+# Sentence pair (7) source length 32 target length 26 alignment score : 5.78132e-20
+V naší široké nabídce můžete najít vyšívané šaty, sukně, pásky a také čelenky nebo aktuální trend motýlky – jeden z nich mám mimochodem zrovna na sobě. 
+NULL ({ }) In ({ 20 }) our ({ }) broad ({ 17 18 19 }) offer, ({ 9 }) you ({ }) can ({ 4 }) find ({ 6 7 8 }) hand ({ 5 }) embroidered ({ 23 }) dresses, ({ 10 }) skirts, ({ }) belts ({ }) and ({ 11 }) also ({ }) headbands ({ 1 12 26 }) or ({ }) currently ({ }) very ({ 25 }) popular ({ }) bow ({ 24 }) ties ({ }) - ({ 22 }) I ({ 2 }) am ({ }) wearing ({ }) now ({ 16 }) one ({ 3 21 }) of ({ }) them ({ 15 }) by ({ 14 }) the ({ }) way. ({ 13 }) 
+# Sentence pair (8) source length 14 target length 9 alignment score : 6.0517e-07
+Při výrobě čerpáme folklorní motivy z různých částí Slovenska. 
+NULL ({ }) In ({ }) our ({ }) production, ({ 8 }) we ({ }) draw ({ 9 }) from ({ }) folk ({ 2 4 }) motifs ({ 5 }) from ({ 6 }) the ({ }) different ({ 7 }) parts ({ 1 }) of ({ }) Slovakia. ({ 3 }) 
+# Sentence pair (9) source length 26 target length 21 alignment score : 3.13574e-19
+Snažíme se kombinovat tyto motivy s aktuálními módními trendy, výsledkem jsou nadčasové kousky oblečení, které by neměly chybět v žádné skříni. 
+NULL ({ }) We ({ 14 15 16 17 18 19 20 21 }) try ({ 1 }) to ({ }) combine ({ }) these ({ 4 }) motifs ({ 5 }) with ({ }) the ({ 2 }) latest ({ 3 7 }) fashion ({ }) trends, ({ }) resulting ({ 8 }) in ({ }) a ({ }) timeless ({ 10 }) pieces ({ 9 }) of ({ }) clothes, ({ 12 }) that ({ 11 }) should ({ 13 }) not ({ }) be ({ 6 }) missing ({ }) in ({ }) any ({ }) wardrobe. ({ }) 
+# Sentence pair (10) source length 22 target length 17 alignment score : 7.15351e-16
+Naše zboží je dostupné všem věkovým kategoriím, takže mladší i starší zákazníci budou s našimi výrobky spokojeni. 
+NULL ({ }) Our ({ 1 }) production ({ }) is ({ 3 }) also ({ 4 }) available ({ }) for ({ 17 }) all ({ 16 }) age ({ }) categories, ({ 2 }) so ({ 5 }) younger ({ 7 8 9 10 11 12 13 }) as ({ }) well ({ }) as ({ }) older ({ }) category ({ 6 }) will ({ }) be ({ 14 }) satisfied ({ }) with ({ }) out ({ }) products. ({ 15 }) 
+# Sentence pair (11) source length 17 target length 13 alignment score : 9.39463e-26
+Pokud si objednáte naše zboží, nebudete na doručení čekat déle než třicet dní. 
+NULL ({ 7 }) When ({ 1 }) you ({ }) order ({ 5 }) our ({ 4 }) products, ({ 2 }) you ({ }) will ({ 3 }) be ({ }) not ({ }) waiting ({ }) for ({ }) your ({ }) goods ({ }) more ({ }) than ({ 6 }) thirty ({ 8 }) days. ({ 9 10 11 12 13 }) 
+# Sentence pair (12) source length 7 target length 7 alignment score : 0.000992034
+Platba je možná hotově nebo bankovním převodem. 
+NULL ({ }) Payment ({ 6 }) is ({ 2 }) possible ({ 1 }) by ({ 5 }) cash, ({ 4 }) bank ({ 3 }) transfer. ({ 7 }) 

@@ -1,0 +1,66 @@
+# Sentence pair (1) source length 3 target length 2 alignment score : 0.218145
+Jsem unavený. 
+NULL ({ }) I ({ }) feel ({ 1 }) tired. ({ 2 }) 
+# Sentence pair (2) source length 6 target length 5 alignment score : 0.00348656
+Tahle cesta vlakem mě vyčerpává. 
+NULL ({ }) This ({ 4 }) trade ({ 5 }) fair ({ 2 }) is ({ 3 }) so ({ }) exhausting. ({ 1 }) 
+# Sentence pair (3) source length 5 target length 4 alignment score : 0.00422718
+Potřebuju si někde sednout. 
+NULL ({ }) I ({ }) need ({ 1 3 }) somewhere ({ 2 }) to ({ }) sit. ({ 4 }) 
+# Sentence pair (4) source length 4 target length 3 alignment score : 0.0229069
+Slyšel jsem dobře? 
+NULL ({ }) Did ({ 1 }) I ({ 2 }) hear ({ 3 }) well? ({ }) 
+# Sentence pair (5) source length 14 target length 11 alignment score : 8.82321e-08
+Hledáte pohodlnou židli, na kterou si můžete sednout a odpočinout si? 
+NULL ({ }) Are ({ }) you ({ 6 }) looking ({ }) for ({ 4 }) a ({ }) comfortable ({ }) chair, ({ 2 3 5 }) where ({ 8 }) you ({ }) can ({ 7 }) sit ({ 1 }) and ({ 9 }) rest ({ 10 }) yourself? ({ 11 }) 
+# Sentence pair (6) source length 17 target length 16 alignment score : 2.4485e-13
+To jste ve správný čas na správném místě a nejspíš i já jsem ta pravá osoba. 
+NULL ({ }) You ({ }) are ({ }) in ({ }) the ({ }) right ({ 3 }) place ({ 1 4 8 }) at ({ 2 }) the ({ 6 }) right ({ 5 }) time ({ 7 15 16 }) and ({ 9 }) probably ({ 10 }) I ({ 13 }) am ({ 14 }) the ({ }) right ({ 11 }) man. ({ 12 }) 
+# Sentence pair (7) source length 9 target length 9 alignment score : 0.000119873
+Další otravný prodejce, co chce dělat reklamu svému zboží. 
+NULL ({ }) Another ({ 8 }) annoying ({ 7 }) seller, ({ 6 }) who ({ 9 }) wants ({ 5 }) to ({ }) promote ({ 3 4 }) his ({ 2 }) product. ({ 1 }) 
+# Sentence pair (8) source length 10 target length 9 alignment score : 6.43177e-08
+Počkat, počkat... než se unáhlíte, nechte mě se představit. 
+NULL ({ }) Wait, ({ 8 }) wait... ({ }) before ({ 6 }) jumping ({ }) to ({ }) conclusion ({ 3 4 5 9 }) let ({ }) me ({ 2 }) introduce ({ 1 }) myself. ({ 7 }) 
+# Sentence pair (9) source length 13 target length 10 alignment score : 1.58451e-05
+Mé jméno je <NAME> a jsem ředitelem New Design World. 
+NULL ({ }) My ({ 8 }) name ({ 9 }) <NAME> ({ 10 }) and ({ 5 }) I ({ 6 }) am ({ 7 }) a ({ }) rep ({ 4 }) of ({ }) the ({ }) New ({ 1 }) Design ({ 3 }) World. ({ 2 }) 
+# Sentence pair (10) source length 22 target length 17 alignment score : 2.37598e-14
+Naši společnost založila v roce 1981 na severovýchodě Itálie skupina mladých lidí se společnou láskou k nábytku. 
+NULL ({ }) Our ({ }) company ({ }) was ({ }) founded ({ 5 }) 1981 ({ 14 }) in ({ 4 }) the ({ }) North-East ({ 9 }) of ({ }) Italy ({ 3 }) by ({ }) a ({ }) young ({ 2 }) group ({ 13 }) of ({ }) people ({ 15 }) joined ({ 1 }) by ({ 12 }) the ({ }) passion ({ }) for ({ 7 }) furniture. ({ 6 8 10 11 16 17 }) 
+# Sentence pair (11) source length 16 target length 14 alignment score : 1.47968e-09
+Rádi bychom, aby naše vysoce kvalitní a sofistikované zboží bylo dostupné široké škále uživatelů. 
+NULL ({ }) We ({ }) wish ({ 10 }) to ({ }) make ({ 6 }) our ({ 4 }) high ({ 5 }) quality ({ 3 14 }) and ({ 7 }) sophisticated ({ 8 }) products ({ 1 }) accessible ({ 2 13 }) to ({ }) wide ({ 11 12 }) range ({ }) of ({ }) users. ({ 9 }) 
+# Sentence pair (12) source length 14 target length 10 alignment score : 1.01839e-06
+Například naše pohodlné židle jsou ideálním skloubením krásy a elegance. 
+NULL ({ }) Our ({ 8 }) comfortable ({ }) chairs, ({ 10 }) for ({ }) example, ({ 6 7 }) are ({ 2 }) the ({ }) right ({ }) trade-off ({ 5 }) to ({ }) combine ({ 1 }) beauty ({ 4 }) and ({ 9 }) elegance. ({ 3 }) 
+# Sentence pair (13) source length 2 target length 2 alignment score : 0.0358818
+Hm, zajímavé. 
+NULL ({ }) Oh, ({ 1 }) interesting. ({ 2 }) 
+# Sentence pair (14) source length 6 target length 5 alignment score : 0.00147826
+Zní to jako pěkná nabídka. 
+NULL ({ }) It ({ }) sounds ({ 5 }) like ({ 3 }) a ({ }) nice ({ 2 }) proposal. ({ 1 4 }) 
+# Sentence pair (15) source length 11 target length 7 alignment score : 0.000726932
+Rád bych vylepšil svou kancelář, takže pokračujte. 
+NULL ({ }) I ({ }) just ({ 2 }) really ({ 3 }) wanted ({ 7 }) to ({ }) upgrade ({ 4 }) my ({ 6 }) office, ({ 5 }) so ({ }) go ({ }) ahead. ({ 1 }) 
+# Sentence pair (16) source length 28 target length 22 alignment score : 9.18376e-53
+Chceme nabízet zboží orientované na zákazníka, aniž bychom se zřekli kvality a tak nabízíme sofistikované zboží s ohledem na jeho využití zákazníky. 
+NULL ({ 5 19 }) We ({ }) want ({ }) to ({ }) offer ({ }) something ({ }) that ({ }) focuses ({ 22 }) on ({ }) the ({ }) customer, ({ 20 }) without ({ 21 }) ever ({ 1 }) renouncing ({ 6 }) quality, ({ 4 }) and ({ 12 }) so, ({ 7 }) we ({ 18 }) want ({ }) to ({ }) offer ({ 8 }) our ({ }) sophisticated ({ 3 }) products, ({ 10 11 13 17 }) with ({ 2 14 }) a ({ }) range ({ 15 }) of ({ 9 }) users. ({ 16 }) 
+# Sentence pair (17) source length 2 target length 2 alignment score : 0.22315
+A tak... 
+NULL ({ }) And, ({ 1 }) so... ({ 2 }) 
+# Sentence pair (18) source length 4 target length 2 alignment score : 0.040863
+Máte zájem? 
+NULL ({ }) Are ({ }) you ({ }) interested ({ 2 }) in? ({ 1 }) 
+# Sentence pair (19) source length 4 target length 4 alignment score : 0.00381547
+Ano, přemluvil jste mě! 
+NULL ({ }) Yes, ({ 1 }) you ({ }) took ({ 2 4 }) me! ({ 3 }) 
+# Sentence pair (20) source length 1 target length 1 alignment score : 0.884813
+Skvělé! 
+NULL ({ }) Awesome! ({ 1 }) 
+# Sentence pair (21) source length 22 target length 18 alignment score : 4.80683e-24
+A když jste si teď navrhl základ pro vaši kancelář, nechcete si prohlídnout naše moderní knihovny a stoly? 
+NULL ({ }) And ({ 8 }) now ({ }) that ({ 9 }) you ({ 4 }) have ({ 5 }) planned ({ }) a ({ }) basis ({ 7 }) of ({ }) your ({ 11 }) office, ({ 10 }) why ({ 6 }) don't ({ }) you ({ 12 }) have ({ 13 }) a ({ }) look ({ 1 }) at ({ 3 }) our ({ 14 }) bookshelves ({ 2 16 }) and ({ 17 }) tables? ({ 15 18 }) 
+# Sentence pair (22) source length 16 target length 17 alignment score : 1.73813e-11
+Jsou pečlivě vybrané s ohledem na životní prostředí a kompletně vyrobené v Itálii jako všechno naše zboží. 
+NULL ({ }) They ({ 3 }) are ({ 16 }) comfortable, ({ }) selected, ({ 5 }) respecting ({ 8 11 }) the ({ 6 }) environment ({ 17 }) and ({ 9 }) completely ({ 2 4 7 10 }) made ({ 1 }) in ({ 12 }) Italy, ({ 15 }) like ({ 14 }) all ({ 13 }) our ({ }) products. ({ }) 

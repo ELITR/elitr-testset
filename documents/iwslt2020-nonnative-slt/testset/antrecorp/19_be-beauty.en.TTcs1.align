@@ -1,0 +1,33 @@
+# Sentence pair (1) source length 9 target length 10 alignment score : 2.18904e-09
+Dobrý den, já se jmenuji <NAME> a toto je <NAME>. 
+NULL ({ 4 }) Hello, ({ 1 }) my ({ }) name ({ 3 }) is ({ 9 }) <NAME> ({ 5 10 }) and ({ 7 }) this ({ 2 8 }) is ({ }) <NAME>. ({ 6 }) 
+# Sentence pair (2) source length 8 target length 7 alignment score : 2.58288e-06
+Naše společnost se jmenuje Be Beauty s.r.o. 
+NULL ({ }) Name ({ 4 5 6 }) of ({ 3 }) our ({ }) company ({ 1 }) is ({ }) Be ({ }) Beauty ({ 7 }) s.r.o. ({ 2 }) 
+# Sentence pair (3) source length 28 target length 14 alignment score : 2.15796e-15
+Společnost byla založena 15. května 2017. a 1. září 2018 ji převzala paní <NAME>. 
+NULL ({ }) The ({ }) company ({ }) was ({ }) founded ({ 5 11 }) on ({ }) the ({ }) fifteen ({ 4 10 }) of ({ }) May ({ 3 }) in ({ }) twenty ({ }) seventeen. ({ 2 13 }) The.... ({ }) and ({ }) it ({ }) was ({ }) taken ({ 1 }) over ({ }) by ({ }) Mrs. ({ 9 12 14 }) on ({ }) the ({ 7 }) first ({ 6 8 }) of ({ }) September ({ }) in ({ }) twenty ({ }) eighteen. ({ }) 
+# Sentence pair (4) source length 14 target length 9 alignment score : 1.54259e-06
+Prodáváme šaty a obleky českých návrhářů a krejčovských dílen. 
+NULL ({ }) We ({ }) are ({ 7 }) taking ({ 5 }) dresses ({ 2 }) and ({ 3 }) suits ({ 4 }) made ({ }) by ({ }) the ({ }) Czech ({ 6 8 }) designers ({ }) or ({ }) tailors ({ 1 }) workshop. ({ 9 }) 
+# Sentence pair (5) source length 20 target length 15 alignment score : 2.12033e-11
+Dbáme na kvalitu materiálů. Naše šaty a obleky jsou vyrobené z recyklovaných a přírodních materiálů. 
+NULL ({ }) We ({ }) pay ({ 1 }) attention ({ 4 14 15 }) to ({ }) the ({ 2 }) quality ({ 3 5 }) of ({ }) the ({ }) materials. ({ 11 12 }) Our ({ }) dresses ({ 6 }) and ({ 7 }) suits ({ 8 }) are ({ }) made ({ }) from ({ 10 }) recycled ({ }) and ({ 13 }) natural ({ 9 }) materials. ({ }) 
+# Sentence pair (6) source length 12 target length 12 alignment score : 4.22101e-09
+Rádi bychom se také zmínili o problémech životního prostředí v módním průmyslu. 
+NULL ({ }) We ({ }) also ({ }) want ({ 2 }) to ({ 11 }) talk ({ }) about ({ 4 }) environments ({ 1 }) problems ({ 7 }) in ({ 10 }) a ({ 3 }) fashion ({ 6 9 }) industry. ({ 5 8 12 }) 
+# Sentence pair (7) source length 9 target length 8 alignment score : 2.65996e-16
+Módní průmysl nejvíc přispívá ke znečišťění životního prostředí. 
+NULL ({ }) Fashion ({ 4 }) industry ({ 2 5 }) is ({ }) the ({ }) worst ({ 8 }) polluter ({ 3 6 7 }) of ({ }) the ({ }) environment. ({ 1 }) 
+# Sentence pair (8) source length 29 target length 20 alignment score : 1.62747e-47
+A sice... vyrábí se přes sto padesát miliard kusů oblečení a další miliardy oblečení se... spálí nebo zahrabou v jámách. 
+NULL ({ 4 }) It ({ 1 }) means ({ 10 14 }) that... ({ }) we ({ }) produce ({ }) over ({ }) one ({ }) bi ({ }) one ({ }) hundred ({ 12 15 }) fifty ({ 16 }) billions ({ 9 13 }) pieces ({ }) of ({ }) clothes ({ }) and ({ 11 }) other ({ }) billions ({ }) pieces ({ }) of ({ }) clothes ({ }) are, ({ 8 18 }) are ({ }) burned ({ }) and ({ }) put ({ 20 }) in ({ 19 }) the ({ }) landfills. ({ 2 3 5 6 7 17 }) 
+# Sentence pair (9) source length 15 target length 11 alignment score : 7.31242e-09
+Do roku 2030 módní průmysl poroste, protože se zvyšuje počet obyvatel. 
+NULL ({ }) We. ({ 3 }) In ({ 2 9 10 }) a ({ 8 }) twenty ({ }) thirty ({ 11 }) will ({ 1 }) the ({ }) fashion ({ }) industry ({ 5 }) increase ({ 7 }) because ({ }) of ({ }) growth ({ 6 }) of ({ }) population. ({ 4 }) 
+# Sentence pair (10) source length 33 target length 27 alignment score : 3.92557e-69
+Typický cyklus výroby oblečení je následující: získávání materiálu na výrobu látek, výroba látek, tkaní látek, přípravy, tedy barvení a tisk, a nakonec šití a poslední úpravy oblečení. 
+NULL ({ }) The ({ }) classic ({ 17 }) cycle ({ 11 12 13 14 15 26 27 }) of ({ }) making ({ 16 }) of ({ }) clothes ({ }) are: ({ }) get ({ }) material ({ }) for... ({ 2 }) for ({ }) fabrics, ({ }) making ({ }) fabrics, ({ }) bathing ({ }) fabrics, ({ }) preparation, ({ 1 }) it ({ }) means ({ 4 }) colors ({ }) and ({ 24 }) print, ({ 10 25 }) and ({ 19 }) the ({ 9 }) last ({ 3 20 22 23 }) one ({ }) is ({ 5 }) sewing ({ 6 }) and ({ 21 }) finishing ({ }) the ({ }) clothes. ({ 7 8 18 }) 
+# Sentence pair (11) source length 9 target length 7 alignment score : 2.2187e-06
+Děkujeme za pozornost, přejeme vám hezký den. 
+NULL ({ }) Thank ({ 1 }) you ({ 3 }) for ({ }) your ({ 2 }) attention, ({ 7 }) have ({ 4 5 6 }) a ({ }) nice ({ }) day. ({ }) 

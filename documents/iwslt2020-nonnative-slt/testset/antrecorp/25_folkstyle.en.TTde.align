@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 1 target length 1 alignment score : 0.598941
+Hallo. 
+NULL ({ }) Hello. ({ 1 }) 
+# Sentence pair (2) source length 15 target length 13 alignment score : 6.38144e-08
+Mein Name ist <NAME> und ich bin von der Übungsfirma Folkstyle aus <CITY>. 
+NULL ({ }) My ({ 1 }) name ({ 2 }) is ({ 3 }) <NAME> ({ 4 7 }) and ({ 5 }) I ({ 6 }) am ({ 8 }) from ({ 9 }) the ({ }) training ({ 10 }) company ({ 11 }) Folkstyle ({ }) from ({ 12 }) the ({ }) <CITY>. ({ 13 }) 
+# Sentence pair (3) source length 11 target length 10 alignment score : 2.97851e-14
+Ich würde Ihnen gern kurz etwas über unser Unternehmen erzählen. 
+NULL ({ }) I ({ }) would ({ }) like ({ }) to ({ }) tell ({ 10 }) you ({ }) briefly ({ 1 }) something ({ }) about ({ }) our ({ }) company. ({ 2 3 4 5 6 7 8 9 }) 
+# Sentence pair (4) source length 24 target length 21 alignment score : 8.81202e-13
+Unser Unternehmen Folkstyle kommt aus der Slovakei und produziert schwerpunktmäßig Kleidung und Modeaccessoires, die mit den traditionellen slovakischen Folkloremotiven verziert werden. 
+NULL ({ }) Our ({ 2 }) company ({ 3 }) Folkstyle ({ }) comes ({ 4 }) from ({ 5 }) Slovakia ({ 7 }) and ({ 8 }) is ({ }) focusing ({ 9 }) on ({ 1 }) production ({ }) of ({ 6 }) the ({ 14 }) clothing ({ 10 }) and ({ 12 }) fashion ({ 13 }) accessories ({ }) decorated ({ 11 }) with ({ 15 16 }) the ({ }) traditional ({ }) Slovak ({ 17 }) folklore ({ 18 19 20 }) motifs. ({ 21 }) 
+# Sentence pair (5) source length 23 target length 20 alignment score : 4.50556e-14
+Wie Sie wissen, hat Folklore eine sehr lange Tradition in der Slovakei und deshalb gibt es immer noch reichlich Auswahl. 
+NULL ({ }) Folklore, ({ 1 }) as ({ }) you ({ 2 }) know, ({ }) has ({ 3 }) a ({ }) very ({ 6 7 }) long ({ 5 }) tradition ({ 4 }) in ({ }) Slovakia ({ 12 }) and ({ 13 }) therefore ({ 8 }) we ({ 14 }) have ({ 9 }) still ({ 15 }) a ({ }) lot ({ }) of ({ 11 }) plenty ({ 20 }) to ({ 10 }) choose ({ 16 17 18 19 }) from. ({ }) 
+# Sentence pair (6) source length 12 target length 11 alignment score : 1.61481e-06
+Es ist wichtig darauf hinzuweisen, dass alle unsere Produkte handbestickt sind. 
+NULL ({ }) It ({ 6 }) is ({ 2 }) necessary ({ 3 }) to ({ }) point ({ 1 11 }) that ({ 4 }) all ({ 7 }) our ({ 8 }) products ({ 10 }) are ({ 5 }) handy ({ 9 }) embroidered. ({ }) 
+# Sentence pair (7) source length 32 target length 27 alignment score : 2.24985e-66
+In unserem breiten Angebot finden Sie handbestickte Kleider, Röcke, Gürtel und auch Stirnbänder oder die zurzeit sehr beliebten Fliegen - ich trage gerade übrigens eine von ihnen. 
+NULL ({ 15 }) In ({ 5 }) our ({ }) broad ({ 2 3 4 7 8 9 }) offer, ({ }) you ({ 6 }) can ({ }) find ({ }) hand ({ }) embroidered ({ }) dresses, ({ 10 }) skirts, ({ 1 }) belts ({ 18 }) and ({ 11 }) also ({ 12 }) headbands ({ 20 }) or ({ }) currently ({ 23 }) very ({ 17 25 }) popular ({ 19 }) bow ({ }) ties ({ 22 }) - ({ }) I ({ 21 }) am ({ 26 }) wearing ({ 13 }) now ({ }) one ({ 27 }) of ({ }) them ({ 24 }) by ({ 14 }) the ({ }) way. ({ 16 }) 
+# Sentence pair (8) source length 14 target length 13 alignment score : 9.53859e-11
+Für unsere Produktion greifen wir auf Folkloremotive aus verschiedenen Teilen der Slovakei zurück. 
+NULL ({ }) In ({ 3 }) our ({ 2 }) production, ({ }) we ({ }) draw ({ 4 13 }) from ({ 8 }) folk ({ 6 }) motifs ({ 9 }) from ({ 11 }) the ({ }) different ({ 5 }) parts ({ 1 }) of ({ 12 }) Slovakia. ({ 7 10 }) 
+# Sentence pair (9) source length 26 target length 22 alignment score : 3.92758e-18
+Wir versuchen, diese Motive mit den aktuellen Modetrends zu kombinieren, sodass am Ende zeitlose Kleidungsstücke entstehen, die in keinem Kleiderschrank fehlen sollten. 
+NULL ({ }) We ({ 19 }) try ({ 4 }) to ({ 18 }) combine ({ 8 }) these ({ 16 }) motifs ({ }) with ({ 5 }) the ({ 17 }) latest ({ 3 }) fashion ({ 6 }) trends, ({ 2 21 }) resulting ({ 22 }) in ({ 7 }) a ({ }) timeless ({ 15 }) pieces ({ }) of ({ }) clothes, ({ 9 10 11 12 14 }) that ({ }) should ({ }) not ({ }) be ({ }) missing ({ 13 }) in ({ }) any ({ }) wardrobe. ({ 1 20 }) 
+# Sentence pair (10) source length 22 target length 16 alignment score : 3.45921e-12
+Unsere Produkte sind auch für alle Altersstufen verfügbar, jüngere sowie ältere Menschen werden bei uns fündig. 
+NULL ({ }) Our ({ }) production ({ }) is ({ }) also ({ 4 }) available ({ 12 }) for ({ }) all ({ 6 }) age ({ 3 7 }) categories, ({ 14 }) so ({ }) younger ({ 10 15 }) as ({ }) well ({ 11 16 }) as ({ 13 }) older ({ 1 }) category ({ 8 }) will ({ 2 }) be ({ }) satisfied ({ 9 }) with ({ }) out ({ }) products. ({ 5 }) 
+# Sentence pair (11) source length 17 target length 15 alignment score : 1.08393e-07
+Wenn Sie unsere Produkte bestellen, warten Sie nicht länger als 30 Tage auf Ihre Ware. 
+NULL ({ }) When ({ 1 }) you ({ 2 }) order ({ 6 }) our ({ 3 }) products, ({ 5 }) you ({ 7 }) will ({ 4 }) be ({ 8 }) not ({ }) waiting ({ 13 }) for ({ }) your ({ 9 }) goods ({ 10 }) more ({ 14 }) than ({ 15 }) thirty ({ 11 }) days. ({ 12 }) 
+# Sentence pair (12) source length 7 target length 8 alignment score : 1.24313e-05
+Die Zahlung kann bar oder durch Überweisung erfolgen. 
+NULL ({ }) Payment ({ 1 }) is ({ }) possible ({ 4 }) by ({ 5 }) cash, ({ 8 }) bank ({ 6 }) transfer. ({ 2 3 7 }) 

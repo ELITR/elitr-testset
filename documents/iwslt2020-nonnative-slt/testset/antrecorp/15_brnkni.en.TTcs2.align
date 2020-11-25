@@ -1,0 +1,54 @@
+# Sentence pair (1) source length 13 target length 14 alignment score : 1.12383e-09
+Takže, hezké odpoledne, jmenuji se <NAME> a jsem z právního oddělení pro osobní záležitosti. 
+NULL ({ 12 }) So, ({ 1 }) good ({ 9 10 }) afternoon, ({ 3 }) my ({ 6 }) name ({ 4 }) is ({ }) <NAME> ({ 5 }) and ({ 7 }) I ({ 8 }) control ({ 13 }) the ({ }) legal ({ 2 14 }) department. ({ 11 }) 
+# Sentence pair (2) source length 15 target length 10 alignment score : 5.19864e-06
+Dobré odpoledne, jmenuji se <NAME> a jsem manažerem společnosti Brnkni. 
+NULL ({ }) Good ({ 8 }) afternoon, ({ 2 }) my ({ 5 }) name ({ 3 }) is ({ }) <NAME> ({ 4 }) and ({ 6 }) I ({ 7 }) am ({ 1 }) the ({ }) manager ({ 10 }) of ({ }) the ({ }) company ({ }) Brnkni. ({ 9 }) 
+# Sentence pair (3) source length 7 target length 5 alignment score : 0.00260687
+Naše společnost je... dovolíte? Promiňte... 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) is... ({ 3 }) can ({ }) I? ({ 4 }) I'm ({ }) sorry... ({ 5 }) 
+# Sentence pair (4) source length 14 target length 9 alignment score : 5.24887e-07
+Naše společnost Brnkni se zabývá prodejem strunných hudebních nástrojů. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) Brnkni ({ 3 }) is ({ }) kni ({ 4 }) engaged ({ 5 }) in ({ }) the ({ }) sale ({ 7 }) of ({ }) the ({ }) stringed ({ 9 }) music ({ 6 8 }) instruments. ({ }) 
+# Sentence pair (5) source length 12 target length 11 alignment score : 2.47082e-07
+Samozřejmě jsme plátci DPH a naše společnost je s ručením omezeným. 
+NULL ({ }) Of ({ 1 }) course, ({ }) we ({ }) are ({ }) VAT ({ 2 }) payers ({ 9 }) and ({ 5 }) our ({ 6 }) company ({ 7 }) is ({ 8 }) limited ({ 3 4 11 }) company. ({ 10 }) 
+# Sentence pair (6) source length 8 target length 7 alignment score : 6.19011e-05
+Naším dodavatelem je malá čínská firma Kumikochi. 
+NULL ({ }) Our ({ }) main ({ }) supplier ({ 5 }) is ({ 3 }) small ({ 1 }) Chinese ({ 4 }) company ({ 6 }) Kumikochi. ({ 2 7 }) 
+# Sentence pair (7) source length 16 target length 12 alignment score : 9.96908e-09
+Specializujeme se hlavně na různé druhy kytar, ale nabízíme i jiné nástroje. 
+NULL ({ }) Our ({ }) main ({ }) specialties ({ 5 }) are ({ }) different ({ 1 }) types ({ 4 }) of ({ 3 }) guitars ({ }) but ({ 6 }) we ({ }) also ({ 7 }) offer ({ 10 }) other ({ 11 12 }) types ({ 8 }) of ({ 2 }) instruments. ({ 9 }) 
+# Sentence pair (8) source length 7 target length 7 alignment score : 0.00382095
+Jako jsou bendža, mandolíny, ukulele a další. 
+NULL ({ }) Such ({ 1 }) as ({ 5 }) banjo, ({ 4 }) mandolins, ({ 3 }) ukuleles ({ 2 }) and ({ 6 }) others. ({ 7 }) 
+# Sentence pair (9) source length 6 target length 3 alignment score : 0.024158
+Specializujeme se... Promiňte. 
+NULL ({ }) We ({ 1 }) specialize ({ }) in ({ }) the... ({ 2 }) I'm ({ }) sorry. ({ 3 }) 
+# Sentence pair (10) source length 14 target length 15 alignment score : 1.02209e-12
+Specializujeme se na dodávku hudebních nástrojů pro základní školy, základní umělecké školy a pro studenty. 
+NULL ({ 2 }) We ({ 1 }) specialize ({ }) in ({ }) providing ({ 3 4 }) musical ({ 7 }) instruments ({ }) to ({ 5 }) primary ({ 8 }) schools, ({ 9 15 }) primary ({ 10 }) art ({ 6 11 12 }) school ({ }) and ({ 13 }) students. ({ 14 }) 
+# Sentence pair (11) source length 9 target length 8 alignment score : 8.18258e-07
+Samozřejmě k našim nástrojům nabízíme i nezbytné příslušenství. 
+NULL ({ }) Of ({ 1 }) course, ({ }) we ({ }) offer ({ 6 }) necessary ({ 2 3 7 8 }) accessories ({ 4 }) for ({ }) our ({ }) instruments. ({ 5 }) 
+# Sentence pair (12) source length 10 target length 8 alignment score : 3.94657e-08
+Například stojany na kytary, hudební stojany nebo smyčce. 
+NULL ({ }) For ({ }) example, ({ 5 }) guitar ({ }) stands ({ 4 6 7 8 }) or ({ }) music ({ }) stands ({ }) or ({ 2 }) fiddle ({ 1 }) stick. ({ 3 }) 
+# Sentence pair (13) source length 14 target length 9 alignment score : 5.41765e-05
+Takže pokud vás zajímají hudební nástroje... které... dobře... pokračujme... 
+NULL ({ }) So ({ 1 }) if ({ 2 }) you ({ }) are ({ }) interested ({ }) in ({ }) musical ({ 3 }) instruments... ({ 5 }) which... ({ 7 }) alright...can ({ 6 }) I? ({ }) so... ({ 9 }) let's ({ 8 }) continue... ({ 4 }) 
+# Sentence pair (14) source length 16 target length 14 alignment score : 1.39182e-09
+Takže pokud vás zajímají hudební nástroje, naše firma je pro vás tou nejlepší volbou. 
+NULL ({ }) So ({ 1 }) if ({ 2 }) you ({ }) are ({ 6 }) interested ({ 3 4 }) in ({ 10 }) musical ({ 11 }) instruments, ({ 12 }) our ({ 7 }) company ({ 8 }) is ({ 9 }) the ({ }) best ({ 14 }) choice ({ 5 }) for ({ }) you. ({ 13 }) 
+# Sentence pair (15) source length 11 target length 9 alignment score : 8.99677e-07
+A samozřejmě, pokud nás nemůžete najít, jděte za hudbou. 
+NULL ({ }) And ({ 2 7 }) of ({ }) course, ({ }) if ({ 3 }) you ({ 8 }) can't ({ 6 }) find ({ 4 9 }) us, ({ }) follow ({ 1 }) the ({ }) music. ({ 5 }) 
+# Sentence pair (16) source length 5 target length 4 alignment score : 0.0156964
+Děkuji vám za pozornost. 
+NULL ({ }) Thank ({ 1 }) you ({ 3 }) for ({ 2 }) your ({ 4 }) attention. ({ }) 
+# Sentence pair (17) source length 5 target length 4 alignment score : 0.0156964
+Děkuji vám za pozornost. 
+NULL ({ }) Thank ({ 1 }) you ({ 3 }) for ({ 2 }) your ({ 4 }) attention. ({ }) 
+# Sentence pair (18) source length 4 target length 2 alignment score : 0.0454895
+Hezký den. 
+NULL ({ }) Have ({ }) a ({ 2 }) nice ({ 1 }) day. ({ }) 

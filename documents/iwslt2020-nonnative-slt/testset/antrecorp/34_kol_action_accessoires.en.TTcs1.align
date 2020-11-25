@@ -1,0 +1,45 @@
+# Sentence pair (1) source length 1 target length 2 alignment score : 0.102691
+Dobrý den, 
+NULL ({ }) Hello, ({ 1 2 }) 
+# Sentence pair (2) source length 11 target length 8 alignment score : 7.98837e-05
+jsme belgičtí studenti z firmy Kol Action Accessories. 
+NULL ({ }) and ({ }) we ({ 1 }) are ({ }) Belgium ({ 4 }) students ({ 2 }) from ({ 5 }) the ({ }) firm ({ 3 }) Kol ({ 6 }) Action ({ 7 8 }) Accessories. ({ }) 
+# Sentence pair (3) source length 12 target length 8 alignment score : 3.9349e-05
+Prodáváme luxusní doplňky vynikající kvality za nízké ceny. 
+NULL ({ }) We ({ 1 }) sell ({ 2 }) luxury ({ }) accessories ({ }) at ({ 6 }) a ({ }) good ({ }) price ({ 4 }) and ({ }) an ({ 7 }) excellent ({ 3 8 }) quality. ({ 5 }) 
+# Sentence pair (4) source length 11 target length 7 alignment score : 0.000379842
+A vytvořili jsme nejlepší kolekci exkluzivních značek. 
+NULL ({ }) And ({ 1 }) we ({ 3 }) selected ({ 2 }) the ({ }) best ({ 4 }) collection ({ }) of ({ }) the ({ }) most ({ 6 }) exclusive ({ 5 }) brands. ({ 7 }) 
+# Sentence pair (5) source length 16 target length 16 alignment score : 1.97163e-14
+Naše kolekce je určená pro muže, ženy, mladé a staré, kdokoliv touží po tom vlastnit doplňky. 
+NULL ({ }) Our ({ 2 }) collection ({ }) is ({ 3 }) meant ({ }) for ({ }) men, ({ }) women, ({ }) young ({ }) and ({ 9 }) old ({ 1 }) who ({ 10 }) ever ({ 8 12 14 16 }) want ({ }) to ({ 5 }) know ({ 6 }) accessory. ({ 4 7 11 13 15 }) 
+# Sentence pair (6) source length 18 target length 14 alignment score : 1.14411e-10
+Představte si, že se potřebujete udobřit s manželkou - jsme řešením pro váš život. 
+NULL ({ }) Imagine ({ 8 }) you ({ 3 }) want ({ }) to ({ 12 }) make ({ 5 13 14 }) it ({ }) up ({ 7 }) with ({ }) your ({ }) wife ({ 6 }) - ({ 2 }) we ({ 10 }) are ({ }) the ({ 4 }) solution ({ 11 }) of ({ 9 }) your ({ }) life. ({ 1 }) 
+# Sentence pair (7) source length 12 target length 11 alignment score : 6.39895e-09
+Hodinky, peněženky, pásky nebo šperky, najdete je u Kol Action Accessories. 
+NULL ({ }) Watches, ({ 1 }) wallets, ({ 7 }) belts ({ }) or ({ }) jewelry's, ({ 3 4 5 6 }) you ({ 8 }) find ({ 2 }) it ({ }) with ({ 9 }) Kol ({ }) Action ({ 10 11 }) Accessories. ({ }) 
+# Sentence pair (8) source length 7 target length 6 alignment score : 0.00264343
+V roce 2019 se svět obrací. 
+NULL ({ }) It's ({ 1 }) two ({ 6 }) thousand ({ 2 }) nineteen ({ 4 }) the ({ }) world ({ 5 }) switches. ({ 3 }) 
+# Sentence pair (9) source length 10 target length 8 alignment score : 2.61369e-05
+Sen, ve kterém muži myjí nádobí, se splnil. 
+NULL ({ }) The ({ }) dream ({ 2 }) when ({ 5 }) the ({ 7 }) men ({ }) do ({ 8 }) the ({ }) dishes ({ 3 4 }) came ({ 6 }) true. ({ 1 }) 
+# Sentence pair (10) source length 8 target length 8 alignment score : 3.72799e-06
+Tak si kupte zboží od Kol Action Accessories. 
+NULL ({ }) So ({ 1 }) buy ({ 2 3 4 }) a ({ }) good ({ 5 }) with ({ 6 }) Kol ({ }) Action ({ 7 8 }) Accessories. ({ }) 
+# Sentence pair (11) source length 6 target length 4 alignment score : 0.0235407
+A odměňte svého muže. 
+NULL ({ }) And ({ 1 }) give ({ 4 }) your ({ }) man ({ 3 }) a ({ }) reward. ({ 2 }) 
+# Sentence pair (12) source length 15 target length 12 alignment score : 9.07886e-26
+Protože tím, co pro vás udělal, říká, že vy jste jeho odměna. 
+NULL ({ }) Because ({ 1 }) the ({ }) actions ({ 2 }) that ({ 3 }) he ({ 6 }) deed ({ }) for ({ 4 }) you ({ }) will ({ }) say ({ }) that ({ 7 }) you ({ 8 }) are ({ }) his ({ 5 }) award. ({ 9 10 11 12 }) 
+# Sentence pair (13) source length 18 target length 13 alignment score : 5.53277e-29
+Děkujeme za pozornost a doufáme, že se uvidíme u stánku číslo sedmdesát devět. 
+NULL ({ 7 }) Thank ({ }) you ({ }) for ({ }) your ({ }) attention ({ 12 13 }) and ({ 4 }) we ({ }) hope ({ 5 }) we'll ({ 9 }) see ({ }) you ({ 6 }) back ({ 3 }) at ({ 2 }) our ({ 8 10 }) stand ({ 1 }) number ({ }) seventy ({ 11 }) nine. ({ }) 
+# Sentence pair (14) source length 6 target length 6 alignment score : 1.29982e-05
+U Kol Action Accessories jste vítáni. 
+NULL ({ }) You're ({ 1 }) welcome ({ 4 5 6 }) with ({ 2 }) Kol ({ }) Action ({ 3 }) Accessories. ({ }) 
+# Sentence pair (15) source length 6 target length 6 alignment score : 0.00187539
+Pro silné muže a krásné dámy. 
+NULL ({ }) For ({ 1 }) powerful ({ 6 }) men ({ }) and ({ 4 }) beautiful ({ 2 3 }) ladies. ({ 5 }) 

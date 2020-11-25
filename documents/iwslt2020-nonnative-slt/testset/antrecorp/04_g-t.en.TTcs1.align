@@ -1,0 +1,45 @@
+# Sentence pair (1) source length 23 target length 18 alignment score : 6.09406e-19
+Takže, dobrý den všem, jmenuji se <NAME> a chci..., rád bych Vám představil společnost G and T Ltd.. 
+NULL ({ }) So, ({ 1 2 3 4 5 6 16 17 }) hello ({ }) everyone, ({ }) my ({ }) name ({ 7 }) is ({ }) <NAME> ({ }) and ({ 8 }) I ({ }) want ({ }) to, ({ 18 }) and ({ }) I ({ }) would ({ 10 11 }) like ({ 12 }) to ({ }) represent ({ 13 }) the ({ }) G ({ }) and ({ }) T ({ 15 }) LTD ({ 14 }) company. ({ 9 }) 
+# Sentence pair (2) source length 7 target length 4 alignment score : 0.0059902
+Jsem pracovníkem manažerského oddělení. 
+NULL ({ }) I ({ }) am ({ 1 }) member ({ 2 }) of ({ }) a ({ }) management ({ 4 }) department. ({ 3 }) 
+# Sentence pair (3) source length 11 target length 9 alignment score : 6.09606e-06
+Jsme z České republiky a jsme žáci obchodní akademie. 
+NULL ({ }) We ({ }) are ({ 3 }) from ({ 4 }) Czech ({ 2 7 }) Republic ({ 6 }) and ({ 5 }) we ({ }) study ({ 1 }) at ({ }) business ({ 8 }) academy. ({ 9 }) 
+# Sentence pair (4) source length 7 target length 6 alignment score : 0.000644898
+Hlavní sídlo společnosti je v Neveklově. 
+NULL ({ }) The ({ 3 }) headquarter ({ 2 }) of ({ 1 }) company ({ 4 }) is ({ }) in ({ 6 }) Neveklov. ({ 5 }) 
+# Sentence pair (5) source length 18 target length 12 alignment score : 6.68121e-10
+Přišel jsem dnes, abych Vám předsta... chci... chtěl bych představit svoji společnost. 
+NULL ({ }) Today ({ 1 2 3 }) I ({ }) am ({ }) here ({ 12 }) because ({ 7 }) I ({ 4 }) want ({ 6 }) to ({ 9 }) intro... ({ 11 }) I ({ }) want ({ 10 }) I ({ }) would ({ }) like ({ 5 }) to ({ }) represent ({ }) my ({ 8 }) company. ({ }) 
+# Sentence pair (6) source length 12 target length 11 alignment score : 8.62079e-09
+Naše firma je společnost s ručením omezeným, ale nejsme veliká společnost. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) is ({ }) LTD ({ 4 }) company ({ 3 }) but ({ }) we ({ }) are ({ }) not ({ 10 }) a ({ 5 }) big ({ 6 11 }) firm. ({ 7 8 9 }) 
+# Sentence pair (7) source length 8 target length 8 alignment score : 0.000157736
+Naše firma má sedm zaměstnanců a tři oddělení. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) have ({ 7 }) seven ({ 4 }) employees ({ 3 }) and ({ 6 }) three ({ }) departments. ({ 5 8 }) 
+# Sentence pair (8) source length 17 target length 8 alignment score : 1.8645e-05
+Máme obchodní oddělení, finanční a pak manažerské oddělení. 
+NULL ({ }) The ({ }) first ({ }) department ({ }) is ({ }) business ({ 2 }) department, ({ 3 }) the ({ }) next ({ 1 }) is ({ }) finance ({ 4 }) department ({ 6 }) and ({ 5 }) the ({ }) last ({ 7 }) is ({ }) management ({ 8 }) department. ({ }) 
+# Sentence pair (9) source length 11 target length 9 alignment score : 1.27499e-05
+Nyní bych Vám rád řekl, co naše firma vyrábí. 
+NULL ({ }) Now ({ 6 }) I ({ }) would ({ 2 4 }) like ({ 3 }) to ({ }) tell ({ 5 }) you ({ }) what ({ 1 }) our ({ 8 }) firm ({ 7 }) produce. ({ 9 }) 
+# Sentence pair (10) source length 8 target length 7 alignment score : 1.00746e-05
+Naše firma vyrábí reklamu pro jiné firmy. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) produce ({ }) the ({ }) advertisement ({ 3 }) for ({ 4 }) other ({ }) companies. ({ 5 6 7 }) 
+# Sentence pair (11) source length 13 target length 12 alignment score : 5.41376e-10
+Vyrábíme samolepky na auta, na tužky a na hrnky, billboardy a další. 
+NULL ({ }) We ({ }) produce ({ 1 }) sticker ({ 2 }) on ({ }) cars, ({ }) on ({ }) pencils, ({ }) on ({ }) cups ({ 12 }) and ({ 11 }) billboards ({ 10 }) and ({ 7 }) more. ({ 3 4 5 6 8 9 }) 
+# Sentence pair (12) source length 5 target length 4 alignment score : 0.0534057
+Vyrábíme rovněž reklamní předměty. 
+NULL ({ }) We ({ }) produce ({ 1 }) promotion ({ 4 }) things ({ 3 }) too. ({ 2 }) 
+# Sentence pair (13) source length 8 target length 6 alignment score : 0.000361235
+Jsou to například vizitky a katalogy. 
+NULL ({ }) For ({ 1 }) example ({ 2 }) we ({ }) make ({ 4 }) business ({ }) cards ({ }) and ({ 5 }) catalogues. ({ 3 6 }) 
+# Sentence pair (14) source length 25 target length 21 alignment score : 4.65149e-20
+Na konec své prezentace bych vám chtěl poděkovat za pozornost a pozvat vás k našemu stánku, který má číslo čtyřicet sedm. 
+NULL ({ }) In ({ }) the ({ }) end ({ 8 }) of ({ }) my ({ 7 }) speech ({ 6 }) I ({ }) would ({ }) like ({ 5 }) to ({ }) thank ({ 10 20 21 }) you ({ 4 }) for ({ }) your ({ 13 }) attention ({ 12 }) and ({ 11 }) invite ({ }) you ({ 3 }) into ({ 19 }) stand ({ }) which ({ }) has ({ 1 2 }) number ({ }) forty ({ }) seven. ({ 9 14 15 16 17 18 }) 
+# Sentence pair (15) source length 2 target length 1 alignment score : 0.577743
+Děkuji. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

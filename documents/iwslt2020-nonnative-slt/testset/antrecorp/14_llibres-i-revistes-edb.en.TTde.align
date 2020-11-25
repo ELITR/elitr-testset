@@ -1,0 +1,63 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.32812
+Guten Tag! 
+NULL ({ }) Good ({ 1 }) afternoon! ({ 2 }) 
+# Sentence pair (2) source length 2 target length 2 alignment score : 0.32812
+Guten Tag. 
+NULL ({ }) Good ({ 1 }) afternoon. ({ 2 }) 
+# Sentence pair (3) source length 7 target length 5 alignment score : 0.0020783
+Kennen Sie das Unternehmen EDB? 
+NULL ({ }) Do ({ }) you ({ 2 }) know ({ 1 }) about ({ }) the ({ 3 }) company ({ 4 }) EDB? ({ 5 }) 
+# Sentence pair (4) source length 6 target length 7 alignment score : 0.000721845
+Nein, ich habe noch nie davon gehört. 
+NULL ({ }) No, ({ 1 }) I ({ 2 }) never ({ 4 6 }) heard ({ 3 }) about ({ 5 }) it. ({ 7 }) 
+# Sentence pair (5) source length 4 target length 4 alignment score : 0.00503792
+Wo befindet es sich? 
+NULL ({ }) Where ({ 3 4 }) is ({ }) it ({ 2 }) based? ({ 1 }) 
+# Sentence pair (6) source length 23 target length 20 alignment score : 3.07431e-13
+Nun, wir sind ein Unternehmen aus Barcelona und wir sind... haben mehr als 100 Jahre Erfahrung und einen guten Ruf. 
+NULL ({ }) Well ({ 3 4 }) we ({ }) are ({ 1 }) a ({ }) company ({ 5 }) from ({ 6 }) Barcelona, ({ 12 }) and ({ 8 }) we ({ 2 }) are... ({ 19 }) we ({ 9 }) have ({ }) more ({ 10 }) than ({ 7 15 20 }) a ({ }) one ({ 13 }) hundred ({ 11 }) years ({ 14 }) of ({ 16 }) experience ({ 18 }) and ({ 17 }) good ({ }) reputation. ({ }) 
+# Sentence pair (7) source length 15 target length 14 alignment score : 9.95432e-10
+Das ist eine großartige Idee, denn unser Unternehmen möchte nun in ganz Europa expandieren. 
+NULL ({ }) That's ({ 5 }) a ({ 3 }) great ({ 1 2 }) idea, ({ 4 }) because ({ 12 13 14 }) our ({ }) company ({ 8 }) is ({ }) now ({ 6 }) looking ({ 9 }) to ({ }) expand ({ 7 }) around ({ }) all ({ 11 }) Europe. ({ 10 }) 
+# Sentence pair (8) source length 5 target length 6 alignment score : 0.00102844
+Das ist also eine großartige Idee. 
+NULL ({ }) So ({ 5 }) that's ({ 6 }) a ({ 4 }) great ({ 1 2 }) idea. ({ 3 }) 
+# Sentence pair (9) source length 6 target length 5 alignment score : 0.00115961
+Und was genau verkaufen Sie? 
+NULL ({ }) And ({ 1 }) what ({ 2 }) do ({ }) you ({ }) exactly ({ 3 }) sell? ({ 4 5 }) 
+# Sentence pair (10) source length 14 target length 15 alignment score : 1.01999e-16
+Nun, wir verkaufen Bücher, Zeitschriften, Veranstaltungen wie das Oktoberfest, Tomorrowland; deshalb sind sie so beliebt. 
+NULL ({ }) Well, ({ 3 }) we ({ 2 }) sell ({ }) books, ({ 5 }) magazines, ({ 4 }) events ({ }) like ({ }) Oktoberfest, ({ }) Tomorrowland, ({ }) that ({ }) they ({ }) are ({ 1 }) so ({ 15 }) popular. ({ 6 7 8 9 10 11 12 13 14 }) 
+# Sentence pair (11) source length 24 target length 16 alignment score : 1.67988e-10
+Unser Unternehmen arbeitet auch im Bereich dieser Dienstleistungen und Produkte; wir hätten also eine gute Partnerschaft. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) is ({ }) also ({ 4 5 }) based ({ 3 }) in ({ }) the... ({ 16 }) in ({ }) this ({ 7 }) kind ({ 6 }) of ({ }) services ({ }) and ({ 9 }) products, ({ 8 }) so... ({ 13 }) we ({ }) would ({ 10 }) be... ({ 12 }) we ({ 11 }) would ({ }) be ({ }) a ({ 14 }) good ({ }) partnership. ({ 15 }) 
+# Sentence pair (12) source length 8 target length 7 alignment score : 0.000114186
+Und was ist das Ziel Ihres Unternehmens? 
+NULL ({ }) And ({ 1 }) what ({ 2 }) is ({ 3 }) the ({ 4 }) goal ({ 5 }) of ({ }) your ({ }) company? ({ 6 7 }) 
+# Sentence pair (13) source length 17 target length 16 alignment score : 5.77628e-11
+Unser Ziel ist es, Bildungsprodukte und -dienstleistungen zu entwickeln, um zur Bildung von jungen Menschen beizutragen. 
+NULL ({ }) Our ({ 1 }) goal ({ 2 }) is ({ 3 }) to ({ 8 }) create ({ 4 }) educational ({ }) products ({ 5 7 }) and ({ 6 }) services ({ }) to ({ }) try ({ 10 }) to ({ }) contribute ({ 9 }) to ({ 11 }) young ({ 13 15 }) people ({ 12 14 }) development. ({ 16 }) 
+# Sentence pair (14) source length 16 target length 16 alignment score : 3.38103e-09
+Das ist eine ausgezeichnete Idee, Teenagern zu helfen und sie zu großartigen Schülern zu machen. Ja. 
+NULL ({ }) That's ({ 5 }) a ({ 3 }) perfect ({ 12 15 }) idea ({ 4 }) to ({ }) help ({ 7 }) teens, ({ 8 }) and ({ 9 }) become ({ }) they... ({ 6 }) may... ({ 10 }) make ({ 11 14 }) them ({ }) great ({ 1 2 }) students. ({ 13 }) Yea. ({ 16 }) 
+# Sentence pair (15) source length 11 target length 9 alignment score : 6.64919e-06
+Und wo sehen Sie Ihr Unternehmen in naher Zukunft? 
+NULL ({ }) And ({ 1 }) where ({ 2 }) do ({ }) you ({ 4 }) see ({ 8 9 }) your ({ 3 }) company ({ 6 }) in ({ }) the ({ }) near ({ 7 }) future? ({ 5 }) 
+# Sentence pair (16) source length 20 target length 14 alignment score : 1.23125e-12
+In Zukunft würden wir gern expandieren und unsere Qualität verbessern, um ihnen zu helfen. 
+NULL ({ }) In ({ 1 2 3 }) the ({ }) future ({ 6 }) we ({ 4 }) would ({ }) like ({ }) to ({ }) expand ({ 5 8 }) and ({ 7 }) make ({ }) it ({ }) better ({ 9 }) with ({ }) more ({ }) quality ({ 10 }) and ({ }) try ({ 11 }) to ({ }) help ({ 13 }) them. ({ 12 14 }) 
+# Sentence pair (17) source length 17 target length 14 alignment score : 3.50967e-09
+Wenn Sie Teil dieser Erfahrung sein wollen, nehmen Sie gern Kontakt mit uns auf. 
+NULL ({ }) And ({ }) if ({ 12 }) you ({ 2 }) want ({ 11 }) to ({ }) be ({ 3 }) part ({ 1 }) of ({ 5 }) this ({ 4 }) experience, ({ 6 13 }) please ({ 10 }) do ({ 9 }) not ({ 8 }) hesitate ({ }) to ({ }) contact ({ 7 }) us. ({ 14 }) 
+# Sentence pair (18) source length 17 target length 17 alignment score : 5.69077e-35
+OK, ich werde mit meinen Partnern sprechen und wenn wir Interesse haben, werden wir Ihnen Bescheid geben. 
+NULL ({ }) OK ({ 1 }) I ({ 2 }) will ({ }) talk ({ 12 }) with ({ }) my ({ 3 }) partners ({ 9 13 }) and ({ 8 }) if ({ 4 }) we ({ 14 }) are ({ }) interested ({ 7 11 }) we ({ 10 }) will ({ 15 }) let ({ 6 }) you ({ }) know. ({ 5 16 17 }) 
+# Sentence pair (19) source length 1 target length 1 alignment score : 0.799022
+Gut. 
+NULL ({ }) OK. ({ 1 }) 
+# Sentence pair (20) source length 2 target length 1 alignment score : 0.207302
+Danke! 
+NULL ({ }) Thank ({ 1 }) you! ({ }) 
+# Sentence pair (21) source length 2 target length 1 alignment score : 0.207302
+Danke! 
+NULL ({ }) Thank ({ 1 }) you! ({ }) 

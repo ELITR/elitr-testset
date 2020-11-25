@@ -1,0 +1,63 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.205451
+Dobré odpoledne! 
+NULL ({ }) Good ({ 1 }) afternoon! ({ 2 }) 
+# Sentence pair (2) source length 2 target length 2 alignment score : 0.205451
+Dobré odpoledne. 
+NULL ({ }) Good ({ 1 }) afternoon. ({ 2 }) 
+# Sentence pair (3) source length 7 target length 5 alignment score : 0.000198515
+Slyšel jste o společnosti EDB? 
+NULL ({ }) Do ({ 2 5 }) you ({ }) know ({ 4 }) about ({ 3 }) the ({ }) company ({ }) EDB? ({ 1 }) 
+# Sentence pair (4) source length 6 target length 6 alignment score : 0.000362445
+Ne, nikdy jsem o ní neslyšel. 
+NULL ({ }) No, ({ 1 }) I ({ }) never ({ 2 5 }) heard ({ 3 }) about ({ 4 }) it. ({ 6 }) 
+# Sentence pair (5) source length 4 target length 2 alignment score : 0.171218
+Kde sídlí? 
+NULL ({ }) Where ({ 2 }) is ({ }) it ({ }) based? ({ 1 }) 
+# Sentence pair (6) source length 23 target length 14 alignment score : 1.57015e-09
+No, jsme firma z Barcelony a máme víc než stoletou zkušenost a dobrou pověst. 
+NULL ({ }) Well ({ 2 }) we ({ }) are ({ 1 }) a ({ }) company ({ }) from ({ 3 }) Barcelona, ({ 13 }) and ({ 12 }) we ({ }) are... ({ }) we ({ }) have ({ }) more ({ }) than ({ 11 }) a ({ 4 }) one ({ 14 }) hundred ({ 5 }) years ({ 8 }) of ({ }) experience ({ 7 9 }) and ({ 6 }) good ({ }) reputation. ({ 10 }) 
+# Sentence pair (7) source length 15 target length 13 alignment score : 3.38697e-09
+To je skvělý nápad, protože naše společnost se zrovna chystá expandovat do Evropy. 
+NULL ({ }) That's ({ 1 }) a ({ }) great ({ 2 3 }) idea, ({ 4 }) because ({ 5 }) our ({ 6 }) company ({ 7 }) is ({ }) now ({ 10 }) looking ({ }) to ({ }) expand ({ 8 11 }) around ({ 9 12 }) all ({ }) Europe. ({ 13 }) 
+# Sentence pair (8) source length 5 target length 5 alignment score : 0.00089861
+Tak to je skvělý nápad. 
+NULL ({ }) So ({ 2 }) that's ({ 1 }) a ({ }) great ({ 3 4 }) idea. ({ 5 }) 
+# Sentence pair (9) source length 6 target length 4 alignment score : 0.012481
+A co přesně prodáváte? 
+NULL ({ }) And ({ 1 }) what ({ 2 }) do ({ }) you ({ }) exactly ({ 3 }) sell? ({ 4 }) 
+# Sentence pair (10) source length 14 target length 14 alignment score : 8.95634e-16
+No, prodáváme knihy, časopisy, lístky na události jako je Oktoberfest, Tomorrowland, které jsou populární. 
+NULL ({ 9 }) Well, ({ 3 }) we ({ }) sell ({ }) books, ({ }) magazines, ({ }) events ({ 4 }) like ({ }) Oktoberfest, ({ 5 }) Tomorrowland, ({ }) that ({ 2 }) they ({ }) are ({ 1 }) so ({ }) popular. ({ 6 7 8 10 11 12 13 14 }) 
+# Sentence pair (11) source length 24 target length 16 alignment score : 3.55025e-36
+Naše společnost se také zabývá tímhle typem služeb a produktů, takže bychom mohli být dobrými partnery. 
+NULL ({ }) Our ({ }) company ({ 2 }) is ({ }) also ({ 6 11 15 }) based ({ 4 5 }) in ({ }) the... ({ 12 16 }) in ({ }) this ({ 14 }) kind ({ 7 }) of ({ }) services ({ }) and ({ 9 }) products, ({ 13 }) so... ({ 10 }) we ({ }) would ({ 3 }) be... ({ 8 }) we ({ }) would ({ }) be ({ }) a ({ }) good ({ }) partnership. ({ 1 }) 
+# Sentence pair (12) source length 8 target length 6 alignment score : 1.3383e-05
+A jaký je cíl vaší společnosti? 
+NULL ({ }) And ({ 1 }) what ({ 2 }) is ({ }) the ({ }) goal ({ 3 4 }) of ({ }) your ({ }) company? ({ 5 6 }) 
+# Sentence pair (13) source length 17 target length 12 alignment score : 8.94487e-08
+Našim cílem je vytvářet výukové produkty a služby, které přispívají rozvoji mládeže. 
+NULL ({ }) Our ({ 1 }) goal ({ 3 }) is ({ }) to ({ }) create ({ 2 4 }) educational ({ 9 }) products ({ 5 }) and ({ 7 }) services ({ 8 }) to ({ }) try ({ }) to ({ }) contribute ({ }) to ({ }) young ({ 10 11 }) people ({ 6 }) development. ({ 12 }) 
+# Sentence pair (14) source length 16 target length 13 alignment score : 9.86993e-08
+To je skvělá myšlenka pomáhat teenagerům a udělat z nich dobré studenty. Jo. 
+NULL ({ }) That's ({ 1 }) a ({ 9 }) perfect ({ 3 }) idea ({ }) to ({ }) help ({ }) teens, ({ 6 11 }) and ({ 7 }) become ({ 10 }) they... ({ 5 }) may... ({ 4 }) make ({ 8 }) them ({ }) great ({ 2 }) students. ({ 12 }) Yea. ({ 13 }) 
+# Sentence pair (15) source length 11 target length 8 alignment score : 2.22186e-06
+A kde vidíte svou firmu v blízké budoucnosti? 
+NULL ({ }) And ({ 1 }) where ({ 2 }) do ({ }) you ({ }) see ({ 3 8 }) your ({ 4 }) company ({ }) in ({ }) the ({ }) near ({ 5 6 }) future? ({ 7 }) 
+# Sentence pair (16) source length 20 target length 16 alignment score : 2.39339e-26
+V budoucnu bychomm chtěli expandovat a udělat zboží lepší a kvalitnější a snažit se jim pomáhat. 
+NULL ({ }) In ({ 8 9 11 16 }) the ({ 15 }) future ({ 1 13 }) we ({ 12 }) would ({ }) like ({ }) to ({ }) expand ({ 5 14 }) and ({ 6 }) make ({ 7 }) it ({ }) better ({ 2 4 }) with ({ }) more ({ }) quality ({ }) and ({ 10 }) try ({ }) to ({ }) help ({ }) them. ({ 3 }) 
+# Sentence pair (17) source length 17 target length 10 alignment score : 2.5749e-07
+A pokud toho chcete být součástí, prosím neváhejte nás kontaktovat. 
+NULL ({ }) And ({ 1 }) if ({ 2 }) you ({ }) want ({ 6 7 8 }) to ({ }) be ({ }) part ({ }) of ({ }) this ({ 5 }) experience, ({ 3 }) please ({ 4 }) do ({ }) not ({ }) hesitate ({ 9 }) to ({ }) contact ({ }) us. ({ 10 }) 
+# Sentence pair (18) source length 17 target length 15 alignment score : 3.90777e-19
+OK promluvím si o tom s rodiči a pokud budeme mít zájem, dáme vám vědět. 
+NULL ({ }) OK ({ 1 }) I ({ 4 }) will ({ 5 }) talk ({ 2 }) with ({ }) my ({ 3 6 }) partners ({ 7 }) and ({ 8 }) if ({ 9 }) we ({ }) are ({ }) interested ({ }) we ({ }) will ({ }) let ({ }) you ({ }) know. ({ 10 11 12 13 14 15 }) 
+# Sentence pair (19) source length 1 target length 1 alignment score : 0.65393
+OK. 
+NULL ({ }) OK. ({ 1 }) 
+# Sentence pair (20) source length 2 target length 1 alignment score : 0.308984
+Děkuji! 
+NULL ({ }) Thank ({ 1 }) you! ({ }) 
+# Sentence pair (21) source length 2 target length 1 alignment score : 0.308984
+Děkuji! 
+NULL ({ }) Thank ({ 1 }) you! ({ }) 

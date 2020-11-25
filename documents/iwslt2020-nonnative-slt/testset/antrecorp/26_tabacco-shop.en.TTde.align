@@ -1,0 +1,21 @@
+# Sentence pair (1) source length 4 target length 4 alignment score : 0.000313505
+Mein Name ist <NAME>. 
+NULL ({ }) My ({ 1 2 4 }) name ({ }) is ({ 3 }) <NAME>. ({ }) 
+# Sentence pair (2) source length 13 target length 12 alignment score : 4.1378e-10
+Und ich möchte Ihnen gern unser fiktives Unternehmen namens Tobacco Shop LTD. 
+NULL ({ }) And ({ 4 }) I'd ({ 11 }) like ({ }) to ({ }) introduce ({ 3 5 6 7 }) you ({ }) our ({ 12 }) fiction ({ 8 }) company ({ }) named ({ }) Tobacco ({ 9 }) Shop ({ 2 10 }) LTD. ({ 1 }) 
+# Sentence pair (3) source length 18 target length 17 alignment score : 8.17907e-15
+vorstellen. Uns wurde... gesagt, dass wir das erste und letzte fiktive Unternehmen mit diesem speziellen Thema seien. 
+NULL ({ }) We ({ }) were ({ }) fir... ({ }) told ({ }) to ({ 7 }) be ({ 15 }) the ({ }) first ({ 3 4 5 14 }) fiction ({ 12 }) firm ({ }) with ({ }) this ({ 13 }) certain ({ 8 10 }) theme ({ }) and ({ 9 }) also ({ 16 17 }) the ({ }) last. ({ 1 2 6 11 }) 
+# Sentence pair (4) source length 19 target length 16 alignment score : 3.81959e-11
+Wir sind spezialisiert auf... den Verkauf von Tabakwaren wie Zigaretten, Zigarren, Kautabak, Pfeifen und anderen Produkten. 
+NULL ({ }) We ({ 1 }) specialize ({ 3 }) on ({ }) z... ({ }) selling ({ 5 }) the ({ 2 }) tobacco ({ }) products ({ }) like ({ }) cigarettes, ({ 4 6 9 }) cigars, ({ 16 }) chewing ({ 15 }) tobacco, ({ }) pipes ({ 10 11 12 13 }) and ({ 14 }) the ({ }) others ({ }) at ({ 7 }) us. ({ 8 }) 
+# Sentence pair (5) source length 14 target length 12 alignment score : 1.44131e-08
+Jeder, der über 18 ist, findet bei uns verschiedene Arten von Tabakwaren. 
+NULL ({ }) Everyone ({ }) above ({ }) eighteen ({ }) may ({ 10 }) find ({ 5 7 }) at ({ 11 }) us ({ 12 }) a ({ 8 }) different ({ 3 9 }) species ({ 2 6 }) of ({ }) the ({ }) tobacco ({ }) products. ({ 1 4 }) 
+# Sentence pair (6) source length 8 target length 7 alignment score : 2.11615e-06
+Wir bieten Ihnen dabei die höchste Qualität. 
+NULL ({ }) We ({ 1 }) offer ({ }) you ({ }) the ({ }) highest ({ 7 }) quality ({ 2 }) of ({ }) them. ({ 3 4 5 6 }) 
+# Sentence pair (7) source length 17 target length 18 alignment score : 2.64743e-17
+Unsere Mitarbeiter sind sehr zuvorkommend und immer bereit, Sie zu betreuen und Ihnen das beste Produkt zu empfehlen 
+NULL ({ 13 }) Our ({ }) employees ({ }) are ({ 1 9 }) very ({ }) helpful ({ 17 }) and ({ 6 }) always ({ }) ready ({ }) to ({ 14 }) guide ({ 2 5 10 18 }) you ({ 4 }) and ({ 12 }) recommend ({ 8 16 }) you ({ 7 11 15 }) the ({ 3 }) best ({ }) product ({ }) 

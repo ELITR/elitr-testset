@@ -1,0 +1,45 @@
+# Sentence pair (1) source length 23 target length 19 alignment score : 7.64103e-14
+So, hallo alle zusammen, mein Name ist <NAME> und ich würde gerne die G and T LTD company vorstellen. 
+NULL ({ }) So, ({ 1 }) hello ({ 3 17 19 }) everyone, ({ }) my ({ 10 }) name ({ 8 }) is ({ }) <NAME> ({ 6 }) and ({ 9 }) I ({ }) want ({ 5 }) to, ({ 15 }) and ({ }) I ({ }) would ({ 11 }) like ({ 12 }) to ({ }) represent ({ 2 16 18 }) the ({ 13 }) G ({ }) and ({ }) T ({ 14 }) LTD ({ 7 }) company. ({ 4 }) 
+# Sentence pair (2) source length 7 target length 5 alignment score : 0.00741805
+Ich arbeite in der Geschäftsführung. 
+NULL ({ }) I ({ }) am ({ 1 }) member ({ 2 }) of ({ 3 }) a ({ }) management ({ 5 }) department. ({ 4 }) 
+# Sentence pair (3) source length 11 target length 11 alignment score : 3.13975e-08
+Wir sind aus der Tschechischen Republik und studieren an der Wirtschaftsakademie. 
+NULL ({ }) We ({ 1 }) are ({ 2 }) from ({ 8 }) Czech ({ 3 }) Republic ({ }) and ({ 7 }) we ({ }) study ({ 4 5 6 9 10 }) at ({ 11 }) business ({ }) academy. ({ }) 
+# Sentence pair (4) source length 7 target length 7 alignment score : 1.53441e-05
+Der Hauptsitz des Unternehmens ist in Neveklov. 
+NULL ({ }) The ({ 5 }) headquarter ({ 1 }) of ({ 6 }) company ({ }) is ({ }) in ({ 7 }) Neveklov. ({ 2 3 4 }) 
+# Sentence pair (5) source length 18 target length 8 alignment score : 2.67023e-08
+Ich bin heute hier, um mein Unternehmen vorzustellen. 
+NULL ({ }) Today ({ }) I ({ }) am ({ 1 }) here ({ 2 }) because ({ 8 }) I ({ }) want ({ 6 }) to ({ }) intro... ({ 3 5 }) I ({ }) want ({ 4 }) I ({ }) would ({ }) like ({ }) to ({ 7 }) represent ({ }) my ({ }) company. ({ }) 
+# Sentence pair (6) source length 12 target length 11 alignment score : 5.49003e-08
+Unser Unternehmen ist eine Ltd., aber wir sind keine große Firma. 
+NULL ({ }) Our ({ 1 }) company ({ }) is ({ }) LTD ({ 3 }) company ({ 2 }) but ({ }) we ({ }) are ({ 8 }) not ({ 10 }) a ({ 4 9 }) big ({ 5 }) firm. ({ 6 7 11 }) 
+# Sentence pair (7) source length 8 target length 8 alignment score : 1.23742e-11
+Unser Unternehmen hat sieben Angestellte und drei Abteilungen. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) have ({ 4 }) seven ({ 5 }) employees ({ 3 }) and ({ 6 }) three ({ 7 }) departments. ({ 8 }) 
+# Sentence pair (8) source length 17 target length 17 alignment score : 5.41012e-12
+Die erste Abteilung ist die Wirtschaftsabteilung, die zweite ist die Finanzabteilung und die dritte ist die Geschäftsführung. 
+NULL ({ }) The ({ 4 }) first ({ 3 }) department ({ 2 }) is ({ }) business ({ }) department, ({ }) the ({ 5 7 }) next ({ 6 }) is ({ }) finance ({ 8 }) department ({ 1 }) and ({ 12 }) the ({ 10 13 16 }) last ({ 11 14 }) is ({ 9 15 }) management ({ 17 }) department. ({ }) 
+# Sentence pair (9) source length 11 target length 10 alignment score : 1.49638e-05
+Ich würde Ihnen nun gerne erzählen, was unser Unternehmen herstellt. 
+NULL ({ }) Now ({ 4 }) I ({ 1 }) would ({ 2 }) like ({ 5 }) to ({ 9 }) tell ({ 7 }) you ({ 3 }) what ({ 6 }) our ({ 10 }) firm ({ 8 }) produce. ({ }) 
+# Sentence pair (10) source length 8 target length 7 alignment score : 8.60134e-05
+Unser Unternehmen erstellt Werbung für andere Unternehmen. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) produce ({ }) the ({ }) advertisement ({ 3 }) for ({ 5 }) other ({ 6 }) companies. ({ 4 7 }) 
+# Sentence pair (11) source length 13 target length 13 alignment score : 1.14871e-11
+Wir stellen Aufkleber für Autos, für Stifte, für Tassen, Werbetafeln und mehr her. 
+NULL ({ }) We ({ 1 }) produce ({ 2 13 }) sticker ({ }) on ({ }) cars, ({ 3 }) on ({ }) pencils, ({ }) on ({ }) cups ({ 4 }) and ({ 11 }) billboards ({ 12 }) and ({ }) more. ({ 5 6 7 8 9 10 }) 
+# Sentence pair (12) source length 5 target length 5 alignment score : 0.00816592
+Wir stellen auch Marketingartikel her. 
+NULL ({ }) We ({ 1 }) produce ({ 2 }) promotion ({ 5 }) things ({ 3 }) too. ({ 4 }) 
+# Sentence pair (13) source length 8 target length 7 alignment score : 4.7109e-05
+Wir machen zum Beispiel Visitenkarten und Kataloge. 
+NULL ({ }) For ({ 1 }) example ({ }) we ({ }) make ({ 2 }) business ({ }) cards ({ 3 4 5 }) and ({ 6 }) catalogues. ({ 7 }) 
+# Sentence pair (14) source length 25 target length 19 alignment score : 5.90779e-46
+Am Ende meiner Rede möchte ich Ihnen gerne für Ihre Aufmerksamkeit danken und Sie zum Stand Nummer 47 einladen. 
+NULL ({ }) In ({ }) the ({ }) end ({ 11 }) of ({ }) my ({ 6 }) speech ({ 5 }) I ({ }) would ({ }) like ({ 8 }) to ({ }) thank ({ 3 15 16 17 18 19 }) you ({ }) for ({ 9 }) your ({ 10 }) attention ({ 12 }) and ({ 13 }) invite ({ }) you ({ 7 }) into ({ 2 }) stand ({ }) which ({ 14 }) has ({ 1 }) number ({ 4 }) forty ({ }) seven. ({ }) 
+# Sentence pair (15) source length 2 target length 1 alignment score : 0.334602
+Danke. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

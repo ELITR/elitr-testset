@@ -1,0 +1,27 @@
+# Sentence pair (1) source length 19 target length 21 alignment score : 2.91675e-18
+Guten Tag, meine Damen und Herren, mein Name ist <NAME> und ich bin Geschäftsführer von Apollonas, einem Unternehmen aus Bratislava, Slovakei. 
+NULL ({ }) Good ({ }) afternoon, ({ 1 }) ladies ({ }) and ({ 11 }) gentlemens, ({ }) my ({ }) name ({ 4 7 13 21 }) is ({ 9 }) <NAME> ({ 3 6 8 12 14 }) and ({ 5 }) I'm ({ }) a ({ 15 }) director ({ 16 17 20 }) of ({ }) Apollonas ({ 19 }) company ({ 18 }) from ({ }) Bratislava, ({ 10 }) Slovakia. ({ 2 }) 
+# Sentence pair (2) source length 8 target length 7 alignment score : 0.000124033
+Ich würde Ihnen gern unsere Dienstleistungen vorstellen. 
+NULL ({ }) I ({ 5 }) would ({ 7 }) like ({ }) to ({ 1 }) introduce ({ 4 }) you ({ 3 }) our ({ }) services. ({ 2 6 }) 
+# Sentence pair (3) source length 16 target length 17 alignment score : 4.57599e-13
+Unser Unternehmen bietet Ihnen Luxus-Segeltörns, wo Sie Wein- und gastronomische Routen genießen oder einfach nur entspannen können. 
+NULL ({ 7 }) Our ({ 3 }) company ({ 2 }) offers ({ 6 }) you ({ 4 }) luxurious ({ 5 }) sailings ({ }) where ({ }) you ({ }) enjoy ({ 15 }) wine ({ 8 10 }) and ({ 9 }) gastronomic ({ 12 13 14 }) routes ({ 16 }) or ({ 11 }) just ({ 17 }) relax. ({ 1 }) 
+# Sentence pair (4) source length 8 target length 7 alignment score : 9.5519e-05
+Ich würde Ihnen gern unsere Yachten vorstellen. 
+NULL ({ }) I ({ 5 }) would ({ 7 }) like ({ }) to ({ 1 }) present ({ 4 }) you ({ 3 }) our ({ }) yachts. ({ 2 6 }) 
+# Sentence pair (5) source length 16 target length 15 alignment score : 2.67872e-12
+Eine von ihnen ist ein Katamaran namens Princess Aphrodite und die andere heißt Queen Axiera. 
+NULL ({ }) One ({ }) of ({ }) them ({ }) is ({ 4 }) a ({ 2 }) catamaran ({ 3 11 }) called ({ 7 }) Princess ({ 6 8 13 }) Aphrodite ({ 14 }) and ({ 10 }) the ({ }) other ({ 12 }) one ({ }) is ({ }) Queen ({ 5 }) Axiera. ({ 1 9 15 }) 
+# Sentence pair (6) source length 12 target length 10 alignment score : 3.90311e-08
+Eines unserer Reiseziele ist Griechenland und das andere ist Kroatien. 
+NULL ({ }) One ({ }) of ({ }) our ({ }) destination ({ 2 3 7 }) is ({ 9 }) Greece ({ 5 10 }) and ({ 6 }) the ({ }) other ({ 8 }) one ({ }) is ({ 4 }) Croatia. ({ 1 }) 
+# Sentence pair (7) source length 14 target length 13 alignment score : 8.29264e-15
+Wenn Sie den Urlaub Ihrer Träume erleben wollen, segeln Sie mit uns davon! 
+NULL ({ }) If ({ }) you ({ 2 }) want ({ }) to ({ }) experience ({ 10 }) a ({ }) vacation ({ }) of ({ }) your ({ 3 5 7 9 12 }) dreams, ({ 4 6 8 11 13 }) sail ({ }) away ({ }) with ({ }) us! ({ 1 }) 
+# Sentence pair (8) source length 12 target length 9 alignment score : 1.66189e-07
+Weitere Informationen erhalten Sie an unserem Stand Nummer 60. 
+NULL ({ }) For ({ }) more ({ }) information ({ 2 3 6 }) you ({ 4 }) will ({ 5 }) find ({ 9 }) us ({ 8 }) in ({ }) our ({ }) stand ({ 7 }) number ({ }) sixty. ({ 1 }) 
+# Sentence pair (9) source length 5 target length 4 alignment score : 0.000153113
+Danke für Ihre Aufmerksamkeit. 
+NULL ({ }) Thank ({ 2 }) you ({ }) for ({ 1 }) your ({ }) attention. ({ 3 4 }) 

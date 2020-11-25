@@ -1,0 +1,192 @@
+# Sentence pair (1) source length 6 target length 5 alignment score : 0.000268795
+vítejte povíme si o internetu 
+NULL ({ }) welcome ({ 2 3 }) lets ({ 1 }) talk ({ 4 }) about ({ 5 }) the ({ }) web ({ }) 
+# Sentence pair (2) source length 7 target length 6 alignment score : 1.15221e-05
+což je to co právě používáte 
+NULL ({ }) the ({ 2 }) thing ({ 3 4 }) that ({ 5 }) youre ({ 1 }) using ({ 6 }) right ({ }) now ({ }) 
+# Sentence pair (3) source length 9 target length 7 alignment score : 4.18441e-07
+internet je velká síť vzájemně propojených počítačů 
+NULL ({ }) the ({ }) web ({ }) is ({ }) this ({ 4 5 6 7 }) fast ({ 3 }) network ({ }) of ({ }) connected ({ 2 }) computers ({ 1 }) 
+# Sentence pair (4) source length 9 target length 9 alignment score : 1.6032e-06
+a do roku 2014 na něm vznikla více než 
+NULL ({ }) and ({ }) as ({ 4 }) of ({ 5 }) 2014 ({ 3 }) there ({ 2 }) are ({ 1 }) literally ({ 7 8 }) more ({ 6 }) than ({ 9 }) 
+# Sentence pair (5) source length 5 target length 3 alignment score : 0.000383804
+miliarda internetových stránek 
+NULL ({ }) a ({ }) billion ({ 3 }) websites ({ }) a ({ }) billion ({ 1 2 }) 
+# Sentence pair (6) source length 10 target length 2 alignment score : 0.00308193
+celá miliarda 
+NULL ({ }) when ({ }) i ({ }) was ({ }) a ({ }) kid ({ }) we ({ }) only ({ 1 }) had ({ }) one ({ }) million ({ 2 }) 
+# Sentence pair (7) source length 6 target length 6 alignment score : 8.24884e-06
+ještě nedávno to byl jen milion 
+NULL ({ }) and ({ }) we ({ }) thought ({ 2 }) we ({ 3 }) were ({ 4 5 }) cool ({ 1 6 }) 
+# Sentence pair (8) source length 6 target length 6 alignment score : 1.32825e-06
+a už tehdy to byla spousta 
+NULL ({ }) what ({ }) do ({ 1 }) we ({ 4 }) use ({ 2 3 5 }) websites ({ }) for ({ 6 }) 
+# Sentence pair (9) source length 9 target length 4 alignment score : 0.000745671
+na co stránky používáme 
+NULL ({ }) well ({ }) in ({ }) the ({ }) beginning ({ 2 }) researchers ({ 3 }) used ({ 1 }) websites ({ }) to ({ }) share ({ 4 }) 
+# Sentence pair (10) source length 7 target length 3 alignment score : 0.00196659
+zpočátku je používali 
+NULL ({ }) their ({ }) research ({ 3 }) like ({ }) on ({ }) highenergy ({ 2 }) particle ({ }) colliders ({ 1 }) 
+# Sentence pair (11) source length 9 target length 5 alignment score : 0.000345903
+vědci ke sdílení svých výzkumů 
+NULL ({ }) but ({ }) now ({ }) everybody ({ 3 }) uses ({ }) it ({ }) for ({ }) pretty ({ 2 }) much ({ 4 }) everything ({ 1 5 }) 
+# Sentence pair (12) source length 11 target length 4 alignment score : 0.00034829
+například o urychlovači částic 
+NULL ({ }) maybe ({ }) you ({ }) use ({ }) a ({ }) social ({ 1 }) network ({ }) to ({ }) chat ({ 2 }) with ({ 3 }) your ({ }) family ({ 4 }) 
+# Sentence pair (13) source length 6 target length 10 alignment score : 3.86544e-11
+dnes je ale používá každý a to skoro na cokoli 
+NULL ({ }) a ({ 3 9 }) photo ({ 4 7 }) website ({ 2 6 }) for ({ }) sharing ({ 5 8 }) photos ({ 1 10 }) 
+# Sentence pair (14) source length 5 target length 9 alignment score : 6.93019e-09
+je možné si psát s rodinou přes sociální sítě 
+NULL ({ }) of ({ }) your ({ 3 }) adorable ({ 4 5 }) kitty ({ 6 }) cats ({ 1 2 7 8 9 }) 
+# Sentence pair (15) source length 12 target length 4 alignment score : 3.90389e-07
+sdílet s ostatními fotky 
+NULL ({ }) a ({ }) travel ({ 2 }) website ({ }) to ({ }) decide ({ 1 }) where ({ }) to ({ }) go ({ }) on ({ }) an ({ }) exotic ({ 3 }) trip ({ 4 }) 
+# Sentence pair (16) source length 7 target length 3 alignment score : 0.00409806
+svých roztomilých koťátek 
+NULL ({ }) or ({ }) a ({ }) news ({ 3 }) website ({ }) to ({ }) figure ({ 2 }) out ({ 1 }) 
+# Sentence pair (17) source length 6 target length 8 alignment score : 6.47347e-08
+na cestovních portálech lze naplánovat výlety do ciziny 
+NULL ({ }) whats ({ }) going ({ 4 5 6 7 }) on ({ 3 }) in ({ 1 }) the ({ }) world ({ 2 8 }) 
+# Sentence pair (18) source length 7 target length 4 alignment score : 0.00014465
+a na těch zpravodajských 
+NULL ({ }) and ({ 1 }) of ({ 2 }) course ({ 3 4 }) you ({ }) must ({ }) be ({ }) using ({ }) 
+# Sentence pair (19) source length 6 target length 6 alignment score : 7.74153e-06
+zase zjsitit co se kde děje 
+NULL ({ }) the ({ }) khan ({ 1 5 }) academy ({ 2 6 }) website ({ }) to ({ 4 }) learn ({ 3 }) 
+# Sentence pair (20) source length 5 target length 7 alignment score : 3.81161e-07
+a pak je samozřejmě potřeba používat stránky 
+NULL ({ }) so ({ 7 }) whats ({ 2 }) your ({ }) favorite ({ 4 5 6 }) website ({ 1 3 }) 
+# Sentence pair (21) source length 6 target length 4 alignment score : 0.000296977
+khan academy pro studium 
+NULL ({ }) actually ({ }) i ({ }) have ({ }) a ({ }) better ({ 2 3 }) question ({ 1 4 }) 
+# Sentence pair (22) source length 9 target length 6 alignment score : 2.7463e-06
+takže jaká je vaše oblíbená stránka 
+NULL ({ }) what ({ }) website ({ }) do ({ }) you ({ }) wish ({ }) existed ({ 1 }) but ({ 3 }) doesnt ({ 2 4 }) yet ({ 5 6 }) 
+# Sentence pair (23) source length 5 target length 7 alignment score : 2.09035e-08
+mám na vás vlastně trochu lepší otázku 
+NULL ({ }) maybe ({ 4 5 6 7 }) a ({ 2 }) website ({ }) about ({ }) yourself ({ 1 3 }) 
+# Sentence pair (24) source length 6 target length 9 alignment score : 8.21461e-09
+jak by měla vypadat stránka kterou na internetu postrádáte 
+NULL ({ }) or ({ 7 }) about ({ 8 }) something ({ 5 }) that ({ 6 }) you ({ }) love ({ 1 2 3 4 9 }) 
+# Sentence pair (25) source length 10 target length 4 alignment score : 4.08305e-05
+možná stránku o vás 
+NULL ({ }) the ({ }) cool ({ }) thing ({ }) is ({ }) you ({ }) can ({ 3 }) program ({ 1 2 }) a ({ }) website ({ }) yourself ({ 4 }) 
+# Sentence pair (26) source length 12 target length 6 alignment score : 4.89898e-07
+nebo o něčem co máte rádi 
+NULL ({ }) and ({ }) you ({ }) can ({ 2 }) learn ({ 4 }) how ({ 1 }) to ({ }) do ({ }) it ({ }) here ({ 3 5 6 }) on ({ }) khan ({ }) academy ({ }) 
+# Sentence pair (27) source length 7 target length 9 alignment score : 1.50572e-09
+super je že si takovou stránku můžete naprogramovat sami 
+NULL ({ }) start ({ 1 2 }) brainstorming ({ 7 8 9 }) what ({ }) you ({ 6 }) want ({ 3 5 }) to ({ }) make ({ 4 }) 
+# Sentence pair (28) source length 9 target length 9 alignment score : 1.6698e-07
+a naučit se to můžete zde na khan academy 
+NULL ({ }) because ({ }) youll ({ 4 }) be ({ 7 }) able ({ 6 }) to ({ 3 }) do ({ 1 }) it ({ }) soon ({ 2 5 }) enough ({ 8 9 }) 
+# Sentence pair (29) source length 11 target length 9 alignment score : 2.40038e-10
+zamyslete se nejdříve nad tím co budete chtít vytvořit 
+NULL ({ }) first ({ 6 }) lets ({ }) back ({ }) up ({ }) a ({ }) bit ({ 7 }) and ({ }) clear ({ 2 3 4 5 }) up ({ 8 }) some ({ }) terminology ({ 1 9 }) 
+# Sentence pair (30) source length 5 target length 7 alignment score : 9.52323e-08
+protože brzy se naučíte jak na to 
+NULL ({ }) what ({ 4 6 7 }) is ({ 3 5 }) the ({ }) web ({ }) exactly ({ 1 2 }) 
+# Sentence pair (31) source length 8 target length 6 alignment score : 3.37322e-06
+ale pro začátek si ujasněme terminologii 
+NULL ({ }) well ({ }) like ({ }) i ({ 1 }) said ({ 2 3 }) its ({ }) a ({ }) bunch ({ 5 6 }) of ({ 4 }) 
+# Sentence pair (32) source length 5 target length 5 alignment score : 7.73789e-06
+co přesně je ten internet 
+NULL ({ }) connected ({ 3 }) computers ({ 2 4 5 }) that ({ }) have ({ }) websites ({ 1 }) 
+# Sentence pair (33) source length 8 target length 6 alignment score : 6.37823e-06
+jak jsem řekla je to spousta 
+NULL ({ }) when ({ 3 5 6 }) a ({ }) computer ({ 1 2 }) is ({ }) connected ({ 4 }) to ({ }) the ({ }) web ({ }) 
+# Sentence pair (34) source length 11 target length 5 alignment score : 9.65161e-08
+propojených počítačů s internetovými stránkami 
+NULL ({ }) and ({ }) spitting ({ }) out ({ }) a ({ }) website ({ }) we ({ }) call ({ }) that ({ }) computer ({ }) a ({ }) server ({ 1 2 3 4 5 }) 
+# Sentence pair (35) source length 5 target length 10 alignment score : 1.23949e-10
+když je počítač připojený k internetu a poskytuje internetovou stránku 
+NULL ({ }) because ({ 10 }) its ({ 8 9 }) serving ({ 3 4 5 6 }) the ({ 2 }) website ({ 1 7 }) 
+# Sentence pair (36) source length 7 target length 3 alignment score : 0.00162538
+říkáme mu server 
+NULL ({ }) a ({ }) website ({ }) is ({ }) written ({ }) using ({ }) three ({ 2 3 }) languages ({ 1 }) 
+# Sentence pair (37) source length 7 target length 4 alignment score : 6.98082e-05
+podle anglického serve sloužit 
+NULL ({ }) html ({ 1 }) for ({ }) marking ({ 2 3 4 }) up ({ }) the ({ }) website ({ }) content ({ }) 
+# Sentence pair (38) source length 4 target length 7 alignment score : 3.0489e-08
+internetová stránka je psána ve třech jazycích 
+NULL ({ }) css ({ 1 4 }) for ({ 3 }) styling ({ 2 5 6 7 }) it ({ }) 
+# Sentence pair (39) source length 6 target length 6 alignment score : 5.0084e-05
+html kterým se tvoří struktura stránky 
+NULL ({ }) and ({ }) javascript ({ 1 3 }) for ({ }) making ({ 2 4 }) it ({ }) interactive ({ 5 6 }) 
+# Sentence pair (40) source length 9 target length 10 alignment score : 9.46516e-11
+css pak upravuje její vzhled a javascript stránku dělá interaktivní 
+NULL ({ }) how ({ }) do ({ 6 }) users ({ 3 4 5 }) like ({ 7 }) you ({ 8 }) actually ({ 1 }) see ({ 2 }) those ({ 9 }) websites ({ 10 }) 
+# Sentence pair (41) source length 9 target length 5 alignment score : 0.000104642
+jak uživatelé vidí tyto stránky 
+NULL ({ }) well ({ }) you ({ }) use ({ }) an ({ 4 }) app ({ 2 }) dedicated ({ 3 }) for ({ }) website ({ }) browsing ({ 1 5 }) 
+# Sentence pair (42) source length 6 target length 7 alignment score : 5.5228e-06
+používáme k tomu aplikaci na procházení internetu 
+NULL ({ }) like ({ }) chrome ({ 1 }) firefox ({ 2 }) or ({ 5 }) internet ({ 4 6 }) explorer ({ 3 7 }) 
+# Sentence pair (43) source length 6 target length 6 alignment score : 1.05975e-06
+například chrome firefox nebo internet explorer 
+NULL ({ }) and ({ }) we ({ }) call ({ 2 }) those ({ }) apps ({ 3 4 5 }) browsers ({ 1 6 }) 
+# Sentence pair (44) source length 11 target length 4 alignment score : 6.11829e-06
+tyto aplikace nazýváme prohlížeče 
+NULL ({ }) browsers ({ }) try ({ }) to ({ }) all ({ }) show ({ 1 2 3 }) the ({ }) same ({ 4 }) website ({ }) the ({ }) same ({ }) way ({ }) 
+# Sentence pair (45) source length 9 target length 7 alignment score : 1.43173e-08
+prohlížeče se všechny snaží zobrazit stránku stejně 
+NULL ({ }) but ({ }) they ({ 2 }) do ({ }) have ({ }) their ({ }) differences ({ 1 3 }) which ({ }) is ({ }) why ({ 4 5 6 7 }) 
+# Sentence pair (46) source length 10 target length 4 alignment score : 5.71248e-05
+ale mají určité rozdíly 
+NULL ({ }) we ({ }) sometimes ({ 2 }) say ({ 1 }) oops ({ 3 }) theres ({ }) a ({ }) bug ({ 4 }) in ({ }) that ({ }) browser ({ }) 
+# Sentence pair (47) source length 3 target length 3 alignment score : 0.00706159
+proto někdy říkáme 
+NULL ({ }) try ({ }) another ({ 2 3 }) one ({ 1 }) 
+# Sentence pair (48) source length 7 target length 7 alignment score : 3.2391e-07
+jejda nastala chyba zkuste použít jiný prohlížeč 
+NULL ({ }) which ({ 5 }) browser ({ 6 7 }) are ({ }) you ({ }) using ({ }) right ({ 2 3 4 }) now ({ 1 }) 
+# Sentence pair (49) source length 7 target length 5 alignment score : 3.00353e-05
+jaký prohlížeč používáte právě teď 
+NULL ({ }) well ({ }) you ({ }) must ({ 1 5 }) be ({ }) using ({ 3 }) that ({ 4 }) browser ({ 2 }) 
+# Sentence pair (50) source length 8 target length 7 alignment score : 2.7887e-07
+ten prohlížeč musíte používat na nějakém zařízení 
+NULL ({ }) from ({ 4 7 }) some ({ }) sort ({ 3 6 }) of ({ 5 }) device ({ 1 }) like ({ }) a ({ }) laptop ({ 2 }) 
+# Sentence pair (51) source length 7 target length 8 alignment score : 3.42821e-06
+třeba na notebooku mobilu tabletu nebo chytré televizi 
+NULL ({ }) phone ({ 7 }) tablet ({ 8 }) or ({ 2 }) even ({ 1 }) a ({ }) smart ({ 3 }) tv ({ 4 5 6 }) 
+# Sentence pair (52) source length 6 target length 5 alignment score : 1.12676e-05
+všechna tato zařízení nazýváme klienty 
+NULL ({ }) and ({ }) we ({ }) call ({ }) those ({ }) devices ({ 2 3 4 }) clients ({ 1 5 }) 
+# Sentence pair (53) source length 5 target length 5 alignment score : 2.87695e-05
+klienti mohou být velmi rozdílní 
+NULL ({ }) clients ({ }) can ({ }) be ({ 2 }) really ({ 3 4 }) different ({ 1 5 }) 
+# Sentence pair (54) source length 6 target length 5 alignment score : 0.000270647
+někteří jsou menší než jiní 
+NULL ({ }) some ({ }) are ({ }) way ({ 3 }) smaller ({ 2 }) than ({ 4 }) others ({ 1 5 }) 
+# Sentence pair (55) source length 6 target length 6 alignment score : 0.000131662
+někteří mají dotykové obrazovky jiní klávesnice 
+NULL ({ }) some ({ }) have ({ 2 3 }) touchscreens ({ 4 }) others ({ 1 5 }) have ({ }) keyboards ({ 6 }) 
+# Sentence pair (56) source length 5 target length 3 alignment score : 0.0078561
+někteří jsou černobílí 
+NULL ({ }) some ({ 1 }) are ({ }) black ({ 2 }) and ({ }) white ({ 3 }) 
+# Sentence pair (57) source length 8 target length 6 alignment score : 3.02722e-06
+internetové stránky se snaží vypadat dobře 
+NULL ({ }) so ({ 2 }) websites ({ }) have ({ }) to ({ 3 }) try ({ 1 4 }) to ({ }) work ({ 5 6 }) well ({ }) 
+# Sentence pair (58) source length 5 target length 4 alignment score : 0.00016505
+na všech různých zařízeních 
+NULL ({ }) in ({ }) all ({ }) sorts ({ 2 3 4 }) of ({ 1 }) clients ({ }) 
+# Sentence pair (59) source length 7 target length 5 alignment score : 1.07229e-05
+a jaké zařízení používáte vy 
+NULL ({ }) what ({ }) client ({ 2 3 5 }) are ({ 1 }) you ({ }) using ({ 4 }) right ({ }) now ({ }) 
+# Sentence pair (60) source length 4 target length 4 alignment score : 0.000346259
+a to je internet 
+NULL ({ }) and ({ 1 }) thats ({ 2 4 }) the ({ 3 }) web ({ }) 
+# Sentence pair (61) source length 4 target length 4 alignment score : 0.00267132
+tedy jeho dvouminutová verze 
+NULL ({ }) well ({ 1 }) the ({ }) twominute ({ 4 }) version ({ 2 3 }) 
+# Sentence pair (62) source length 8 target length 9 alignment score : 3.21411e-08
+je spousta dalšího co se o něm můžeme naučit 
+NULL ({ }) theres ({ 2 6 9 }) lots ({ 3 8 }) more ({ 7 }) to ({ 5 }) learn ({ 4 }) about ({ }) the ({ 1 }) web ({ }) 
+# Sentence pair (63) source length 12 target length 11 alignment score : 2.86589e-14
+ale myslím že je načase začít psát nějaké html a css 
+NULL ({ 4 }) but ({ }) now ({ }) i ({ 1 }) think ({ 9 }) its ({ }) about ({ }) time ({ 2 }) to ({ }) start ({ 3 }) having ({ 5 6 7 8 }) you ({ 10 }) write ({ 11 }) 
+# Sentence pair (64) source length 10 target length 6 alignment score : 1.71294e-06
+a vytvořit si vlastní internetovou stránku 
+NULL ({ }) some ({ }) html ({ }) and ({ 1 }) css ({ }) to ({ }) make ({ 6 }) your ({ 3 }) own ({ 2 4 }) web ({ }) pages ({ 5 }) 

@@ -1,0 +1,30 @@
+# Sentence pair (1) source length 1 target length 2 alignment score : 0.109694
+Dobrý den! 
+NULL ({ }) Hello! ({ 1 2 }) 
+# Sentence pair (2) source length 24 target length 19 alignment score : 3.32465e-17
+Jsem z personálního oddělení společnosti Šamanka, s. r. o., která byla založena v roce dva tisíce osmnáct v Liberci. 
+NULL ({ }) I'm ({ }) from ({ 5 }) the ({ }) personal ({ 1 }) department ({ 3 4 }) of ({ 2 }) the ({ }) company ({ }) Šamanka, ({ }) s. ({ }) r. ({ }) o., ({ }) which ({ 7 }) was ({ }) founded ({ }) in ({ }) two ({ }) thousand ({ 8 10 11 }) eighteen ({ 15 16 19 }) in ({ }) the ({ }) city ({ 9 12 14 }) of ({ 6 }) Liberec. ({ 13 17 18 }) 
+# Sentence pair (3) source length 5 target length 4 alignment score : 0.00249198
+Vyrábíme nealkoholické ovocné limonády. 
+NULL ({ }) We ({ }) produce ({ 2 3 }) non-alcoholic ({ }) fruit ({ 4 }) lemonades. ({ 1 }) 
+# Sentence pair (4) source length 9 target length 7 alignment score : 1.57124e-06
+Podporujeme jak lokální, tak zahraniční dodavatele ovoce. 
+NULL ({ }) We ({ }) support ({ }) both ({ 3 4 5 }) local ({ 2 }) and ({ }) foreign ({ 1 }) distributors ({ }) of ({ }) fruit. ({ 6 7 }) 
+# Sentence pair (5) source length 19 target length 18 alignment score : 2.80355e-19
+V současnosti máme na trhu šest příchutí, které prodáváme po celém světě a jednu příchuť z limitované edice. 
+NULL ({ }) We ({ }) are ({ }) currently ({ 4 5 6 7 8 9 10 11 18 }) selling ({ }) six ({ 1 }) flavours ({ }) all ({ }) over ({ }) the ({ }) world ({ 3 }) and ({ 13 }) one ({ 17 }) of ({ 16 }) the ({ 15 }) flavours ({ 14 }) is ({ 12 }) a ({ }) limited ({ }) edition. ({ 2 }) 
+# Sentence pair (6) source length 5 target length 6 alignment score : 0.000195972
+Jedná se o příchuť cukrové vaty. 
+NULL ({ }) It's ({ 2 5 }) the ({ }) cotton ({ 3 4 }) candy ({ 6 }) flavour. ({ 1 }) 
+# Sentence pair (7) source length 18 target length 12 alignment score : 6.7095e-13
+Pokud chcete nějakou z nich vyzkoušet, u našeho stánku máte možnost ochutnávky. 
+NULL ({ }) If ({ 1 }) you ({ }) want ({ }) to ({ }) try ({ }) them, ({ 2 }) there ({ }) are ({ 3 7 9 11 }) some... ({ 5 }) there ({ 6 8 10 }) are ({ }) some ({ 12 }) samples ({ }) of ({ 4 }) those ({ }) in ({ }) our ({ }) stand. ({ }) 
+# Sentence pair (8) source length 15 target length 14 alignment score : 4.79464e-19
+Náš stánek má číslo sedm, zrovna teď, myslím, není otevřený, ale bude možná zítra. 
+NULL ({ }) Our ({ 11 }) stand ({ 12 13 14 }) is ({ }) number ({ }) seven ({ 3 4 5 6 7 8 9 10 }) and ({ }) I ({ }) don't ({ }) think ({ }) it's ({ }) open ({ }) now, ({ }) but ({ }) maybe ({ }) tomorrow. ({ 1 2 }) 
+# Sentence pair (9) source length 4 target length 4 alignment score : 0.000770038
+Měli bychom tam být. 
+NULL ({ }) We ({ }) should ({ 1 2 }) be ({ 3 4 }) there. ({ }) 
+# Sentence pair (10) source length 30 target length 19 alignment score : 3.73005e-47
+A chtěl bych vám poděkovat za poslech prezentace o mé společnosti, přeji vám mnoho štěstí a užijte si veletrh. 
+NULL ({ }) And ({ }) I ({ }) would ({ 4 }) like ({ }) to ({ }) thank ({ 3 }) you ({ }) for ({ }) listening ({ }) to ({ }) me ({ 2 }) about ({ 17 }) my ({ }) company ({ }) and ({ 16 }) I ({ }) would ({ 13 }) like ({ 8 10 11 }) to ({ }) wish ({ 14 15 19 }) you ({ }) a ({ }) lot ({ 5 6 7 9 }) of ({ }) luck ({ 18 }) and ({ }) fun ({ }) at ({ 1 }) this ({ 12 }) trade. ({ }) 

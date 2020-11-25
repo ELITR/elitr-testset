@@ -1,0 +1,81 @@
+# Sentence pair (1) source length 3 target length 3 alignment score : 0.18004
+Schönes Wetter draußen... 
+NULL ({ }) Nice ({ 1 }) weather ({ 2 }) outside... ({ 3 }) 
+# Sentence pair (2) source length 6 target length 6 alignment score : 0.00768427
+Ja, es ist ziemlich heiß heute. 
+NULL ({ }) Yes, ({ 1 }) it ({ 2 }) is ({ 3 }) quite ({ 4 }) hot ({ 5 }) today. ({ 6 }) 
+# Sentence pair (3) source length 15 target length 16 alignment score : 1.34034e-12
+Ja, ich finde, es ist ein guter Tag, um Essen zu gehen, meinen Sie nicht auch? 
+NULL ({ }) Well, ({ 8 }) yeah, ({ 1 }) I ({ 2 }) think ({ 3 }) it's ({ 4 }) a ({ 6 }) very ({ 5 }) good ({ }) day ({ }) to ({ }) have ({ }) dinner, ({ 7 }) don't ({ 13 }) you ({ 14 }) agree? ({ 9 10 11 12 15 16 }) 
+# Sentence pair (4) source length 11 target length 10 alignment score : 2.53898e-05
+Ja, aber ich wüsste nicht, mit wem; kennen Sie jemanden? 
+NULL ({ }) Yes, ({ 1 }) but ({ 2 }) I ({ 3 }) wouldn't ({ 4 }) know ({ 5 }) with ({ 6 }) whom, ({ 7 }) do ({ }) you ({ 9 }) know ({ 8 }) anybody? ({ 10 }) 
+# Sentence pair (5) source length 6 target length 6 alignment score : 0.000224547
+Ich kenne einen erstaunlichen venezianischen Unternehmer. 
+NULL ({ }) I ({ 1 }) know ({ }) an ({ 4 }) amazing ({ 6 }) Venetian ({ 2 5 }) entrepreneur. ({ 3 }) 
+# Sentence pair (6) source length 3 target length 3 alignment score : 0.0870305
+Wer ist das? 
+NULL ({ }) Who ({ 1 }) is ({ 2 }) he? ({ 3 }) 
+# Sentence pair (7) source length 6 target length 5 alignment score : 0.000400676
+Er steht direkt vor Ihnen. 
+NULL ({ }) He's ({ 1 }) right ({ 2 }) in ({ }) front ({ 3 5 }) of ({ }) you. ({ 4 }) 
+# Sentence pair (8) source length 3 target length 2 alignment score : 0.0628061
+Im Ernst? 
+NULL ({ }) Are ({ 1 }) you ({ }) serious? ({ 2 }) 
+# Sentence pair (9) source length 10 target length 8 alignment score : 5.72956e-05
+Ja, ich hole Sie um 20 Uhr ab. 
+NULL ({ }) Yes, ({ 1 }) I'll ({ 3 }) come ({ }) to ({ 2 }) pick ({ }) you ({ 4 }) up ({ 7 }) at ({ 5 }) eight ({ 8 }) pm. ({ 6 }) 
+# Sentence pair (10) source length 4 target length 5 alignment score : 0.00105513
+Ich habe nicht Ja gesagt. 
+NULL ({ }) I ({ 1 }) haven't ({ 2 }) said ({ 3 4 }) yes. ({ 5 }) 
+# Sentence pair (11) source length 13 target length 10 alignment score : 5.82956e-06
+Noch nicht, wo soll ich Sie mit meinem Lamborghini abholen? 
+NULL ({ }) Not ({ 1 }) yet, ({ 2 }) where ({ 3 }) shall ({ 4 }) I ({ 5 }) come ({ }) to ({ }) pick ({ }) you ({ 6 }) up ({ }) with ({ 7 }) my ({ 8 }) Lamborghini? ({ 9 10 }) 
+# Sentence pair (12) source length 4 target length 3 alignment score : 0.0225028
+Was meinen Sie? 
+NULL ({ }) What ({ 1 }) do ({ 2 }) you ({ }) mean? ({ 3 }) 
+# Sentence pair (13) source length 14 target length 16 alignment score : 1.24932e-12
+Genau das, was ich gesagt habe; mein Lambo wurde gestern von meinem Unternehmen aus Italien geliefert. 
+NULL ({ }) Exactly ({ 2 }) what ({ 3 }) I ({ 4 }) said, ({ 5 }) my ({ 12 }) Lambo ({ 13 14 15 16 }) was ({ }) delivered ({ }) yesterday ({ }) from ({ 6 }) Italy ({ 1 }) by ({ 7 }) my ({ }) enterprise. ({ 8 9 10 11 }) 
+# Sentence pair (14) source length 5 target length 6 alignment score : 0.000187924
+Sie sind also im Transportgeschäft tätig? 
+NULL ({ }) So ({ 5 }) you ({ 1 }) deal ({ 6 }) with ({ 2 }) transports? ({ 3 4 }) 
+# Sentence pair (15) source length 21 target length 15 alignment score : 4.84704e-09
+Ja, ich habe ein Unternehmen in Venedig, es heißt Idoge; wir liefern und versenden weltweit. 
+NULL ({ }) Yes, ({ 1 }) I ({ 2 }) own ({ 3 }) a ({ 4 }) company ({ 5 }) based ({ 6 }) in ({ 13 }) Venice, ({ 8 }) its ({ 7 }) name ({ 9 }) is ({ }) Idoge, ({ 10 }) we ({ }) do ({ }) delivery ({ }) and ({ 11 }) shipping ({ }) all ({ }) over ({ 12 }) the ({ }) world. ({ 14 15 }) 
+# Sentence pair (16) source length 7 target length 6 alignment score : 0.000513971
+Wie heißt das Unternehmen noch gleich? 
+NULL ({ }) What's ({ 1 }) the ({ }) name ({ 2 }) of ({ 3 }) the ({ }) company ({ 4 }) again? ({ 5 6 }) 
+# Sentence pair (17) source length 13 target length 13 alignment score : 4.40574e-12
+Idoge; wir verkaufen auch Geräte, die Pasta, zum Beispiel italienische Pasta, machen kann. 
+NULL ({ }) Idoge, ({ 1 }) and ({ 2 }) we ({ }) also ({ }) sell ({ }) machinery ({ }) that ({ 3 }) can ({ }) make ({ }) pasta, ({ 5 }) like ({ 4 }) Italian ({ 6 7 8 9 10 11 12 }) pasta. ({ 13 }) 
+# Sentence pair (18) source length 3 target length 4 alignment score : 0.0197913
+Oh, das ist interessant. 
+NULL ({ }) Oh, ({ 1 }) that's ({ 2 }) interesting. ({ 3 4 }) 
+# Sentence pair (19) source length 36 target length 39 alignment score : 1.99509e-95
+Und das ist noch nicht alles: Wir haben 2016 angefangen, es ist noch gar nicht so lange her, aber unsere Kunden vertrauen uns; wir sind sehr bekannt für unsere Professionalität, sie geben uns wirklich ausgezeichnetes Feedback und herausragende Bewertungen. 
+NULL ({ 11 }) And ({ 1 }) not ({ }) only ({ 2 4 }) that, ({ 3 }) we ({ }) started ({ 28 }) in ({ 37 }) two ({ }) thousand ({ }) sixteen, ({ 27 }) not ({ }) too ({ 25 }) long ({ 26 }) ago, ({ }) but ({ 19 }) actually ({ 20 29 }) our ({ }) customers ({ }) trust ({ 17 }) us, ({ 18 }) we're ({ 6 13 16 }) very ({ 5 12 15 }) well ({ }) known ({ 39 }) for ({ 7 10 14 }) our ({ }) professionalism ({ 9 38 }) in ({ }) fact ({ 8 }) they ({ }) give ({ }) us ({ 23 }) excellent ({ 21 22 30 31 32 33 34 35 }) feedbacks ({ }) and ({ 24 }) reviews. ({ 36 }) 
+# Sentence pair (20) source length 21 target length 21 alignment score : 2.47468e-17
+Und deshalb nehme ich Sie heute mit in Marios Restaurant, sodass Sie Pasta probieren können, die mit unseren Geräten hergestellt wurde. 
+NULL ({ }) And ({ 1 }) that's ({ 2 }) why ({ 3 }) tonight ({ }) I'll ({ 12 }) take ({ 11 }) you ({ 5 }) to ({ 4 }) Mario's ({ 6 13 }) restaurant, ({ 10 }) so ({ }) you'll ({ 8 18 }) be ({ 19 }) able ({ 7 14 15 16 17 }) to ({ }) taste ({ }) pasta ({ 9 }) produced ({ 20 }) by ({ }) our ({ }) machinery. ({ 21 }) 
+# Sentence pair (21) source length 5 target length 5 alignment score : 0.00871826
+Mann, Sie sind zu selbstbewusst. 
+NULL ({ }) Boy, ({ 4 }) you ({ 2 }) look ({ 5 }) too ({ 3 }) confident. ({ 1 }) 
+# Sentence pair (22) source length 8 target length 12 alignment score : 3.23856e-10
+Das liegt daran, dass ich stolz auf das bin, was ich tue. 
+NULL ({ }) That's ({ 1 }) because ({ 3 9 }) I'm ({ 11 }) proud ({ 2 7 }) of ({ 8 }) what ({ 4 10 }) I ({ 5 }) do. ({ 6 12 }) 
+# Sentence pair (23) source length 9 target length 6 alignment score : 0.000449816
+Also, warten Sie zuhause auf mich? 
+NULL ({ }) So, ({ 2 }) will ({ 1 }) you ({ 3 }) wait ({ 4 }) for ({ }) me ({ }) at ({ }) your ({ 6 }) place? ({ 5 }) 
+# Sentence pair (24) source length 8 target length 10 alignment score : 1.75775e-06
+Oh, es freut mich sehr, aber ich bin bereits verabredet. 
+NULL ({ }) Oh, ({ 1 }) I'm ({ 7 }) so ({ 2 3 }) pleased ({ 5 }) but ({ 6 }) I'm ({ 8 }) already ({ 9 }) engaged. ({ 4 10 }) 
+# Sentence pair (25) source length 5 target length 5 alignment score : 0.0003911
+Oh, das bin ich gewöhnt... 
+NULL ({ }) Oh ({ 4 }) I'm ({ 3 }) used ({ 2 5 }) to ({ }) it... ({ 1 }) 
+# Sentence pair (26) source length 3 target length 3 alignment score : 0.0591733
+Tschüss, alles Gute. 
+NULL ({ }) Bye, ({ 1 }) take ({ 2 }) care. ({ 3 }) 
+# Sentence pair (27) source length 2 target length 4 alignment score : 4.37219e-05
+Es tut mir leid... 
+NULL ({ }) I'm ({ }) sorry... ({ 1 2 3 4 }) 

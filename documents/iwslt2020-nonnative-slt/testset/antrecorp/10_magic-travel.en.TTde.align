@@ -1,0 +1,51 @@
+# Sentence pair (1) source length 1 target length 1 alignment score : 0.863327
+Hi! 
+NULL ({ }) Hi! ({ 1 }) 
+# Sentence pair (2) source length 1 target length 1 alignment score : 0.863327
+Hi! 
+NULL ({ }) Hi! ({ 1 }) 
+# Sentence pair (3) source length 7 target length 5 alignment score : 0.0194395
+Arbeiten Sie in einer Reiseagentur? 
+NULL ({ }) Do ({ 1 }) you ({ 2 }) work ({ }) in ({ 3 }) a ({ }) travel ({ 4 }) agency? ({ 5 }) 
+# Sentence pair (4) source length 5 target length 6 alignment score : 0.000466887
+Ich habe nämlich Ihr Namensschild gesehen. 
+NULL ({ }) Because ({ 5 }) I ({ 1 }) saw ({ 2 }) your ({ 3 }) tag. ({ 4 6 }) 
+# Sentence pair (5) source length 13 target length 12 alignment score : 2.25597e-06
+Ja, ich arbeite in einer Reiseagentur in Venedig, sie heißt Magic Travel. 
+NULL ({ }) Yes ({ 3 12 }) I ({ 2 }) work ({ }) for ({ 11 }) a ({ }) travel ({ 5 }) agency ({ 6 }) back ({ 4 }) in ({ 7 }) Venice ({ 10 }) called ({ 8 }) Magic ({ 9 }) Travel. ({ 1 }) 
+# Sentence pair (6) source length 11 target length 8 alignment score : 0.000378393
+Ich plane gerade eine Reise mit meiner Freundin. 
+NULL ({ }) I ({ 1 }) was ({ 2 }) planning ({ }) on ({ 7 }) organizing ({ 5 }) our ({ }) tour ({ }) with ({ 4 }) my ({ 6 }) new ({ 3 }) girlfriend. ({ 8 }) 
+# Sentence pair (7) source length 21 target length 20 alignment score : 4.74493e-10
+Wir bieten Romantikreisen an, aber wenn Sie ein eher abenteuerlustiges Paar sind, bieten wir auch sportliche und kulinarische Reisen an. 
+NULL ({ }) We ({ 1 }) do ({ 5 }) offer ({ 2 }) romantic ({ }) tours ({ 19 20 }) but ({ 4 }) if ({ 3 }) you ({ 7 }) are ({ 8 }) more ({ }) of ({ 9 }) an ({ 6 }) adventurous ({ 11 }) couple ({ 10 }) we ({ 14 }) also ({ }) offer ({ 13 }) sport ({ 15 }) and ({ 17 }) culinary ({ 12 18 }) tourism. ({ 16 }) 
+# Sentence pair (8) source length 7 target length 6 alignment score : 0.000775106
+Wir sind eher ein romantisches Paar. 
+NULL ({ }) We ({ 1 }) are ({ 4 }) more ({ 2 }) of ({ 3 }) a ({ }) romantic ({ }) couple. ({ 5 6 }) 
+# Sentence pair (9) source length 8 target length 9 alignment score : 5.76732e-05
+Wir bieten Reisen in Russland, Spanien und England an. 
+NULL ({ }) We ({ 1 }) offer ({ 2 }) tours ({ 3 9 }) in ({ 4 }) Russia, ({ 6 }) Spain ({ 5 }) and ({ 7 }) England. ({ 8 }) 
+# Sentence pair (10) source length 10 target length 8 alignment score : 6.02632e-07
+Wenn Sie mal in unseren Katalog schauen wollen... 
+NULL ({ }) If ({ 1 }) you ({ 2 }) want ({ 3 }) to ({ }) have ({ }) a ({ }) look ({ 5 8 }) at ({ 4 }) our ({ }) catalogue... ({ 6 7 }) 
+# Sentence pair (11) source length 1 target length 1 alignment score : 0.616972
+Ja. 
+NULL ({ }) Yes. ({ 1 }) 
+# Sentence pair (12) source length 4 target length 5 alignment score : 1.10694e-05
+Wow, das ist sehr interessant. 
+NULL ({ }) Wow ({ 1 2 3 5 }) it's ({ }) very ({ 4 }) interesting. ({ }) 
+# Sentence pair (13) source length 5 target length 4 alignment score : 0.0218667
+Welche würden Sie empfehlen? 
+NULL ({ }) Which ({ 2 }) one ({ 1 }) would ({ }) you ({ 3 }) recommend? ({ 4 }) 
+# Sentence pair (14) source length 21 target length 21 alignment score : 5.58656e-13
+Ich würde Verona empfehlen, weil es die Stadt der Liebe ist, und ich denke, Ihre Freundin würde sich dort sehr wohlfühlen. 
+NULL ({ }) I ({ 1 }) would ({ 2 }) recommend ({ 3 }) Verona ({ 4 }) because ({ 5 7 21 }) it ({ 20 }) is ({ 6 }) the ({ 9 }) city ({ 10 }) of ({ }) love ({ 8 }) and ({ 12 }) I ({ 13 }) think ({ 14 }) your ({ 15 }) girlfriend ({ 16 }) would ({ 17 }) really ({ 18 }) much ({ }) enjoy ({ 19 }) it. ({ 11 }) 
+# Sentence pair (15) source length 19 target length 17 alignment score : 9.15151e-16
+Für weitere Informationen lasse ich Ihnen meine Visitenkarte da, wo Sie jederzeit mit uns Kontakt aufnehmen können. 
+NULL ({ }) For ({ 16 }) any ({ 2 3 4 7 8 9 }) further ({ 10 }) information ({ 1 }) I ({ 5 }) leave ({ }) you ({ }) our ({ 13 }) visiting ({ }) card ({ }) where ({ }) you ({ 11 }) can ({ 12 }) come ({ }) to ({ 6 }) us ({ 15 }) at ({ 14 }) any ({ }) time. ({ 17 }) 
+# Sentence pair (16) source length 23 target length 20 alignment score : 1.79389e-14
+Aber ich muss Ihnen etwas gestehen: Ich habe gar keine Freundin und würde gerne Sie mit auf meine Romantikreise nehmen. 
+NULL ({ }) But ({ 9 }) I ({ 2 }) have ({ }) to ({ 4 }) make ({ }) a ({ }) confession, ({ 5 }) I ({ 7 }) don't ({ 8 }) have ({ 6 }) a ({ 10 }) girlfriend ({ 11 }) and ({ 12 }) I ({ }) would ({ 13 }) like ({ 14 }) to ({ 3 }) take ({ 1 }) you ({ 15 }) to ({ }) my ({ 16 }) romantic ({ }) tour. ({ 17 18 19 20 }) 
+# Sentence pair (17) source length 11 target length 9 alignment score : 9.72265e-05
+Ich denke, wir sehen uns in der Agentur wieder. 
+NULL ({ }) I ({ 1 }) think ({ 2 }) we ({ 3 }) will ({ 4 }) see ({ 9 }) each ({ }) other ({ }) back ({ 6 }) at ({ 5 }) the ({ 7 }) agency. ({ 8 }) 

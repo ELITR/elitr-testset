@@ -1,0 +1,135 @@
+# Sentence pair (1) source length 4 target length 2 alignment score : 0.0658662
+vystínujte 109 
+NULL ({ }) show ({ 1 }) 109 ({ 2 }) by ({ }) shading ({ }) 
+# Sentence pair (2) source length 14 target length 8 alignment score : 6.68256e-07
+jen pro zopakování pokud bychom chtěli 109 rozepsat 
+NULL ({ }) so ({ }) just ({ 1 }) as ({ }) a ({ }) bit ({ 4 }) of ({ }) review ({ 6 8 }) 109 ({ 7 }) if ({ 5 }) we ({ }) were ({ }) to ({ 3 }) write ({ 2 }) it ({ }) 
+# Sentence pair (3) source length 10 target length 10 alignment score : 4.54899e-06
+bylo by to doslova 109 procent což je to samé 
+NULL ({ }) out ({ 4 }) would ({ 1 }) literally ({ 3 }) be ({ 2 }) 109 ({ 5 }) percent ({ 7 }) which ({ 6 }) is ({ 8 }) the ({ 9 }) same ({ 10 }) 
+# Sentence pair (4) source length 12 target length 10 alignment score : 1.58531e-09
+jako 109 pro a teď bych mohl znovu napsat cent 
+NULL ({ }) thing ({ 4 }) as ({ 1 }) 109 ({ 2 }) per ({ }) and ({ 3 }) i ({ }) could ({ }) write ({ }) cent ({ 10 }) again ({ 6 7 8 9 }) but ({ 5 }) thats ({ }) 
+# Sentence pair (5) source length 2 target length 4 alignment score : 4.87294e-05
+ale to už známe 
+NULL ({ 2 }) getting ({ 3 }) old ({ 1 4 }) 
+# Sentence pair (6) source length 6 target length 6 alignment score : 0.00123314
+cent znamená 100 doslova to tedy 
+NULL ({ }) cent ({ 1 }) means ({ 2 }) 100 ({ 3 }) so ({ 6 }) it ({ }) literally ({ 4 5 }) 
+# Sentence pair (7) source length 4 target length 4 alignment score : 0.0509777
+znamená 109 ze 100 
+NULL ({ }) means ({ 1 }) 109 ({ 2 }) per ({ 3 }) hundred ({ 4 }) 
+# Sentence pair (8) source length 12 target length 9 alignment score : 2.82154e-06
+kdybychom měl 100 ze 100 měli bychom jeden celek 
+NULL ({ }) if ({ 7 }) you ({ 1 }) had ({ 2 }) 100 ({ 3 }) per ({ 4 }) 100 ({ 5 }) youre ({ }) dealing ({ 6 }) with ({ 8 }) the ({ }) whole ({ 9 }) but ({ }) 
+# Sentence pair (9) source length 7 target length 6 alignment score : 0.000970633
+ale nyní máme víc než celek 
+NULL ({ }) now ({ 2 }) we ({ 1 }) have ({ 3 }) more ({ 4 }) than ({ 5 }) a ({ }) whole ({ 6 }) 
+# Sentence pair (10) source length 5 target length 4 alignment score : 0.0233279
+máme 109 ze 100 
+NULL ({ }) we ({ }) have ({ 1 }) 109 ({ 2 }) per ({ 3 }) 100 ({ 4 }) 
+# Sentence pair (11) source length 12 target length 7 alignment score : 8.99188e-06
+můžeme to zapsat jako poměr nebo zlomek 
+NULL ({ }) we ({ }) can ({ 1 }) actually ({ 2 3 }) write ({ }) this ({ }) as ({ }) a ({ }) ratio ({ 7 }) or ({ 6 }) as ({ 4 }) a ({ }) fraction ({ 5 }) 
+# Sentence pair (12) source length 9 target length 7 alignment score : 0.000148309
+je to stejné jako 109 děleno 100 
+NULL ({ }) this ({ }) is ({ 1 }) the ({ 2 }) same ({ 3 }) thing ({ }) as ({ 4 }) 109 ({ 5 }) per ({ 6 }) 100 ({ 7 }) 
+# Sentence pair (13) source length 7 target length 5 alignment score : 0.00011877
+stejné jako 109 lomeno 100 
+NULL ({ }) its ({ 4 }) the ({ }) the ({ }) same ({ 1 }) thing ({ }) as ({ 2 }) 109100 ({ 3 5 }) 
+# Sentence pair (14) source length 5 target length 3 alignment score : 0.00741214
+vystínujme to tedy 
+NULL ({ }) so ({ 3 }) lets ({ 1 }) shade ({ }) that ({ 2 }) in ({ }) 
+# Sentence pair (15) source length 10 target length 4 alignment score : 0.000147748
+zde máme celek budeme 
+NULL ({ }) so ({ }) we ({ }) have ({ 2 }) a ({ }) whole ({ 3 }) here ({ }) so ({ }) we ({ }) could ({ }) consider ({ 1 4 }) 
+# Sentence pair (16) source length 4 target length 5 alignment score : 3.32255e-05
+tento čtverec považovat za celek 
+NULL ({ }) this ({ 1 }) square ({ }) a ({ 2 3 4 }) whole ({ 5 }) 
+# Sentence pair (17) source length 6 target length 6 alignment score : 0.000197517
+v minulém videu jsme to počítali 
+NULL ({ }) in ({ 1 }) the ({ 5 }) last ({ 2 3 }) video ({ 4 }) we ({ }) counted ({ 6 }) 
+# Sentence pair (18) source length 7 target length 6 alignment score : 3.71321e-06
+je to čtverec 10 na 10 
+NULL ({ 2 }) this ({ }) is ({ 1 }) a ({ }) 10 ({ 4 }) by ({ 5 }) 10 ({ 6 }) square ({ 3 }) 
+# Sentence pair (19) source length 7 target length 5 alignment score : 0.00709264
+je rozdělen na 100 částí 
+NULL ({ }) it ({ }) is ({ 1 }) cut ({ 2 }) up ({ }) into ({ 3 }) 100 ({ 4 }) pieces ({ 5 }) 
+# Sentence pair (20) source length 10 target length 7 alignment score : 3.03689e-06
+chceme dostat 109 z těchto 100 částí 
+NULL ({ }) so ({ }) if ({ }) we ({ }) want ({ }) 109 ({ 3 }) of ({ }) those ({ 4 }) 100 ({ 6 }) pieces ({ 7 }) what ({ 1 2 5 }) 
+# Sentence pair (21) source length 4 target length 4 alignment score : 0.00344748
+jak to bude vypadat 
+NULL ({ }) are ({ 1 }) we ({ }) talking ({ 2 }) about ({ 3 4 }) 
+# Sentence pair (22) source length 10 target length 5 alignment score : 2.21596e-05
+znamená to že vystínujeme všech 
+NULL ({ }) that ({ 2 }) means ({ 1 }) were ({ }) going ({ 4 5 }) to ({ }) shade ({ }) in ({ }) all ({ 3 }) of ({ }) the ({ }) 
+# Sentence pair (23) source length 4 target length 3 alignment score : 0.0109424
+100 částí tady 
+NULL ({ }) 100 ({ 1 }) right ({ }) over ({ 2 }) here ({ 3 }) 
+# Sentence pair (24) source length 8 target length 4 alignment score : 0.00866018
+udělám to novou barvou 
+NULL ({ }) let ({ 3 }) me ({ }) do ({ }) that ({ 2 }) in ({ }) a ({ }) new ({ 4 }) color ({ 1 }) 
+# Sentence pair (25) source length 7 target length 4 alignment score : 0.000301774
+vybarvíme tedy celé toto 
+NULL ({ }) so ({ 2 }) well ({ }) shade ({ 3 }) in ({ }) all ({ 1 }) of ({ 4 }) this ({ }) 
+# Sentence pair (26) source length 10 target length 7 alignment score : 2.17804e-06
+kdybychom vybarvili jen to měli bychom 100 
+NULL ({ }) if ({ 6 }) you ({ 1 }) just ({ 3 }) shaded ({ 2 5 }) that ({ 4 }) in ({ }) that ({ }) would ({ }) be ({ }) 100 ({ 7 }) 
+# Sentence pair (27) source length 10 target length 12 alignment score : 4.42203e-10
+bylo by to 100 děleno 100 nebo 100 ze 100 nebo 100 
+NULL ({ }) that ({ 3 }) would ({ 1 }) be ({ 2 }) 100100 ({ 6 }) or ({ }) 100 ({ 4 }) per ({ 5 9 }) 100 ({ 8 12 }) or ({ 7 11 }) 100 ({ 10 }) 
+# Sentence pair (28) source length 10 target length 8 alignment score : 4.99435e-06
+myslím že už vám to začíná být jasné 
+NULL ({ }) i ({ }) think ({ 1 }) youre ({ 4 }) getting ({ 3 }) the ({ 5 }) meaning ({ 6 7 8 }) of ({ }) all ({ 2 }) of ({ }) this ({ }) 
+# Sentence pair (29) source length 9 target length 7 alignment score : 2.81102e-06
+nechci abyste se to pouze učili nazpaměť 
+NULL ({ }) i ({ }) dont ({ 1 }) just ({ }) want ({ 3 }) you ({ }) just ({ 4 }) memorize ({ 2 5 6 }) this ({ }) stuff ({ 7 }) 
+# Sentence pair (30) source length 11 target length 8 alignment score : 6.12146e-08
+doslova to znamená 100 ze 100 neboli celek 
+NULL ({ 2 }) this ({ }) really ({ 7 }) just ({ }) means ({ 3 }) 100 ({ 4 }) out ({ 1 }) of ({ 5 }) 100 ({ 6 }) or ({ }) a ({ }) whole ({ 8 }) 
+# Sentence pair (31) source length 10 target length 5 alignment score : 1.24681e-05
+je to tedy celý čtverec 
+NULL ({ }) and ({ }) you ({ }) can ({ 3 }) see ({ 4 }) that ({ }) this ({ }) is ({ 1 }) the ({ 2 }) whole ({ }) square ({ 5 }) 
+# Sentence pair (32) source length 7 target length 6 alignment score : 1.16211e-05
+je to 100 ze 100 tady 
+NULL ({ }) thats ({ }) 100 ({ 5 }) out ({ 2 }) of ({ }) 100 ({ 3 }) right ({ 6 }) there ({ 1 4 }) 
+# Sentence pair (33) source length 9 target length 4 alignment score : 0.000216155
+otázka zní vybarvěte 109 
+NULL ({ }) the ({ }) question ({ 1 }) is ({ }) saying ({ 2 }) show ({ }) us ({ 3 }) 109 ({ 4 }) by ({ }) shading ({ }) 
+# Sentence pair (34) source length 13 target length 12 alignment score : 6.2799e-07
+už jsme udělali 100 ze 100 ale ještě musíme udělat dalších 9 
+NULL ({ }) we ({ 2 }) already ({ 1 }) did ({ 3 }) 100 ({ 4 }) per ({ 5 }) 100 ({ 6 }) but ({ 7 }) we ({ }) need ({ 9 }) to ({ 8 }) do ({ 10 }) another ({ 11 }) 9 ({ 12 }) 
+# Sentence pair (35) source length 6 target length 4 alignment score : 0.00395602
+vybarvěme tedy dalších 9 
+NULL ({ }) so ({ 2 }) lets ({ 1 }) shade ({ }) in ({ }) another ({ 3 }) 9 ({ 4 }) 
+# Sentence pair (36) source length 11 target length 8 alignment score : 1.58448e-06
+teď tedy máme 1 2 3 4 5 
+NULL ({ }) so ({ 2 }) now ({ }) we ({ }) have ({ 3 }) one ({ }) two ({ 1 4 }) three ({ }) four ({ 7 }) five ({ 5 }) six ({ 6 }) seven ({ 8 }) 
+# Sentence pair (37) source length 2 target length 4 alignment score : 0.000877352
+6 7 8 9 
+NULL ({ }) eight ({ 2 3 }) nine ({ 1 4 }) 
+# Sentence pair (38) source length 11 target length 4 alignment score : 3.50865e-05
+tento kousek přesně tady 
+NULL ({ }) so ({ }) this ({ 1 }) piece ({ 2 }) right ({ 4 }) here ({ }) you ({ }) could ({ }) almost ({ 3 }) view ({ }) that ({ }) is ({ }) 
+# Sentence pair (39) source length 3 target length 4 alignment score : 0.00135836
+to je přesně ono 
+NULL ({ }) well ({ 3 4 }) that ({ 1 }) is ({ 2 }) 
+# Sentence pair (40) source length 7 target length 5 alignment score : 0.00127052
+je to 9 celého čtverce 
+NULL ({ }) that ({ 2 }) is ({ 1 }) 9 ({ 3 }) of ({ }) an ({ 4 }) entire ({ 5 }) square ({ }) 
+# Sentence pair (41) source length 7 target length 5 alignment score : 0.000525162
+toto je 100 celého čtverce 
+NULL ({ }) this ({ }) is ({ 2 }) 100 ({ 3 }) of ({ 1 }) an ({ 4 }) entire ({ 5 }) square ({ }) 
+# Sentence pair (42) source length 10 target length 12 alignment score : 1.67389e-13
+pokud vezmeme tento celý kus a přičteme k němu tuto modrou část 
+NULL ({ }) if ({ }) you ({ }) considered ({ 5 }) this ({ }) whole ({ }) thing ({ 6 }) plus ({ 1 7 9 11 }) this ({ 3 }) blue ({ 4 }) area ({ 2 8 10 12 }) 
+# Sentence pair (43) source length 10 target length 3 alignment score : 0.000238628
+dostaneme 109 jednoho 
+NULL ({ }) right ({ }) over ({ 1 }) here ({ }) you ({ }) are ({ }) talking ({ }) about ({ }) 109 ({ 2 }) of ({ }) one ({ 3 }) 
+# Sentence pair (44) source length 2 target length 2 alignment score : 0.0046527
+celého čtverce 
+NULL ({ }) whole ({ }) square ({ 1 2 }) 
+# Sentence pair (45) source length 4 target length 5 alignment score : 0.00288745
+doufám že to dává smysl 
+NULL ({ }) hopefully ({ 1 2 }) that ({ 3 }) made ({ 4 }) sense ({ 5 }) 

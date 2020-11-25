@@ -1,0 +1,54 @@
+# Sentence pair (1) source length 19 target length 17 alignment score : 1.45434e-16
+Guten Tag, meine Damen und Herren, mein Name ist <NAME> und ich vertrete das Unternehmen Trefa s.r.o. 
+NULL ({ }) Good ({ 1 }) afternoon, ({ }) ladies ({ 6 }) and ({ 11 }) gentlemen, ({ }) my ({ 12 }) name ({ }) is ({ 9 }) <NAME> ({ 4 10 15 }) and ({ 5 }) I ({ }) am ({ }) a ({ }) representative ({ }) of ({ }) company ({ 7 13 16 }) called ({ }) Trefa ({ 2 }) s.r.o. ({ 3 8 14 17 }) 
+# Sentence pair (2) source length 9 target length 11 alignment score : 1.31729e-07
+Wir sind auf den Verkauf von Süßwaren und süßen Getränken spezialisiert. 
+NULL ({ }) We ({ 1 }) are ({ }) specialized ({ 2 3 }) in ({ 4 }) selling ({ 6 }) sweets ({ 7 }) and ({ 8 }) sweet ({ 5 }) drinks. ({ 9 10 11 }) 
+# Sentence pair (3) source length 18 target length 12 alignment score : 2.84515e-08
+Eines unserer meistverkauften Produkte ist Lakritze aus Marokko von unserem Geschäftspartner Mishoc. 
+NULL ({ }) Our ({ 1 }) one ({ }) of ({ }) the ({ }) best ({ }) selling ({ 9 }) products ({ 10 }) is ({ 5 }) a ({ }) liquorice ({ 6 }) from ({ }) Morocco ({ 8 }) from ({ 7 }) our ({ }) business ({ 2 }) partner ({ 3 }) called ({ 11 }) Mishoc. ({ 4 12 }) 
+# Sentence pair (4) source length 6 target length 6 alignment score : 0.0012027
+Sie haben eine sehr umfangreiche Geschichte. 
+NULL ({ }) They ({ 1 }) have ({ 2 }) a ({ }) really ({ 6 }) rich ({ 4 5 }) history. ({ 3 }) 
+# Sentence pair (5) source length 10 target length 8 alignment score : 7.17148e-06
+Diese Lakritze ist eine der besten ihrer Art. 
+NULL ({ }) Those ({ 1 }) liquorice ({ 2 }) are ({ 3 }) one ({ 4 }) of ({ 5 }) the ({ }) best ({ 6 }) of ({ }) the ({ }) kind. ({ 7 8 }) 
+# Sentence pair (6) source length 3 target length 4 alignment score : 0.0217675
+Sie ist lange haltbar. 
+NULL ({ }) They ({ 1 }) are ({ 2 }) long-lasting. ({ 3 4 }) 
+# Sentence pair (7) source length 8 target length 5 alignment score : 0.000601313
+Sie verkaufen uns auch Kekse. 
+NULL ({ }) They ({ 1 }) also ({ }) see... ({ 2 }) they ({ }) also ({ 4 }) sell ({ 3 }) us ({ }) biscuits. ({ 5 }) 
+# Sentence pair (8) source length 9 target length 7 alignment score : 5.45116e-06
+Diese Kekse werden aus hundertprozentiger Schokolade hergestellt. 
+NULL ({ }) Those ({ 1 }) biscuits ({ 2 }) are ({ }) made ({ 3 }) of ({ }) one ({ }) hundred ({ 4 6 }) percent ({ }) chocolate. ({ 5 7 }) 
+# Sentence pair (9) source length 5 target length 5 alignment score : 0.00139852
+Wir importieren auch aus Russland. 
+NULL ({ }) Also, ({ 3 }) we ({ }) import ({ 1 2 }) from ({ 4 }) Russia. ({ 5 }) 
+# Sentence pair (10) source length 9 target length 6 alignment score : 0.000165765
+Russland ist einer unserer größten Geschäftspartner. 
+NULL ({ }) Russia ({ 1 }) is ({ 2 }) one ({ }) of ({ }) our... ({ }) our ({ }) biggest ({ 3 }) business ({ 4 }) partners. ({ 5 6 }) 
+# Sentence pair (11) source length 12 target length 12 alignment score : 4.48358e-07
+Sie verkaufen uns Schokolade, sie verkaufen uns Kekse, sie verkaufen uns Bonbons. 
+NULL ({ }) They ({ 1 }) sell ({ 3 }) us ({ 2 }) chocolate, ({ 4 9 }) they ({ 10 }) sell ({ 11 }) us ({ }) biscuits, ({ 8 12 }) they ({ 6 }) sell ({ 7 }) us ({ }) bonbons. ({ 5 }) 
+# Sentence pair (12) source length 29 target length 22 alignment score : 3.94115e-18
+Russische Schokolade, auch wenn manche sie im Vergleich zu Schweizer oder belgischer Schokolade nicht gut finden, ist auch eine der besten weltweit. 
+NULL ({ }) The ({ }) Russian ({ 1 }) chocolate, ({ 2 6 }) even-though ({ }) some ({ }) call ({ 12 }) it ({ }) not ({ }) good ({ 7 }) as ({ 8 }) compared ({ 10 }) to ({ }) Swiss ({ 5 }) chocolate ({ }) or ({ }) the ({ }) chocolate ({ }) form ({ 9 11 }) the ({ }) Belgium, ({ 4 }) is ({ 17 }) also ({ 3 18 }) one ({ 19 }) of ({ 20 }) the ({ }) best ({ 21 }) in ({ }) the ({ }) world. ({ 13 14 15 16 22 }) 
+# Sentence pair (13) source length 15 target length 12 alignment score : 1.67675e-09
+Wenn Sie gern etwas probieren würden, haben wir den Stand Nummer 8. 
+NULL ({ }) Also, ({ }) if ({ 3 }) you ({ 2 }) would ({ 4 }) like ({ 5 }) to ({ }) taste ({ }) something, ({ 1 }) anything, ({ 6 }) we ({ }) have ({ 7 }) a ({ }) stand ({ 9 10 11 12 }) number ({ }) eight. ({ 8 }) 
+# Sentence pair (14) source length 11 target length 10 alignment score : 1.77377e-08
+Dort können Sie hingehen und alles probieren, was Sie möchten. 
+NULL ({ }) You ({ 1 }) can ({ }) go ({ }) there, ({ }) you ({ 3 }) can ({ 8 }) taste ({ 2 }) absolutely ({ 7 }) anything ({ 10 }) you ({ 9 }) want. ({ 4 5 6 }) 
+# Sentence pair (15) source length 17 target length 15 alignment score : 5.22606e-12
+Wenn Sie etwas kaufen möchten, bekommen Sie aktuell einen Nachlass von 20 % auf alles. 
+NULL ({ }) If ({ 6 }) you ({ 2 7 }) want ({ 8 }) to ({ }) buy ({ 9 }) something, ({ 1 }) we ({ }) have ({ 3 }) a ({ }) twenty ({ 10 }) percent ({ 4 }) discount ({ 5 }) on ({ }) everything ({ }) at ({ }) the ({ }) moment. ({ 11 12 13 14 15 }) 
+# Sentence pair (16) source length 3 target length 4 alignment score : 0.0136744
+Nun, das ist alles. 
+NULL ({ }) Well, ({ 1 }) that's ({ 2 }) everything. ({ 3 4 }) 
+# Sentence pair (17) source length 6 target length 8 alignment score : 3.98819e-06
+Ich freue mich, dass Sie mir zugehört haben. 
+NULL ({ }) I'm ({ 1 }) glad ({ 6 }) you ({ 5 }) listened ({ 2 7 8 }) to ({ }) me. ({ 3 4 }) 
+# Sentence pair (18) source length 4 target length 3 alignment score : 0.0841276
+Einen schönen Tag. 
+NULL ({ }) Have ({ 1 }) a ({ }) good ({ 2 }) day. ({ 3 }) 

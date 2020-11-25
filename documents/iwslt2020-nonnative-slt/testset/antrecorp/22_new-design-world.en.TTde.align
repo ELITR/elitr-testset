@@ -1,0 +1,66 @@
+# Sentence pair (1) source length 3 target length 3 alignment score : 0.051512
+Ich bin müde. 
+NULL ({ }) I ({ 1 }) feel ({ 2 }) tired. ({ 3 }) 
+# Sentence pair (2) source length 6 target length 5 alignment score : 0.0130648
+Dieser Bahnverkehr ist so anstrengend. 
+NULL ({ }) This ({ 4 }) trade ({ 5 }) fair ({ 3 }) is ({ 2 }) so ({ }) exhausting. ({ 1 }) 
+# Sentence pair (3) source length 5 target length 5 alignment score : 0.00253215
+Ich muss mich irgendwo hinsetzen. 
+NULL ({ }) I ({ 1 }) need ({ 2 }) somewhere ({ 3 4 }) to ({ }) sit. ({ 5 }) 
+# Sentence pair (4) source length 4 target length 4 alignment score : 0.00341511
+Habe ich richtig gehört? 
+NULL ({ }) Did ({ 2 }) I ({ }) hear ({ 3 4 }) well? ({ 1 }) 
+# Sentence pair (5) source length 14 target length 13 alignment score : 2.33253e-08
+Suchen Sie einen bequemen Stuhl, auf den Sie sich setzen und ausruhen können? 
+NULL ({ }) Are ({ }) you ({ 2 }) looking ({ 1 3 }) for ({ }) a ({ }) comfortable ({ 4 }) chair, ({ 5 }) where ({ 6 }) you ({ 8 }) can ({ 10 }) sit ({ 9 }) and ({ 11 }) rest ({ 12 }) yourself? ({ 7 13 }) 
+# Sentence pair (6) source length 17 target length 15 alignment score : 5.0579e-11
+Sie sind zur richtigen Zeit am richtigen Ort und wahrscheinlich bin ich der richtige Mann. 
+NULL ({ }) You ({ 3 }) are ({ 2 }) in ({ }) the ({ }) right ({ }) place ({ 8 }) at ({ 1 }) the ({ }) right ({ }) time ({ 4 5 6 7 }) and ({ 9 }) probably ({ 10 }) I ({ }) am ({ 11 12 }) the ({ 13 }) right ({ 14 }) man. ({ 15 }) 
+# Sentence pair (7) source length 9 target length 9 alignment score : 5.2868e-05
+Noch ein nerviger Verkäufer, der sein Produkt bewerben will. 
+NULL ({ }) Another ({ 7 }) annoying ({ 8 }) seller, ({ 5 }) who ({ 6 9 }) wants ({ 3 }) to ({ }) promote ({ 4 }) his ({ 2 }) product. ({ 1 }) 
+# Sentence pair (8) source length 10 target length 14 alignment score : 9.00611e-11
+Warten Sie, warten Sie... bevor Sie voreilige Schlüsse ziehen, möchte ich mich Ihnen vorstellen. 
+NULL ({ 6 }) Wait, ({ 11 }) wait... ({ 2 }) before ({ 3 }) jumping ({ 1 }) to ({ }) conclusion ({ 13 14 }) let ({ 5 }) me ({ 4 12 }) introduce ({ 7 9 }) myself. ({ 8 10 }) 
+# Sentence pair (9) source length 13 target length 13 alignment score : 9.41993e-10
+Mein Name ist <NAME> und ich bin der Chef von New Design World. 
+NULL ({ }) My ({ 12 }) name ({ 13 }) <NAME> ({ }) and ({ 5 }) I ({ }) am ({ 6 7 }) a ({ }) rep ({ 4 11 }) of ({ 10 }) the ({ 8 }) New ({ 9 }) Design ({ 3 }) World. ({ 1 2 }) 
+# Sentence pair (10) source length 22 target length 19 alignment score : 2.10427e-15
+Unser Unternehmen wurde 1981 im Nordosten Italiens von einer Gruppe junger Leute gegründet, die ihre Leidenschaft für Möbel verband. 
+NULL ({ }) Our ({ }) company ({ 1 10 11 }) was ({ 14 }) founded ({ 3 }) 1981 ({ 4 }) in ({ }) the ({ }) North-East ({ 9 }) of ({ 8 }) Italy ({ 2 }) by ({ }) a ({ }) young ({ 6 7 }) group ({ 12 }) of ({ }) people ({ 5 13 }) joined ({ }) by ({ 15 }) the ({ }) passion ({ 16 }) for ({ }) furniture. ({ 17 18 19 }) 
+# Sentence pair (11) source length 16 target length 15 alignment score : 1.34975e-07
+Wir möchten unsere hochwertigen und raffinierten Produkte gern einem großen Kreis von Nutzern zugänglich machen. 
+NULL ({ }) We ({ 1 }) wish ({ 2 }) to ({ 7 }) make ({ 8 }) our ({ 3 }) high ({ 4 }) quality ({ 15 }) and ({ 5 }) sophisticated ({ 6 }) products ({ 14 }) accessible ({ 9 }) to ({ }) wide ({ 10 11 }) range ({ 13 }) of ({ 12 }) users. ({ }) 
+# Sentence pair (12) source length 14 target length 13 alignment score : 1.19403e-08
+Unsere bequemen Stühle zum Beispiel sind der richtige Kompromiss aus Schönheit und Eleganz. 
+NULL ({ }) Our ({ 11 }) comfortable ({ 2 }) chairs, ({ 1 5 }) for ({ }) example, ({ 4 10 }) are ({ 6 }) the ({ 7 }) right ({ 8 }) trade-off ({ 3 }) to ({ }) combine ({ 9 }) beauty ({ }) and ({ 12 }) elegance. ({ 13 }) 
+# Sentence pair (13) source length 2 target length 2 alignment score : 0.10618
+Oh, interessant. 
+NULL ({ }) Oh, ({ 2 }) interesting. ({ 1 }) 
+# Sentence pair (14) source length 6 target length 6 alignment score : 0.000360611
+Das klingt nach einem guten Vorschlag. 
+NULL ({ }) It ({ 5 }) sounds ({ 6 }) like ({ 3 }) a ({ }) nice ({ 2 4 }) proposal. ({ 1 }) 
+# Sentence pair (15) source length 11 target length 11 alignment score : 2.42582e-07
+Ich wollte gerade wirklich mein Büro modernisieren, also fahren Sie fort. 
+NULL ({ }) I ({ 1 }) just ({ 2 }) really ({ }) wanted ({ 6 7 8 }) to ({ }) upgrade ({ 9 }) my ({ 11 }) office, ({ 10 }) so ({ 4 }) go ({ 5 }) ahead. ({ 3 }) 
+# Sentence pair (16) source length 28 target length 31 alignment score : 2.61599e-72
+Wir wollen etwas anbieten, das den Schwerpunkt auf den Kunden legt, ohne dabei jemals auf Qualität zu verzichten; und deshalb wollen wir unsere raffinierten Produkte aufgrund der Äußerungen von Nutzern anbieten. 
+NULL ({ }) We ({ 1 }) want ({ 2 }) to ({ }) offer ({ }) something ({ 3 }) that ({ }) focuses ({ }) on ({ 6 8 10 12 14 16 18 }) the ({ 27 }) customer, ({ 5 7 9 11 13 15 }) without ({ 4 }) ever ({ }) renouncing ({ 17 }) quality, ({ }) and ({ 19 }) so, ({ 20 }) we ({ }) want ({ 21 }) to ({ 25 }) offer ({ 28 }) our ({ 23 }) sophisticated ({ 24 }) products, ({ 26 31 }) with ({ 22 }) a ({ }) range ({ 30 }) of ({ 29 }) users. ({ }) 
+# Sentence pair (17) source length 2 target length 2 alignment score : 0.0802427
+Und deshalb... 
+NULL ({ }) And, ({ 2 }) so... ({ 1 }) 
+# Sentence pair (18) source length 4 target length 3 alignment score : 0.010669
+Haben Sie Interesse? 
+NULL ({ }) Are ({ }) you ({ 2 }) interested ({ 3 }) in? ({ 1 }) 
+# Sentence pair (19) source length 4 target length 5 alignment score : 0.00104509
+Ja, Sie haben mich überzeugt! 
+NULL ({ }) Yes, ({ 4 }) you ({ 2 }) took ({ 3 5 }) me! ({ 1 }) 
+# Sentence pair (20) source length 1 target length 1 alignment score : 0.762995
+Fantastisch! 
+NULL ({ }) Awesome! ({ 1 }) 
+# Sentence pair (21) source length 22 target length 20 alignment score : 1.69448e-42
+Und nachdem Sie jetzt die Grundlagen Ihres Büros geplant haben, schauen Sie sich doch unsere modernen Bücherregale und Tische an. 
+NULL ({ }) And ({ 9 11 }) now ({ 1 }) that ({ 7 }) you ({ 12 }) have ({ 4 }) planned ({ 6 }) a ({ }) basis ({ 2 8 10 }) of ({ }) your ({ 20 }) office, ({ 3 }) why ({ 5 }) don't ({ 14 }) you ({ 13 }) have ({ }) a ({ }) look ({ 17 }) at ({ }) our ({ 15 }) bookshelves ({ 16 }) and ({ 18 }) tables? ({ 19 }) 
+# Sentence pair (22) source length 16 target length 14 alignment score : 1.31592e-08
+Sie sind sorgfältig ausgewählt, umweltschonend und vollständig in Italien gefertigt, wie alle unsere Produkte. 
+NULL ({ }) They ({ }) are ({ 2 }) comfortable, ({ 3 }) selected, ({ 9 }) respecting ({ 11 }) the ({ }) environment ({ 5 }) and ({ 6 }) completely ({ 7 }) made ({ 8 10 }) in ({ 1 }) Italy, ({ 4 }) like ({ }) all ({ 12 }) our ({ 13 }) products. ({ 14 }) 
