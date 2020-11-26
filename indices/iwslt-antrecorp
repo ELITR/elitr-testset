@@ -7,6 +7,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/03_botel-proti
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/03_botel-proti-proudu.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/03_botel-proti-proudu.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/03_botel-proti-proudu.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/03_botel-proti-proudu.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/03_botel-proti-proudu.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/03_botel-proti-proudu.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.mkv
@@ -16,6 +19,12 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.OStt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTcs1
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTcs2
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/04_g-t.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.en.mkv
@@ -25,6 +34,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.en.
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/05_i-dodge.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr-klic.en.mkv
@@ -34,6 +46,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr-klic.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr-klic.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr-klic.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr-klic.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr-klic.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/06_masaze-petr-klic.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel-west.en.ass
@@ -44,7 +59,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel-west.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel-west.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel-west.en.TTde
-
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel-west.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel-west.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/07_bucherinsel-west.en.TTde.align
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.mkv
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.OS.mp3
@@ -53,7 +70,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.TTde
-
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/08_jizeran.en.TTde.align
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.en.OS.eaf
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.en.OS.mp3
@@ -61,7 +80,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.en.TTde
-
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/09_il-gabbiano.en.TTde.align
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.en.OS.eaf
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.en.OS.mp3
@@ -69,6 +90,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-trave
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/10_magic-travel.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.en.mkv
@@ -78,6 +102,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.en.OS
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/11_trefa.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalcine.en.mkv
@@ -87,7 +114,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalci
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalcine.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalcine.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalcine.en.TTde
-
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalcine.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalcine.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/12_fictionalcine.en.TTde.align
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.ass
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.en.mkv
@@ -97,7 +126,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-b
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.en.TTde
-
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/13_don-bosco-barcelona.en.TTde.align
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.en.mkv
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.en.OS.mp3
@@ -106,6 +137,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-r
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/14_llibres-i-revistes-edb.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.en.OS.eaf
@@ -114,7 +148,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.en.O
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.en.TTde
-
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/15_brnkni.en.TTde.align
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.en.mkv
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.en.OS.mp3
@@ -123,6 +159,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-mos
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/16_develop-most.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-team.en.mkv
@@ -132,6 +171,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-te
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-team.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-team.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-team.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-team.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-team.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/17_tf-smart-team.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-world.en.mkv
@@ -141,6 +183,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-wo
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-world.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-world.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-world.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-world.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-world.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/18_tf-magic-world.en.TTd.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.en.OS.eaf
@@ -149,7 +194,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.e
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.en.TTde
-
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/19_be-beauty.en.TTde.align
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.en.OS.eaf
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.en.OS.mp3
@@ -158,6 +205,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.en.TTcs3
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/20_mela-e-piu.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.en.mkv
@@ -167,6 +217,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.en.
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/21_hat-cap.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-world.en.OS.eaf
@@ -175,6 +228,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-world.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-world.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-world.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-world.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-world.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/22_new-design-world.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream.en.ass
@@ -185,6 +241,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/23_pillowdream.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/24_mole-g-p-technologies.en.OS.eaf
@@ -193,6 +252,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/24_mole-g-p-te
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/24_mole-g-p-technologies.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/24_mole-g-p-technologies.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/24_mole-g-p-technologies.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/24_mole-g-p-technologies.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/24_mole-g-p-technologies.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/24_mole-g-p-technologies.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.en.mkv
@@ -202,6 +264,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.e
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/25_folkstyle.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-shop.en.ass
@@ -212,6 +277,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-sho
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-shop.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-shop.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-shop.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-shop.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-shop.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/26_tabacco-shop.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-international-tour.en.mkv
@@ -221,6 +289,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-interna
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-international-tour.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-international-tour.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-international-tour.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-international-tour.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-international-tour.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/27_f-e-international-tour.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.en.mkv
@@ -230,6 +301,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.en.
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/28_samanka.en.TTd.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.en.OS.eaf
@@ -238,6 +312,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.e
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/29_salon-n-g.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.en.mkv
@@ -247,6 +324,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.e
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/30_appolonas.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-chocolate.en.mkv
@@ -256,6 +336,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-choco
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-chocolate.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-chocolate.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-chocolate.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-chocolate.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-chocolate.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/31_devil-chocolate.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.en.mkv
@@ -265,6 +348,10 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.en
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/32_ck-remoa.en.TTde.align
+
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-servis.en.mkv
@@ -274,6 +361,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-se
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-servis.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-servis.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-servis.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-servis.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-servis.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/33_logistic-servis.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_accessoires.en.mkv
@@ -283,6 +373,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_accessoires.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_accessoires.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_accessoires.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_accessoires.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_accessoires.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/34_kol_action_accessoires.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-travel-agency.en.mkv
@@ -292,6 +385,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-tr
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-travel-agency.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-travel-agency.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-travel-agency.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-travel-agency.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-travel-agency.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/35_f-e-time-travel-agency.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.en.mkv
@@ -301,6 +397,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/36_step-house.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.en.mkv
@@ -310,6 +409,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.e
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/37_caspowalk.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/38_seta.en.Os.eaf
@@ -318,6 +420,9 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/38_seta.en.OSt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/38_seta.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/38_seta.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/38_seta.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/38_seta.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/38_seta.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/38_seta.en.TTde.align
 
 
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal.en.mkv
@@ -327,3 +432,7 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal.en.TTcs1
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal.en.TTcs2
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal.en.TTde
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal.en.TTcs1.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal.en.TTcs2.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/antrecorp/39_total-regal.en.TTde.align
+
