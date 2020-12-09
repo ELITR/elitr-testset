@@ -1,0 +1,240 @@
+So my name is is Georg presenting joint work with my colleagues Felix who's also here sitting in the front row and Aljoscha.
+We work at DFKI, the German Research Centre for artificial intelligence here in Poland. 
+We have several of different sites, the Berlin site is the smallest.
+But the best of course.
+Web annotation is a game-changer for language technologies is indeed the kind of use case presentation. 
+And I would like to also thank the program committee of course of iAnnotate 2016 for having us here present our work.
+So you know what the web is,  we don't need to talk about the web. 
+But  maybe I should very briefly explain in one slide only explain what language technology is.
+So this is LT in one slide. 
+Language technology is a set of heterogeneous and evolving applications that usually involve the either the processing or the production of human language.
+Either spoken language or written language.
+That includes a whole set of different applications. 
+Maybe you've heard the buzz words natural language processing, NLP, computational linguistics, linguistics itself plays a big role in here.
+Computer science of course, cognitive science, AI machine learning the big new deep learning craze.
+And all of these different fields converge in language technology.
+And our methods usually work on big amounts of language data we call them corpora by now often on a web-scale level.
+Our methods are typically statistics based machine learning, deep learning all still often rule-based.
+Coming back to the AI of the 80s and 90s with methods on the that use grammars, for example.
+And we often have the need for for human experts, linguistics experts to analyze and annotate data.
+We've been annotating data even before the web.
+So in the sixties seventies people have been annotating using very special tools on smaller or larger amounts of language data.
+So a couple of applications.
+People always like to say that language technology is IT's best kept secret because it usually operates behind the screen.
+And behind the scenes spell checking and grammar checking is obvious.
+Search engines by now Google, we can say that Google is a language technology company because there is so much language technology involved in Google itself under the hood.
+That it is to a certain extent just that. 
+Interactive personal assistance is a whole different category.
+The likes like Cortana or Siri or Amazon echo's brand-new.
+Goodle just released the new product the other week on interactive personal assistance.
+Machine translation of course and several, several others.
+So you know this diagram I assume. 
+The web annotation architecture.
+And now we can try to pinpoint what the relationship is between web annotations and language technology.
+First of all content itself can be created using language technology. 
+We call these tools text generation or report generation.
+There are many different words for what, what this is.
+Big data text generation is also one of the new buzz words.
+So content automatically generated.
+The content itself can also be analyzed using language technology. 
+We've seen a couple of use cases yesterday.
+Peter Marie Rusk also presented work that involves this the, the gazetteer or dictionary based spotting of concepts in chemical tech articles.
+So semantic analysis input for machine learning algorithms.
+Another big thing that we that we do in language technology is social media analytics.
+To answer questions that often customers have who are you very interested in user-generated content, who want know okay what do my clients and customers think on a certain product.
+So we need to go into the user fora, discussion fora in order to text mine them, to see what the sentiment is or the opinion on a certain product.
+mm-hmm 
+This is a very difficult very costly exercise, because there are so many different sources that we have to potentially mine.
+So many different formats that we need to take care of. 
+And here a few established and widely used web annotation services would simplify social media analytics dramatically.
+Another thing we can also use.
+We can also use language technology methods to actually create web annotations.
+For example in a smart authoring scenario.
+Also yesterday there were a couple of presentations that touched upon this.
+And I will come back to this in a second.
+So language technology and web annotations in a nutshell.
+We can use language technologies to analyse web annotations, to generate web annotations, to include additional background information on certain topics, on certain concepts. 
+And the the point dedicated LT specific web annotations is referring to the scenario which we don't have any specialized tools anymore. 
+Linguists and computational linguists they like their dedicated tools for very specific annotation tasks. 
+For example rhetorical structured trees are a thing since the 80s in linguistics and text generation.
+And there are a couple of editors and they are all very proprietary and if you could put this into a general generic web annotation scenario that would be, that would be brilliant.
+So two example scenarios in a bit more detail.
+How language technology and web annotations actually go together or can go together.
+The first one is from our project digital curation technologies.
+It's about the semantification of content for curators of digital information. 
+And the second scenario's on machine translation.
+Just very briefly to give you the context.
+Digital curation technologies is a is a project in which we are building technologies, language technologies, knowledge technologies, data technologies.
+That are meant to support curation processes in a couple of companies.
+Then you can see the respective four partners that we have in the project on top of the little diagram here.
+And the idea is to make these digital curators or knowledge workers or journalists, authors more productive more efficient, to give them new ideas through our tech.
+It's a fairly typical technology transfer project in which our research results are meant to be channeled into industry and into production use.
+This is the scenario in a in a very generic form.
+So we have certain type of input.
+People are flooded with input emails, tweets, Instagram pictures, flickr, articles, RSS feeds, whatsoever.
+And then the green question mark on top of the head of this of this person here sitting at the at the machine can be analyzed, right summarized all sorts of different cognitive processes.
+The person itself can be an investigative journalist or curator of an exhibition who is meant to plan an exhibition in museum for example.
+Or it's a TV editor, an author, a scholar or knowledge worker and so on.
+And using a specific type of software he or she produces some kind of output.
+And in a bit more detail, the different processes that are in use here 
+We are especially trying to support these curation processes.
+So structure visualization. 
+We want to take care of multilingual information sources and multimedia sources.
+We want to provide recommendations in a better way.
+Multilingual summarization is an important point.
+Time lining, more on that on the next slide.
+Semantification, so named entity recognition and these technologies and so on.
+The typical architecture diagram.
+On the left hand side you have the specific sector, specific tools and architectures and platforms of our for company partners in the project who work in four different fields.
+In the middle the platform that we are building which is based on an open-source approach that is being designed, built, deployed in different fields, in a new project called Friem that Felix coordinates.
+And in this platform, we have a fairly nifty way of putting together curation workflows by pipelining different eServices through a format that we call nif natural language interchange format.
+And and this is a fairly typical restful API based scenario.
+So one example.
+If we have the fairly generic use case in which we have a very big document collection.
+We throw it into the machine.
+And we want to extract all the time expressions, for example to provide a visual timeline of the documents this huge document collection thing.
+Panama papers for example.
+You have, I don't know million documents do you throw them in and you want to have some kind of structure or order, you want to browse these documents.
+I don't know if our system is already able to handle the million documents, but that's a different story.
+But let's say 1,000 documents still you want some kind of order structure or timeline.
+And and this time analyzer here is meant to provide just that, including some interesting features such as the average or mean date calculation of documents and so on.
+And we implemented this prototypically as a web annotation approach.
+So in goes the text this is the text on I think on general Franco.
+And then as output we get the output on the bottom left side here from our time expression analyzer.
+And this can then also be stored and put out as web annotations here in Jason LD.
+Okay second use case is web annotations for HQ MT.
+That's a 4-letter acronym meaning high quality machine translation.
+So machine translation is a very very interesting field.
+It's very difficult it's very complex.
+You all know Google Translate and Bing Translator and all the other online translators.
+They usually work on on very very large numbers of texts that go in.
+They are then  being processed.
+And then based on the on the input and the input is usually not just one text but usually two texts.
+So parallel texts, one text in the source language one text in a target language.
+And with statistical magic you can then build translation models.
+This technology has reached a certain plateau so we are there more or less.
+And and any improvements of the quality are now very difficult to get.
+And we are trying to advocate a new approach which we call HQ MT.
+So high quality machine translation.
+Towards a scenario in which we get basically better performing, better precision, better quality of the resulting automatically translated texts.
+And for this we want to include not just one person who is a specialist on statistics and machine learning but also language experts.
+People who work in language service providers who annotate and who translate texts for a living.
+So they have very important feedback as we know now in through certain projects.
+On the diagram here you see our ideal scenario.
+So this is basically still science fiction.
+But this is where we want to go.
+With one larger tool ecosystem which is fairly generic, interoperable. 
+In the middle by now we are still using very very many specialized tools than not interoperable.
+Every research group is using their own set of tools, with a few exceptions.
+But all in all it's a fairly heterogeneous landscape still.
+And we want to go towards standardized tools, towards a coherent, interoperable integrated ecosystem of tools.
+And here are centrally stored web annotations repository would be a very big step in the right direction.
+Actually if you happen to be in Slovenia next Tuesday, we have a workshop on this very topic.
+So the little pitch here the event is in the corner.
+So just to give you an example we have something called MQM. 
+Something's wrong with the cable, no more.
+MQM multi-dimensional quality metrics is a very very complicated and complex approach at basically annotating the quality of the translation. 
+If you think about that for a few seconds quality of a translation is a very difficult thing to assess. 
+So that's why this thing is so complicated.
+The people who build it usually say it looks like spaghetti, which is true.
+So and the output of the tool. 
+We have some tool support for this already but the output of the tool is propriety or of course.
+So it looks like like the output in the in the upper screen shot here.
+It's a proprietary to a specific
+CSV format and it makes much more sense to have this in a web notation format.
+So that you can pull it in two arbitrary generic tools.
+And this we build basically just to show that it's able to do this and in order to to go the right next steps. 
+And also for the for the workshop then next Tuesday in Slovenia.
+But there's something else so here's about to use cases for web annotations with language technologies.
+It also goes the other way round.
+So the other week we had two colleagues Nick and Connor from Hypothesis at DFKI for a presentation.
+And we learned what's underneath the hood.
+So the web annotation infrastructure is is an interesting complex thing.
+And of course web annotations also work on language and maybe language technology can actually help build better services and better annotation infrastructure.
+For example anchoring annotations to changing content in a robust way is very tricky apparently.
+Because what soon as the content changes but you have a you have an annotation pointing into the content there's a problem.
+So you want to fall back to some some some mechanism so that you can reconstruct somehow the former anchor of the annotation.
+And semantic methods here could help.
+For example to semantic distance measurements for example.
+So to reconstruct the original anchor of an annotation that was changed.
+Or the annotation of copies of documents.
+We learned that Hypothesis is able to annotate fairly simultaneously HTML documents and PDF documents at the same time.
+So you annotate one and get the annotations than the other automatically that's very nifty.
+But maybe you also want near duplicates also to be annotated automatically.
+With one annotation only.
+And here language technology and duplicate detection and near duplicate detection could also jump in to help.
+Okay coming to the end of the presentation.
+We can also pull out a vision.
+So for you years ago we prepare the strategic research agenda that you can see here on the slide.
+We had a couple of bold grand visions for European language technology.
+And in this multilingual Europe scenario and it would be great to have something like a like a next-generation personal assistant who always follows you who provides active proactive feedback who reminds you to take an umbrella.
+The old classic example once you leave the door and go outside.
+Highly personalized assisted browsing experience.
+Maybe an assistant that is able to detect what you're currently trying to search or what you're currently trying to do online.
+Who is able to detect your intentions and your tasks and your preferences and who is then able to already even before you've seen it before you jump to the document to annotate relevant maybe surprising new facts things may be the assistant already knows what what you know.
+And then you can point out what you don't know in in content that you haven't even seen yet.
+And this all can could be done through web annotations.
+And this is a fairly fairly fascinating example that we also have on our roadmap.
+So our web annotations's a game-changer for language technology.
+Yes most certainly.
+If the user experience and the browser support are done right.
+And maybe language technology can also be a game-changer for web annotations.
+Thanks very much.
+Just another ad.
+We are currently planning a conference Meta Forum 2016.
+The call for papers are still open.
+If you're interested in these topics. why not submit a short abstract to the conference.
+So on July 4th and 5th in Lisbon in Portugal.
+Thanks very much.
+
+!!!QUESTIONS!!!
+
+Any questions for Georg.
+It's not just it's not a question but I just wanted to point out that Georg is the guy who helped us find this space and helped organize the conference.
+So I want to thank him for that.
+Could you just reiterate, reiterate again how you would explain to someone the basic difference between what Google and translating being translate do today and high quality machine translation? 
+Because it sounds Google Translation and Bing Translator clearly are trying to produce high-quality translations.
+So how it could you describe how would you explain to a layman the difference between the two.
+The difference between the Google Translator and the Bing Translator? 
+No no, the difference between what google...
+What are you trying to do.
+Yes. 
+What we are trying to do is still in its infancy.
+It's it's basically basic research.
+Our approach is to actually talk to the experts. 
+With the googles and things of the world they have people who are very skilled in in deep learning in machine learning in neural networks.
+They know how to how to how to take apart large documents of text and how to apply some statistical magic to them.
+But they are not thinking about translation the way that a professional translator for example things about translation.
+And we are trying to go through the experts on the on the topic.
+So we talked to the translators.
+We have projects in which LSPs, language service providers or companies we have on that payroll many many translators.
+We have them in our projects.
+And and they go through using annotation tools.
+They go through translations and they mark using the MQM approach where the problems in the in the translations that the machine produced.
+And using this type of data which is highly specialized it's very complex we are trying to build better tools.
+But we are still in the in the data annotation phase right now.
+So we are establishing the the tooling in a way, talking to the people. 
+They are now slowly accepting our approach.
+The translators are a bit hostile towards us.
+So it took a few years to convince them that we don't want to replace them.
+And and and the first technologies maybe can be expected in two or three years.
+The related question that might bring out more of Roberts question.
+Which is one of the things that I've encountered with translations is that when you're dealing with like an academic texts different people will have fundamental disagreements about what a good translation means.
+Exactly.
+Um and can you support that kind of disagreement or dialogue within your system?
+So you can say there is not one valid translation of this.
+Yeah so there is no system yet.
+But it's a it's a it's an excellent observation.
+We, let me try to answer the question by pointing out there are evaluation metrics in the field that are being used.
+But they are being used on on referenced translations.
+So the system output is being compared to a reference translation. 
+This is or this this approach is is designed for many many reference translations because it makes sense.
+Because you can translate a sentence in many different ways.
+But usually there's only one.
+So it could be the case that you put that you produce a perfectly fine translation which doesn't correspond to the reference translation.
+And you get an error score.
+So that doesn't make sense.
+So in a way the translation and machine translation especially community has been doing for quite a few years what we call feature engineering.
+So they are just just engineering their features to get slightly better score and then you get a new paper and and so on.
+So but but the plateau has been reached now for a for a few years I'd say.
+And it's time for a paradigm change and we want to initiate this paradigm change.
