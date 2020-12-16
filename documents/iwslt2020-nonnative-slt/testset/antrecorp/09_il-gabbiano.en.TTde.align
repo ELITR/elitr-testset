@@ -1,0 +1,63 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.210198
+Entschuldigen Sie! 
+NULL ({ }) Excuse ({ 1 }) me! ({ 2 }) 
+# Sentence pair (2) source length 2 target length 2 alignment score : 0.38307
+Guten Morgen. 
+NULL ({ }) Good ({ 1 }) morning. ({ 2 }) 
+# Sentence pair (3) source length 6 target length 5 alignment score : 0.00120837
+Kann ich mal sehen, bitte? 
+NULL ({ }) Can ({ 1 }) I ({ 2 }) have ({ 3 }) a ({ }) look, ({ }) please? ({ 4 5 }) 
+# Sentence pair (4) source length 7 target length 7 alignment score : 0.000202266
+Guten Morgen, ja, natürlich, hier ist es. 
+NULL ({ }) Good ({ 1 }) morning, ({ 2 }) yes, ({ 3 4 }) sure, ({ 7 }) here ({ 5 }) it ({ 6 }) is. ({ }) 
+# Sentence pair (5) source length 2 target length 1 alignment score : 0.397545
+Danke. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 
+# Sentence pair (6) source length 2 target length 1 alignment score : 0.207831
+- 
+NULL ({ }) I'm ({ }) a. ({ 1 }) 
+# Sentence pair (7) source length 1 target length 1 alignment score : 0.724412
+- 
+NULL ({ }) I'm. ({ 1 }) 
+# Sentence pair (8) source length 16 target length 14 alignment score : 7.18651e-10
+Ich arbeite bei der Reiseagentur "Il Gabbiano"; interessieren Sie sich für irgendein bestimmtes Urlaubsangebot? 
+NULL ({ }) I ({ }) work ({ 5 }) for ({ 11 }) the ({ 10 }) travel ({ 12 }) agency ({ 9 }) "Il ({ 14 }) Gabbiano", ({ 1 }) are ({ }) you ({ }) interested ({ 4 }) in ({ 2 }) any ({ 6 }) particular ({ 7 13 }) stay ({ 3 }) proposal? ({ 8 }) 
+# Sentence pair (9) source length 15 target length 15 alignment score : 4.82914e-10
+Ja, ich würde gerne in eine europäische Stadt reisen, aber ich weiß nicht, in welche. 
+NULL ({ }) Yes, ({ 1 }) I ({ 2 }) would ({ }) like ({ 3 }) to ({ }) visit ({ }) some ({ 4 }) European ({ 5 }) city, ({ 15 }) but ({ 14 }) I ({ 11 }) don't ({ 12 }) know ({ 8 10 13 }) which ({ 6 }) one. ({ 7 9 }) 
+# Sentence pair (10) source length 26 target length 28 alignment score : 7.24984e-28
+Nun, wir sind in ganz Europa tätig und ich würde Ihnen einen kalten Ort wie Wien empfehlen, da er mir gefällt; ansonsten würde ich Ihnen eher Barcelona vorschlagen. 
+NULL ({ 4 }) So, ({ }) we ({ }) operate ({ 5 }) all ({ 8 }) over ({ 3 6 7 }) Europe ({ }) and ({ }) I'd ({ }) suggest ({ }) you ({ }) a ({ 24 }) cold ({ 1 }) place ({ }) like ({ 23 }) Vienna, ({ }) since ({ }) that ({ 2 }) I ({ 9 }) like ({ 10 25 }) it, ({ 22 }) otherwise ({ 11 }) I'd ({ 26 }) rather ({ 28 }) suggest ({ 21 }) you ({ 15 20 }) Barcelona. ({ 12 13 14 16 17 18 19 27 }) 
+# Sentence pair (11) source length 9 target length 8 alignment score : 8.02503e-06
+Könnten Sie mir sagen, wie Ihre Agentur arbeitet? 
+NULL ({ }) Could ({ 4 7 }) you ({ }) tell ({ 6 }) me ({ 5 8 }) how ({ }) does ({ 3 }) your ({ 1 }) agency ({ 2 }) work? ({ }) 
+# Sentence pair (12) source length 26 target length 23 alignment score : 4.4429e-24
+Wir arbeiten in verschiedenen Gruppen, die ihren jeweiligen Aufgabenbereich haben; sie heißen Marketing, Front Office und sie arbeiten alle zusammen, um Urlaubsangebote auszuarbeiten. 
+NULL ({ }) We ({ 1 }) work ({ }) in ({ }) different ({ }) groups ({ 9 }) according ({ }) to ({ 5 7 }) their ({ }) own ({ }) tasks, ({ }) they're ({ 6 8 }) called ({ }) marketing, ({ }) marketing, ({ }) a ({ 3 }) front ({ }) office ({ 11 17 }) and ({ }) they ({ }) all ({ 16 }) collaborate ({ 2 12 15 18 19 22 }) to ({ 13 20 }) develop ({ 4 23 }) the ({ }) stay ({ }) proposals. ({ 10 14 21 }) 
+# Sentence pair (13) source length 5 target length 7 alignment score : 0.000415932
+Das ist fantastisch, das ist wirklich interessant. 
+NULL ({ }) That's ({ 1 }) fantastic, ({ 2 3 }) that's ({ 4 }) really ({ 7 }) interesting. ({ 5 6 }) 
+# Sentence pair (14) source length 16 target length 14 alignment score : 9.14174e-12
+Haben Sie auch eine Visitenkarte, sodass ich Sie später für weitere Informationen anrufen kann? 
+NULL ({ }) And ({ 5 6 12 13 }) do ({ }) you ({ }) have ({ }) a ({ }) business ({ 9 }) card ({ 14 }) so ({ 1 }) I ({ 7 }) can ({ }) call ({ 4 }) you ({ 2 8 }) later ({ }) for ({ 10 }) others ({ }) information? ({ 3 11 }) 
+# Sentence pair (15) source length 3 target length 3 alignment score : 0.178882
+Ja, ich denke... 
+NULL ({ }) Yes, ({ 1 }) I ({ 2 }) think... ({ 3 }) 
+# Sentence pair (16) source length 4 target length 4 alignment score : 0.0272638
+Ja, hier ist sie. 
+NULL ({ }) Yes, ({ 1 }) here ({ 2 }) it ({ 3 }) is. ({ 4 }) 
+# Sentence pair (17) source length 2 target length 3 alignment score : 0.0276235
+Das ist fantastisch. 
+NULL ({ }) That's ({ 1 }) fantastic. ({ 2 3 }) 
+# Sentence pair (18) source length 4 target length 2 alignment score : 0.0597453
+Vielen Dank. 
+NULL ({ }) Thank ({ 1 }) you ({ }) very ({ 2 }) much. ({ }) 
+# Sentence pair (19) source length 2 target length 1 alignment score : 0.342438
+Gerne. 
+NULL ({ }) You're ({ }) welcome. ({ 1 }) 
+# Sentence pair (20) source length 1 target length 1 alignment score : 0.924878
+Tschüss! 
+NULL ({ }) Goodbye! ({ 1 }) 
+# Sentence pair (21) source length 1 target length 1 alignment score : 0.724412
+Tschüss! 
+NULL ({ }) Bye! ({ 1 }) 

@@ -1,0 +1,111 @@
+# Sentence pair (1) source length 6 target length 8 alignment score : 9.53615e-06
+Haben Sie noch weitere Fragen von Ihrer Seite? 
+NULL ({ }) Any ({ 1 }) more ({ 2 4 }) questions ({ 3 5 }) from ({ 6 }) your ({ 7 }) side? ({ 8 }) 
+# Sentence pair (2) source length 12 target length 11 alignment score : 2.31464e-08
+Wenn nicht, dann würde ich unsere rumänischen Kollegen freundlich bitten, fortzugehen. 
+NULL ({ }) If ({ 1 2 3 }) not ({ }) then ({ 4 }) I ({ }) would ({ 9 }) kindly ({ 11 }) invite ({ 10 }) our ({ 6 }) Romanian ({ 8 }) colleagues ({ 5 7 }) to ({ }) proceed. ({ }) 
+# Sentence pair (3) source length 2 target length 2 alignment score : 0.133425
+O.K., hallo. 
+NULL ({ }) Ok, ({ 2 }) hello. ({ 1 }) 
+# Sentence pair (4) source length 4 target length 4 alignment score : 0.00217215
+Können Sie mich hören? 
+NULL ({ }) Can ({ 3 4 }) you ({ }) hear ({ 2 }) me? ({ 1 }) 
+# Sentence pair (5) source length 1 target length 1 alignment score : 0.492964
+Ja? 
+NULL ({ }) Yeah? ({ 1 }) 
+# Sentence pair (6) source length 19 target length 16 alignment score : 1.5237e-12
+In Rumänien bleiben noch die neunzehn Prozent Mehrwertsteuer, die wir in den letzten zwei Jahren hatten. 
+NULL ({ }) So ({ 3 }) in ({ }) Romania ({ 2 }) we ({ }) still ({ 4 }) have ({ }) the ({ 5 }) nineteen ({ 6 }) percent ({ 7 }) VAT ({ 14 }) tax, ({ 15 }) that ({ 12 }) we ({ 10 }) had ({ 8 }) for ({ }) the ({ 9 }) last ({ 11 13 }) two ({ }) years. ({ 1 16 }) 
+# Sentence pair (7) source length 20 target length 15 alignment score : 2.32795e-14
+Und obwohl es Pläne gab, sie auf achtzehn Prozent zu senken, wurde dies vorerst verschoben. 
+NULL ({ }) And ({ 1 }) even ({ 11 }) though ({ 2 4 }) there ({ }) were ({ }) plans ({ 5 8 }) to, ({ 6 9 }) for ({ 7 }) it ({ }) to ({ }) drop ({ 10 }) to ({ }) eighteen ({ }) percent, ({ }) this ({ }) has ({ 12 }) been ({ }) postponed ({ 13 14 15 }) for ({ }) now. ({ 3 }) 
+# Sentence pair (8) source length 15 target length 13 alignment score : 2.30637e-11
+Außerdem haben wir zwei reduzierte Mehrwertsteuersätze, die neun Prozent und die fünf Prozent. 
+NULL ({ }) Beside ({ 1 }) that ({ }) we ({ 3 }) have ({ 2 }) two ({ }) reduced ({ }) VAT ({ 4 }) rates, ({ 5 6 13 }) the ({ 7 }) nine ({ 8 }) percent ({ 9 }) and ({ 10 }) the ({ 11 }) five ({ 12 }) percent. ({ }) 
+# Sentence pair (9) source length 19 target length 17 alignment score : 1.42774e-14
+Und im vergangenen Jahr gab es einige Änderungen hinsichtlich der Produkte, die den ermäßigten Satz haben können. 
+NULL ({ }) And ({ 1 }) the ({ }) the ({ }) past ({ 3 }) year ({ 4 5 }) have ({ 16 }) been ({ 6 }) some ({ 7 }) changes ({ 8 9 }) regarding ({ }) the ({ 2 }) the ({ }) products ({ 10 11 }) that ({ 13 }) can ({ 14 }) have ({ }) the ({ 12 }) reduced ({ 15 }) rate. ({ 17 }) 
+# Sentence pair (10) source length 24 target length 22 alignment score : 1.9775e-18
+Die größte Veränderung gab es bei den Abwässern, die ab dem ersten Januar dieses Jahres von neunzehn auf neun Prozent verringert wurden. 
+NULL ({ }) So ({ }) we ({ }) have ({ }) the ({ 9 }) biggest ({ 1 2 }) change ({ 3 }) was ({ 12 }) with ({ 5 }) sewage ({ 4 6 8 10 11 }) that ({ 7 }) was ({ }) changed ({ 22 }) from ({ 16 }) nineteen ({ 17 }) percent ({ }) to ({ 18 }) nine ({ 19 }) percent ({ 20 }) starting ({ }) first ({ 15 }) of ({ }) January ({ 21 }) this ({ 14 }) year. ({ 13 }) 
+# Sentence pair (11) source length 5 target length 5 alignment score : 0.00190763
+Die anderen sind gleich geblieben. 
+NULL ({ }) The ({ 1 }) others ({ 2 }) remained ({ 3 4 }) the ({ }) same. ({ 5 }) 
+# Sentence pair (12) source length 28 target length 25 alignment score : 2.48452e-20
+Und bei dem Fünf-Prozent-Satz gab es ein wenig, eine Menge Veränderungen, hauptsächlich wurden einige der Produkte, die bei neun Prozent lagen, auf fünf Prozent gesenkt. 
+NULL ({ }) And ({ 1 }) for ({ }) the ({ 17 }) five ({ 21 }) percent ({ 3 }) there ({ 2 6 }) were ({ }) bit, ({ 8 }) a ({ 7 9 }) lot ({ 4 11 }) of ({ }) changes, ({ 5 25 }) mainly ({ 10 }) some ({ 14 }) of ({ }) the ({ }) products ({ 15 16 }) that ({ }) were ({ 12 }) at ({ 18 }) nine ({ 19 }) percent ({ 20 }) have ({ }) been ({ 13 }) dropped ({ 22 }) to ({ }) five ({ 23 }) percent. ({ 24 }) 
+# Sentence pair (13) source length 26 target length 24 alignment score : 4.27599e-18
+Die größte und die letzte war vom ersten Juni dieses Jahres an, in Bezug auf qualitativ hochwertige Lebensmittel, Bergprodukte und gleichwertige und traditionelle Produkte. 
+NULL ({ }) The ({ 1 }) biggest ({ 2 }) one ({ 5 }) was, ({ 12 }) the ({ }) last ({ }) one ({ 14 }) was ({ }) from ({ }) the ({ 4 }) first ({ 11 }) of ({ }) June ({ 9 }) this ({ 10 }) year, ({ 8 }) regarding ({ 13 }) high ({ 6 }) quality ({ 7 }) foods, ({ }) and ({ 3 22 }) mountain ({ 15 }) products, ({ 16 }) equal, ({ 24 }) and ({ 20 }) traditional ({ 21 23 }) products. ({ 17 18 19 }) 
+# Sentence pair (14) source length 28 target length 23 alignment score : 9.49435e-26
+Und dafür müssen die Produkte auf einem Berg gezüchtet werden oder wie die Kühe oder Schafe mindestens die Hälfte ihres Lebens dort leben. 
+NULL ({ 13 }) And ({ 1 }) for ({ 6 }) that ({ }) the ({ }) products ({ }) have ({ }) to ({ }) be ({ }) manufactured ({ }) on ({ }) a ({ }) mountain ({ 2 }) or ({ }) like ({ }) the ({ 18 }) cows ({ 3 }) or ({ }) the ({ 4 }) sheep ({ 5 }) have ({ }) to ({ }) live ({ 7 8 }) there ({ }) at ({ }) least ({ 9 23 }) half ({ 22 }) their ({ 11 12 14 15 16 17 19 20 21 }) lifes. ({ 10 }) 
+# Sentence pair (15) source length 16 target length 11 alignment score : 3.53356e-10
+Und der Hersteller muss eine Genehmigung, eine Bescheinigung des Landwirtschaftsministers, einholen. 
+NULL ({ }) And ({ 1 }) the ({ }) the ({ }) manufacturer ({ 9 10 11 }) has ({ 2 }) to ({ }) get ({ 3 }) them ({ }) authorisation, ({ 8 }) a ({ 5 7 }) certificate ({ 4 6 }) from ({ }) the ({ }) Minister ({ }) of ({ }) Agriculture. ({ }) 
+# Sentence pair (16) source length 8 target length 7 alignment score : 1.38208e-06
+Somit kann er den ermäßigten Satz anwenden. 
+NULL ({ }) So ({ }) that ({ 4 }) he ({ 3 }) can ({ 5 }) apply ({ 1 2 7 }) the ({ }) reduced ({ 6 }) rate. ({ }) 
+# Sentence pair (17) source length 8 target length 7 alignment score : 1.19184e-06
+Als nächstes haben wir den umgekehrten Steuermechanismus. 
+NULL ({ }) Next ({ 1 }) we ({ 4 }) have ({ 3 }) like ({ }) the ({ }) reversed ({ 5 6 }) tax ({ }) mechanism. ({ 2 7 }) 
+# Sentence pair (18) source length 13 target length 10 alignment score : 7.98513e-10
+In Rumänien müssen beide Unternehmen zwecks der Anwendbarkeit registriert sein. 
+NULL ({ }) In ({ 1 10 }) Romania, ({ 4 }) both ({ 2 3 }) companies ({ 5 }) have ({ }) to ({ }) be ({ 7 }) registered ({ 6 9 }) in ({ }) order ({ 8 }) to ({ }) be ({ }) applicable. ({ }) 
+# Sentence pair (19) source length 30 target length 26 alignment score : 4.46914e-21
+Es gibt vierzehn Produkte, für die der Satz ermäßigt werden kann, und im Dezember 2018 wurde die Frist für einige von diesen auf bis zweiundzwanzig verlängert. 
+NULL ({ }) There ({ 3 }) are ({ 1 }) fourteen ({ 5 9 }) products ({ 4 7 }) for ({ }) which ({ 2 22 }) it ({ }) can ({ }) be ({ 10 }) reduced ({ 8 }) and ({ 12 }) in ({ 13 }) December ({ 11 14 }) two ({ }) thousand ({ }) eighteen ({ 15 }) for ({ 23 }) some ({ 20 }) of ({ 21 }) them ({ }) the ({ 17 }) the ({ 6 }) deadline ({ 24 25 }) has ({ 16 }) be ({ }) prolonged ({ 18 }) until ({ 19 }) twenty ({ }) twenty ({ }) two. ({ 26 }) 
+# Sentence pair (20) source length 29 target length 21 alignment score : 6.24349e-19
+Schließlich haben wir auch das geteilte Mehrwertsteuersystem, das im J. 2017 eingeführt wurde, obwohl es jetzt vom Finanzministerium ein bisschen aufgegeben aussieht. 
+NULL ({ }) Finally, ({ 1 }) we ({ 3 }) also ({ 4 }) have ({ }) the ({ }) split ({ 10 }) VAT ({ }) system, ({ }) which ({ }) was ({ }) introduced ({ 2 }) in ({ 9 }) two ({ }) thousand ({ }) seventeen, ({ 16 }) although ({ 11 }) now ({ 15 }) it ({ 14 }) kind ({ 5 6 7 12 13 }) of ({ }) looks ({ 8 }) a ({ }) bit ({ 19 }) abandoned ({ 20 }) by ({ 17 18 }) the ({ }) Ministry ({ }) of ({ }) Finance. ({ 21 }) 
+# Sentence pair (21) source length 26 target length 21 alignment score : 1.83518e-18
+Da es mit mehr als vierhundert Unternehmen in 2017 begann und jetzt in 2019 ist die Zahl auf sechsundvierzig Prozent gesunken. 
+NULL ({ }) Because ({ 1 }) it ({ }) started ({ }) with ({ 2 8 }) four ({ 3 10 }) hundred ({ 6 }) plus ({ 4 5 }) companies ({ 7 }) in ({ }) two ({ }) thousand ({ }) seventeen ({ 9 }) and ({ 11 }) now ({ 12 }) in ({ }) two ({ }) thousand ({ }) nineteen ({ }) the ({ 16 }) number ({ 13 14 15 }) dropped ({ 18 }) to, ({ }) by, ({ 19 21 }) forty ({ 17 }) six ({ }) percent. ({ 20 }) 
+# Sentence pair (22) source length 12 target length 11 alignment score : 3.06238e-09
+So wie keine neuen Unternehmen das System seit 2018 genutzt haben. 
+NULL ({ }) Like ({ 1 2 8 }) no ({ 4 }) new ({ 3 }) companies ({ 5 }) started ({ 7 }) using ({ 11 }) the ({ }) system ({ 6 }) in ({ }) two ({ }) thousand ({ }) eighteen. ({ 9 10 }) 
+# Sentence pair (23) source length 20 target length 18 alignment score : 3.70453e-19
+Demnach haben alle Unternehmen, die anfangs damit begonnen haben, das System abgeschaffen und sind zum üblichen Mehrwertsteuersystem zurückgekehrt. 
+NULL ({ }) So ({ }) all ({ }) the ({ }) companies ({ }) that ({ }) started ({ }) initially ({ 7 }) have ({ 2 }) since ({ 6 }) started ({ 4 9 11 }) dropping ({ 1 3 8 }) the ({ 5 }) system ({ 10 }) and ({ 13 }) returning ({ 12 14 15 }) to ({ }) the ({ }) normal ({ 16 17 18 }) VAT ({ }) system. ({ }) 
+# Sentence pair (24) source length 13 target length 13 alignment score : 9.3255e-11
+Außerdem hat die Europäische Kommission Rumänien dazu veranlasst, dieses System nicht mehr anzuwenden. 
+NULL ({ }) Plus ({ 1 13 }) the ({ 3 }) the ({ }) European ({ 4 }) Commission ({ 5 }) did ({ 2 7 }) the ({ }) Romania ({ 6 }) to ({ }) stop ({ 11 12 }) using ({ 10 }) this ({ 9 }) system. ({ 8 }) 
+# Sentence pair (25) source length 19 target length 21 alignment score : 6.69347e-25
+Es sieht also so aus, als ob es sein Potenzial nicht erreicht hätte, sodass das Ministerium es wahrscheinlich ganz einstellen wird. 
+NULL ({ }) So ({ 1 }) it ({ 4 14 }) looks ({ 5 15 }) like ({ }) it ({ }) hasn't ({ }) reached ({ 2 3 12 13 }) its ({ }) potential ({ 6 }) so ({ 7 }) the ({ }) Ministry ({ }) is ({ }) probably ({ }) gonna ({ 16 }) stop ({ 11 }) using ({ }) it ({ 8 17 }) altogether. ({ 9 10 18 19 20 21 }) 
+# Sentence pair (26) source length 1 target length 3 alignment score : 0.00116521
+Ganz und gar? 
+NULL ({ }) Totally? ({ 1 2 3 }) 
+# Sentence pair (27) source length 30 target length 26 alignment score : 2.4279e-18
+Das geht aus den Daten hervor, die uns vorliegen, meine ich, weil im J. 2018 keine neuen Unternehmen registriert wurden und im J. 2019 auch nichts. 
+NULL ({ }) This ({ 2 }) is ({ 3 }) from ({ }) the ({ 7 }) data ({ 9 10 }) that ({ 4 }) we ({ }) have, ({ 5 }) I ({ 6 11 }) mean, ({ 8 }) like ({ 1 }) no ({ 17 }) new ({ 16 }) companies ({ 18 }) have ({ }) been ({ 20 }) registered ({ 19 }) in ({ 22 }) two ({ 23 }) thousand ({ 24 }) eighteen ({ 15 }) and ({ 21 }) not, ({ }) and ({ }) also ({ 25 }) not ({ 12 }) in ({ 13 }) two ({ 14 }) thousand ({ }) nineteen. ({ 26 }) 
+# Sentence pair (28) source length 20 target length 20 alignment score : 1.20268e-16
+Es bleiben im System also nur die Unternehmen, die im J. 2017 angefangen haben, und ihre Zahl nimmt langsam ab. 
+NULL ({ }) So ({ }) only ({ 5 6 8 }) the ({ 9 }) companies ({ }) that ({ }) started ({ 4 }) in ({ 10 }) two ({ 11 }) thousand ({ }) seventeen ({ 12 }) are ({ 1 }) in ({ }) the ({ 7 }) system, ({ 2 }) and ({ 15 }) they're ({ 16 }) slowly ({ 17 }) decreasing ({ 13 18 19 20 }) in ({ 3 }) numbers. ({ 14 }) 
+# Sentence pair (29) source length 29 target length 26 alignment score : 2.34711e-25
+Bei allen diesen Feststellungen gibt es immer noch einige Regelungslücken, was das MOSS-System betrifft, das in Rumänien aus irgendeinem Grund M1SS heißt, wie es übersetzt wurde. 
+NULL ({ }) Regarding ({ 1 }) all ({ }) that ({ }) findings ({ 2 7 }) there ({ 6 }) are ({ }) still ({ 8 }) some ({ 9 }) regulatory ({ 10 }) gaps, ({ 13 14 }) regarding ({ 16 }) the ({ }) MOSS ({ 4 11 }) system ({ 12 }) which ({ 3 5 }) in ({ }) Romania ({ 17 }) is ({ 18 }) M ({ }) one ({ }) SS ({ 15 }) for ({ }) some ({ 24 }) reason ({ }) because ({ }) they ({ }) translated ({ 19 20 }) the ({ }) one. ({ 21 22 23 25 26 }) 
+# Sentence pair (30) source length 5 target length 5 alignment score : 0.00113096
+Aber so war es auch. 
+NULL ({ }) But ({ 1 }) that's ({ 2 }) how ({ 3 }) it ({ 4 }) was. ({ 5 }) 
+# Sentence pair (31) source length 22 target length 17 alignment score : 1.3032e-13
+Und es gibt auch Mängel in den IT-Systemen in den Steuerabteilungen, die untereinander zusammenarbeiten und Daten austauschen. 
+NULL ({ }) And ({ 1 }) also ({ }) there's, ({ 3 }) there ({ 2 }) are, ({ 5 }) lacks ({ 4 }) in ({ }) the ({ 12 }) IT ({ }) systems ({ 10 }) with ({ 6 }) the, ({ 7 }) in ({ }) the, ({ 8 }) tax ({ }) department ({ 9 }) cooperating ({ }) between ({ }) themselves ({ 14 }) and ({ 15 }) exchanging ({ 11 }) data. ({ 13 16 17 }) 
+# Sentence pair (32) source length 25 target length 25 alignment score : 1.1305e-19
+Das macht es für die Unternehmen nicht einfacher, und im letzten Jahr haben sie endlich eine elektronische Maschine eingesetzt, eine ähnliche Maschine wie in Belgien. 
+NULL ({ }) Which ({ 15 }) doesn't ({ 16 }) make ({ 17 18 19 20 21 22 }) it ({ 3 }) easier ({ 23 }) for ({ }) companies, ({ 8 }) and ({ 9 }) the ({ }) the ({ }) last ({ 11 }) year ({ 12 }) they ({ 24 }) finally ({ 25 }) introduced ({ 13 }) the ({ 5 }) electronic ({ 6 14 }) machine, ({ 2 }) a ({ }) machine, ({ }) like ({ 1 }) the ({ }) ones ({ 4 }) in ({ 10 }) Belgium. ({ 7 }) 
+# Sentence pair (33) source length 32 target length 28 alignment score : 8.03139e-59
+Sie stellten die elektronischen Registrierkassen auf, und die Unternehmen sind nun verpflichtet, diese zu benutzen, da die Steuerbehörden kommen und sie kontrollieren, ob alle die Registrierkassen installiert haben. 
+NULL ({ 25 }) They ({ 19 }) set ({ 1 2 4 5 6 }) the ({ 17 }) electronic ({ 21 }) cash ({ }) registers ({ 18 }) and ({ 7 }) the ({ 8 }) companies ({ 9 }) are ({ }) now ({ }) obligated ({ 22 }) to ({ }) start ({ }) using ({ 28 }) them ({ 26 27 }) so ({ }) the ({ 3 }) tax ({ }) the ({ }) tax ({ }) authorities ({ }) going ({ 16 }) and ({ 20 }) controlling ({ }) them ({ }) to ({ 14 }) see ({ 15 }) if ({ 10 23 }) everybody ({ 12 13 }) installed ({ 11 }) them. ({ 24 }) 
+# Sentence pair (34) source length 29 target length 23 alignment score : 6.22157e-33
+Aber im Moment sind wir nicht wirklich sicher, ob das System voll funktionsfähig ist, weil das IT-System von Seiten der Steuerbehörde Einschränkungen hat. 
+NULL ({ }) But ({ 1 }) for ({ }) now ({ 2 }) it's ({ 7 }) we ({ 5 }) are ({ }) not ({ 15 }) really ({ 12 13 14 }) sure ({ 3 6 }) if ({ 4 9 }) the ({ }) system ({ 11 }) is ({ }) fully ({ 8 }) operational ({ }) because ({ 10 }) of ({ 18 }) limits ({ 17 19 }) in ({ }) the ({ }) IT ({ }) system ({ 16 }) on ({ }) the ({ }) part ({ 23 }) of ({ 20 }) the ({ }) tax ({ }) department. ({ 21 22 }) 
+# Sentence pair (35) source length 12 target length 8 alignment score : 1.01494e-05
+Und es wurden bisher keine neuen Trends festgestellt. 
+NULL ({ }) And ({ 1 }) no ({ 6 }) new ({ 5 }) trends ({ 7 }) have ({ }) been ({ 3 }) have ({ }) been ({ }) identified ({ 4 }) as ({ 8 }) of ({ }) now. ({ 2 }) 
+# Sentence pair (36) source length 3 target length 4 alignment score : 0.000134479
+So ist das also. 
+NULL ({ }) So ({ }) that's ({ 1 }) it. ({ 2 3 4 }) 
+# Sentence pair (37) source length 2 target length 4 alignment score : 0.00123146
+Ich danke Ihnen sehr. 
+NULL ({ }) Thank ({ 2 3 4 }) you. ({ 1 }) 

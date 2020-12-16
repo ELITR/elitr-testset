@@ -1,0 +1,48 @@
+# Sentence pair (1) source length 7 target length 5 alignment score : 0.000369042
+Dobrý den, neznáme se odněkud? 
+NULL ({ }) Hello, ({ 1 2 }) do ({ }) I ({ }) know ({ 3 }) you ({ }) from ({ }) somewhere? ({ 4 5 }) 
+# Sentence pair (2) source length 21 target length 20 alignment score : 7.349e-20
+Dobrý den, mám pocit, že už jsme se někde viděli, možná jsme spolu chodili před pár lety na stejnou univerzitu. 
+NULL ({ 8 }) Hello, ({ 1 2 }) it ({ }) seems ({ 4 }) to ({ 3 }) me ({ }) that ({ }) we ({ }) have ({ 5 6 }) already ({ 7 12 }) met ({ }) before, ({ 9 }) we ({ }) might ({ }) have ({ }) visited ({ 10 }) the ({ }) same ({ }) college ({ }) few ({ 20 }) years ({ 11 }) ago. ({ 13 14 15 16 17 18 19 }) 
+# Sentence pair (3) source length 3 target length 4 alignment score : 0.00153915
+Mám se. A vy? 
+NULL ({ }) I'm, ({ 1 }) to ({ 2 }) you? ({ 3 4 }) 
+# Sentence pair (4) source length 8 target length 4 alignment score : 0.00185296
+Mám se, ke pracujete? 
+NULL ({ }) I'm, ({ 1 }) what ({ 2 }) do ({ }) you ({ }) do ({ 4 }) for ({ }) a ({ }) living? ({ 3 }) 
+# Sentence pair (5) source length 15 target length 13 alignment score : 9.66184e-10
+No, jsem výkonný ředitel malé společnosti Salon NG, je to salon pro zvířata. 
+NULL ({ }) Well ({ 1 }) I'm ({ 2 }) EO ({ 13 }) of ({ }) a ({ }) small ({ 5 6 8 11 }) business ({ }) called ({ }) Salon ({ 7 }) NG, ({ }) which ({ 3 }) is ({ 12 }) salon ({ 4 }) for ({ 9 }) animals. ({ 10 }) 
+# Sentence pair (6) source length 17 target length 13 alignment score : 3.97138e-08
+Ou, to je opravdu zajímavé, mohl byste mi o tom prosím říct víc? 
+NULL ({ }) Oh, ({ 1 }) that's ({ 2 5 }) nice. ({ 13 }) That ({ }) sounds ({ 4 }) really ({ }) interesting, ({ 3 }) could ({ 6 }) you ({ 7 }) tell ({ }) me ({ 8 }) some, ({ 12 }) something ({ }) more ({ 9 }) about ({ 10 }) that ({ }) please? ({ 11 }) 
+# Sentence pair (7) source length 3 target length 2 alignment score : 0.133563
+Ano, samozřejmě. 
+NULL ({ }) Yes, ({ 1 }) of ({ }) course. ({ 2 }) 
+# Sentence pair (8) source length 10 target length 10 alignment score : 8.83129e-09
+Specializujeme se na péči o psy, kočky, koně a hlodavce. 
+NULL ({ }) We ({ }) specialize ({ 3 }) in ({ 4 }) care ({ }) of ({ }) dogs, ({ }) cats, ({ 2 }) horses ({ 1 7 }) and ({ 6 9 }) rodents. ({ 5 8 10 }) 
+# Sentence pair (9) source length 18 target length 11 alignment score : 1.14076e-09
+Nabízíme služby jako stříhání drápů, čistění uší nebo jen stříhání srsti. 
+NULL ({ }) We ({ }) can ({ }) offer ({ 8 }) you ({ }) some ({ }) services ({ }) like ({ }) cutting ({ 2 7 }) the ({ }) claws, ({ }) cleaning ({ 4 }) their ({ 9 }) ears ({ }) or ({ 3 }) just ({ }) scissoring ({ 6 11 }) the ({ 5 10 }) fur. ({ 1 }) 
+# Sentence pair (10) source length 26 target length 28 alignment score : 5.76872e-71
+Ale nabízíme i různé zboží jako pelechy pro psy, podestýlku, oblečky pro domácí mazlíčky nebo žrádlo pro psy, vše je hlavně z Čech a od hypoalergenní firmy Ontario. 
+NULL ({ 20 }) But ({ 5 14 }) we ({ }) can ({ }) offer ({ 15 }) some ({ 6 }) stuff ({ 13 }) too, ({ 8 }) like ({ }) dog ({ }) beds ({ }) and ({ }) bedding, ({ }) so... ({ 7 16 28 }) pets ({ }) clothes ({ 27 }) or ({ }) just ({ }) dog ({ }) food, ({ 4 11 }) especially ({ 12 17 }) from ({ 3 10 19 22 25 }) Czech ({ 21 23 26 }) and ({ 9 18 24 }) antiallergents ({ 1 }) brand ({ 2 }) Ontario. ({ }) 
+# Sentence pair (11) source length 5 target length 4 alignment score : 0.00155213
+Máte nějaké domácí mazlíčky? 
+NULL ({ }) Have ({ 1 }) you ({ }) got ({ 3 4 }) any ({ }) pets? ({ 2 }) 
+# Sentence pair (12) source length 14 target length 10 alignment score : 2.33089e-08
+Můžeme jim nabídnout vysoce kvalitní péči, pokud byste měla zájem. 
+NULL ({ }) We ({ }) can ({ }) offer ({ }) you ({ }) the ({ }) highest ({ 3 4 }) quality ({ 1 6 }) care ({ }) of ({ }) him ({ 5 10 }) if ({ 7 }) you ({ 8 }) would ({ 2 }) like. ({ 9 }) 
+# Sentence pair (13) source length 18 target length 16 alignment score : 4.06068e-40
+Ano, mám psa, ráda bych mu dala ostříhat drápy, myslím, že je má už moc dlouhé. 
+NULL ({ }) Yeah, ({ 15 }) I ({ }) have ({ 11 14 }) a ({ }) dog, ({ }) I ({ }) would ({ }) like ({ }) to ({ 2 }) cut ({ 3 4 5 6 7 8 9 10 }) his ({ 16 }) claws, ({ 13 }) for ({ 12 }) me ({ }) they ({ }) are ({ }) too ({ }) long. ({ 1 }) 
+# Sentence pair (14) source length 8 target length 6 alignment score : 0.000281292
+Mohl byste mi prosím dát vizitku? 
+NULL ({ }) Could ({ 1 }) you ({ 2 }) give ({ }) me ({ 3 }) your ({ 6 }) business ({ }) card ({ 5 }) please? ({ 4 }) 
+# Sentence pair (15) source length 23 target length 16 alignment score : 3.86222e-37
+Jé, promiňte, zapomněl jsem je nahoře, ale zrovna tam jdu, kdybyste se ke mně chtěla přidat. 
+NULL ({ 12 }) Oh ({ }) I'm ({ }) sorry, ({ }) I ({ }) forgot ({ 1 2 3 8 9 }) them ({ }) upstairs, ({ }) but ({ 6 10 }) I'm ({ 4 }) going ({ }) for ({ 5 }) them ({ }) right ({ 11 }) now, ({ }) so ({ }) if ({ }) you ({ }) want, ({ 13 14 15 16 }) you ({ }) can ({ }) go ({ }) with ({ 7 }) me. ({ }) 
+# Sentence pair (16) source length 3 target length 3 alignment score : 0.0454759
+Dobře, tak pojďme. 
+NULL ({ }) Okay ({ 1 }) let's ({ 2 }) go. ({ 3 }) 

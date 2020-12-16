@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 12 target length 12 alignment score : 2.75252e-11
+Guten Tag zusammen, mein Name ist <NAME> und mein Name ist <NAME>. 
+NULL ({ }) Good ({ 7 }) afternoon, ({ }) everyone, ({ }) my ({ 12 }) name ({ }) is ({ 5 9 10 }) <NAME>, ({ 6 11 }) and ({ 8 }) my ({ }) name ({ 1 }) is ({ 2 3 4 }) <NAME>. ({ }) 
+# Sentence pair (2) source length 16 target length 15 alignment score : 2.49012e-12
+Ich würde Ihnen gern unser Unternehmen SETA vorstellen, das für Smartphones, Elektronik, technologisches Zubehör steht. 
+NULL ({ }) I ({ }) would ({ 1 }) like ({ 3 4 5 6 7 14 }) to ({ }) introduce ({ 13 }) you ({ }) our ({ 8 }) company ({ 9 }) SETA, ({ }) which ({ }) stands ({ }) for ({ 10 }) smartphones, ({ 11 }) electronics, ({ 12 }) technology ({ 2 }) accessories. ({ 15 }) 
+# Sentence pair (3) source length 13 target length 14 alignment score : 5.38304e-11
+Wir sind ein Unternehmen, das elektronische Produkte wie zum Beispiel Drucker, Smartphones, Uhren verkauft. 
+NULL ({ }) We ({ 2 }) are ({ 1 }) a ({ 3 }) company ({ 5 }) that ({ 4 }) sells ({ }) electronic ({ 7 11 }) products, ({ 6 }) for ({ }) example ({ 8 }) printers, ({ }) smartphones, ({ 12 }) watches. ({ 9 10 13 14 }) 
+# Sentence pair (4) source length 14 target length 14 alignment score : 1.36087e-09
+Wir sind auch ein internationales Unternehmen, das auf Französisch, Englisch, Niederländisch und Deutsch kommuniziert. 
+NULL ({ }) We ({ 2 }) are ({ 1 }) also ({ 3 }) an ({ 5 }) international ({ }) company ({ 4 7 }) that ({ 6 }) communicates ({ 9 }) in ({ 10 }) French, ({ 8 }) English, ({ 13 }) Dutch ({ }) and ({ 12 }) German. ({ 11 14 }) 
+# Sentence pair (5) source length 16 target length 12 alignment score : 2.01475e-10
+Wir sind hier auf der Messe und haben Sonderangebote für unsere Kunden. 
+NULL ({ }) We ({ 2 }) are ({ 1 }) here ({ 3 }) at ({ }) the ({ }) Trade ({ 8 }) Fair ({ }) and ({ 7 }) we ({ }) have ({ 5 }) special ({ 4 }) offers ({ }) also ({ }) for ({ 10 }) the ({ }) buyers. ({ 6 9 11 12 }) 
+# Sentence pair (6) source length 6 target length 6 alignment score : 5.31149e-05
+Eine der Verkaufsaktionen betrifft die Instax-Kamera. 
+NULL ({ }) One ({ 1 }) promotion ({ 2 }) goes ({ 3 }) over ({ }) Instax ({ 6 }) camera. ({ 4 5 }) 
+# Sentence pair (7) source length 12 target length 11 alignment score : 1.61155e-25
+Wenn Sie diese Kamera kaufen, erhalten Sie 100 Karten umsonst dazu. 
+NULL ({ }) When ({ 4 10 }) you ({ 2 }) buy ({ 5 }) this ({ 11 }) camera, ({ }) you ({ 7 }) also ({ }) get ({ 3 8 9 }) hundred ({ 6 }) cards ({ 1 }) for ({ }) free. ({ }) 
+# Sentence pair (8) source length 24 target length 21 alignment score : 3.96596e-23
+Es ist wichtig zu beachten, dass wir Händlerrabatte nur für den Handel, aber auch Mengenrabatte für Bestellungen ab 30 Produkten gewähren. 
+NULL ({ 2 }) It's ({ }) important ({ 3 }) to ({ }) notice ({ 1 }) that ({ }) we ({ }) also ({ }) grant ({ }) trade ({ }) discounts ({ 13 }) only ({ }) the ({ }) trade, ({ }) but ({ }) also ({ 14 }) a ({ }) quantity ({ }) discounts ({ 15 }) for ({ 10 16 }) the ({ 11 17 }) orders ({ 12 18 21 }) over ({ }) thirty ({ 6 }) products. ({ 4 5 7 8 9 19 20 }) 
+# Sentence pair (9) source length 9 target length 7 alignment score : 6.35329e-07
+Ich, ähm, alle unsere Preise enthalten Mehrwertsteuer. 
+NULL ({ }) Our, ({ 7 }) all, ({ }) all ({ 2 4 6 }) of ({ 3 }) our ({ }) prices ({ }) also ({ }) include ({ 1 }) VAT. ({ 5 }) 
+# Sentence pair (10) source length 22 target length 19 alignment score : 1.08025e-16
+Äh, danke für Ihre Zeit und ich hoffe, dass ich Sie an unserem Stand sehe, es ist Nummer 63. 
+NULL ({ 17 }) Em, ({ 2 15 }) thank ({ }) you ({ }) for ({ 3 }) your ({ 4 7 }) time ({ 10 }) and ({ 6 }) I ({ }) hope ({ 16 }) you ({ 11 }) se, ({ 9 }) at, ({ }) I ({ }) see ({ 5 8 18 }) you ({ }) at ({ 12 }) their ({ 19 }) stand, ({ }) it's ({ 13 }) number ({ 1 14 }) sixty ({ }) three. ({ }) 
+# Sentence pair (11) source length 4 target length 2 alignment score : 0.0357012
+Vielen Dank. 
+NULL ({ }) Thank ({ 1 }) you ({ }) very ({ 2 }) much. ({ }) 
+# Sentence pair (12) source length 2 target length 1 alignment score : 0.338474
+Danke. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

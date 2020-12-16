@@ -1,0 +1,33 @@
+# Sentence pair (1) source length 9 target length 9 alignment score : 2.67732e-05
+Hallo, mein Name ist <NAME> und das ist <NAME>. 
+NULL ({ }) Hello, ({ 1 }) my ({ 2 }) name ({ 3 7 }) is ({ 8 }) <NAME> ({ 9 }) and ({ 6 }) this ({ 5 }) is ({ 4 }) <NAME>. ({ }) 
+# Sentence pair (2) source length 8 target length 8 alignment score : 2.32711e-06
+Der Name unseres Unternehmens lautet Be Beauty s.r.o. 
+NULL ({ }) Name ({ 2 }) of ({ 1 }) our ({ 6 }) company ({ 5 }) is ({ }) Be ({ 7 }) Beauty ({ 4 8 }) s.r.o. ({ 3 }) 
+# Sentence pair (3) source length 28 target length 19 alignment score : 1.43211e-17
+Das Unternehmen wurde am 15. Mai 2017 gegründet. Die... und es wurde am 1. September 2018 von Mrs. übernommen. 
+NULL ({ }) The ({ }) company ({ }) was ({ }) founded ({ 14 }) on ({ 4 6 8 11 13 }) the ({ }) fifteen ({ 3 5 7 9 12 }) of ({ }) May ({ }) in ({ }) twenty ({ }) seventeen. ({ }) The.... ({ 2 }) and ({ 10 }) it ({ }) was ({ }) taken ({ }) over ({ 1 }) by ({ 17 }) Mrs. ({ 19 }) on ({ }) the ({ }) first ({ }) of ({ }) September ({ 18 }) in ({ }) twenty ({ 15 }) eighteen. ({ 16 }) 
+# Sentence pair (4) source length 14 target length 11 alignment score : 1.1064e-06
+Wir kaufen Kleider und Anzüge von den tschechischen Designern oder Schneiderateliers. 
+NULL ({ }) We ({ 1 }) are ({ 10 }) taking ({ 2 }) dresses ({ 3 }) and ({ 4 }) suits ({ }) made ({ 5 }) by ({ 6 }) the ({ }) Czech ({ }) designers ({ 8 9 }) or ({ 7 }) tailors ({ }) workshop. ({ 11 }) 
+# Sentence pair (5) source length 20 target length 17 alignment score : 2.1431e-11
+Wir achten auf die Qualität der Materialien. Unsere Kleider und Anzüge sind aus wiederverwerteten und natürlichen Materialien. 
+NULL ({ }) We ({ 1 }) pay ({ 3 }) attention ({ 2 }) to ({ 6 }) the ({ 4 }) quality ({ 5 17 }) of ({ }) the ({ }) materials. ({ 14 16 }) Our ({ 7 }) dresses ({ 9 }) and ({ 10 }) suits ({ }) are ({ }) made ({ 11 }) from ({ 12 }) recycled ({ 8 }) and ({ 15 }) natural ({ 13 }) materials. ({ }) 
+# Sentence pair (6) source length 12 target length 9 alignment score : 0.000159595
+Wir möchten auch über Umweltprobleme in der Modeindustrie sprechen. 
+NULL ({ }) We ({ 1 }) also ({ 3 }) want ({ 2 }) to ({ 7 }) talk ({ 4 }) about ({ }) environments ({ 5 }) problems ({ 9 }) in ({ }) a ({ }) fashion ({ 8 }) industry. ({ 6 }) 
+# Sentence pair (7) source length 9 target length 7 alignment score : 1.53562e-05
+Die Modeindustrie ist hauptverantwortlich für die Umweltverschmutzung. 
+NULL ({ }) Fashion ({ }) industry ({ 2 }) is ({ 3 }) the ({ 6 }) worst ({ 7 }) polluter ({ 4 5 }) of ({ }) the ({ }) environment. ({ 1 }) 
+# Sentence pair (8) source length 29 target length 21 alignment score : 1.58805e-24
+Das bedeutet, dass... wir stellen über 150 Milliarden Kleidungsstücke her und weitere Milliarden Kleidungsstücke werden... werden verbrannt oder auf Mülldeponien geworfen. 
+NULL ({ }) It ({ }) means ({ }) that... ({ }) we ({ }) produce ({ }) over ({ 1 }) one ({ }) bi ({ 2 }) one ({ }) hundred ({ }) fifty ({ }) billions ({ }) pieces ({ 17 }) of ({ }) clothes ({ }) and ({ }) other ({ }) billions ({ }) pieces ({ }) of ({ }) clothes ({ }) are, ({ 5 7 9 12 14 16 21 }) are ({ 18 19 }) burned ({ 3 }) and ({ 11 }) put ({ }) in ({ }) the ({ }) landfills. ({ 4 6 8 10 13 15 20 }) 
+# Sentence pair (9) source length 15 target length 9 alignment score : 7.4623e-07
+2030 wird die Modeindustrie wachsen, weil die Bevölkerung zunimmt. 
+NULL ({ }) We. ({ }) In ({ 3 }) a ({ }) twenty ({ }) thirty ({ 5 }) will ({ 1 }) the ({ }) fashion ({ 4 }) industry ({ }) increase ({ 8 }) because ({ }) of ({ }) growth ({ 9 }) of ({ 7 }) population. ({ 2 6 }) 
+# Sentence pair (10) source length 33 target length 37 alignment score : 5.66501e-93
+Der klassische Ablauf bei der Herstellung von Kleidern ist: Materialbeschaffung für... für Stoffe, um Stoffe herzustellen, Stoffe zu weben, Vorbereitung, das bedeutet Farben und Muster und der letzte Schritt ist das Nähen und die Fertigstellung der Kleidung. 
+NULL ({ 27 36 }) The ({ 7 }) classic ({ }) cycle ({ 2 3 }) of ({ }) making ({ 6 }) of ({ 1 }) clothes ({ }) are: ({ 15 }) get ({ 4 }) material ({ 16 17 18 19 20 }) for... ({ 13 }) for ({ 12 }) fabrics, ({ }) making ({ 10 11 }) fabrics, ({ }) bathing ({ 9 14 }) fabrics, ({ }) preparation, ({ }) it ({ }) means ({ }) colors ({ 8 }) and ({ 33 }) print, ({ 5 }) and ({ 24 }) the ({ }) last ({ 25 37 }) one ({ }) is ({ 30 }) sewing ({ 28 29 31 32 }) and ({ 26 }) finishing ({ 21 22 }) the ({ 34 }) clothes. ({ 23 35 }) 
+# Sentence pair (11) source length 9 target length 8 alignment score : 0.0001211
+Danke für Ihre Aufmerksamkeit, einen schönen Tag noch. 
+NULL ({ }) Thank ({ }) you ({ 4 }) for ({ 2 }) your ({ 5 }) attention, ({ 8 }) have ({ 6 7 }) a ({ }) nice ({ 3 }) day. ({ 1 }) 

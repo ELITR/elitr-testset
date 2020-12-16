@@ -1,0 +1,336 @@
+# Sentence pair (1) source length 8 target length 8 alignment score : 1.55378e-07
+Marcus, bist du online, kannst du uns hören? 
+NULL ({ }) <CENSORED> ({ 1 }) you ({ }) are ({ }) on-line, ({ 2 3 4 5 }) can ({ }) you ({ 6 }) hear ({ 7 }) us? ({ 8 }) 
+# Sentence pair (2) source length 6 target length 3 alignment score : 0.0122576
+Soll ich anfangen? 
+NULL ({ }) Do ({ 3 }) you ({ }) want ({ 1 }) me ({ }) to ({ }) start? ({ 2 }) 
+# Sentence pair (3) source length 1 target length 1 alignment score : 0.736678
+Ja. 
+NULL ({ }) Yes. ({ 1 }) 
+# Sentence pair (4) source length 5 target length 5 alignment score : 0.00948219
+O.K. ha ha ha, sorry. 
+NULL ({ }) Ok, ({ 1 }) ha ({ 2 }) ha ({ 3 }) ha, ({ 4 }) sorry. ({ 5 }) 
+# Sentence pair (5) source length 14 target length 14 alignment score : 4.93538e-13
+Zunächst einmal vielen Dank, dass du mich eingeladen hast, auf eurer E-Data-Konferenz zu sprechen. 
+NULL ({ }) First ({ 1 }) of ({ }) all, ({ 2 3 4 }) thank ({ 5 }) you ({ 6 }) for ({ }) inviting ({ 7 }) me ({ 8 9 }) to ({ }) speak ({ 10 }) at ({ }) your ({ }) e-data ({ 11 }) conference. ({ 12 13 14 }) 
+# Sentence pair (6) source length 12 target length 10 alignment score : 1.01161e-08
+Mit einem Zugriff auf Regierungsinformationen ist es ein demokratisches Grundrecht. 
+NULL ({ }) With ({ 1 }) an ({ }) access ({ 5 }) to ({ }) government ({ }) information ({ 4 }) it ({ 7 }) is ({ 6 }) a ({ }) fundamental ({ 8 }) democratic ({ 9 }) right. ({ 2 3 10 }) 
+# Sentence pair (7) source length 10 target length 10 alignment score : 4.74416e-09
+Und diese Rolle erfordert, dass die Regierung öffentliche Informationen mitteilt. 
+NULL ({ }) And ({ 1 }) that ({ 5 }) role ({ 2 3 4 }) requires ({ }) the ({ 6 }) government ({ 7 }) to ({ }) share ({ 9 10 }) public ({ 8 }) information. ({ }) 
+# Sentence pair (8) source length 12 target length 12 alignment score : 1.37282e-09
+Die Gesellschaft hat sich seit dem Inkrafttreten des Gesetzes sehr stark verändert. 
+NULL ({ }) A ({ 1 }) society ({ 2 }) changed ({ 3 }) a ({ }) great ({ 5 }) deal ({ 4 }) since ({ 6 7 }) an ({ }) act ({ 9 }) came ({ 8 }) into ({ }) force. ({ 10 11 12 }) 
+# Sentence pair (9) source length 13 target length 13 alignment score : 9.18945e-11
+Und Informationen werden nicht mehr auf dem Papier, sondern in dynamischen Computersystemen aufbewahrt. 
+NULL ({ }) And ({ 1 }) information ({ 6 }) is ({ }) no ({ }) longer ({ 2 }) kept ({ 5 }) on ({ }) paper ({ 7 8 }) but ({ 9 }) in ({ 10 }) dynamic ({ 3 11 }) computer ({ 4 12 }) systems. ({ 13 }) 
+# Sentence pair (10) source length 16 target length 14 alignment score : 1.18774e-11
+Und inzwischen ist praktisch jedermann über eine Reihe von Geräten mit dem Internet verbunden. 
+NULL ({ }) And ({ 1 }) at ({ 2 }) the ({ }) meantime ({ 3 }) virtually ({ }) everyone ({ 5 }) is ({ }) connected ({ 4 }) through ({ 6 }) a ({ 7 }) series ({ 8 }) of ({ 9 }) devices ({ 10 11 12 }) to ({ }) the ({ }) internet. ({ 13 14 }) 
+# Sentence pair (11) source length 19 target length 20 alignment score : 1.07095e-19
+Und die Regierung des 21. Jahrhunderts kann auf diese Herausforderungen reagieren, indem sie der Öffentlichkeit direkten Zugang zu den Regierungsinformationen gewährt. 
+NULL ({ 2 }) And ({ 1 }) twenty ({ 4 }) first ({ }) century ({ 6 }) government ({ }) can ({ 7 }) respond ({ 5 }) to ({ }) these ({ 8 9 10 11 12 }) challenges ({ }) by ({ 13 }) giving ({ 14 15 16 }) the ({ }) public ({ }) direct ({ 18 }) access ({ 19 }) to ({ 17 }) government ({ 3 }) information. ({ 20 }) 
+# Sentence pair (12) source length 10 target length 10 alignment score : 2.62017e-07
+In anderen Worten: Die Regierung kann offene Daten aktiv veröffentlichen. 
+NULL ({ }) In ({ 1 }) another ({ 2 }) words, ({ 3 4 }) the ({ }) government ({ 5 }) could ({ 6 }) publish ({ }) open ({ 7 }) data ({ 8 }) actively. ({ 9 10 }) 
+# Sentence pair (13) source length 16 target length 15 alignment score : 2.65008e-19
+Dann kann das Volumen offener Daten nicht getrennt vom Übergang zur digitalen Verwaltung gesehen werden. 
+NULL ({ }) Then ({ 1 }) the ({ }) volume ({ }) of ({ }) open ({ }) data ({ 6 }) cannot ({ 4 }) be ({ }) seen ({ }) separately ({ 2 3 5 }) from ({ }) the ({ }) move ({ 7 }) towards ({ 8 9 11 12 13 14 15 }) digital ({ 10 }) government. ({ }) 
+# Sentence pair (14) source length 13 target length 13 alignment score : 3.20545e-10
+Und hier geben das Vereinigte Königreich und die Vereinigten Staaten das Tempo vor. 
+NULL ({ }) And ({ 1 }) here ({ 2 3 4 }) the ({ }) United ({ 5 }) Kingdom ({ 6 }) and ({ 7 }) the ({ 8 }) United ({ 9 }) States ({ 10 }) are ({ }) setting ({ 11 }) the ({ }) pace. ({ 12 13 }) 
+# Sentence pair (15) source length 16 target length 17 alignment score : 1.22707e-21
+Sie verstehen, dass die offenen Daten eindeutig kein Ziel, sondern ein Mittel sind, um transparent zu werden. 
+NULL ({ 4 }) They ({ 1 }) see ({ }) open ({ 5 }) data, ({ }) em ({ 6 }) are ({ }) clearly ({ 2 13 }) not ({ }) a ({ 11 }) goal ({ 9 12 }) but ({ 10 }) a ({ }) means ({ 3 14 }) to ({ }) become ({ 7 15 }) transparent. ({ 8 16 17 }) 
+# Sentence pair (16) source length 14 target length 9 alignment score : 9.49465e-08
+Und in der offenen Regierungspartnerschaft sind sie weltweit führend. 
+NULL ({ }) And ({ 1 }) they ({ 7 }) are ({ }) leading ({ 5 }) in ({ }) the ({ }) w ({ 8 }) the ({ }) world ({ 6 }) in ({ 2 }) the ({ 3 }) open ({ 4 }) government ({ }) partnership... ({ 9 }) 
+# Sentence pair (17) source length 12 target length 13 alignment score : 1.01762e-11
+Eine Initiative, um die Regierung zu ermutigen, so offen wie möglich zu sein. 
+NULL ({ }) An ({ 1 }) ini ({ 2 }) initiative ({ 8 9 10 11 }) to ({ 3 }) encourage ({ 6 7 }) government ({ 5 }) to ({ }) be ({ }) as ({ 4 }) open ({ }) as ({ }) possible. ({ 12 13 }) 
+# Sentence pair (18) source length 19 target length 20 alignment score : 1.4331e-20
+In Europa gibt es mehrere europäische Richtlinien und Verträge. Diese sind wichtig für die Gesetzgebung und Politik der offenen Daten. 
+NULL ({ 14 }) And ({ }) in ({ }) Europe ({ 1 2 3 4 }) there ({ }) are ({ }) several ({ 5 }) european ({ 6 }) directives ({ 7 }) and ({ 8 }) treaties ({ 9 10 }) which ({ }) are ({ 11 }) important ({ 12 }) for ({ 13 }) open ({ 19 }) data ({ 18 }) legislation ({ 15 }) and ({ 16 }) policies. ({ 17 20 }) 
+# Sentence pair (19) source length 10 target length 9 alignment score : 9.43565e-07
+Und die niederländische Regierung hat offene Daten-Ambitionen und -Politik. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) Dutch ({ 3 }) government ({ 4 }) has ({ 5 }) open ({ 6 }) data ({ }) ambitions ({ 7 }) and ({ 8 }) policies. ({ 9 }) 
+# Sentence pair (20) source length 13 target length 12 alignment score : 3.19442e-10
+Die tatsächliche Umsetzung steht jedoch noch am Anfang in einem frühen Stadium. 
+NULL ({ }) But ({ 1 }) the ({ }) actual ({ 2 }) implementation ({ 3 }) is ({ }) still ({ 4 5 }) grass ({ 7 8 }) roots ({ 6 }) and ({ }) its ({ }) in ({ 9 }) early ({ 10 }) stages. ({ 11 12 }) 
+# Sentence pair (21) source length 18 target length 16 alignment score : 5.16386e-19
+Der niederländische Rechnungshof und sein ehemaliger Präsidentin, verewigte Saskia J. Stuiveling, sahen das große Potenzial offener Daten. 
+NULL ({ }) The ({ }) Netherlands ({ }) Court ({ 2 }) of ({ }) Audit ({ 3 }) and ({ 4 }) its ({ 5 }) former ({ 6 7 8 9 }) President, ({ 1 10 }) Mrs. ({ 11 }) Stuiveling, ({ 13 14 15 16 }) see ({ 12 }) the ({ }) great ({ }) potential ({ }) in ({ }) open ({ }) data. ({ }) 
+# Sentence pair (22) source length 15 target length 16 alignment score : 5.11224e-15
+Und in zweitausend dreizehn haben wir beschlossen, den Fortschritt offener Daten in den Niederlanden zu überwachen. 
+NULL ({ }) And ({ 1 }) in ({ 2 }) 2013, ({ 3 4 }) we ({ 6 }) decided ({ 7 8 9 }) to ({ }) monitor ({ 5 }) the ({ }) progress ({ 10 15 16 }) of ({ }) open ({ }) data ({ 11 }) in ({ 12 }) the ({ 13 }) Netherlands. ({ 14 }) 
+# Sentence pair (23) source length 21 target length 22 alignment score : 1.67103e-17
+In unserem ersten Bericht konzentrierten wir uns auf die Definition von offenen Daten und den Stand der offenen Daten in den Niederlanden. 
+NULL ({ }) In ({ 1 }) our ({ 2 }) first ({ 3 }) report ({ 4 }) we ({ 6 }) concentrated ({ 5 7 }) on ({ 8 }) the ({ 9 }) definition ({ 10 }) of ({ 11 }) open ({ 12 }) data ({ 13 }) and ({ 14 }) the ({ 15 }) state ({ 16 }) of ({ 17 }) open ({ 18 }) data ({ 19 }) in ({ 20 }) the ({ 21 }) Netherlands. ({ 22 }) 
+# Sentence pair (24) source length 13 target length 13 alignment score : 1.14179e-13
+Wir führten eine Umfrage über den Einsatz der Ministerien für offene Daten durch. 
+NULL ({ }) We ({ 1 }) did ({ 2 }) a ({ 3 }) survey ({ 4 5 }) on ({ }) the ({ 6 }) commitment ({ 7 13 }) of ({ 8 }) the ({ }) ministries ({ 9 }) to ({ }) open ({ 11 }) data. ({ 10 12 }) 
+# Sentence pair (25) source length 23 target length 25 alignment score : 4.12325e-18
+Unser Ansatz ist positiv, denn wir richten uns auf Ministerien, die gut abschneiden, und wir versuchten, die Ministerien zu ermutigen, die ins Hintertreffen geraten sind. 
+NULL ({ 11 }) Our ({ 1 }) approach ({ 2 }) is ({ 3 }) positive, ({ 4 }) because ({ 5 }) we ({ 6 }) concentrated ({ 7 8 }) on ({ 9 }) ministries ({ }) which ({ }) were ({ 10 }) doing ({ 12 }) well ({ 13 }) and ({ 14 }) we ({ 15 }) tried ({ 16 }) to ({ }) encourage ({ 19 20 }) the ({ 17 }) ministries ({ 18 }) who ({ 22 }) fell ({ 21 }) behind. ({ 23 24 25 }) 
+# Sentence pair (26) source length 20 target length 23 alignment score : 3.64548e-24
+Durch Sitzungen mit Experten und Beamten für offene Daten sowie durch die Veröffentlichung von Faktenblättern mit guten Beispielen auf nationaler und internationaler Ebene. 
+NULL ({ 12 }) And ({ }) through ({ }) sessions ({ 4 }) with ({ 3 }) open ({ 8 }) data ({ 9 }) experts ({ 10 11 13 }) and ({ }) civil ({ 1 6 }) servants, ({ 2 7 }) and ({ 5 }) publications ({ 14 }) of ({ }) factsheets ({ 15 }) with ({ 16 }) good ({ 17 }) examples ({ 18 }) national ({ }) and ({ 21 }) international. ({ 19 20 22 23 }) 
+# Sentence pair (27) source length 13 target length 15 alignment score : 1.58832e-10
+In dem zweiten Bericht betonten wir die Bedeutung der offenen Daten und überwachten die Fortschritte. 
+NULL ({ }) In ({ 1 }) second ({ 2 5 }) report ({ 4 }) we ({ 6 }) emphasised ({ 3 }) the ({ 7 }) importance ({ 8 }) of ({ 9 }) open ({ 10 }) data ({ 11 }) and ({ 12 }) monitored ({ 13 }) progress. ({ 14 15 }) 
+# Sentence pair (28) source length 9 target length 9 alignment score : 4.36876e-07
+Wir haben mehrere potenzielle Vorteile von offenen Daten erkannt. 
+NULL ({ }) We've ({ 1 }) in ({ }) identified ({ 2 }) several ({ 3 }) potential ({ 4 9 }) benefits ({ 5 6 }) of ({ }) open ({ 7 }) data. ({ 8 }) 
+# Sentence pair (29) source length 7 target length 7 alignment score : 5.99428e-05
+Offene Daten bieten der Regierung günstige Gelegenheiten. 
+NULL ({ }) Open ({ 1 }) data ({ 2 }) offers ({ 3 }) opportunities ({ 6 7 }) to ({ }) the ({ 4 }) government. ({ 5 }) 
+# Sentence pair (30) source length 21 target length 20 alignment score : 1.2176e-22
+Und durch die Öffnung der Daten über ihre Ausgaben und Leistungen erhält die Regierung ein besseres Verständnis ihrer eigenen Finanzierung. 
+NULL ({ 3 }) And ({ 1 }) by ({ 2 }) opening ({ }) em ({ }) e ({ }) data ({ 6 }) on ({ }) its ({ }) expenditure ({ }) and ({ 10 }) performance, ({ 4 11 12 }) the ({ 13 }) government ({ 14 }) will ({ 15 }) have ({ }) better ({ 16 }) understanding ({ 7 8 9 17 }) of ({ 5 }) its ({ }) own ({ 19 }) funding. ({ 18 20 }) 
+# Sentence pair (31) source length 10 target length 12 alignment score : 7.64995e-11
+Auf diese Weise zeigt es sich, wie das Parlament die Regierung überprüft. 
+NULL ({ }) This ({ 1 }) way ({ 2 }) it ({ 5 }) turn ({ 3 6 12 }) how ({ 7 }) the ({ 8 }) parliament ({ 9 }) scrutinise ({ 4 }) the ({ 10 }) government. ({ 11 }) 
+# Sentence pair (32) source length 14 target length 15 alignment score : 2.83738e-10
+Für die Bürger würden die Kollektionen von offenen Daten die Regierung transparenter und zugänglicher machen. 
+NULL ({ }) For ({ 1 }) citizens ({ 2 3 }) the ({ }) open ({ 8 }) data ({ 9 }) sets ({ 6 7 }) would ({ 4 }) make ({ 5 }) the ({ }) government ({ 11 }) more ({ 10 }) transparent ({ 12 }) and ({ 13 }) accessible. ({ 14 15 }) 
+# Sentence pair (33) source length 13 target length 12 alignment score : 1.90127e-09
+Aus geschäftlicher Sicht können innovative Unternehmer offene Daten in neue Anwendungen umsetzen. 
+NULL ({ }) From ({ 1 }) a ({ }) business ({ }) view, ({ 2 3 }) innovative ({ 5 }) entrepreneurs ({ 6 }) can ({ 4 }) turn ({ }) open ({ 7 }) data ({ 8 }) into ({ 9 }) new ({ 10 }) applications. ({ 11 12 }) 
+# Sentence pair (34) source length 18 target length 17 alignment score : 4.81796e-18
+Eines unserer Ziele war es festzustellen, was die Niederlande von Großbritannien und den Vereinigten Staaten lernen können. 
+NULL ({ }) One ({ 1 }) of ({ }) our ({ 2 }) objectives ({ 3 4 5 6 }) was ({ 7 }) what ({ }) the ({ 8 }) Netherlands ({ 9 }) could ({ }) learn ({ 11 }) from ({ 10 }) the ({ 13 }) United ({ }) Kingdom ({ }) and ({ 12 }) the ({ }) United ({ 14 }) States. ({ 15 16 17 }) 
+# Sentence pair (35) source length 20 target length 20 alignment score : 7.94388e-14
+Anhand von Daten für den Biometer mit offenen Daten der World Web Foundation verglichen wir drei Aspekte der offenen Daten. 
+NULL ({ }) Using ({ 1 2 }) data ({ 3 }) for ({ 4 }) the ({ 5 }) open ({ 8 }) data ({ 9 }) bio ({ 6 }) meter ({ 7 }) made ({ 10 }) by ({ }) World ({ 11 }) Web ({ 12 }) Foundation, ({ 13 }) we ({ 15 }) compared ({ 14 }) three ({ 16 }) aspects ({ 17 }) of ({ 18 }) open ({ 19 }) data. ({ 20 }) 
+# Sentence pair (36) source length 11 target length 9 alignment score : 1.25526e-09
+Das Bewusstsein, positive Ergebnisse aus offenen Regierungsdateninitiativen zu sichern. 
+NULL ({ }) The ({ 1 }) awareness ({ 2 3 }) to ({ 8 }) secure ({ 9 }) positive ({ 4 }) outcomes ({ 5 7 }) from ({ }) open ({ 6 }) government ({ }) data ({ }) initiatives. ({ }) 
+# Sentence pair (37) source length 8 target length 8 alignment score : 6.16597e-07
+Das Ausmaß, in dem offene Daten verfügbar sind. 
+NULL ({ }) The ({ 1 }) extent ({ 2 3 }) to ({ }) which ({ 4 }) open ({ 5 }) data ({ 6 }) are ({ }) available. ({ 7 8 }) 
+# Sentence pair (38) source length 8 target length 9 alignment score : 1.89997e-07
+Und die Auswirkungen auf die Gesellschaft, Wirtschaft und Regierung. 
+NULL ({ 5 }) And ({ 1 }) the ({ 2 }) impact ({ 3 }) on ({ 4 }) society, ({ 7 }) business ({ 6 }) and ({ 8 }) government. ({ 9 }) 
+# Sentence pair (39) source length 5 target length 4 alignment score : 0.00451758
+Gesellschaft, Wirtschaft und Regierung 
+NULL ({ }) ehm ({ 1 }) society, ({ 2 }) business ({ }) and ({ 3 }) government ({ 4 }) 
+# Sentence pair (40) source length 7 target length 6 alignment score : 0.000515412
+Und wenn wir verglichen haben... (Sorry. 
+NULL ({ }) And ({ 1 }) if ({ 2 }) we ({ 3 }) compared ({ 4 }) I ({ 6 }) am ({ }) sorry. ({ 5 }) 
+# Sentence pair (41) source length 1 target length 1 alignment score : 0.713108
+Sorry. 
+NULL ({ }) Sorry. ({ 1 }) 
+# Sentence pair (42) source length 13 target length 8 alignment score : 4.67671e-07
+Ich bekomme meine Stimme zurück in den Monitor. 
+NULL ({ }) I ({ 1 }) am ({ 2 }) getting ({ }) am ({ }) getting ({ }) em ({ }) my ({ }) voice ({ 3 }) feeding ({ 4 }) back ({ 5 }) into ({ 6 }) the ({ 7 }) monitor. ({ 8 }) 
+# Sentence pair (43) source length 4 target length 4 alignment score : 0.0220329
+Das ist sehr ablenkend. 
+NULL ({ }) It ({ 1 }) is ({ 2 }) very ({ 3 }) distractive. ({ 4 }) 
+# Sentence pair (44) source length 1 target length 1 alignment score : 0.772442
+O.K. 
+NULL ({ }) OK. ({ 1 }) 
+# Sentence pair (45) source length 2 target length 4 alignment score : 2.29434e-05
+Aber gehen wir fort.) 
+NULL ({ }) But ({ }) continue. ({ 1 2 3 4 }) 
+# Sentence pair (46) source length 12 target length 13 alignment score : 1.80322e-08
+Wenn wir das Vereinigte Königreich und die Vereinigten Staaten mit den Niederlanden vergleichen, 
+NULL ({ }) If ({ 1 }) we ({ 2 }) compare ({ 3 }) the ({ 7 }) United ({ 4 }) Kingdom ({ 5 }) and ({ 6 }) United ({ 8 }) States ({ 9 }) with ({ 10 }) the ({ 11 }) Netherlands... ({ 12 13 }) 
+# Sentence pair (47) source length 16 target length 17 alignment score : 4.6993e-16
+wir können sehen, dass das Vereinigte Königreich und die Vereinigten Staaten hinsichtlich Umsetzung und Wirkung besser abschneiden. 
+NULL ({ }) We ({ 1 }) can ({ 2 }) see ({ 5 }) that ({ 4 }) the ({ 9 }) United ({ 6 }) Kingdom ({ 7 }) and ({ 8 }) United ({ 10 }) States ({ 11 }) come ({ 12 }) better ({ }) on ({ }) implementation ({ 3 13 }) and ({ 14 }) impact. ({ 15 16 17 }) 
+# Sentence pair (48) source length 10 target length 12 alignment score : 6.8077e-13
+In Bezug auf die Bereitschaft für offene Daten gibt es kaum Unterschiede. 
+NULL ({ }) There ({ 1 }) is ({ }) little ({ }) difference ({ 2 10 11 12 }) regarding ({ 9 }) the ({ 4 }) readiness ({ 3 5 }) for ({ 6 }) open ({ 7 }) data. ({ 8 }) 
+# Sentence pair (49) source length 10 target length 12 alignment score : 3.62523e-10
+Wenn wir uns die Bereitschaft ansehen, schneiden die Niederlande weniger gut ab. 
+NULL ({ }) If ({ 1 }) we ({ 2 }) look ({ 3 }) at ({ }) readiness, ({ 7 }) the ({ 4 }) Netherlands ({ 9 }) score ({ 5 6 8 }) less ({ 10 }) well. ({ 11 12 }) 
+# Sentence pair (50) source length 19 target length 18 alignment score : 5.21004e-18
+Nur in Bezug auf das Auskunftsrecht und das Ausmaß, in dem die Regierung Initiativen für offene Daten unterstützt. 
+NULL ({ }) Only ({ 1 }) with ({ }) regards ({ 2 3 4 5 6 }) to ({ }) the ({ }) right ({ }) for ({ }) information ({ }) and ({ 7 }) the ({ 8 }) extent ({ 9 10 }) to ({ }) which ({ 11 }) the ({ 12 }) government ({ 13 }) supports ({ 14 15 }) open ({ 16 }) data ({ 17 }) initiatives. ({ 18 }) 
+# Sentence pair (51) source length 15 target length 17 alignment score : 4.92306e-16
+Was die Verfügbarkeit betrifft, veröffentlichen Großbritannien und die Vereinigten Staaten offene Daten weitaus mehre als die Niederlande. 
+NULL ({ 2 }) Regarding ({ 1 3 4 }) availability, ({ 5 }) United ({ 9 }) Kingdom ({ 6 }) and ({ 7 }) United ({ }) States ({ 10 }) publish ({ }) far ({ 13 14 17 }) more ({ 8 }) open ({ 11 }) data ({ 12 }) than ({ 15 }) the ({ 16 }) Netherlands. ({ }) 
+# Sentence pair (52) source length 12 target length 12 alignment score : 6.54084e-11
+Die Anzahl der Kollektionen von offenen Daten in den USA ist enorm. 
+NULL ({ }) The ({ 1 }) number ({ 2 }) of ({ 3 }) open ({ 6 }) data ({ 7 }) sets ({ 4 5 }) in ({ 8 }) the ({ }) United ({ 9 }) States ({ }) is ({ 11 }) enormous. ({ 10 12 }) 
+# Sentence pair (53) source length 13 target length 15 alignment score : 2.28229e-15
+Die Art der Daten, die die Länder veröffentlichen, hängt von der Anzahl der Punkte ab. 
+NULL ({ 6 }) The ({ 1 }) type ({ 2 }) of ({ 3 }) data ({ }) the ({ 5 }) countries ({ 4 7 }) release ({ 8 }) differs ({ 9 }) on ({ }) the ({ 11 }) number ({ 12 }) of ({ 10 13 }) points. ({ 14 15 }) 
+# Sentence pair (54) source length 14 target length 14 alignment score : 8.39115e-13
+Die Niederlande veröffentlichen derzeit nur wenige offene Daten zu den Staatsausgaben und öffentlichen Aufträgen. 
+NULL ({ }) The ({ 1 }) Netherlands ({ 2 }) currently ({ 4 }) publish ({ 3 }) publishes ({ 6 }) little ({ 5 }) open ({ 7 }) data ({ 8 }) on ({ }) government ({ }) spending ({ 9 }) and ({ 12 }) public ({ 10 13 }) contracting. ({ 11 14 }) 
+# Sentence pair (55) source length 9 target length 8 alignment score : 7.76384e-07
+Und auch das niederländische Handelsregister ist nicht geöffnet. 
+NULL ({ }) And ({ 1 }) the ({ }) Dutch ({ 4 }) Trade ({ 5 }) Register ({ 2 8 }) is ({ 6 }) not ({ 7 }) open ({ }) either. ({ 3 }) 
+# Sentence pair (56) source length 15 target length 14 alignment score : 1.67885e-11
+Wie Sie sehen können, verfügt das Vereinigte Königreich über offene Daten zu allen Politikfeldern. 
+NULL ({ }) As ({ 1 }) you ({ 2 }) can ({ 4 }) see ({ 3 }) the ({ 6 }) u ({ 5 }) United ({ 7 }) Kingdom ({ 8 }) has ({ 9 }) open ({ 10 }) data ({ 11 }) on ({ }) all ({ }) policy ({ 12 }) fields. ({ 13 14 }) 
+# Sentence pair (57) source length 15 target length 13 alignment score : 8.38369e-12
+Die Auswirkungen offener Daten lassen sich in politische, soziale und wirtschaftliche Dimensionen untergliedern. 
+NULL ({ }) The ({ 1 }) impact ({ 2 }) of ({ }) open ({ }) data ({ 4 }) can ({ }) be ({ }) broken ({ 5 }) down ({ 6 8 9 }) into ({ 7 }) political, ({ 3 }) social ({ }) and ({ 10 }) economic ({ 11 }) dimensions. ({ 12 13 }) 
+# Sentence pair (58) source length 17 target length 19 alignment score : 5.77696e-18
+Und die Niederlande bleiben in den sozialen und wirtschaftlichen Dimensionen der Shows hinter Großbritannien und den Vereinigten Staaten zurück. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) Netherlands ({ 3 }) lag ({ 5 13 14 }) behind ({ 4 12 }) United ({ 16 }) Kingdom ({ }) and ({ 15 }) United ({ 17 }) States ({ 18 }) on ({ }) the ({ 11 }) shows ({ 6 19 }) social ({ 7 }) and ({ 8 }) economic ({ 9 }) dimensions. ({ 10 }) 
+# Sentence pair (59) source length 20 target length 22 alignment score : 3.98579e-20
+Dies bedeutet, dass die Niederlande weniger Gebrauch von offenen Daten machen, um die Bürger in die Gestaltung und Überprüfung der Regierungspolitik einzubeziehen. 
+NULL ({ 16 }) This ({ 1 }) means ({ 2 }) that ({ 3 }) the ({ 4 }) Netherlands ({ 5 }) makes ({ 7 8 }) less ({ 6 }) use ({ }) of ({ }) open ({ 9 }) data ({ 10 }) to ({ 12 }) involve ({ 11 21 }) citizens ({ 13 14 }) in ({ 15 }) making ({ 17 22 }) and ({ 18 }) scrutinising ({ 19 }) government ({ 20 }) policy. ({ }) 
+# Sentence pair (60) source length 8 target length 9 alignment score : 9.48526e-08
+Die Unternehmen generieren mit offenen Daten nur wenig Mehrwert. 
+NULL ({ }) Businesses ({ 1 }) generate ({ 2 }) little ({ 7 }) added ({ }) value ({ 3 8 9 }) with ({ 4 }) open ({ 5 }) data. ({ 6 }) 
+# Sentence pair (61) source length 18 target length 18 alignment score : 1.50745e-19
+In unseren beiden Berichten haben wir internationale Beispiele hinzugefügt, die als gutes Beispiel für die Niederlande dienen können. 
+NULL ({ }) In ({ 1 }) both ({ 2 }) our ({ 5 }) reports ({ 3 }) we've ({ 4 6 7 8 }) added ({ 16 }) international ({ 9 11 17 }) examples ({ }) which ({ }) can ({ }) serve ({ 12 18 }) as ({ 10 }) a ({ }) good ({ }) example ({ 13 }) for ({ 14 }) the ({ 15 }) Netherlands. ({ }) 
+# Sentence pair (62) source length 16 target length 15 alignment score : 3.29409e-10
+Und beispielsweise In Schweden veröffentlichen die Gemeinden und Regionen detaillierte Tabellen zu Wartezeiten für Krankenhäuser. 
+NULL ({ }) And ({ 1 }) in ({ }) Sweden, ({ 2 3 4 }) for ({ }) example, ({ 5 }) municipalities ({ 6 7 }) and ({ 8 }) regions ({ 9 }) publish ({ }) detailed ({ 10 }) charts ({ 11 }) on ({ }) waiting ({ 12 }) times ({ 13 }) for ({ 14 }) hospitals. ({ 15 }) 
+# Sentence pair (63) source length 10 target length 9 alignment score : 2.16501e-06
+Wir haben uns nicht nur auf offene Datenbarometer verlassen. 
+NULL ({ }) We ({ 1 }) did ({ 2 }) not ({ 4 }) re ({ 5 }) rely ({ 3 }) on ({ 6 }) open ({ 7 }) data ({ }) barometers ({ 8 }) only. ({ 9 }) 
+# Sentence pair (64) source length 8 target length 6 alignment score : 9.62907e-06
+Und wir haben auch selbst recherchiert. 
+NULL ({ }) And ({ 1 }) we ({ 2 }) did ({ 3 }) our ({ }) own ({ }) research ({ 4 5 }) as ({ }) well. ({ 6 }) 
+# Sentence pair (65) source length 16 target length 17 alignment score : 1.19307e-15
+Und um ein besseres Bild des Volumens und der Art der derzeit verfügbaren offenen Daten zu erhalten, 
+NULL ({ }) And ({ 1 }) to ({ 2 }) get ({ 3 }) a ({ }) better ({ 4 }) picture ({ 5 6 }) of ({ 9 }) the ({ }) volume ({ 7 }) and ({ 8 }) type ({ 10 }) of ({ 11 }) open ({ 14 }) data ({ 15 }) currently ({ 12 16 }) available ({ 13 17 }) 
+# Sentence pair (66) source length 14 target length 16 alignment score : 1.22644e-16
+haben wir uns die Daten angesehen, die auf unserem nationalen Portal der offenen Daten veröffentlicht werden. 
+NULL ({ 7 }) we ({ 2 }) looked ({ 12 }) at ({ 3 }) the ({ 4 }) data ({ 5 }) that ({ }) are ({ }) published ({ 6 }) on ({ 8 }) our ({ 1 }) national ({ }) open ({ 13 }) data ({ 14 }) portal. ({ 9 10 11 15 16 }) 
+# Sentence pair (67) source length 20 target length 14 alignment score : 5.53446e-18
+Insgesamt waren hier dreitausend zweihundert Kollektionen von offenen Daten im Februar zweitausend fünfzehn verfügbar. 
+NULL ({ }) In ({ }) total ({ 2 }) there ({ 8 }) is ({ }) a ({ }) three ({ }) thousand ({ }) two ({ }) hundreds ({ 1 10 }) data ({ 9 }) sets ({ 6 7 }) were ({ }) available ({ }) in ({ }) February ({ 3 4 5 11 }) February ({ }) two ({ 12 }) thousand ({ 13 }) and ({ }) fifteen. ({ 14 }) 
+# Sentence pair (68) source length 14 target length 13 alignment score : 7.54337e-14
+Und etwas mehr als die Hälfte der Datenkollektionen wird von der Zentralregierung bereitgestellt. 
+NULL ({ }) And ({ 1 }) slightly ({ 2 3 }) more ({ 5 }) than ({ 4 }) half ({ 6 8 9 }) of ({ 7 }) the ({ }) data ({ }) sets ({ }) are ({ }) provided ({ }) by ({ 11 }) central ({ 10 12 }) government. ({ 13 }) 
+# Sentence pair (69) source length 18 target length 14 alignment score : 7.54205e-17
+Der größte Teil der von der Zentralregierung veröffentlichten offenen Daten wird vom Infrastrukturministerium erstellt. 
+NULL ({ }) The ({ }) greater ({ }) part ({ 8 }) of ({ }) the ({ }) open ({ 9 }) data ({ 10 }) published ({ }) by ({ 6 }) central ({ 5 7 }) government ({ }) is ({ }) produced ({ 11 }) by ({ 4 }) the ({ }) Ministry ({ }) of ({ }) Infrastructure. ({ 1 2 3 12 13 14 }) 
+# Sentence pair (70) source length 21 target length 18 alignment score : 6.13878e-15
+Und das Ministerium der öffentlichen Arbeit ist bei weitem die wichtigste Quelle für offene Daten in den Niederlanden. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) ministry's ({ 3 }) public ({ 5 }) work ({ 6 }) public ({ }) work ({ 9 }) dimension ({ 8 }) is ({ 7 }) by ({ 4 }) far ({ }) the ({ 10 }) most ({ 11 12 }) important ({ }) source ({ 13 }) of ({ }) open ({ 14 }) data ({ 15 }) in ({ 16 }) the ({ 17 }) Netherlands. ({ 18 }) 
+# Sentence pair (71) source length 17 target length 17 alignment score : 1.50032e-15
+Für unsere beiden Berichte haben wir alle Ministerien gefragt, welche Maßnahmen sie zur Veröffentlichung offener Daten ergreifen. 
+NULL ({ }) For ({ 1 }) our ({ 2 }) two ({ }) reports ({ 3 4 5 }) we ({ 6 }) asked ({ 9 }) all ({ 7 }) ministries ({ 8 }) what ({ 10 }) actions ({ 11 }) they ({ 12 }) are ({ }) taking ({ 13 14 15 17 }) to ({ }) publish ({ }) open ({ }) data. ({ 16 }) 
+# Sentence pair (72) source length 13 target length 12 alignment score : 2.0268e-10
+Die Punktzahl, die wir jedem Ministerium zugewiesen haben, basierte auf sechs Indikatoren. 
+NULL ({ }) And ({ }) the ({ }) score ({ 3 }) we ({ 4 }) awarded ({ 5 }) to ({ }) each ({ 6 7 8 }) ministry, ({ 1 2 }) was ({ }) based ({ 9 }) on ({ 10 }) six ({ 11 }) indicators. ({ 12 }) 
+# Sentence pair (73) source length 15 target length 14 alignment score : 4.5958e-13
+Zum Beispiel die Unterstützung eines Aktionsplans von der Spitze und durch Personen des Ministeriums. 
+NULL ({ 3 }) Such ({ 1 }) as ({ 2 }) support ({ 4 5 6 }) from ({ 7 }) the ({ }) top ({ }) of ({ }) the ({ 8 }) ministry ({ 9 }) and ({ 10 }) person's ({ 11 }) of ({ }) an ({ 13 }) action ({ 12 }) plan. ({ 14 }) 
+# Sentence pair (74) source length 16 target length 17 alignment score : 1.36785e-13
+Seit der Veröffentlichung unseres ersten Berichts haben einige Ministerien außergewöhnliche Initiativen ergriffen, um offene Daten zu veröffentlichen. 
+NULL ({ }) Since ({ 1 }) the ({ 2 }) publication ({ 3 4 }) of ({ }) our ({ }) first ({ 5 }) report, ({ 6 }) some ({ 7 }) ministries ({ 9 }) took ({ 8 }) exceptional ({ 10 }) initiatives ({ 11 12 13 }) to ({ 16 }) publish ({ 17 }) open ({ 14 }) data. ({ 15 }) 
+# Sentence pair (75) source length 21 target length 19 alignment score : 4.59882e-12
+Wir haben die Ministerien auch gefragt, wie viele Personen und wie viel Geld sie in zweitausend vierzehn bereitgestellt haben. 
+NULL ({ }) We ({ 1 }) also ({ 2 5 }) asked ({ 6 }) the ({ 3 }) ministries ({ 4 }) how ({ 7 }) many ({ 8 }) people ({ 9 }) and ({ 10 }) how ({ 11 }) much ({ 12 }) funding ({ 13 }) they ({ 14 }) have ({ }) provided ({ 18 }) in ({ 15 }) two ({ 16 }) thousand ({ }) and ({ }) fou ({ 17 }) fourteen. ({ 19 }) 
+# Sentence pair (76) source length 5 target length 5 alignment score : 0.00921602
+Ihre Antworten waren sehr unterschiedlich. 
+NULL ({ }) Their ({ 1 }) answers ({ 2 }) were ({ 3 }) very ({ 4 }) different. ({ 5 }) 
+# Sentence pair (77) source length 20 target length 20 alignment score : 2.89092e-18
+Das Verteidigungsministerium und das Ministerium für Sicherheit und Justiz hatten weder Zeit noch Geld für die Veröffentlichung öffentlicher Daten aufgewendet. 
+NULL ({ 16 }) Ministry ({ 1 }) of ({ }) Defence ({ 2 }) and ({ 3 }) Ministry ({ 4 }) of ({ }) Security ({ 5 6 7 }) and ({ 8 }) Justice ({ 9 }) had ({ }) spent ({ 10 11 12 }) no ({ 13 }) time ({ 20 }) or ({ 15 }) money ({ 14 }) on ({ }) publication ({ 17 18 }) of ({ }) public ({ }) data. ({ 19 }) 
+# Sentence pair (78) source length 18 target length 19 alignment score : 3.9505e-17
+Andere Ministerien haben jedoch mehrere Personen mit der Veröffentlichung offener Daten beauftragt und einen Kostenrahmen für die Aktivitäten freigegeben. 
+NULL ({ 17 }) But ({ }) other ({ 1 }) ministries ({ 2 }) have ({ }) tasked ({ 3 4 }) several ({ 5 }) people ({ 6 }) with ({ 7 }) publishing ({ 8 9 10 12 }) open ({ }) data ({ 11 }) and ({ }) have ({ 14 }) released ({ 13 }) a ({ }) budget ({ 15 }) for ({ 16 }) activities. ({ 18 19 }) 
+# Sentence pair (79) source length 23 target length 26 alignment score : 9.4162e-26
+Und in den Schlussfolgerungen von zweitausend dreizehn bis vierzehn wir kamen zu dem Schluss, dass die offenen Daten ein Standard darstellen, aber noch keine Praxis sind. 
+NULL ({ 2 }) And ({ 1 }) the ({ 3 }) conclusions ({ 4 }) of ({ 5 }) two ({ 6 }) thousand ({ }) and ({ }) thirteen ({ 7 }) ff ({ 8 }) fourteen; ({ 9 }) we ({ 10 }) concluded ({ 11 12 13 14 }) that ({ 15 }) the ({ 16 }) open ({ 17 }) data ({ 18 }) are ({ }) a ({ 19 }) standard ({ 20 }) but ({ }) not ({ }) yet ({ 21 }) practice. ({ 22 23 24 25 26 }) 
+# Sentence pair (80) source length 26 target length 23 alignment score : 9.41818e-25
+Und die offenen Daten, die dort erlassen wurden, betrafen hauptsächlich die Regierung, und eher was die Regierung weiß als was die Regierung tut. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) open ({ 3 }) data ({ }) that ({ }) have ({ }) been ({ }) enacted ({ 4 5 6 }) there ({ 11 }) has ({ }) been ({ 7 8 9 }) a ({ }) concerned ({ 10 12 13 }) chiefly ({ 16 }) with ({ }) the ({ }) government ({ 22 }) what ({ }) government ({ }) knows ({ 21 }) rather ({ 14 15 20 }) than ({ 19 }) what ({ }) a ({ }) government ({ 17 }) does. ({ 18 23 }) 
+# Sentence pair (81) source length 21 target length 19 alignment score : 1.62052e-16
+Wir haben auch ein paar Kommentare erhalten und sie verlassen sich auf den Erfolg der Politik der offenen Daten. 
+NULL ({ }) We ({ 1 }) also ({ 2 }) got ({ 3 }) a ({ }) couple ({ 5 11 }) of ({ }) comments ({ 6 7 }) and ({ 8 }) em ({ }) a ({ 4 }) they ({ 9 }) rely ({ 10 }) on ({ 12 }) the ({ 13 }) ehm ({ 14 }) the ({ 15 }) success ({ 16 }) of ({ 17 }) open ({ 18 }) data ({ }) policy. ({ 19 }) 
+# Sentence pair (82) source length 14 target length 12 alignment score : 1.28223e-09
+Und die Regierung sollte einen größeren Einblick in die verfügbaren Daten geben. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) government ({ 3 }) should ({ 4 }) ehm ({ }) give ({ 5 6 }) a ({ }) greater ({ 7 }) inside ({ 9 10 }) into ({ 8 }) what ({ }) data ({ 11 }) are ({ }) available. ({ 12 }) 
+# Sentence pair (83) source length 10 target length 11 alignment score : 9.24468e-10
+Sie sollte richtige Bedingungen schaffen, die richtigen Bedingungen für offene Daten. 
+NULL ({ 6 }) They ({ 1 }) should ({ 2 }) create ({ 5 }) right ({ 3 }) conditions, ({ 4 }) right ({ }) conditions ({ 7 8 }) for ({ 9 }) open ({ 10 }) data. ({ 11 }) 
+# Sentence pair (84) source length 21 target length 20 alignment score : 3.9207e-19
+Und der dritte besagte, dass die Regierung sowohl in die Angebots- als auch in die Nachfrageseite offener Daten investieren muss. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) third ({ 3 4 }) one ({ }) was ({ }) that ({ 5 }) the ({ 6 }) government ({ 7 }) must ({ 8 }) invest ({ 13 }) in ({ 9 14 }) both; ({ 11 16 }) the ({ 10 }) supply ({ 12 }) and ({ }) the ({ 15 }) demand ({ 20 }) sides ({ 17 19 }) of ({ }) open ({ }) data. ({ 18 }) 
+# Sentence pair (85) source length 8 target length 10 alignment score : 1.03004e-10
+Zum Beispiel durch die Errichtung eines Instituts für offene Daten. 
+NULL ({ 4 }) For ({ 1 }) example ({ 2 }) by ({ 3 }) founding ({ 5 6 7 }) an ({ 8 }) open ({ 9 }) data ({ }) institute. ({ 10 }) 
+# Sentence pair (86) source length 24 target length 25 alignment score : 1.88053e-21
+Für unseren Bericht vom zweitausend fünfzehn stellten wir fest, dass die Regierung und die Ministerien Schritte unternommen hatten, um die Akzeptanz offener Daten zu erhöhen. 
+NULL ({ }) For ({ 1 }) our ({ }) two ({ 5 }) thousand ({ 6 }) and ({ }) fifteen ({ 2 4 7 }) report ({ 3 }) we ({ 8 }) found ({ 9 }) that ({ 10 }) the ({ 11 }) government ({ 12 }) and ({ 13 }) ministries ({ 15 }) had ({ }) taken ({ 16 }) steps ({ 25 }) to ({ 24 }) make ({ 20 }) open ({ }) data ({ 23 }) more ({ 14 }) widely ({ 17 }) accepted. ({ 18 19 21 22 }) 
+# Sentence pair (87) source length 25 target length 18 alignment score : 3.07146e-19
+Und teilweise als Reaktion auf unseren ersten Bericht über offene Daten koordiniert das Innenministerium derzeit eine regierungsweite Datensatzanalyse. 
+NULL ({ }) And ({ 1 }) partly ({ 2 3 4 }) in ({ }) response ({ 5 6 7 8 }) to ({ }) our ({ }) first ({ }) open ({ 10 }) data ({ }) turned ({ 12 }) report, ({ }) the ({ }) Ministry ({ 13 }) of ({ }) Interior ({ 14 }) is ({ }) cur ({ }) currently ({ 15 }) coordinating ({ 17 18 }) a ({ 16 }) government ({ }) wide ({ }) data ({ 11 }) set ({ }) analysis. ({ 9 }) 
+# Sentence pair (88) source length 16 target length 14 alignment score : 1.23754e-13
+Die Niederlande folgen damit den guten Beispielen des Vereinigten Königreichs und der Vereinigten Staaten. 
+NULL ({ }) The ({ 1 }) Netherlands ({ 2 }) is ({ }) thus ({ 3 4 }) following ({ }) the ({ 5 }) good ({ 6 }) examples ({ 7 }) set ({ 8 }) by ({ 12 }) the ({ }) United ({ 9 }) Kingdom ({ }) and ({ 11 }) United ({ 13 }) States. ({ 10 14 }) 
+# Sentence pair (89) source length 4 target length 7 alignment score : 1.87588e-07
+Es kam auch eine Kehrseite zu Tage. 
+NULL ({ }) There ({ 1 2 }) was ({ 3 }) a ({ 4 }) downside. ({ 5 6 7 }) 
+# Sentence pair (90) source length 15 target length 16 alignment score : 4.72204e-16
+Wir fanden heraus, dass die offenen Daten, die über das nationale Portal bereitgestellt wurden, einseitig waren. 
+NULL ({ 8 }) We ({ 1 }) also ({ }) found ({ }) that ({ 4 }) the ({ 5 }) open ({ 6 }) data ({ }) provided ({ 7 13 }) through ({ 9 }) the ({ 10 }) national ({ 11 }) portal ({ 2 3 12 }) was ({ }) one ({ 14 }) sided. ({ 15 16 }) 
+# Sentence pair (91) source length 22 target length 18 alignment score : 3.46529e-14
+Nahezu alle Kollektionen von offenen Daten sind Geodaten, geografische Daten, und fast alle werden von einem Ministerium veröffentlicht. 
+NULL ({ }) Virtual ({ 1 }) virtually ({ }) all ({ 2 }) the ({ }) open ({ 5 }) data ({ 6 }) sets ({ 3 4 }) are ({ }) geo ({ 7 }) data, ({ 8 }) geographical ({ 9 }) data, ({ 10 }) and ({ 11 }) almost ({ 12 }) all ({ 13 }) of ({ }) them ({ 14 }) are ({ }) published ({ }) by ({ }) one ({ }) ministry. ({ 15 16 17 18 }) 
+# Sentence pair (92) source length 20 target length 20 alignment score : 3.08695e-20
+Es liegen nur sehr wenige bedeutungsvolle Daten vor, die für eine öffentliche Kontrolle der Staatsfinanzen und der Regierungsaktivitäten wichtig sind. 
+NULL ({ 9 }) Very ({ 1 }) few ({ 2 6 }) data ({ 7 }) are ({ }) important, ({ 3 4 5 8 }) that ({ }) are ({ }) important ({ }) for ({ 10 }) a ({ 11 }) public ({ 12 }) control ({ 13 }) of ({ 14 }) government ({ }) finances ({ 15 }) and ({ 16 }) government ({ 17 }) activities ({ 18 }) are ({ 19 }) available. ({ 20 }) 
+# Sentence pair (93) source length 24 target length 25 alignment score : 8.25046e-28
+Bei den meisten unserer Schlussfolgerungen sind wir der Ansicht, dass der folgende Punkt bei der Entwicklung der niederländischen Politik der offenen Daten berücksichtigt werden sollte. 
+NULL ({ }) Most ({ 1 2 3 }) of ({ }) our ({ 4 }) conclusions, ({ 5 6 }) we ({ 7 }) believe ({ 9 24 25 }) that ({ 10 }) the ({ 8 }) following ({ 11 12 }) point ({ }) should ({ }) be ({ }) taken ({ }) into ({ }) consideration ({ 13 14 }) for ({ }) the ({ 15 }) development ({ 16 18 19 }) of ({ 17 }) the ({ 20 }) Dutch ({ }) open ({ 21 }) data ({ 22 }) policy. ({ 23 }) 
+# Sentence pair (94) source length 13 target length 13 alignment score : 2.39363e-08
+Die niederländische Regierung sollte daher Ziele und Meilensteine in einem konkreten Aktionsplan definieren. 
+NULL ({ }) Thus ({ 1 }) Dutch ({ 2 }) government ({ 3 }) should ({ 4 }) define ({ 6 }) goals ({ 5 }) and ({ 7 }) milestones ({ 8 }) in ({ 9 }) a ({ }) concrete ({ 10 11 }) action ({ 12 }) plan. ({ 13 }) 
+# Sentence pair (95) source length 12 target length 12 alignment score : 2.75178e-11
+Und wir denken auch, dass das Öffnen von Daten obligatorisch sein sollte. 
+NULL ({ }) And ({ 1 }) we ({ 2 }) also ({ }) think ({ 3 4 }) that ({ 5 }) the ({ 6 }) opening ({ 7 }) of ({ 8 }) data ({ 9 }) should ({ }) be ({ }) mandatory. ({ 10 11 12 }) 
+# Sentence pair (96) source length 9 target length 8 alignment score : 3.00292e-06
+Und die Regierung sollte eine nationale Informationsinfrastruktur ausbauen. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) government ({ 3 }) should ({ 4 }) develop ({ 7 8 }) a ({ }) national ({ 6 }) information ({ }) infrastructure. ({ 5 }) 
+# Sentence pair (97) source length 24 target length 24 alignment score : 9.17957e-22
+Auf dieser Plattform sollte es bestimmt werden, welche Daten die größte gesellschaftliche Bedeutung erlangen und welche Daten auf jeden Fall offene Daten sein sollten. 
+NULL ({ }) On ({ 1 }) which ({ }) em ({ }) will ({ 2 }) be ({ }) determined ({ 3 24 }) what ({ 8 }) data ({ 9 }) are ({ }) the ({ 10 }) grow ({ 11 12 }) greatest ({ 14 }) social ({ }) importance ({ 13 }) and ({ 15 }) what ({ 16 }) data ({ 17 }) should ({ 4 }) in ({ }) any ({ 5 6 18 19 }) event ({ 7 20 }) be ({ 23 }) open ({ 21 }) data. ({ 22 }) 
+# Sentence pair (98) source length 15 target length 16 alignment score : 2.31538e-15
+Und die Regierung hat offene Daten selbst zu verwenden, beispielsweise bei der Dezentralisierung im sozialen Bereich. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) government ({ 3 }) should ({ }) use ({ 4 }) open ({ 5 }) data ({ 6 }) themselves ({ 7 8 9 }) for ({ }) example ({ }) in ({ }) the ({ 12 }) social ({ }) domain ({ 10 11 }) decentralisations. ({ 13 14 15 16 }) 
+# Sentence pair (99) source length 22 target length 21 alignment score : 1.66107e-18
+Dies ist ein großes landesweites Programm in den Niederlanden, bei dem die Verantwortung von der Zentralregierung auf die Gemeinden übertragen wird. 
+NULL ({ 18 }) This ({ 1 }) is ({ 2 }) a ({ 3 }) big ({ 4 }) nationwide ({ 5 }) programme ({ 6 }) in ({ 7 }) the ({ 8 }) Netherlands, ({ 9 }) where ({ 10 }) responsibility ({ 11 }) is ({ }) being ({ 13 }) transferred ({ }) from ({ 14 }) the ({ 12 }) cetr ({ 15 }) central ({ 16 }) government ({ }) to ({ }) to ({ }) municipalities. ({ 17 19 20 21 }) 
+# Sentence pair (100) source length 8 target length 6 alignment score : 1.38896e-06
+Unsere Berichte wirkten sich positiv aus. 
+NULL ({ }) Our ({ 1 }) em ({ }) our ({ }) reports ({ 2 }) had ({ 3 4 }) a ({ }) positive ({ 5 }) impact. ({ 6 }) 
+# Sentence pair (101) source length 17 target length 12 alignment score : 5.92e-18
+Das Innenministerium wird in diesem Monat die Ergebnisse einer regierungsweiten Datenerhebung veröffentlichen. 
+NULL ({ 7 }) The ({ 1 }) Ministry ({ }) of ({ }) Interior ({ 2 }) will ({ 3 }) publish ({ }) results ({ 4 5 6 }) of ({ }) a ({ }) government ({ }) wide ({ 11 }) data ({ }) sets ({ }) data ({ }) survey ({ }) this ({ 8 }) month. ({ 9 10 12 }) 
+# Sentence pair (102) source length 13 target length 10 alignment score : 7.95033e-08
+Und das Repräsentantenhaus akzeptierte den Antrag auf eine nationale Informationsinfrastruktur. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) House ({ 3 }) of ({ }) Representatives ({ 5 }) accepted ({ 4 }) the ({ }) Motion ({ 6 }) for ({ }) a ({ 8 }) national ({ 9 }) information ({ 7 }) infrastructure. ({ 10 }) 
+# Sentence pair (103) source length 18 target length 15 alignment score : 4.80359e-15
+Auf der Grundlage des Datenbestandes wird das Innenministerium eine nationale Agenda für offene Daten aufstellen. 
+NULL ({ }) And ({ }) based ({ }) on ({ }) the ({ 2 }) data ({ }) inventory, ({ 3 6 }) the ({ }) Ministry ({ 7 }) of ({ }) Interior ({ 8 }) will ({ 11 }) set ({ 4 }) up ({ 12 }) a ({ 9 }) national ({ 10 }) open ({ 13 }) data ({ 14 }) agenda. ({ 1 5 15 }) 
+# Sentence pair (104) source length 20 target length 17 alignment score : 2.73183e-16
+Und in dieser Agenda werden sie veröffentlichen, welche Daten geöffnet sein werden und wann sie geöffnet werden. 
+NULL ({ }) And ({ 1 }) in ({ 2 }) that ({ }) agenda ({ 3 5 }) they ({ 6 }) will ({ }) publish ({ }) what ({ 8 }) data ({ 9 }) wi ({ 7 10 11 12 }) em ({ }) will ({ 4 }) be ({ }) open ({ }) and ({ 13 }) when ({ 14 }) they ({ 15 }) will ({ }) open ({ }) it. ({ 16 17 }) 
+# Sentence pair (105) source length 10 target length 9 alignment score : 3.5292e-11
+Wir versuchen auch, uns an einem Beispiel zu orientieren. 
+NULL ({ }) Ehm ({ 1 }) we ({ }) also ({ }) try ({ 9 }) to ({ 8 }) lead ({ 2 3 4 5 6 }) by ({ }) the ({ }) example ({ 7 }) ehm ({ }) 
+# Sentence pair (106) source length 29 target length 20 alignment score : 1.32088e-22
+Wir haben unsere eigenen Aufwendungen auf unserer Website veröffentlicht, damit jedermann sehen kann, wofür der niederländische Rechnungshof sein Geld ausgibt. 
+NULL ({ }) And ({ }) we ({ }) published ({ 2 }) our ({ 3 }) own ({ 4 }) expenditure ({ 5 }) on ({ }) the ({ }) on ({ 6 }) our ({ 7 }) website ({ 8 9 }) so ({ 1 10 }) that ({ }) everyone ({ 11 }) can ({ }) see ({ }) what ({ }) the ({ }) Netherlands ({ }) Court ({ }) of ({ 15 }) Audit ({ 16 17 }) spends ({ 20 }) its ({ }) mone ({ 12 }) spends ({ }) its ({ 18 }) money ({ 19 }) on. ({ 13 14 }) 
+# Sentence pair (107) source length 10 target length 10 alignment score : 1.10437e-09
+Eine solche Form der finanziellen Transparenz nennt man offener Haushalt. 
+NULL ({ }) Such ({ 1 }) a ({ }) form ({ 5 }) of ({ 4 }) financial ({ 3 6 7 8 }) transparency ({ 2 }) is ({ }) called ({ 9 }) open ({ }) spending. ({ 10 }) 
+# Sentence pair (108) source length 19 target length 16 alignment score : 6.90149e-16
+Und das Finanzministerium hat nun geplant, im nächsten Jahr detaillierte Ausgabendaten der Regierung offen zu machen. 
+NULL ({ }) And ({ 1 }) the ({ }) Ministry ({ 2 }) of ({ }) Finance ({ 3 5 6 }) now ({ 4 }) has ({ }) planned ({ 7 8 9 }) to ({ }) open ({ }) up ({ }) detailed ({ 10 }) expenditure ({ 11 }) data ({ }) for ({ }) the ({ 12 }) government ({ 13 }) next ({ 14 }) year. ({ 15 16 }) 
+# Sentence pair (109) source length 1 target length 1 alignment score : 0.772442
+O.K. 
+NULL ({ }) OK. ({ 1 }) 
+# Sentence pair (110) source length 24 target length 23 alignment score : 5.42334e-31
+Wie Sie gesehen haben, reift die Bewegung der offenen Daten in den Niederlanden heran und der niederländische Rechnungshof wird die Fortschritte weiterhin verfolgen. 
+NULL ({ }) As ({ 1 }) you ({ 2 }) have ({ }) seen ({ 3 }) the ({ 8 }) open ({ 9 }) data ({ 10 }) movement ({ 4 5 7 }) in ({ 11 }) the ({ 12 }) Netherlandsis ({ 13 }) maturing ({ 14 }) and ({ 15 }) the ({ 16 }) Netherlands ({ }) Court ({ 17 }) of ({ }) Audit ({ 18 }) will ({ }) continue ({ 21 22 23 }) to ({ }) follow ({ 19 }) the ({ 20 }) progress. ({ 6 }) 
+# Sentence pair (111) source length 5 target length 5 alignment score : 0.000319828
+Vielen Dank für Ihre Aufmerksamkeit. 
+NULL ({ }) Thank ({ 1 }) you ({ }) for ({ 3 }) your ({ 2 4 }) attention. ({ 5 }) 
+# Sentence pair (112) source length 21 target length 19 alignment score : 9.96307e-24
+Und wenn Sie interessiert sind, finden Sie unsere Berichte auf Englisch und unsere Ausgabendaten auf Niederländisch auf unserer Website. 
+NULL ({ }) And ({ 1 }) if ({ 2 }) you ({ 3 }) are ({ }) interested ({ 4 5 6 }) you ({ }) can ({ }) find ({ 7 }) our ({ 8 }) reports ({ 9 }) in ({ }) English ({ 10 11 }) and ({ 12 }) our ({ 13 }) spending ({ 14 }) data ({ }) in ({ }) Dutch ({ }) on ({ 15 17 }) our ({ 18 }) website. ({ 16 19 }) 

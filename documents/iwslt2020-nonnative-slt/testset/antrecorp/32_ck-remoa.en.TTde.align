@@ -1,0 +1,54 @@
+# Sentence pair (1) source length 5 target length 4 alignment score : 0.0593705
+﻿Hallo, schön, Sie kennenzulernen. 
+NULL ({ }) Hello, ({ 2 }) nice ({ 1 }) to ({ }) meet ({ 3 }) you. ({ 4 }) 
+# Sentence pair (2) source length 9 target length 8 alignment score : 7.53213e-05
+Ich würde mich und meine Kollegin gern vorstellen. 
+NULL ({ }) I ({ 2 }) would ({ 1 }) like ({ }) to ({ }) introduce ({ 7 8 }) myself ({ 6 }) and ({ 4 }) my ({ 5 }) colleague. ({ 3 }) 
+# Sentence pair (3) source length 12 target length 10 alignment score : 7.32184e-06
+Mein Name ist <NAME> und ich bin Manager unserer Reiseagentur. 
+NULL ({ }) My ({ 1 }) name ({ 2 }) is ({ }) <NAME> ({ 6 }) and ({ 5 }) I'm ({ 4 10 }) the ({ }) manager ({ 7 }) of ({ }) our ({ 3 }) travel ({ 9 }) agency. ({ 8 }) 
+# Sentence pair (4) source length 8 target length 7 alignment score : 0.000162681
+Und das ist unsere IT-Spezialistin Frau <NAME>. 
+NULL ({ }) And ({ 1 }) this ({ }) is ({ }) our ({ 3 }) IT ({ 2 }) specialist ({ 5 6 }) miss ({ 7 }) <NAME>. ({ 4 }) 
+# Sentence pair (5) source length 4 target length 4 alignment score : 0.00524597
+Freut mich, Sie kennenzulernen. 
+NULL ({ }) Nice ({ 1 2 }) to ({ }) meet ({ 3 }) you. ({ 4 }) 
+# Sentence pair (6) source length 9 target length 9 alignment score : 2.56116e-06
+Wir freuen uns, hier auf dieser Messe zu sein. 
+NULL ({ }) We ({ }) are ({ 1 }) glad ({ 2 }) to ({ 8 }) be ({ 9 }) here ({ 7 }) on ({ 5 6 }) this ({ 4 }) expo. ({ 3 }) 
+# Sentence pair (7) source length 19 target length 14 alignment score : 2.94278e-08
+Wir vertreten unser neunköpfiges Team aus Vlašim und der Name unserer Reiseagentur ist Remoa. 
+NULL ({ }) We ({ }) are ({ 1 }) representing ({ 3 4 }) our ({ 13 }) team ({ 2 }) of ({ }) nine ({ 7 }) people ({ }) from ({ 6 }) Vlašim ({ 5 }) and ({ 8 }) the ({ 9 }) name ({ 10 }) of ({ }) our ({ }) travel ({ 11 }) agency ({ 12 }) is ({ }) Remoa. ({ 14 }) 
+# Sentence pair (8) source length 14 target length 13 alignment score : 3.59768e-11
+Unsere Reiseagentur ist auf Japan-Reisen, vor allem auf die größte Insel Honshu, spezialisiert. 
+NULL ({ 3 }) Our ({ 4 8 }) travel ({ }) agency ({ 2 }) specializes ({ 6 }) in ({ 1 }) travels ({ }) across ({ 9 }) Japan, ({ 7 11 13 }) mainly ({ 5 }) in ({ }) its ({ }) largest ({ 10 }) island ({ 12 }) Honshu. ({ }) 
+# Sentence pair (9) source length 15 target length 24 alignment score : 3.42562e-22
+Unser Ziel ist es, unseren Kunden jeden Wunsch zu erfüllen, auch wenn er noch so herausfordernd ist - wir gehen ihn ganz individuell an. 
+NULL ({ 17 }) We ({ 2 }) aim ({ 1 7 8 }) to ({ 9 }) fulfill ({ 10 }) our ({ 3 }) customers ({ 11 }) every ({ 12 }) wish ({ 5 }) even ({ 4 }) the ({ }) most ({ 6 }) challenging ({ 15 }) with ({ }) individual ({ 13 14 16 18 20 21 22 23 }) approach. ({ 19 24 }) 
+# Sentence pair (10) source length 15 target length 14 alignment score : 3.13363e-10
+Mit uns können Sie viele Gesichter Japans entdecken, wie zum Beispiel das moderne Tokio. 
+NULL ({ }) With ({ 12 }) us, ({ 1 }) you ({ 4 }) can ({ 3 }) discover ({ 2 }) many ({ }) faces ({ 7 }) of ({ }) Japan ({ 10 13 }) like ({ 5 }) the ({ }) modern ({ 6 11 14 }) city ({ }) of ({ }) Tokyo. ({ 8 9 }) 
+# Sentence pair (11) source length 8 target length 5 alignment score : 0.00705745
+Das pulsierende Osaka voller Betonhochhäuser. 
+NULL ({ }) Vibrant ({ 1 }) city ({ }) of ({ }) Osaka ({ 3 }) full ({ 2 }) of ({ }) concrete ({ 4 }) skyscrapers. ({ 5 }) 
+# Sentence pair (12) source length 13 target length 12 alignment score : 7.91673e-05
+Das kulturell reiche Nagoya mit seinem berühmten Schloss aus dem 17. Jahrhundert. 
+NULL ({ }) Culture ({ 4 }) rich ({ 2 }) city ({ 1 }) of ({ }) Nagoya ({ 6 }) with ({ 5 }) its ({ 3 }) famous ({ 8 }) castle ({ 7 }) from ({ 9 }) the ({ 10 }) seventeenth ({ 11 }) century. ({ 12 }) 
+# Sentence pair (13) source length 8 target length 8 alignment score : 0.00351279
+Hakone mit japanischen Spas unter dem Berg Fuji. 
+NULL ({ }) Hakone ({ 1 }) with ({ 2 }) Japanese ({ 3 }) spas ({ 5 }) under ({ 8 }) the ({ 6 }) mountain ({ 7 }) Fuji. ({ 4 }) 
+# Sentence pair (14) source length 8 target length 10 alignment score : 2.92222e-05
+Und Nikko mit seiner atemberaubenden Natur und den wunderschönen Schreinen. 
+NULL ({ }) And ({ 1 }) Nikko ({ 4 }) with ({ 3 }) breathtaking ({ 5 6 9 }) nature ({ 2 }) and ({ 7 }) beautiful ({ 8 }) shrines. ({ 10 }) 
+# Sentence pair (15) source length 10 target length 7 alignment score : 0.00172546
+Entdecken Sie mit uns das erstaunliche Japan. 
+NULL ({ }) So ({ }) let's ({ 6 }) discover ({ 4 }) with ({ 3 }) us ({ 2 }) the ({ }) amazing ({ 5 }) country ({ 1 }) of ({ }) Japan. ({ 7 }) 
+# Sentence pair (16) source length 6 target length 5 alignment score : 0.004645
+Das Land der aufgehenden Sonne. 
+NULL ({ }) The ({ 5 }) land ({ 2 }) of ({ 1 }) the ({ }) rising ({ 4 }) sun. ({ 3 }) 
+# Sentence pair (17) source length 4 target length 4 alignment score : 0.0270501
+So anders, so reizvoll. 
+NULL ({ }) So ({ 1 }) different, ({ 2 }) so ({ 3 }) attractive. ({ 4 }) 
+# Sentence pair (18) source length 4 target length 4 alignment score : 0.0661617
+Danke für Ihre Aufmerksamkeit. 
+NULL ({ }) Thanks ({ 1 }) for ({ 2 }) your ({ 3 }) attention. ({ 4 }) 

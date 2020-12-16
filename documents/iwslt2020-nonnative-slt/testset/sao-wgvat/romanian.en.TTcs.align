@@ -1,0 +1,111 @@
+# Sentence pair (1) source length 6 target length 4 alignment score : 0.000767533
+Máte nějaké další dotazy? 
+NULL ({ }) Any ({ }) more ({ 2 }) questions ({ 3 4 }) from ({ }) your ({ }) side? ({ 1 }) 
+# Sentence pair (2) source length 12 target length 10 alignment score : 3.91209e-07
+Pokud ne, rád bych požádal o slovo naše rumunské kolegy. 
+NULL ({ }) If ({ 7 8 }) not ({ }) then ({ 10 }) I ({ }) would ({ 6 }) kindly ({ 4 }) invite ({ 5 }) our ({ }) Romanian ({ 3 }) colleagues ({ 9 }) to ({ }) proceed. ({ 1 2 }) 
+# Sentence pair (3) source length 2 target length 3 alignment score : 0.00586301
+Dobře, dobrý den. 
+NULL ({ }) Ok, ({ 1 }) hello. ({ 2 3 }) 
+# Sentence pair (4) source length 4 target length 4 alignment score : 0.00391002
+Slyšíte mě všichni dobře? 
+NULL ({ }) Can ({ 4 }) you ({ 1 }) hear ({ 2 }) me? ({ 3 }) 
+# Sentence pair (5) source length 1 target length 1 alignment score : 0.659352
+Ano? 
+NULL ({ }) Yeah? ({ 1 }) 
+# Sentence pair (6) source length 19 target length 11 alignment score : 6.93975e-09
+Takže v Rumunsku máme již dva roky zavedenou devatenácti procentní DPH. 
+NULL ({ }) So ({ }) in ({ 2 }) Romania ({ }) we ({ }) still ({ 3 }) have ({ }) the ({ }) nineteen ({ 9 }) percent ({ }) VAT ({ 1 }) tax, ({ 10 }) that ({ }) we ({ 4 }) had ({ 8 }) for ({ }) the ({ }) last ({ 5 }) two ({ 6 }) years. ({ 7 11 }) 
+# Sentence pair (7) source length 20 target length 13 alignment score : 3.45748e-10
+A ačkoliv se objevily plány na snížení na osmnáct procent, byly prozatím odloženy. 
+NULL ({ }) And ({ }) even ({ 4 }) though ({ 12 }) there ({ 6 }) were ({ 11 }) plans ({ }) to, ({ 8 }) for ({ }) it ({ }) to ({ }) drop ({ 3 }) to ({ }) eighteen ({ 9 }) percent, ({ 5 }) this ({ 7 }) has ({ }) been ({ }) postponed ({ 2 10 13 }) for ({ }) now. ({ 1 }) 
+# Sentence pair (8) source length 15 target length 12 alignment score : 1.39987e-11
+Vedle toho máme dvě snížené sazby DPH, devět procent a pět procent. 
+NULL ({ }) Beside ({ 1 4 }) that ({ }) we ({ 3 }) have ({ }) two ({ }) reduced ({ 2 }) VAT ({ }) rates, ({ 5 7 }) the ({ }) nine ({ 8 9 }) percent ({ 6 }) and ({ 10 }) the ({ }) five ({ 11 }) percent. ({ 12 }) 
+# Sentence pair (9) source length 19 target length 16 alignment score : 6.77855e-16
+V uplynulém roce došlo k několika změnám, pokud jde o výrobky, které mohou mít sníženou sazbu. 
+NULL ({ }) And ({ }) the ({ }) the ({ }) past ({ 1 }) year ({ 2 3 4 }) have ({ 5 }) been ({ }) some ({ 9 10 }) changes ({ 6 11 }) regarding ({ 8 }) the ({ }) the ({ }) products ({ 7 }) that ({ 12 }) can ({ 13 14 15 }) have ({ }) the ({ }) reduced ({ }) rate. ({ 16 }) 
+# Sentence pair (10) source length 24 target length 21 alignment score : 5.10077e-20
+Největší změnou tedy kanalizační služby, kde došlo počínaje prvním lednem tohoto roku ke snížení sazby z devatenácti procent na devět procent. 
+NULL ({ }) So ({ }) we ({ }) have ({ }) the ({ }) biggest ({ 7 }) change ({ 8 9 }) was ({ 10 }) with ({ 19 }) sewage ({ 1 }) that ({ }) was ({ 2 }) changed ({ 5 6 }) from ({ 16 }) nineteen ({ 17 }) percent ({ 15 }) to ({ }) nine ({ 18 20 }) percent ({ 21 }) starting ({ 3 4 }) first ({ }) of ({ }) January ({ }) this ({ 14 }) year. ({ 11 12 13 }) 
+# Sentence pair (11) source length 5 target length 4 alignment score : 0.00290317
+Ostatní položky zůstávají nezměněny. 
+NULL ({ }) The ({ }) others ({ 2 3 }) remained ({ 4 }) the ({ }) same. ({ 1 }) 
+# Sentence pair (12) source length 28 target length 27 alignment score : 1.28564e-25
+Naproti tomu u pětiprocentní sazby došlo k mnoha změnám, hlavně u některých výrobků, které byly na devíti procentech a nyní došlo k jejich přeřazení na pět procent. 
+NULL ({ 19 }) And ({ }) for ({ 13 }) the ({ }) five ({ 4 }) percent ({ 5 }) there ({ 16 25 }) were ({ 8 }) bit, ({ 2 3 }) a ({ 20 }) lot ({ 10 }) of ({ 6 21 }) changes, ({ 11 12 }) mainly ({ 1 }) some ({ }) of ({ }) the ({ }) products ({ 9 }) that ({ 7 14 }) were ({ 15 }) at ({ 17 18 }) nine ({ }) percent ({ }) have ({ 22 }) been ({ }) dropped ({ 23 }) to ({ }) five ({ 24 26 }) percent. ({ 27 }) 
+# Sentence pair (13) source length 26 target length 24 alignment score : 1.50159e-21
+K největší změně došlo naposledy 1. června letošního roku; tato změna se, týkala vysoce kvalitních potravin a horských produktů a také a tradičních výrobků. 
+NULL ({ }) The ({ 3 }) biggest ({ 4 }) one ({ 10 }) was, ({ 5 6 7 8 9 }) the ({ }) last ({ }) one ({ }) was ({ }) from ({ }) the ({ }) first ({ 2 }) of ({ }) June ({ }) this ({ }) year, ({ 1 }) regarding ({ }) high ({ 12 }) quality ({ 13 14 15 16 }) foods, ({ 11 }) and ({ 17 }) mountain ({ 18 }) products, ({ 21 }) equal, ({ 20 }) and ({ 22 }) traditional ({ 19 }) products. ({ 23 24 }) 
+# Sentence pair (14) source length 28 target length 21 alignment score : 7.56266e-24
+A pro výrobky vyráběny na horách platí, že krávy nebo ovce, které je produkují, tam musí žít alespoň polovinu svého života. 
+NULL ({ }) And ({ }) for ({ }) that ({ 12 }) the ({ }) products ({ }) have ({ }) to ({ }) be ({ }) manufactured ({ 2 }) on ({ 13 }) a ({ }) mountain ({ }) or ({ }) like ({ }) the ({ }) cows ({ 11 }) or ({ 3 4 14 15 }) the ({ }) sheep ({ 10 }) have ({ 1 }) to ({ 16 }) live ({ 17 }) there ({ 5 }) at ({ }) least ({ 6 }) half ({ 7 18 }) their ({ 8 9 19 }) lifes. ({ 20 21 }) 
+# Sentence pair (15) source length 16 target length 8 alignment score : 3.40285e-08
+Výrobce jim musí sehnat oprávnění, osvědčení ministra zemědělství. 
+NULL ({ }) And ({ }) the ({ }) the ({ }) manufacturer ({ 4 5 6 7 8 }) has ({ }) to ({ }) get ({ }) them ({ }) authorisation, ({ }) a ({ }) certificate ({ 3 }) from ({ }) the ({ }) Minister ({ 2 }) of ({ }) Agriculture. ({ 1 }) 
+# Sentence pair (16) source length 8 target length 6 alignment score : 8.51424e-06
+Pak bude moci uplatnit sníženou sazbu. 
+NULL ({ }) So ({ }) that ({ }) he ({ 3 4 }) can ({ 5 }) apply ({ 1 2 }) the ({ }) reduced ({ }) rate. ({ 6 }) 
+# Sentence pair (17) source length 8 target length 7 alignment score : 5.01512e-07
+Pak tady máme mechanismus přenesené daňové povinnosti. 
+NULL ({ }) Next ({ 1 }) we ({ 3 }) have ({ }) like ({ }) the ({ }) reversed ({ 2 4 }) tax ({ }) mechanism. ({ 5 6 7 }) 
+# Sentence pair (18) source length 13 target length 17 alignment score : 1.12928e-18
+V Rumunsku platí, že k tomu, aby bylo možno tento systém používat, musí být obě společnosti zaregistrované. 
+NULL ({ 11 }) In ({ 17 }) Romania, ({ 6 }) both ({ 7 8 9 10 }) companies ({ 1 }) have ({ 5 }) to ({ }) be ({ 14 }) registered ({ 4 }) in ({ }) order ({ 2 12 }) to ({ 3 13 16 }) be ({ }) applicable. ({ 15 }) 
+# Sentence pair (19) source length 30 target length 28 alignment score : 5.26282e-27
+Existuje čtrnáct výrobků, pro které to lze zkrátit, a v prosinci dva tisíce osmnáct musela být pro některé z nich je lhůta prodloužena až do roku dvacet dva. 
+NULL ({ 5 }) There ({ 1 4 7 20 }) are ({ 21 }) fourteen ({ 2 8 22 }) products ({ 3 }) for ({ }) which ({ 19 }) it ({ }) can ({ }) be ({ }) reduced ({ }) and ({ 9 }) in ({ 10 }) December ({ 11 }) two ({ 12 }) thousand ({ 13 }) eighteen ({ 14 }) for ({ }) some ({ }) of ({ }) them ({ }) the ({ }) the ({ }) deadline ({ 23 24 25 26 27 28 }) has ({ }) be ({ 16 }) prolonged ({ 15 }) until ({ 17 }) twenty ({ }) twenty ({ 18 }) two. ({ 6 }) 
+# Sentence pair (20) source length 29 target length 27 alignment score : 4.97333e-22
+A nakonec systém rozdělení daně z přidané hodnoty, který byl zaveden v roce dva tisíce sedmnáct, ačkoliv nyní to vypadá, že na něj ministerstvo financí poněkud pozapomnělo. 
+NULL ({ }) Finally, ({ 3 }) we ({ }) also ({ 6 }) have ({ 1 }) the ({ }) split ({ 2 4 5 }) VAT ({ }) system, ({ 16 }) which ({ }) was ({ }) introduced ({ 11 17 }) in ({ 12 }) two ({ 14 }) thousand ({ 15 }) seventeen, ({ 9 }) although ({ 10 }) now ({ 18 }) it ({ 19 }) kind ({ 7 8 }) of ({ }) looks ({ 23 }) a ({ }) bit ({ 22 }) abandoned ({ 25 }) by ({ 26 27 }) the ({ 13 }) Ministry ({ 21 24 }) of ({ }) Finance. ({ 20 }) 
+# Sentence pair (21) source length 26 target length 28 alignment score : 1.18427e-23
+V roce dva tisíce sedmnáct to totiž začalo s více než čtyřmi sty společností a nyní v roce dva tisíce devatenáct jejich počet klesl na čtyřicet šest procent. 
+NULL ({ }) Because ({ 7 }) it ({ }) started ({ }) with ({ }) four ({ 5 6 }) hundred ({ }) plus ({ 8 9 10 11 12 13 14 }) companies ({ 1 }) in ({ 2 }) two ({ 3 }) thousand ({ 4 }) seventeen ({ }) and ({ 15 }) now ({ 16 }) in ({ 17 }) two ({ 19 }) thousand ({ 20 }) nineteen ({ 21 }) the ({ 18 }) number ({ 24 }) dropped ({ 22 }) to, ({ 25 }) by, ({ 23 }) forty ({ 26 }) six ({ 27 }) percent. ({ 28 }) 
+# Sentence pair (22) source length 12 target length 13 alignment score : 1.5525e-10
+Navíc v roce dva tisíce osmnáct nezačaly tento systém používat žádné nové společnosti. 
+NULL ({ }) Like ({ 10 }) no ({ 11 }) new ({ 12 13 }) companies ({ }) started ({ }) using ({ 8 }) the ({ 3 }) system ({ 9 }) in ({ 2 }) two ({ 4 }) thousand ({ 5 }) eighteen. ({ 1 6 7 }) 
+# Sentence pair (23) source length 20 target length 21 alignment score : 5.18541e-25
+Takže všechny společnosti, které s tím začínaly, se od té doby začaly od tohoto systému vracet zpět k normálnímu systému DPH. 
+NULL ({ }) So ({ }) all ({ 17 }) the ({ }) companies ({ }) that ({ 4 18 }) started ({ 3 5 19 }) initially ({ 6 7 8 9 10 11 12 13 }) have ({ }) since ({ 14 }) started ({ }) dropping ({ 2 }) the ({ }) system ({ }) and ({ }) returning ({ 16 }) to ({ }) the ({ }) normal ({ 15 20 21 }) VAT ({ 1 }) system. ({ }) 
+# Sentence pair (24) source length 13 target length 10 alignment score : 1.28507e-09
+Evropská komise navíc nařídila Rumunsku, aby tento systém přestalo používat. 
+NULL ({ }) Plus ({ 10 }) the ({ }) the ({ }) European ({ 1 }) Commission ({ 2 6 }) did ({ 3 4 5 }) the ({ }) Romania ({ }) to ({ }) stop ({ 8 9 }) using ({ 7 }) this ({ }) system. ({ }) 
+# Sentence pair (25) source length 19 target length 18 alignment score : 1.24842e-16
+Zdá se tedy, že systém nesplnil, co se od něj očekávalo, takže jej ministerstvo pravděpodobně přestane úplně využívat. 
+NULL ({ }) So ({ }) it ({ }) looks ({ 10 }) like ({ }) it ({ }) hasn't ({ 3 7 8 9 }) reached ({ }) its ({ 2 6 }) potential ({ 11 }) so ({ 1 12 }) the ({ }) Ministry ({ 14 }) is ({ 13 }) probably ({ 15 }) gonna ({ 4 }) stop ({ 5 }) using ({ }) it ({ }) altogether. ({ 16 17 18 }) 
+# Sentence pair (26) source length 1 target length 1 alignment score : 0.813758
+Úplně? 
+NULL ({ }) Totally? ({ 1 }) 
+# Sentence pair (27) source length 30 target length 24 alignment score : 2.92096e-19
+Vycházím z údajů, které máme k dispozici, protože v roce dva tisíce osmnáct ani v roce dva tisíce devatenáct nebyly zaregistrovány žádné nové společnosti. 
+NULL ({ 16 }) This ({ 1 }) is ({ 8 }) from ({ }) the ({ }) data ({ 7 }) that ({ 4 6 }) we ({ 5 }) have, ({ }) I ({ 3 }) mean, ({ 21 }) like ({ }) no ({ 22 }) new ({ 23 24 }) companies ({ 10 }) have ({ }) been ({ }) registered ({ }) in ({ 9 }) two ({ 11 }) thousand ({ 12 }) eighteen ({ 13 }) and ({ }) not, ({ 20 }) and ({ }) also ({ 2 }) not ({ 14 }) in ({ 15 }) two ({ 17 }) thousand ({ 18 }) nineteen. ({ 19 }) 
+# Sentence pair (28) source length 20 target length 18 alignment score : 4.37659e-15
+V systému jsou tedy pouze společnosti, které začínaly v roce dva tisíce sedmnáct, a jejich počet pomalu klesá. 
+NULL ({ }) So ({ }) only ({ 6 8 }) the ({ }) companies ({ 10 }) that ({ 7 }) started ({ }) in ({ 9 }) two ({ 11 }) thousand ({ 12 }) seventeen ({ }) are ({ 3 }) in ({ }) the ({ }) system, ({ 13 }) and ({ 14 }) they're ({ 5 15 }) slowly ({ 2 16 }) decreasing ({ 4 17 18 }) in ({ }) numbers. ({ 1 }) 
+# Sentence pair (29) source length 29 target length 30 alignment score : 9.00925e-31
+Pokud jde o všechna tato zjištění, stále existují určité regulační mezery, pokud jde o systém MOSS, který je v Rumunsku z nějakého důvodu označován jako M1SS, protože jej tak přeložili. 
+NULL ({ }) Regarding ({ 17 }) all ({ }) that ({ }) findings ({ 1 }) there ({ }) are ({ 18 }) still ({ 20 }) some ({ 2 3 }) regulatory ({ 16 }) gaps, ({ 4 }) regarding ({ 12 13 14 }) the ({ }) MOSS ({ }) system ({ 15 }) which ({ 21 }) in ({ 19 }) Romania ({ }) is ({ }) M ({ 10 }) one ({ 5 }) SS ({ 6 7 8 9 }) for ({ }) some ({ }) reason ({ 11 }) because ({ }) they ({ }) translated ({ }) the ({ }) one. ({ 22 23 24 25 26 27 28 29 30 }) 
+# Sentence pair (30) source length 5 target length 5 alignment score : 0.000574981
+Ale takhle to prostě je. 
+NULL ({ }) But ({ 2 }) that's ({ 3 }) how ({ 4 5 }) it ({ }) was. ({ 1 }) 
+# Sentence pair (31) source length 22 target length 18 alignment score : 4.21811e-21
+Navíc nám na finančních úřadech chybí IT systémy, které by dokázaly mezi sebou spolupracovat a vyměňovat si data. 
+NULL ({ 9 }) And ({ }) also ({ }) there's, ({ 2 }) there ({ }) are, ({ 1 }) lacks ({ }) in ({ }) the ({ }) IT ({ }) systems ({ 14 }) with ({ 3 }) the, ({ }) in ({ }) the, ({ }) tax ({ 4 }) department ({ 5 6 7 8 10 11 12 13 }) cooperating ({ 16 }) between ({ }) themselves ({ 18 }) and ({ 15 }) exchanging ({ }) data. ({ 17 }) 
+# Sentence pair (32) source length 25 target length 18 alignment score : 4.19099e-18
+Což společnostem situaci nijak nezjednoduší a v loňském roce jsme konečně zavedli elektronický systém, jaký mají v Belgii. 
+NULL ({ }) Which ({ 1 }) doesn't ({ 8 }) make ({ 2 3 4 10 11 12 13 }) it ({ }) easier ({ 7 }) for ({ }) companies, ({ 9 }) and ({ 6 }) the ({ }) the ({ }) last ({ }) year ({ }) they ({ }) finally ({ 14 15 }) introduced ({ }) the ({ }) electronic ({ 16 }) machine, ({ }) a ({ }) machine, ({ }) like ({ }) the ({ }) ones ({ 5 }) in ({ 17 }) Belgium. ({ 18 }) 
+# Sentence pair (33) source length 32 target length 22 alignment score : 8.98643e-20
+Zavedli elektronické registrační pokladny a společnosti jsou nyní povinny je začít používat, takže finanční úřady kontrolují, zda je mají všechny společnosti nainstalované. 
+NULL ({ }) They ({ }) set ({ }) the ({ }) electronic ({ 19 }) cash ({ 22 }) registers ({ 21 }) and ({ }) the ({ }) companies ({ }) are ({ 7 }) now ({ 8 }) obligated ({ 9 }) to ({ }) start ({ 20 }) using ({ }) them ({ 10 }) so ({ }) the ({ }) tax ({ }) the ({ }) tax ({ }) authorities ({ 15 }) going ({ }) and ({ 5 }) controlling ({ 6 }) them ({ 18 }) to ({ }) see ({ 16 }) if ({ 17 }) everybody ({ 1 }) installed ({ 14 }) them. ({ 2 3 4 11 12 13 }) 
+# Sentence pair (34) source length 29 target length 17 alignment score : 2.35067e-14
+Prozatím si však nejsme jisti, zda je systém kvůli limitům v IT systému finančních úřadů plně funkční. 
+NULL ({ }) But ({ }) for ({ }) now ({ }) it's ({ 1 2 }) we ({ }) are ({ 7 }) not ({ }) really ({ 3 4 }) sure ({ 5 }) if ({ 6 }) the ({ }) system ({ 8 }) is ({ }) fully ({ 10 }) operational ({ 9 }) because ({ }) of ({ }) limits ({ 14 }) in ({ 11 }) the ({ }) IT ({ 12 }) system ({ 13 }) on ({ }) the ({ }) part ({ }) of ({ }) the ({ }) tax ({ }) department. ({ 15 16 17 }) 
+# Sentence pair (35) source length 12 target length 7 alignment score : 3.96496e-07
+A zatím nebyly zjištěny žádné nové trendy. 
+NULL ({ }) And ({ }) no ({ 5 }) new ({ 6 }) trends ({ }) have ({ }) been ({ 3 }) have ({ }) been ({ }) identified ({ 4 }) as ({ 2 7 }) of ({ }) now. ({ 1 }) 
+# Sentence pair (36) source length 3 target length 5 alignment score : 3.21214e-05
+Takže, to by bylo vše. 
+NULL ({ }) So ({ }) that's ({ 2 }) it. ({ 1 3 4 5 }) 
+# Sentence pair (37) source length 2 target length 1 alignment score : 0.280205
+Děkuji. 
+NULL ({ }) Thank ({ 1 }) you. ({ }) 

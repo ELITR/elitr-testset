@@ -1,0 +1,39 @@
+# Sentence pair (1) source length 15 target length 14 alignment score : 9.23316e-12
+Dobrý den, jmenuji se <NAME> a jsem ředitelem firmy Devil chocolate s.r.o. z Vlašimi. 
+NULL ({ }) Hello, ({ 3 4 12 }) my ({ 13 }) name ({ 14 }) is ({ 5 }) and ({ 6 }) I ({ 2 7 8 9 }) am ({ }) the ({ 1 }) director ({ }) of ({ }) Devil ({ 10 }) chocolate ({ }) limited ({ 11 }) in ({ }) Vlašim. ({ }) 
+# Sentence pair (2) source length 4 target length 4 alignment score : 0.00275745
+Toto je moje asistentka. 
+NULL ({ }) This ({ 1 }) is ({ }) my ({ 3 }) assistant. ({ 2 4 }) 
+# Sentence pair (3) source length 7 target length 6 alignment score : 7.10484e-06
+Rádi bychom vám představili naši společnost. 
+NULL ({ }) We ({ }) would ({ 3 4 5 }) like ({ }) to ({ }) introduce ({ 1 2 }) our ({ }) company. ({ 6 }) 
+# Sentence pair (4) source length 13 target length 9 alignment score : 1.95384e-08
+Naše společnost byla založena prvního října dva tisíce osmnáct. 
+NULL ({ }) Our ({ }) company ({ 2 }) was ({ 1 }) founded ({ 7 }) of ({ }) the ({ }) first ({ 9 }) of ({ }) October ({ }) two ({ 8 }) thousand ({ }) and ({ }) eighteen. ({ 3 4 5 6 }) 
+# Sentence pair (5) source length 15 target length 15 alignment score : 2.76207e-13
+Máme šest zaměstnanců: já, moje asistentka a lidé z oddělení účetnictví, marketingu, prodeje a IT. 
+NULL ({ }) There ({ 13 }) are ({ 14 }) six ({ 15 }) employees, ({ }) me, ({ }) my ({ 5 9 }) assistant ({ 6 10 }) and ({ 1 }) departments ({ 2 }) of ({ }) accounting, ({ 8 }) marketing, ({ 4 12 }) sales ({ }) and ({ 7 }) IT. ({ 3 11 }) 
+# Sentence pair (6) source length 6 target length 3 alignment score : 0.023744
+Máme širokou nabídku. 
+NULL ({ }) We ({ }) have ({ 1 }) wide ({ 2 }) selection ({ }) of ({ }) them. ({ 3 }) 
+# Sentence pair (7) source length 19 target length 18 alignment score : 1.56792e-15
+Specializujeme se na různé produkty a máme čokolády s různými příchutěmi jako je citron, černý rybíz nebo nugát. 
+NULL ({ }) We ({ }) specialized ({ 10 }) in ({ 8 9 }) some ({ }) products ({ }) and ({ }) we ({ 7 }) have ({ }) chocolate ({ }) in ({ }) different ({ 11 }) flavours ({ 2 }) such ({ 12 }) as ({ 1 }) lemon, ({ 3 }) black ({ 13 14 15 }) currant ({ 4 }) and ({ 6 }) nougat. ({ 5 16 17 18 }) 
+# Sentence pair (8) source length 25 target length 20 alignment score : 1.84217e-17
+Máme také čokoládové nápoje, například čokoládové víno a Bailey's a další speciality jsou čokolády s kousky akátu, mandlí a kokosu. 
+NULL ({ }) We ({ 8 10 19 }) also ({ 2 }) have ({ 1 }) chocolate ({ }) drinks, ({ 3 6 }) for ({ }) example ({ 5 }) chocolate ({ }) wine ({ 7 }) and ({ }) baileys ({ 20 }) and ({ }) some ({ }) specialties ({ 4 }) like ({ }) locust ({ }) in ({ }) chocolate, ({ 16 }) almonds ({ }) in ({ }) chocolate ({ 9 11 12 13 }) and ({ }) coconuts ({ 18 }) in ({ 14 15 }) chocolate. ({ 17 }) 
+# Sentence pair (9) source length 8 target length 7 alignment score : 1.19392e-06
+Máme připravené speciální slevy pro naše zákazníky. 
+NULL ({ }) For ({ }) our ({ }) costumers ({ }) we ({ }) prepared ({ 5 }) some ({ 1 }) special ({ 2 }) discounts. ({ 3 4 6 7 }) 
+# Sentence pair (10) source length 12 target length 11 alignment score : 5.503e-08
+Můžete nás sledovat na sociálních sítích například na Facebooku a Instagramu. 
+NULL ({ }) You ({ 1 }) can ({ 2 }) follow ({ 3 }) us ({ 4 8 }) on ({ }) social ({ 9 }) networks, ({ }) for ({ }) example ({ 7 }) Facebook ({ 5 }) and ({ 10 }) Instagram. ({ 6 11 }) 
+# Sentence pair (11) source length 19 target length 17 alignment score : 1.05843e-14
+Máme také webové stránky a e-shop a můžete nás kontaktovat na naší e-mailové adrese nebo telefonním čísle. 
+NULL ({ }) We ({ 7 }) also ({ 2 }) have ({ 1 }) our ({ }) website ({ 3 }) and ({ 5 }) e-shop ({ 6 14 16 }) and ({ }) you ({ 8 10 }) can ({ 9 }) contact ({ }) us ({ 11 }) on ({ }) our ({ }) email ({ }) or ({ }) phone ({ 4 13 15 }) number ({ 12 }) too. ({ 17 }) 
+# Sentence pair (12) source length 5 target length 4 alignment score : 0.00463314
+Děkuji vám za pozornost. 
+NULL ({ }) Thank ({ 1 }) you ({ }) for ({ }) your ({ 4 }) attention. ({ 2 3 }) 
+# Sentence pair (13) source length 6 target length 8 alignment score : 1.26935e-06
+Jsme Devil Chocolate a jsme tu pro vás. 
+NULL ({ }) We ({ 4 }) are ({ 1 }) Devil ({ 2 }) Chocolate ({ 5 8 }) for ({ 3 }) you. ({ 6 7 }) 

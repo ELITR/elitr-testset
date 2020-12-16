@@ -1,0 +1,21 @@
+# Sentence pair (1) source length 4 target length 3 alignment score : 0.00780126
+Jmenuji se <NAME>. 
+NULL ({ }) My ({ 1 3 }) name ({ }) is ({ }) <NAME>. ({ 2 }) 
+# Sentence pair (2) source length 13 target length 12 alignment score : 1.75823e-09
+A rád bych vám představil naši fiktivní firmu nazvanou Tobacco Shop Ltd. 
+NULL ({ }) And ({ 11 }) I'd ({ }) like ({ 3 5 8 }) to ({ 4 }) introduce ({ }) you ({ }) our ({ }) fiction ({ 7 }) company ({ 10 }) named ({ 2 6 9 }) Tobacco ({ 12 }) Shop ({ }) LTD. ({ 1 }) 
+# Sentence pair (3) source length 18 target length 10 alignment score : 5.18431e-10
+Jsme údajně první a poslední fiktivní firma s tímto zaměřením. 
+NULL ({ }) We ({ }) were ({ }) fir... ({ }) told ({ }) to ({ }) be ({ }) the ({ 4 }) first ({ }) fiction ({ 6 }) firm ({ }) with ({ 3 8 9 }) this ({ 7 }) certain ({ 5 }) theme ({ }) and ({ }) also ({ 1 2 }) the ({ }) last. ({ 10 }) 
+# Sentence pair (4) source length 19 target length 15 alignment score : 8.53826e-35
+Specializujeme se na prodej tabákových výrobků, jako jsou cigarety, doutníky, žvýkací tabák, dýmky a další. 
+NULL ({ 14 }) We ({ 6 13 }) specialize ({ 15 }) on ({ }) z... ({ }) selling ({ }) the ({ }) tobacco ({ 5 }) products ({ 7 }) like ({ }) cigarettes, ({ 1 3 4 }) cigars, ({ }) chewing ({ 9 }) tobacco, ({ 2 }) pipes ({ }) and ({ }) the ({ 8 }) others ({ 10 11 12 }) at ({ }) us. ({ }) 
+# Sentence pair (5) source length 14 target length 13 alignment score : 9.69049e-14
+Všichni, kterým už bylo osmnáct let, u nás najdou různé druhy tabákových produktů. 
+NULL ({ }) Everyone ({ }) above ({ }) eighteen ({ 1 }) may ({ }) find ({ }) at ({ 3 6 9 }) us ({ 4 7 10 13 }) a ({ }) different ({ }) species ({ }) of ({ 2 5 8 11 }) the ({ }) tobacco ({ 12 }) products. ({ }) 
+# Sentence pair (6) source length 8 target length 5 alignment score : 4.60079e-05
+Nabízíme je v nejvyšší kvalitě. 
+NULL ({ }) We ({ }) offer ({ 3 4 5 }) you ({ }) the ({ }) highest ({ 1 }) quality ({ 2 }) of ({ }) them. ({ }) 
+# Sentence pair (7) source length 17 target length 16 alignment score : 1.63531e-39
+Naši zaměstnanci jsou velmi ochotní a vždy připravení, aby vám poradili a doporučili ty nejlepší výrobky. 
+NULL ({ 6 12 }) Our ({ }) employees ({ }) are ({ 1 }) very ({ }) helpful ({ 2 }) and ({ }) always ({ }) ready ({ }) to ({ 10 }) guide ({ 5 8 11 14 16 }) you ({ 4 }) and ({ 15 }) recommend ({ }) you ({ 7 9 13 }) the ({ 3 }) best ({ }) product ({ }) 

@@ -1,0 +1,51 @@
+# Sentence pair (1) source length 1 target length 2 alignment score : 0.0715776
+Dobrý den! 
+NULL ({ }) Hi! ({ 1 2 }) 
+# Sentence pair (2) source length 1 target length 2 alignment score : 0.0715776
+Dobrý den! 
+NULL ({ }) Hi! ({ 1 2 }) 
+# Sentence pair (3) source length 7 target length 4 alignment score : 0.00315524
+Pracujete pro cestovní kancelář? 
+NULL ({ }) Do ({ 2 }) you ({ }) work ({ }) in ({ }) a ({ }) travel ({ 3 }) agency? ({ 1 4 }) 
+# Sentence pair (4) source length 5 target length 5 alignment score : 0.00170672
+Všiml jsem si vaší jmenovky. 
+NULL ({ }) Because ({ 1 3 }) I ({ }) saw ({ 4 }) your ({ 2 }) tag. ({ 5 }) 
+# Sentence pair (5) source length 13 target length 11 alignment score : 3.01744e-07
+Ano, pracuji v cestovní kanceláři Magic Travel u nás v Benátkách. 
+NULL ({ }) Yes ({ 6 7 8 }) I ({ }) work ({ }) for ({ 9 }) a ({ }) travel ({ 4 }) agency ({ 5 }) back ({ 3 10 }) in ({ }) Venice ({ 2 }) called ({ 11 }) Magic ({ }) Travel. ({ 1 }) 
+# Sentence pair (6) source length 11 target length 5 alignment score : 0.001014
+Plánoval jsem zájezd s přítelkyní. 
+NULL ({ }) I ({ }) was ({ }) planning ({ 4 }) on ({ }) organizing ({ 5 }) our ({ }) tour ({ 1 }) with ({ 2 }) my ({ 3 }) new ({ }) girlfriend. ({ }) 
+# Sentence pair (7) source length 21 target length 16 alignment score : 2.27105e-16
+Nabízíme romantické zájezdy, ale pokud jste pár, co vyhledává dobrodružství, nabízíme také sportovní a kulinářské zájezdy. 
+NULL ({ }) We ({ }) do ({ }) offer ({ }) romantic ({ }) tours ({ 1 }) but ({ }) if ({ 2 }) you ({ }) are ({ }) more ({ }) of ({ }) an ({ }) adventurous ({ }) couple ({ 3 }) we ({ 13 }) also ({ 4 }) offer ({ 15 }) sport ({ 5 6 7 8 9 10 11 12 }) and ({ 14 }) culinary ({ 16 }) tourism. ({ }) 
+# Sentence pair (8) source length 7 target length 4 alignment score : 0.00137532
+Jsme spíše romantická dvojice. 
+NULL ({ }) We ({ }) are ({ }) more ({ 3 }) of ({ 2 }) a ({ }) romantic ({ }) couple. ({ 1 4 }) 
+# Sentence pair (9) source length 8 target length 7 alignment score : 5.16925e-06
+Nabízíme zájezdy do Ruska, Španělska a Anglie. 
+NULL ({ }) We ({ }) offer ({ }) tours ({ 1 }) in ({ }) Russia, ({ 2 }) Spain ({ 3 4 7 }) and ({ 6 }) England. ({ 5 }) 
+# Sentence pair (10) source length 10 target length 8 alignment score : 1.67873e-06
+Jestli máte zájem, můžete si prohlédnout náš katalog... 
+NULL ({ }) If ({ 7 }) you ({ }) want ({ 3 6 8 }) to ({ }) have ({ }) a ({ }) look ({ 5 }) at ({ 4 }) our ({ 2 }) catalogue... ({ 1 }) 
+# Sentence pair (11) source length 1 target length 1 alignment score : 0.657518
+Ano. 
+NULL ({ }) Yes. ({ 1 }) 
+# Sentence pair (12) source length 4 target length 5 alignment score : 0.000269944
+Wow, to je opravdu zajímavé. 
+NULL ({ }) Wow ({ 1 3 5 }) it's ({ }) very ({ 4 }) interesting. ({ 2 }) 
+# Sentence pair (13) source length 5 target length 3 alignment score : 0.0323627
+Co byste doporučila? 
+NULL ({ }) Which ({ 1 }) one ({ 2 }) would ({ }) you ({ }) recommend? ({ 3 }) 
+# Sentence pair (14) source length 21 target length 17 alignment score : 1.36728e-12
+Doporučila bych vám Veronu, je to město zamilovaných a myslím, že vaše přítelkyně by to mohla ocenit. 
+NULL ({ }) I ({ }) would ({ }) recommend ({ }) Verona ({ 12 }) because ({ 1 }) it ({ 5 }) is ({ 6 }) the ({ 11 }) city ({ 15 }) of ({ }) love ({ 10 }) and ({ 9 }) I ({ 3 }) think ({ }) your ({ }) girlfriend ({ 2 }) would ({ }) really ({ 7 8 13 14 16 }) much ({ 4 }) enjoy ({ 17 }) it. ({ }) 
+# Sentence pair (15) source length 19 target length 13 alignment score : 5.63308e-14
+Dám vám naši vizitku, kde najdete další informace a můžete nás kdykoli kontaktovat. 
+NULL ({ }) For ({ 1 }) any ({ }) further ({ 3 }) information ({ }) I ({ 2 }) leave ({ }) you ({ 9 }) our ({ }) visiting ({ }) card ({ }) where ({ }) you ({ }) can ({ }) come ({ }) to ({ }) us ({ 11 }) at ({ 10 }) any ({ 4 5 6 7 12 }) time. ({ 8 13 }) 
+# Sentence pair (16) source length 23 target length 17 alignment score : 3.52275e-40
+Musím se vám k něčemu přiznat, nemám žádnou přítelkyni a na romantický zájezd bych rád vzal vás. 
+NULL ({ }) But ({ }) I ({ }) have ({ }) to ({ }) make ({ 1 }) a ({ }) confession, ({ }) I ({ }) don't ({ 15 }) have ({ }) a ({ }) girlfriend ({ 14 }) and ({ 10 }) I ({ 3 }) would ({ }) like ({ 2 }) to ({ }) take ({ 12 }) you ({ }) to ({ }) my ({ 13 }) romantic ({ 4 }) tour. ({ 5 6 7 8 9 11 16 17 }) 
+# Sentence pair (17) source length 11 target length 7 alignment score : 1.63661e-05
+Myslím, že se potkáme v naší kanceláři. 
+NULL ({ }) I ({ }) think ({ }) we ({ }) will ({ 3 }) see ({ 4 7 }) each ({ 6 }) other ({ }) back ({ 5 }) at ({ }) the ({ 2 }) agency. ({ 1 }) 

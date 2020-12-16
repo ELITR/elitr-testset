@@ -1,0 +1,30 @@
+# Sentence pair (1) source length 6 target length 7 alignment score : 0.00181444
+﻿OK, guten Tag, meine Damen und Herren. 
+NULL ({ }) OK, ({ 2 }) good ({ 1 }) afternoon, ({ 5 }) ladies ({ 3 4 }) and ({ 6 }) gentleman. ({ 7 }) 
+# Sentence pair (2) source length 18 target length 16 alignment score : 2.61296e-17
+Ich zeige Ihnen Logistic service. Logistic service seit 2002 in kleinem Land bei Karlovy Vary, Dalovice. 
+NULL ({ }) I ({ }) show ({ 6 }) you ({ 3 }) Logistic ({ }) service. ({ }) Logistic ({ 4 7 9 11 13 15 }) service ({ 16 }) since ({ }) two ({ 5 8 10 12 14 }) thousand ({ }) two ({ }) in ({ }) small ({ }) country ({ }) near ({ }) Karlovy ({ }) Vary, ({ 1 }) Dalovice. ({ 2 }) 
+# Sentence pair (3) source length 4 target length 4 alignment score : 0.000571828
+Wir verkaufen logistische Produkte. 
+NULL ({ }) We ({ }) sell ({ 1 2 3 }) logistic ({ }) products. ({ 4 }) 
+# Sentence pair (4) source length 4 target length 4 alignment score : 0.00107171
+Logistische Produkte auf Lager. 
+NULL ({ }) Logistic ({ }) products ({ 1 }) in ({ 2 3 }) stock. ({ 4 }) 
+# Sentence pair (5) source length 2 target length 2 alignment score : 0.0431529
+Das war's. 
+NULL ({ }) That's ({ 1 2 }) it. ({ }) 
+# Sentence pair (6) source length 6 target length 7 alignment score : 0.00026959
+Stellen wir uns vor, was Logistik heißt. 
+NULL ({ }) We ({ 2 }) imagine ({ 1 }) what ({ 5 }) the ({ 4 }) logistic ({ 6 }) means? ({ 3 7 }) 
+# Sentence pair (7) source length 17 target length 15 alignment score : 2.89275e-15
+Wissen Sie, was ein re-truck ist? Unsere Priorität ist Erfahrung, die wir Ihnen anbieten können. 
+NULL ({ }) Do ({ 1 5 }) you ({ }) know, ({ }) what ({ 3 }) is ({ 2 6 7 8 9 10 }) a ({ }) re-truck? ({ 4 }) I ({ }) priority ({ 11 }) is ({ }) our ({ }) experience, ({ }) we ({ 12 }) can ({ }) offer ({ 14 15 }) to ({ }) you. ({ 13 }) 
+# Sentence pair (8) source length 11 target length 10 alignment score : 3.23747e-08
+Bitte besuchen Sie unseren Stand und wir erklären Ihnen mehr. 
+NULL ({ }) Please, ({ 3 }) visit ({ 8 }) our ({ }) stand ({ }) and ({ 6 }) we ({ 7 }) will ({ 1 2 4 5 }) explain ({ 10 }) more ({ }) to ({ }) you. ({ 9 }) 
+# Sentence pair (9) source length 9 target length 7 alignment score : 7.67598e-07
+Und wir besuchen... Entschuldigung... Já nevim už. 
+NULL ({ }) And ({ 1 }) we ({ 2 }) visit ({ }) in... ({ 3 }) I ({ }) sorry... ({ }) Já ({ 4 5 6 7 }) nevim ({ }) už. ({ }) 
+# Sentence pair (10) source length 2 target length 2 alignment score : 0.0431529
+Das war's. 
+NULL ({ }) That's ({ 1 2 }) it. ({ }) 

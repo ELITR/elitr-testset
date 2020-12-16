@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 12 target length 9 alignment score : 1.78904e-10
+Je to Mořská čarodějnice, ta kniha, co všichni chtějí? 
+NULL ({ }) Is ({ }) that ({ 3 4 5 6 7 8 }) the ({ }) sea ({ 9 }) witch, ({ 2 }) the ({ }) book ({ }) that ({ }) everyone ({ 1 }) wants ({ }) to ({ }) have? ({ }) 
+# Sentence pair (2) source length 2 target length 2 alignment score : 0.0825681
+Ano, je. 
+NULL ({ }) Ah, ({ 2 }) yeah. ({ 1 }) 
+# Sentence pair (3) source length 9 target length 6 alignment score : 2.01353e-05
+Ježiš, taky bych jí chtěl mít. 
+NULL ({ }) Oh ({ 1 }) my ({ 2 }) God, ({ }) I ({ }) wish ({ }) I ({ 3 4 }) had ({ 5 }) it ({ }) too. ({ 6 }) 
+# Sentence pair (4) source length 7 target length 5 alignment score : 9.87244e-05
+Chtěl bych si jí přečíst. 
+NULL ({ }) I ({ 2 4 }) really ({ 3 }) would ({ 1 }) like ({ 5 }) to ({ }) read ({ }) it. ({ }) 
+# Sentence pair (5) source length 6 target length 6 alignment score : 1.22571e-11
+Ale bohužel už se nedá sehnat. 
+NULL ({ }) But ({ 1 }) sadly ({ 2 }) its ({ }) not ({ }) available ({ 6 }) anymore. ({ 3 4 5 }) 
+# Sentence pair (6) source length 13 target length 7 alignment score : 2.26659e-05
+Jakoukoli knihu chcete, Bücherinsel West má všechny. 
+NULL ({ }) No ({ 7 }) matter ({ }) what ({ 1 }) book ({ 2 }) you ({ }) want ({ }) to ({ }) read, ({ }) Bücherinsel ({ 4 }) West ({ 5 }) has ({ 6 }) it ({ }) all. ({ 3 }) 
+# Sentence pair (7) source length 17 target length 17 alignment score : 1.30835e-15
+Bücherinsel West je společnost, která prodává všechny možné druhy knih, od dětské literatury po knihy o ekonomii. 
+NULL ({ }) Bücherinsel ({ 1 }) West ({ 2 }) is ({ 3 }) a ({ }) company ({ 4 5 6 }) that ({ }) sells ({ }) different ({ 7 }) kind ({ }) of ({ }) books, ({ 10 12 14 16 }) from ({ }) children ({ 8 }) books ({ 17 }) to ({ }) economy ({ }) books. ({ 9 11 13 15 }) 
+# Sentence pair (8) source length 17 target length 10 alignment score : 8.38123e-09
+Sídlíme v Amstetten v Rakousku a prodáváme po celé Evropě. 
+NULL ({ }) The... ({ 1 }) We ({ 3 }) are ({ 2 4 }) located ({ }) in ({ 6 }) Amstetten ({ 5 }) in ({ }) Austria ({ }) and ({ }) we ({ 7 }) are ({ }) selling ({ }) to ({ }) all ({ }) over ({ }) the ({ }) Europe. ({ 8 9 10 }) 
+# Sentence pair (9) source length 29 target length 19 alignment score : 1.19542e-20
+Pokud si žádnou knihu dnes nekoupíte, nevadí, ale určitě navštivte náš internetový obchod nebo nám pošlete e-mail nebo dopis. 
+NULL ({ }) Also ({ }) if ({ 3 }) you ({ }) don't ({ }) get ({ }) to ({ 2 }) buy ({ 5 }) a ({ }) book ({ 4 }) today, ({ }) it ({ }) doesn't ({ }) matter, ({ }) just ({ 1 }) make ({ }) sure ({ }) to ({ }) visit ({ }) our ({ }) webshop ({ 19 }) or ({ }) just ({ }) send ({ }) us ({ }) an ({ 6 }) email ({ 8 10 12 14 16 18 }) or ({ }) a ({ }) letter. ({ 7 9 11 13 15 17 }) 
+# Sentence pair (10) source length 9 target length 5 alignment score : 0.000355761
+Naši adresu najdete na vizitce. 
+NULL ({ }) You ({ }) can ({ }) find ({ 1 }) our ({ }) address ({ 3 }) on ({ 2 }) our ({ }) business ({ 4 }) card. ({ 5 }) 
+# Sentence pair (11) source length 57 target length 39 alignment score : 3.22741e-102
+Také nás nezapomeňte navštívit u stánku číslo sto osm, kde si můžete zakoupit knihu dle vašeho výběru a zúčastnit se soutěže, kdy můžete tipovat, kolik žvýkaček je v automatu a pokud se trefíte, budete mít možnost vyhrát skvělou cenu. 
+NULL ({ 27 }) Also ({ }) make ({ }) sure ({ }) to ({ }) visit ({ }) us ({ }) at ({ }) our ({ }) booth ({ }) number ({ }) one ({ 1 }) hundred ({ }) and ({ }) eight ({ 10 }) where ({ }) you ({ }) can ({ }) purchase ({ 15 }) whatever ({ 13 }) book ({ 14 }) you ({ }) want ({ }) and ({ }) participate ({ 16 }) at ({ 25 }) our ({ }) game ({ 12 23 }) where ({ }) you ({ }) have ({ 17 26 }) to ({ 11 }) guess ({ 24 }) how ({ }) many ({ }) chewing ({ }) gums ({ 19 31 }) are ({ 18 28 }) in ({ 30 }) a ({ }) dispender ({ 29 }) and ({ }) if ({ }) you ({ }) guess ({ }) it ({ }) correctly, ({ }) then ({ }) you ({ }) will ({ 32 }) get ({ }) the ({ }) opportunity ({ 20 }) of ({ }) winning ({ 21 22 }) a ({ }) great ({ 3 4 5 6 7 8 9 35 36 }) prize. ({ 2 33 34 37 38 39 }) 
+# Sentence pair (12) source length 5 target length 14 alignment score : 1.1248e-15
+Bücherinsel West je jednička. / alternativa pro zachování rýmu: Bücherinsel West, nejlepší z cest. 
+NULL ({ }) Bücherinsel ({ 1 }) West ({ 2 10 }) is ({ 3 4 11 }) the ({ }) best. ({ 5 6 7 8 9 12 13 14 }) 

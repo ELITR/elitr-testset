@@ -1,0 +1,30 @@
+# Sentence pair (1) source length 11 target length 11 alignment score : 7.85214e-08
+Takže, dobrý den, rád bych vám představil naši společnost jménem Jizeran. 
+NULL ({ }) So, ({ 2 3 }) hello, ({ 8 }) I ({ }) want ({ 7 }) to ({ }) introduce ({ 11 }) you ({ 4 5 6 }) our ({ }) company ({ 10 }) called ({ 1 }) Jizeran. ({ 9 }) 
+# Sentence pair (2) source length 8 target length 6 alignment score : 4.14863e-05
+Jsme z Liberce a vaříme pivo. 
+NULL ({ }) We ({ }) are ({ 6 }) from ({ 2 }) Liberec ({ 1 }) and ({ 4 }) we ({ }) brew ({ }) beer. ({ 3 5 }) 
+# Sentence pair (3) source length 27 target length 20 alignment score : 1.9271e-17
+Začali jsme jako malá skupinka přátel, která chtěla jen vařit pivo a po nějakém čase jsme zjistili, že všem chutná. 
+NULL ({ }) So, ({ }) we ({ }) started ({ }) as ({ }) a ({ }) small, ({ }) small ({ }) group ({ }) of ({ }) friends ({ 2 }) that ({ 1 }) just ({ 3 }) wanted ({ }) to ({ }) brew ({ 10 }) beer ({ 11 }) and ({ 12 }) after ({ 5 6 7 }) some ({ 13 }) time ({ 4 }) we ({ 16 17 18 19 }) find ({ 14 }) out ({ 20 }) that ({ 9 15 }) everybody ({ 8 }) likes ({ }) it. ({ }) 
+# Sentence pair (4) source length 20 target length 22 alignment score : 4.01359e-20
+Dali jsme ho ochutnat pár přátelům a zjistili, že všem chutná, a tak jsme začali exportovat do zahraničí a vařit ve velkém. 
+NULL ({ }) we ({ }) give ({ 17 }) it ({ }) to ({ 11 }) our ({ }) friends ({ }) and ({ 7 12 19 }) they ({ 18 }) likes ({ 8 9 10 }) it, ({ 13 }) so ({ 1 6 }) we ({ }) start ({ }) to ({ }) export ({ }) internationally ({ }) and ({ }) brew ({ 2 14 20 }) in ({ 3 15 21 }) big. ({ 4 5 16 22 }) 
+# Sentence pair (5) source length 7 target length 5 alignment score : 0.000122654
+Dnes nabízíme čtyři typy piva. 
+NULL ({ }) Now ({ 5 }) we ({ }) offer ({ }) four ({ 1 }) types ({ 2 3 4 }) of ({ }) beer. ({ }) 
+# Sentence pair (6) source length 13 target length 11 alignment score : 2.05585e-12
+Reichenbier desítku, Reichenbier jedenáctku, Reichenbier třináctku a náš speciál tmavou patnáctku. 
+NULL ({ }) Reichenbier ({ 3 4 5 6 }) number ({ }) ten, ({ 2 }) Reichenbier ({ }) eleven, ({ }) Reichenbier ({ 9 10 11 }) thirteen ({ 8 }) and ({ 7 }) our ({ }) special, ({ }) dark ({ }) special, ({ }) fifteen. ({ 1 }) 
+# Sentence pair (7) source length 11 target length 10 alignment score : 2.52167e-08
+Nabízíme naše pivo v plechovkách, lahvích, sudech a pet lahvích. 
+NULL ({ }) We ({ }) offer ({ 2 }) our ({ }) beer ({ 3 }) in ({ }) can, ({ 10 }) bottle, ({ 4 5 6 7 }) barrel ({ 9 }) and ({ 8 }) pet ({ 1 }) bottle. ({ }) 
+# Sentence pair (8) source length 12 target length 8 alignment score : 1.43519e-06
+A chmel do našeho piva dovážíme z Žatce. 
+NULL ({ }) And, ({ 1 }) we, ({ 2 }) ... ({ 3 4 }) our ({ }) beer ({ }) is ({ }) from ({ }) hops ({ 6 }) that's ({ 5 }) imported ({ }) from ({ 7 }) Žatec. ({ 8 }) 
+# Sentence pair (9) source length 27 target length 22 alignment score : 3.8512e-22
+Teď bych vám rád poděkoval za pozornost, a pokud máte zájem o ochutnávku našeho piva, stavte se u stánku číslo čtyřicet pět. 
+NULL ({ }) Now, ({ 12 21 }) I'm ({ }) glad ({ 1 14 }) that ({ }) you ({ 2 }) all ({ 7 }) listened ({ }) to ({ }) me ({ }) and ({ }) if ({ }) you ({ }) would ({ }) like ({ 13 }) to ({ }) taste ({ 5 6 11 }) our ({ 8 }) beer ({ }) you ({ 3 4 }) can ({ 22 }) visit ({ 17 18 19 }) us ({ }) at ({ 20 }) stand ({ 9 15 }) number ({ }) forty ({ 10 16 }) five. ({ }) 
+# Sentence pair (10) source length 2 target length 1 alignment score : 0.398006
+Děkuji. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

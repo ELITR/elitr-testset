@@ -1,0 +1,261 @@
+# Sentence pair (1) source length 6 target length 5 alignment score : 0.000166881
+Nyní předávám slovo panu Mayrbeurlemu. 
+NULL ({ }) Mister ({ 3 }) Mayrbeurle, ({ 1 }) the ({ }) floor ({ 2 }) is ({ }) yours. ({ 4 5 }) 
+# Sentence pair (2) source length 2 target length 1 alignment score : 0.220689
+Děkuji. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 
+# Sentence pair (3) source length 7 target length 5 alignment score : 0.00012794
+Velice vám děkuji za pozvání. 
+NULL ({ }) Thank ({ }) you ({ }) very ({ 1 }) much ({ 2 3 }) for ({ }) the ({ }) invitation. ({ 4 5 }) 
+# Sentence pair (4) source length 13 target length 9 alignment score : 1.94733e-08
+Je pro mě velkou ctí, že zde mohou hovořit. 
+NULL ({ }) It ({ 1 }) is ({ }) an ({ }) honour ({ 3 4 5 }) for ({ 2 }) me ({ }) to ({ }) be ({ 6 7 }) here ({ 9 }) to ({ }) speak ({ 8 }) to ({ }) you. ({ }) 
+# Sentence pair (5) source length 27 target length 22 alignment score : 1.9193e-23
+Pokusím se zde vás stručně seznámit s našim nástrojem pro velká množství dat, který používáme u rakouského účetního dvora již tři roky. 
+NULL ({ }) And ({ }) my ({ 1 }) topic ({ 2 }) is ({ }) to ({ }) give ({ }) you ({ }) a ({ }) brief ({ 3 5 6 }) overview ({ 4 }) about ({ }) our ({ }) big ({ }) data ({ }) tool ({ 10 }) we ({ }) use ({ }) in ({ }) the ({ }) Austrian ({ 17 }) Court ({ 18 }) of ({ }) Audit ({ 16 }) since ({ 7 8 19 20 }) three ({ 21 }) years ({ 9 11 12 13 14 15 }) now. ({ 22 }) 
+# Sentence pair (6) source length 17 target length 15 alignment score : 2.5941e-17
+Takže dříve než začnu opravdu, chtěl bych vás informovat o situaci v největších rakouských obcích. 
+NULL ({ }) So ({ }) before ({ 6 }) I ({ 1 }) really ({ 2 3 4 5 }) start ({ 13 14 15 }) I ({ }) want ({ }) to ({ 12 }) give ({ 7 }) you ({ }) an ({ }) overview ({ 8 9 }) of ({ 10 }) the ({ }) biggest ({ 11 }) Austrian ({ }) municipalities. ({ }) 
+# Sentence pair (7) source length 26 target length 23 alignment score : 7.79771e-21
+Jedná se o obce s více než deseti tisíci obyvateli a od roku dva tisíce jedenáct máme oprávněni kontrolovat všechny tyto místní samosprávy. 
+NULL ({ }) You ({ 3 }) can ({ }) see ({ }) the ({ }) municipalities ({ 4 }) with ({ 5 }) more ({ 10 }) than ({ 8 }) ten ({ 9 12 }) thousand ({ 13 }) inhabitants ({ 6 7 }) and ({ 11 }) since ({ }) two ({ 14 }) thousand ({ 15 }) and ({ }) eleven ({ 16 }) we ({ 17 }) are ({ 2 }) entitled ({ 18 }) to ({ }) audit ({ }) all ({ 20 }) these ({ 1 21 }) local ({ 19 }) governments. ({ 22 23 }) 
+# Sentence pair (8) source length 6 target length 6 alignment score : 1.10303e-06
+Předtím byla tato hranice dvacet tisíc. 
+NULL ({ }) The ({ 2 }) limit ({ 1 3 4 }) before ({ }) was ({ }) twenty ({ 5 }) thousand. ({ 6 }) 
+# Sentence pair (9) source length 17 target length 15 alignment score : 1.52278e-13
+Šedé body tedy představují více než dvacet tisíc obyvatel a modré méně než dvacet tisíc. 
+NULL ({ }) So ({ 3 }) the ({ }) grey ({ 1 2 }) points ({ 4 }) are ({ }) over ({ 7 8 9 }) twenty ({ }) thousand ({ }) inhabitants ({ 5 6 }) and ({ 10 }) the ({ }) blue ({ }) ones ({ 11 12 }) are ({ }) under ({ 13 }) twenty ({ 14 }) thousand. ({ 15 }) 
+# Sentence pair (10) source length 6 target length 5 alignment score : 0.00139948
+Vysvětlení je stále v němčině. 
+NULL ({ }) The ({ }) explanations ({ 1 }) is ({ 2 }) still ({ 3 }) in ({ 4 }) German. ({ 5 }) 
+# Sentence pair (11) source length 3 target length 4 alignment score : 0.000394291
+Za to se omlouvám. 
+NULL ({ }) Sorry ({ 1 }) for ({ }) that. ({ 2 3 4 }) 
+# Sentence pair (12) source length 11 target length 9 alignment score : 8.08476e-09
+Celkem jsme tedy oprávněni provádět audit sedmdesáti pěti obcí. 
+NULL ({ }) So ({ 3 }) in ({ }) total ({ }) we ({ }) are ({ }) entitled ({ 4 }) to ({ }) audit ({ }) seventy ({ 5 6 7 }) five ({ 1 2 }) municipalities. ({ 8 9 }) 
+# Sentence pair (13) source length 11 target length 9 alignment score : 2.82832e-12
+To představuje asi 3,2 procenta z celkové počtu obcí 
+NULL ({ }) This ({ 1 }) is ({ }) about ({ }) three ({ }) point ({ }) two ({ }) percent ({ 2 3 4 }) of ({ }) the ({ }) total ({ }) amount. ({ 5 6 7 8 9 }) 
+# Sentence pair (14) source length 7 target length 6 alignment score : 5.4683e-07
+Poradenství však poskytujeme všem rakouským obcím. 
+NULL ({ }) But ({ 2 }) we ({ }) are ({ }) counseling ({ 1 3 }) all ({ }) Austrian ({ }) communities. ({ 4 5 6 }) 
+# Sentence pair (15) source length 21 target length 18 alignment score : 4.13356e-18
+Z tohoto důvodu jsme se v našem oddělení rozhodli vyvinout speciální nástroj, který nazýváme Nástrojem pro monitorování obcí. 
+NULL ({ }) And ({ }) for ({ 16 }) that ({ }) reason ({ 1 2 }) we ({ }) decided ({ 3 4 8 }) in ({ 6 }) our ({ }) department ({ 7 }) to ({ }) develop ({ 9 }) a ({ 5 }) special ({ }) tool, ({ }) which ({ }) we ({ }) call ({ 10 }) the ({ }) Municipality ({ 11 }) Monitoring ({ 12 }) Tool. ({ 13 14 15 17 18 }) 
+# Sentence pair (16) source length 18 target length 18 alignment score : 4.08019e-21
+Vývojový tým se skládá ze tří mladých ekonomů, kteří pracují v našem oddělení. Já jsem jedním z nich. 
+NULL ({ }) And ({ }) the ({ }) development ({ }) team ({ 6 7 8 }) consists ({ 4 5 }) of ({ 3 }) three ({ }) young ({ 9 }) economists ({ 10 13 }) in ({ 11 }) our ({ }) department ({ 12 }) and ({ }) I ({ }) am ({ 14 15 16 }) one ({ }) of ({ }) those. ({ 1 2 17 18 }) 
+# Sentence pair (17) source length 10 target length 9 alignment score : 1.23629e-09
+My všichni tři používáme tento nástroj pro různé účely. 
+NULL ({ }) And ({ }) we ({ }) all ({ }) three ({ 3 }) use ({ 4 5 6 }) the ({ }) tool ({ }) for ({ 7 }) different ({ }) purposes. ({ 1 2 8 9 }) 
+# Sentence pair (18) source length 17 target length 12 alignment score : 2.48647e-12
+Jaký byl tedy cíl tohoto nástroje, proč byl tento nástroj vůbec vytvořen? 
+NULL ({ }) So ({ 3 }) what ({ }) was ({ 1 2 }) the ({ }) goal, ({ 4 }) what ({ 5 }) was ({ }) the ({ }) aim ({ }) for ({ }) the  ({ 7 8 9 }) em ({ }) reason ({ }) for ({ }) designing ({ 6 }) this ({ }) tool? ({ 10 11 12 }) 
+# Sentence pair (19) source length 15 target length 12 alignment score : 2.03441e-14
+Hlavním důvodem byla snaha o nalezení analytického nástroje pro hodnocení finančního rizika. 
+NULL ({ }) The ({ 3 }) main ({ 4 5 6 7 8 }) reason ({ }) was ({ }) to ({ }) to ({ }) find ({ }) an ({ 2 }) analysis ({ }) tool ({ }) for ({ 9 }) the ({ }) financial ({ }) risk ({ 10 11 }) assessment. ({ 1 12 }) 
+# Sentence pair (20) source length 12 target length 9 alignment score : 4.74086e-07
+Nejprve se tedy snažíme navrhnout profil pro každou obec. 
+NULL ({ }) So ({ 3 }) we ({ }) are ({ 2 }) trying ({ 4 }) firstly ({ 1 }) to ({ }) prepare ({ 5 6 }) a ({ }) profile ({ 8 }) for ({ 7 }) each ({ }) municipality. ({ 9 }) 
+# Sentence pair (21) source length 7 target length 6 alignment score : 0.000546668
+S ohledem na všechny relevantní faktory. 
+NULL ({ }) With ({ 2 3 }) to ({ }) consideration ({ 1 }) of ({ }) all ({ 4 }) relevant ({ 5 }) factors. ({ 6 }) 
+# Sentence pair (22) source length 25 target length 17 alignment score : 5.1473e-16
+Ve druhém kroku hodnotíme obce s ohledem na jejich význam pro auditorské aktivity současného rakouského účetního dvora. 
+NULL ({ }) In ({ 3 }) the ({ }) second ({ }) step ({ 1 2 4 }) we ({ }) assess ({ }) the ({ }) municipalities ({ 5 }) with ({ 6 }) regard ({ 7 }) to ({ }) their ({ 9 }) significance ({ 10 12 }) for ({ 11 }) the ({ }) audit ({ }) activisties ({ 13 14 }) of ({ }) the ({ 8 }) Austrian ({ 15 }) current ({ }) Austrian ({ }) Court ({ 16 }) of ({ }) Audit. ({ 17 }) 
+# Sentence pair (23) source length 17 target length 10 alignment score : 2.86585e-08
+Nakonec řadíme obce podle finančního rizika na základě určitých ukazatelů. 
+NULL ({ }) And ({ }) finally ({ 1 }) we ({ }) rank ({ 2 }) the ({ }) municipalities ({ 3 }) according ({ 4 }) to ({ }) the ({ }) financial ({ }) risk ({ 5 }) on ({ 7 }) the ({ }) basis ({ 6 8 }) of ({ }) certain ({ 9 10 }) indicators. ({ }) 
+# Sentence pair (24) source length 21 target length 16 alignment score : 1.39545e-16
+Pořadí je vždy zajímavé, je na tom všem nejzajímavější, protože nám dává možnost porovnat všechny obce. 
+NULL ({ }) The ({ }) ranking ({ 4 }) is ({ 2 5 }) always ({ 1 }) the ({ 6 }) interesting ({ 13 }) part, ({ 3 }) the ({ }) most ({ }) interesting ({ }) part ({ 14 15 16 }) of ({ }) the ({ }) whole ({ 7 }) story, ({ 8 9 }) because ({ 10 }) we ({ }) can ({ 11 }) compare ({ 12 }) any ({ }) municipalities. ({ }) 
+# Sentence pair (25) source length 2 target length 1 alignment score : 0.220689
+Děkuji. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 
+# Sentence pair (26) source length 14 target length 10 alignment score : 9.74875e-12
+Nejtěžším úkolem každého databázového projektu je tedy sběr kvalitních dat. 
+NULL ({ }) So ({ 7 }) the ({ }) biggest ({ }) challenge ({ }) of ({ }) every ({ }) database ({ 2 3 4 }) project ({ 1 5 }) is ({ 6 }) to ({ }) collect ({ 8 }) data ({ }) with ({ }) quality. ({ 9 10 }) 
+# Sentence pair (27) source length 6 target length 7 alignment score : 2.21797e-07
+Slyšeli jsme o tom o den dříve. 
+NULL ({ }) We ({ }) heard ({ 1 2 }) it ({ 3 }) the ({ }) day ({ 4 5 6 }) before. ({ 7 }) 
+# Sentence pair (28) source length 33 target length 27 alignment score : 1.23922e-31
+V této souvislosti musíme zmínit, že nám velice pomáhají údaje Statistiky Rakouska, což je rakouská statistická agentura, a tato agentura je naším nejdůležitějším partnerem v tomto projektu. 
+NULL ({ }) In ({ }) this ({ }) context ({ 7 8 11 }) we ({ }) are ({ }) happy ({ 9 12 }) to ({ }) to ({ }) use ({ }) the ({ }) data ({ 10 }) of ({ }) the ({ }) Statistics ({ }) of ({ }) Austria ({ }) which ({ 13 }) is ({ 14 }) the ({ }) Austrian ({ }) statistics ({ 2 3 4 5 }) agency ({ 15 19 }) and ({ 18 }) this ({ 6 }) agency ({ 16 20 }) is ({ 21 }) our ({ 1 }) most ({ 17 22 }) important ({ }) partner ({ 23 24 }) in ({ 25 }) this ({ }) project. ({ 26 27 }) 
+# Sentence pair (29) source length 7 target length 6 alignment score : 1.75922e-06
+Získali jsme od nich následující data. 
+NULL ({ }) And ({ }) we ({ }) get ({ 1 }) the ({ }) following ({ 2 3 }) data ({ }) ehm. ({ 4 5 6 }) 
+# Sentence pair (30) source length 8 target length 9 alignment score : 2.00826e-10
+Tato data jsou ve skutečnosti k dispozici každému občanovi. 
+NULL ({ }) Actually ({ 1 2 3 }) this ({ }) data ({ }) is ({ }) open ({ 4 5 6 }) for ({ }) every ({ }) citizen. ({ 7 8 9 }) 
+# Sentence pair (31) source length 17 target length 12 alignment score : 4.80628e-12
+Pokud však chcete agregovaná data, musíte si je koupit od Statistik Rakouska. 
+NULL ({ }) But ({ }) you ({ }) have ({ }) to ({ }) buy ({ 8 9 }) it ({ }) from ({ 10 }) the ({ }) Statistics ({ 12 }) of ({ }) Austria ({ 11 }) if ({ }) you ({ }) want ({ 1 3 }) the ({ }) aggregated ({ 2 4 }) data. ({ 5 6 7 }) 
+# Sentence pair (32) source length 9 target length 9 alignment score : 3.54903e-10
+A pro analýzu jsou užitečná právě jen agregovaná data. 
+NULL ({ }) And ({ 1 }) only ({ 7 }) the ({ }) aggregated ({ }) data ({ }) is ({ }) useful ({ 3 4 5 6 }) for ({ 2 }) analysis. ({ 8 9 }) 
+# Sentence pair (33) source length 13 target length 8 alignment score : 1.23876e-06
+Máme tedy průřezové účty rozpočtů a účetních regulací. 
+NULL ({ }) So ({ 2 }) we ({ }) have ({ }) the ({ }) gross ({ 7 }) cutting ({ 3 8 }) accounts ({ 4 }) of ({ }) the ({ }) budgeting ({ 5 }) and ({ 6 }) accounts ({ }) regulations. ({ 1 }) 
+# Sentence pair (34) source length 20 target length 13 alignment score : 8.90646e-11
+Máme podrobné informace o uzavřených účtech, takže máme účty na úrovni volných lístků. 
+NULL ({ }) We ({ 1 }) have ({ }) detailed ({ 2 }) info ({ 5 }) infomo ({ 6 }) information ({ 3 }) of ({ 4 }) the ({ }) closed ({ }) accounts ({ }) so ({ 7 }) we ({ }) have ({ 8 }) the ({ }) accounts ({ 9 }) on ({ }) its ({ }) free ({ 10 }) ticket ({ 11 }) level. ({ 12 13 }) 
+# Sentence pair (35) source length 8 target length 7 alignment score : 5.03723e-06
+A pak máme výkazy dluhů a závazků. 
+NULL ({ }) And ({ 1 }) we ({ }) have ({ 3 }) statements ({ 5 }) of ({ }) debts ({ 4 }) and ({ 6 }) liabilities. ({ 2 7 }) 
+# Sentence pair (36) source length 32 target length 23 alignment score : 4.62348e-20
+Používáme tedy hlavně finanční a účetní údaje, ale samozřejmě máme zvlášť údaje o počtu obyvatel a další údaje, které pocházejí ze Statistik Rakouska. 
+NULL ({ }) So, ({ 2 }) mainly ({ 1 3 4 }) we ({ }) use ({ }) finance ({ 6 }) and ({ 5 }) accounting ({ }) data ({ }) but ({ 8 }) of ({ }) course ({ 7 9 }) we ({ }) have ({ 10 }) sss ({ 14 }) separately ({ 11 }) we ({ }) have ({ }) data, ({ }) numbers ({ 15 }) of ({ }) population ({ 18 }) and ({ 16 }) other ({ 17 }) data ({ 12 }) which ({ 19 }) come ({ 20 }) from ({ }) the ({ }) Statistics ({ 23 }) of ({ 13 }) Austria ({ 22 }) s. ({ 21 }) 
+# Sentence pair (37) source length 19 target length 16 alignment score : 1.85455e-16
+Nyní máme data z tohoto období od roku dva tisíce osm do roku dva tisíce třináct. 
+NULL ({ }) What ({ 1 }) we ({ }) we ({ }) have ({ 2 }) the ({ }) data ({ }) from ({ 7 }) the ({ }) period ({ 3 11 }) now ({ 12 }) from ({ }) two ({ 9 }) thousand ({ 8 10 13 }) eight ({ 5 6 }) to ({ }) two ({ 4 14 }) thousand ({ 15 }) and ({ }) thirteen. ({ 16 }) 
+# Sentence pair (38) source length 10 target length 8 alignment score : 1.57735e-09
+A to je chyba, za což se omlouvám. 
+NULL ({ }) Ah ({ 5 }) that ({ 6 }) is ({ 3 }) a ({ 7 }) mistake, ({ 4 }) I ({ }) am ({ }) sorry ({ }) about ({ }) it. ({ 1 2 8 }) 
+# Sentence pair (39) source length 8 target length 7 alignment score : 1.08706e-07
+Tato data neustále aktualizujeme, vždy každý podzim. 
+NULL ({ }) And ({ }) we ({ }) constantly ({ 3 }) updating ({ 4 5 }) this ({ }) data ({ }) every ({ 1 2 }) autumn. ({ 6 7 }) 
+# Sentence pair (40) source length 47 target length 32 alignment score : 1.03813e-30
+Protože máme údaje z účetních systémů obcí, nemáme žádné údaje o příspěvcích obce, nemáme žádné údaje o nájemních povinnostech, ani nemáme žádné údaje o zůstatcích a aktivech, protože obce tyto údaje nezveřejňují. 
+NULL ({ }) As ({ 1 }) we ({ }) have ({ }) the ({ }) data ({ 3 }) from ({ 4 }) the ({ }) accounting ({ 5 }) systems ({ 6 }) of ({ }) the ({ }) municipalities, ({ 7 }) we ({ }) we ({ }) have ({ }) no ({ }) data ({ }) about ({ 17 }) the ({ }) municipality ({ }) contributions, ({ 16 }) we ({ }) have ({ }) no ({ 12 }) data ({ }) about ({ 11 24 }) the ({ }) lease ({ 8 13 14 18 19 20 21 }) obligations ({ 9 15 22 }) and ({ }) we ({ }) have ({ 2 }) no ({ }) data ({ 10 23 31 }) of ({ }) the ({ }) balances ({ 25 }) and ({ 26 }) assets ({ 27 }) because ({ 28 }) the ({ }) municipalities ({ 29 }) do ({ }) not ({ 30 }) publish ({ 32 }) this ({ }) data. ({ }) 
+# Sentence pair (41) source length 84 target length 49 alignment score : 1.98267e-113
+To je důležité, protože v praxi máte v obci nějakého oficiálního účetního, zjistíte nějakou výši dluhu a když se podíváte na příspěvky společností obci, může se stát, že zde tuto hodnotu dluhu najdete znovu, takže to bude duplicita a pokud jen kontrolujete účty účtů samotné obce, máte pouze půlku. 
+NULL ({ 36 }) This ({ 1 }) is ({ 2 }) an ({ }) important ({ 3 }) point ({ }) because ({ 4 }) em ({ }) in ({ 8 }) in ({ 5 }) practice ({ 6 7 }) when ({ 9 }) you ({ }) go ({ }) to ({ }) the ({ }) municipality ({ }) and ({ 39 }) you ({ }) have ({ }) the ({ }) official ({ 23 }) accountant, ({ 18 24 25 }) you ({ }) find ({ 19 26 }) the ({ }) debt ({ 22 }) number ({ 20 27 }) and ({ }) if ({ }) you ({ }) go ({ }) to ({ }) the ({ }) em ({ }) to ({ }) the ({ }) corporation ({ 10 11 }) to ({ }) the ({ }) municipality ({ }) contributions ({ 12 }) it ({ }) may ({ 13 }) happen ({ 14 15 }) tha ({ 16 32 }) it ({ 31 }) may ({ }) happen ({ }) that ({ }) you ({ }) find ({ }) this ({ }) debt ({ }) number ({ }) once ({ 34 }) again ({ 33 }) so ({ 35 }) it ({ }) will ({ }) be ({ 28 29 }) double ({ 37 }) and ({ 17 }) you ({ 30 }) only ({ 48 }) have ({ }) half ({ 49 }) of ({ }) the ({ 21 }) story ({ 38 }) if ({ 40 }) you ({ }) only ({ 41 }) check ({ 42 43 44 45 46 47 }) the ({ }) em ({ }) the ({ }) accounts ({ }) of ({ }) the ({ }) accounts ({ }) of ({ }) the ({ }) municipality ({ }) itself. ({ }) 
+# Sentence pair (42) source length 48 target length 41 alignment score : 1.59679e-39
+Takže ze stávajících údajů si myslíme, že naše ukazatele jsou dobré, což vysvětlím později, a pokusíme se vytvořit indikátorový model a toto monitorování je založeno na modelu, který se skládá z ukazatelů, jež jsou sestaveny jako hodnotící ukazatele rozdělené podle témat. 
+NULL ({ }) So, ({ }) from ({ }) the ({ }) existing ({ 11 }) data ({ }) we ({ }) think ({ 13 }) that ({ 12 }) our ({ }) sell ({ 14 }) well ({ 4 5 6 7 8 9 10 }) indicators, ({ }) which ({ }) I ({ 1 }) will ({ 2 }) explain ({ 3 }) later, ({ 16 }) and ({ 15 }) we ({ }) try ({ 18 }) to ({ }) make ({ }) a ({ 17 }) indicator ({ 19 }) model ({ 20 }) and ({ 21 }) this ({ }) monitoring ({ 22 23 25 }) is ({ }) based ({ 27 }) on ({ 26 }) a ({ }) model ({ 28 }) which ({ }) is ({ 24 }) comprised ({ 38 39 40 }) of ({ }) indicators ({ 41 }) that ({ }) are ({ 29 }) compiled ({ 30 }) as ({ }) assessment ({ }) indicators, ({ 31 32 }) broken ({ 33 }) down ({ 34 }) with ({ }) themes. ({ 35 36 37 }) 
+# Sentence pair (43) source length 18 target length 15 alignment score : 2.32071e-13
+Z toho je odvozena statistika od jednoho do sta, což je pro audit nejvíce relevantní. 
+NULL ({ }) And ({ }) from ({ }) these ({ }) a ({ }) statistic ({ 4 }) is ({ 3 }) derived ({ 5 }) between ({ 7 8 9 }) one ({ }) and ({ }) hundred ({ 2 }) that ({ 10 }) is ({ 11 }) closest ({ 6 }) to ({ }) relevance ({ 13 }) for ({ 12 }) audit. ({ 1 14 15 }) 
+# Sentence pair (44) source length 13 target length 9 alignment score : 2.28576e-06
+Tento model tedy umožňuje hodnocení indikátorů podle konkrétních témat. 
+NULL ({ }) So ({ 3 }) this ({ }) model ({ 2 }) enables ({ 5 6 }) a ({ }) rating ({ 4 }) of ({ }) the ({ }) indicators ({ 9 }) according ({ 7 }) to ({ }) specific ({ 8 }) issues. ({ 1 }) 
+# Sentence pair (45) source length 44 target length 33 alignment score : 4.91031e-30
+A za účelem stanovení relevantnosti pro audit používá rakouský účetní dvůr ukazatele finanční situace jako základní nastavení, ale v závislosti na nastolené otázce, v závislosti na tématu auditu můžete zvolit jiné nastavení ukazatelů. 
+NULL ({ }) And ({ 1 }) in ({ 19 }) order ({ 2 3 }) to ({ }) set ({ 4 5 }) the ({ }) relevance ({ 7 }) for ({ 6 }) audit, ({ 8 }) the ({ }) Austrian ({ }) Court ({ 10 }) of ({ }) Audit ({ 9 }) uses ({ 11 12 }) the ({ }) indicators ({ }) for ({ }) the ({ }) financial ({ 13 }) situation ({ 14 }) as ({ }) the ({ }) basic ({ 15 }) setting ({ 16 17 }) but ({ 18 }) depending ({ 22 }) on ({ 21 }) the ({ }) issue ({ 23 }) raised, ({ 24 25 }) depending ({ 27 }) on ({ 26 }) the ({ }) issue ({ 28 }) on ({ 20 }) to ({ }) audit ({ }) you ({ }) can ({ }) choose ({ }) another ({ }) indicator ({ }) setting. ({ 29 30 31 32 33 }) 
+# Sentence pair (46) source length 6 target length 4 alignment score : 2.6811e-05
+Pak získáte odlišný výsledek. 
+NULL ({ }) And ({ }) you ({ }) have ({ }) a ({ }) different ({ }) result. ({ 1 2 3 4 }) 
+# Sentence pair (47) source length 19 target length 15 alignment score : 3.07935e-12
+Indikátorový model tedy skládá ze čtyř témat a prvním je finanční situace v dlouhodobém horizontu. 
+NULL ({ }) So ({ 3 }) the ({ }) indicator ({ }) model ({ 2 }) consists ({ 4 5 }) of ({ }) four ({ 6 }) topics ({ 1 7 }) and ({ 8 }) the ({ }) first ({ 9 }) one ({ }) is ({ 10 }) the ({ }) financial ({ 11 }) situation ({ 12 }) in ({ 13 }) the ({ }) long-term. ({ 14 15 }) 
+# Sentence pair (48) source length 17 target length 15 alignment score : 6.72012e-12
+To znamená, že vezmeme čisté dluhy plus závazky mínus držby cenných papírů a mínus rezervy. 
+NULL ({ }) That ({ 1 }) means ({ 2 3 }) we ({ }) we ({ }) take ({ }) the ({ }) net ({ 6 }) debts, ({ 12 }) plus ({ 4 }) the ({ }) liabilities ({ 5 8 }) minus ({ 9 }) security ({ 10 11 }) holdings ({ 7 }) and ({ 13 }) minus ({ 14 }) reserves. ({ 15 }) 
+# Sentence pair (49) source length 14 target length 13 alignment score : 1.36746e-16
+První z nich nám tedy dává dlouhodobou perspektivu, to znamená dluh minus aktiva. 
+NULL ({ }) So ({ 5 }) the ({ }) first ({ }) one ({ }) gives ({ 6 }) us ({ 4 }) the ({ }) long-term ({ 1 7 }) perspective, ({ 2 3 8 }) that ({ 9 }) means ({ }) debt ({ }) minus ({ }) assets. ({ 10 11 12 13 }) 
+# Sentence pair (50) source length 9 target length 7 alignment score : 1.80434e-07
+A ten druhý nám dává krátkodobou perspektivu. 
+NULL ({ }) And ({ 1 }) the ({ }) second ({ }) one ({ }) gives ({ 5 }) us ({ 4 }) the ({ }) short-term ({ 2 3 6 }) perspective. ({ 7 }) 
+# Sentence pair (51) source length 3 target length 5 alignment score : 0.000280733
+Což je .... ano, prosím. 
+NULL ({ }) Which ({ 1 2 }) is..yes ({ 3 }) please. ({ 4 5 }) 
+# Sentence pair (52) source length 22 target length 19 alignment score : 1.25949e-15
+Z krátkodobého hlediska definujeme základní saldo, kterým jsou běžné příjmy bez převodů mínus běžné výdaje bez převodů a důchodů. 
+NULL ({ }) For ({ 1 2 3 }) a ({ }) short-term ({ }) we ({ }) define ({ 4 }) the ({ }) core ({ 5 6 }) balance, ({ 7 }) which ({ 8 }) is ({ }) the ({ }) current ({ 9 }) revenues ({ 10 }) without ({ 12 }) transfers ({ }) minus ({ 13 }) current ({ 14 }) expenditures ({ 11 15 16 }) without ({ 17 }) transfers ({ }) and ({ 18 }) pensions. ({ 19 }) 
+# Sentence pair (53) source length 24 target length 15 alignment score : 2.20101e-13
+To je důležitý bod indikátorového modelu, protože nepoužíváme klíčové údaje, které jsem vyjádřil na obyvatele. 
+NULL ({ }) That ({ 1 }) is ({ 2 }) an ({ }) important ({ 3 }) point ({ }) of ({ }) the ({ }) indicator ({ }) model ({ 6 }) because ({ 7 }) we ({ }) we ({ }) are ({ }) not ({ }) using ({ }) em ({ }) key ({ }) figures ({ 9 10 }) which ({ 11 }) I ({ 12 }) expressed ({ 13 14 15 }) em ({ }) per ({ 4 5 }) capita. ({ 8 }) 
+# Sentence pair (54) source length 30 target length 17 alignment score : 1.44287e-17
+Jako relevantní číslo používáme jiný údaj, a to vlastní příjmy, protože je lepší ukázat ekonomickou sílu obce. 
+NULL ({ }) We ({ }) are ({ }) using ({ }) a ({ }) different ({ }) key ({ }) figure ({ 3 }) and ({ 7 }) this ({ }) is ({ 12 }) the ({ }) own ({ 1 }) earnings ({ 10 }) as ({ }) a ({ }) relevant ({ 2 }) figure ({ }) because ({ 11 }) its ({ 4 5 6 8 9 }) better ({ 13 }) to ({ }) to ({ }) to ({ }) show ({ }) the ({ }) economic ({ 14 }) power ({ }) of ({ }) the ({ }) municipalitity. ({ 15 16 17 }) 
+# Sentence pair (55) source length 9 target length 6 alignment score : 6.02658e-06
+Dále přichází na řadu administrativní struktura. 
+NULL ({ }) So ({ }) the ({ }) next ({ 4 }) one ({ }) is ({ }) the ({ 3 }) admisni ({ 1 2 }) administrative ({ 5 }) structure. ({ 6 }) 
+# Sentence pair (56) source length 11 target length 9 alignment score : 9.02749e-06
+Tam jednoduše dáváme dohromady administrativní výdaje a osobní výdaje. 
+NULL ({ }) Where ({ 3 }) we ({ }) simply ({ 4 }) put ({ 2 }) together ({ 1 }) the ({ }) administrative ({ 5 }) expenses ({ 6 }) and ({ 7 }) personnel ({ 8 }) expenses. ({ 9 }) 
+# Sentence pair (57) source length 8 target length 7 alignment score : 4.93869e-06
+Osobní údaje pro nás představují nejnáročnější úkol. 
+NULL ({ }) Last ({ 1 2 }) one ({ }) was ({ }) the ({ }) biggest ({ 5 }) challenge ({ 4 }) for ({ 3 }) us. ({ 6 7 }) 
+# Sentence pair (58) source length 10 target length 7 alignment score : 1.51954e-07
+Snažili jsme se posoudit kvalitu účetních systémů. 
+NULL ({ }) We ({ }) tried ({ 4 }) to ({ }) to ({ }) assess ({ }) the ({ }) quality ({ 5 }) of ({ 3 }) accounting ({ 6 }) systems. ({ 1 2 7 }) 
+# Sentence pair (59) source length 20 target length 14 alignment score : 5.41995e-11
+A ano, zohledňujeme další účty, různé účty, výdaje na reprezentaci a analýzu zvláštních účtů. 
+NULL ({ }) And ({ 1 }) yes ({ }) we ({ }) take ({ }) into ({ 2 }) account ({ 3 }) other ({ 4 }) accounts, ({ 5 6 7 }) the ({ }) miscellaneous ({ 8 }) accounts, ({ }) the ({ 9 }) representation ({ 10 }) expenses ({ }) and ({ 11 }) the ({ }) analysis ({ 12 }) of ({ }) special ({ 13 }) accounts. ({ 14 }) 
+# Sentence pair (60) source length 13 target length 12 alignment score : 1.09428e-11
+To znamená, že se pomocí těchto dat snažíme najít chyby v účetnictví. 
+NULL ({ }) That ({ 1 }) means ({ 2 3 }) we ({ }) are ({ 4 }) trying ({ 8 9 }) to ({ }) find ({ }) book ({ 5 11 }) keeping ({ 6 7 12 }) errors ({ 10 }) with ({ }) this ({ }) data. ({ }) 
+# Sentence pair (61) source length 15 target length 11 alignment score : 1.61305e-11
+Tento snímek je tedy snímek obrazovky jednoho možného výstupu monitorovacího nástroje 
+NULL ({ }) So ({ 4 }) this ({ }) slide ({ 2 5 }) is ({ 3 }) a ({ }) screen ({ 6 7 }) shot ({ 8 9 }) of ({ }) one ({ }) possible ({ 10 }) output ({ 11 }) of ({ }) the ({ }) monitoring ({ }) tool. ({ 1 }) 
+# Sentence pair (62) source length 20 target length 16 alignment score : 3.16994e-17
+A vidíte zde obce, které jsou až na konci seznamu, od nejlepší obce až po nejhorší. 
+NULL ({ }) And ({ 1 }) you ({ }) can ({ }) see ({ }) the ({ }) municipalities ({ 4 13 }) which ({ 5 }) are ({ }) listed ({ 2 3 }) em ({ }) end ({ 7 }) from ({ }) from ({ 11 }) the ({ }) best ({ 12 }) municipality ({ }) down ({ 6 }) to ({ }) the ({ 8 }) worst. ({ 9 10 14 15 16 }) 
+# Sentence pair (63) source length 44 target length 31 alignment score : 3.67401e-32
+Černý sloupec tedy udává hodnotu a je to s ohledem na význam auditorských činností pro rakouský účetní dvůr. Na tomto obrázku je kvůli tomu hodnocen pro význam auditu pro naše oddělení. 
+NULL ({ }) So ({ 3 }) the ({ }) black ({ 1 2 }) column ({ 4 }) gives ({ }) us ({ }) the ({ }) value ({ 5 }) and ({ 6 }) it ({ 8 }) is ({ 7 }) with ({ 9 }) regard ({ 10 }) to ({ }) the ({ 11 }) significance ({ 12 }) of ({ }) the ({ }) audit ({ }) activities ({ 13 14 }) for ({ }) the ({ }) Austrian ({ }) Court ({ 17 }) of ({ }) Audit ({ 16 }) and ({ }) for ({ 29 }) that ({ }) in ({ }) this ({ }) picture ({ }) it ({ }) is ({ 22 }) ranked ({ 27 28 30 31 }) for ({ 26 }) for ({ 15 }) a ({ }) relevance ({ }) of ({ }) audit ({ }) for ({ }) our ({ }) department. ({ 18 19 20 21 23 24 25 }) 
+# Sentence pair (64) source length 11 target length 8 alignment score : 1.76729e-11
+Takže, ty čtyři sloupce napravo tedy představují indikátory. 
+NULL ({ }) So ({ 6 }) the ({ }) four ({ }) columns ({ 7 }) on ({ }) the ({ }) right ({ }) gives ({ }) us ({ }) the ({ }) indicators. ({ 1 2 3 4 5 8 }) 
+# Sentence pair (65) source length 8 target length 6 alignment score : 1.28205e-06
+Indikátory modelu, který jsem vysvětlil předtím. 
+NULL ({ }) The ({ }) indicators ({ 3 }) of ({ }) the ({ }) model ({ 2 }) I ({ 4 }) explained ({ 1 5 }) before. ({ 6 }) 
+# Sentence pair (66) source length 33 target length 21 alignment score : 4.59747e-19
+Černý sloupec udává hodnotu tři celé třicet tři, což je obec Halvank, malá vesnice nedaleko Salzburgu a je to nejlepší obec. 
+NULL ({ }) And ({ }) the ({ }) black ({ 1 2 }) column ({ 3 }) gives ({ }) us ({ }) the ({ }) value ({ 4 }) three ({ 5 }) point ({ }) thirty ({ 6 }) three ({ }) which ({ }) is ({ 10 }) take ({ }) municipality ({ 11 }) Hallwang, ({ 12 }) which ({ 9 }) is ({ }) a ({ }) small ({ 13 14 }) municel ({ 7 8 15 }) municipality ({ }) near ({ }) to ({ }) Salzburg ({ 16 }) and ({ 17 }) this ({ 19 }) one ({ }) is ({ 18 }) the ({ }) best ({ 20 }) municipality. ({ 21 }) 
+# Sentence pair (67) source length 6 target length 6 alignment score : 4.06935e-09
+Jedná se tedy o určité měřítko. 
+NULL ({ }) That ({ }) means ({ }) it ({ }) is ({ }) a ({ 2 }) benchmark. ({ 1 3 4 5 6 }) 
+# Sentence pair (68) source length 21 target length 17 alignment score : 1.18968e-16
+Pokud tedy chcete provést audit obce s nejlepším finančním umístěním v nejlepší finanční situaci, provedeme audit Halvanku. 
+NULL ({ }) So ({ 2 }) if ({ }) you ({ }) want ({ 1 3 }) to ({ }) audit ({ 4 5 6 }) the ({ }) municipality ({ }) with ({ 7 }) the ({ }) best ({ 12 }) financial ({ }) sit ({ 8 9 10 }) in ({ 11 }) the ({ }) best ({ }) financial ({ 13 }) situation, ({ 14 15 16 }) we ({ }) audit ({ }) Hallwang. ({ 17 }) 
+# Sentence pair (69) source length 28 target length 21 alignment score : 6.69549e-20
+Pokud byste chtěli provést audit nejhorší obce, stačí obrázek přeskočit a najet na poslední, ale dnes vám tyto obce ukazovat nechci. 
+NULL ({ }) If ({ 3 }) you ({ }) want ({ 1 4 }) to ({ }) audit ({ }) the ({ }) worst ({ 5 }) one, ({ 6 7 8 }) we ({ }) just ({ }) skip ({ 9 10 }) the ({ }) picture ({ 12 }) and ({ 11 }) take ({ 13 }) the ({ }) last ({ 14 }) one ({ }) but ({ 15 }) I ({ }) don't ({ 16 17 }) want ({ }) to ({ }) show ({ 2 18 }) you ({ }) this ({ }) municipalities ({ 19 }) today. ({ 20 21 }) 
+# Sentence pair (70) source length 43 target length 24 alignment score : 4.47656e-28
+V našem systému máme všechny rakouské obce, ale ne každá obec spadá do naší vyměřovací povinnosti, takže pouze druhou, ano můžeme auditovat pouze druhou. 
+NULL ({ }) And ({ }) we ({ }) have ({ 4 }) all ({ 5 }) municipalities ({ 7 }) of ({ }) Austria ({ }) in ({ }) our ({ 1 2 3 }) system ({ 6 }) but ({ 8 }) not ({ }) every ({ }) municipality ({ 11 }) is ({ }) in ({ }) our ({ }) em ({ }) is ({ }) in ({ }) our ({ }) duty, ({ 9 10 }) in ({ }) our ({ }) assessment ({ 19 22 }) duty ({ 20 21 }) so ({ 17 }) only ({ 18 }) the ({ }) second ({ }) one ({ }) yes ({ 15 23 }) the ({ }) second ({ 16 24 }) one ({ 12 13 }) is ({ }) is ({ }) is ({ }) possible ({ 14 }) to ({ }) audit ({ }) for ({ }) us. ({ }) 
+# Sentence pair (71) source length 42 target length 25 alignment score : 5.16842e-25
+Snažíme se porovnávat obce se stejnou třídou obcí stejné velikosti, takže neporovnáváme Vídeň s Halvankem. Snažíme se najít podobné obce, aby to srovnání bylo spravedlivé. 
+NULL ({ }) And ({ }) we ({ }) try ({ }) to ({ }) compare ({ }) the ({ }) municipalities ({ 4 }) with ({ }) the ({ }) class ({ 13 }) of ({ }) municipalities ({ }) with ({ 14 }) the ({ }) same ({ 15 }) size, ({ 12 }) so ({ }) we ({ }) are ({ 17 }) not ({ }) comparing ({ }) Vienna ({ 1 16 }) to ({ }) Hallwang, ({ }) so ({ 11 }) we ({ }) are ({ 2 }) trying ({ 18 }) to ({ }) find ({ }) similar ({ 3 19 }) municipalities ({ 20 }) so ({ }) em ({ }) so  ({ 21 }) it ({ 22 }) will ({ 5 }) be ({ }) a ({ }) fair ({ 23 24 25 }) compare, ({ 10 }) comparision. ({ 6 7 8 9 }) 
+# Sentence pair (72) source length 21 target length 19 alignment score : 1.31639e-18
+Máme tedy mnoho různých možností výstupu tohoto nástroje a další funkcí je tento výstupní deník pro každou jednotlivou obec. 
+NULL ({ }) So ({ 2 }) we ({ }) have ({ }) many ({ 1 3 }) different ({ }) output ({ 6 7 }) possibilities ({ 4 5 11 }) of ({ }) this ({ }) tool ({ 13 }) and ({ 9 }) another ({ 10 }) feature ({ 14 }) is ({ 12 }) this ({ }) output ({ 8 }) journal ({ 15 17 }) for ({ 16 }) every ({ }) single ({ 18 }) municipality. ({ 19 }) 
+# Sentence pair (73) source length 8 target length 6 alignment score : 5.57941e-05
+Takže tu máme například obec Halvank. 
+NULL ({ }) Here ({ 1 2 }) for ({ }) example ({ 4 }) we ({ }) have ({ 3 }) the ({ }) municipality ({ 5 }) Hallwang. ({ 6 }) 
+# Sentence pair (74) source length 50 target length 34 alignment score : 5.24067e-35
+Takový deník můžeme udělat pro každou obec v Rakousku a vy, jak vidíte, jej nebudete moci číst, ale poskytne nám celou řadu klíčových čísel, ukazatelů, grafů a informací o finanční situaci a jejím vývoji. 
+NULL ({ }) We ({ }) can ({ }) do ({ 4 }) thi ({ 1 2 12 }) th ({ 9 11 }) th ({ 14 15 }) this ({ }) journal ({ 6 }) for ({ 5 }) every ({ }) municipality ({ 7 }) of ({ }) Austria ({ }) and ({ 10 }) you ({ }) as ({ }) you ({ }) can ({ 13 }) see ({ }) you ({ }) I ({ }) think ({ }) you ({ }) will ({ }) not ({ }) be ({ }) able ({ 3 }) to ({ 8 }) read ({ 16 17 }) it ({ 29 }) but ({ 18 }) it ({ }) gives ({ 19 }) us ({ 20 }) a ({ }) lot ({ 21 }) if ({ }) indik ({ 23 }) key ({ 24 25 }) figures, ({ 22 }) indicators, ({ }) graphs ({ 34 }) and  ({ 26 }) em ({ }) of ({ }) the ({ }) financial ({ 30 }) situation ({ 31 }) and ({ 27 32 }) development. ({ 28 33 }) 
+# Sentence pair (75) source length 34 target length 21 alignment score : 4.69362e-24
+Dalším výstupem deníku jsou tyto dvě stránky, kde například můžete vidět nalevo analýzu osobních výdajů, je to ta červená čára grafu. 
+NULL ({ }) Another ({ 1 2 3 }) output ({ }) of ({ }) the ({ }) journal ({ }) is ({ }) em ({ }) these ({ }) two ({ }) pages, ({ 10 }) for ({ }) example ({ 9 }) you ({ }) can ({ }) see ({ }) the ({ }) analysis ({ }) of ({ }) the ({ }) personal ({ 11 12 }) expenses ({ 13 }) em ({ }) on ({ }) the ({ }) left ({ 14 }) side, ({ 15 21 }) this ({ 17 }) is ({ 16 }) the ({ }) red ({ 18 19 }) line ({ 20 }) of ({ }) the ({ }) graph. ({ 4 5 6 7 8 }) 
+# Sentence pair (76) source length 27 target length 22 alignment score : 1.46872e-21
+A při srovnávání s jinými obcemi si můžete vybrat modrou čáru a tam, kde červená čára přesahuje modrou čáru, je obec horší. 
+NULL ({ }) And ({ 1 }) in ({ }) comparison ({ 2 3 4 }) to ({ }) the ({ }) the ({ }) other ({ }) municipalities ({ }) you ({ }) can ({ }) choose ({ 7 8 9 10 }) the ({ }) blue ({ 5 6 }) line ({ }) and ({ 12 }) where ({ 11 13 }) the ({ }) red ({ 14 15 }) line ({ 16 }) exceeds ({ 18 }) the ({ }) blue ({ }) line, ({ 17 19 }) the ({ }) municipality ({ 21 }) is ({ 20 }) worse. ({ 22 }) 
+# Sentence pair (77) source length 1 target length 1 alignment score : 0.423048
+Nebo 
+NULL ({ }) Or ({ 1 }) 
+# Sentence pair (78) source length 11 target length 9 alignment score : 7.10842e-08
+Můžete tedy snadno posoudit, zda má obec nadměrné výdaje. 
+NULL ({ }) So ({ 2 }) you ({ }) can ({ }) easily ({ 3 4 }) assess ({ 1 }) if ({ }) the ({ }) municipality ({ 7 }) has ({ 8 }) excessive ({ 5 6 }) expenditures. ({ 9 }) 
+# Sentence pair (79) source length 26 target length 18 alignment score : 9.12017e-17
+A na pravé straně máme převody, což znamená, že tam máme odchozí a příchozí peníze z pohledu obce. 
+NULL ({ }) So ({ }) and ({ 13 }) on ({ 2 }) the ({ }) right ({ 3 }) side ({ 4 }) we ({ }) have ({ 5 }) the ({ }) transfers ({ 6 }) that ({ 7 }) means ({ 8 9 }) we ({ }) have ({ 11 }) the ({ }) outgoing ({ 10 12 }) and ({ }) the ({ }) incoming ({ 14 }) money ({ 15 }) in ({ }) a ({ }) perspective ({ 16 17 18 }) of ({ 1 }) the ({ }) municipality. ({ }) 
+# Sentence pair (80) source length 9 target length 9 alignment score : 1.35884e-09
+Jedná se ale pouze o dva výstupy z mnoha. 
+NULL ({ }) But ({ }) these ({ 1 5 }) two ({ 8 }) outputs ({ 7 }) are ({ 2 }) only ({ 4 }) two ({ 6 }) of ({ }) many. ({ 3 9 }) 
+# Sentence pair (81) source length 35 target length 27 alignment score : 8.54934e-50
+V současné době používáme některé statistické programy, jako je R Stat Plus, a můžeme provést jakoukoli analýzu, která je nezbytná - kterou po nás chtějí naši nadřízení. 
+NULL ({ 19 }) We ({ }) are ({ }) now ({ }) using ({ }) a ({ }) some ({ }) statistical ({ 11 12 }) programs ({ 24 }) like ({ 16 17 18 20 21 22 23 }) R ({ 25 }) Stat ({ 26 27 }) Plus ({ }) and ({ 13 }) we ({ }) are ({ }) able ({ 14 }) to ({ }) do ({ }) any ({ 15 }) analysis ({ }) em ({ }) which ({ }) is ({ }) em ({ }) em ({ }) necessary ({ }) em, ({ }) which ({ }) is ({ 9 }) asked ({ }) by ({ 10 }) our ({ }) em ({ }) our ({ 1 }) bosses. ({ 2 3 4 5 6 7 8 }) 
+# Sentence pair (82) source length 41 target length 32 alignment score : 3.59307e-30
+Jak vidíte, používáme tento nástroj pro plánování auditu, pro přípravu, pro provozní záležitosti a na vyžádání, to znamená, že když někdo chce tuto obci použít jen pro prezentaci, může použít ten deník. 
+NULL ({ }) So, ({ }) as ({ }) you ({ }) can ({ 2 }) see ({ }) we ({ }) we ({ }) use ({ }) this ({ }) tool ({ }) for ({ 9 }) the ({ }) audit ({ }) planning, ({ 12 13 }) for ({ 11 }) the ({ }) preparation, ({ 7 8 10 }) for ({ 6 }) the ({ }) operational ({ 15 }) level ({ 16 }) and ({ 14 }) upon ({ 26 }) request, ({ 1 23 }) that ({ 17 }) means ({ 18 19 }) when ({ 24 }) somebody ({ 20 }) is ({ }) going ({ 21 22 25 }) to ({ }) municipality ({ }) just ({ 28 }) for ({ 27 }) a ({ }) presentation, ({ 29 30 }) you ({ }) can ({ }) use ({ 3 4 5 }) the ({ }) journal. ({ 31 32 }) 
+# Sentence pair (83) source length 29 target length 21 alignment score : 1.41765e-21
+Pokud chcete vědět, které obce jsou v regionu horší, můžeme to udělat a tyto informace nám pomáhají nejen v samotném auditu. 
+NULL ({ }) If ({ }) you ({ }) want ({ 1 2 }) to ({ }) know ({ 3 }) which ({ 4 }) municipalities ({ 5 }) are ({ 6 }) worse ({ 9 }) in ({ }) a ({ }) region, ({ 8 18 20 21 }) we ({ }) can ({ }) do ({ 10 12 }) it, ({ 17 }) and ({ 13 }) this ({ }) information ({ 15 }) helps ({ 11 }) us ({ 16 }) not ({ 14 }) only ({ }) in ({ 19 }) the ({ }) in ({ 7 }) the ({ }) audit ({ }) itself. ({ }) 
+# Sentence pair (84) source length 18 target length 11 alignment score : 1.58721e-11
+A v souladu s naším poradenským přístupem poskytujeme obcím věcné informace. 
+NULL ({ }) And ({ 1 }) in ({ 2 }) line ({ }) with ({ 4 }) our ({ }) advisory ({ 3 }) approach ({ 9 }) we ({ }) provide ({ 11 }) the ({ }) specific ({ }) fact ({ }) shets ({ 5 }) fact ({ 6 7 8 10 }) sheets ({ }) to ({ }) the ({ }) municipality. ({ }) 
+# Sentence pair (85) source length 37 target length 31 alignment score : 1.49776e-29
+To znamená, že pokud nás zavolá nějaký starosta a chce vědět o jeho obci a o tom, jaká je v této obci jejich finanční situace, můžeme jim poskytnout přehledy a deník. 
+NULL ({ }) That ({ 1 }) means ({ 2 3 }) if ({ }) the ({ }) if ({ 4 }) the ({ }) mayor ({ 5 }) calls ({ 6 7 8 10 11 }) us ({ }) and ({ 9 }) wants ({ 13 }) to ({ }) know ({ }) about ({ 12 16 }) his ({ 14 25 }) municipality ({ }) and ({ 15 }) how ({ 17 18 }) their ({ 23 }) financial ({ 24 }) situation ({ }) is ({ 19 }) in ({ }) the ({ }) in ({ 20 }) this ({ }) municipality, ({ 21 22 }) we ({ }) can ({ }) give ({ }) them ({ 28 29 }) a ({ }) fact ({ }) sheets ({ 26 27 }) and ({ 30 }) the ({ }) journal. ({ 31 }) 
+# Sentence pair (86) source length 8 target length 6 alignment score : 4.59876e-06
+Velice vám děkuji za vaši pozornost. 
+NULL ({ }) So ({ }) thank ({ 4 }) you ({ }) very ({ 1 }) much ({ 2 3 }) for ({ }) your ({ }) attention. ({ 5 6 }) 
+# Sentence pair (87) source length 2 target length 1 alignment score : 0.220689
+Děkuji. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

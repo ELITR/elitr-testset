@@ -1,0 +1,54 @@
+# Sentence pair (1) source length 19 target length 14 alignment score : 1.94893e-12
+Dobré odpoledne dámy a pánové, jmenuji se <NAME> a jsem zástupcem společnosti Trefa s.r.o. 
+NULL ({ }) Good ({ 5 8 10 }) afternoon, ({ }) ladies ({ 11 }) and ({ 4 7 9 }) gentlemen, ({ 2 }) my ({ }) name ({ }) is ({ }) <NAME> ({ 1 }) and ({ }) I ({ }) am ({ }) a ({ }) representative ({ 6 }) of ({ }) company ({ 12 13 }) called ({ }) Trefa ({ 3 }) s.r.o. ({ 14 }) 
+# Sentence pair (2) source length 9 target length 8 alignment score : 8.09223e-06
+Specializujeme se na prodej sladkostí a sladkých nápojů. 
+NULL ({ }) We ({ 1 }) are ({ }) specialized ({ 2 }) in ({ 3 }) selling ({ }) sweets ({ 4 }) and ({ 6 }) sweet ({ 5 }) drinks. ({ 7 8 }) 
+# Sentence pair (3) source length 18 target length 14 alignment score : 1.43399e-08
+Jedním z nejlépe prodávaných výrobků je lékořice od našeho obchodního partnera Mishoc z Maroka. 
+NULL ({ }) Our ({ 10 11 }) one ({ 6 }) of ({ }) the ({ }) best ({ 2 }) selling ({ 5 }) products ({ 4 }) is ({ 3 }) a ({ }) liquorice ({ 7 }) from ({ }) Morocco ({ 14 }) from ({ 12 }) our ({ }) business ({ 13 }) partner ({ 9 }) called ({ 8 }) Mishoc. ({ 1 }) 
+# Sentence pair (4) source length 6 target length 4 alignment score : 0.0253656
+Má opravdu bohatou historii. 
+NULL ({ }) They ({ 1 }) have ({ }) a ({ }) really ({ 4 }) rich ({ 3 }) history. ({ 2 }) 
+# Sentence pair (5) source length 10 target length 6 alignment score : 0.00110936
+Jejich lékořice je jedna z nejlepších. 
+NULL ({ }) Those ({ 1 }) liquorice ({ 2 }) are ({ }) one ({ 3 }) of ({ }) the ({ 4 }) best ({ 5 }) of ({ }) the ({ }) kind. ({ 6 }) 
+# Sentence pair (6) source length 3 target length 4 alignment score : 0.00733658
+Má dlouhou dobu trvanlivosti. 
+NULL ({ }) They ({ 1 }) are ({ 3 }) long-lasting. ({ 2 4 }) 
+# Sentence pair (7) source length 8 target length 4 alignment score : 0.000800227
+Kromě toho prodávají sušenky. 
+NULL ({ }) They ({ }) also ({ 3 }) see... ({ 1 }) they ({ }) also ({ 4 }) sell ({ }) us ({ }) biscuits. ({ 2 }) 
+# Sentence pair (8) source length 9 target length 7 alignment score : 9.74568e-05
+Jejich sušenky jsou vyrobené ze stoprocentní čokolády. 
+NULL ({ }) Those ({ 1 }) biscuits ({ 2 }) are ({ }) made ({ 6 }) of ({ }) one ({ }) hundred ({ 4 }) percent ({ 3 }) chocolate. ({ 5 7 }) 
+# Sentence pair (9) source length 5 target length 4 alignment score : 0.00155272
+Dovážíme také z Ruska. 
+NULL ({ }) Also, ({ 2 }) we ({ }) import ({ 1 }) from ({ }) Russia. ({ 3 4 }) 
+# Sentence pair (10) source length 9 target length 8 alignment score : 0.000130885
+Rusko je jeden z našich největších obchodních partnerů. 
+NULL ({ }) Russia ({ 1 }) is ({ }) one ({ 2 }) of ({ }) our... ({ 5 }) our ({ 3 }) biggest ({ 6 }) business ({ 4 }) partners. ({ 7 8 }) 
+# Sentence pair (11) source length 12 target length 7 alignment score : 3.56479e-07
+Máme od nich čokoládu, sušenky a bonbony. 
+NULL ({ }) They ({ }) sell ({ }) us ({ }) chocolate, ({ }) they ({ 6 }) sell ({ 3 }) us ({ 4 5 7 }) biscuits, ({ 1 }) they ({ }) sell ({ }) us ({ }) bonbons. ({ 2 }) 
+# Sentence pair (12) source length 29 target length 21 alignment score : 2.03191e-20
+I když někteří tvrdí, že ruská čokoláda není tak dobrá jako ta švýcarská nebo belgická, je jedna z nejlepších na světě. 
+NULL ({ }) The ({ }) Russian ({ }) chocolate, ({ 13 }) even-though ({ }) some ({ }) call ({ 1 }) it ({ }) not ({ }) good ({ }) as ({ }) compared ({ 14 }) to ({ }) Swiss ({ }) chocolate ({ 12 }) or ({ 2 }) the ({ 15 }) chocolate ({ 3 5 7 9 11 }) form ({ 4 6 8 }) the ({ }) Belgium, ({ 10 }) is ({ }) also ({ }) one ({ 16 }) of ({ }) the ({ 17 }) best ({ 18 }) in ({ 20 }) the ({ }) world. ({ 19 21 }) 
+# Sentence pair (13) source length 15 target length 10 alignment score : 8.71386e-07
+Pokud máte zájem o ochutnávku čehokoli, máme stánek číslo osm. 
+NULL ({ }) Also, ({ }) if ({ 4 6 }) you ({ }) would ({ 5 }) like ({ 2 }) to ({ }) taste ({ }) something, ({ 1 }) anything, ({ 3 }) we ({ 7 }) have ({ }) a ({ }) stand ({ 9 }) number ({ 8 }) eight. ({ 10 }) 
+# Sentence pair (14) source length 11 target length 9 alignment score : 3.8728e-05
+Můžete se stavit a ochutnat cokoli si budete přát. 
+NULL ({ }) You ({ 1 }) can ({ 6 }) go ({ 4 }) there, ({ 3 }) you ({ }) can ({ }) taste ({ 5 }) absolutely ({ 2 }) anything ({ 9 }) you ({ 7 }) want. ({ 8 }) 
+# Sentence pair (15) source length 17 target length 13 alignment score : 5.89098e-09
+Pokud byste si chtěli něco zakoupit, máme aktuálně slevu dvacet procent na všechno. 
+NULL ({ }) If ({ 6 }) you ({ 3 }) want ({ 4 5 12 }) to ({ }) buy ({ 13 }) something, ({ 1 }) we ({ 7 }) have ({ }) a ({ }) twenty ({ 8 }) percent ({ }) discount ({ 2 }) on ({ }) everything ({ 11 }) at ({ 10 }) the ({ }) moment. ({ 9 }) 
+# Sentence pair (16) source length 3 target length 5 alignment score : 0.000939169
+To je ode mě vše. 
+NULL ({ }) Well, ({ 1 }) that's ({ 2 3 }) everything. ({ 4 5 }) 
+# Sentence pair (17) source length 6 target length 3 alignment score : 0.0237713
+Děkuji za pozornost. 
+NULL ({ }) I'm ({ 1 }) glad ({ 2 }) you ({ }) listened ({ 3 }) to ({ }) me. ({ }) 
+# Sentence pair (18) source length 4 target length 4 alignment score : 0.00067643
+Přeji hezký zbytek dne. 
+NULL ({ }) Have ({ 1 }) a ({ }) good ({ }) day. ({ 2 3 4 }) 
