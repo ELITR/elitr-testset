@@ -11,8 +11,8 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/belgian.en.OSt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/belgian.en.RS.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/belgian.en.RSt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/belgian.en.TTcs
-elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/belgian.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/belgian.en.TTcs.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/belgian.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/belgian.en.TTde.align
 
 
@@ -27,8 +27,8 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/polish.en.OStt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/polish.en.RS.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/polish.en.RSt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/polish.en.TTcs
-elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/polish.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/polish.en.TTcs.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/polish.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/polish.en.TTde.align
 
 
@@ -43,8 +43,8 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/romanian.en.OS
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/romanian.en.RS.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/romanian.en.RSt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/romanian.en.TTcs
-elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/romanian.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/romanian.en.TTcs.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/romanian.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/romanian.en.TTde.align
 
 
@@ -59,9 +59,6 @@ elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/spanish.en.OSt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/spanish.en.RS.mp3
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/spanish.en.RSt
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/spanish.en.TTcs
-elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/spanish.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/spanish.en.TTcs.align
+elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/spanish.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/testset/sao-wgvat/spanish.en.TTde.align
-
-
-
