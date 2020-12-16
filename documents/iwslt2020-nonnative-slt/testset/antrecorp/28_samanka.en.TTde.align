@@ -1,0 +1,30 @@
+# Sentence pair (1) source length 1 target length 1 alignment score : 0.905717
+﻿Hallo! 
+NULL ({ }) Hello! ({ 1 }) 
+# Sentence pair (2) source length 24 target length 17 alignment score : 4.25526e-15
+Ich bin aus der Personalabteilung des Unternehmens Šamanka, s. r. o., das 2018 in Liberec gegründet wurde. 
+NULL ({ }) I'm ({ 5 }) from ({ 2 }) the ({ 4 }) personal ({ }) department ({ }) of ({ }) the ({ }) company ({ 1 }) Šamanka, ({ 6 }) s. ({ }) r. ({ }) o., ({ }) which ({ }) was ({ 12 }) founded ({ 10 13 14 15 }) in ({ }) two ({ 17 }) thousand ({ 7 9 11 }) eighteen ({ }) in ({ }) the ({ }) city ({ 8 }) of ({ }) Liberec. ({ 3 16 }) 
+# Sentence pair (3) source length 5 target length 5 alignment score : 0.000888117
+Wir stellen alkoholfreie Fruchtlimonade her. 
+NULL ({ }) We ({ 1 }) produce ({ 2 }) non-alcoholic ({ 3 }) fruit ({ }) lemonades. ({ 4 5 }) 
+# Sentence pair (4) source length 9 target length 8 alignment score : 3.10561e-06
+Wir unterstützen sowohl lokale als auch ausländische Obstlieferanten. 
+NULL ({ }) We ({ 1 }) support ({ 2 }) both ({ }) local ({ }) and ({ }) foreign ({ 3 }) distributors ({ 4 5 6 7 }) of ({ }) fruit. ({ 8 }) 
+# Sentence pair (5) source length 19 target length 14 alignment score : 3.41414e-17
+Zurzeit verkaufen wir weltweit sechs Geschmacksrichtungen und eine der Sorten ist eine Limited Edition. 
+NULL ({ 11 }) We ({ }) are ({ }) currently ({ 2 }) selling ({ 1 }) six ({ }) flavours ({ 12 13 14 }) all ({ }) over ({ }) the ({ }) world ({ }) and ({ 7 }) one ({ 10 }) of ({ }) the ({ 9 }) flavours ({ 3 4 5 6 8 }) is ({ }) a ({ }) limited ({ }) edition. ({ }) 
+# Sentence pair (6) source length 5 target length 6 alignment score : 9.97792e-05
+Es ist die Sorte Cotton Candy. 
+NULL ({ }) It's ({ 1 }) the ({ }) cotton ({ 3 }) candy ({ 2 }) flavour. ({ 4 5 6 }) 
+# Sentence pair (7) source length 18 target length 15 alignment score : 2.32059e-16
+Wenn Sie sie gern probieren möchten, gibt es... gibt es einige Kostproben an unserem Stand. 
+NULL ({ }) If ({ }) you ({ 4 }) want ({ }) to ({ }) try ({ }) them, ({ }) there ({ }) are ({ 5 7 9 11 13 }) some... ({ }) there ({ 3 6 8 10 12 14 }) are ({ }) some ({ 15 }) samples ({ }) of ({ }) those ({ }) in ({ }) our ({ 1 }) stand. ({ 2 }) 
+# Sentence pair (8) source length 15 target length 17 alignment score : 6.65661e-42
+Unser Stand hat die Nummer 7 und ich glaube, er ist jetzt nicht geöffnet, aber vielleicht morgen. 
+NULL ({ 11 }) Our ({ 5 }) stand ({ 9 }) is ({ 6 }) number ({ 4 }) seven ({ 12 17 }) and ({ 7 8 }) I ({ }) don't ({ }) think ({ }) it's ({ }) open ({ }) now, ({ }) but ({ }) maybe ({ }) tomorrow. ({ 1 2 3 10 13 14 15 16 }) 
+# Sentence pair (9) source length 4 target length 4 alignment score : 0.00772894
+Wir sollten da sein. 
+NULL ({ }) We ({ 1 }) should ({ 2 }) be ({ 3 }) there. ({ 4 }) 
+# Sentence pair (10) source length 30 target length 27 alignment score : 2.25797e-69
+Ich würde Ihnen gerne dafür danken, dass ich Ihnen etwas über mein Unternehmene erzählen durfte, und würde Ihnen gern viel Glück und spaß auf dieser Messe wünschen. 
+NULL ({ }) And ({ }) I ({ }) would ({ }) like ({ }) to ({ }) thank ({ 5 6 7 }) you ({ 19 }) for ({ 9 }) listening ({ 18 }) to ({ }) me ({ }) about ({ }) my ({ 11 12 13 14 20 25 26 }) company ({ 1 }) and ({ 8 22 }) I ({ }) would ({ }) like ({ 27 }) to ({ }) wish ({ 15 21 }) you ({ }) a ({ }) lot ({ 2 17 23 }) of ({ }) luck ({ }) and ({ 16 }) fun ({ 3 4 10 }) at ({ }) this ({ }) trade. ({ 24 }) 

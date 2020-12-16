@@ -1,0 +1,42 @@
+# Sentence pair (1) source length 3 target length 3 alignment score : 0.107291
+Dámy a pánové, 
+NULL ({ }) Ladies ({ 3 }) and ({ 2 }) gentlemen. ({ 1 }) 
+# Sentence pair (2) source length 5 target length 4 alignment score : 0.0158916
+dovolte, abych se představil. 
+NULL ({ }) Let ({ 4 }) me ({ 3 }) to ({ }) introduce ({ 2 }) myself. ({ 1 }) 
+# Sentence pair (3) source length 19 target length 15 alignment score : 7.79443e-17
+Jmenuji se <NAME> a jsem zástupce společnosti Masáže Petr Klíč, která se zabývá lázeňskými procedurami. 
+NULL ({ 2 12 }) My ({ 3 14 }) name ({ 8 9 10 11 15 }) is ({ }) <NAME> ({ 5 }) and ({ 4 }) I ({ }) am ({ }) representative ({ 6 }) of ({ }) the ({ }) company ({ }) Masáže ({ 7 }) Petr ({ }) Klíč ({ }) that ({ }) deals ({ }) with ({ }) spa ({ 1 13 }) procedures. ({ }) 
+# Sentence pair (4) source length 21 target length 24 alignment score : 1.92333e-35
+Zúčastnili jsme se soutěže v Mostu, kde jsme vyhráli první cenu ve dvou kategoriích, a tento rok jsme dostali také několik cen v Sokolově. 
+NULL ({ 3 }) We ({ 5 23 }) participated ({ 6 13 }) in ({ }) Most ({ 24 }) where ({ 7 }) we ({ 14 }) won ({ }) first ({ 12 }) price ({ }) in ({ 2 10 18 21 }) two ({ 4 11 19 22 }) categories ({ 16 }) and ({ 15 }) we ({ 20 }) also ({ }) won ({ 17 }) prizes ({ 8 }) in ({ }) Sokolov ({ 9 }) this ({ }) year. ({ 1 }) 
+# Sentence pair (5) source length 9 target length 6 alignment score : 1.14938e-05
+Žijeme v době, kdy všichni spěchají. 
+NULL ({ }) We ({ 2 }) live ({ 3 4 5 }) in ({ }) time ({ }) when ({ }) everyone ({ 6 }) is ({ }) in ({ }) hurry. ({ 1 }) 
+# Sentence pair (6) source length 2 target length 1 alignment score : 0.345626
+A... 
+NULL ({ }) And... ({ 1 }) doprčic. ({ }) 
+# Sentence pair (7) source length 9 target length 6 alignment score : 0.0010799
+Psychická pohoda vyžaduje regeneraci všech smyslů. 
+NULL ({ }) Psychical ({ }) and ({ }) mental ({ 5 }) well-being ({ 4 }) requires ({ 1 }) regeneration ({ 6 }) of ({ }) all ({ 2 }) senses. ({ 3 }) 
+# Sentence pair (8) source length 6 target length 5 alignment score : 0.000496135
+Jednou z možností je masáž. 
+NULL ({ }) One ({ 1 2 }) of ({ }) the ({ }) option ({ 3 }) is ({ 4 }) massage. ({ 5 }) 
+# Sentence pair (9) source length 8 target length 6 alignment score : 0.00117522
+Masáž je stará jako lidstvo samo. 
+NULL ({ }) Massage ({ 3 }) is ({ 2 }) as ({ }) old ({ 4 }) as ({ }) humanity ({ 6 }) ourselves, ({ 5 }) itself. ({ 1 }) 
+# Sentence pair (10) source length 6 target length 5 alignment score : 0.000717819
+Proto je tu naše společnost. 
+NULL ({ }) This ({ 1 }) why ({ 4 }) our ({ }) company ({ 3 }) is ({ 2 }) here. ({ 5 }) 
+# Sentence pair (11) source length 17 target length 10 alignment score : 2.19687e-13
+Nabízíme vám... magnetoterapii, ... solnou jeskyni, slatinné zábaly, bylinné zábaly. 
+NULL ({ }) We ({ }) can ({ }) offer ({ }) you... ({ 1 }) doprčic, ({ }) magnetotherapy, ({ }) salt ({ }) cave, ({ }) a ({ }) já ({ }) nevim... ({ 2 }) salt ({ 3 4 5 6 7 8 9 10 }) cave, ({ }) peat ({ }) wrap, ({ }) herbal ({ }) wrap. ({ }) 
+# Sentence pair (12) source length 12 target length 10 alignment score : 4.77734e-10
+A máme také speciální retro nabídku na oslavu První republiky. 
+NULL ({ }) And ({ 4 5 6 7 8 9 }) we ({ }) have ({ }) special ({ 1 }) retro ({ 10 }) offer ({ }) for ({ }) the ({ }) celebrate ({ 2 }) the ({ }) First ({ }) Republic. ({ 3 }) 
+# Sentence pair (13) source length 26 target length 21 alignment score : 4.9042e-54
+Srdečně vás zveme do našeho salonu, kde vám nabídneme různé formy relaxace, nejen pro vaše unavená těla, nýbrž i pro duši. 
+NULL ({ }) We ({ }) cordinally ({ 1 }) invite ({ 10 }) you ({ }) to ({ }) our ({ 6 }) salon ({ }) where ({ 7 }) we ({ }) offer ({ }) you ({ }) various ({ 8 }) forms ({ }) of ({ }) relaxation ({ 3 }) not ({ 9 }) only ({ }) for ({ }) your ({ }) tired ({ }) bodies ({ 2 }) but ({ 4 5 20 21 }) also ({ }) to ({ }) your ({ }) soul. ({ 11 12 13 14 15 16 17 18 19 }) 
+# Sentence pair (14) source length 5 target length 3 alignment score : 0.00605671
+Děkuji za pozornost. 
+NULL ({ }) Thank ({ 3 }) you ({ }) for ({ }) your ({ }) attention. ({ 1 2 }) 

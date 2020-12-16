@@ -1,0 +1,39 @@
+# Sentence pair (1) source length 24 target length 15 alignment score : 3.48399e-10
+Dobré odpoledne, jsme firma Mela e Piu, jsme tu a teď vám zazpíváme písničku... OK.. 
+NULL ({ }) Good ({ 1 }) afternoon, ({ }) we ({ 3 }) are ({ 13 }) a ({ 14 }) company ({ 15 }) Mela ({ 5 }) e ({ 6 }) Piu, ({ 7 }) we ({ 8 }) come ({ }) from ({ 11 }) and ({ 10 }) the ({ }) now, ({ 9 }) we ({ 4 }) are ({ }) going ({ }) sing ({ 2 }) a ({ }) song ({ }) for ({ }) you... ({ 12 }) OK... ({ }) 
+# Sentence pair (2) source length 13 target length 13 alignment score : 6.77989e-05
+Mela e Piu, jablko pro tebe, jablko pro tebe – Mela e Piu! 
+NULL ({ }) Mela ({ 1 }) e ({ 2 }) Piu, ({ 3 }) apple ({ 4 }) for ({ 5 }) you, ({ 6 }) apple ({ 7 }) for ({ 8 }) you ({ 9 }) - ({ 10 }) Mela ({ 11 }) e ({ 12 }) Piu! ({ 13 }) 
+# Sentence pair (3) source length 8 target length 6 alignment score : 0.00113763
+Hej, kluci, tehle rap je super! 
+NULL ({ }) Hey, ({ 1 }) you ({ }) guys, ({ 4 }) this ({ }) rap ({ 6 }) is ({ 5 }) really ({ 3 }) nice! ({ 2 }) 
+# Sentence pair (4) source length 12 target length 11 alignment score : 1.39113e-06
+Chodíme na italskou školu – tenhle výlet do Prahy je skvělej. 
+NULL ({ }) We ({ }) attend ({ 1 }) the ({ }) Italian ({ }) school ({ 8 }) - ({ 5 }) this ({ 6 }) trip ({ 7 }) to ({ 2 }) Prague ({ 3 4 9 }) is ({ 10 }) cool. ({ 11 }) 
+# Sentence pair (5) source length 10 target length 7 alignment score : 1.74677e-09
+Máme tady stánek, kde prezentujeme naši značku. 
+NULL ({ }) Where ({ 1 }) you ({ }) have ({ }) a ({ }) stand ({ }) and ({ }) we ({ }) present ({ 3 4 5 6 7 }) the ({ }) brand. ({ 2 }) 
+# Sentence pair (6) source length 14 target length 14 alignment score : 8.88922e-05
+Mela e Piu – jablka pro tebe, jablka pro tebe – Mela e Piu. 
+NULL ({ }) Mela ({ 1 }) e ({ 2 }) Piu ({ 3 }) - ({ 4 }) apples ({ 5 }) for ({ 6 }) you, ({ 7 }) apples ({ 8 }) for ({ 9 }) you ({ 10 }) - ({ 11 }) Mela ({ 12 }) e ({ 13 }) Piu. ({ 14 }) 
+# Sentence pair (7) source length 12 target length 12 alignment score : 3.95039e-09
+Naše údolí se jmenuje di Non, to je místo, z kterého pocházíme. 
+NULL ({ }) Our ({ 2 }) valley ({ 1 }) is ({ 8 }) di ({ 9 }) Non, ({ 5 }) it's ({ 7 }) the ({ }) place ({ }) where ({ }) we ({ }) come ({ 10 }) from. ({ 3 4 6 11 12 }) 
+# Sentence pair (8) source length 8 target length 8 alignment score : 8.70905e-06
+Jablečný koláč, jablečný džus, sušenka, štrůdl, jablečná pěna. 
+NULL ({ }) Apple ({ 1 }) pie, ({ 4 }) apple ({ }) juice, ({ 3 5 7 }) biscuit, ({ 8 }) strudel, ({ 2 }) apple ({ }) mousse. ({ 6 }) 
+# Sentence pair (9) source length 11 target length 8 alignment score : 7.60834e-06
+Chutný, sladký a výborný, ideální svačina, přírodní výživa. 
+NULL ({ }) Tasty, ({ 1 }) sweet, ({ 4 }) and ({ 3 }) delicious, ({ 5 6 7 }) the ({ }) ideal ({ 2 }) snack ({ }) that ({ 8 }) has ({ }) natural ({ }) nutrition. ({ }) 
+# Sentence pair (10) source length 12 target length 12 alignment score : 0.000818771
+Mela e Piu, jablka pro tebe, jablka pro tebe, Mela e Piu. 
+NULL ({ }) Mela ({ 1 }) e ({ 2 }) Piu, ({ 3 }) apples ({ 4 }) for ({ 5 }) you, ({ 6 }) apples ({ 7 }) for ({ 8 }) you, ({ 9 }) Mela ({ 10 }) e ({ 11 }) Piu. ({ 12 }) 
+# Sentence pair (11) source length 10 target length 10 alignment score : 2.32205e-09
+Mmmmmhh so good but don't panic, our products are organic. 
+NULL ({ }) Mmmmmhh ({ 1 }) so ({ }) good ({ 2 }) but ({ }) don't ({ 10 }) panic, ({ 9 }) our ({ }) products ({ 3 4 5 6 7 }) are ({ }) organic. ({ 8 }) 
+# Sentence pair (12) source length 9 target length 10 alignment score : 1.85114e-09
+Mají za sebou dlouho tradici, ale přidáváme i trochu inovace. 
+NULL ({ }) We ({ 1 }) follow ({ 2 }) our ({ }) tradition, ({ }) but ({ }) we ({ }) have ({ 9 }) our ({ 3 4 5 6 7 8 }) aspiration. ({ 10 }) 
+# Sentence pair (13) source length 9 target length 9 alignment score : 0.00470761
+Mela e Piu, jablka pro tebe, jablka pro tebe. 
+NULL ({ }) Mela ({ 1 }) e ({ 2 }) Piu, ({ 3 }) apples ({ 4 }) for ({ 5 }) you, ({ 6 }) apples ({ 7 }) for ({ 8 }) you. ({ 9 }) 

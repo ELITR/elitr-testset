@@ -1,0 +1,14 @@
+_T=20201104_11:30:56_538055	 cp ~/personal_work_ms/Mohammad/new-SLTev/khanacademy-new .
+_T=20201126_14:47:03_573190	 head iwslt-antrecorp
+_T=20201126_14:47:12_573190	 > iwslt-antrecorp
+_T=20201126_14:47:39_573190	 nano iwslt-antrecorp
+_T=20201126_14:47:55_573190	 head iwslt-consecutive
+_T=20201126_14:48:01_573190	 > iwslt-consecutive
+_T=20201126_14:48:18_573190	 nano iwslt-consecutive
+_T=20201126_14:48:34_573190	 head iwslt-khanacademy
+_T=20201126_14:48:41_573190	 > iwslt-khanacademy
+_T=20201126_14:49:03_573190	 nano iwslt-khanacademy
+_T=20201126_14:49:16_573190	 head iwslt-wgvat
+_T=20201126_14:49:22_573190	 > iwslt-wgvat
+_T=20201126_14:49:48_573190	 nano iwslt-wgvat
+_T=20201126_14:49:55_573190	 ls

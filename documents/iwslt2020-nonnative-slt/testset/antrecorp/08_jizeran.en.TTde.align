@@ -1,0 +1,30 @@
+# Sentence pair (1) source length 11 target length 10 alignment score : 5.75155e-10
+﻿So, hallo, ich möchte Ihnen mein Unternehmen namens Jizeran vorstellen. 
+NULL ({ }) So, ({ }) hello, ({ }) I ({ }) want ({ 2 }) to ({ }) introduce ({ 5 }) you ({ }) our ({ }) company ({ 3 4 6 7 8 9 }) called ({ 1 }) Jizeran. ({ 10 }) 
+# Sentence pair (2) source length 8 target length 7 alignment score : 0.00111568
+Wir sind aus Liberec und brauen Bier. 
+NULL ({ }) We ({ 4 }) are ({ 2 }) from ({ 3 }) Liberec ({ 7 }) and ({ 5 }) we ({ }) brew ({ 6 }) beer. ({ 1 }) 
+# Sentence pair (3) source length 27 target length 25 alignment score : 1.43854e-19
+Es begann mit einer kleinen Gruppe von Freunden, die einfach nur Bier brauen wollten und nach einer Weile fanden wir heraus, dass es jeder mag. 
+NULL ({ }) So, ({ 6 }) we ({ }) started ({ 1 }) as ({ 9 }) a ({ }) small, ({ 8 }) small ({ }) group ({ 10 }) of ({ 7 }) friends ({ }) that ({ 2 4 17 19 }) just ({ 14 }) wanted ({ 3 5 18 20 25 }) to ({ }) brew ({ 13 }) beer ({ 12 }) and ({ 15 }) after ({ 16 }) some ({ 24 }) time ({ }) we ({ }) find ({ 11 }) out ({ }) that ({ 22 }) everybody ({ 21 }) likes ({ 23 }) it. ({ }) 
+# Sentence pair (4) source length 20 target length 23 alignment score : 2.07939e-56
+Wir gaben es unseren Freunden und sie mochten es und so begannen wir, ins Ausland zu exportieren und im großen Stil zu brauen. 
+NULL ({ 10 18 }) we ({ }) give ({ 8 }) it ({ }) to ({ }) our ({ }) friends ({ 5 }) and ({ 6 }) they ({ 7 }) likes ({ 3 }) it, ({ 12 20 23 }) so ({ 13 14 15 16 17 21 22 }) we ({ 1 }) start ({ 19 }) to ({ 2 }) export ({ }) internationally ({ }) and ({ }) brew ({ }) in ({ 9 }) big. ({ 4 11 }) 
+# Sentence pair (5) source length 7 target length 7 alignment score : 0.000352284
+Wir bieten vier Arten von Bier an. 
+NULL ({ }) Now ({ 2 }) we ({ }) offer ({ 6 }) four ({ 3 4 }) types ({ 7 }) of ({ 5 }) beer. ({ 1 }) 
+# Sentence pair (6) source length 13 target length 12 alignment score : 4.10255e-08
+Reichenbier Nummer Zehn, Reichenbier Elf, Reichenbier Dreizehn und unser dunkles Spezialbier Fünfzehn. 
+NULL ({ }) Reichenbier ({ }) number ({ 2 }) ten, ({ 3 }) Reichenbier ({ }) eleven, ({ 11 }) Reichenbier ({ 4 7 }) thirteen ({ 5 12 }) and ({ 8 }) our ({ 9 }) special, ({ 10 }) dark ({ 6 }) special, ({ }) fifteen. ({ 1 }) 
+# Sentence pair (7) source length 11 target length 10 alignment score : 3.46095e-07
+Unser Bier gibt es in Dosen, Flaschen, Fässern und PET-Flaschen. 
+NULL ({ }) We ({ }) offer ({ }) our ({ }) beer ({ 2 }) in ({ 4 }) can, ({ 5 }) bottle, ({ 6 8 }) barrel ({ 3 7 }) and ({ 9 }) pet ({ 1 }) bottle. ({ 10 }) 
+# Sentence pair (8) source length 12 target length 12 alignment score : 1.57866e-06
+Und wir... unser Bier ist aus Hopfen, der aus Žatec importiert wird. 
+NULL ({ }) And, ({ 1 2 }) we, ({ 12 }) ... ({ 11 }) our ({ 3 }) beer ({ 4 }) is ({ }) from ({ 6 }) hops ({ 8 }) that's ({ 5 }) imported ({ 10 }) from ({ 9 }) Žatec. ({ 7 }) 
+# Sentence pair (9) source length 27 target length 23 alignment score : 1.65691e-50
+Ich freue mich, dass Sie alle zugehört haben und wenn Sie unser Bier probieren wollen, können Sie uns am Stand Nummer 45 besuchen. 
+NULL ({ 9 }) Now, ({ 15 }) I'm ({ 20 }) glad ({ 1 }) that ({ 4 }) you ({ 8 10 19 }) all ({ 5 11 17 }) listened ({ 7 18 }) to ({ }) me ({ }) and ({ }) if ({ }) you ({ }) would ({ 23 }) like ({ 2 }) to ({ }) taste ({ 3 }) our ({ 12 }) beer ({ 13 }) you ({ }) can ({ }) visit ({ 14 }) us ({ }) at ({ }) stand ({ 16 }) number ({ 21 }) forty ({ 22 }) five. ({ 6 }) 
+# Sentence pair (10) source length 2 target length 1 alignment score : 0.248096
+Danke. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

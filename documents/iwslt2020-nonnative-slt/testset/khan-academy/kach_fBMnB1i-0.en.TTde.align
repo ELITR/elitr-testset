@@ -1,0 +1,75 @@
+# Sentence pair (1) source length 7 target length 6 alignment score : 0.00086808
+fülle ganze zahlen in die tabelle 
+NULL ({ }) fill ({ 1 }) in ({ }) the ({ }) table ({ 4 }) with ({ 3 }) whole ({ 6 }) numbers ({ 2 5 }) 
+# Sentence pair (2) source length 7 target length 7 alignment score : 0.000450887
+und schreibe 430 auf fünf verschiedene arten 
+NULL ({ }) to ({ 1 }) write ({ 2 }) 430 ({ 3 }) in ({ }) five ({ 6 }) different ({ 5 7 }) ways ({ 4 }) 
+# Sentence pair (3) source length 8 target length 7 alignment score : 7.15657e-05
+denken wir nach wie wir das machen 
+NULL ({ }) so ({ }) lets ({ 4 }) think ({ 3 }) about ({ 1 7 }) this ({ 6 }) a ({ 5 }) little ({ }) bit ({ 2 }) 
+# Sentence pair (4) source length 9 target length 5 alignment score : 7.76126e-05
+diese 4 bedeutet 4 hunderter 
+NULL ({ }) we ({ }) could ({ }) literally ({ 1 3 }) view ({ }) this ({ }) 4 ({ 2 }) as ({ }) 4 ({ 4 }) hundreds ({ 5 }) 
+# Sentence pair (5) source length 4 target length 5 alignment score : 0.000770135
+diese 4 bedeutet 4 hunderter 
+NULL ({ }) so ({ 1 }) its ({ 3 }) 4 ({ 2 4 }) hundreds ({ 5 }) 
+# Sentence pair (6) source length 12 target length 9 alignment score : 3.29418e-06
+und 3 ist an der zehnerstelle also 3 zehner 
+NULL ({ }) and ({ 1 }) the ({ }) 3 ({ 2 }) is ({ 3 }) in ({ 4 }) the ({ 5 }) tens ({ 9 }) place ({ 6 }) so ({ 7 }) its ({ }) 3 ({ 8 }) tens ({ }) 
+# Sentence pair (7) source length 8 target length 7 alignment score : 0.000354525
+4 hunderter und 3 zehner sind das 
+NULL ({ }) so ({ }) this ({ 7 }) is ({ 6 }) 4 ({ 1 }) hundreds ({ 2 }) and ({ 3 }) 3 ({ 4 }) tens ({ 5 }) 
+# Sentence pair (8) source length 8 target length 5 alignment score : 0.000271434
+wir können aber einiges umstellen 
+NULL ({ }) but ({ 3 }) we ({ }) could ({ }) rearrange ({ 4 5 }) things ({ 2 }) a ({ }) little ({ }) bit ({ 1 }) 
+# Sentence pair (9) source length 8 target length 8 alignment score : 4.52691e-05
+zum beispiel könnten wir nur drei hunderter machen 
+NULL ({ }) for ({ 2 }) example ({ 6 8 }) we ({ 3 }) might ({ 1 }) only ({ 5 }) have ({ 4 }) 3 ({ }) hundreds ({ 7 }) 
+# Sentence pair (10) source length 9 target length 8 alignment score : 1.71835e-07
+wir haben 1 hunderter von der hunderterstelle genommem 
+NULL ({ }) so ({ }) we ({ }) took ({ 2 }) a ({ 1 }) hundred ({ }) from ({ 3 5 7 8 }) the ({ 6 }) hundreds ({ 4 }) place ({ }) 
+# Sentence pair (11) source length 9 target length 6 alignment score : 8.25902e-05
+und könnten ihn zur zehnerstelle geben 
+NULL ({ }) and ({ 1 }) we ({ 2 }) could ({ }) give ({ 4 }) it ({ 3 }) to ({ 6 }) the ({ }) tens ({ }) place ({ 5 }) 
+# Sentence pair (12) source length 13 target length 9 alignment score : 1.63059e-07
+wenn du die 100 nimmst und zur zehnerstelle gibst 
+NULL ({ }) so ({ }) if ({ 3 4 }) you ({ 2 }) take ({ 1 5 }) that ({ 9 }) hundred ({ }) and ({ 6 }) give ({ 7 }) it ({ }) to ({ }) the ({ }) tens ({ }) place ({ 8 }) 
+# Sentence pair (13) source length 5 target length 4 alignment score : 0.00509055
+hundert sind 10 zehner 
+NULL ({ }) a ({ 1 }) hundred ({ }) is ({ 2 }) 10 ({ 3 }) tens ({ 4 }) 
+# Sentence pair (14) source length 12 target length 11 alignment score : 1.08363e-06
+also hast du 10 zehner und 3 zehner waren schon da 
+NULL ({ }) so ({ 1 }) youve ({ }) got ({ 2 }) 10 ({ 4 }) tens ({ 5 }) and ({ 6 }) then ({ 9 11 }) you ({ 3 }) already ({ }) had ({ 10 }) 3 ({ 7 }) tens ({ 8 }) 
+# Sentence pair (15) source length 10 target length 5 alignment score : 0.000372331
+macht also 13 zehner dort 
+NULL ({ }) so ({ }) youre ({ 1 }) going ({ 3 }) to ({ }) have ({ }) 13 ({ }) tens ({ 4 }) right ({ 5 }) over ({ }) here ({ 2 }) 
+# Sentence pair (16) source length 6 target length 6 alignment score : 2.19459e-05
+wenn das ein bisschen verwirrend ist 
+NULL ({ }) now ({ 4 5 6 }) this ({ 2 }) seems ({ 3 }) a ({ }) little ({ }) confusing ({ 1 }) 
+# Sentence pair (17) source length 4 target length 6 alignment score : 6.34162e-06
+erinnere dich dieses hier ist 430 
+NULL ({ }) remember ({ 1 2 3 4 }) this ({ }) is ({ 5 }) 430 ({ 6 }) 
+# Sentence pair (18) source length 5 target length 6 alignment score : 0.000449118
+das hier ist 300 plus 130 
+NULL ({ }) this ({ 1 }) is ({ 3 }) 300 ({ 4 }) plus ({ 5 }) 130 ({ 2 6 }) 
+# Sentence pair (19) source length 3 target length 5 alignment score : 0.000525291
+das sind noch immer 430 
+NULL ({ }) thats ({ 1 2 4 }) still ({ 3 }) 430 ({ 5 }) 
+# Sentence pair (20) source length 9 target length 9 alignment score : 5.56959e-06
+genauso könntest du dieses als 200 plus 230 betrachten 
+NULL ({ }) likewise ({ 1 4 9 }) you ({ 3 }) could ({ 2 }) view ({ 5 }) this ({ }) as ({ }) 200 ({ 6 }) plus ({ 7 }) 230 ({ 8 }) 
+# Sentence pair (21) source length 8 target length 6 alignment score : 0.00151496
+230 ist dasselbe wie 23 zehner 
+NULL ({ }) 230 ({ 1 }) is ({ 2 }) the ({ }) same ({ 4 }) thing ({ 3 }) as ({ }) 23 ({ 5 }) tens ({ 6 }) 
+# Sentence pair (22) source length 10 target length 9 alignment score : 4.50442e-06
+genauso könntest du dieses als 100 plus 330 sehen 
+NULL ({ }) same ({ }) way ({ 1 4 }) you ({ 3 }) could ({ 2 }) view ({ 5 }) this ({ }) as ({ 9 }) 100 ({ 6 }) plus ({ 7 }) 330 ({ 8 }) 
+# Sentence pair (23) source length 4 target length 4 alignment score : 0.0330209
+33 zehner sind 330 
+NULL ({ }) 33 ({ 1 }) tens ({ 2 }) is ({ 3 }) 330 ({ 4 }) 
+# Sentence pair (24) source length 12 target length 12 alignment score : 4.42643e-10
+und schliesslich könntest du es als 0 hunderter plus 43 zehner sehen 
+NULL ({ }) and ({ 1 }) finally ({ 2 5 }) you ({ 4 }) could ({ 3 }) view ({ 6 }) it ({ }) as ({ 12 }) 0 ({ 7 }) hundreds ({ 8 }) and ({ 9 }) 43 ({ 10 }) tens ({ 11 }) 
+# Sentence pair (25) source length 4 target length 4 alignment score : 0.0376097
+43 zehner sind 430 
+NULL ({ }) 43 ({ 1 }) tens ({ 2 }) is ({ 3 }) 430 ({ 4 }) 

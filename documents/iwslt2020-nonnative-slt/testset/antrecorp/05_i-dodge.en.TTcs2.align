@@ -1,0 +1,81 @@
+# Sentence pair (1) source length 3 target length 3 alignment score : 0.0614943
+Venku je pěkně... 
+NULL ({ }) Nice ({ 2 }) weather ({ 1 }) outside... ({ 3 }) 
+# Sentence pair (2) source length 6 target length 5 alignment score : 0.003842
+Ano, dneska je docela teplo. 
+NULL ({ }) Yes, ({ 1 }) it ({ 3 }) is ({ }) quite ({ 5 }) hot ({ 2 }) today. ({ 4 }) 
+# Sentence pair (3) source length 15 target length 10 alignment score : 1.1268e-09
+No ano, myslím, že je skvělý den na večeři, nemyslíte? 
+NULL ({ }) Well, ({ 2 }) yeah, ({ 1 }) I ({ }) think ({ 4 }) it's ({ }) a ({ }) very ({ }) good ({ 3 }) day ({ }) to ({ }) have ({ }) dinner, ({ 8 }) don't ({ }) you ({ }) agree? ({ 5 6 7 9 10 }) 
+# Sentence pair (4) source length 11 target length 9 alignment score : 1.66614e-08
+To ano, ale nevím s kým, nevíte o někom? 
+NULL ({ }) Yes, ({ }) but ({ 3 }) I ({ }) wouldn't ({ 4 }) know ({ }) with ({ }) whom, ({ 5 6 7 }) do ({ 2 }) you ({ 1 }) know ({ 8 }) anybody? ({ 9 }) 
+# Sentence pair (5) source length 6 target length 6 alignment score : 0.00114553
+Vím o jednom skvělém benátském podnikateli. 
+NULL ({ }) I ({ 1 }) know ({ 2 }) an ({ 3 }) amazing ({ 6 }) Venetian ({ 4 }) entrepreneur. ({ 5 }) 
+# Sentence pair (6) source length 3 target length 4 alignment score : 0.000941399
+A kdo to je? 
+NULL ({ }) Who ({ 2 3 }) is ({ 1 }) he? ({ 4 }) 
+# Sentence pair (7) source length 6 target length 4 alignment score : 0.0193974
+Stojí přímo před vámi. 
+NULL ({ }) He's ({ 1 }) right ({ 2 }) in ({ }) front ({ 4 }) of ({ }) you. ({ 3 }) 
+# Sentence pair (8) source length 3 target length 3 alignment score : 0.0245862
+To myslíte vážně? 
+NULL ({ }) Are ({ 2 }) you ({ 1 }) serious? ({ 3 }) 
+# Sentence pair (9) source length 10 target length 5 alignment score : 0.000120858
+Ano, vyzvednu vás v osm. 
+NULL ({ }) Yes, ({ 1 }) I'll ({ 3 }) come ({ }) to ({ }) pick ({ }) you ({ }) up ({ }) at ({ }) eight ({ 2 }) pm. ({ 4 5 }) 
+# Sentence pair (10) source length 4 target length 4 alignment score : 0.00295246
+Neřekla jsem, že souhlasím. 
+NULL ({ }) I ({ }) haven't ({ 2 }) said ({ 3 }) yes. ({ 1 4 }) 
+# Sentence pair (11) source length 13 target length 8 alignment score : 2.86545e-05
+Zatím, kde vás mám vyzvednout se svém Lamborghini? 
+NULL ({ }) Not ({ 1 }) yet, ({ 2 }) where ({ 5 }) shall ({ }) I ({ }) come ({ 3 }) to ({ }) pick ({ 7 }) you ({ }) up ({ }) with ({ 6 }) my ({ }) Lamborghini? ({ 4 8 }) 
+# Sentence pair (12) source length 4 target length 3 alignment score : 0.00554161
+Jak to myslíte? 
+NULL ({ }) What ({ 2 }) do ({ }) you ({ }) mean? ({ 1 3 }) 
+# Sentence pair (13) source length 14 target length 14 alignment score : 1.95654e-15
+Přesně tak, jak to říkám, moje Lambo mi včera z Itálie přivezla moje společnost. 
+NULL ({ 4 }) Exactly ({ 13 }) what ({ }) I ({ }) said, ({ 14 }) my ({ }) Lambo ({ 6 7 8 9 10 11 12 }) was ({ }) delivered ({ }) yesterday ({ 5 }) from ({ }) Italy ({ 1 }) by ({ }) my ({ }) enterprise. ({ 2 3 }) 
+# Sentence pair (14) source length 5 target length 4 alignment score : 0.0111059
+Takže se zabýváte transportem? 
+NULL ({ }) So ({ 3 }) you ({ }) deal ({ 4 }) with ({ 2 }) transports? ({ 1 }) 
+# Sentence pair (15) source length 21 target length 16 alignment score : 2.23106e-11
+Ano, vlastním společnost se sídlem v Benátkách, jmenuje se Idoge, dodáváme a přepravujeme po celém světě. 
+NULL ({ }) Yes, ({ 1 }) I ({ }) own ({ }) a ({ }) company ({ 3 4 }) based ({ 5 }) in ({ }) Venice, ({ 8 }) its ({ 2 }) name ({ 9 }) is ({ }) Idoge, ({ 10 }) we ({ }) do ({ 11 }) delivery ({ 7 }) and ({ 12 }) shipping ({ 6 }) all ({ }) over ({ 13 }) the ({ }) world. ({ 14 15 16 }) 
+# Sentence pair (16) source length 7 target length 5 alignment score : 0.0026821
+Jakže se ta společnost jmenuje? 
+NULL ({ }) What's ({ 1 }) the ({ }) name ({ 2 }) of ({ }) the ({ 3 }) company ({ 4 }) again? ({ 5 }) 
+# Sentence pair (17) source length 13 target length 10 alignment score : 2.31106e-08
+Idoge, a taky prodáváme stroje na výrobu těstovin, italských těstovin. 
+NULL ({ }) Idoge, ({ 1 }) and ({ 2 }) we ({ }) also ({ }) sell ({ }) machinery ({ 5 9 }) that ({ }) can ({ }) make ({ 3 }) pasta, ({ 6 }) like ({ 4 }) Italian ({ 8 }) pasta. ({ 7 10 }) 
+# Sentence pair (18) source length 3 target length 3 alignment score : 0.0342868
+To je zajímavé. 
+NULL ({ }) Oh, ({ }) that's ({ 1 }) interesting. ({ 2 3 }) 
+# Sentence pair (19) source length 36 target length 34 alignment score : 1.6768e-32
+A ne jen to, založili jsme ji v roce dva tisíce šestnáct, to sice není tak dávno, ale naši zákazníci nám věří, jsme známi svojí profesionalitou, ve skutečnosti máme skvělou zpětnou vazbu a recenze. 
+NULL ({ 13 }) And ({ 1 }) not ({ 4 }) only ({ 2 }) that, ({ 3 }) we ({ }) started ({ 5 }) in ({ 8 }) two ({ }) thousand ({ }) sixteen, ({ }) not ({ }) too ({ }) long ({ }) ago, ({ 6 }) but ({ 18 }) actually ({ }) our ({ }) customers ({ 19 }) trust ({ 17 }) us, ({ 15 16 }) we're ({ 20 }) very ({ }) well ({ }) known ({ 12 14 21 22 24 }) for ({ }) our ({ }) professionalism ({ 9 10 11 23 25 26 27 28 }) in ({ }) fact ({ }) they ({ 7 }) give ({ }) us ({ 32 }) excellent ({ 29 30 31 }) feedbacks ({ }) and ({ 33 }) reviews. ({ 34 }) 
+# Sentence pair (20) source length 21 target length 17 alignment score : 5.30196e-19
+A proto vás dnes vemu do restaurace U Maria, takže budeme moct ochutnat těstoviny vyprodukované našimi stroji. 
+NULL ({ }) And ({ 1 }) that's ({ }) why ({ 2 }) tonight ({ }) I'll ({ 3 }) take ({ }) you ({ }) to ({ }) Mario's ({ 8 }) restaurant, ({ }) so ({ }) you'll ({ 4 15 }) be ({ 5 7 10 12 14 16 }) able ({ 6 9 11 13 }) to ({ }) taste ({ }) pasta ({ }) produced ({ }) by ({ }) our ({ }) machinery. ({ 17 }) 
+# Sentence pair (21) source length 5 target length 6 alignment score : 3.13773e-05
+Jste si sebou trochu moc jistý. 
+NULL ({ }) Boy, ({ 3 }) you ({ }) look ({ 2 4 6 }) too ({ 5 }) confident. ({ 1 }) 
+# Sentence pair (22) source length 8 target length 8 alignment score : 3.10248e-06
+To protože jsem pyšný na to, co dělám. 
+NULL ({ }) That's ({ 7 }) because ({ 5 }) I'm ({ }) proud ({ 6 8 }) of ({ 4 }) what ({ 3 }) I ({ 1 }) do. ({ 2 }) 
+# Sentence pair (23) source length 9 target length 7 alignment score : 5.98593e-06
+Takže, počkáte na mě u sebe doma? 
+NULL ({ }) So, ({ 5 6 7 }) will ({ 4 }) you ({ }) wait ({ 1 }) for ({ }) me ({ }) at ({ }) your ({ 2 }) place? ({ 3 }) 
+# Sentence pair (24) source length 8 target length 6 alignment score : 0.000261033
+Lichotíte mi, ale už jsem zasnoubená. 
+NULL ({ }) Oh, ({ }) I'm ({ }) so ({ }) pleased ({ 2 }) but ({ 3 }) I'm ({ 5 }) already ({ 1 }) engaged. ({ 4 6 }) 
+# Sentence pair (25) source length 5 target length 4 alignment score : 0.00186543
+Ou, už jsem zvyklý... 
+NULL ({ }) Oh ({ }) I'm ({ 3 }) used ({ 2 4 }) to ({ }) it... ({ 1 }) 
+# Sentence pair (26) source length 3 target length 3 alignment score : 0.0805722
+Sbohem, opatrujte se. 
+NULL ({ }) Bye, ({ 2 }) take ({ 1 }) care. ({ 3 }) 
+# Sentence pair (27) source length 2 target length 2 alignment score : 0.0319007
+Omlouvám se... 
+NULL ({ }) I'm ({ }) sorry... ({ 1 2 }) 

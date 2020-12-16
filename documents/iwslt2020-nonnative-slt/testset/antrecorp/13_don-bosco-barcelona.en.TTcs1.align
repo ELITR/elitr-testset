@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 9 target length 5 alignment score : 0.000359365
+Pracuji ve společnosti Hotel Bosco. 
+NULL ({ }) OK, ({ 3 }) I'm ({ 2 4 }) from ({ }) the ({ }) business ({ }) of ({ }) a ({ }) Hotel ({ 1 }) Bosco. ({ 5 }) 
+# Sentence pair (2) source length 10 target length 8 alignment score : 7.01293e-06
+Naše adresa je v Barceloně, v srdci města. 
+NULL ({ }) We're ({ 1 }) in ({ }) Barcelona, ({ 2 }) located ({ 7 }) in ({ }) the ({ }) heart ({ 8 }) of ({ }) the ({ 3 4 5 }) city. ({ 6 }) 
+# Sentence pair (3) source length 12 target length 10 alignment score : 1.65152e-10
+Jak dobře víte, Barcelona nabízí velké množství rušných turistických míst. 
+NULL ({ }) Like ({ 3 5 7 9 }) you ({ }) know, ({ 2 }) Barcelona ({ 4 6 8 10 }) has ({ }) a ({ }) lot ({ }) of ({ }) a ({ }) tourist ({ }) hotspots, ({ }) that... ({ 1 }) 
+# Sentence pair (4) source length 13 target length 15 alignment score : 2.56622e-13
+Jsme tu k tomu, abychom vám pomohli tato místa najít a dostat se na ně. 
+NULL ({ }) Our ({ 1 }) service ({ 2 3 }) is ({ }) help ({ 7 14 }) you ({ 6 }) to ({ }) find ({ 15 }) and ({ 11 13 }) to ({ 5 8 }) go ({ 9 }) to ({ 4 10 }) these ({ 12 }) hotspots. ({ }) 
+# Sentence pair (5) source length 28 target length 20 alignment score : 1.37364e-23
+Proto vám nabízíme zapůjčení vozidla, ale můžete použít i městskou hromadnou dopravu, která se nachází dvě minuty od našeho hotelu. 
+NULL ({ 14 }) So ({ }) we ({ }) offer ({ }) a ({ }) service, ({ 11 20 }) of, ({ }) like, ({ 3 }) we ({ 1 }) can ({ }) give ({ }) you ({ }) a ({ }) car ({ 15 }) rental ({ }) or ({ }) you ({ 2 }) also ({ }) have ({ }) the ({ }) public ({ }) transport ({ }) in ({ }) about ({ }) two ({ 10 }) minutes ({ 5 7 8 13 17 19 }) from ({ 4 6 12 16 18 }) our ({ }) hotel. ({ 9 }) 
+# Sentence pair (6) source length 16 target length 11 alignment score : 3.54702e-09
+Také nabízíme tělocvičnu, v případě že byste si chtěli procvičit tělo. 
+NULL ({ }) So, ({ 9 }) we ({ }) also ({ 8 }) have ({ }) a ({ }) gym, ({ 3 }) like, ({ 2 }) if ({ }) you ({ }) want ({ }) to ({ }) train ({ 6 }) your ({ 10 }) body ({ 4 5 11 }) or ({ }) anything. ({ 1 7 }) 
+# Sentence pair (7) source length 7 target length 4 alignment score : 0.015239
+Máme také konferenční místnost. 
+NULL ({ }) Also, ({ 3 }) we ({ }) have... ({ }) OK... ({ 4 }) a ({ }) conference ({ 1 }) room. ({ 2 }) 
+# Sentence pair (8) source length 14 target length 11 alignment score : 1.29258e-12
+Pokud jste podnikatelé, pak máte příležitost navázat zde nové obchodní vztahy. 
+NULL ({ }) If ({ 1 }) you ({ }) go ({ }) with ({ 4 6 7 8 9 10 11 }) your ({ }) business, ({ }) you ({ 2 }) can ({ }) create ({ 3 }) really... ({ }) business ({ }) relationships ({ }) in ({ }) there. ({ 5 }) 
+# Sentence pair (9) source length 13 target length 7 alignment score : 2.29222e-06
+Nabízíme rovněž zajímavé lázně a plavecký bazén. 
+NULL ({ }) And ({ 1 }) also ({ }) we ({ }) can ({ }) offer ({ }) you ({ }) some ({ 7 }) interesting ({ 2 4 6 }) spa ({ 5 }) or ({ }) a ({ }) swimming ({ }) pool. ({ 3 }) 
+# Sentence pair (10) source length 8 target length 7 alignment score : 1.59844e-06
+V našem hotelu si tedy i odpočinete. 
+NULL ({ }) So ({ }) you ({ }) can ({ 6 }) relax ({ 1 7 }) also ({ 4 }) in ({ }) our ({ 2 3 }) hotel. ({ 5 }) 
+# Sentence pair (11) source length 29 target length 21 alignment score : 9.81557e-55
+Tolik tedy zhruba o našem hotelu a najdete nás u stánku číslo sto pět. Pokud budete chtít přijít, rád vás uvidím. 
+NULL ({ }) So, ({ }) basically, ({ }) this ({ 3 8 }) is ({ }) our ({ 2 5 6 }) hotel ({ 10 }) and ({ 7 }) we ({ }) are ({ }) located ({ }) in ({ }) the ({ }) stand ({ 16 }) number ({ }) hundred ({ }) five, ({ 9 21 }) so ({ }) if ({ }) you ({ }) want ({ }) to ({ }) come, ({ 20 }) I ({ }) will ({ 11 12 13 14 15 17 18 19 }) be ({ }) glad ({ }) to ({ }) see ({ }) you. ({ 1 4 }) 
+# Sentence pair (12) source length 9 target length 12 alignment score : 2.79312e-09
+Doufám, že se vám moje prezentace líbila a děkuji, že jste přišli. 
+NULL ({ }) Hope ({ 7 }) you ({ 4 }) like ({ 6 }) it ({ 2 9 10 }) and ({ 3 8 }) thank ({ 5 }) you ({ 11 }) for ({ 1 }) coming. ({ 12 }) 

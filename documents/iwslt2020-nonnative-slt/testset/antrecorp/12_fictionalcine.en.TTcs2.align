@@ -1,0 +1,24 @@
+# Sentence pair (1) source length 29 target length 23 alignment score : 2.1958e-20
+Vážené dámy, vážení pánové, jmenuji se <NAME> a jsem ředitelem fiktivní společnosti FictionalCine, která řídí kina, promítání filmů a výukové programy pro školy. 
+NULL ({ 6 }) Dear ({ 11 12 13 14 }) ladies ({ }) and ({ }) gentlemens, ({ 4 }) my ({ 5 }) name ({ }) is ({ }) <NAME> ({ }) I ({ 3 15 }) am ({ }) a ({ 1 2 }) director ({ 16 17 }) of ({ }) the ({ }) fictional ({ 10 }) company ({ }) FictionalCine, ({ }) which ({ }) runs ({ }) the ({ 7 }) cinema, ({ }) shows ({ 9 }) movies ({ }) and ({ 8 18 }) prepare ({ 21 }) educational ({ 20 }) programmes ({ 19 }) for ({ 22 }) schools. ({ 23 }) 
+# Sentence pair (2) source length 16 target length 11 alignment score : 1.57408e-11
+Naše společnost byla založena prvního září dva tisíce osmnáct v Mělníce. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) was ({ 3 }) established ({ }) in ({ }) Mělník ({ 4 }) on ({ }) the ({ }) first ({ }) of ({ }) the ({ }) September ({ }) in ({ 6 7 8 9 10 }) two ({ 11 }) thousand ({ 5 }) eighteen. ({ }) 
+# Sentence pair (3) source length 15 target length 12 alignment score : 6.84291e-13
+Naše společnost měla původně pět členů, ale aktuálně ji provozují čtyři lidé. 
+NULL ({ }) Our ({ 1 }) company ({ 2 }) have... ({ 3 }) had ({ }) five ({ }) members ({ 5 }) but ({ }) currently ({ }) we ({ }) operate ({ 6 7 8 9 10 11 12 }) the ({ }) company ({ }) with ({ 4 }) four ({ }) people. ({ }) 
+# Sentence pair (4) source length 14 target length 10 alignment score : 1.74705e-06
+Každý měsíc pro naše zákazníky připravujeme nové programy a nabídky. 
+NULL ({ }) Every ({ 2 }) month ({ }) every ({ }) month ({ 7 }) we ({ }) prepare ({ 8 }) the ({ }) new ({ 10 }) programmes ({ 9 }) and ({ }) offers ({ 1 6 }) for ({ 3 }) our ({ 4 }) customers. ({ 5 }) 
+# Sentence pair (5) source length 9 target length 7 alignment score : 0.00115381
+Nadto pro naše zákazníky nabízíme i osvěžení. 
+NULL ({ }) As ({ }) additional ({ 7 }) activity ({ 5 }) we ({ }) serve ({ 1 }) refreshment ({ 6 }) for ({ 2 }) our ({ 3 }) customers. ({ 4 }) 
+# Sentence pair (6) source length 30 target length 25 alignment score : 1.32327e-68
+Pokud vás zajímají naše výukové programy, můžete nás kontaktovat na e-mailové adrese fictionalcine zavináč gmail tečka com nebo můžete navštívit náš stánek číslo padesát pět. 
+NULL ({ }) And ({ }) if ({ 6 }) you ({ }) are ({ 2 10 }) interested ({ 3 11 }) in ({ }) our ({ 4 }) educational ({ 5 }) programmes ({ }) you ({ }) can ({ }) contact ({ 19 }) us ({ 25 }) via ({ }) email ({ }) fictionalcine ({ }) at ({ 1 }) gmail ({ }) dot ({ }) com ({ }) or ({ }) you ({ }) can ({ 8 12 13 15 17 20 22 24 }) visited ({ }) at ({ 14 16 18 21 23 }) our ({ }) stand ({ }) number ({ 7 9 }) fifty ({ }) five. ({ }) 
+# Sentence pair (7) source length 7 target length 5 alignment score : 0.00120883
+Budeme se na vás těšit. 
+NULL ({ }) We ({ }) are ({ 3 4 }) looking ({ 5 }) forward ({ 1 }) to ({ }) you ({ }) welcome. ({ 2 }) 
+# Sentence pair (8) source length 2 target length 1 alignment score : 0.277981
+Děkuji. 
+NULL ({ }) Thank ({ 1 }) you. ({ }) 

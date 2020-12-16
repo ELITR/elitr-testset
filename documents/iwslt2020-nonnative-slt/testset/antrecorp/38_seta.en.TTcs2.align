@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 12 target length 11 alignment score : 3.60362e-10
+Dobré odpoledne všichni, jmenuji se <NAME> a já se jmenuji <NAME>. 
+NULL ({ }) Good ({ 11 }) afternoon, ({ 4 }) everyone, ({ }) my ({ 2 3 }) name ({ 1 }) is ({ }) <NAME>, ({ 8 }) and ({ 5 7 9 }) my ({ 6 10 }) name ({ }) is ({ }) <NAME>. ({ }) 
+# Sentence pair (2) source length 16 target length 17 alignment score : 8.8358e-13
+Chtěl bych vám představit naši společnost SETA, což je zkratka pro chytré telefony, elektroniku a technologické příslušenství. 
+NULL ({ }) I ({ 15 }) would ({ 1 }) like ({ 4 }) to ({ 10 }) introduce ({ 16 }) you ({ }) our ({ }) company ({ 13 }) SETA, ({ }) which ({ 17 }) stands ({ 5 6 7 8 9 }) for ({ 11 }) smartphones, ({ 12 }) electronics, ({ 14 }) technology ({ 2 }) accessories. ({ 3 }) 
+# Sentence pair (3) source length 13 target length 11 alignment score : 4.441e-08
+Jsme firma, která prodává elektronické produkty, například tiskárny, chytré telefony, hodinky. 
+NULL ({ }) We ({ }) are ({ 1 }) a ({ 4 }) company ({ 10 }) that ({ 2 3 }) sells ({ 5 }) electronic ({ 11 }) products, ({ }) for ({ }) example ({ }) printers, ({ }) smartphones, ({ 9 }) watches. ({ 6 7 8 }) 
+# Sentence pair (4) source length 14 target length 13 alignment score : 3.43526e-13
+Mimo jiné jsme mezinárodní firma, která komunikuje ve francouzštině, angličtině, holandštině a němčině. 
+NULL ({ }) We ({ }) are ({ }) also ({ }) an ({ 1 }) international ({ }) company ({ }) that ({ 5 6 }) communicates ({ 8 }) in ({ }) French, ({ 7 }) English, ({ 13 }) Dutch ({ }) and ({ 12 }) German. ({ 2 3 4 9 10 11 }) 
+# Sentence pair (5) source length 16 target length 11 alignment score : 8.53525e-10
+Jsme zde na veletrhu, kde také nabízíme speciální nabídky pro zákazníky. 
+NULL ({ }) We ({ }) are ({ 1 }) here ({ 9 }) at ({ 2 }) the ({ }) Trade ({ 5 }) Fair ({ }) and ({ }) we ({ 3 6 }) have ({ 11 }) special ({ 4 }) offers ({ }) also ({ }) for ({ 10 }) the ({ 7 }) buyers. ({ 8 }) 
+# Sentence pair (6) source length 6 target length 8 alignment score : 1.12685e-07
+Jedna z promo akcí se týká fotoaparátu Instax. 
+NULL ({ }) One ({ 1 }) promotion ({ }) goes ({ 5 }) over ({ }) Instax ({ 3 4 6 7 8 }) camera. ({ 2 }) 
+# Sentence pair (7) source length 12 target length 10 alignment score : 4.45313e-10
+Pokud si tento fotoaparát zakoupíte, dostanete navíc sto snímků zadarmo. 
+NULL ({ }) When ({ 3 5 7 9 }) you ({ }) buy ({ 4 6 8 }) this ({ 10 }) camera, ({ }) you ({ }) also ({ }) get ({ }) hundred ({ }) cards ({ 2 }) for ({ }) free. ({ 1 }) 
+# Sentence pair (8) source length 24 target length 20 alignment score : 4.59084e-22
+Je důležité zmínit, že také nabízíme tržní slevy pouze na veletrhu, ale také množstevní slevy na objednávky nad třicet kusů. 
+NULL ({ }) It's ({ }) important ({ }) to ({ }) notice ({ }) that ({ }) we ({ }) also ({ }) grant ({ 1 }) trade ({ }) discounts ({ }) only ({ }) the ({ 13 }) trade, ({ 14 }) but ({ }) also ({ }) a ({ }) quantity ({ }) discounts ({ 7 12 }) for ({ 4 }) the ({ 5 6 10 11 16 }) orders ({ 17 }) over ({ }) thirty ({ 8 15 18 20 }) products. ({ 2 3 9 19 }) 
+# Sentence pair (9) source length 9 target length 8 alignment score : 6.79865e-08
+Já, eh, všechny naše ceny jsou s DPH. 
+NULL ({ }) Our, ({ 8 }) all, ({ 2 }) all ({ 5 }) of ({ }) our ({ }) prices ({ 3 4 6 7 }) also ({ }) include ({ 1 }) VAT. ({ }) 
+# Sentence pair (10) source length 22 target length 16 alignment score : 7.41195e-16
+Em, děkuji za váš čas a doufám, že se potkáme u našeho stánku číslo šedesát tři. 
+NULL ({ 6 }) Em, ({ }) thank ({ 8 }) you ({ }) for ({ }) your ({ }) time ({ 7 }) and ({ 9 }) I ({ 15 }) hope ({ 5 11 }) you ({ 4 10 14 }) se, ({ }) at, ({ 12 }) I ({ }) see ({ 3 13 }) you ({ }) at ({ }) their ({ 16 }) stand, ({ }) it's ({ }) number ({ 1 }) sixty ({ 2 }) three. ({ }) 
+# Sentence pair (11) source length 4 target length 3 alignment score : 0.0524296
+Mockrát vám děkujeme. 
+NULL ({ }) Thank ({ 1 }) you ({ }) very ({ 2 }) much. ({ 3 }) 
+# Sentence pair (12) source length 2 target length 1 alignment score : 0.174033
+Děkujeme. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

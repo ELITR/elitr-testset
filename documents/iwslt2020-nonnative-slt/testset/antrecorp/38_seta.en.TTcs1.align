@@ -1,0 +1,36 @@
+# Sentence pair (1) source length 12 target length 11 alignment score : 5.58772e-10
+Dobré odpoledne všem, jmenuji se <NAME>. A já se jmenuji <NAME>. 
+NULL ({ }) Good ({ 9 }) afternoon, ({ 5 }) everyone, ({ 1 }) my ({ 11 }) name ({ }) is ({ 10 }) <NAME>, ({ }) and ({ }) my ({ 6 }) name ({ }) is ({ 2 3 4 7 8 }) <NAME>. ({ }) 
+# Sentence pair (2) source length 16 target length 15 alignment score : 5.17572e-10
+Rád bych vám představil společnost SETA, což je zkratka: chytré telefony, elektronika a technologické doplňky. 
+NULL ({ }) I ({ }) would ({ 7 }) like ({ 15 }) to ({ 6 }) introduce ({ 9 }) you ({ }) our ({ 8 }) company ({ }) SETA, ({ }) which ({ 12 }) stands ({ 3 4 5 }) for ({ 13 }) smartphones, ({ 10 }) electronics, ({ 11 14 }) technology ({ 2 }) accessories. ({ 1 }) 
+# Sentence pair (3) source length 13 target length 12 alignment score : 6.08378e-08
+Jsme firma, která prodává elektronická zařízení, například tiskárny, chytré telefony a hodinky. 
+NULL ({ }) We ({ 2 }) are ({ }) a ({ 12 }) company ({ }) that ({ 3 }) sells ({ 5 }) electronic ({ 4 }) products, ({ 10 }) for ({ 11 }) example ({ }) printers, ({ 6 7 8 }) smartphones, ({ 9 }) watches. ({ 1 }) 
+# Sentence pair (4) source length 14 target length 12 alignment score : 2.25295e-08
+Navíc jsme mezinárodní firma, která komunikuje ve francouzštině, angličtině, nizozemštině a němčině. 
+NULL ({ }) We ({ 4 }) are ({ 11 }) also ({ }) an ({ 7 8 10 }) international ({ 6 }) company ({ }) that ({ 5 }) communicates ({ 12 }) in ({ 9 }) French, ({ }) English, ({ 3 }) Dutch ({ }) and ({ 2 }) German. ({ 1 }) 
+# Sentence pair (5) source length 16 target length 12 alignment score : 5.59521e-09
+Přijeli jsme sem na veletrh a máme pro kupující připravené zvláštní nabídky. 
+NULL ({ }) We ({ }) are ({ }) here ({ 12 }) at ({ 3 }) the ({ 4 7 }) Trade ({ 8 }) Fair ({ 5 }) and ({ 2 }) we ({ 9 }) have ({ 1 }) special ({ }) offers ({ 10 11 }) also ({ }) for ({ 6 }) the ({ }) buyers. ({ }) 
+# Sentence pair (6) source length 6 target length 7 alignment score : 2.10305e-05
+Jedna ze slev se týká fotoaparátu Instax. 
+NULL ({ }) One ({ 1 }) promotion ({ 4 }) goes ({ 7 }) over ({ 2 }) Instax ({ 3 5 6 }) camera. ({ }) 
+# Sentence pair (7) source length 12 target length 8 alignment score : 8.83038e-08
+Když zakoupíte tento fotoaparát, dostanete zdarma sto fotopapírů. 
+NULL ({ }) When ({ 3 5 7 }) you ({ }) buy ({ 4 6 }) this ({ 8 }) camera, ({ }) you ({ }) also ({ }) get ({ 2 }) hundred ({ }) cards ({ }) for ({ }) free. ({ 1 }) 
+# Sentence pair (8) source length 24 target length 13 alignment score : 8.37378e-16
+Je důležité poznamenat, že máme také množstevní slevy na objednávky nad třicet produktů. 
+NULL ({ }) It's ({ }) important ({ }) to ({ }) notice ({ }) that ({ }) we ({ }) also ({ }) grant ({ }) trade ({ }) discounts ({ }) only ({ 1 }) the ({ }) trade, ({ }) but ({ }) also ({ }) a ({ }) quantity ({ 7 }) discounts ({ }) for ({ }) the ({ 5 9 }) orders ({ 6 10 }) over ({ }) thirty ({ 11 13 }) products. ({ 2 3 4 8 12 }) 
+# Sentence pair (9) source length 9 target length 6 alignment score : 0.000309688
+V našich cenách je zahrnuté DPH. 
+NULL ({ }) Our, ({ 3 }) all, ({ 6 }) all ({ 5 }) of ({ 2 }) our ({ 4 }) prices ({ }) also ({ }) include ({ 1 }) VAT. ({ }) 
+# Sentence pair (10) source length 22 target length 17 alignment score : 1.00788e-43
+Děkuji za váš čas a doufám, že se uvidíme u našeho stánku, je to číslo šedesát tři. 
+NULL ({ 8 }) Em, ({ }) thank ({ 1 }) you ({ }) for ({ 5 }) your ({ }) time ({ }) and ({ }) I ({ 13 }) hope ({ 4 11 }) you ({ 3 12 15 }) se, ({ }) at, ({ }) I ({ 16 }) see ({ 9 14 }) you ({ 6 10 }) at ({ }) their ({ 17 }) stand, ({ }) it's ({ 7 }) number ({ }) sixty ({ 2 }) three. ({ }) 
+# Sentence pair (11) source length 4 target length 2 alignment score : 0.0597861
+Moc děkuji. 
+NULL ({ }) Thank ({ 1 }) you ({ }) very ({ }) much. ({ 2 }) 
+# Sentence pair (12) source length 2 target length 1 alignment score : 0.242784
+Děkuji. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 

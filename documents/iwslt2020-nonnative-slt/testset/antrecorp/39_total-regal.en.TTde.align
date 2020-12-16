@@ -1,0 +1,48 @@
+# Sentence pair (1) source length 28 target length 28 alignment score : 4.28758e-19
+Hallo Leute, mein Name ist <NAME> und ich bin der Moderator des heutigen Infomercials, das von der berühmtesten Übungsfirma präsentiert wird, die direkt aus Österreich kommt, Total Regal. 
+NULL ({ }) Hello ({ 1 }) fellas, ({ 11 }) my ({ }) name ({ 2 }) is ({ }) <NAME> ({ 9 }) and ({ 7 }) I ({ 8 }) am ({ 4 5 6 }) your ({ 3 }) host ({ 28 }) for ({ 16 }) today's ({ 14 }) infomercial ({ 10 }) which ({ }) is ({ }) presented ({ 21 }) by ({ 15 }) the ({ 22 }) most ({ 23 }) famous ({ 20 26 }) practice ({ 17 }) firm, ({ 18 }) straight ({ 12 }) outta ({ }) Austria, ({ 13 19 24 27 }) Total ({ 25 }) Regal. ({ }) 
+# Sentence pair (2) source length 20 target length 14 alignment score : 1.21304e-11
+Wir haben seit 1999 den gesamten Markt erorbert und die Träume anderer Unternehmen zerstört. 
+NULL ({ }) We ({ 1 }) have ({ }) conquered ({ 8 }) the ({ }) market ({ 11 12 13 14 }) all ({ }) the ({ 10 }) way ({ 2 }) since ({ }) nineteen ({ }) ninety ({ }) nine ({ 5 }) and ({ 9 }) we ({ }) have ({ 3 }) crushed ({ 4 }) other ({ 6 }) firm's ({ }) dreams ({ }) also. ({ 7 }) 
+# Sentence pair (3) source length 21 target length 17 alignment score : 7.59649e-18
+Unser Geschäftsführer hat diese erfolgreiche Organisation schon geleitet, als manche von Ihnen noch nicht einmal geboren waren. 
+NULL ({ }) So, ({ }) in ({ }) fact ({ 1 2 3 13 14 15 16 }) our ({ }) chief ({ 5 17 }) executive ({ 4 }) officer ({ }) has ({ 9 }) led ({ }) this ({ }) successful ({ }) organization ({ }) before ({ }) some ({ 7 }) of ({ 11 }) you ({ }) all ({ 6 }) weren't ({ 12 }) even ({ }) born ({ 8 }) yet. ({ 10 }) 
+# Sentence pair (4) source length 3 target length 6 alignment score : 1.44176e-05
+Stellen Sie sich das mal vor. 
+NULL ({ }) Think ({ 5 }) about ({ 1 2 }) that. ({ 3 4 6 }) 
+# Sentence pair (5) source length 9 target length 5 alignment score : 0.000433808
+Also, wo sind unsere Niederlassungen? 
+NULL ({ }) So ({ 1 }) we ({ }) are ({ }) our... ({ }) where ({ 2 }) are ({ 3 }) our ({ 4 }) headquarters ({ 5 }) located? ({ }) 
+# Sentence pair (6) source length 6 target length 6 alignment score : 0.000254173
+Sie sind offensichtlich in den Bergen. 
+NULL ({ }) They ({ 4 }) are ({ 2 }) obviously ({ 3 }) in ({ 1 }) the ({ }) mountains. ({ 5 6 }) 
+# Sentence pair (7) source length 11 target length 12 alignment score : 1.05255e-08
+Nein, nur Spaß, wir sind tatsächlich in richtigen Städten wie Wien vertreten. 
+NULL ({ }) No ({ 6 }) just ({ 2 10 }) kidding, ({ 3 11 }) we ({ 4 }) actually ({ 8 }) do ({ 1 }) have ({ }) real ({ 9 }) cities ({ 7 }) besides ({ 12 }) Vienna. ({ 5 }) 
+# Sentence pair (8) source length 4 target length 3 alignment score : 0.0433605
+Und unser Dresscode? 
+NULL ({ }) And, ({ 3 }) our ({ }) dress ({ 1 }) code? ({ 2 }) 
+# Sentence pair (9) source length 8 target length 8 alignment score : 9.428e-05
+Kurze Röcke und kurze Lederhosen, nein, nur Spaß. 
+NULL ({ }) Short ({ 5 }) skirts ({ 2 }) and ({ 3 }) leather ({ 4 }) shorts, ({ 6 }) no ({ 1 }) just ({ 7 }) kidding. ({ 8 }) 
+# Sentence pair (10) source length 24 target length 21 alignment score : 2.62829e-15
+Aber wir lockern unsere traditionalle Kleiderordnung bei einer unserer unzähligen Partys schon mal auf, um ein Bier zu trinken oder so. 
+NULL ({ 13 }) But ({ }) we ({ }) actually ({ }) might ({ 14 }) crack ({ 21 }) up ({ }) our ({ 4 }) traditional ({ 5 }) clothes ({ 3 }) at ({ 1 }) some ({ 12 }) of ({ }) the ({ }) countless ({ 11 }) parties ({ 8 }) that ({ 2 }) we ({ }) have, ({ 6 }) to ({ 7 }) have ({ }) one ({ 9 }) beer ({ 10 }) or ({ 20 }) something. ({ 15 16 17 18 19 }) 
+# Sentence pair (11) source length 5 target length 5 alignment score : 0.010058
+Okay, machen wir zwei draus. 
+NULL ({ }) Alright ({ 2 }) make ({ 5 }) that ({ 3 }) two ({ 4 }) beers. ({ 1 }) 
+# Sentence pair (12) source length 7 target length 7 alignment score : 3.75224e-05
+Also, warum sollten Sie unsere Produkte kaufen? 
+NULL ({ }) So, ({ 4 }) why ({ 3 }) should ({ 6 }) you ({ }) buy ({ 7 }) our ({ 1 5 }) products? ({ 2 }) 
+# Sentence pair (13) source length 23 target length 17 alignment score : 1.35455e-13
+Wir verkaufen unsere beliebtesten Produkte, die nebenbei richtig kultig geworden sind, seit 1999, also seit zwei Jahrzehnten. 
+NULL ({ }) We ({ 1 }) have ({ }) been ({ }) selling ({ 5 }) our ({ 3 }) most ({ 4 }) popular ({ }) products, ({ 9 }) which ({ }) have ({ }) become ({ 10 }) really ({ }) iconic ({ }) by ({ }) the ({ 6 }) way, ({ 7 13 }) since ({ }) nineteen ({ }) ninety ({ 12 15 }) nine, ({ 2 }) so ({ 8 }) two ({ 16 }) decades. ({ 11 14 17 }) 
+# Sentence pair (14) source length 29 target length 27 alignment score : 7.83961e-19
+Und... Wie zum Beispiel die Helping Hand, die perfekte Aufbewahrung für alle Arten von Kleidern, ebenso wie Jacken, oder Spacewonder, wo man Schuhe und Taschen stapeln kann. 
+NULL ({ }) And... ({ 4 7 10 }) Like ({ 12 }) the ({ 8 }) Helping ({ 3 6 9 }) Hand, ({ 11 }) which ({ }) is ({ }) a ({ }) perfect ({ 1 }) storage ({ 15 }) for ({ 14 }) any ({ 2 }) kind ({ }) of ({ }) clothes, ({ 13 16 }) just ({ }) like ({ 17 }) jackets, ({ }) or ({ }) the ({ 5 }) Spacewonder ({ 27 }) where ({ 21 }) you ({ 22 }) can ({ 18 20 }) stack ({ 26 }) up ({ 19 }) shoes ({ 23 }) and ({ 24 }) bags. ({ 25 }) 
+# Sentence pair (15) source length 18 target length 20 alignment score : 1.44909e-17
+Also, schauen Sie sich unseren Laden mal an und wie wir auf Deutsch sagen: "Ihre Zufriedenheit ist uns nicht egal." 
+NULL ({ 7 }) So ({ 1 }) go ({ }) check ({ 16 }) out ({ 2 }) our ({ }) store ({ }) and ({ 9 }) like ({ 10 }) we ({ 11 }) say ({ 6 17 18 19 20 }) in ({ 3 }) German: ({ 5 }) "Ihre ({ 8 }) Zufriedenheit ({ 4 }) ist ({ }) uns ({ 12 }) nicht ({ }) egal." ({ 13 14 15 }) 
+# Sentence pair (16) source length 2 target length 1 alignment score : 0.196276
+Danke! 
+NULL ({ }) Thank ({ 1 }) you! ({ }) 

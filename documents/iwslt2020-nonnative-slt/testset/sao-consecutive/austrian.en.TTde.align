@@ -1,0 +1,261 @@
+# Sentence pair (1) source length 6 target length 7 alignment score : 8.26472e-07
+Herr Mayrbeurle, das Wort liegt bei Ihnen. 
+NULL ({ }) Mister ({ 1 }) Mayrbeurle, ({ 2 }) the ({ }) floor ({ 3 }) is ({ }) yours. ({ 4 5 6 7 }) 
+# Sentence pair (2) source length 2 target length 1 alignment score : 0.327025
+Danke. 
+NULL ({ }) Thank ({ 1 }) you. ({ }) 
+# Sentence pair (3) source length 7 target length 5 alignment score : 0.000898269
+Vielen Dank für die Einladung. 
+NULL ({ }) Thank ({ }) you ({ }) very ({ 1 }) much ({ 2 }) for ({ 3 }) the ({ 4 }) invitation. ({ 5 }) 
+# Sentence pair (4) source length 13 target length 13 alignment score : 1.00931e-11
+Es ist mir eine Ehre, hier zu sein, um zu Ihnen zu sprechen. 
+NULL ({ }) It ({ 1 }) is ({ 2 }) an ({ 3 }) honour ({ 4 }) for ({ }) me ({ 5 }) to ({ 7 }) be ({ 10 }) here ({ 6 11 }) to ({ }) speak ({ 8 9 }) to ({ 12 }) you. ({ 13 }) 
+# Sentence pair (5) source length 27 target length 22 alignment score : 5.17113e-22
+Mein Thema ist es, Ihnen einen kurzen Überblick über unser Massendaten-Instrument zu geben, das wir seit drei Jahren beim österreichischen Rechnungshof einsetzen. 
+NULL ({ }) And ({ }) my ({ 2 11 }) topic ({ 1 4 10 }) is ({ 3 }) to ({ 12 }) give ({ 5 6 }) you ({ }) a ({ }) brief ({ 7 }) overview ({ 8 }) about ({ 9 }) our ({ }) big ({ 13 }) data ({ }) tool ({ 14 }) we ({ 15 }) use ({ }) in ({ }) the ({ }) Austrian ({ 20 }) Court ({ }) of ({ }) Audit ({ 21 }) since ({ 16 }) three ({ 17 }) years ({ 18 }) now. ({ 19 22 }) 
+# Sentence pair (6) source length 17 target length 15 alignment score : 9.98285e-14
+Bevor ich wirklich anfange, möchte ich Ihnen einen Überblick über die größten österreichischen Gemeinden geben. 
+NULL ({ }) So ({ }) before ({ 1 }) I ({ 2 }) really ({ 3 4 }) start ({ 5 }) I ({ 6 }) want ({ }) to ({ }) give ({ 7 8 }) you ({ }) an ({ }) overview ({ 9 10 }) of ({ }) the ({ 11 }) biggest ({ 12 }) Austrian ({ 13 }) municipalities. ({ 14 15 }) 
+# Sentence pair (7) source length 26 target length 23 alignment score : 1.74363e-16
+Man kann die Gemeinden mit mehr als zehntausend Einwohnern sehen, und ab zweitausend und elf sind wir berechtigt, alle diese Kommunalverwaltungen zu auditieren. 
+NULL ({ }) You ({ 1 }) can ({ }) see ({ 10 }) the ({ 3 }) municipalities ({ 4 }) with ({ 5 }) more ({ 8 }) than ({ 9 }) ten ({ 2 }) thousand ({ }) inhabitants ({ 6 7 }) and ({ 14 }) since ({ 15 }) two ({ 16 }) thousand ({ 13 }) and ({ 11 }) eleven ({ 12 }) we ({ 17 }) are ({ }) entitled ({ 18 }) to ({ }) audit ({ }) all ({ 19 }) these ({ }) local ({ 20 }) governments. ({ 21 22 23 }) 
+# Sentence pair (8) source length 6 target length 5 alignment score : 0.00194285
+Die Schwelle zuvor war zwanzigtausend. 
+NULL ({ }) The ({ 1 }) limit ({ 2 }) before ({ 3 }) was ({ 4 }) twenty ({ }) thousand. ({ 5 }) 
+# Sentence pair (9) source length 17 target length 15 alignment score : 1.85959e-15
+Die grauen Punkte haben also mehr als zwanzigtausend Einwohner und die blauen weniger als zwanzigtausend. 
+NULL ({ }) So ({ 1 }) the ({ }) grey ({ 3 }) points ({ 2 4 }) are ({ }) over ({ 8 9 }) twenty ({ 5 }) thousand ({ }) inhabitants ({ 6 7 }) and ({ 10 }) the ({ 11 }) blue ({ }) ones ({ 13 }) are ({ }) under ({ 12 14 }) twenty ({ }) thousand. ({ 15 }) 
+# Sentence pair (10) source length 6 target length 7 alignment score : 2.56007e-05
+Die Erläuterungen sind noch in deutscher Sprache. 
+NULL ({ }) The ({ 1 }) explanations ({ 2 }) is ({ }) still ({ 3 4 }) in ({ 5 }) German. ({ 6 7 }) 
+# Sentence pair (11) source length 3 target length 4 alignment score : 0.000150032
+Es tut mir Leid. 
+NULL ({ }) Sorry ({ 1 }) for ({ }) that. ({ 2 3 4 }) 
+# Sentence pair (12) source length 11 target length 9 alignment score : 1.23377e-09
+Insgesamt sind wir also berechtigt, 75 Gemeinden zu prüfen. 
+NULL ({ }) So ({ 4 }) in ({ }) total ({ 2 }) we ({ 3 }) are ({ }) entitled ({ 5 }) to ({ 8 }) audit ({ }) seventy ({ 6 }) five ({ 1 9 }) municipalities. ({ 7 }) 
+# Sentence pair (13) source length 11 target length 10 alignment score : 6.95041e-10
+Dies sind ungefähr drei Punkte und zwei Prozent des Gesamtbetrags. 
+NULL ({ }) This ({ 1 }) is ({ }) about ({ }) three ({ 4 }) point ({ }) two ({ 2 }) percent ({ 3 }) of ({ }) the ({ }) total ({ 5 }) amount. ({ 6 7 8 9 10 }) 
+# Sentence pair (14) source length 7 target length 6 alignment score : 8.71898e-06
+Wir beraten aber sämtliche österreichischen Gemeinden. 
+NULL ({ }) But ({ 1 }) we ({ }) are ({ }) counseling ({ 2 4 }) all ({ 3 }) Austrian ({ 5 }) communities. ({ 6 }) 
+# Sentence pair (15) source length 21 target length 19 alignment score : 1.79511e-18
+Aus diesem Grund haben wir in unserer Abteilung beschlossen, ein spezielles Tool zu entwickeln, das wir als Gemeindeüberwachungsinstrument bezeichnen. 
+NULL ({ }) And ({ }) for ({ }) that ({ }) reason ({ }) we ({ 5 }) decided ({ 9 }) in ({ 6 }) our ({ }) department ({ 7 8 }) to ({ 13 }) develop ({ }) a ({ 10 }) special ({ 11 12 }) tool, ({ 14 }) which ({ }) we ({ 16 }) call ({ 15 }) the ({ }) Municipality ({ 17 }) Monitoring ({ 1 18 }) Tool. ({ 2 3 4 19 }) 
+# Sentence pair (16) source length 18 target length 16 alignment score : 1.53026e-13
+Das Entwicklungsteam in unserer Abteilung besteht aus drei jungen Ökonomen, und ich bin einer von denen. 
+NULL ({ }) And ({ }) the ({ }) development ({ 5 }) team ({ 6 }) consists ({ 1 7 }) of ({ }) three ({ 8 }) young ({ 9 10 }) economists ({ 2 }) in ({ 3 }) our ({ }) department ({ 4 }) and ({ 11 }) I ({ 12 }) am ({ 13 14 }) one ({ }) of ({ }) those. ({ 15 16 }) 
+# Sentence pair (17) source length 10 target length 10 alignment score : 5.48496e-07
+Und wir drei alle verwenden das Instrument für unterschiedliche Zwecke. 
+NULL ({ }) And ({ 1 }) we ({ 2 }) all ({ 4 }) three ({ 3 }) use ({ 5 }) the ({ 6 }) tool ({ 7 }) for ({ 8 }) different ({ 9 }) purposes. ({ 10 }) 
+# Sentence pair (18) source length 17 target length 15 alignment score : 1.12439e-13
+Was war der Zweck, was war das Ziel für den Grund, dieses Instrument zu gestalten? 
+NULL ({ }) So ({ }) what ({ 1 }) was ({ 2 }) the ({ 3 }) goal, ({ 4 }) what ({ 5 }) was ({ 6 }) the ({ 7 }) aim ({ 8 }) for ({ }) the  ({ 10 }) em ({ }) reason ({ }) for ({ 9 }) designing ({ 11 }) this ({ 12 }) tool? ({ 13 14 15 }) 
+# Sentence pair (19) source length 15 target length 12 alignment score : 1.06114e-11
+Der Hauptgrund bestand darin, ein Analysewerkzeug für die finanzielle Risikobeurteilung zu finden. 
+NULL ({ }) The ({ }) main ({ 6 }) reason ({ 11 }) was ({ }) to ({ }) to ({ }) find ({ 12 }) an ({ 5 }) analysis ({ }) tool ({ }) for ({ 7 }) the ({ 8 }) financial ({ 9 }) risk ({ 10 }) assessment. ({ 1 2 3 4 }) 
+# Sentence pair (20) source length 12 target length 11 alignment score : 2.05683e-10
+Wir versuchen also zunächst, für jede Gemeinde ein Profil zu erstellen. 
+NULL ({ }) So ({ 3 }) we ({ }) are ({ }) trying ({ 10 }) firstly ({ 1 2 }) to ({ }) prepare ({ 11 }) a ({ 8 }) profile ({ 4 9 }) for ({ 5 }) each ({ 6 }) municipality. ({ 7 }) 
+# Sentence pair (21) source length 7 target length 6 alignment score : 0.000102137
+Dabei berücksichtigen wir alle relevanten Faktoren. 
+NULL ({ }) With ({ 1 2 }) to ({ }) consideration ({ 3 }) of ({ }) all ({ 4 }) relevant ({ 5 }) factors. ({ 6 }) 
+# Sentence pair (22) source length 25 target length 17 alignment score : 1.08049e-16
+Im zweiten Schritt bewerten wir die Gemeinden hinsichtlich ihrer Bedeutung für die Prüfungsaktivitäten des derzeitigen österreichischen Rechnungshofs. 
+NULL ({ }) In ({ 2 }) the ({ }) second ({ }) step ({ 1 3 }) we ({ 5 }) assess ({ 4 }) the ({ 6 }) municipalities ({ 7 }) with ({ }) regard ({ }) to ({ }) their ({ 8 9 }) significance ({ 10 }) for ({ 11 }) the ({ 12 }) audit ({ 13 }) activisties ({ 15 }) of ({ }) the ({ }) Austrian ({ }) current ({ }) Austrian ({ 16 }) Court ({ }) of ({ 14 }) Audit. ({ 17 }) 
+# Sentence pair (23) source length 17 target length 14 alignment score : 3.2217e-14
+Und schließlich stufen wir die Gemeinden anhand bestimmter Indikatoren nach dem finanziellen Risiko ein. 
+NULL ({ }) And ({ 1 }) finally ({ 2 }) we ({ 4 }) rank ({ 3 }) the ({ 5 }) municipalities ({ 6 }) according ({ 10 }) to ({ }) the ({ }) financial ({ }) risk ({ }) on ({ 9 }) the ({ }) basis ({ 8 13 }) of ({ }) certain ({ 7 11 12 }) indicators. ({ 14 }) 
+# Sentence pair (24) source length 21 target length 19 alignment score : 5.54448e-16
+Die Einstufung ist immer der interessantes Verfahren, der interessanteste Teil der ganzen Geschichte, weil wir alle Gemeinden vergleichen können. 
+NULL ({ }) The ({ 1 }) ranking ({ 2 }) is ({ 3 }) always ({ 4 }) the ({ }) interesting ({ 7 }) part, ({ 6 }) the ({ }) most ({ 5 8 }) interesting ({ 10 }) part ({ 9 }) of ({ 11 }) the ({ }) whole ({ 12 }) story, ({ 13 14 }) because ({ }) we ({ 15 }) can ({ }) compare ({ 18 }) any ({ 16 }) municipalities. ({ 17 19 }) 
+# Sentence pair (25) source length 2 target length 1 alignment score : 0.327025
+Danke. 
+NULL ({ }) Thank ({ 1 }) you. ({ }) 
+# Sentence pair (26) source length 14 target length 14 alignment score : 5.84815e-14
+Die größte Herausforderung bei jedem Datenbankprojekt besteht darin, Daten von gutem Qualitätsniveau zu sammeln. 
+NULL ({ }) So ({ 1 }) the ({ }) biggest ({ 2 }) challenge ({ 3 }) of ({ }) every ({ 10 }) database ({ 11 12 }) project ({ 4 }) is ({ }) to ({ 13 }) collect ({ 5 }) data ({ 9 }) with ({ }) quality. ({ 6 7 8 14 }) 
+# Sentence pair (27) source length 6 target length 8 alignment score : 1.45838e-08
+Wir haben es am Tag zuvor bereits gehört. 
+NULL ({ }) We ({ 1 }) heard ({ 2 }) it ({ 3 }) the ({ }) day ({ 5 7 }) before. ({ 4 6 8 }) 
+# Sentence pair (28) source length 33 target length 23 alignment score : 1.79549e-22
+In diesem Zusammenhang verwenden wir gerne die Daten der Bundesanstalt Statistik Österreich, der österreichischen Statistikagentur, welche unseren wichtigsteren Partner in diesem Projekt darstellt. 
+NULL ({ }) In ({ 1 }) this ({ 2 }) context ({ 3 4 }) we ({ 5 }) are ({ }) happy ({ 6 }) to ({ }) to ({ }) use ({ }) the ({ 7 }) data ({ 8 }) of ({ }) the ({ }) Statistics ({ 10 12 }) of ({ }) Austria ({ 11 }) which ({ 13 }) is ({ }) the ({ }) Austrian ({ 14 }) statistics ({ 15 }) agency ({ 16 }) and ({ }) this ({ }) agency ({ 17 }) is ({ }) our ({ }) most ({ 9 }) important ({ }) partner ({ 18 19 }) in ({ 20 }) this ({ 21 }) project. ({ 22 23 }) 
+# Sentence pair (29) source length 7 target length 6 alignment score : 0.000420821
+Und wir bekommen die folgenden Daten... 
+NULL ({ }) And ({ 1 }) we ({ 2 }) get ({ 3 }) the ({ 4 }) following ({ 5 }) data ({ }) ehm. ({ 6 }) 
+# Sentence pair (30) source length 8 target length 9 alignment score : 4.46004e-07
+Wobei diese Daten tatsächlich für jeden Bürger offen stehen 
+NULL ({ }) Actually ({ 1 }) this ({ 2 }) data ({ 3 }) is ({ }) open ({ 4 }) for ({ 5 }) every ({ 6 }) citizen. ({ 7 8 9 }) 
+# Sentence pair (31) source length 17 target length 15 alignment score : 9.06166e-15
+Aber Sie müssen sie von der Statistik Österreich kaufen, falls Sie die aggregierten Daten wollen. 
+NULL ({ }) But ({ 1 }) you ({ 2 }) have ({ }) to ({ }) buy ({ 3 9 10 }) it ({ 4 }) from ({ 5 }) the ({ }) Statistics ({ 8 }) of ({ 6 }) Austria ({ 7 }) if ({ }) you ({ 11 }) want ({ }) the ({ 12 }) aggregated ({ 13 }) data. ({ 14 15 }) 
+# Sentence pair (32) source length 9 target length 10 alignment score : 2.565e-08
+Und erst die aggregierten Daten sind für die Analyse nützlich. 
+NULL ({ 8 }) And ({ 1 }) only ({ 2 }) the ({ 3 }) aggregated ({ 4 }) data ({ 5 }) is ({ }) useful ({ 6 }) for ({ 7 }) analysis. ({ 9 10 }) 
+# Sentence pair (33) source length 13 target length 11 alignment score : 8.15123e-09
+Wir haben also die intersektorale Konten nach den Budgetierungs- und Kontenvorschriften. 
+NULL ({ }) So ({ 3 }) we ({ }) have ({ 2 }) the ({ }) gross ({ 5 }) cutting ({ 1 }) accounts ({ 6 }) of ({ }) the ({ 4 }) budgeting ({ 7 9 }) and ({ 10 }) accounts ({ 8 }) regulations. ({ 11 }) 
+# Sentence pair (34) source length 20 target length 17 alignment score : 5.25373e-17
+Wir haben detaillierte Informationen zu den geschlossenen Konten, so dass wir die Konten auf der Freikarten-Ebene haben. 
+NULL ({ }) We ({ 1 }) have ({ 2 }) detailed ({ 3 4 }) info ({ }) infomo ({ 5 }) information ({ }) of ({ 15 }) the ({ }) closed ({ }) accounts ({ 6 }) so ({ }) we ({ 11 }) have ({ }) the ({ 12 }) accounts ({ 13 }) on ({ }) its ({ }) free ({ 7 14 16 }) ticket ({ 10 }) level. ({ 8 9 17 }) 
+# Sentence pair (35) source length 8 target length 8 alignment score : 2.49335e-05
+Und wir haben Aufstellungen von Schulden und Verbindlichkeiten. 
+NULL ({ }) And ({ 1 }) we ({ 2 }) have ({ 3 }) statements ({ 4 }) of ({ }) debts ({ 5 6 }) and ({ 7 }) liabilities. ({ 8 }) 
+# Sentence pair (36) source length 32 target length 24 alignment score : 6.4618e-20
+Hauptsächlich verwenden wir Finanz- und Buchhaltungsdaten, aber natürlich haben wir Wertpapierabwicklungssystemdaten separat. Wir haben Bevölkerungszahlen und andere Daten, die aus der Statistik Österreich stammen. 
+NULL ({ }) So, ({ }) mainly ({ 1 }) we ({ 3 }) use ({ 2 }) finance ({ 4 }) and ({ 5 }) accounting ({ }) data ({ }) but ({ 7 }) of ({ 21 }) course ({ 6 8 }) we ({ 10 }) have ({ 9 }) sss ({ 11 }) separately ({ 13 }) we ({ }) have ({ 14 }) data, ({ 15 }) numbers ({ }) of ({ }) population ({ 12 }) and ({ 16 }) other ({ 17 }) data ({ }) which ({ }) come ({ 18 }) from ({ 20 }) the ({ 19 }) Statistics ({ 22 23 }) of ({ }) Austria ({ }) s. ({ 24 }) 
+# Sentence pair (37) source length 19 target length 15 alignment score : 3.61867e-14
+Was wir haben, sind die Daten aus der Zeit von zweitausend acht bis zweitausend dreizehn. 
+NULL ({ }) What ({ 1 }) we ({ 2 }) we ({ }) have ({ }) the ({ 5 }) data ({ 6 }) from ({ 7 }) the ({ 8 }) period ({ 9 }) now ({ 3 }) from ({ 10 13 }) two ({ 4 }) thousand ({ 11 }) eight ({ 12 }) to ({ }) two ({ }) thousand ({ 14 }) and ({ }) thirteen. ({ 15 }) 
+# Sentence pair (38) source length 10 target length 8 alignment score : 1.11895e-06
+Ah, das ist ein Fehler, entschuldigen Sie bitte. 
+NULL ({ }) Ah ({ 1 }) that ({ 2 }) is ({ 3 }) a ({ 4 }) mistake, ({ 5 }) I ({ }) am ({ }) sorry ({ 6 }) about ({ }) it. ({ 7 8 }) 
+# Sentence pair (39) source length 8 target length 9 alignment score : 4.12219e-09
+Und wir aktualisieren diese Daten ständig in jedem Herbst. 
+NULL ({ }) And ({ 1 }) we ({ 2 }) constantly ({ }) updating ({ 3 }) this ({ 4 }) data ({ 5 }) every ({ }) autumn. ({ 6 7 8 9 }) 
+# Sentence pair (40) source length 47 target length 37 alignment score : 1.35059e-28
+Da wir die Daten aus den Buchhaltungssystemen der Gemeinden entnehmen, haben wir keine Daten über die Gemeindebeiträge, keine Daten über die Leasingverpflichtungen und keine Daten über die Salden- und Vermögenswerte, da die Gemeinden diese Daten nicht veröffentlichen. 
+NULL ({ }) As ({ 1 }) we ({ 2 }) have ({ }) the ({ 3 }) data ({ 4 }) from ({ 5 }) the ({ 21 }) accounting ({ 6 }) systems ({ 7 }) of ({ 8 }) the ({ }) municipalities, ({ 9 10 }) we ({ }) we ({ }) have ({ 11 }) no ({ 13 }) data ({ 14 }) about ({ 15 }) the ({ }) municipality ({ }) contributions, ({ 24 }) we ({ 12 }) have ({ }) no ({ }) data ({ 19 }) about ({ 20 26 }) the ({ 16 }) lease ({ 17 }) obligations ({ 18 }) and ({ 23 }) we ({ }) have ({ }) no ({ }) data ({ 25 }) of ({ }) the ({ 27 }) balances ({ 22 28 }) and ({ 29 }) assets ({ 30 }) because ({ 31 }) the ({ 32 }) municipalities ({ 33 }) do ({ }) not ({ 36 }) publish ({ 37 }) this ({ 34 }) data. ({ 35 }) 
+# Sentence pair (41) source length 84 target length 63 alignment score : 6.43211e-55
+Dies ist ein wichtiger Punkt, da in der Praxis, wenn Sie in die Gemeinde gehen und den offiziellen Buchhalter vernehmen, finden Sie die Schuldenzahl, und wenn Sie die Körperschafts- oder Gemeindebeiträge verfolgen, kann es passieren, dass Sie diese Schuldenzahl wieder finden, so dass sie doppelt sich und Sie nur die Hälfte der Geschichte haben, wenn Sie nur allein die Konten der Gemeinde überprüfen. 
+NULL ({ }) This ({ 1 }) is ({ 2 }) an ({ 3 }) important ({ 4 }) point ({ }) because ({ 6 }) em ({ }) in ({ 7 }) in ({ 12 }) practice ({ 5 9 }) when ({ 10 }) you ({ 11 }) go ({ 15 }) to ({ }) the ({ 13 }) municipality ({ 14 }) and ({ 16 }) you ({ }) have ({ }) the ({ }) official ({ 18 }) accountant, ({ 19 21 }) you ({ 22 }) find ({ }) the ({ 23 }) debt ({ 24 }) number ({ 20 }) and ({ 25 }) if ({ 26 }) you ({ 27 }) go ({ 29 }) to ({ }) the ({ 28 }) em ({ }) to ({ }) the ({ }) corporation ({ 30 }) to ({ }) the ({ }) municipality ({ }) contributions ({ 31 32 }) it ({ }) may ({ 35 }) happen ({ }) tha ({ 33 }) it ({ 34 }) may ({ }) happen ({ 40 }) that ({ 36 }) you ({ 37 }) find ({ }) this ({ 38 }) debt ({ 39 }) number ({ }) once ({ 43 }) again ({ 41 42 }) so ({ }) it ({ 44 }) will ({ }) be ({ }) double ({ 45 46 51 }) and ({ 47 }) you ({ 48 }) only ({ 49 }) have ({ }) half ({ 53 }) of ({ 52 }) the ({ 50 }) story ({ 54 }) if ({ 55 }) you ({ 56 }) only ({ 57 }) check ({ 58 63 }) the ({ }) em ({ }) the ({ }) accounts ({ 17 }) of ({ 8 }) the ({ 59 }) accounts ({ 60 }) of ({ }) the ({ }) municipality ({ 62 }) itself. ({ 61 }) 
+# Sentence pair (42) source length 48 target length 45 alignment score : 2.69938e-44
+Anhand den vorhandenen Daten gehen wir davon aus, dass unsere Indikatoren des guten Vertriebs, die ich später erläutern werde, ein Indikatormodell ausgestalten können, und diese Überwachung basiert auf einem Modell, das aus Indikatoren besteht, die als Bewertungsindikatoren zusammengestellt wurden und nach den Themen aufgeschlüsselt sind. 
+NULL ({ 35 }) So, ({ 2 }) from ({ 32 }) the ({ 15 }) existing ({ 1 3 }) data ({ 4 }) we ({ }) think ({ 5 }) that ({ }) our ({ }) sell ({ 7 }) well ({ 18 }) indicators, ({ }) which ({ }) I ({ 16 }) will ({ }) explain ({ 17 }) later, ({ 13 14 }) and ({ 40 }) we ({ 6 }) try ({ 41 }) to ({ }) make ({ 19 42 }) a ({ 20 }) indicator ({ 21 }) model ({ 11 22 43 }) and ({ 24 }) this ({ 25 }) monitoring ({ 12 26 }) is ({ }) based ({ 23 44 45 }) on ({ }) a ({ }) model ({ }) which ({ }) is ({ }) comprised ({ 27 28 29 30 }) of ({ }) indicators ({ 33 }) that ({ 31 }) are ({ }) compiled ({ 34 }) as ({ 36 }) assessment ({ 9 10 }) indicators, ({ 8 }) broken ({ 37 39 }) down ({ }) with ({ }) themes. ({ 38 }) 
+# Sentence pair (43) source length 18 target length 19 alignment score : 1.58834e-19
+Und daraus wird eine Statistik zwischen ein und hundert abgeleitet, die der Relevanz für die Prüfung am nächsten kommt. 
+NULL ({ 15 }) And ({ 1 }) from ({ }) these ({ }) a ({ }) statistic ({ 2 }) is ({ }) derived ({ 3 4 5 6 }) between ({ 7 }) one ({ 11 }) and ({ 8 }) hundred ({ 9 }) that ({ }) is ({ }) closest ({ 10 12 }) to ({ }) relevance ({ 13 }) for ({ 14 }) audit. ({ 16 17 18 19 }) 
+# Sentence pair (44) source length 13 target length 11 alignment score : 1.94779e-11
+Dieses Modell ermöglicht somit die Einstufung der Indikatoren nach bestimmten Themen. 
+NULL ({ }) So ({ }) this ({ }) model ({ }) enables ({ 4 }) a ({ }) rating ({ 6 }) of ({ 7 }) the ({ 5 }) indicators ({ 8 }) according ({ 9 }) to ({ }) specific ({ 10 }) issues. ({ 1 2 3 11 }) 
+# Sentence pair (45) source length 44 target length 35 alignment score : 5.76728e-35
+Um die Relevanz für die Prüfung festzulegen, verwendet der österreichische Rechnungshof die Indikatoren für die finanzielle Situation als Grundeinstellung, jedoch abhängend von der aufgeworfenen und der zu prüfenden Frage kann man eine andere Indikatoreinstellung wählen. 
+NULL ({ 25 }) And ({ }) in ({ }) order ({ 7 }) to ({ }) set ({ 1 }) the ({ 2 }) relevance ({ 3 }) for ({ 4 }) audit, ({ 6 8 }) the ({ }) Austrian ({ }) Court ({ }) of ({ 9 }) Audit ({ 11 }) uses ({ 10 }) the ({ 12 }) indicators ({ 13 }) for ({ 14 }) the ({ 15 }) financial ({ 16 }) situation ({ 17 }) as ({ 18 }) the ({ 5 }) basic ({ }) setting ({ 19 }) but ({ }) depending ({ 22 }) on ({ }) the ({ }) issue ({ 20 }) raised, ({ 21 }) depending ({ }) on ({ 23 }) the ({ }) issue ({ 24 }) on ({ 26 }) to ({ 27 }) audit ({ }) you ({ }) can ({ }) choose ({ 28 }) another ({ }) indicator ({ }) setting. ({ 29 30 31 32 33 34 35 }) 
+# Sentence pair (46) source length 6 target length 7 alignment score : 2.04327e-07
+Und dann erhält man ein anderes Ergebnis. 
+NULL ({ }) And ({ 1 }) you ({ }) have ({ }) a ({ 5 }) different ({ 2 6 }) result. ({ 3 4 7 }) 
+# Sentence pair (47) source length 19 target length 15 alignment score : 4.48923e-15
+Das Indikatormodell besteht also aus vier Themen und das erste ist die langfristige finanzielle Situation. 
+NULL ({ }) So ({ 4 }) the ({ }) indicator ({ 2 3 }) model ({ }) consists ({ 1 5 }) of ({ }) four ({ 6 }) topics ({ 7 }) and ({ 8 }) the ({ 9 }) first ({ 10 13 }) one ({ }) is ({ 11 }) the ({ }) financial ({ }) situation ({ 14 }) in ({ }) the ({ 12 }) long-term. ({ 15 }) 
+# Sentence pair (48) source length 17 target length 14 alignment score : 2.07311e-09
+Das heißt, wir übernehmen die Nettoverschuldung zuzüglich der Verbindlichkeiten abzüglich Wertpapierbeständen und abzüglich Rücklagen. 
+NULL ({ }) That ({ 1 }) means ({ 2 }) we ({ 3 }) we ({ }) take ({ }) the ({ 5 }) net ({ 6 }) debts, ({ 4 }) plus ({ 7 }) the ({ }) liabilities ({ 9 }) minus ({ 10 }) security ({ 11 }) holdings ({ 8 }) and ({ 12 }) minus ({ 13 }) reserves. ({ 14 }) 
+# Sentence pair (49) source length 14 target length 12 alignment score : 7.83776e-12
+Das erste gibt uns also die langfristige Perspektive, d.h. Schulden abzüglich Vermögenswerte. 
+NULL ({ }) So ({ 5 }) the ({ 6 }) first ({ 2 7 }) one ({ }) gives ({ 3 }) us ({ 4 }) the ({ }) long-term ({ 8 }) perspective, ({ 9 }) that ({ }) means ({ 1 }) debt ({ }) minus ({ 11 }) assets. ({ 10 12 }) 
+# Sentence pair (50) source length 9 target length 10 alignment score : 8.57238e-12
+Und das zweite Thema stellt uns die kurzfristige Perspektive dar. 
+NULL ({ }) And ({ 1 }) the ({ 2 }) second ({ }) one ({ }) gives ({ }) us ({ 6 }) the ({ 7 }) short-term ({ 3 8 }) perspective. ({ 4 5 9 10 }) 
+# Sentence pair (51) source length 3 target length 5 alignment score : 0.000271013
+Welches ist ... ja bitte. 
+NULL ({ }) Which ({ 1 }) is..yes ({ 2 }) please. ({ 3 4 5 }) 
+# Sentence pair (52) source length 22 target length 19 alignment score : 9.95411e-14
+Kurzfristig definieren wir den Kernsaldo, d.h. die laufenden Einnahmen ohne Transfers abzüglich der laufenden Ausgaben ohne Transfers und Renten. 
+NULL ({ }) For ({ 1 }) a ({ }) short-term ({ }) we ({ 3 }) define ({ 2 }) the ({ }) core ({ 4 5 }) balance, ({ 6 }) which ({ 13 }) is ({ }) the ({ 7 }) current ({ 8 }) revenues ({ 9 }) without ({ 10 }) transfers ({ 11 }) minus ({ 12 }) current ({ 14 15 }) expenditures ({ 16 }) without ({ 17 }) transfers ({ }) and ({ 18 }) pensions. ({ 19 }) 
+# Sentence pair (53) source length 24 target length 18 alignment score : 1.90476e-15
+Das ist ein wichtiger Punkt des Indikatormodells, da wir keine Kennzahlen anwenden, die ich pro Kopf ausgedrückt habe. 
+NULL ({ }) That ({ 1 }) is ({ 2 }) an ({ 3 }) important ({ 4 }) point ({ 5 6 7 }) of ({ }) the ({ 13 }) indicator ({ }) model ({ }) because ({ 8 }) we ({ }) we ({ 9 }) are ({ }) not ({ }) using ({ 10 }) em ({ }) key ({ }) figures ({ 11 }) which ({ }) I ({ 14 }) expressed ({ 12 }) em ({ }) per ({ 16 18 }) capita. ({ 15 17 }) 
+# Sentence pair (54) source length 30 target length 26 alignment score : 2.39907e-25
+Wir wenden eine andere Kennzahl an, und dies ist das eigene Einkommen als relevante Zahl, da es besser imstande ist, die Wirtschaftskraft der Gemeinde zu zeigen. 
+NULL ({ }) We ({ 1 }) are ({ }) using ({ }) a ({ }) different ({ }) key ({ }) figure ({ 6 }) and ({ 7 }) this ({ 8 }) is ({ 9 }) the ({ 10 }) own ({ 11 }) earnings ({ 2 12 }) as ({ 3 13 }) a ({ }) relevant ({ 15 }) figure ({ 4 5 14 }) because ({ 16 }) its ({ }) better ({ 17 }) to ({ }) to ({ }) to ({ 25 }) show ({ 26 }) the ({ }) economic ({ 18 }) power ({ 19 20 }) of ({ 23 }) the ({ 21 }) municipalitity. ({ 22 24 }) 
+# Sentence pair (55) source length 9 target length 6 alignment score : 5.60637e-05
+Das nächste Thema ist die Verwaltungsstruktur. 
+NULL ({ }) So ({ }) the ({ }) next ({ 3 }) one ({ }) is ({ 4 }) the ({ 5 }) admisni ({ 6 }) administrative ({ 2 }) structure. ({ 1 }) 
+# Sentence pair (56) source length 11 target length 8 alignment score : 9.66896e-06
+Da wir einfach die Verwaltungs- und Personalkosten zusammenstellen. 
+NULL ({ }) Where ({ 1 }) we ({ 2 }) simply ({ 3 }) put ({ }) together ({ 5 }) the ({ 4 }) administrative ({ }) expenses ({ }) and ({ 6 }) personnel ({ 7 }) expenses. ({ 8 }) 
+# Sentence pair (57) source length 8 target length 7 alignment score : 0.000939286
+Letzteres war die größte Herausforderung für uns 
+NULL ({ }) Last ({ 1 }) one ({ }) was ({ 2 }) the ({ 3 }) biggest ({ 4 }) challenge ({ 5 }) for ({ 6 }) us. ({ 7 }) 
+# Sentence pair (58) source length 10 target length 9 alignment score : 2.18113e-10
+Wir haben versucht, die Qualität der Buchhaltungssysteme zu bewerten. 
+NULL ({ }) We ({ 1 }) tried ({ 2 }) to ({ }) to ({ }) assess ({ }) the ({ 4 }) quality ({ 5 7 }) of ({ 6 }) accounting ({ }) systems. ({ 3 8 9 }) 
+# Sentence pair (59) source length 20 target length 16 alignment score : 1.63276e-11
+Und ja, wir berücksichtigen andere Konten, die sonstigen Konten, die Repräsentationskosten und die Analyse von Sonderkonten. 
+NULL ({ }) And ({ 1 }) yes ({ 2 }) we ({ 3 }) take ({ }) into ({ }) account ({ 4 }) other ({ 5 }) accounts, ({ 6 }) the ({ 7 }) miscellaneous ({ 8 }) accounts, ({ 9 }) the ({ 10 }) representation ({ 11 }) expenses ({ }) and ({ 12 }) the ({ 13 }) analysis ({ 14 }) of ({ }) special ({ }) accounts. ({ 15 16 }) 
+# Sentence pair (60) source length 13 target length 10 alignment score : 3.68402e-07
+Das heißt, wir versuchen, Buchhaltungsfehler mit diesen Daten zu finden. 
+NULL ({ }) That ({ 1 }) means ({ 2 }) we ({ 3 }) are ({ }) trying ({ 4 }) to ({ }) find ({ 10 }) book ({ 7 }) keeping ({ 9 }) errors ({ 5 }) with ({ 6 }) this ({ }) data. ({ 8 }) 
+# Sentence pair (61) source length 15 target length 10 alignment score : 2.89118e-11
+Diese Folie ist ein Bildschirmabbild einer möglichen Ausgabe des Überwachungsinstruments 
+NULL ({ }) So ({ }) this ({ }) slide ({ 2 }) is ({ 3 }) a ({ 4 }) screen ({ 5 6 }) shot ({ 7 8 10 }) of ({ }) one ({ }) possible ({ }) output ({ }) of ({ }) the ({ }) monitoring ({ 9 }) tool. ({ 1 }) 
+# Sentence pair (62) source length 20 target length 14 alignment score : 7.30562e-12
+Und Sie können die aufgelisteten Gemeinden von der besten bis zur schlechtesten Gemeinde sehen. 
+NULL ({ }) And ({ 1 }) you ({ 2 }) can ({ 3 }) see ({ }) the ({ }) municipalities ({ 6 }) which ({ }) are ({ }) listed ({ 5 }) em ({ }) end ({ 12 }) from ({ 7 }) from ({ }) the ({ 8 }) best ({ 9 }) municipality ({ 13 }) down ({ 10 11 }) to ({ }) the ({ 4 }) worst. ({ 14 }) 
+# Sentence pair (63) source length 44 target length 36 alignment score : 2.98253e-39
+Die schwarze Spalte gibt uns also den Wert und bezieht sich auf die Bedeutung der Prüfungstätigkeiten für den österreichischen Rechnungshof und dafür wird sie in diesem Bild nach der Relevanz der Prüfung für unsere Abteilung eingestuft. 
+NULL ({ }) So ({ 6 }) the ({ }) black ({ 2 }) column ({ 3 7 }) gives ({ 1 4 }) us ({ 5 }) the ({ }) value ({ 8 }) and ({ 9 }) it ({ 10 }) is ({ }) with ({ }) regard ({ 11 12 }) to ({ }) the ({ 13 }) significance ({ 14 }) of ({ 15 }) the ({ }) audit ({ }) activities ({ 16 }) for ({ 17 }) the ({ 18 }) Austrian ({ 19 }) Court ({ 20 }) of ({ }) Audit ({ 22 }) and ({ 21 }) for ({ }) that ({ }) in ({ 25 }) this ({ 26 }) picture ({ 23 27 }) it ({ 24 }) is ({ }) ranked ({ 28 }) for ({ }) for ({ }) a ({ }) relevance ({ 30 32 }) of ({ 29 31 }) audit ({ }) for ({ 33 }) our ({ 34 }) department. ({ 35 36 }) 
+# Sentence pair (64) source length 11 target length 10 alignment score : 3.86639e-12
+Die vier Spalten rechts geben uns also die Indikatoren an. 
+NULL ({ }) So ({ 7 }) the ({ }) four ({ 2 }) columns ({ 1 3 4 5 }) on ({ }) the ({ 8 }) right ({ }) gives ({ }) us ({ 6 }) the ({ }) indicators. ({ 9 10 }) 
+# Sentence pair (65) source length 8 target length 8 alignment score : 8.14474e-08
+Die Indikatoren des Modells habe ich zuvor erklärt. 
+NULL ({ }) The ({ 1 }) indicators ({ 2 }) of ({ 3 }) the ({ }) model ({ }) I ({ 6 }) explained ({ 4 5 }) before. ({ 7 8 }) 
+# Sentence pair (66) source length 33 target length 30 alignment score : 3.17811e-25
+Und die schwarze Spalte gibt uns den Wert drei Komma dreiunddreißig, was die Gemeinde Hallwang betrifft, eine kleine Gemeinde in der Nähe von Salzburg, und diese ist die beste Gemeinde. 
+NULL ({ 13 }) And ({ 1 }) the ({ 2 }) black ({ 3 }) column ({ 4 7 }) gives ({ 5 }) us ({ 6 }) the ({ }) value ({ 8 }) three ({ 9 }) point ({ }) thirty ({ 10 }) three ({ }) which ({ }) is ({ }) take ({ }) municipality ({ 14 }) Hallwang, ({ 15 }) which ({ 21 }) is ({ }) a ({ }) small ({ 11 16 17 }) municel ({ 12 18 }) municipality ({ 19 }) near ({ 20 22 23 }) to ({ }) Salzburg ({ 24 }) and ({ 25 }) this ({ 26 }) one ({ }) is ({ 27 }) the ({ 28 }) best ({ 29 }) municipality. ({ 30 }) 
+# Sentence pair (67) source length 6 target length 6 alignment score : 0.00105681
+Das heißt, es ist ein Richtwert. 
+NULL ({ }) That ({ 1 }) means ({ 2 }) it ({ 3 }) is ({ 4 }) a ({ 5 }) benchmark. ({ 6 }) 
+# Sentence pair (68) source length 21 target length 15 alignment score : 3.3888e-16
+Wenn wir also eine Gemeinde mit der besten finanziellen Situation prüfen mögen, prüfen wir Hallwang. 
+NULL ({ }) So ({ 3 }) if ({ }) you ({ }) want ({ 1 }) to ({ }) audit ({ 4 }) the ({ }) municipality ({ 5 }) with ({ 6 }) the ({ }) best ({ }) financial ({ }) sit ({ }) in ({ }) the ({ 7 }) best ({ 8 }) financial ({ 10 }) situation, ({ 9 11 12 13 }) we ({ 14 }) audit ({ 2 }) Hallwang. ({ 15 }) 
+# Sentence pair (69) source length 28 target length 25 alignment score : 2.60196e-19
+Wenn wir die schlechteste prüfen mögen, springen wir einfach das Bild über und nehmen die letzte, aber heute will ich diese Gemeinden Ihnen nicht zeigen. 
+NULL ({ }) If ({ 1 }) you ({ }) want ({ }) to ({ }) audit ({ 2 }) the ({ 3 }) worst ({ 4 }) one, ({ 5 6 7 }) we ({ 8 }) just ({ }) skip ({ 9 }) the ({ 10 }) picture ({ 11 12 }) and ({ 13 }) take ({ 14 }) the ({ 15 }) last ({ 16 }) one ({ }) but ({ 17 }) I ({ 20 }) don't ({ 18 19 }) want ({ }) to ({ }) show ({ 25 }) you ({ }) this ({ 21 }) municipalities ({ 22 }) today. ({ 23 24 }) 
+# Sentence pair (70) source length 43 target length 30 alignment score : 1.385e-28
+Und wir haben alle österreichischen Gemeinden in unserem System, aber nicht jede Gemeinde fällt unter unsere Zuständigkeit, so dass nur die zweite, ja die zweite, von uns auditiert werden kann. 
+NULL ({ }) And ({ 1 }) we ({ 2 }) have ({ 3 }) all ({ 4 }) municipalities ({ 6 }) of ({ }) Austria ({ }) in ({ 7 }) our ({ 5 }) system ({ 8 9 }) but ({ 10 }) not ({ 11 }) every ({ 12 }) municipality ({ 13 }) is ({ }) in ({ }) our ({ }) em ({ }) is ({ }) in ({ }) our ({ }) duty, ({ 14 15 }) in ({ }) our ({ }) assessment ({ 16 19 }) duty ({ 17 18 }) so ({ }) only ({ 20 }) the ({ 21 }) second ({ 22 25 }) one ({ }) yes ({ 23 26 }) the ({ 24 }) second ({ }) one ({ }) is ({ }) is ({ }) is ({ }) possible ({ 28 29 30 }) to ({ }) audit ({ }) for ({ }) us. ({ 27 }) 
+# Sentence pair (71) source length 42 target length 30 alignment score : 2.92783e-27
+Und wir versuchen, die Gemeinden mit der gleichen Größe zu vergleichen, deshalb vergleichen wir Wien mit Hallwang nicht, wir suchen daher nach ähnlichen Gemeinden, damit es ein gerechter Vergleich ist. 
+NULL ({ }) And ({ 1 }) we ({ 2 }) try ({ }) to ({ }) compare ({ 13 }) the ({ 4 }) municipalities ({ 5 }) with ({ 6 }) the ({ }) class ({ 3 15 }) of ({ 7 }) municipalities ({ }) with ({ }) the ({ }) same ({ 8 }) size, ({ 9 }) so ({ 12 }) we ({ 14 }) are ({ }) not ({ }) comparing ({ 16 }) Vienna ({ 18 }) to ({ }) Hallwang, ({ 17 }) so ({ }) we ({ 19 }) are ({ }) trying ({ 10 }) to ({ }) find ({ }) similar ({ 11 }) municipalities ({ }) so ({ }) em ({ }) so  ({ 20 }) it ({ 26 }) will ({ }) be ({ }) a ({ 27 }) fair ({ 21 28 29 }) compare, ({ 24 }) comparision. ({ 22 23 25 30 }) 
+# Sentence pair (72) source length 21 target length 22 alignment score : 4.80825e-20
+Wir haben also viele verschiedene Darstellungsmöglichkeiten der Suchergebnisse von diesem Instrument und ein weiteres Merkmal ist dieses Tagebuch für jede einzelne Gemeinde. 
+NULL ({ }) So ({ 3 }) we ({ }) have ({ 2 }) many ({ 1 4 5 }) different ({ }) output ({ 6 }) possibilities ({ 8 9 }) of ({ 7 }) this ({ 10 }) tool ({ 11 }) and ({ 12 }) another ({ 13 14 }) feature ({ 15 }) is ({ 16 }) this ({ 17 }) output ({ }) journal ({ 18 }) for ({ 19 }) every ({ 20 }) single ({ 21 }) municipality. ({ 22 }) 
+# Sentence pair (73) source length 8 target length 8 alignment score : 6.83585e-07
+Hier haben wir zum Beispiel die Gemeinde Hallwang. 
+NULL ({ }) Here ({ 1 5 }) for ({ }) example ({ 4 }) we ({ 3 }) have ({ 2 }) the ({ 6 }) municipality ({ 7 }) Hallwang. ({ 8 }) 
+# Sentence pair (74) source length 50 target length 41 alignment score : 3.51683e-36
+Wir können solch ein Tagebuch für jede Gemeinde Österreichs erstellen, und wie Sie sehen können, Sie werden wahrscheinlich nicht imstande es zu lesen, aber uns gibt es eine Menge von Kennzahlen, Indikatoren, Grafiken und Angaben über die finanzielle Situation und Entwicklung. 
+NULL ({ 40 }) We ({ 1 }) can ({ 2 }) do ({ }) thi ({ 3 }) th ({ 10 12 }) th ({ 9 }) this ({ }) journal ({ 5 }) for ({ 6 }) every ({ 7 }) municipality ({ 8 }) of ({ }) Austria ({ }) and ({ 11 }) you ({ 16 }) as ({ 28 }) you ({ 13 }) can ({ }) see ({ }) you ({ }) I ({ }) think ({ 15 18 }) you ({ }) will ({ 14 17 }) not ({ 19 }) be ({ 22 }) able ({ 20 }) to ({ }) read ({ 23 }) it ({ 21 }) but ({ 24 }) it ({ 27 }) gives ({ 26 }) us ({ 25 }) a ({ 4 }) lot ({ 29 }) if ({ }) indik ({ 30 }) key ({ 31 }) figures, ({ 32 }) indicators, ({ }) graphs ({ }) and  ({ 33 }) em ({ }) of ({ }) the ({ 37 }) financial ({ 38 }) situation ({ 39 }) and ({ 34 }) development. ({ 35 36 41 }) 
+# Sentence pair (75) source length 34 target length 29 alignment score : 9.16796e-27
+Ein weiterer Ertrag des Tagebuchs sind diese zwei Seiten. Sie können beispielsweise die Analyse der persönlichen Aufwendungen auf der linken Seite sehen, dies ist die rote Linie des Diagramms. 
+NULL ({ }) Another ({ 5 }) output ({ }) of ({ 15 }) the ({ 13 }) journal ({ }) is ({ }) em ({ }) these ({ }) two ({ 6 }) pages, ({ 7 8 }) for ({ }) example ({ 9 }) you ({ 10 }) can ({ 11 }) see ({ 22 }) the ({ }) analysis ({ 14 }) of ({ }) the ({ }) personal ({ 12 16 }) expenses ({ 17 18 }) em ({ }) on ({ 19 }) the ({ }) left ({ 1 20 }) side, ({ 2 3 4 21 }) this ({ 23 }) is ({ 24 }) the ({ 25 }) red ({ 26 }) line ({ 27 }) of ({ 28 }) the ({ }) graph. ({ 29 }) 
+# Sentence pair (76) source length 27 target length 26 alignment score : 9.80438e-20
+Und im Vergleich zu den anderen Gemeinden können Sie die blaue Linie wählen und wo die rote Linie die blaue Linie überschreitet, ist die Gemeinde schlechter. 
+NULL ({ }) And ({ 1 }) in ({ }) comparison ({ 2 3 5 }) to ({ 4 }) the ({ 24 }) the ({ }) other ({ 6 }) municipalities ({ 7 }) you ({ 9 }) can ({ 8 }) choose ({ }) the ({ 10 }) blue ({ 11 }) line ({ 12 13 }) and ({ 14 }) where ({ 15 }) the ({ 16 }) red ({ 17 }) line ({ 18 21 }) exceeds ({ 22 }) the ({ 19 }) blue ({ 20 }) line, ({ }) the ({ }) municipality ({ 25 }) is ({ 23 }) worse. ({ 26 }) 
+# Sentence pair (77) source length 1 target length 1 alignment score : 0.586141
+Oder 
+NULL ({ }) Or ({ 1 }) 
+# Sentence pair (78) source length 11 target length 11 alignment score : 2.56447e-09
+So können Sie leicht beurteilen, ob die Gemeinde übermäßige Aufwendungen hat. 
+NULL ({ }) So ({ }) you ({ 3 }) can ({ 2 }) easily ({ 1 4 }) assess ({ 5 }) if ({ }) the ({ 7 }) municipality ({ 8 }) has ({ 9 }) excessive ({ 6 10 }) expenditures. ({ 11 }) 
+# Sentence pair (79) source length 26 target length 25 alignment score : 4.40275e-28
+Auf der rechten Seite haben wir also die Überweisungen, was bedeutet, dass wir das ausgehende und das eingehende Geld in einer Perspektive der Gemeinde haben. 
+NULL ({ }) So ({ 7 }) and ({ 16 }) on ({ 2 }) the ({ 8 }) right ({ 3 9 10 }) side ({ 4 11 }) we ({ 6 }) have ({ 5 }) the ({ }) transfers ({ }) that ({ 12 }) means ({ }) we ({ 13 }) have ({ }) the ({ 14 }) outgoing ({ 15 }) and ({ }) the ({ 17 }) incoming ({ 18 }) money ({ 19 }) in ({ 20 }) a ({ }) perspective ({ 1 21 22 }) of ({ 23 }) the ({ }) municipality. ({ 24 25 }) 
+# Sentence pair (80) source length 9 target length 9 alignment score : 1.3116e-07
+Diese beiden Ausgaben sind jedoch nur zwei von vielen. 
+NULL ({ }) But ({ 1 }) these ({ 2 }) two ({ 4 }) outputs ({ 3 5 }) are ({ }) only ({ 6 }) two ({ 7 }) of ({ }) many. ({ 8 9 }) 
+# Sentence pair (81) source length 35 target length 25 alignment score : 4.90325e-23
+Wir verwenden jetzt einige statistische Programme wie R Stat Plus und sind imstande jegliche Analyse durchführen, die notwendig ist oder von unseren Vorgesetzten verlangt wird. 
+NULL ({ 17 }) We ({ 1 }) are ({ }) now ({ }) using ({ }) a ({ }) some ({ }) statistical ({ 4 }) programs ({ 5 8 }) like ({ 2 }) R ({ 3 6 9 }) Stat ({ 7 }) Plus ({ 10 }) and ({ 11 }) we ({ }) are ({ 12 }) able ({ 13 }) to ({ }) do ({ }) any ({ 14 }) analysis ({ 15 }) em ({ }) which ({ }) is ({ 19 }) em ({ 20 }) em ({ }) necessary ({ 21 }) em, ({ 16 }) which ({ }) is ({ }) asked ({ 18 }) by ({ 22 }) our ({ }) em ({ }) our ({ }) bosses. ({ 23 24 25 }) 
+# Sentence pair (82) source length 41 target length 36 alignment score : 1.24534e-33
+Wie Sie sehen, verwenden wir dieses Instrument für die Prüfungsplanung, für die Vorbereitung, für die betriebliche Ebene und auf Anfrage, d.h. wenn jemand nur für eine Präsentation in die Gemeindeverwaltung geht, kann er/sie das Tagebuch verwenden. 
+NULL ({ }) So, ({ }) as ({ 26 }) you ({ 2 }) can ({ }) see ({ 3 }) we ({ }) we ({ 5 }) use ({ 4 }) this ({ 6 }) tool ({ 7 }) for ({ 8 }) the ({ 9 }) audit ({ }) planning, ({ 10 }) for ({ 11 }) the ({ 12 }) preparation, ({ 13 24 }) for ({ 14 }) the ({ 15 }) operational ({ 16 23 }) level ({ 17 27 }) and ({ 18 }) upon ({ 19 20 }) request, ({ 21 }) that ({ }) means ({ }) when ({ 22 28 }) somebody ({ 33 }) is ({ }) going ({ 30 31 32 }) to ({ }) municipality ({ }) just ({ 34 }) for ({ 25 }) a ({ }) presentation, ({ 1 36 }) you ({ }) can ({ }) use ({ }) the ({ 29 }) journal. ({ 35 }) 
+# Sentence pair (83) source length 29 target length 26 alignment score : 4.21357e-24
+Wenn Sie wissen möchten, welche Gemeinden in einer Region schlechter sind, können wir dies tun, und diese Information hilft uns nicht nur bei der Prüfung selbst. 
+NULL ({ }) If ({ 1 }) you ({ 2 }) want ({ }) to ({ }) know ({ 3 4 }) which ({ }) municipalities ({ 6 }) are ({ }) worse ({ 5 11 }) in ({ 7 }) a ({ }) region, ({ 8 9 10 }) we ({ 13 }) can ({ 12 }) do ({ 14 }) it, ({ 15 }) and ({ 16 }) this ({ 17 }) information ({ 18 25 }) helps ({ 19 23 26 }) us ({ 20 }) not ({ 21 }) only ({ 22 }) in ({ }) the ({ }) in ({ }) the ({ }) audit ({ }) itself. ({ 24 }) 
+# Sentence pair (84) source length 18 target length 15 alignment score : 3.20341e-14
+Und im Einklang mit unserem Beratungsansatz stellen wir der Gemeinde die spezifischen Faktenblätter zur Verfügung. 
+NULL ({ }) And ({ 1 }) in ({ }) line ({ }) with ({ 4 }) our ({ 5 }) advisory ({ 6 }) approach ({ 2 3 }) we ({ 8 }) provide ({ 7 15 }) the ({ 11 }) specific ({ 12 }) fact ({ 9 }) shets ({ 13 }) fact ({ 14 }) sheets ({ }) to ({ }) the ({ }) municipality. ({ 10 }) 
+# Sentence pair (85) source length 37 target length 31 alignment score : 1.75092e-37
+D.h. wenn der Bürgermeister uns anruft und wissen möchte, wie seine Gemeinde erscheint und wie die finanzielle Situation in dieser Gemeinde steht, können wir ihm ein Faktenblatt und das Tagebuch geben. 
+NULL ({ }) That ({ }) means ({ }) if ({ 2 }) the ({ }) if ({ }) the ({ }) mayor ({ 1 }) calls ({ 4 }) us ({ 5 }) and ({ 7 }) wants ({ 6 8 9 10 }) to ({ 3 }) know ({ }) about ({ }) his ({ 11 }) municipality ({ 12 }) and ({ 14 }) how ({ 13 15 }) their ({ }) financial ({ 18 }) situation ({ 17 }) is ({ }) in ({ }) the ({ 16 }) in ({ 19 }) this ({ }) municipality, ({ 20 }) we ({ 24 }) can ({ 23 }) give ({ 31 }) them ({ 25 }) a ({ 26 }) fact ({ 27 }) sheets ({ 21 22 }) and ({ 28 }) the ({ 29 }) journal. ({ 30 }) 
+# Sentence pair (86) source length 8 target length 5 alignment score : 0.000696142
+Vielen Dank für Ihre Aufmerksamkeit. 
+NULL ({ }) So ({ }) thank ({ 2 }) you ({ }) very ({ 1 }) much ({ }) for ({ 3 }) your ({ 4 }) attention. ({ 5 }) 
+# Sentence pair (87) source length 2 target length 1 alignment score : 0.327025
+Danke. 
+NULL ({ }) Thank ({ 1 }) you. ({ }) 

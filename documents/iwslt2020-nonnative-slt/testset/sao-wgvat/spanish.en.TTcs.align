@@ -1,0 +1,546 @@
+# Sentence pair (1) source length 7 target length 6 alignment score : 7.21033e-06
+Dobře, takže jsme provedli tento audit. 
+NULL ({ }) Okay, ({ 1 5 }) so, ({ 2 }) we ({ 3 }) have ({ }) made ({ 4 }) this ({ }) audit. ({ 6 }) 
+# Sentence pair (2) source length 12 target length 7 alignment score : 1.35454e-09
+Zpráva o auditu bude zveřejněna 16. července. 
+NULL ({ }) The ({ }) audit ({ }) report ({ }) is ({ }) about ({ }) to ({ }) be ({ 4 }) published ({ 5 }) the ({ }) 16th ({ 6 }) of ({ }) July. ({ 1 2 3 7 }) 
+# Sentence pair (3) source length 6 target length 6 alignment score : 4.32623e-06
+Proto držte tyto informace v tajnosti. 
+NULL ({ }) So, ({ }) please ({ 1 }) keep ({ 2 3 }) this ({ }) information ({ }) confidential. ({ 4 5 6 }) 
+# Sentence pair (4) source length 7 target length 10 alignment score : 2.1176e-09
+Je na ně až do data zveřejnění uvaleno informační embargo. 
+NULL ({ }) Under ({ 1 }) embargo ({ 2 3 4 }) until ({ 5 }) the ({ }) date ({ 6 7 }) of ({ }) publication. ({ 8 9 10 }) 
+# Sentence pair (5) source length 19 target length 10 alignment score : 1.05645e-07
+Čekáme na reakci komise ve všech 23 úředních jazycích EU. 
+NULL ({ }) We ({ }) are ({ }) just ({ }) waiting ({ 2 }) for ({ }) the ({ }) replies ({ 3 }) of ({ }) the ({ }) commission ({ 4 }) in ({ 5 }) all ({ 6 }) the ({ }) 23 ({ 7 }) official ({ 8 9 }) language ({ 1 }) of ({ }) the ({ }) EU. ({ 10 }) 
+# Sentence pair (6) source length 21 target length 17 alignment score : 2.48867e-13
+Protože máme odpověď pouze v angličtině, takže je to jen formalita a audit je nyní za námi. 
+NULL ({ }) Because ({ 1 }) we ({ }) have ({ 2 }) the ({ }) reply ({ 3 }) only ({ 4 }) in ({ 5 }) English, ({ 6 }) so ({ 7 }) this ({ }) is ({ 8 }) only ({ }) a ({ }) formality ({ 11 }) and ({ 12 }) the ({ }) audit ({ 13 }) is ({ 14 }) it's ({ 9 }) over ({ 10 15 }) now. ({ 16 17 }) 
+# Sentence pair (7) source length 27 target length 19 alignment score : 1.6034e-22
+Název byl „Mnoho výzev...“ a zvláštní zpráva bude znít „Zbývá vyřešit mnoho výzev při výběru DPH z celních poplatků“. 
+NULL ({ 5 }) The ({ }) title ({ 1 }) was ({ }) “Many ({ }) of ({ }) the ({ }) challenges ({ }) o-o-of” ({ 2 3 }) that ({ }) special ({ 4 6 7 }) report ({ }) will ({ }) be ({ 8 }) “Many ({ 9 10 11 }) of ({ }) the ({ }) challenges ({ 12 }) of ({ }) collecting ({ 13 14 15 }) VAT ({ 16 }) in ({ }) custom ({ 17 }) duties ({ 18 }) remain ({ }) to ({ }) be ({ }) resolved”. ({ 19 }) 
+# Sentence pair (8) source length 4 target length 2 alignment score : 0.114409
+Zbývá vyřešit. 
+NULL ({ }) Remain ({ 1 }) to ({ }) be ({ }) resolved. ({ 2 }) 
+# Sentence pair (9) source length 32 target length 28 alignment score : 8.97539e-36
+Původně to mělo být „Bude potřeba se zaobírat“, ale některé již byly do jisté míry byly řešeny prostřednictvím nových právních předpisů, novým návrhem Komise, který právě zmínil <CENSORED>. 
+NULL ({ }) Originally ({ 1 }) it ({ 2 }) was ({ }) “remain ({ 3 4 5 }) to ({ 7 }) be ({ }) addressed”, ({ 6 8 }) but ({ 9 }) to ({ }) some ({ 10 }) extent ({ 11 }) they ({ }) have ({ }) been ({ 12 16 }) addressed ({ 13 14 15 17 }) with ({ }) new ({ }) pieces ({ }) of ({ }) legislation ({ }) new ({ }) proposal ({ }) made ({ }) by ({ }) the ({ }) commission ({ }) that ({ }) just ({ }) the ({ }) <CENSORED> ({ }) referred ({ 18 19 }) to. ({ 20 21 22 23 24 25 26 27 28 }) 
+# Sentence pair (10) source length 20 target length 11 alignment score : 1.13076e-11
+Stále však existují problémy, které zbývá vyřešit a uvidíme tedy později. 
+NULL ({ }) But ({ 2 }) they ({ }) remain ({ }) still ({ 3 }) the ({ }) problems ({ }) that ({ 5 }) there's ({ 1 4 }) an ({ }) issues ({ }) that ({ }) remain ({ 6 }) to ({ }) be ({ }) resolved ({ 7 }) and ({ 8 }) we ({ }) will ({ }) see ({ 9 }) later. ({ 10 11 }) 
+# Sentence pair (11) source length 16 target length 9 alignment score : 1.98441e-08
+Takže začnu tím, proč jsme zvolili toto téma auditu. 
+NULL ({ }) Then, ({ 1 }) I ({ }) will ({ }) start ({ 2 3 }) with ({ }) why ({ 4 }) we ({ 5 }) have ({ }) chosen ({ 6 }) this ({ }) topic ({ 7 8 }) for ({ }) the ({ }) for ({ }) the ({ }) audit. ({ 9 }) 
+# Sentence pair (12) source length 5 target length 4 alignment score : 0.00591866
+Na co se díváme. 
+NULL ({ }) What ({ 1 }) do ({ 2 }) we ({ }) look ({ 3 }) at. ({ 4 }) 
+# Sentence pair (13) source length 4 target length 2 alignment score : 0.0651893
+Něco hledají. 
+NULL ({ }) They ({ }) are ({ }) finding ({ 1 }) something. ({ 2 }) 
+# Sentence pair (14) source length 5 target length 4 alignment score : 0.000122151
+A zakončíme našimi doporučeními. 
+NULL ({ }) We'll ({ 1 }) finish ({ 2 3 }) with ({ }) our ({ }) recommendations. ({ 4 }) 
+# Sentence pair (15) source length 16 target length 11 alignment score : 2.88513e-10
+Nejprve, ok, provedli jsme průzkum, protože navazujeme na předchozí výzkumné analýzy. 
+NULL ({ }) First ({ 1 2 }) of ({ }) all, ({ }) ok, ({ 3 }) we ({ }) carried ({ 4 }) out ({ }) the ({ }) survey, ({ 5 7 }) because ({ 6 }) we ({ }) follow ({ 8 }) the ({ }) previous ({ 9 }) research ({ 10 }) analysis. ({ 11 }) 
+# Sentence pair (16) source length 27 target length 16 alignment score : 1.57695e-13
+Na základě zjištění vedoucího těchto institucí v oblasti elektronického obchodu provedli němečtí kolegové, litevští kolegové audity. 
+NULL ({ }) Based ({ 1 }) on ({ }) the ({ }) findings ({ 3 }) of ({ }) the ({ }) superintendent ({ 4 5 }) of ({ }) these ({ }) institutions ({ 6 }) in ({ 7 }) the ({ }) field ({ 8 }) of ({ }) e-commerce ({ 9 }) there ({ }) were ({ }) some ({ }) audits ({ 10 }) by ({ }) the ({ }) German ({ 11 }) colleagues, ({ 12 }) by ({ }) the ({ }) Lithuanian ({ 13 }) colleagues. ({ 2 14 15 16 }) 
+# Sentence pair (17) source length 43 target length 38 alignment score : 8.35634e-35
+Také v předchozím rozhodnutí, které jsme provedli ohledně dovozu, analyzujeme problém vzdálenosti ze zemí mimo EU a související problémy týkající se DPH a celních poplatků a rozhodli jsme se, že stálo za to jít hlouběji během tohoto auditu. 
+NULL ({ }) Also ({ 1 }) in ({ 2 }) a ({ }) previously ({ 3 }) determined ({ 4 8 9 }) that ({ 5 }) we ({ 6 }) made ({ 7 }) on ({ }) imports ({ 13 }) we ({ 28 }) analyze ({ 10 }) the ({ }) problem ({ 11 }) of ({ }) the ({ }) distance ({ 12 }) from ({ }) non-EU ({ 14 15 }) countries ({ 16 }) and ({ 17 }) the ({ }) related ({ }) problems ({ 18 19 }) concerning ({ 20 }) VAT ({ 22 }) and ({ 23 }) custom ({ 24 }) duties ({ 25 }) and ({ 26 }) we ({ }) decided ({ 27 29 }) that ({ 30 }) it ({ }) was ({ 31 }) worth ({ 32 }) it ({ 33 }) to ({ 21 }) go ({ 35 }) deeper ({ 34 37 }) during ({ 36 }) this ({ }) audit. ({ 38 }) 
+# Sentence pair (18) source length 22 target length 19 alignment score : 4.05413e-17
+Problém je v tom, že čestní obchodníci jsou často vyloučeni z trhu nečestnými obchodníky a už nedokážou dále konkurovat. 
+NULL ({ }) The ({ 1 }) problem ({ }) here ({ 3 }) is ({ 2 }) that ({ 5 }) the ({ }) honest ({ 4 6 }) traders ({ 7 }) are ({ 8 }) frequently ({ 9 }) expelled ({ 10 }) from ({ 11 }) the ({ }) market ({ 12 }) by ({ }) dishonest ({ 13 }) traders ({ 14 }) and ({ 15 }) they ({ }) cannot ({ }) compete ({ 16 }) anymore. ({ 17 18 19 }) 
+# Sentence pair (19) source length 29 target length 23 alignment score : 7.11803e-19
+To je problém, který vznesl také zástupce akademické obce, jako je profesorka Rita de la Feria, a je obzvláště intenzivní ve Velké Británii. 
+NULL ({ }) This ({ 1 }) is ({ 2 }) a ({ }) problem ({ 3 }) that ({ }) have ({ }) been ({ }) raised ({ 4 5 }) also ({ 6 }) by ({ 11 }) a ({ }) representative ({ 7 }) of ({ }) the ({ }) academia ({ 8 9 }) like ({ 10 }) professor ({ }) Rita ({ 14 }) de ({ 12 }) la ({ 13 }) Feria ({ 15 16 }) and ({ 17 }) it's ({ 18 }) especially ({ }) intensive ({ 19 20 }) in ({ 21 }) the ({ }) United ({ 22 }) Kingdom. ({ 23 }) 
+# Sentence pair (20) source length 5 target length 3 alignment score : 0.00656281
+Také odhady ztrát. 
+NULL ({ }) Also ({ 1 }) the ({ }) estimates ({ 2 }) about ({ }) losses. ({ 3 }) 
+# Sentence pair (21) source length 10 target length 10 alignment score : 6.09261e-09
+Existují pouze odhady týkající se vzdáleností ze zemí mimo EU. 
+NULL ({ }) There ({ 1 }) are ({ }) only ({ 2 }) estimates ({ 3 }) concerning ({ 4 5 }) the ({ }) distances ({ 6 }) from ({ }) non-EU ({ 7 }) countries. ({ 8 9 10 }) 
+# Sentence pair (22) source length 36 target length 27 alignment score : 7.77497e-25
+Tyto odhady však nejsou příliš povzbudivé, protože i když komise odhaduje pouze pět miliard ročně, ve Velké Británii je to mezi 1 a 1,5 mld liber ročně. 
+NULL ({ }) But ({ 3 }) these ({ }) estimates ({ 2 }) are ({ }) not ({ 20 }) very ({ }) encouraging ({ 1 }) because, ({ 4 5 6 }) ok, ({ 7 }) while ({ 11 }) the ({ }) commission ({ 10 }) have ({ }) made ({ }) an ({ }) estimate ({ }) of ({ }) only ({ 12 }) five ({ 13 }) billion ({ 14 }) per ({ }) year, ({ 15 }) in ({ 16 }) the ({ }) UK ({ 17 18 }) is ({ 19 }) between ({ 21 }) one ({ }) and ({ 23 }) one ({ 8 9 }) point ({ }) five ({ }) billion ({ }) pounds ({ 22 }) per ({ 24 }) year. ({ 25 26 27 }) 
+# Sentence pair (23) source length 5 target length 3 alignment score : 0.000231739
+Takto odhadly ztráty. 
+NULL ({ }) They ({ }) have ({ }) estimated ({ 2 }) these ({ }) losses. ({ 1 3 }) 
+# Sentence pair (24) source length 15 target length 10 alignment score : 3.65014e-10
+To představuje 8 až 10% snížení DPH ve Spojeném království. 
+NULL ({ }) This ({ 1 }) represents ({ 2 }) between ({ }) eight ({ 3 4 }) and ({ }) ten ({ }) percent ({ 6 }) of ({ }) the ({ }) VAT ({ 7 }) cut ({ 5 }) in ({ 8 }) the ({ }) United ({ }) Kingdom. ({ 9 10 }) 
+# Sentence pair (25) source length 10 target length 14 alignment score : 1.33687e-11
+Ale buďte opatrní, protože boj proti podvodům v současné době představuje pouze čtyři procenta. 
+NULL ({ }) But ({ 1 }) be ({ }) careful, ({ 2 3 }) because ({ 4 }) anti-fraud ({ 6 }) represent ({ 5 }) currently ({ 7 8 9 10 11 }) only ({ 12 }) four ({ 13 }) percent. ({ 14 }) 
+# Sentence pair (26) source length 25 target length 20 alignment score : 1.26023e-21
+Takže trojnásobek boje proti podvodům ve Velké Británii představuje objem ztrát u elektronického obchodu se zbožím nakoupeným ze třetích zemí. 
+NULL ({ }) So ({ 1 }) we ({ }) have ({ }) three ({ }) times ({ 2 }) the ({ }) volume ({ 3 }) of ({ }) the ({ }) anti-fraud ({ 4 5 }) in ({ 6 }) the ({ }) UK ({ 7 8 }) is ({ }) represented ({ 9 }) the ({ }) losses ({ 10 11 12 }) of ({ 15 }) e-commerce ({ 13 }) of ({ }) goods ({ 14 }) purchased ({ 16 17 19 20 }) from ({ }) non-EU ({ 18 }) countries. ({ }) 
+# Sentence pair (27) source length 5 target length 3 alignment score : 0.00102279
+Toto je poslání. 
+NULL ({ }) So ({ }) this ({ }) is ({ 2 }) a ({ }) mission. ({ 1 3 }) 
+# Sentence pair (28) source length 18 target length 12 alignment score : 8.31138e-14
+Nepočítáme zde dálkový prodej v rámci EU, nepočítáme zde většinu elektronických služeb. 
+NULL ({ }) We ({ }) are ({ }) not ({ }) counting ({ 1 }) here ({ 2 3 4 }) the ({ }) intra-EU ({ 5 6 }) distance ({ }) sales, ({ 7 }) we ({ }) are ({ }) not ({ }) counting ({ 8 }) here ({ 9 }) the ({ }) most ({ }) electronic ({ }) services. ({ 10 11 12 }) 
+# Sentence pair (29) source length 7 target length 6 alignment score : 0.000123819
+Takže základem je vyzdvihnout naše obavy. 
+NULL ({ }) So ({ 1 }) the ({ }) matter ({ 2 }) is ({ 3 }) raise ({ 4 }) our ({ }) concerns. ({ 5 6 }) 
+# Sentence pair (30) source length 22 target length 18 alignment score : 2.36562e-19
+Pak na co se zaměřujeme je, že navštívíme pět členských států - Německo, Irsko, Nizozemsko, Rakousko a Švédsko. 
+NULL ({ }) Then ({ 1 }) what ({ }) we ({ }) look ({ 3 4 }) at ({ 2 }) of ({ }) course ({ }) is ({ }) a ({ }) we ({ }) visit ({ 5 6 7 8 }) five ({ 9 }) member ({ 10 }) states ({ }) - ({ }) Germany, ({ }) Ireland, ({ 11 }) the ({ }) Netherlands, ({ 12 }) Austria ({ 16 }) and ({ 17 }) Sweden. ({ 13 14 15 18 }) 
+# Sentence pair (31) source length 20 target length 18 alignment score : 1.78484e-18
+Proč jsme brali v úvahu počet registrací k systému MOS jak v programech mimo EU, tak v USA. 
+NULL ({ }) Why ({ 1 }) we ({ 2 }) took ({ 3 }) into ({ }) account ({ 4 }) the ({ }) number ({ 5 9 }) of ({ }) registration ({ 6 7 8 }) for ({ }) the ({ }) MOS ({ 10 }) both ({ 11 }) in ({ 12 }) the ({ }) non-EU ({ 14 }) and ({ }) the ({ }) US ({ 13 }) schemes. ({ 15 16 17 18 }) 
+# Sentence pair (32) source length 26 target length 24 alignment score : 2.89133e-23
+Rovněž objem elektronického prodeje v rámci EU a konečně odhadovaná částka ušlé DPH v důsledku osvobození od DPH při dovozu zboží nepatrné hodnoty (LVCR). 
+NULL ({ }) Also ({ 1 }) the ({ }) volume ({ 2 }) of ({ }) intra-EU ({ 6 }) intra-EU ({ 7 }) e-commerce ({ 3 }) sales ({ 4 }) and ({ 8 }) finally ({ 9 }) the ({ 5 }) estimated ({ 10 }) amount ({ 11 12 }) of ({ }) the ({ 14 }) VAT ({ 13 18 }) foregone ({ 15 16 17 }) as ({ }) a ({ }) consequence ({ 19 }) of ({ }) the ({ }) low ({ 20 }) value ({ 21 22 }) consignment ({ 23 }) relief. ({ 24 }) 
+# Sentence pair (33) source length 15 target length 12 alignment score : 2.23021e-10
+V návaznosti na studii našeho zdroje v komisi jsme také navštívili komisi. 
+NULL ({ }) Following ({ 1 }) on ({ }) a ({ }) study ({ 2 }) of ({ }) our ({ 3 }) source ({ 4 5 6 }) by ({ }) the ({ }) commission, ({ 8 }) we ({ 9 }) also ({ 10 }) visited ({ 11 }) the ({ 7 }) commission. ({ 12 }) 
+# Sentence pair (34) source length 23 target length 21 alignment score : 8.06196e-16
+Tyto kroky by měly odladit technologii a Světová celní organizace a zrušené období trvalo od roku 2015 do konce roku 2018. 
+NULL ({ }) These ({ 1 }) acts ({ 2 }) should ({ 3 4 5 }) debug ({ 6 }) the ({ }) technology ({ }) and ({ 7 }) the ({ }) World ({ 8 }) Customs ({ 9 }) Organizations ({ 10 }) and ({ 11 }) the ({ }) deleted ({ 12 }) period ({ 13 }) ran ({ 14 15 16 }) from ({ }) 2015 ({ 17 }) until ({ 18 }) the ({ }) end ({ 19 }) of ({ }) 2018. ({ 20 21 }) 
+# Sentence pair (35) source length 26 target length 21 alignment score : 1.01307e-21
+Zohlednili jsme však také nové právní předpisy týkající se předloženého návrhu a všech návrhů, které vstoupí v platnost v roce 2021. 
+NULL ({ }) But ({ 3 }) we ({ 2 }) took ({ }) into ({ 8 10 11 }) account ({ 1 }) also ({ 4 }) the ({ }) new ({ }) pieces ({ 5 }) of ({ }) legislation ({ 6 7 }) on ({ }) the ({ }) proposal ({ }) made ({ }) and ({ 12 }) all ({ 13 }) the ({ 17 }) proposal ({ }) that ({ 15 }) will ({ 9 }) enter ({ 16 }) into ({ }) force ({ 14 18 }) in ({ 19 }) 2021. ({ 20 21 }) 
+# Sentence pair (36) source length 5 target length 4 alignment score : 0.00591866
+Na co se zaměřujeme? 
+NULL ({ }) What ({ 1 }) do ({ 2 }) we ({ }) look ({ 3 }) at? ({ 4 }) 
+# Sentence pair (37) source length 20 target length 16 alignment score : 2.43409e-15
+Začali jsme samozřejmě analyzovat odpovědi na náš průzkum, a to průzkum, který zaslala hlavní skupina dvě. 
+NULL ({ }) Of ({ 1 }) course, ({ }) we ({ }) we ({ 2 }) started ({ 6 }) analyzing ({ 3 4 }) the ({ }) replies ({ 5 }) to ({ }) our ({ }) survey ({ 9 }) the ({ }) survey ({ 7 }) that ({ }) was ({ 10 }) sent ({ }) by ({ }) core ({ 8 11 12 }) group ({ 13 }) two. ({ 14 15 16 }) 
+# Sentence pair (38) source length 18 target length 15 alignment score : 4.37755e-16
+Pokračujeme dotazníkem ve všech členských státech, které jsme navštívili s rozhovory se všemi možnými lidmi. 
+NULL ({ }) We ({ }) continue ({ }) with ({ }) questionnaire ({ 1 2 6 }) in ({ 3 }) all ({ }) the ({ }) member ({ 5 }) states ({ }) that ({ 7 }) we ({ 8 }) visited ({ 9 }) with ({ 12 }) interviews ({ }) with ({ 10 }) all ({ 4 }) possible ({ 11 }) people. ({ 13 14 15 }) 
+# Sentence pair (39) source length 34 target length 29 alignment score : 1.9672e-30
+Získali jsme přístup, a co je také velmi důležité, nastavili jsme přístup k ABC údajům do databáze Synergia, tj. databáze incidentů, problémů, které členské státy hlásí v systému MOS. 
+NULL ({ }) We ({ 1 }) got ({ 2 }) access, ({ 3 }) and ({ 4 }) this ({ 5 }) is ({ 6 }) very ({ 8 }) important ({ 9 }) too, ({ 10 }) set ({ 11 }) up ({ 7 }) a ({ }) ABC ({ 14 15 16 }) data ({ }) access ({ 12 13 }) to ({ }) the ({ 27 }) Synergia ({ }) database ({ }) the ({ }) database ({ 17 18 19 20 }) of ({ }) incidents, ({ 21 22 }) and ({ }) problems ({ }) that ({ 23 }) tickets ({ 24 25 26 }) reported ({ }) by ({ }) member ({ }) states ({ }) on ({ }) the ({ }) MOS. ({ 28 29 }) 
+# Sentence pair (40) source length 37 target length 35 alignment score : 2.85076e-38
+Dostali jsme přístup ke všem projektovým skupinám fiscali (fiskálním) a elektronickým skupinám, které se týkají elektronického obchodu, a ke všem projektovým skupinám souvisejícím s BUT, kde existuje spousta informací a diskuze ohledně fungování systému MOS. 
+NULL ({ }) We ({ }) got ({ 2 }) the ({ }) access ({ 3 }) to ({ }) all ({ 4 }) the ({ }) fiscali ({ 1 5 }) project ({ 6 }) groups ({ }) and ({ 10 }) electronic ({ }) groups ({ 7 8 9 }) concerning ({ }) e-commerce ({ 16 17 }) and ({ 18 }) all ({ 19 }) the ({ }) BUT ({ 20 21 22 23 }) related ({ 11 24 }) project ({ }) groups, ({ 12 13 15 25 26 27 28 }) that ({ }) there ({ }) is ({ }) a ({ }) lot ({ }) of ({ }) information ({ 29 }) and ({ 30 }) discussion ({ 31 }) concerning ({ 14 }) the ({ }) functioning ({ 32 33 }) of ({ }) the ({ }) MOS. ({ 34 35 }) 
+# Sentence pair (41) source length 31 target length 21 alignment score : 1.02396e-19
+A samozřejmě jsme získali finance z podpory institucí z Německa, Nizozemska a Belgie a nakonec jsme provedli vlastní vzorky různých transakcí. 
+NULL ({ }) And ({ 1 }) of ({ }) course ({ 2 }) we ({ 3 }) got ({ 4 }) the ({ }) finance ({ 5 7 }) from ({ 6 }) the ({ }) support ({ }) of ({ }) the ({ }) institutions ({ 8 }) of ({ }) Germany, ({ }) of ({ }) the ({ }) Netherlands ({ 9 }) and ({ 12 }) Belgium, ({ 10 11 13 }) and ({ 14 }) finally ({ 15 }) we ({ }) carried ({ 16 }) out ({ 17 }) our ({ }) own ({ 18 }) samples ({ 19 }) on ({ }) different ({ 20 }) transactions. ({ 21 }) 
+# Sentence pair (42) source length 12 target length 12 alignment score : 8.04992e-12
+Celkově jsme dali dohromady téměř devět set transakcí souvisejících s elektronickým obchodem. 
+NULL ({ }) On ({ 1 }) the ({ }) whole, ({ 2 }) we ({ }) summoned ({ 3 4 5 6 }) nearly ({ 7 }) nine ({ 9 }) hundred ({ }) transactions ({ 8 }) related ({ 10 }) to ({ }) e-commerce. ({ 11 12 }) 
+# Sentence pair (43) source length 26 target length 17 alignment score : 1.11085e-18
+To, co nacházíme, samozřejmě, byly to nejprve pozitivní věci a pak budeme pokračovat s těmi nejvíce negativními. 
+NULL ({ }) What ({ 1 }) do ({ 2 }) we ({ }) fi, ({ 3 4 5 }) what ({ }) we ({ }) find ({ }) here, ({ 6 }) of ({ }) course, ({ }) they ({ }) were ({ }) first ({ 7 }) the ({ }) positive ({ 8 9 }) things ({ }) and ({ 10 }) then ({ 11 }) we ({ }) will ({ }) continue ({ }) with ({ }) the ({ }) most ({ }) negative ({ 12 }) things. ({ 13 14 15 16 17 }) 
+# Sentence pair (44) source length 19 target length 15 alignment score : 3.10616e-11
+Regulační rámec se řídí nejlepšími mezinárodními postupy, které mají extrémy OECD a Světové celní organizace. 
+NULL ({ }) The ({ }) regulatory ({ 2 }) framework ({ 3 }) follow ({ }) the ({ }) international ({ 4 }) best ({ 5 6 }) practice ({ 1 }) that ({ 8 }) having ({ 7 }) extremes ({ 9 10 }) by ({ }) the ({ }) OECD ({ 11 }) and ({ 12 }) the ({ }) World ({ 13 }) Customs ({ 14 }) Organization. ({ 15 }) 
+# Sentence pair (45) source length 22 target length 20 alignment score : 1.64708e-24
+Ve většině ohledů týkajících se OECD byla ve většině případů s výjimkou této zásady dodržována zásada zdanění v místě určení. 
+NULL ({ }) In ({ 1 }) most ({ 2 }) respects ({ 3 }) concerning ({ }) the ({ }) OECD, ({ 4 }) they ({ }) principle ({ 6 }) of ({ }) taxation ({ }) at ({ 5 }) a ({ 18 }) destination ({ 7 }) has ({ }) been ({ }) respected ({ 8 }) in ({ }) most ({ 9 }) cases ({ 10 }) except ({ }) for ({ }) that. ({ 11 12 13 14 15 16 17 19 20 }) 
+# Sentence pair (46) source length 27 target length 23 alignment score : 3.92486e-25
+Nyní existuje nová limitní hodnota pod deset tisíc eur, které můžete v členském státě původu podat, takže to není v souladu s OECD. 
+NULL ({ }) Now, ({ 1 }) there ({ }) is ({ }) a ({ }) new ({ }) threshold ({ 4 }) below ({ 7 }) tenth ({ 3 }) thousand ({ 5 }) euro ({ 6 }) you ({ }) can ({ }) report ({ 8 9 }) in ({ 12 }) the ({ }) member ({ }) state ({ }) of ({ 10 }) origin ({ 11 13 14 15 16 }) so ({ 17 }) this ({ 18 }) is ({ }) not ({ 19 }) complying ({ 20 21 }) with ({ 22 }) the ({ }) OECD. ({ 2 23 }) 
+# Sentence pair (47) source length 31 target length 26 alignment score : 4.99019e-24
+V případě Světové celní organizace, která se zabývá dováženými balíčky, byly pokyny pro okamžité uvolnění ve většině ohledů dodržovány a také nový návrh v rámci norem. 
+NULL ({ }) For ({ 1 2 }) the ({ }) World ({ 3 }) Customs ({ 4 }) Organization ({ }) that ({ }) deals ({ 5 }) with ({ 7 }) the ({ }) packages ({ 8 }) imported ({ 6 9 }) the ({ }) immediate ({ 10 }) release ({ 11 }) guidelines ({ 12 }) have ({ }) been ({ }) followed ({ 13 14 15 }) in ({ 16 }) most ({ 17 }) respects ({ 18 19 }) and ({ 20 }) also ({ 21 }) the ({ }) new ({ }) proposal ({ 22 23 }) the ({ 24 }) framework ({ 25 }) of ({ }) the ({ }) standards. ({ 26 }) 
+# Sentence pair (48) source length 19 target length 17 alignment score : 2.41246e-13
+Komise je v této oblasti průkopníkem a ve většině ohledů se přizpůsobuje Světové celní organizaci a normám. 
+NULL ({ }) The ({ }) commission ({ 1 }) is ({ 2 }) pioneer ({ 4 }) in ({ 3 }) this ({ }) and ({ 7 }) they ({ }) align ({ 5 6 }) in ({ 8 }) most ({ 9 }) respects ({ 10 }) with ({ 11 }) the ({ }) World ({ 12 13 }) Customs ({ 14 }) Organization ({ 15 }) and ({ 16 }) standards. ({ 17 }) 
+# Sentence pair (49) source length 9 target length 12 alignment score : 8.16303e-15
+Co se týče nového ustanovení, které vstoupí v platnost v roce 2021... 
+NULL ({ }) Concerning ({ }) the ({ }) new ({ 2 }) provision ({ 4 5 }) that ({ 6 }) will ({ }) enter ({ 7 8 9 }) in ({ 10 }) 2021... ({ 1 3 11 12 }) 
+# Sentence pair (50) source length 22 target length 18 alignment score : 1.41334e-16
+Snažím se vyřešit některé slabiny, ale pro nás je hlavním problémem, který se bude i nadále vyskytovat, podhodnocení. 
+NULL ({ }) I ({ }) aim ({ 1 }) to ({ 2 }) resolve ({ 3 }) some ({ 4 }) of ({ }) the ({ }) weaknesses, ({ 5 }) but ({ 6 }) for ({ 7 }) us ({ 14 }) the ({ }) main ({ 10 }) problem ({ }) that ({ }) it ({ }) will ({ }) continue ({ 15 16 }) to ({ 13 }) happen ({ 8 }) is ({ 9 }) undervaluation. ({ 11 12 17 18 }) 
+# Sentence pair (51) source length 15 target length 12 alignment score : 1.49173e-08
+Ztráty z DPH a celních poplatků jsou zkušenosti a budou i nadále. 
+NULL ({ }) Their ({ 1 }) the ({ }) losses ({ 2 }) on ({ }) VAT ({ 3 }) and ({ 4 }) custom ({ 5 }) duties ({ 6 }) are ({ 7 }) experience ({ 8 }) and ({ 9 }) will ({ 10 }) continue ({ 11 }) to ({ }) do. ({ 12 }) 
+# Sentence pair (52) source length 17 target length 11 alignment score : 2.14321e-10
+A to nelze řešit návrhem informačního řetězce s poskytovateli platebních služeb. 
+NULL ({ }) And ({ 1 }) this ({ 2 }) cannot ({ 3 5 }) be ({ }) tackle ({ 4 }) with ({ 8 }) the ({ }) proposal ({ }) of ({ }) a ({ }) chain ({ 6 7 }) of ({ }) information ({ }) with ({ }) payment ({ 9 }) service ({ 10 }) providers. ({ 11 }) 
+# Sentence pair (53) source length 20 target length 16 alignment score : 6.12137e-14
+Pokud jde o obchod se zeměmi mimo EU, nebude to vyřešeno a později také uvidíme proč. 
+NULL ({ }) As ({ 1 }) far ({ 2 }) as ({ }) the ({ }) trade ({ 3 4 }) with ({ 5 }) non-EU ({ 7 }) countries ({ 6 }) is ({ }) concerned, ({ 8 9 }) this ({ }) won't ({ 10 }) be ({ }) solved ({ 11 }) and ({ 12 }) we ({ }) will ({ }) see ({ }) later ({ 13 }) why. ({ 14 15 16 }) 
+# Sentence pair (54) source length 12 target length 12 alignment score : 1.05433e-12
+Proč ano, protože dohody o spolupráci správních úřadů se třetími zeměmi nefungují. 
+NULL ({ }) Why, ({ 1 2 }) yes, ({ 4 }) because ({ 3 }) administrative ({ 5 }) cooperation ({ 6 }) arrangement ({ 7 8 }) with ({ 9 }) non-EU ({ }) countries ({ }) they ({ }) don't ({ }) work. ({ 10 11 12 }) 
+# Sentence pair (55) source length 10 target length 9 alignment score : 5.61739e-08
+Máme novou dohodu s Norskem. Toto je v pořádku. 
+NULL ({ }) We ({ 1 }) have ({ }) the ({ }) new ({ 2 }) agreement ({ 3 }) with ({ 4 }) Norway. ({ 5 6 }) This ({ }) is ({ 7 }) fine. ({ 8 9 }) 
+# Sentence pair (56) source length 21 target length 13 alignment score : 7.93469e-11
+Očekáváme změnu informací s Norskem, že to bude fungovat, ale to není problém. 
+NULL ({ }) We ({ }) are ({ }) the ({ }) we're ({ 1 }) expecting ({ 2 }) a ({ }) change ({ }) of ({ }) information ({ 3 }) with ({ 4 }) Norway ({ 5 }) that ({ 6 }) this ({ 7 }) will ({ }) work, ({ 8 9 }) but ({ 10 }) this ({ 11 }) is ({ }) not ({ 12 }) the ({ }) problem. ({ 13 }) 
+# Sentence pair (57) source length 11 target length 11 alignment score : 6.41756e-10
+Není to Norsko, problém je Čína, jsou to Spojené státy americké. 
+NULL ({ }) It's ({ 1 }) not ({ 2 }) Norway, ({ 3 }) the ({ }) problem, ({ 4 }) is ({ 5 }) China, ({ 6 7 }) it's ({ 8 }) the ({ }) United ({ }) States. ({ 9 10 11 }) 
+# Sentence pair (58) source length 34 target length 22 alignment score : 9.64235e-17
+Informační řetězec s Čínou nefunguje, protože čínský protějšek neodpovídá a procento odpovědi klesá a klesá a klesá, takže to je ten problém. 
+NULL ({ }) Then, ({ 1 }) the ({ }) chain ({ 2 }) of ({ }) information ({ }) with ({ 3 }) China ({ 4 }) is ({ }) not ({ }) working, ({ 5 }) because ({ 6 }) the ({ }) Chinese ({ 7 8 }) counterpart, ({ 9 }) they ({ }) do ({ }) not ({ }) reply ({ }) and ({ 10 }) the ({ }) percentage ({ 11 }) of ({ }) reply ({ 12 }) is ({ 20 }) dropping ({ 13 }) and ({ 14 }) dropping ({ 15 }) and ({ 16 }) dropping ({ 17 }) so ({ 18 }) that's ({ 19 }) the ({ }) the ({ }) problem. ({ 21 22 }) 
+# Sentence pair (59) source length 45 target length 34 alignment score : 8.73527e-35
+Máme-li informace o změně dodavatele, který nepracuje pomocí elektronického rozhraní, tj. pracuje přímo na svých webových stránkách, který se nezaregistroval v MOS nebo dokonce zaregistroval a poté, co zrušíme registraci, on otevře nový web... 
+NULL ({ }) If ({ }) we ({ }) have ({ }) information ({ }) about ({ 3 }) a ({ }) change ({ }) of ({ }) supplier, ({ 1 2 4 5 }) who ({ 6 }) is ({ }) not ({ }) operating ({ 7 }) using ({ 8 }) electronic ({ }) interface, ({ 9 10 11 }) so ({ }) is ({ }) operating ({ 12 }) directly ({ 13 }) in ({ 21 }) his ({ 15 }) website, ({ 16 17 }) who ({ 18 }) is ({ }) not ({ }) registering ({ 20 }) for ({ 14 }) the ({ }) MOS ({ 22 }) or ({ 23 }) even ({ }) register ({ 24 25 }) and ({ 26 }) then ({ }) we ({ }) revoke ({ 27 }) the ({ }) registration, ({ 28 }) he ({ }) will ({ 19 }) open ({ 29 }) a ({ }) new ({ }) website... ({ 30 31 32 33 34 }) 
+# Sentence pair (60) source length 24 target length 19 alignment score : 3.74087e-16
+Tak, jak to, že platíme DPH z Evropy do Číny, a očekáváme, že se DPH vrátí zpět do EU. 
+NULL ({ }) So, ({ 1 }) how ({ 2 }) come ({ 3 }) we ({ }) are ({ }) paying ({ 4 5 }) the ({ }) VAT ({ 6 }) from ({ 7 }) Europe ({ 8 9 }) to ({ }) China, ({ 10 }) and ({ 11 }) we ({ }) expect ({ 12 }) that ({ 13 }) VAT ({ 15 }) will ({ 14 }) be ({ }) will ({ }) come ({ }) back ({ 16 17 18 }) to ({ }) EU. ({ 19 }) 
+# Sentence pair (61) source length 8 target length 5 alignment score : 8.82683e-07
+Pokud také nemáme spolupráci administrativy. 
+NULL ({ }) If ({ 1 }) we ({ }) don't ({ }) have ({ }) the ({ }) administrative ({ }) cooperation ({ }) too. ({ 2 3 4 5 }) 
+# Sentence pair (62) source length 4 target length 4 alignment score : 0.00249982
+To se nikdy nestane. 
+NULL ({ }) This ({ 1 }) will ({ 2 }) never ({ 3 }) happen. ({ 4 }) 
+# Sentence pair (63) source length 12 target length 10 alignment score : 5.71511e-08
+To je problém i mezi zeměmi EU, nefunguje podle očekávání. 
+NULL ({ }) That's ({ 1 }) the ({ }) problem ({ 3 }) even ({ 4 }) between ({ 5 }) EU ({ 7 }) countries ({ 6 }) is ({ 2 }) not ({ }) working ({ }) as ({ }) expected. ({ 8 9 10 }) 
+# Sentence pair (64) source length 21 target length 14 alignment score : 7.73543e-16
+Také spolupráce administrativy, takže uvidíme později, že kontroly prováděné vnitrostátními daňovými orgány jsou slabé. 
+NULL ({ }) The ({ 1 }) administrative ({ 2 }) cooperation ({ }) too, ({ 3 }) so ({ 4 }) we ({ }) will ({ }) see ({ 5 }) later ({ }) on ({ }) then ({ }) the ({ }) controls ({ }) carried ({ }) out ({ }) by ({ }) national ({ 6 7 8 10 }) tax ({ 9 11 }) authorities ({ 12 }) are ({ 13 }) weak. ({ 14 }) 
+# Sentence pair (65) source length 19 target length 17 alignment score : 3.15509e-16
+Protože neexistují prakticky žádné nástroje k provedení řádné analýzy rizika náhody, o které jsme se již zmínili. 
+NULL ({ 15 }) Because ({ 1 }) there ({ }) is ({ }) practically ({ 2 3 }) no ({ 4 }) tools ({ 5 }) to ({ }) carried ({ 6 }) out ({ 7 }) a ({ }) proper ({ 8 }) risk ({ 9 }) analysis ({ 10 11 }) of ({ }) a ({ }) chance ({ 12 }) has ({ }) mentioned ({ 13 16 }) before. ({ 14 17 }) 
+# Sentence pair (66) source length 34 target length 24 alignment score : 2.3694e-30
+Proto bude nezbytné, aby členský stát schválil návrh komise na změnu informací, přičemž poskytovatelé platebních služeb, které podléhají kontrole ze strany komise, jsou nedostatečné. 
+NULL ({ }) And ({ }) for ({ }) this ({ }) we ({ }) will ({ }) be ({ 2 }) necessary ({ 1 3 }) that ({ }) the ({ }) member ({ }) state ({ 5 6 }) approve ({ 4 7 }) the ({ }) proposal ({ 8 }) of ({ }) the ({ }) commission ({ 9 }) to ({ }) change ({ 11 12 }) information ({ }) with ({ }) the ({ }) payment ({ }) service ({ 15 }) providers ({ 13 14 16 }) being ({ 17 }) in ({ }) the ({ }) control ({ 18 19 }) of ({ }) the ({ 10 }) commission ({ }) are ({ 23 }) insufficient. ({ 20 21 22 24 }) 
+# Sentence pair (67) source length 19 target length 13 alignment score : 1.1818e-11
+A uvidíme později, samozřejmě, že komise neprováděla ohledně toho žádné monitorování, žádné monitorování. 
+NULL ({ }) And ({ 1 }) we ({ }) will ({ }) see ({ 2 }) later, ({ 3 4 }) of ({ }) course ({ }) the ({ }) commission ({ 6 }) had ({ 7 }) not ({ }) carried ({ }) out ({ }) any ({ }) monitoring ({ 8 9 }) on ({ }) that ({ 5 }) no ({ 10 }) monitoring. ({ 11 12 13 }) 
+# Sentence pair (68) source length 10 target length 8 alignment score : 3.34804e-12
+Ve vlastních elektronických systémech odbavení jsou pak slabiny. 
+NULL ({ }) Then ({ }) there ({ }) are ({ }) weaknesses ({ 2 }) in ({ }) the ({ }) custom ({ }) electronic ({ }) clearance ({ }) systems. ({ 1 3 4 5 6 7 8 }) 
+# Sentence pair (69) source length 27 target length 21 alignment score : 2.96198e-21
+Tradičním problémem je samozřejmě to, že obchodníci podhodnocovali zboží, aby bylo u DPH pod eurovým prahem dvaceti dvou nebo deseti let. 
+NULL ({ }) Of ({ }) course, ({ 1 4 }) the ({ }) traditional ({ 5 }) problem ({ 2 }) is ({ 3 }) that ({ 6 }) the ({ }) traders ({ 7 }) undervalued ({ 8 }) the ({ }) goods, ({ 9 10 11 12 }) so ({ }) to ({ }) be ({ }) below ({ }) the ({ }) twenty, ({ 16 17 }) two ({ 18 }) or ({ 19 }) ten ({ }) year ({ 13 15 20 }) euro ({ 14 }) threshold ({ }) for ({ }) the ({ }) VAT. ({ 21 }) 
+# Sentence pair (70) source length 19 target length 14 alignment score : 1.23673e-10
+A to v budoucnu zmizí, ale budou i nadále podhodnocovat, aby platili nižší DPH. 
+NULL ({ }) And ({ 1 }) this ({ 2 }) will ({ }) disappear ({ 4 }) in ({ }) the ({ }) future, ({ 5 }) but ({ 6 }) they ({ }) will ({ 7 }) continue ({ 8 9 }) to ({ }) undervalue ({ 10 }) in ({ 3 }) order ({ 11 }) to ({ }) pay ({ 12 }) less ({ 13 }) VAT. ({ 14 }) 
+# Sentence pair (71) source length 26 target length 24 alignment score : 8.45044e-20
+Nebude to schváleno, ale budou platit méně a co se týče celních povinností, je předpoklad stanoven na sto padesát eur a to nemohou zvládnout. 
+NULL ({ }) It ({ 1 }) won't ({ 2 }) be ({ }) assented, ({ 3 }) but ({ 4 }) they ({ }) will ({ 5 }) pay ({ 6 }) less ({ 7 }) and ({ 8 }) concerning ({ 10 }) custom ({ 12 }) duties, ({ 9 13 }) the ({ }) assumption ({ 11 }) is ({ 14 }) set ({ 15 16 }) at ({ 17 }) one ({ }) hundred ({ 18 }) fifty ({ 19 }) euros ({ 20 }) and ({ 21 }) they ({ 22 }) cannot ({ }) manage. ({ 23 24 }) 
+# Sentence pair (72) source length 23 target length 14 alignment score : 2.88564e-12
+Protože ve všech elektronických ... uvidíme později elektronický zúčtovací systém EU, nemohou deklaraci zastavit. 
+NULL ({ }) Because ({ 1 }) in ({ 2 }) all ({ 3 }) the ({ }) electronic ({ 4 5 }) we ({ }) will ({ }) see ({ 6 }) later ({ 7 }) electronic ({ 8 }) clearance ({ 9 }) system ({ 10 }) of ({ }) the ({ }) EU ({ 11 }) they ({ }) are ({ }) not ({ }) able ({ 12 }) to ({ }) stop ({ }) the ({ }) declaration. ({ 13 14 }) 
+# Sentence pair (73) source length 21 target length 13 alignment score : 1.19771e-13
+Protože zaškrtnou políčko vlastní elektronický..., který uplatňují u zákazníka elektronicky z důvodu úlev. 
+NULL ({ }) Because ({ 1 }) they ({ }) tick ({ 2 3 }) on ({ }) the ({ }) custom ({ }) electronic ({ }) in ({ }) the ({ }) box ({ 4 }) that ({ }) they ({ }) apply ({ 5 6 7 }) for ({ }) the ({ }) customer ({ 8 9 }) electronically ({ 10 }) for ({ }) the ({ }) custom ({ 11 }) relief. ({ 12 13 }) 
+# Sentence pair (74) source length 18 target length 12 alignment score : 4.7968e-15
+A prosadili systém, i když deklarovali hodnotu, která je nad sto padesát. 
+NULL ({ }) And ({ 1 }) they ({ }) asserted ({ 2 3 }) the ({ }) system ({ }) even ({ 4 }) if ({ }) they ({ }) declared ({ }) a ({ }) value, ({ }) which ({ }) is ({ 9 }) above ({ 5 }) one ({ }) hundred ({ }) and ({ }) fifty. ({ 6 7 8 10 11 12 }) 
+# Sentence pair (75) source length 30 target length 21 alignment score : 1.50242e-20
+Elektronický systém to nedokáže zastavit, říkali, že to je něco velmi vážného, protože provozovatelé, kteří tam pracují, jsou nadějnými hospodářskými subjekty. 
+NULL ({ }) The ({ }) electronic ({ }) system ({ 2 }) are ({ }) not ({ }) able ({ }) to ({ }) stop ({ }) it ({ 3 }) they ({ }) have ({ }) said ({ 4 5 6 }) that ({ 7 }) and ({ }) this ({ 8 }) is ({ 9 }) something ({ 10 }) very ({ 11 }) serious ({ 12 }) because ({ 13 }) the ({ }) operators ({ 14 15 }) that ({ }) are ({ }) working ({ 16 17 }) there ({ }) are ({ 18 }) hopeful ({ 1 19 }) economic ({ }) operators. ({ 20 21 }) 
+# Sentence pair (76) source length 25 target length 17 alignment score : 2.74132e-16
+Takže, velcí kurýři mají autoritu asociace ekonomických operátorů a tvrdí, že jsou nejspolehlivější, ale zneužívají tento systém. 
+NULL ({ }) So, ({ }) the ({ }) big ({ 2 }) couriers, ({ 1 }) they ({ }) have ({ }) an ({ }) authority ({ 3 4 5 6 7 }) economic ({ 16 }) operators ({ }) association ({ 8 }) and ({ 9 }) they ({ }) purport ({ 10 11 }) to ({ }) be ({ }) the ({ }) most ({ }) reliable, ({ 13 }) but ({ 14 }) they ({ }) are ({ 12 }) abusing ({ 15 }) the ({ }) system. ({ 17 }) 
+# Sentence pair (77) source length 11 target length 8 alignment score : 1.85384e-06
+Prosazení výběru celních poplatků pro DPH není účinné. 
+NULL ({ }) An ({ 1 }) enforcements ({ 5 }) of ({ }) collection ({ 2 }) of ({ }) VAT ({ 6 }) custom ({ 3 }) duties ({ 4 }) is ({ }) not ({ 7 }) effective. ({ 8 }) 
+# Sentence pair (78) source length 18 target length 12 alignment score : 2.17361e-12
+Ok, ustanovení o řetězci informací o vymáhání pohledávek souvisejících s touto daní. 
+NULL ({ }) Ok, ({ 1 }) the ({ }) provisions ({ 2 3 4 }) for ({ }) the ({ }) a ({ }) chain ({ }) of ({ }) information ({ 5 }) on ({ 6 }) the ({ }) recovery ({ 7 }) of ({ }) claims ({ 8 }) related ({ 9 10 }) to ({ }) that ({ }) tax. ({ 11 12 }) 
+# Sentence pair (79) source length 17 target length 13 alignment score : 1.51679e-12
+Zřídka byly použity, z pěti členských států, které jsme navštívili, pouze v Rakousku. 
+NULL ({ }) They ({ 1 }) have ({ }) rarely ({ 7 }) been ({ 2 }) used ({ 3 4 }) of ({ }) the ({ }) five ({ 5 }) member ({ 6 }) states ({ }) that ({ 8 }) we ({ 9 }) have ({ 10 }) visited ({ }) only ({ 11 }) in ({ 12 }) Austria. ({ 13 }) 
+# Sentence pair (80) source length 9 target length 9 alignment score : 1.03319e-07
+Pouze v pěti případech, takže se to často nepoužívá. 
+NULL ({ 6 }) Only ({ 1 }) in ({ 2 }) five ({ 3 }) occasions, ({ 4 }) so ({ 5 }) it's ({ 7 }) not ({ }) frequently ({ 8 }) uses. ({ 9 }) 
+# Sentence pair (81) source length 10 target length 6 alignment score : 2.98845e-07
+Analyzujeme nesoulad plateb mezi členskými státy. 
+NULL ({ }) There ({ }) are ({ }) mismatches ({ 3 }) of ({ }) payments ({ }) between ({ 4 }) member ({ }) states ({ 5 }) we ({ }) analyze. ({ 1 2 6 }) 
+# Sentence pair (82) source length 17 target length 11 alignment score : 1.00392e-11
+Máme přístup k harmonizaci prováděné komisí a stále existují opomenuté kombinace. 
+NULL ({ }) We ({ 1 }) have ({ }) access ({ 2 }) to ({ }) the ({ }) reconciliation ({ 4 }) carried ({ 3 }) out ({ }) by ({ }) the ({ }) commission ({ }) and ({ 7 }) there ({ }) are ({ }) still ({ 9 }) missed ({ 5 }) matches. ({ 6 8 10 11 }) 
+# Sentence pair (83) source length 6 target length 6 alignment score : 0.000283337
+Důležité znamená hodně mezi členskými státy. 
+NULL ({ }) Important ({ 1 }) means ({ 2 }) much ({ 3 }) between ({ 4 }) member ({ }) states. ({ 5 6 }) 
+# Sentence pair (84) source length 27 target length 17 alignment score : 2.71669e-21
+V Nizozemsku je samozřejmě problém, že nedokážou harmonizovat, což vysvětluje částky DPH obdržené s přiznáním k DPH. 
+NULL ({ }) There ({ }) is ({ 3 }) of ({ }) course ({ 4 }) the ({ }) problem ({ }) in ({ }) the ({ }) Netherlands, ({ 7 }) that ({ 6 }) they ({ }) are ({ }) not ({ }) able ({ }) to ({ }) reconcile, ({ 5 }) that ({ }) has ({ }) explained ({ }) the ({ }) VAT ({ 12 }) amounts ({ 8 9 10 11 13 }) received ({ }) with ({ 14 }) the ({ }) VAT ({ }) returns. ({ 1 2 15 16 17 }) 
+# Sentence pair (85) source length 17 target length 13 alignment score : 1.79359e-10
+A problémy jsou také s připomínkami, že i naši kolegové z NKU včera... 
+NULL ({ }) And ({ 1 }) there ({ }) are ({ 3 }) problems ({ 2 }) also ({ 4 }) with ({ 5 }) the ({ }) reminders ({ 6 }) that ({ 7 }) also ({ }) our ({ }) colleagues ({ 10 }) from ({ 11 }) the ({ }) NKU ({ 8 }) yesterday, ({ 9 }) they. ({ 12 13 }) 
+# Sentence pair (86) source length 16 target length 11 alignment score : 4.48268e-12
+Předpokládali problém s připomínkami členských států ohledně spotřeby, které nejsou ... 
+NULL ({ }) They ({ 1 }) supposed ({ }) problem ({ 2 }) with ({ 3 }) the ({ }) reminders ({ 4 }) by ({ }) the ({ }) member ({ 5 }) states ({ }) of ({ }) consumption ({ 6 }) that ({ }) are ({ }) not ({ }) made. ({ 7 8 9 10 11 }) 
+# Sentence pair (87) source length 13 target length 9 alignment score : 1.99214e-09
+Zde je shrnutí našich zjištění týkajících se vzorků MOS. 
+NULL ({ }) So ({ 1 }) here ({ }) is ({ 2 }) the ({ }) summary ({ 3 }) of ({ }) our ({ 4 }) findings ({ 5 }) related ({ }) to ({ }) the ({ }) MOS ({ }) samples. ({ 6 7 8 9 }) 
+# Sentence pair (88) source length 15 target length 14 alignment score : 5.01842e-12
+Došli jsme k závěru, že MOS IT infrastruktura vyhovuje svým účelům, je tedy silná. 
+NULL ({ }) We ({ 1 }) concluded ({ 2 3 4 }) that ({ 5 }) the ({ }) MOS ({ 6 }) IT ({ 7 }) infrastructure ({ 8 }) is ({ }) fit ({ 9 }) for ({ }) its ({ 11 }) purposes, ({ 10 }) so ({ }) is ({ 12 }) strong. ({ 13 14 }) 
+# Sentence pair (89) source length 24 target length 19 alignment score : 1.20536e-12
+Může to zvládnout uživatel, takže IT infrastruktura je pevná, ale existují problémy s registrací a platbami mezi členskými státy. 
+NULL ({ }) It ({ 1 }) can ({ 2 }) handle ({ 3 }) the ({ }) user, ({ 4 }) so ({ 5 }) the ({ }) IT ({ 6 }) infrastructure ({ 7 }) is ({ }) is ({ 8 }) sound ({ 9 }) but ({ 10 }) there ({ 11 }) are ({ }) problems ({ 12 }) with ({ 13 }) the ({ }) registrations ({ 14 }) and ({ 15 }) payments ({ 16 }) between ({ 17 }) member ({ }) states. ({ 18 19 }) 
+# Sentence pair (90) source length 31 target length 26 alignment score : 1.86332e-27
+Pokud jde například o analýzu výskytu hlášeného v Synergii, v databázi Synergie mezi členskými státy, ale v pěti členských státech je pouze několik dvacet dva případů. 
+NULL ({ }) Concerning ({ 1 }) for ({ }) example ({ 2 3 4 5 }) we ({ }) analyze ({ }) the ({ }) incidence ({ 6 25 26 }) reported ({ 7 }) in ({ 8 }) the ({ }) Synergia, ({ 9 12 }) in ({ 10 }) the ({ }) Synergia ({ 11 }) database ({ }) between ({ 13 }) member ({ }) states ({ 15 }) but ({ 16 }) there ({ }) are ({ }) only ({ 22 }) a ({ }) few ({ 20 21 23 }) twenty-two ({ 24 }) cases ({ }) in ({ 17 }) the ({ }) five ({ 18 }) member ({ 19 }) states. ({ 14 }) 
+# Sentence pair (91) source length 21 target length 16 alignment score : 7.95417e-14
+Které jsme přezkoumali, ve kterém členský stát s již původem problému a jako ovlivňující členský stát. 
+NULL ({ }) That ({ 1 }) we ({ 2 }) visited, ({ 3 }) in ({ 4 }) which ({ 5 }) the ({ }) member ({ }) state ({ 6 7 }) with ({ 8 }) the ({ }) the ({ }) already ({ 9 10 11 }) origin ({ }) of ({ }) the ({ }) problem ({ }) and ({ 12 }) as ({ 13 }) affecting ({ 14 }) member ({ }) state. ({ 15 16 }) 
+# Sentence pair (92) source length 25 target length 19 alignment score : 4.34048e-21
+Bylo pouze dvanáct případů, takže nebylo tolik případů, problém je v tom, že postoj členských států byl opravdu pasivní. 
+NULL ({ }) There ({ }) were ({ 1 }) only ({ 2 }) twelve ({ 3 7 }) cases, ({ 4 8 }) so ({ 5 }) there ({ }) there ({ }) were ({ 6 }) not ({ }) so ({ }) many ({ }) cases ({ }) the ({ }) problem ({ 9 }) is ({ 10 }) that ({ 13 }) the ({ 11 }) attitude ({ 12 14 }) for ({ }) member ({ 15 }) states ({ }) was ({ }) really ({ 18 }) passive. ({ 16 17 19 }) 
+# Sentence pair (93) source length 19 target length 14 alignment score : 7.22522e-13
+Teprve když problémy eskalovaly, začali na tom pracovat, ale řešení problémů trvá dlouhou dobu. 
+NULL ({ }) Only ({ 1 }) when ({ 2 }) the ({ }) issues ({ 3 }) escalated ({ 4 }) they ({ }) started ({ 5 6 7 8 }) working ({ }) on ({ }) that, ({ }) but ({ 9 }) they ({ }) it ({ }) take ({ }) long ({ 12 }) periods ({ 10 }) to ({ }) solve ({ 11 }) issues. ({ 13 14 }) 
+# Sentence pair (94) source length 12 target length 12 alignment score : 3.81813e-09
+Pokud jde o MOS, trvá to dlouhá období, ale není mnoho problémů. 
+NULL ({ }) Regarding ({ 1 2 }) MOS, ({ 4 }) it ({ 6 }) takes ({ 3 }) long ({ 5 }) periods, ({ 7 8 }) but ({ 9 }) there ({ }) are ({ }) not ({ 10 }) many ({ 11 }) issues. ({ 12 }) 
+# Sentence pair (95) source length 34 target length 30 alignment score : 5.18425e-28
+Také z hlediska technických chybových zpráv odeslaných a přijatých mezi členskými státy je rovněž reakce velmi pasivní, není proaktivní pouze tehdy, když problém eskaluje jako incident, na který začnou reagovat. 
+NULL ({ }) Also ({ 1 }) for ({ 2 }) the ({ }) technical ({ 3 5 }) error ({ 4 6 }) messages ({ 7 }) sent ({ }) and ({ 8 }) received ({ 9 }) between ({ 10 }) member ({ }) states ({ 11 12 }) also ({ }) the ({ }) reaction ({ 14 15 }) is ({ }) very ({ 16 }) passive ({ 17 }) is ({ 13 }) not ({ }) is ({ }) not ({ 18 }) proactive ({ 19 }) only ({ 20 }) when ({ 21 }) the ({ }) issue ({ 22 }) escalate ({ 23 24 }) as ({ 25 }) an ({ }) incident ({ 26 27 }) they ({ }) start ({ }) reacting. ({ 28 29 30 }) 
+# Sentence pair (96) source length 9 target length 7 alignment score : 4.15206e-06
+Ale tato infrastruktura pro MOS je robustní. 
+NULL ({ }) But ({ 1 }) this ({ }) the ({ }) infrastructure ({ 3 }) for ({ 4 }) the ({ }) MOS ({ 5 }) is ({ 6 }) robust. ({ 2 7 }) 
+# Sentence pair (97) source length 13 target length 9 alignment score : 2.43043e-08
+Posoudili jsme, zda jsou připraveni pro jednotné kontaktní místo. 
+NULL ({ }) We ({ }) have ({ }) not ({ }) assessed ({ 1 2 }) whether ({ 3 }) they ({ }) are ({ 4 }) prepared ({ 5 }) for ({ 6 }) the ({ }) one ({ }) stop ({ }) shop. ({ 7 8 9 }) 
+# Sentence pair (98) source length 11 target length 11 alignment score : 3.08553e-08
+To je něco jiného. Obdrželi jsme několik stížností, zejména z Rakouska. 
+NULL ({ }) This ({ 1 }) is ({ 2 }) something ({ 3 }) else, ({ 5 }) we ({ 6 }) received ({ 4 }) some ({ 7 }) complaints, ({ 8 }) especially ({ 9 }) from ({ 10 }) Austria. ({ 11 }) 
+# Sentence pair (99) source length 32 target length 26 alignment score : 1.55529e-27
+Říkají, že nebudou připraveni, a to ani z nizozemské cesty, kterou jsme neanalyzovali, protože systém se vyvíjí zejména na zakázku pomocí jednotného kontaktního místa pro import. 
+NULL ({ 16 }) They ({ 1 }) say ({ }) that ({ 2 }) they ({ }) won't ({ 3 6 }) be ({ 5 }) ready, ({ 4 7 }) also ({ }) from ({ 8 }) the ({ }) Netherlands ({ 9 10 }) path ({ 11 }) we ({ 12 }) have ({ }) not ({ }) analyzed, ({ 13 }) because ({ 14 }) the ({ }) the ({ }) system ({ 15 }) is ({ }) developing ({ 17 18 }) in ({ }) particular ({ 24 }) for ({ 25 }) custom, ({ 22 23 26 }) using ({ 19 21 }) the ({ }) import ({ 20 }) one ({ }) stop ({ }) shop. ({ }) 
+# Sentence pair (100) source length 8 target length 5 alignment score : 7.19985e-06
+Problémy s registrací jsou zde. 
+NULL ({ }) There ({ }) are ({ 4 }) problem ({ }) with ({ }) registrations ({ 3 }) is ({ }) with ({ 2 }) here. ({ 1 5 }) 
+# Sentence pair (101) source length 29 target length 19 alignment score : 2.03239e-17
+Musíme rozlišovat v rámci systému mimo USA a systém EU, jen osmdesát procent žádostí o registraci nebylo řádně kontrolováno. 
+NULL ({ }) We ({ }) have ({ }) to ({ }) differentiate ({ 4 }) within ({ 5 }) the ({ }) non-US ({ 6 }) scheme ({ 7 }) and ({ 8 }) the ({ 3 }) EU ({ 10 }) scheme, ({ 9 }) a ({ }) merely ({ 11 }) eighty ({ 12 }) percent ({ 13 14 }) of ({ }) the ({ }) application ({ 15 16 }) for ({ }) registrations, ({ }) were ({ }) not ({ }) properly ({ }) controlled ({ 17 }) were ({ }) not ({ }) properly ({ 18 }) controlled. ({ 1 2 19 }) 
+# Sentence pair (102) source length 41 target length 36 alignment score : 4.9846e-35
+Pokud jde o známý systém mimo USA a dokonce jsme ho našli, zjistili jsme případy dvojí registrace, což je něco vážného, pak co se týče plateb, je problémem zejména problém chybějících upomínek v členském státě spotřeby. 
+NULL ({ }) Regarding ({ 1 2 3 }) the ({ }) knowing ({ 4 }) non-US ({ 5 6 }) scheme ({ 7 }) and ({ 8 }) we ({ 10 }) even ({ }) be ({ }) found, ({ 9 11 12 13 }) we ({ 14 }) have ({ }) found ({ 15 }) cases ({ }) of ({ }) double ({ }) registrations, ({ 16 17 18 }) which ({ }) is ({ 19 }) something ({ 23 }) serious, ({ 20 21 }) then ({ 22 }) concerning ({ 24 }) the ({ }) payments ({ 26 }) is ({ 27 }) especially ({ 28 29 }) the ({ }) problem ({ 30 }) of ({ }) the ({ 33 }) lack ({ }) of ({ }) remainder ({ 25 }) issues ({ }) by ({ }) the ({ }) member ({ }) state ({ }) of ({ }) consumption. ({ 31 32 34 35 36 }) 
+# Sentence pair (103) source length 8 target length 6 alignment score : 6.97903e-06
+A někdy podle členského státu identifikace. 
+NULL ({ }) And ({ 1 }) sometimes ({ 2 }) by ({ }) the ({ }) member ({ }) state ({ }) of ({ }) identifications. ({ 3 4 5 6 }) 
+# Sentence pair (104) source length 10 target length 7 alignment score : 0.000688133
+A problémy s registrací a zrušením registrace. 
+NULL ({ }) And ({ 1 }) problems ({ 2 }) with ({ 3 }) the ({ }) registrations ({ 4 }) and ({ 5 }) cancellation ({ 6 }) of ({ }) the ({ }) registration. ({ 7 }) 
+# Sentence pair (105) source length 22 target length 19 alignment score : 4.91976e-24
+Jedná se o nejvíce související spolupráce správních orgánů, jedná se o výměnu informací mezi členskými státy, které jsme navštívili. 
+NULL ({ 2 }) This ({ }) is ({ }) for ({ }) the ({ }) most ({ }) regarding ({ 1 4 5 8 }) the ({ }) administrative ({ 3 6 }) cooperation ({ 7 }) this ({ }) are ({ }) the ({ }) exchange ({ 9 10 11 12 }) of ({ }) information ({ 13 }) between ({ 14 }) the ({ }) member ({ }) states ({ 15 16 }) that ({ 17 }) we ({ 18 }) visited. ({ 19 }) 
+# Sentence pair (106) source length 43 target length 31 alignment score : 6.28973e-33
+A zde srovnáváme s celkovou aktivitou informačních řetězců, které vidíme, že například existují celkové požadavky na informace, které byly zaslány na sto osmdesát dva ve srovnání s celkovými požadavky na informace. 
+NULL ({ }) And ({ 1 }) we ({ }) compare ({ 2 }) here ({ }) with ({ 4 }) the ({ }) the ({ }) total ({ }) activity ({ }) of ({ }) the ({ }) chains ({ 8 }) of ({ }) information ({ }) we ({ }) can ({ }) see ({ 11 }) that ({ 9 }) the, ({ 10 }) for ({ }) example ({ 12 }) there ({ 13 }) are ({ }) total ({ 14 }) requirements ({ 15 16 }) for ({ }) information ({ 17 }) that ({ 18 }) have ({ }) been ({ 19 }) sent ({ 20 }) for ({ 21 }) a ({ }) hundred ({ 22 }) eighty ({ 23 }) two ({ 24 }) compared ({ 3 25 26 }) with ({ 27 }) the ({ }) total ({ 5 6 28 }) requirements ({ 7 29 }) of ({ }) information. ({ 30 31 }) 
+# Sentence pair (107) source length 34 target length 21 alignment score : 4.1717e-22
+Obecně nesouvisí s běžnými devíti tisíci dvě stě, takže ani ve Velké Británii nebude mnoho z nich problematičtější, například trojnásobně problematičtější. 
+NULL ({ }) Not ({ 1 2 }) related ({ 3 }) to ({ }) the ({ }) common ({ 4 5 }) in ({ }) general ({ 6 }) is ({ }) nine ({ 7 }) thousand ({ }) two ({ }) hundred, ({ 8 }) so ({ 9 }) as ({ }) the ({ }) e-commerce ({ }) is ({ }) even ({ }) be ({ }) many ({ }) are ({ }) even ({ }) more ({ }) problematic ({ 10 }) in ({ 11 }) the ({ }) United ({ 12 }) Kingdom, ({ 13 14 }) for ({ }) example, ({ 15 16 17 }) three ({ }) times ({ }) more ({ 18 }) problematic. ({ 19 20 21 }) 
+# Sentence pair (108) source length 34 target length 25 alignment score : 1.20427e-23
+Úroveň informačního řetězce je dobrá, je velmi nízká, a také některé členské státy se nezměnily, což není důvodem, proč doporučujeme oddělit centralizovanou domácí kancelář CNO. 
+NULL ({ }) The ({ 1 }) level ({ }) of ({ }) a ({ }) chain ({ 2 3 }) of ({ }) information ({ }) is ({ 4 }) good ({ 5 }) he ({ }) is ({ 6 }) very ({ 7 }) low, ({ 8 }) also ({ 10 }) some ({ 11 }) member ({ }) states ({ }) don't ({ }) they ({ 9 }) have ({ }) changed ({ 12 13 15 16 }) not ({ 17 }) entertain ({ 18 }) reason ({ }) why ({ 19 }) we ({ }) recommend ({ 20 }) to ({ 14 }) have ({ }) separates ({ 21 }) CNO ({ 22 23 }) centralized ({ 24 }) home ({ }) office. ({ 25 }) 
+# Sentence pair (109) source length 21 target length 17 alignment score : 2.60685e-14
+Oddělenou strukturu určenou pro elektronický obchod nebo alespoň pro MOS, takže úroveň předávání informací je velmi slabá. 
+NULL ({ }) Separated ({ 1 }) structure ({ 3 4 5 6 }) devoted ({ 2 }) to ({ }) e-commerce ({ }) or ({ 7 }) to ({ }) at ({ 8 }) least ({ 9 }) to ({ }) MOS, ({ 10 }) so ({ 11 }) the ({ }) level ({ 12 13 }) of ({ }) chain ({ }) of ({ }) information ({ 14 }) is ({ 15 }) very ({ 16 }) weak. ({ 17 }) 
+# Sentence pair (110) source length 16 target length 12 alignment score : 2.93405e-13
+Pak máme mnohostranné kontroly, ve dvou případech bylo šest případů vícestranných kontrol. 
+NULL ({ }) Then ({ 1 }) we ({ }) have ({ 2 }) the ({ }) multilateral ({ 3 }) controls, ({ 4 }) there ({ }) were ({ }) six ({ }) cases ({ }) of ({ }) multilateral ({ }) controls ({ }) in ({ 5 }) two ({ 6 }) cases. ({ 7 8 9 10 11 12 }) 
+# Sentence pair (111) source length 5 target length 5 alignment score : 0.000479462
+Byla to opravdu úspěšná zkušenost. 
+NULL ({ }) It ({ 1 }) was ({ 2 }) really ({ 3 }) successful ({ 4 }) experience. ({ 5 }) 
+# Sentence pair (112) source length 23 target length 17 alignment score : 1.85951e-16
+Ve dvou případech to však vůbec nebylo úspěšné, protože členský stát identifikace se odmítl účastnit vícestranné kontroly. 
+NULL ({ }) But ({ 1 }) in ({ }) two ({ 2 }) cases ({ 3 }) it ({ 4 }) was ({ }) not ({ }) successful ({ 5 }) at ({ }) all, ({ 6 7 8 }) because ({ 9 }) the ({ }) member ({ }) state ({ 10 11 }) of ({ 13 }) identification ({ 12 }) refused ({ 14 15 }) to ({ }) participate ({ 16 }) in ({ }) the ({ }) multilateral ({ }) control. ({ 17 }) 
+# Sentence pair (113) source length 26 target length 21 alignment score : 2.41585e-23
+To je něco, co by mělo být vyřešeno prosazováním nové legislativy, protože nyní mohou dva členské státy požádat o provedení kontroly. 
+NULL ({ }) This ({ 1 }) is ({ 2 }) something ({ 3 4 }) that ({ }) is ({ }) supposed ({ 5 }) to ({ 6 }) be ({ 7 }) solved ({ 8 }) with ({ }) the ({ }) new ({ }) legislation ({ }) enforced, ({ 9 10 11 13 14 15 16 }) because ({ 12 }) now ({ }) two ({ }) member ({ }) states ({ 17 }) can ({ }) request ({ 18 }) to ({ }) carry ({ 19 }) out ({ 20 }) a ({ }) control. ({ 21 }) 
+# Sentence pair (114) source length 24 target length 16 alignment score : 1.20338e-16
+A další je nedávná žádost, aby druhý členský stát členský stát identifikace nemohl takovou účast odmítnout. 
+NULL ({ }) And ({ 1 }) then ({ }) the ({ }) other ({ 2 }) is ({ }) is ({ 3 }) a ({ }) recent ({ 4 5 6 7 }) request ({ }) the ({ }) other ({ }) member ({ }) state ({ }) the ({ }) member ({ }) state ({ 8 9 10 11 }) of ({ }) identification ({ 12 }) that ({ }) it ({ }) cannot ({ }) refuse ({ 13 14 }) to ({ }) participate. ({ 15 16 }) 
+# Sentence pair (115) source length 17 target length 14 alignment score : 2.40206e-14
+Doufejme tedy, že se to zlepší, ale pro Eurofisc existují i další významné věci. 
+NULL ({ }) So, ({ 1 }) hopefully, ({ 2 }) we ({ }) will ({ 4 }) see ({ 3 }) it ({ 5 }) will ({ }) be ({ }) improved, ({ 6 }) but ({ 7 }) there ({ }) are ({ }) other ({ 12 }) things ({ 9 10 11 13 }) important ({ }) for ({ 8 }) EUROFISC. ({ 14 }) 
+# Sentence pair (116) source length 27 target length 26 alignment score : 1.48894e-28
+Bylo tam čtyři sta osmdesát signálů, řetězec skrz Eurofisc pracuje pro elektronický obchod plných pět, a pouze jedna zpětná vazba týkající se těchto čtyř set osmdesát. 
+NULL ({ }) There ({ }) were ({ 1 }) four ({ 2 3 4 }) hundred ({ }) and ({ }) eighty ({ 5 }) signals ({ 6 7 8 }) a ({ }) chain ({ }) through ({ 9 }) EUROFISC ({ 10 }) is ({ }) working ({ }) full ({ }) five ({ }) for ({ 11 }) e-commerce, ({ 12 13 14 15 }) and ({ 16 }) only ({ 17 }) one ({ }) feedback ({ 18 19 20 }) concerning ({ 21 22 }) this ({ }) four ({ }) hundred ({ }) and ({ }) eighty. ({ 23 24 25 26 }) 
+# Sentence pair (117) source length 29 target length 21 alignment score : 1.49491e-24
+Členský stát tedy nepovažoval tyto informace za velmi užitečné, nevědí, proč bylo vybráno pouze pět členských států, do databáze vložili seniory. 
+NULL ({ }) So, ({ 1 3 }) the ({ }) member ({ }) state ({ 2 }) did ({ }) not ({ }) find ({ 4 5 6 7 }) this ({ }) information ({ }) very ({ 8 }) useful, ({ 9 10 }) they ({ }) don't ({ }) know ({ 13 }) why ({ 11 }) they ({ }) have ({ }) been ({ }) selected ({ 12 }) only ({ 14 }) five ({ 15 }) member ({ 16 }) states, ({ }) put ({ }) the ({ }) seniors ({ 17 }) into ({ }) the ({ }) database. ({ 18 19 20 21 }) 
+# Sentence pair (118) source length 17 target length 10 alignment score : 1.0748e-10
+A ostatní to nečetli, protože nepovažovali informace za příliš užitečné. 
+NULL ({ }) And ({ 1 }) the ({ }) others, ({ 2 }) they ({ }) did ({ 7 }) not ({ 3 }) read ({ 4 }) it ({ }) because ({ 5 }) they ({ }) did ({ 6 }) not ({ }) find ({ }) the ({ }) information ({ }) very ({ }) useful. ({ 8 9 10 }) 
+# Sentence pair (119) source length 22 target length 19 alignment score : 7.83598e-18
+Existuje tedy také několik signálů týkajících se trendů nebo témat podvodů, tři nebo čtyři témata, která považují za užitečná. 
+NULL ({ }) So, ({ 2 }) there ({ }) are ({ }) also ({ 3 }) some ({ 4 }) signal ({ 1 5 }) formation ({ 6 }) concerning ({ 7 }) fraud ({ }) trends ({ 8 }) or ({ 9 }) topic, ({ 10 11 }) three ({ 12 }) or ({ 13 }) four ({ 14 }) topics ({ 15 16 17 }) a ({ }) change ({ }) they ({ }) found ({ }) that ({ }) useful. ({ 18 19 }) 
+# Sentence pair (120) source length 22 target length 22 alignment score : 1.18112e-19
+A pak jsou zde měnící se nástroje pro web crawling, ale to je něco, co někteří členové přebírají legálně ve své zemi. 
+NULL ({ 6 }) And ({ 1 }) then ({ 2 }) there ({ 3 }) is ({ }) changing ({ 4 5 }) web ({ }) crawling ({ 7 9 }) tools, ({ 10 }) but ({ 11 }) this ({ 12 }) is ({ 13 }) something ({ 14 15 }) that ({ }) some ({ }) members ({ 16 18 }) take ({ 19 }) on ({ }) legally ({ 17 }) use ({ 8 }) in ({ 20 }) their ({ 21 }) countries. ({ 22 }) 
+# Sentence pair (121) source length 16 target length 15 alignment score : 9.47961e-16
+V ostatních členských státech jim vnitřní právní předpisy brání v používání nástrojů pro web crawling. 
+NULL ({ }) Other ({ 1 2 }) member ({ 3 }) states, ({ }) they ({ }) are ({ }) prevented ({ 4 9 }) by ({ }) the ({ }) internal ({ 5 6 }) legislation ({ 7 8 }) to ({ }) use ({ }) the ({ 10 }) web ({ 11 12 13 }) crawling ({ 14 }) tools. ({ 15 }) 
+# Sentence pair (122) source length 14 target length 10 alignment score : 1.33439e-12
+Nyní je pracovní soubor zamrznutý a zamrzlé aktivity nejsou užitečné. 
+NULL ({ }) So, ({ }) now ({ }) the ({ }) working ({ }) file ({ 4 }) is ({ }) frozen ({ 9 }) and ({ 6 }) the ({ }) activities ({ 1 7 }) frozen ({ 3 5 8 }) is ({ 2 }) not ({ }) useful. ({ 10 }) 
+# Sentence pair (123) source length 17 target length 9 alignment score : 1.11599e-06
+Čekají na návrh informačního řetězce mezi poskytovatelem platebních služeb. 
+NULL ({ }) They ({ 1 }) are ({ }) waiting ({ 2 }) for ({ }) the ({ }) proposal ({ 3 }) of ({ }) the ({ }) on ({ }) the ({ }) chain ({ 4 5 }) of ({ }) information ({ }) between ({ 6 }) payment ({ 7 }) service ({ 8 }) provider. ({ 9 }) 
+# Sentence pair (124) source length 13 target length 9 alignment score : 5.81226e-08
+Protože budou, budou to databáze a budou mít přístup. 
+NULL ({ }) Because ({ 1 }) they ({ }) will, ({ 2 }) they ({ 4 }) will ({ 3 }) be ({ }) a ({ }) database ({ 5 }) and ({ 6 }) they ({ }) will ({ 7 }) have ({ }) access. ({ 8 9 }) 
+# Sentence pair (125) source length 26 target length 16 alignment score : 1.66022e-13
+To je návrh komise ohledně všech informací poskytnutých poskytovatelem platebních služeb jakoukoli jinou zemí návrh komise. 
+NULL ({ }) That's ({ 1 }) the ({ }) proposal ({ 3 }) of ({ }) the ({ }) commission, ({ 4 }) to ({ 5 }) all ({ 6 }) the ({ }) information ({ 7 }) supplied ({ 8 }) by ({ }) the ({ }) payment ({ 9 }) service ({ 10 }) provider ({ 11 12 13 }) by ({ 2 }) any ({ }) other ({ }) countries ({ }) does ({ 14 }) the ({ }) proposal ({ 15 }) of ({ }) the ({ }) commission. ({ 16 }) 
+# Sentence pair (126) source length 46 target length 32 alignment score : 2.25069e-29
+Samozřejmě velmi podporujeme a předkládáme návrh do zprávy, ale nevěděl jsem, dokud jsem se včera nezeptal, že i Komise potřebuje k tomuto návrhu nějakou podporu, protože Lubik Lubis řekl, že existují problémy. 
+NULL ({ 14 }) We, ({ 1 }) of ({ }) course, ({ }) support ({ 11 }) very ({ 2 }) much ({ 3 }) and ({ 4 }) we ({ }) place ({ 5 }) the ({ }) proposal ({ 6 }) in ({ }) the ({ }) report, ({ 7 8 }) but ({ 9 }) I ({ }) didn't ({ 10 }) know ({ }) that ({ 17 }) even ({ 18 }) the ({ }) commission ({ 19 }) needs ({ 20 21 22 23 24 }) some ({ }) support ({ }) on ({ }) that ({ }) proposal, ({ 25 }) because ({ 26 }) now ({ 12 }) I ({ 13 }) realize ({ 27 28 }) I ({ }) asked ({ 29 }) yesterday ({ 15 }) <CENSORED> ({ }) and ({ }) <CENSORED> ({ 16 }) said ({ }) that ({ 30 }) there ({ 31 }) are ({ }) problems ({ }) in ({ }) the ({ }) council. ({ 32 }) 
+# Sentence pair (127) source length 24 target length 25 alignment score : 9.46605e-30
+V radě jsem to však bral za samozřejmě, protože tento návrh pochází z nějaké diskuse na některých fórech s členskými státy a se zúčastněnými stranami. 
+NULL ({ 23 }) But ({ 5 }) I ({ }) gave, ({ 2 6 7 }) I ({ 3 }) gave ({ 1 }) for ({ }) granted ({ 8 10 12 }) because ({ 9 }) this ({ 4 }) proposal ({ 11 }) come ({ }) from ({ 13 }) some ({ }) discussion ({ 14 }) in ({ }) some ({ }) fora ({ 15 }) with ({ 19 }) member ({ }) states, ({ 16 }) and ({ 22 }) with ({ }) stakeholder ({ 17 20 }) on. ({ 18 21 24 25 }) 
+# Sentence pair (128) source length 19 target length 15 alignment score : 2.79567e-14
+Doufejme... Toto je to velmi důležité, protože dalším problémem je nedostatek kontrol, auditů pro MOS. 
+NULL ({ }) Hopefully, ({ 1 2 }) this ({ 4 }) is ({ 3 }) very ({ 5 }) important, ({ 6 }) because ({ 7 }) the ({ }) there ({ }) is ({ 10 }) another ({ 8 }) problem ({ 9 }) is ({ }) lack ({ 11 }) of ({ }) controls ({ 12 }) and ({ }) audit ({ 13 }) to ({ 14 }) MOS. ({ 15 }) 
+# Sentence pair (129) source length 6 target length 5 alignment score : 1.72521e-05
+Proč je tak málo auditů? 
+NULL ({ }) Why ({ 1 }) are ({ }) there ({ }) so ({ }) few ({ 2 }) audits? ({ 3 4 5 }) 
+# Sentence pair (130) source length 26 target length 23 alignment score : 4.93346e-21
+Můžete si zde porovnat, že to nikdo není, protože to nikdy není, jak to můžu, pokud ne, nevím, že nemám analýzu datových oblastí. 
+NULL ({ }) You ({ 1 }) can ({ 2 }) compare ({ 3 }) here, ({ 4 5 }) they ({ }) are ({ }) nobodies ({ 7 }) why, ({ 8 }) because ({ 9 }) that's ({ 6 }) never ({ 11 12 }) how ({ 13 }) can ({ 10 }) i ({ }) if ({ }) not ({ }) i ({ }) don't ({ }) know ({ }) it ({ 14 }) i ({ 15 16 17 18 }) don't ({ }) have ({ }) data ({ }) region ({ 19 20 21 }) analysis. ({ 22 23 }) 
+# Sentence pair (131) source length 25 target length 23 alignment score : 3.61461e-23
+Takže můj audit bude náhodný výběr s možná spoustou informací a žádnými záznamy, takže budou potřebovat některá data a toto jsou ta data. 
+NULL ({ }) So, ({ }) my ({ 1 2 }) audit ({ 3 }) will ({ 15 }) be ({ 4 }) randomly ({ 5 16 }) selection ({ 6 17 }) with ({ 7 }) maybe ({ 8 }) a ({ }) lot ({ 9 10 }) of ({ }) inform ({ 18 }) and ({ 11 }) no ({ }) records ({ 12 13 20 }) so ({ 14 }) they ({ }) need ({ 21 }) some ({ }) data ({ }) and ({ 19 }) this ({ }) the ({ }) data. ({ 22 23 }) 
+# Sentence pair (132) source length 12 target length 8 alignment score : 2.27219e-10
+Kromě toho bude mít společnost mnohem více aplikací. 
+NULL ({ }) There ({ }) will ({ }) be ({ 3 }) many ({ }) more ({ }) application ({ }) the ({ }) company ({ 4 }) in ({ }) addition ({ 5 6 }) to ({ }) doing. ({ 1 2 7 8 }) 
+# Sentence pair (133) source length 13 target length 11 alignment score : 3.064e-10
+Jo, zdá se, že o Německu to chápou, protože máme data. 
+NULL ({ }) Yeah, ({ 1 }) it ({ 7 }) appear ({ 2 8 }) about ({ 5 }) Germany, ({ 4 }) these ({ }) understand ({ 3 6 }) it ({ }) because ({ 9 }) we ({ }) have ({ 10 }) the ({ }) data. ({ 11 }) 
+# Sentence pair (134) source length 9 target length 10 alignment score : 4.58665e-09
+Tým mimo USA, ale informace, které může mít k dispozici. 
+NULL ({ }) Non-US ({ 1 }) team, ({ 2 3 }) but ({ 4 }) the ({ }) information ({ 5 }) may ({ 6 }) he ({ 7 }) have ({ }) available. ({ 8 9 10 }) 
+# Sentence pair (135) source length 2 target length 1 alignment score : 0.523924
+Fenomén. 
+NULL ({ }) A ({ }) phenomenon. ({ 1 }) 
+# Sentence pair (136) source length 11 target length 8 alignment score : 2.23962e-08
+Ale nevím dále, dále neexistuje prakticky žádná kontrola. 
+NULL ({ }) But, ({ 1 }) I ({ }) don't ({ }) know ({ }) further ({ 2 3 }) there ({ }) is ({ }) no ({ 4 }) practically ({ 5 6 }) no ({ 7 }) control. ({ 8 }) 
+# Sentence pair (137) source length 13 target length 10 alignment score : 5.30963e-12
+Rovněž kontroly poznatků o vzdálenosti uvnitř EU nebyly příliš úspěšné. 
+NULL ({ }) Also ({ 1 }) the ({ }) inspections ({ 2 3 }) of ({ }) knowledge ({ 4 5 6 7 }) on ({ }) distance ({ }) intra-EU ({ }) distances ({ }) were ({ }) not ({ }) very ({ }) successful. ({ 8 9 10 }) 
+# Sentence pair (138) source length 18 target length 13 alignment score : 5.4874e-11
+Celní úřad má proto výsledky vzorku od kurýra z a zneužívání poštovních služeb. 
+NULL ({ }) Therefore ({ 1 }) the ({ }) customs, ({ 2 3 4 }) we ({ }) have ({ }) the ({ }) results ({ 5 6 7 }) of ({ }) the ({ }) sample ({ }) by ({ }) courier ({ 8 }) from ({ 9 }) the ({ }) and ({ 10 }) the ({ }) postal ({ 11 }) abuses. ({ 12 13 }) 
+# Sentence pair (139) source length 29 target length 23 alignment score : 3.17525e-18
+Na poště je hlavním problémem při řešení otázky podhodnocování máte drony velmi drahé drony deklarované pod deset jednotek nebo do dvaceti dvou eur. 
+NULL ({ }) In ({ 1 }) the ({ }) post ({ 2 3 }) office ({ 5 }) the ({ }) main ({ 4 }) problems ({ }) to ({ }) tackle ({ }) the ({ }) the ({ }) question ({ 6 7 8 }) of ({ }) undervaluation ({ 9 }) you ({ 10 }) have ({ }) drones ({ 11 }) very ({ 12 }) expensive ({ 13 }) drones ({ 14 15 }) declared ({ 18 }) below ({ 17 }) ten ({ 16 }) units ({ 20 }) or ({ 19 }) to ({ }) twenty ({ 21 }) two ({ 22 }) euros. ({ 23 }) 
+# Sentence pair (140) source length 8 target length 7 alignment score : 1.39006e-06
+Vzorků jako takovýto jsou tisíckrát tak jednoduché. 
+NULL ({ }) Sample ({ 1 }) like ({ 2 }) these ({ 3 }) are ({ 4 }) thousand ({ }) as ({ }) so ({ }) simple. ({ 5 6 7 }) 
+# Sentence pair (141) source length 18 target length 13 alignment score : 1.45184e-11
+A mohou číst a je velmi obtížné to zvládnout na úrovni poštovního úřadu. 
+NULL ({ }) And ({ 1 }) they ({ 8 }) can ({ 2 }) read ({ 3 }) and ({ 4 }) it's ({ 5 }) very ({ 6 }) difficult ({ 7 }) to ({ }) handle ({ 9 }) that ({ }) at ({ 10 }) the ({ }) level ({ 11 }) of ({ }) a ({ }) post ({ }) office. ({ 12 13 }) 
+# Sentence pair (142) source length 35 target length 20 alignment score : 6.95041e-18
+A pro kurýra zneužívají obvyklou úlevu sto padesáti, protože jen zaškrtnou políčko pro převzetí a padesát se pak nemůže zavřít. 
+NULL ({ 17 }) And ({ 1 }) for ({ 2 }) the ({ }) courier ({ 3 }) they ({ }) are ({ }) abusing ({ 4 }) the ({ }) the ({ }) custom ({ }) relief ({ 5 6 }) of ({ }) one ({ }) hundred ({ 7 }) and ({ }) fifty, ({ 8 }) because ({ 9 }) they ({ }) just ({ 10 }) tick ({ 11 12 }) on ({ }) the ({ }) box ({ }) for ({ 13 }) the ({ }) assumption ({ 14 }) and ({ 15 }) then ({ 18 }) the ({ }) fifty ({ 16 }) is ({ }) not ({ }) able ({ }) to ({ }) close. ({ 19 20 }) 
+# Sentence pair (143) source length 42 target length 30 alignment score : 1.84793e-31
+Prohlášení k zastavení deklarace, i když devalvace vyšší než sto padesát, kontrolujeme, že nejen ve vzorku, také přímo v zakázkovém elektronickém systému v prostředí přehrady, kde jsme provedli několik pokusů. 
+NULL ({ }) The ({ }) declaration ({ }) to ({ }) stop ({ }) the ({ }) declaration, ({ 4 }) even ({ 5 }) though ({ 1 }) devaluation ({ 6 }) higher ({ 2 7 8 }) than ({ 3 9 }) one ({ }) hundred ({ 10 }) and ({ }) fifty ({ }) we ({ 27 }) check ({ 11 12 13 }) that, ({ 14 }) not ({ }) only ({ }) in ({ 15 }) the ({ }) sample, ({ 16 }) also ({ 17 }) in ({ }) the ({ }) directly ({ 18 }) in ({ 23 }) the ({ }) custom ({ }) electronic ({ }) system ({ }) in ({ 19 }) the ({ }) dam ({ 20 21 24 }) environment ({ 22 25 }) where ({ 26 }) we ({ }) made ({ 28 }) some ({ 29 }) trials ({ 30 }) on. ({ }) 
+# Sentence pair (144) source length 15 target length 12 alignment score : 9.31153e-13
+Členské státy nepracovaly v žádném členském státě, pouze v Rakousku to fungovalo. 
+NULL ({ }) Member ({ 1 }) states ({ 2 }) it ({ }) didn't ({ 3 }) working ({ }) in ({ 4 }) any ({ }) member ({ }) state ({ }) only ({ 8 }) in ({ 9 }) austria ({ 5 10 }) it ({ 11 }) work ({ 6 7 }) it. ({ 12 }) 
+# Sentence pair (145) source length 7 target length 5 alignment score : 0.000312549
+Ale v Rakousku to neobdržel. 
+NULL ({ }) But ({ 1 }) in ({ 2 }) Austria ({ 3 }) it ({ 4 }) did ({ }) not ({ }) receive. ({ 5 }) 
+# Sentence pair (146) source length 7 target length 6 alignment score : 2.02149e-07
+Podali jsme další deklaraci o alkoholu. 
+NULL ({ }) We ({ }) put ({ }) on ({ }) another ({ 3 }) declaration ({ 4 }) for ({ }) alcohol. ({ 1 2 5 6 }) 
+# Sentence pair (147) source length 16 target length 16 alignment score : 2.6293e-14
+A pak pro alkohol to bylo prosazováno a protože tato kategorizace je použitelná pro alkoholické výrobky. 
+NULL ({ }) And ({ 1 }) then ({ 2 }) for ({ }) alcohol ({ 3 4 6 7 }) it ({ 5 }) was ({ }) asserted ({ }) and ({ 8 }) because ({ 9 }) this ({ }) categorization ({ 10 }) a ({ }) applicable ({ 11 12 13 }) to ({ }) alcoholic ({ 14 }) products. ({ 15 16 }) 
+# Sentence pair (148) source length 10 target length 8 alignment score : 1.92797e-10
+V rakouském systému jsou tedy i některé chyby. 
+NULL ({ }) So, ({ 5 }) there ({ }) are ({ 4 }) also ({ }) some ({ }) failures ({ 6 }) in ({ }) the ({ }) Austrian ({ 1 2 3 7 }) system. ({ 8 }) 
+# Sentence pair (149) source length 19 target length 16 alignment score : 1.59413e-15
+Toto a problém je tedy schváleným hospodářským subjektem, který tento systém zneužívají nejspolehlivější obchodníci na zakázku. 
+NULL ({ }) So, ({ 1 }) this ({ }) and ({ 2 }) the ({ }) problem ({ 3 }) is ({ 4 }) the ({ }) authorised ({ 5 6 7 8 9 }) economic ({ 10 }) operator ({ 11 }) the ({ }) most ({ }) reliable ({ 13 }) custom ({ }) traders ({ 14 }) are ({ }) abusing ({ 12 }) the ({ 15 }) system. ({ 16 }) 
+# Sentence pair (150) source length 30 target length 21 alignment score : 1.82877e-25
+Dále máme doporučení, kterým se pro komisi doporučuje, aby využívala struktur poskytovaných ve smlouvách o vzájemné pomoci se zeměmi mimo EU. 
+NULL ({ 5 18 }) Then, ({ }) we ({ }) have ({ 2 }) the ({ }) recommendation ({ }) the ({ }) recommendation ({ }) on ({ }) the ({ }) for ({ }) the ({ }) commission ({ }) is ({ }) that ({ }) it ({ }) makes ({ 3 4 }) use ({ 6 }) of ({ }) the ({ }) structures ({ 1 7 }) provided ({ 8 }) in ({ 13 }) the ({ }) treaties ({ 14 15 16 }) of ({ }) mutual ({ 9 10 }) assistance ({ 11 12 }) with ({ }) non-eu ({ 17 19 }) countries. ({ 20 21 }) 
+# Sentence pair (151) source length 13 target length 9 alignment score : 7.25155e-08
+Chcete-li tyto problémy řešit, řešit problémy zjistěte nedostatek odpovědí. 
+NULL ({ }) To ({ 1 }) tackle ({ }) the ({ }) issues, ({ 2 }) to ({ }) tackle ({ 5 }) the ({ }) issues ({ 3 6 }) identify ({ 4 7 }) a ({ }) lack ({ 8 }) of ({ }) replies. ({ 9 }) 
+# Sentence pair (152) source length 15 target length 12 alignment score : 3.20731e-12
+Také provádět inspekci kontrol členských států na místní úrovni týkající se úlevy. 
+NULL ({ }) Also ({ 1 }) to ({ }) carry ({ 2 }) out ({ }) the ({ }) inspection ({ 3 4 }) of ({ }) member ({ 5 }) state ({ }) controls ({ }) on, ({ 6 }) the ({ 7 }) locally ({ 8 9 }) concerning ({ 10 11 }) relief. ({ 12 }) 
+# Sentence pair (153) source length 24 target length 18 alignment score : 3.5811e-19
+Minimálně sledujte fungování prodeje na dálku v rámci EU, smíšené zboží toto doporučení je jediné, co komise nepřijala. 
+NULL ({ }) Monitor ({ 1 2 }) the ({ }) functioning ({ 3 6 }) of ({ }) the ({ }) intra-EU ({ 8 }) distance ({ 5 }) sales ({ 4 }) a ({ 7 }) minimum, ({ 9 10 15 16 }) stop ({ 11 }) shop ({ 12 }) this ({ }) recommendation ({ 13 }) is ({ 14 }) the ({ }) only ({ }) that ({ }) the ({ }) commission ({ 17 }) has ({ }) not ({ }) accepted ({ }) it. ({ 18 }) 
+# Sentence pair (154) source length 9 target length 8 alignment score : 6.90173e-08
+Proto se včera smáli, protože vaším úkolem je 
+NULL ({ }) This ({ }) why ({ }) yesterday ({ 3 }) was ({ }) laughing ({ 4 }) because ({ 5 }) you're ({ 2 }) on ({ }) task. ({ 1 6 7 8 }) 
+# Sentence pair (155) source length 11 target length 9 alignment score : 7.83288e-07
+Monitorovat komisi a <CENSORED 22:25> řekl: "Ano, ano, ano". 
+NULL ({ }) Is ({ 1 2 }) the ({ }) commission ({ }) monitoring ({ }) and ({ 3 }) <CENSORED ({ 4 }) 22:25> ({ 5 }) said: ({ 6 }) "yes ({ 7 }) yes ({ 8 }) yes". ({ 9 }) 
+# Sentence pair (156) source length 5 target length 5 alignment score : 2.4442e-05
+Smál jsem se, ale dobře. 
+NULL ({ }) I ({ }) was ({ }) laughing, ({ 3 }) but, ({ 4 }) ok. ({ 1 2 5 }) 
+# Sentence pair (157) source length 19 target length 13 alignment score : 8.85206e-14
+Pomáhají členskému státu vyvinout metodiku pro odhad mezery v DPH u nově příchozích. 
+NULL ({ }) They ({ }) assist ({ }) member ({ }) state ({ }) to ({ }) develop ({ 7 }) a ({ }) methodology ({ 1 2 3 4 }) to ({ 6 }) produce ({ 5 }) the ({ }) estimates ({ }) of ({ }) the ({ }) compliance ({ 8 9 }) VAT ({ 10 }) gap ({ 11 }) on ({ }) newcomers. ({ 12 13 }) 
+# Sentence pair (158) source length 15 target length 11 alignment score : 1.01692e-09
+Protože toto je problém, nemůžeme vědět, zda systém funguje nebo ne. 
+NULL ({ }) Because ({ 1 }) this ({ 2 }) is ({ 3 }) the ({ }) problem ({ 4 }) we've ({ 5 6 }) cannot ({ }) know ({ }) whether ({ 7 }) the ({ }) system ({ 8 }) is ({ }) working ({ 9 }) or ({ 10 }) not. ({ 11 }) 
+# Sentence pair (159) source length 24 target length 21 alignment score : 1.61409e-24
+Předpokládá se, že většina systémů bude úspěšná, ale obvykle se jedná o předpoklad, a proto máme odhad největší mezery v DPH. 
+NULL ({ 10 }) The ({ }) most ({ }) system ({ }) is ({ }) assumed ({ 1 2 3 4 5 }) to ({ }) be ({ 6 }) successful, ({ 7 }) but ({ 8 }) is ({ }) usually ({ 9 11 12 13 }) an ({ }) assumption ({ }) and ({ 14 }) that's ({ 15 }) we ({ }) have ({ 16 }) an ({ }) estimate ({ 17 18 }) on ({ }) the ({ }) most ({ }) VAT ({ }) gap. ({ 19 20 21 }) 
+# Sentence pair (160) source length 26 target length 19 alignment score : 1.09273e-18
+Nevíme, zda je systém úspěšný, a pro samotnou Evropskou Unii nemáme žádný odhad, takže by to bylo velmi důležité. 
+NULL ({ }) We ({ 1 }) don't ({ }) know ({ }) whether ({ 2 }) the ({ }) system ({ 4 }) is ({ 3 }) successful ({ 5 }) and ({ 6 }) for ({ 7 }) the ({ }) intra-EU ({ }) itself, ({ 8 9 }) we ({ }) don't ({ 10 11 12 }) have ({ }) also ({ }) any ({ 15 }) any ({ 13 }) estimate ({ }) so ({ 14 }) it ({ 16 }) would ({ 17 }) be ({ }) very ({ 18 }) important. ({ 19 }) 
+# Sentence pair (161) source length 15 target length 14 alignment score : 1.02033e-15
+Jelikož komise pomáhá členským státům při rozvoji, jedná se o výpočet mezery v DPH. 
+NULL ({ 9 }) That ({ 1 }) the ({ }) commission ({ 2 }) assist ({ 3 4 }) member ({ }) states ({ }) developing, ({ 5 6 7 8 }) this ({ }) is ({ }) a ({ 10 }) calculation ({ 11 }) of ({ }) the ({ }) VAT ({ }) gap. ({ 12 13 14 }) 
+# Sentence pair (162) source length 12 target length 8 alignment score : 8.17579e-09
+Velmi důležité je také prozkoumat použití alternativních řešení. 
+NULL ({ }) Also, ({ 1 }) very ({ }) important ({ }) to ({ }) explore ({ 2 }) the ({ }) use ({ 3 }) of ({ }) alternative ({ }) technology ({ 4 }) solu ({ 5 6 7 }) solutions. ({ 8 }) 
+# Sentence pair (163) source length 14 target length 16 alignment score : 3.06066e-18
+K řešení podvodů s DPH by možná mohla existovat pomoc v podobě alternativního systému rozdělení plateb. 
+NULL ({ }) To ({ }) tackle ({ }) VAT ({ 5 }) fraud, ({ 4 6 }) maybe ({ 7 }) there ({ }) could ({ 8 }) be ({ }) assisting ({ 2 9 }) alternative ({ 1 3 10 }) system ({ }) of ({ }) split ({ 11 12 }) payments. ({ 13 14 15 16 }) 
+# Sentence pair (164) source length 17 target length 15 alignment score : 8.60838e-11
+S využitím technologie blockchain jsou navrženy cesty, KPMG KPMG a také návrh profesora E. Enswortha. 
+NULL ({ }) Using ({ 1 }) blockchain ({ 2 4 }) technology ({ 3 }) there ({ }) are ({ 5 }) proposed ({ 6 }) paths, ({ 7 }) the ({ }) KPMG ({ 8 }) KPMG ({ 9 }) and ({ 10 }) also ({ 11 }) proposal ({ 12 }) of ({ }) professor ({ }) E. ({ 13 }) Ensworth. ({ 14 15 }) 
+# Sentence pair (165) source length 26 target length 19 alignment score : 1.51884e-19
+Existují velmi zajímavé návrhy, které jsme samozřejmě s komisí prodiskutovali. Komise tvrdí, že jsou teoretické, prakticky přicházejí k řešením. 
+NULL ({ }) There ({ 1 }) very ({ 2 }) interesting ({ 3 4 }) proposals ({ 5 }) of ({ }) course ({ 7 }) we ({ 6 }) have ({ }) discussed ({ 9 10 }) with ({ 8 }) the ({ }) commission ({ }) the ({ }) commission ({ 11 }) say ({ 12 }) that ({ 13 }) they ({ }) are ({ 14 }) theoretical ({ 15 }) in ({ }) practical ({ }) way ({ }) they ({ }) come ({ }) to ({ }) solutions. ({ 16 17 18 19 }) 
+# Sentence pair (166) source length 24 target length 20 alignment score : 9.52795e-20
+Ve skutečnosti nenalezly praktické uplatnění, profesor Lamas také předložil několik návrhů na využití technologie pro dovoz ze zemí mimo EU. 
+NULL ({ }) Didn't ({ 1 2 3 }) find ({ }) any ({ }) practical ({ 4 }) application ({ }) in ({ }) reality, ({ 6 7 }) also ({ 8 }) professor ({ 9 }) Lamas ({ 5 }) has ({ }) made ({ }) some ({ 10 }) proposals ({ 11 12 13 }) of ({ }) using ({ }) technology ({ 14 }) for ({ 15 }) the ({ }) imports ({ 16 }) from ({ }) the ({ }) non-EU ({ 17 }) countries. ({ 18 19 20 }) 
+# Sentence pair (167) source length 11 target length 8 alignment score : 1.27702e-10
+Tento je však systém akceptován mnoha dalšími zeměmi. 
+NULL ({ }) But ({ 3 }) are ({ }) this ({ }) this ({ }) system ({ 4 }) accepted ({ 1 5 6 7 8 }) by ({ }) many ({ }) by ({ 2 }) other ({ }) countries. ({ }) 
+# Sentence pair (168) source length 23 target length 19 alignment score : 4.05056e-18
+Nejsou žádné praktické zkušenosti, ale myslím, myslíme si, že stojí za to také jít hlouběji blockchainovou technologií nabízející příležitosti. 
+NULL ({ }) There ({ 1 }) are ({ }) no ({ 2 }) practical ({ 3 }) experience, ({ 4 }) but ({ 5 }) I ({ }) think ({ 6 }) we ({ }) think ({ 7 8 }) that ({ 9 }) is ({ }) worth ({ 11 }) it ({ 12 }) too ({ 10 }) to ({ }) go ({ 15 }) deeper ({ 14 }) blockchain ({ }) technology ({ 13 }) of ({ }) offers ({ }) opportunities. ({ 16 17 18 19 }) 
+# Sentence pair (169) source length 21 target length 15 alignment score : 4.83555e-16
+To je něco, co zkoumá i komise pro správu databáze důležitých obchodů se smíšeným zbožím. 
+NULL ({ }) This ({ 1 }) is ({ 2 }) something ({ 3 4 }) that ({ }) is ({ }) being ({ }) explored ({ 5 6 }) also ({ }) by ({ }) the ({ }) commission ({ 7 }) to ({ }) manage ({ 9 }) the ({ }) database ({ 10 }) of ({ 13 }) the ({ }) i ({ }) important ({ }) stop ({ 8 }) shops. ({ 11 12 14 15 }) 
+# Sentence pair (170) source length 10 target length 6 alignment score : 0.000124645
+Čísla pro správu platnosti těchto čísel. 
+NULL ({ }) Numbers ({ 1 }) to ({ 2 }) manage ({ 3 }) the ({ }) validity ({ 4 }) of ({ }) this ({ }) i ({ }) ioss ({ 5 }) numbers. ({ 6 }) 
+# Sentence pair (171) source length 26 target length 20 alignment score : 1.58785e-19
+Je velmi důležité, kdo to je budoucnost, jediný způsob, jak se vypořádat s používáním názvu nové technologie pro členské státy. 
+NULL ({ }) It's ({ 1 }) very ({ 2 }) important ({ 3 }) he ({ 4 }) which ({ }) this ({ }) is ({ 6 }) the ({ }) future ({ 7 8 }) this ({ 5 }) is, ({ }) the ({ }) only ({ }) way ({ 9 10 }) to ({ }) tackle ({ }) fraud ({ 11 }) with ({ 13 }) using ({ }) the ({ }) new ({ }) technologies ({ 12 }) name ({ 14 15 16 17 }) for ({ 18 }) member ({ }) states. ({ 19 20 }) 
+# Sentence pair (172) source length 15 target length 13 alignment score : 2.34984e-17
+Líbí se nám samozřejmě, že začínají reagovat na podvodné seniory a upravují Eurofisc. 
+NULL ({ }) We ({ }) like ({ }) of ({ 2 }) course ({ }) that ({ }) they ({ }) are ({ }) start ({ }) reacting ({ 7 8 }) to ({ }) the ({ }) fraud ({ 9 }) seniors, ({ 10 11 }) refacing ({ 1 3 4 5 6 }) EUROFISC. ({ 12 13 }) 
+# Sentence pair (173) source length 13 target length 12 alignment score : 7.74033e-13
+Sledujte také kompromis v souladu s novou limitní hodnotou 10 000 EUR. 
+NULL ({ }) Also ({ }) monitor ({ 2 5 }) the ({ }) trade-off ({ 1 }) compliant ({ 3 }) with ({ 6 }) the ({ 4 }) new ({ 7 }) threshold ({ 8 }) of ({ }) ten ({ }) thousand ({ }) euros. ({ 9 10 11 12 }) 
+# Sentence pair (174) source length 13 target length 11 alignment score : 1.62395e-08
+To je něco, na co čeští kolegové ve své zprávě upozornili. 
+NULL ({ }) This ({ 1 }) is ({ 2 }) something ({ 3 }) that ({ }) was ({ }) highlighted ({ 4 5 }) by ({ }) the ({ }) Czech ({ 6 }) colleagues ({ 7 }) in ({ 8 }) their ({ 9 }) report. ({ 10 11 }) 
+# Sentence pair (175) source length 13 target length 12 alignment score : 1.53158e-12
+A vzali jsme to v potaz také z důvodu, který vysvětlili dříve. 
+NULL ({ }) And ({ 1 }) we ({ 3 }) took ({ 2 }) on ({ }) board, ({ 4 6 }) also ({ 7 }) for ({ }) the ({ 5 }) reason ({ 8 9 }) that ({ }) they ({ }) explained ({ 10 }) before. ({ 11 12 }) 
+# Sentence pair (176) source length 31 target length 26 alignment score : 9.48078e-26
+Abychom měli oddělený MOS a dálkovou koordinační funkci u kolegů, musíme zajistit, že obchodník může zavádět sazbu DPH, správnou sazbu DPH v návratech DPH v MOS. 
+NULL ({ }) To ({ 1 }) have ({ }) a ({ }) separate ({ 2 3 }) MOS ({ 4 }) and ({ 5 }) distances ({ }) coordination ({ 6 7 }) function ({ 8 }) in ({ 22 }) the ({ }) fellows, ({ 9 10 }) also ({ }) to ({ }) ensure ({ 11 12 }) that ({ 13 }) trader ({ 14 }) can ({ }) only ({ }) introduce ({ 15 }) the ({ }) VAT ({ 21 }) rate, ({ 17 18 20 }) correct ({ 16 19 }) VAT ({ 24 }) rate ({ 23 26 }) in ({ 25 }) the ({ }) MOS ({ }) VAT ({ }) returns. ({ }) 
+# Sentence pair (177) source length 32 target length 23 alignment score : 7.52608e-21
+Protože když obchodník zavede špatnou sazbu DPH, obdrží pouze radu, ale přiznání může být odesláno stejně, takže obdrží radu, ale přesto bude odesláno. 
+NULL ({ }) Because ({ 1 }) if ({ 2 }) the ({ }) trader ({ 3 }) introduces ({ 4 }) a ({ }) wrong ({ 5 12 }) VAT ({ }) rate, ({ 6 7 }) he ({ 13 }) receives ({ 8 }) only ({ 9 }) an ({ 18 }) advice, ({ 10 }) but ({ 11 }) the ({ }) declaration ({ }) can ({ }) be ({ 14 }) sent ({ 15 }) anyway ({ 16 }) so ({ 17 }) it ({ }) received ({ }) an ({ }) alert ({ 19 }) but ({ 20 }) it ({ }) will ({ }) be ({ }) sent ({ }) anyway. ({ 21 22 23 }) 
+# Sentence pair (178) source length 22 target length 18 alignment score : 1.0091e-22
+Proveďte také nezbytné kontroly po přijetí žádosti o registraci v MOSu, abyste se vyhnuli tomuto problému dvojích registrací. 
+NULL ({ }) Also ({ }) perform ({ 5 }) the ({ }) necessary ({ }) checks ({ 4 }) upon ({ }) receipt ({ 6 7 }) of ({ }) the ({ }) application ({ 8 9 }) for ({ }) registration ({ }) in ({ 10 }) the ({ }) MOS ({ }) to ({ 13 }) avoid ({ 11 12 14 }) this ({ }) problem ({ }) of ({ }) double ({ }) registrations. ({ 1 2 3 15 16 17 18 }) 
+# Sentence pair (179) source length 15 target length 16 alignment score : 3.32956e-16
+Zvyšte auditorskou činnost u většiny MOS obchodníků a prodejců na dálku pomocí nástrojů spolupráce správních orgánů. 
+NULL ({ }) Increase ({ 1 }) the ({ }) audit ({ 2 }) activity ({ 3 4 5 }) in ({ }) the ({ }) MOS ({ 6 }) traders ({ 7 }) and ({ 8 }) distance ({ }) sellers ({ 9 11 13 }) using ({ 10 12 }) administrative ({ 14 }) cooperation ({ 15 }) tools. ({ 16 }) 
+# Sentence pair (180) source length 12 target length 7 alignment score : 1.23143e-06
+Zaměstnanec pravidelných odhadů DPH při elektronickém obchodování. 
+NULL ({ }) An ({ 1 }) employee ({ 2 }) of ({ }) the ({ }) periodic ({ 3 }) estimates ({ }) on ({ }) the ({ }) compliance ({ }) VAT ({ 4 }) upon ({ 5 }) e-commerce. ({ 6 7 }) 
+# Sentence pair (181) source length 27 target length 23 alignment score : 1.85197e-25
+Pokud tedy za toto doporučení členským státům, byli bychom velmi vděční, kdybyste si ve své domovské zemi vzpomněli na důležitost dodržování našich doporučení. 
+NULL ({ }) So ({ }) if ({ 1 }) for ({ }) this ({ }) recommendation ({ 5 }) to ({ }) member ({ }) states, ({ 2 3 4 }) we ({ }) would ({ }) be ({ }) very ({ 10 }) grateful ({ 11 }) if ({ 12 }) you ({ }) could ({ 13 }) remember ({ 6 7 8 9 }) in ({ 14 }) your ({ }) home ({ 15 }) countries ({ }) about ({ }) importance ({ 16 17 18 }) to ({ }) follow ({ 19 }) our ({ }) recommendations. ({ 20 21 22 23 }) 
+# Sentence pair (182) source length 20 target length 18 alignment score : 1.58762e-19
+Proto usilujeme o vaši spolupráci v této záležitosti, a to je vše, co víme, pokud máte nějaké dotazy. 
+NULL ({ }) This ({ }) is ({ 11 }) why ({ 1 }) we ({ }) seek ({ 2 3 }) your ({ 4 }) cooperation ({ 5 }) in ({ 6 }) this ({ }) matter, ({ 7 8 }) and ({ 9 }) that's ({ 10 }) all ({ }) we ({ }) know ({ }) if ({ }) you ({ }) have ({ }) any ({ }) questions. ({ 12 13 14 15 16 17 18 }) 

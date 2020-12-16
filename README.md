@@ -19,6 +19,7 @@ Filename **suffixes** are used to indicate the language and processing:
 .en.OS.mp3   ... a backup of the sound in lossy format, **if small enough**
 .en.OS.mp3.URL . the URL where to get the full file, if the file can't fit here; similarly for wav.URL etc.
 .en.OS.mp3.LINK . the path on the UFAL cluster where to get the full file, if the file can't fit here; similarly for wav.LINK etc.
+             ... the LINK and URL files are interpreted after git pull in a process we call "populating your elitr-testset working copy"
 .mp4         ... backup of the original video, if small enough
 .aac         ... backup of the original video, if small enough
 .en.OSt      ... original speech in language 'en', 't'ranscribed
@@ -57,7 +58,15 @@ Each index will be a simple list of basepathnames of documents that are good for
 - all files for English ASR in the computational linguistics domain
 - all files for Czech ASR regardless the domain
 
+### Populating Working Copy with Big Files
+
+(A script is needed for this)
+
+After you obtain your working copy of elitr-testset via ``git clone`` (or update it via ``git pull``), you may need to download also big files which are not directly included in ``documents/`` but only represented there are ``*.URL`` or ``*.LINK`` files.
+
+This population will be done by running a simple script ``./populate.sh [index-name-1 ...]``. Note that many of these files may not be needed in the particular evaluation task you are doing, so this population would be ideally limited to a set of index files that you plan to use.
+
 ### Checks
 
 We need to implement many checks of the format of everything, in a subdir called ``checks``. We will use git hooks to reject all commits that do not pass the checks.
-People who wish to commit to the repository need to run ./checks/install-hooks.sh ! 
+People who wish to commit to the repository need to run ``./checks/install-hooks.sh``! 

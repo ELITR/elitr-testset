@@ -1,0 +1,63 @@
+# Sentence pair (1) source length 2 target length 1 alignment score : 0.418323
+Promiňte! 
+NULL ({ }) Excuse ({ 1 }) me! ({ }) 
+# Sentence pair (2) source length 2 target length 2 alignment score : 0.305186
+Dobré ráno. 
+NULL ({ }) Good ({ 1 }) morning. ({ 2 }) 
+# Sentence pair (3) source length 6 target length 4 alignment score : 0.0205881
+Může se podívat, prosím? 
+NULL ({ }) Can ({ 1 }) I ({ }) have ({ 2 }) a ({ }) look, ({ 3 }) please? ({ 4 }) 
+# Sentence pair (4) source length 7 target length 7 alignment score : 0.00165811
+Dobré ráno, ano, jistě, tady to je. 
+NULL ({ }) Good ({ 1 }) morning, ({ 2 }) yes, ({ 3 }) sure, ({ 4 }) here ({ 5 }) it ({ 6 }) is. ({ 7 }) 
+# Sentence pair (5) source length 2 target length 1 alignment score : 0.301328
+Děkuji. 
+NULL ({ }) Thank ({ }) you. ({ 1 }) 
+# Sentence pair (6) source length 2 target length 1 alignment score : 0.371311
+- 
+NULL ({ }) I'm ({ }) a. ({ 1 }) 
+# Sentence pair (7) source length 1 target length 1 alignment score : 0.660488
+- 
+NULL ({ }) I'm. ({ 1 }) 
+# Sentence pair (8) source length 16 target length 12 alignment score : 3.22175e-12
+Pracuji pro cestovní kancelář Il Gabbiano, máte zájem o nějaký konkrétní zájezd? 
+NULL ({ }) I ({ }) work ({ }) for ({ 3 }) the ({ 2 }) travel ({ 4 }) agency ({ }) "Il ({ }) Gabbiano", ({ }) are ({ }) you ({ }) interested ({ 5 6 7 8 9 10 }) in ({ 11 }) any ({ }) particular ({ }) stay ({ 1 }) proposal? ({ 12 }) 
+# Sentence pair (9) source length 15 target length 14 alignment score : 1.80232e-14
+Ano, rád bych se podíval do nějakého evropského města, ale ještě nevím, do kterého. 
+NULL ({ }) Yes, ({ 1 }) I ({ }) would ({ 2 }) like ({ }) to ({ }) visit ({ 3 }) some ({ }) European ({ 13 }) city, ({ }) but ({ 14 }) I ({ 4 }) don't ({ }) know ({ 6 7 8 9 10 11 12 }) which ({ 5 }) one. ({ }) 
+# Sentence pair (10) source length 26 target length 19 alignment score : 4.57482e-45
+Nabízíme destinace po celé Evropě, mohu vám doporučit Vídeň, kde je chladno, to mně osobně vyhovuje, jinak doporučuji Barcelonu. 
+NULL ({ 11 }) So, ({ }) we ({ 9 }) operate ({ }) all ({ }) over ({ 2 3 4 5 6 }) Europe ({ }) and ({ }) I'd ({ }) suggest ({ 8 }) you ({ 7 }) a ({ }) cold ({ 1 }) place ({ }) like ({ }) Vienna, ({ 10 }) since ({ }) that ({ }) I ({ }) like ({ 13 }) it, ({ }) otherwise ({ }) I'd ({ }) rather ({ }) suggest ({ }) you ({ }) Barcelona. ({ 12 14 15 16 17 18 19 }) 
+# Sentence pair (11) source length 9 target length 7 alignment score : 4.66208e-06
+Můžete mi říct, jak vaše agentura funguje? 
+NULL ({ }) Could ({ 2 4 6 }) you ({ }) tell ({ 3 }) me ({ }) how ({ 5 }) does ({ 1 }) your ({ 7 }) agency ({ }) work? ({ }) 
+# Sentence pair (12) source length 26 target length 19 alignment score : 1.65874e-47
+Pracujeme v různých odděleních na základě jejich funkce, marketing, front office a všechny spolupracují na zpracování zakázek na pobyty. 
+NULL ({ }) We ({ 1 }) work ({ }) in ({ }) different ({ }) groups ({ 6 }) according ({ }) to ({ }) their ({ 10 }) own ({ }) tasks, ({ 7 }) they're ({ 11 }) called ({ }) marketing, ({ }) marketing, ({ }) a ({ }) front ({ }) office ({ 9 }) and ({ }) they ({ 13 }) all ({ }) collaborate ({ 17 19 }) to ({ 2 3 4 12 14 15 16 18 }) develop ({ 8 }) the ({ }) stay ({ }) proposals. ({ 5 }) 
+# Sentence pair (13) source length 5 target length 5 alignment score : 0.000853048
+To je fantastické, opravdu zajímavé. 
+NULL ({ }) That's ({ 1 }) fantastic, ({ 2 3 }) that's ({ 5 }) really ({ }) interesting. ({ 4 }) 
+# Sentence pair (14) source length 16 target length 10 alignment score : 5.71187e-07
+Nemáte vizitku, abych se vám mohl ozvat ohledně dalších informací? 
+NULL ({ }) And ({ }) do ({ 6 }) you ({ 5 }) have ({ 4 }) a ({ }) business ({ 2 }) card ({ }) so ({ 1 }) I ({ }) can ({ 7 9 }) call ({ }) you ({ }) later ({ 8 }) for ({ }) others ({ 3 }) information? ({ 10 }) 
+# Sentence pair (15) source length 3 target length 3 alignment score : 0.00147462
+Myslím, že ano... 
+NULL ({ }) Yes, ({ }) I ({ }) think... ({ 1 2 3 }) 
+# Sentence pair (16) source length 4 target length 3 alignment score : 0.0335449
+Ano, tady je. 
+NULL ({ }) Yes, ({ 1 }) here ({ 2 }) it ({ }) is. ({ 3 }) 
+# Sentence pair (17) source length 2 target length 3 alignment score : 0.0209497
+To je skvělé. 
+NULL ({ }) That's ({ 1 }) fantastic. ({ 2 3 }) 
+# Sentence pair (18) source length 4 target length 2 alignment score : 0.0519369
+Moc děkuji. 
+NULL ({ }) Thank ({ 1 }) you ({ }) very ({ 2 }) much. ({ }) 
+# Sentence pair (19) source length 2 target length 2 alignment score : 0.280187
+Nemáte zač. 
+NULL ({ }) You're ({ 1 }) welcome. ({ 2 }) 
+# Sentence pair (20) source length 1 target length 1 alignment score : 0.791588
+Nashle! 
+NULL ({ }) Goodbye! ({ 1 }) 
+# Sentence pair (21) source length 1 target length 1 alignment score : 0.660488
+Nashle! 
+NULL ({ }) Bye! ({ 1 }) 

@@ -1,0 +1,42 @@
+# Sentence pair (1) source length 1 target length 1 alignment score : 0.669295
+Hello! 
+NULL ({ }) Hello! ({ 1 }) 
+# Sentence pair (2) source length 13 target length 12 alignment score : 4.97066e-08
+Mein Name ist <NAME> und ich bin der Vertreter des Magic World-Teams. 
+NULL ({ }) My ({ }) name ({ 2 }) is ({ }) <NAME> ({ 1 }) and ({ 5 }) I ({ 6 }) am ({ 7 10 }) the ({ 8 }) representant ({ 4 12 }) of ({ }) Magic ({ 3 }) World ({ 11 }) team. ({ 9 }) 
+# Sentence pair (3) source length 23 target length 22 alignment score : 8.35491e-19
+Der Zweck von Magic World ist die Organisation von gesellschaftlichen Veranstaltungen, insbesondere für Kinder und Teenager, wie zum Beispiel Geburtstagspartys, Privatpartys, Mottopartys. 
+NULL ({ }) The ({ 11 }) purpose ({ 5 7 10 }) of ({ 9 }) Magic ({ 6 }) World ({ 4 }) is ({ }) to ({ }) organize ({ }) social ({ 8 12 }) events, ({ 2 }) especially ({ 14 }) for ({ 3 13 }) kids ({ }) and ({ 15 }) teenagers, ({ 16 }) such ({ 17 18 19 }) us ({ 21 }) birthday ({ 1 20 }) parties, ({ }) private ({ 22 }) parties, ({ }) thematic ({ }) parties. ({ }) 
+# Sentence pair (4) source length 16 target length 14 alignment score : 6.4669e-11
+Unser Ziel ist es, eines der bekanntesten Unternehmen zu werden, das solche Veranstaltungen organisiert. 
+NULL ({ }) Our ({ 1 4 }) goal ({ 2 7 }) is ({ }) to ({ 3 }) become ({ 5 }) one ({ 6 }) of ({ }) the ({ }) most ({ 11 }) well ({ 13 }) known ({ 10 }) firm ({ 8 }) that ({ }) organizers ({ 9 12 }) such ({ }) events. ({ 14 }) 
+# Sentence pair (5) source length 12 target length 12 alignment score : 1.46354e-09
+Unsere Mission ist es, aus jeder einfachen Veranstaltung etwas Spektakuläres zu machen. 
+NULL ({ }) Our ({ 4 11 }) mission ({ 5 12 }) is ({ }) to ({ 3 }) transform ({ }) any ({ 6 }) basic ({ 10 }) event ({ 2 }) in ({ 1 }) a ({ }) spectacular ({ 7 9 }) one. ({ 8 }) 
+# Sentence pair (6) source length 18 target length 18 alignment score : 2.05654e-15
+Mit der Zeit hat das Unternehmen seine Aktivitäten diversifiziert und damit die Bedürfnisse und Anforderungen unserer Kunden berücksichtigt. 
+NULL ({ }) Among ({ }) the ({ 5 }) time, ({ 1 3 4 }) the ({ }) firm ({ 6 }) has ({ 16 17 }) diversified ({ 7 }) the ({ 2 }) activities, ({ 18 }) taking ({ 12 }) in ({ }) to ({ }) consideration ({ }) our ({ }) clients' ({ 9 13 }) needs ({ 8 }) and ({ 10 14 }) requirements. ({ 11 15 }) 
+# Sentence pair (7) source length 27 target length 23 alignment score : 1.22415e-17
+Heute haben wir eine Vielzahl von Angeboten für verschiedene Alterskategorien, wie zum Beispiel Partys mit Clowns, Märchen, Zeichentrickfiguren, Zauber- und Karaokeshows und Puppentheater. 
+NULL ({ }) Today ({ 1 }) we ({ 3 }) have ({ 2 }) a ({ 4 }) variety ({ 5 7 }) of ({ }) offers, ({ 9 }) for ({ 6 8 }) different ({ }) age ({ }) categories, ({ }) such ({ 11 12 13 }) as ({ 17 }) parties ({ 14 }) with ({ 15 }) clowns, ({ 16 }) fairy-tales, ({ }) cartoon ({ 18 }) characters, ({ }) magic ({ 19 }) and ({ 22 }) karaoke ({ 21 23 }) shows ({ }) and ({ 20 }) theater ({ 10 }) with ({ }) puppets. ({ }) 
+# Sentence pair (8) source length 21 target length 25 alignment score : 1.31746e-21
+Wir halten Schritt mit den Marketingtrends, sodass wir Partys zuhause, im Kindergarten, in der Schule oder an jedem anderen Ort organisieren, den unser Kunde anfragt. 
+NULL ({ }) We ({ 1 }) keep ({ 2 }) up ({ }) the ({ 14 }) marketing ({ 11 12 }) trends ({ 13 }) so ({ 7 }) we ({ 8 }) organize ({ 15 }) parties ({ 9 }) at ({ 10 }) home, ({ 6 }) kindergarten, ({ }) school ({ }) or ({ 25 }) any ({ }) location ({ 3 16 17 18 19 20 21 }) that ({ 5 22 }) our ({ 23 }) client ({ 24 }) requests. ({ 4 }) 
+# Sentence pair (9) source length 16 target length 14 alignment score : 1.85959e-09
+Wir bieten Ihnen einen Rundum-Service: Gesichtsbemalung, alle Arten von Ballons, Mottodekoration für sündhafte Partys. 
+NULL ({ }) We ({ 1 }) offer ({ 2 }) you ({ }) complete ({ 3 }) services: ({ }) face ({ 14 }) painting, ({ 10 13 }) all ({ 4 5 }) kinds ({ 7 }) of ({ }) balloons, ({ }) theme ({ 8 }) decorations ({ 11 }) for ({ 9 12 }) unforgivable ({ }) party. ({ 6 }) 
+# Sentence pair (10) source length 15 target length 15 alignment score : 1.87736e-10
+Unsere Mitarbeiter haben Erfahrung mit Kindern und wir arbeiten schon seit langem in diesem Bereich. 
+NULL ({ }) Our ({ }) staff ({ 4 }) have ({ 3 }) experience ({ 10 }) with ({ 5 }) kids ({ 6 }) and ({ 7 }) we ({ 8 }) work ({ 2 }) in ({ 1 }) this ({ 9 }) for ({ }) a ({ }) long ({ 11 13 15 }) time. ({ 12 14 }) 
+# Sentence pair (11) source length 44 target length 42 alignment score : 1.1057e-32
+Wir finden, dass unser Unternehmen eine Geschäftsidee hat, die profitabel ist, weil sie zukunftsorientiert ist, Erfahrung hat; die erfahrenen Mitarbeiter, die... tun alles mit Leidenschaft und das Wichtigste ist, dass es ein vielschichtiges Angebot gibt, das auf den Bedürfnissen unserer Kunden beruht. 
+NULL ({ }) We ({ 1 }) think ({ 2 }) that ({ }) our ({ 4 }) firm ({ 5 }) has ({ }) a ({ 6 }) business ({ 3 7 }) idea ({ 30 }) that ({ }) is ({ 9 }) profitable, ({ }) because ({ 8 }) it ({ }) is ({ }) future ({ 10 }) oriented, ({ }) has ({ }) experience, ({ 23 }) the ({ }) experienced ({ 19 }) staff, ({ 20 37 }) who ({ 21 28 }) has... ({ 29 }) does ({ 22 }) everything ({ 35 }) with ({ 24 }) passion ({ 25 }) and ({ 26 }) the ({ }) most ({ 27 36 }) important ({ }) is ({ }) that ({ 38 }) it ({ 39 }) has ({ 40 41 }) a ({ 16 }) complex ({ 17 }) offer, ({ 15 }) based ({ 34 }) on ({ 11 12 13 14 31 32 33 }) our ({ 18 }) clients ({ 42 }) needs. ({ }) 
+# Sentence pair (12) source length 11 target length 9 alignment score : 1.5847e-07
+Deshalb lautet unser Motto "We love to entertain you!" 
+NULL ({ }) That ({ 1 }) is ({ }) why ({ 5 }) our ({ 3 }) motto ({ 4 7 9 }) is ({ }) "We ({ 8 }) love ({ 6 }) to ({ }) entertain ({ }) you!" ({ 2 }) 
+# Sentence pair (13) source length 24 target length 24 alignment score : 9.11164e-24
+Wenn Sie neugierig auf mein Team, meine Mitarbeiter, meine Freunde sind und mehr über uns wissen möchten, kommen Sie bitte an unseren Stand 79. 
+NULL ({ }) If ({ 14 15 16 17 18 20 21 22 23 }) you ({ }) are ({ }) curious ({ 19 24 }) to ({ }) meet ({ 10 }) my ({ }) team, ({ 11 }) my ({ }) staff, ({ 4 8 }) my ({ }) friends ({ }) and ({ 12 }) learn ({ 13 }) more ({ 2 6 }) about ({ 7 }) us, ({ }) please ({ }) stand ({ 5 }) by ({ }) our ({ }) stand ({ 9 }) seventy ({ 1 }) nine. ({ 3 }) 
+# Sentence pair (14) source length 4 target length 2 alignment score : 0.128298
+Vielen Dank! 
+NULL ({ }) Thank ({ 1 }) you ({ }) so ({ }) much! ({ 2 }) 
