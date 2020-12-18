@@ -9,7 +9,7 @@ if [[ $root_dir == "" ]]; then
 	exit
 fi
 
-for file in `find "$root_dir" -type f -not -name "README.md" | sort`; do
+for file in `find "$root_dir" -type f | sort | grep -v '\.history-\|README.md' `; do
 	group=`echo $file | awk 'BEGIN { FS = "/" } { print $NF }' | cut -d"." -f 1`
 
 	if [[ "$previous_group" != "$group" ]]; then
