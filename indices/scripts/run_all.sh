@@ -21,3 +21,19 @@ cd "${0%/*}/.."
 ./scripts/asr-czech-auditing.sh
 ./scripts/asr-english-any-domain.sh
 ./scripts/asr-english-auditing.sh
+
+
+# additional auto-generated indices for ELITR languages
+# ASR langs into English: {cs,de,fr,es,it,ru}->en
+for src in cs de fr es it ru; do
+  ./scripts/mt-pair.sh $src en
+done
+
+# English into 43 targets
+for tgt in \
+        ar az be bg bs ca cnr cs da de el es et fi fr \
+        ga he hr hu hy is it ka kk lb lt lv mk mt nl no \
+        pl pt ro ro-MD ru sk sl sq sr sv tr uk ; do \
+  ./scripts/mt-pair.sh en $tgt
+done
+
