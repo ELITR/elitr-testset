@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 source common.sh
 
 if [ $# -ne 2 ] ; then
@@ -20,6 +20,10 @@ do
 	if [[ "$line" == *".link"* ]];
 	then
 		file=`cat ../../$line`
+		if [[ "$file" == *"http"* ]]; then
+			wget -O "$(basename $line | rev | cut -d. -f2- | rev)" "$file"
+			file="$(basename $line | rev | cut -d. -f2- | rev)"
+		fi
 	else
 		file=`realpath ../../"$line"`
 	fi
@@ -39,27 +43,34 @@ do
 	ffmpeg -hide_banner -loglevel panic -y -i $i -acodec pcm_s16le -ar 16000 -ac 1 $op_wav
 done
 
-Processing ASR of files
+# Processing ASR of files
+index_name=$(basename $1)
+DATE=$(date '+%Y%m%d')
+only_file_name=$(basename "$temp_name" | rev | cut -d. -f4- | rev)
 
 FROMASR=$2
-index_name=$(basename $1)
+
 MEDIATOR=mediator.pervoice.com
 CLIENT="./ebclient -s $MEDIATOR -p 4448 --timestamps -r"
 TEETS="$UNB ./eet-timestamped"
 for i in $(find ../../../SLTev/SLTev-cache/OStt-tt-files/ -type f -name "*_16K.wav");
 do
 	temp_name=$(basename $i)
-    file_name=$(basename "$temp_name" | rev | cut -d. -f2- | rev)
+    file_name=$(basename "$temp_name" | rev | cut -d. -f2- | cut -d_ -f2- | rev)
 	LOGSPATH=$(git rev-parse --show-toplevel)/logs
-	DIR=${LOGSPATH}/${FROMASR}/${index_name}/${file_name}.pvlogs
-	TRDIR=${LOGSPATH}/${FROMASR}/${index_name}/${file_name}.transcript
-    mkdir -p $DIR
-    mkdir -p $TRDIR
-	echo "$UNB $CLIENT -f $FROMASR -i en-EU -t text < $i | $TEETS $DIR/${file_name}.temp.asr" > $DIR/cmd
-	nohup bash $DIR/cmd &
+	DIR=${LOGSPATH}/${FROMASR}/${file_name}.pvlogs
+	# TRDIR=../../elitr-testset-evaluations/evaluations/${DATE}/${file_name}/${FROMASR}/${file_name}.transcript
+	TRDIR=../../elitr-testset-evaluations/evaluations/20201217/${file_name}/${FROMASR}/${file_name}.transcript
 
-	cat "$DIR/${file_name}.temp.asr" | cut -d" " -f2- | online-text-flow-events --text | sed -r '/^\s*$/d' > ${TRDIR}/${file_name}.en.asr
+	if [ ! -f $DIR/${file_name}.temp.asr ];
+	then
+	    mkdir -p $DIR
+	    mkdir -p $TRDIR
+		echo "$UNB $CLIENT -f $FROMASR -i en-EU -t text < $i | $TEETS $DIR/${file_name}.temp.asr" > $DIR/cmd
+		bash $DIR/cmd
+		cat "$DIR/${file_name}.temp.asr" | cut -d" " -f2- | online-text-flow-events --text | sed -r '/^\s*$/d' > ${TRDIR}/${file_name}.en.asr
+	fi
 done
 
 
-echo "Now, please run score_generation.sh for ASRev score."
+# echo "Now, please run score_generation.sh for ASRev score."
