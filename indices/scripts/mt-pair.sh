@@ -28,9 +28,11 @@ find $documents -type f -not -name "README.md" \
 >> $tempfile.2
 # and then put this secondary tempfile to the main one
 cat $tempfile.2 >> $tempfile
-# remember to add the source files, i.e. OSt
+# remember to add the source files, i.e. OSt (but deduplicate, because more
+# refs brought in more copies of the same source)
 cat $tempfile.2 \
 | sed "s/\.TT\($src\|$tgt\)[1-4]*/.OSt/" \
+| sort -u \
 >> $tempfile
 
 ## TAUS files
