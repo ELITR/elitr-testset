@@ -28,9 +28,11 @@ find $documents -type f -not -name "README.md" \
 >> $tempfile.2
 # and then put this secondary tempfile to the main one
 cat $tempfile.2 >> $tempfile
-# remember to add the source files, i.e. OSt
+# remember to add the source files, i.e. OSt (but deduplicate, because more
+# refs brought in more copies of the same source)
 cat $tempfile.2 \
 | sed "s/\.TT\($src\|$tgt\)[1-4]*/.OSt/" \
+| sort -u \
 >> $tempfile
 
 ## TAUS files
@@ -42,6 +44,10 @@ find -L $documents/taus -type f \
 find -L $documents/confidential/intercorp -type f -name "aligned*" \
 | grep "$src"2"$tgt""\|""$tgt"2"$src" \
 | grep "aligned.$src\|aligned.$tgt" \
+>> $tempfile
+
+## WMT19 ELITR Test Suite files (only en, de, cs; sometimes tri-parallel)
+find -L $documents/wmt19-elitr-testsuite/reference -type f -name "*.$src" -o -name "*.$tgt" \
 >> $tempfile
 
 cat > $outfile << EOFMARK
