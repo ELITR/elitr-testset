@@ -1,0 +1,7 @@
+_T=20201229_11:04:48_16522	 git add .
+_T=20201229_11:05:29_16522	 git commi -m "Added stats about individual audio file in each index"
+_T=20201229_11:05:39_16522	 git commit -m "Added stats about individual audio file in each index"
+_T=20201229_11:05:53_16522	 ll
+_T=20201229_11:08:08_16522	 git push
+_T=20201229_11:08:38_16522	 mkdir audio_length
+_T=20201229_11:39:08_10045	 bk
