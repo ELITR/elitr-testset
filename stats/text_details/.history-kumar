@@ -1,0 +1,8 @@
+_T=20201229_12:12:26_10045	 ll
+_T=20201229_12:12:34_10045	 cat auto-asr-any-language-any-domain.tsv
+_T=20201229_12:12:45_10045	 cat auto-asr-any-language-any-domain.tsv
+_T=20201229_12:12:53_10045	 rm -rf *
+_T=20201229_12:12:54_10045	 ll
+_T=20201229_12:13:21_10045	 ll
+_T=20201229_12:13:23_10045	 ll
+_T=20201229_12:13:30_10045	 cat auto-asr-any-language-any-domain.tsv
