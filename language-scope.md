@@ -20,7 +20,7 @@ IC-Core is **manually aligned**, so if we can use InterCorp, then we can directl
 | EUROSAI   	| bg   	| Bulgarian    	| 7,068  	| 0      	| 0            	| 13,577   	| 9,083      	| 0      	| 0       	| 29,728  	|
 | EUROSAI   	| bs   	| Bosnian      	|        	|        	|              	|          	|            	|        	|         	|         	|
 | EUROSAI   	| ca   	| Catalan      	| 7,481  	| 0      	| 0            	| 0        	| 0          	| 0      	| 736     	| 8,217   	|
-| EUROSAI   	| cnr  	| Montenegrin  	|        	|        	|              	|          	|            	|        	|         	|         	|
+| EUROSAI   	| me  	| Montenegrin  	|        	|        	|              	|          	|            	|        	|         	|         	|
 | EU        	| cs   	| Czech        	| 110,573	| 4,351  	| 2,310        	| 19,085   	| 12,908     	| 50,604 	| 562     	| 200,393 	|
 | EU        	| da   	| Danish       	| 6,654  	| 0      	| 0            	| 20,313   	| 13,916     	| 14,429 	| 657     	| 55,968  	|
 | EU        	| de   	| German       	| 36,373 	| 4,704  	| 2,483        	| 20,610   	| 13,088     	| 8,392  	| 724     	| 86,374  	|
