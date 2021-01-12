@@ -1,0 +1,196 @@
+Great, OK.
+Thank you, Vladan.
+And thank you for all of you for coming to my talk in English.
+So, how many of you can understand what I'm saying right now?
+Hey, okay, you speak English!
+Ok, that's great, okay.
+I'd like to learn a little bit about all of you.
+How many of you are here in this building for the first time today?
+Wow, okay, lots of you.
+That's great.
+How many of you will go to university next year?
+OK, many.
+And how many of you will go to university in two years?
+Ok, also quite a few.
+Ok, great.
+Well, it's very nice to meet you all.
+I'm glad you're here today.
+So I'd also like to tell you a little bit about myself.
+So I'm Adam Dingle.
+I'm American.
+And this is actually now my 6th year of teaching here at Charles University.
+So I first came to Prague and taught here in the 1990s, long before most of you were born, in 1994.
+I taught here at the faculty for three years then.
+Then I went back to the US, and I taught-- and I worked for many years in the US at different companies.
+Most notably I was at Google for four years in the early 2000s.
+But then about two years ago, I decided I missed Europe, and I missed teaching, and I always had fond memories of the Czech Republic.
+So I decided to come back here.
+And so starting two years ago, I began teaching here again.
+So this is my third year here now.
+And yeah, it's great to be back.
+So, OK, great.
+So I teach various things here at the faculty, and one of my interests is computer games.
+So today, we don't have too much time.
+Welcome, everybody welcome.
+Okay.
+But I will try to say something about maybe even five games here.
+We will see how far we get, okay.
+And again, today, we're talking about writing computer programs that can play games, okay.
+So then let's start with this game here, tic-tac-toe.
+How many of you have ever played tic-tac-toe?
+Everybody, okay.
+How many of you play tic-tac-toe very often today?
+Nobody.
+Why not?
+It's a boring game.
+Why is it boring?
+Well, because if two people play tic-tac-toe, and they're both reasonable players, then what happens every time?
+The game is a draw, otherwise known as a tie, right?
+And so tic-tac-toe is interesting for kids who are maybe five or six or seven years old.
+But pretty quickly kids learn a perfect strategy.
+But it's still interesting to study, sort of, mathematically.
+And it's an interesting exercise for us to try to write a program that can play tic-tac-toe.
+So this is something we typically study in the first year of programming classes here, okay?
+So tic-tac-toe, then, is a very simple game.
+The branching factor of tic-tac-toe is about four.
+The branching factor means the number of possible moves at each turn.
+Sometimes it's greater, sometimes it's less.
+Usually it's about four.
+And actually, they are only about 7 or 800 possible games of tic-tac-toe.
+That is, if you consider symmetry, right?
+So, or 2 -- about 700 possible board positions, I mean.
+So basically this and this are the same board position, actually, because you can rotate one to make the other.
+So if you consider that, there are only about 26000 possible games.
+And for a computer, this is a tiny number, right?
+So we can easily write a computer program that analyzes all possible games of tic-tac-toe.
+So if you want to write a program that plays a perfect game of tic-tac-toe, this is an exercise that we do in Programming 1 or Programming 2 at this university.
+And if you come here and take those classes, you'll learn the minimax algorithm, which is a simple algorithm that can look at the whole game tree and figure out what the right move is at every position.
+OK?  So that's one place we can start.
+OK.
+Let's move on to a more interesting game: chess.
+How many of you have ever played chess?
+Again, basically everybody.
+If you're here, if you're even thinking about coming to the Matfyz, I'm sure you have played chess, right?
+OK.
+Maybe some of you play chess often today.
+It's a much more interesting game, obviously, than tic-tac-toe, OK?
+So in chess, then, the branching factor is about 35.
+Again, on average, about 35 possible moves from any position, OK?
+Games are longer.
+And the number of possible positions in a game of chess is a astronomical number, about 10 to the 47, which is something like the number of atoms in the universe.
+I mean, it's just a huge, huge number, okay?
+So if you want to write a program that plays chess, you cannot search the entire tree of possible games.
+It's just not possible.
+So no one has ever written a program that can play a perfect game of chess.
+We can play chess very well, although for many, many years, when I was a kid, right, in the 1970s, in the 1980s, the best human players of chess at that time time were still better than the best computer players.
+But then times changed, and we learned how to make computer players that are better than humans.
+Okay, so again, in a computer program that plays chess we cannot search the whole tree, it's too big.
+So what can we do?
+The way that classic computer programs play chess is they use the same minimax algorithm that we use to play tic tac toe.
+So from any state on the board you search many possible games.
+But you can't search all possible games, so you only search all possible games to some fixed depth.
+Like, depending on how much time you have maybe you search only seven or eight moves ahead.
+And then, at --
+Once, you've searched to that depth, at every state that you get to, you have to guess how good that state is.
+Does that look like a position where White will probably win or Black will probably win?
+So to do that, we run an evaluation function that looks at the board at that position and makes a guess.
+And probably many of you have seen classic ways to evaluate a chess board, like the Queen is worth nine points, the rook is worth five, etc.
+Anyway, so this works pretty well, I mean, obviously, there are much more sophisticated things we can do.
+Anyway, so, in the 80s and 90s chess programs started getting better and better, okay?
+And eventually, in 1997, I remember this, maybe some people in this room remember this, there was a very famous chess tournament in New York between Garry Kasparov, a Russian grandmaster, one of the best chess players who's ever lived, and Deep Blue, which was a computer program built by IBM, that used these same ideas to play the game: a minimax search, evaluation functions.
+It was a very dramatic series of games, but Deep Blue won.
+So this was the moment in history when chess fell to computers.
+Ever since that time, in 1997, now the best chess computers are better than people, okay?
+And today, of course, I could run a chess program on this phone that would defeat any human being on the planet.
+That's where we've come, okay?
+Great, OK.
+So let's move on to the game of Go.
+Okay, this is a game that originated in Japan.
+How many of you have ever played Go?
+Okay, so quite a few, actually.
+An excellent game, a fascinating game, I recommend that you all at least learn the rules and play a few games.
+There's a lot of very deep strategy in Go, despite it's just white stones and black stones on a board, OK?
+Go is much harder for computers than chess, OK?
+The branching factor is much larger, the number of possible positions is much larger, OK?
+And one huge problem in Go is there's no obvious evaluation function.
+In chess you can look at the board and say, oh, White has a queen, Black doesn't, White is probably ahead.
+But in Go it's just a big pattern of white and black stones, it's not so obvious.
+So for many, many years after chess fell to Deep Blue, still, human players were much better than computer players at Go.
+But then again, we've now made progress, a lot of progress, in the last 10, 20 years in machine learning and other algorithms.
+So we now know how to write computer programs that play a very strong game of Go.
+Okay, so how can we do this?
+Well, there were a couple of breakthroughs.
+One is a new tree searching algorithm called Monte Carlo Tree Search, which was invented only in 2006.
+So if you come to this university and take the tutorial in Artificial Intelligence 1 that I teach, I teach this algorithm and some of my students actually implement this tree search algorithm.
+AlphaGo combines this new tree search algorithm with machine learning, specifically with reinforcement learning, OK, using self play.
+So, AlphaGo, the way that Google trained it is AlphaGo played many, many thousands of games of Go against itself, and learned what worked well, and what didn't work well.
+Reinforcement, meaning -- learning means that when it won, it got a reward and it learned how to get those rewards more and more effectively through its training, okay.
+This learning happens through deep neural networks, which again, I'm sure most of you have heard about or read about.
+Neural networks are networks in software of small repeated units that are inspired loosely by biology.
+And in recent years, we've learned how to use neural networks to learn very sophisticated functions.
+So again, there's been a lot of progress.
+And in 2016, there was a famous match between AlphaGo and one of the strongest Go players on the planet, this South Korean player Lee Sedol.
+And again, a dramatic series of games, but AlphaGo won.
+So again, this was the moment when Go players became better than human players in human history.
+And again, now, even top human players have no chance versus the top Go programs, which have become even stronger in the last three years.
+OK, great.
+So now if computers are better than humans at basically all board games, at least these kinds of board games, which are deterministic games with no hidden information, anyway, what's the next frontier?
+Well, now, it's interesting to try to make computers play video games.
+OK, which may seem funny, but actually, these are very challenging for computers to play.
+And people have written many, many academic papers on trying to use artificial intelligence algorithms to play, for example, Ms. Pac-Man.
+OK.
+So why is Ms. Pac-Man hard?
+Well, for one thing it is a stochastic game.
+In Ms. Pac-Man the ghosts move somewhat randomly.
+So there's no way to predict exactly what will happen if you make certain moves, unlike games like chess, or Go where the rules are fixed, there's no randomness.
+OK.
+Also, if, you want to write a program that plays Ms. Pac-Man, you only have about 40 milliseconds to make every move, that's not a lot of time.
+OK, so how is it possible?
+Well, again, we study this in-- at this school in my classes, in fact.
+So I teach, again, a tutorial for our class Artificial Intelligence 1 where we use graph search algorithms to try to play Ms. Pac-Man.
+Just last month, I had a tournament among all my 50 students.
+And so my student Martina Fusková actually wrote the winning agent, which could score an average of 19,000 points.
+So let's watch her agent play a little bit of Ms. Pac-Man.
+Again, this is a program written by my student, just a few weeks ago.
+And so you can see the green lines here show what her agent is thinking about, where it's considering going.
+So it's making a lot of decisions, trying to find a path around the ghosts.
+Ok, great.
+And it finished the level.
+OK, so again, this is something that we do in my class, actually I have tournaments for lots of different games.
+And the students all try to write the best agent.
+OK?
+Great.
+Now, artificial intelligence researchers have written programs that can do even better.
+And again, we now know sort of how to solve these kinds of games.
+Just a couple years ago, a research team at a company in Montreal, now owned by Microsoft, was able to essentially solve the Atari version of Ms. Pac-Man, using, again, reinforcement learning and a kind of interesting architecture where they trained many different agents with many different goals.
+One agent's goal was to eat pellets.
+One agent's goal was to avoid the ghosts.
+And then they combined the decisions from these agents in this sort of hybrid architecture.
+Okay, great.
+OK, so the next frontier is Starcraft, okay.
+How many of you have ever played Starcraft?
+Okay, quite a few.
+How many of you have ever played any real-time strategy game?
+OK, quite a few, OK.
+These games are very interesting.
+They're very, very hard for computers, again, for many reasons.
+One is that there is hidden information.
+When you play a game like Starcraft, you don't know where your opponent is on the map.
+You don't know what your opponent might be doing.
+To play a game like this requires planning, requires cooperation, maybe between players.
+So again, until very, very recently this kind of game was impossible for computer players.
+Computers had no chance against the best humans.
+But again, we've made tremendous progress, even in the last few years.
+And as of just this year, finally, Google's DeepMind unit has written a player called AlphaStar that is now better than 99.8 percent of human players as of last month on a public network called Battle.net where people all around the planet play Starcraft versus each other.
+How do they do it?
+Well, again, using reinforcement learning and some newer learning techniques involving multiple agents and imitating strategies.
+So, anyway, there's been tremendous progress.
+It's an exciting time, the field is moving very quickly.
+With that, I'll say, if you are interested in this stuff, playing games, AI, AI algorithms that play games, this is a great place to come and study, OK?
+The specializations that we have for bachelor's study, one is a specialization in game development, one is in artificial intelligence.
+So you can study these things, you can combine them.
+All of our bachelor's students do a software project and a thesis.
+I'm currently advising two different students who are writing games as their software projects.
+So if this stuff is interesting to you, please come join us.
+Okay, we're out of time, have a great day.
+

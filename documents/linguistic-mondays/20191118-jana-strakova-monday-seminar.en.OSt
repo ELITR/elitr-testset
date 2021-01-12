@@ -1,0 +1,371 @@
+Hello and and welcome.
+I'm Jana Straková and this is joint work with Milan Straka who is teaching right now, so he cannot be here.
+So um I apologize for him and I will speak the whole time.
+So um this is about UDPipe, which I guess all of you know.
+It's a pipeline for morphology and lemmatization and syntax dependency parsing.
+And just so quickly aha um aha get us ok, on the same page.
+I'm going to very quickly show where we are now with the development of UDPipe.
+So it all started in 2014 uh where we when we uh uh showed MorphoDiTa and NameTag, morphology and lemmatization tool and named entity recognition tool at ACL demo.
+And in 2015 we created Parsito which was a dependency parsing tool.
+In 2016 we joined them together and this was the first version of UDPipe.
+Um we tried to or we did participate in CoNLL 2017 shared task which was uh morphology lemmatization and dependency parsing from tokens, from the raw text, so we didn't even know where the tokens are.
+The UDPipe was used as a baseline system and it ended up thirteenth so there were some systems which were even below this baseline system and our own contribution was eighth.
+Last year, we again com tried to compete in the shared task, the task was the same, so dependency parsing from raw sentences, with a new prototype, UDPipe 2.0, in which we replaced the core with TensorFlow.
+So we started using Tensorflow and UDPipe was one of the three winners.
+And now I get to this year's work, which will be the core of this talk.
+So this year the talk will be a compilation or um um um will be consisted of um five papers.
+One of them is when we took the UDPipe 2.0 um architecture and added contextual embeddings to it.
+We did this experiment with 40 54 languages, where there was enough data to do this.
+Um sadly, the paper got rejected for EMNLP, um the reason being we didn't ask um any scientific question, it was just evaluation, although the results were state of the art, but still, not a scientific paper, more of a an evaluation paper.
+So um the Czech portion of the experiments was presented at Text, Speech and Dialogue 2019 and you will see some um some visualization of these experiments.
+Then this year we also participated in SIGMORPHON 2019 shared task with UDPipe.
+This was a workshop collocated with ACL.
+And um again, we used um similar architecture, UDPipe with contextual word embeddings, but um only the morphological part of it because the task was only morphology and lemmatization.
+Now the very interesting part was we um tried to do semantic parsing, which we never did before.
+So it was a huge challenge for us.
+And we didn't have any expertise in it.
+So we tried the shared task called Meaning Representation Parsing um and um after fixing a bug we ended up third.
+And I will spend a lot of time about this because it was quite complicated and it was a lot of fun and frustration too.
+So we will we'll get to it.
+And we also had some nice results in nested named entity recognition.
+This was motivated by the fact that Czech named entity recognition um Czech Named Entity Corpus contains nested entities so we wanted to have a nice parser or recognizer to recognize nested entities.
+Um so we had some good results.
+And a nice surprise for the linguistic audience here.
+We also had we looked at the errors um in Czech and we publish the errors or in the errors are going to be published, the interesting cases, in this year's Slovo and slovesnost and it will be part of this talk too, in the end.
+So um this talk is going to be er the black parts.
+Um OK.
+So first um, reminder of the um UDPipe 2.0 architecture.
+Um the task was called Multilingual Parsing from Raw Text to Universal Dependencies.
+So we the input is raw text, you don't know anything about it and the output is ideally dependency tree and all kind of morphological analysis.
+So the architecture is kind of pretty standard now but um it was um interesting a year ago.
+The start is the red part here, that's the encoder.
+Um we um if we have an word, input word, we use pretrained embeddings, trained embeddings, character-level word embeddings.
+Contextual embeddings were not known a year ago, maybe ELMo was, but we didn't use it.
+And then when this is encoded, it all goes to shared um recurrent neural network layers.
+Um they are processed, the inputs are processed with two layers of long-short term memory units and then they go to, separately, to tagger and lemmatizer and to dependency parser.
+The biaffine attention here is Dozat.
+So this is our architecture in a sh in a nutshell.
+And we will get to this picture again later, when we will change things in it.
+OK.
+The results from um from back then, last year's competition, is um this line.
+The first line, the first part is, you have to get the tokens, word and sentences right.
+Um the morphological section and the dependency section.
+We think that our strength, of UDPipe, is in lemmatization and morphology, so all through the other shared tasks we will see, we will see this pattern um that tags and lemmatization are good.
+Um dependency parsing is um not like excellent, but we managed to get first in one of the metrics.
+Um this one is unlabeled attachment score, this one is labeled attachment score and this is a combination of labeled attachment score and morphology.
+So now you see, because we are strong in morphology, so morphological labeled attachment score is promoted by this.
+Um OK.
+Um so here's the obvious addition um to the architecture.
+Something that everyone will think of when they see um BERT published.
+We added on the input, so right here, we would add frozen ELMo-style BERT contextual embeddings without any fine-tuning, because it's computationally expensive and um like adding a frozen embeddings is not so expensive.
+So we added um these embeddings and um not so surprisingly, or this is not so very new result now, in the fall 2019, the results go up.
+The thing to contrast here is, the fourth um (This is from the paper, so I will just highlight the most interesting rows.), the fourth row, where we have word embeddings, character-level word embeddings and no BERT, no contextual embeddings.
+And again, morphological section and dependency parsing section.
+And the last row of the table where we have word embeddings, character-level word embeddings and BERT Base.
+Um this is an average um for all 72 UD 2.3 treebanks.
+So you can see that um between these two rows, the results go up.
+Interestingly, and we see this pattern through all our results, um it is less so in morphology and the gain is much higher, much more prominent in in syntax.
+So um we can say, but it is also not a very novel result, but we can say, that syntax is better encoded in in the BERT embeddings than morphological information but that's also not so suprising given the way the BERT are train trained.
+OK.
+I also have some nice visualization for Czech so so this will be much better seen on a nice, colourful graphs.
+So this is part of speech and lemmas on the Czech part of Universal Dependencies.
+This is the Czech PDT portion of UD.
+Um and that's um UDPipe 2.0 plus BERT.
+So the blue column is the first, the winner of the shared task in in Czech and the yellow one, is the second, second placed, second rank contribution.
+Ours is the green, without the contextualized embeddings, is the green bar and with the, the last one is with BERT.
+So you can see that there are gains, but um marginal ones.
+And the situation is quite different in syntax.
+So again, the blue and yellow bar are shared um the task um participants.
+Our um contribution is the green one and um adding BERT increases um our um syntax score um scores very well.
+OK.
+So then um we move to this year.
+So this year, we tried to participate, or we did participate in Task 2 of the SIGMORPHON 2019 shared task.
+It was called Morphological Analysis and Lemmatization in Context.
+So um what was the task?
+The task was: you get a sentence "They buy", for example "They buy and sell books."
+It's already tokenized.
+So no problem here, so you get a tokenized version of the sentence.
+And the task is to fill in the second column, which would be the lemma, and the fifth column, which is um some set of morphological marks or tags.
+If you wonder, or maybe I did wonder, what this is, it's a UniMorph scheme.
+It's a derivation of UD, so so they take the UD datasets, so they have 66 languages in 107 corpora, and they tag with Uni, they are tagged with UniMorph scheme.
+Why UniMorph scheme is better than what is in UD, is for you to read the paper, I don't know, yeah, um, they are reason, you're invited to read the paper.
+For me, it's just a question of modeling.
+So um, yeah, um.
+You're supposed to fill in these tags.
+If some were missing, you got you got points, you got um fewer points.
+So there were four, four two measures in the competition.
+The first one was lemma accuracy, so the task was you had to get the lemma right exactly as it is.
+If you had one, if one character was wrong, no points.
+The second one was lemma Levenhstein, that means the distance from the from the correct lemma, so some points if you get the lemma partially.
+Lower is better.
+Um then morphology accuracy, that means, you had to get the set of morphologic tags, all of them.
+The order is not important but you have to get the exact set.
+Um and this is recall and F-measure, F-measure, a combination of recall and precision of the individual tag sets.
+You see, we are very strong in lemmatization and shared with, we ended up on sh sh shared first place.
+Nice thing here is that Charles-Saarland here is Dan Kondryatuk, so whom you know maybe, he's Milan's student.
+So he took part of the competition independently of us.
+Um yep, so this was nice and now the semantics.
+So we we decided that it would be fun if we tried um some to add semantics to UDPIpe so we enrolled in Meaning Representation Parsing shared task.
+It was a whole new experience for us because we didn't know anything about semantic parsing at all and the task itself was an interesting one.
+So the goal was data-driven parsing into graph structured representation of of sentence meaning in, so far in a very vague meaning of these words, so don't imagine any particular formalism behind these words and we will get to them.
+So we had, what was the task, we had five formally and linguistically different approches to the meaning representation in graph and we were supposed to somehow model all of them.
+Um all of it was in English, which I personally think it shame, because, yeah, we would like to have more languages.
+Hopefully, next year when the competition will be repeated, there, there will be German and Czech, hopefully.
+So, I will, I will quickly go through the formalisms and since you're much more experienced in in theoretic, in theory, in semantic, you will see more in them, than I did see so I apologize for any inconsistent and imprecise formulations.
+So first dataset that we had was the Delph-in Bilexical Dependencies.
+I'm going from the simple ones to the most complicated ones.
+Here's an an example sentence: "A similar technique is almost impossible to apply to other crops, such as cotton, soybeans and rice."
+And here's the tree.
+Um well sorry it's not supposed to be a tree, it's supposed to be generally a graph because it doesn't have to have a a root and it doesn't have to be connected, so and so it's generally some graph.
+In this framework, the nice thing for people who are trying to parse it, is that the nodes in the semantic tree always correspond to some token in the surface.
+So that's nice thing.
+There are no added artificial made-up nodes such as compositions or something else.
+Um the graph don't have to be fully connected and they don't have to be rooted, though there exists a notion of of a a.
+For the purpose of the whole shared task, the organizers promoted a notion of a "top".
+"Top" is something that is important in the graph and we're supposed to model tops too.
+So in this graph, or in this formalism, the top is "almost".
+I don't know why, but this is the official example.
+Um some tokens can be omitted from the semantic graph, if they are not meaningful.
+Um yeah what's not seen in the graph is that all the nodes mmm may or don't have to have labels and some undefined number of properties and the same with labels, the labels here remind us of semantic role labels.
+And that's probably the simplest of the of the frameworks that we had.
+Another one was, I would say a port of a of a Prague style semantics to a simpler set of rules, so the same, we had the same sentence here.
+And again, the rules are that the nodes have to correspond to meaningful tokens.
+Again, there are no artificial added nodes, so we see that this is not really a t-layer.
+There's different labeling scheme than than we've seen before but it does remind us of Prague-style the tagging of treebank.
+Then the predicative is is meaningful and is part of the tree and is a top of the tree, so it's very different from this point of view.
+"Almost" does not scope the entire graph, it's it's a modifier and there are some more differences.
+Um OK.
+So but now it get's much more complicated.
+So this is the third framework that we had.
+Elementary Dependency Structures.
+Um um, again the same sentence, um, now it gets a level more complicated, because the nodes don't necessarilly have to be the exact tokens from the sentence.
+They can be a arbitrary selection of characters from the sentence.
+So they it could be either concatenation of words, if you need such node, or it could even be a um um divided, for example, in a sentence "He set me up." we would have "set" and "up" go into one node and there's "me" between.
+So we would have holes in the in the, it doesn't have to be a consecutive um um string of characters.
+But still, nice thing is that there is a pointer to underlying sentence, although it's still just character er er characters, it doesn't have to be the whole word and it doesn't have to yeah say anything.
+Another thing is that, you see the labels are not lemmas anymore but they are some um um dictionary entries.
+The bad thing is we didn't have the dictionary when we modeled the graph, so we just were supposed to magically find the the the node labels.
+Yeah, so I said everything about this framework.
+So the fourth framework which we had was Universal Conceptual Cognitive Annotation.
+Again, the same sentence.
+And you see, it's something like constituency tree.
+So all the words are in the leaves, they don't bear much information and all the information is implied from the labels of the edges.
+So so the information about the semantics is rather in the structure of the tree and in the in the labels and attributes of the edges than the nodes.
+So again, this is different view on semantic modeling.
+And finally, I'm moving to the to the most difficult one from the point of parsing and that that's Abstract Meaning Representation.
+And now, now the fun part starts.
+So the so the nodes don't have to be connected to the underlying sentence at all, they can be just made up to to to represent something.
+Also, the labels are from some dictionary.
+Um what else...
+Um it can be a general graph, it can have re-entrances, so cycles are allowed, and um there's an important thing which I wanted to say about this.
+Oh yes, and when the dataset was done, the decision was made, that there is, even if the word like "cotton", "soybean" and "rice" is an existing word in the sentence, so it does correspond to a certain token in the sentence, the link to the token is not um annotated in the data.
+So you get a dataset where you have a raw sentence and you have a tree, but you have no idea, how the tree corresponds to the sentence.
+So there are papers, recently, on how to reconstruct this alignment from the tree to the, or the graph to the underlying sentence, but it's much more difficult task if you don't have any clue.
+So yeah, so this was the the setting of the shared task.
+To sum up, we had some structurally and formally different linguistic approaches, where the nodes correspond to the surface nodes to some level.
+Um artificial nodes, like compositions, may be added in some frameworks.
+We don't know anything about the graph structure, nodes may have labels, mostly lemmas or some dictionary entries.
+They may have some undefined number of properties, which must be guessed, so for example, for nouns you want to predict case and number, but you don't want to predict the same values for verbs and so on, and this must be modeled.
+Um edges also can have labels and attributes, and there is an undefined number of tops in the graph.
+The important nodes, so to say.
+Moreover, the task setting was closed, so only approved data um resources were allowed.
+Some labels were actually named entity labels.
+Um um some labels were from treebanks, we didn't have them.
+Some there was a very fuzzy evaluation score, because if you have a very complicated graph like in Abstract Meaning Representation, and then you have another graph, that you modeled, or you you predicted, then finding a graph isomorphism to say how much the graphs correspond, and what the F-measure should be, is a NP-complete task.
+So it's a graph isomorphism task.
+So how it is done, um is via a SMATCH algorithm, which is a non-deterministic heuristic search, which is which gets very very slow, if your graph is very very bad, because it cannot find the correspondence between your bad graph, which happens in the initial um iterations of the training.
+So, yeah, it's, it's difficult.
+So our goal was to have, just to forget all this complications and mess and to create one general graph-to-graph model that would somehow model everything and we wouldn't have to care that in one framework, there is such and such dictionary, and in another one, there is such and such number of labels, and so on.
+So it was supposed to be structure and formally agnostic and we wanted to have everything modeled implicitly.
+So it was supposed to be like general, all-purpose um machine.
+So I will go through the through the architecture, in in one example.
+So it's a graph-to-graph, graph-to-graph model.
+And what um I think is novel, opposed to other graph-to-graph models that I have seen before, is it does, it does parse all of the five um frameworks.
+And it it is done in this way.
+If you look at at the frameworks from high-level perspective, you will see that um the way in which they differ, the substantial way in which they differ, is the exactly the relationship between the nodes and the underlying token structure, tokens.
+So we decided that we will jointly model this relationship between the nodes and the tokens as part of the graph.
+So tokens are actually also nodes of the semantic graph and the um and the connections from the tokens to the real nodes of the graphs are regular edges.
+At it allows us to jointly model all the information that we can get from the framework.
+So the starting configuration here is we have an isolated set of nodes.
+So we can say this is our starting semantic graph, although very bare one, and it contains tokens.
+Nothing else.
+We run an encoder, nothing interesting here, some regular embeddings, contextualized embeddings, whatever you can think of, um and we get the encoding.
+And then we iteratively run a um set of two um two sets of separate operations or transformations.
+One of them is AddNodes and the second one is Add AddEdges.
+So the second step in the first iteration, so the first iteration, the first run of AddNodes operation, and it does so in a layered way.
+So for all the nodes that we already had, we try to find their neighbors.
+So if you think about it, the first, the very first step will be that for the tokens, we will find their corresponding nodes.
+Um so once they are found, yeah, this is the representation in the neural network, um once they are found, we do the second step of operations, um we're still in the first iteration, and that would be finding the corresponding edges between these set of nodes.
+And if it is necessary, we repeat this all the time, until the whole graph is covered.
+Um now if you think about it and remember the first, the most simple the most simple framework, actually only one iteration is needed to cover the whole Prague Style Dependency and Delphi, because they only have nodes that directly correspond to the tokens, so the first iteration, of addition of AddNodes will create all the nodes and then the first AddEdges will create all the edges and you're done.
+This is an example from EDS framework, however, it's selected so that you see, sometimes you have to run a second iteration of these operations.
+So in the second operation, a a second layer is found of of nodes and again at their corresponding edges.
+One thing we don't know yet whether it was a good idea or not a good idea is that we, as you can see, we always add all the nodes from one layer together as a whole set.
+Um that's because um adding one after another would be computationally expensive, but by adding them all at once, we loose um we loose some information because there could be a dependency between, not dependency in the form, no like a relationship or a hidden information between, say, these two nodes.
+But if we add them at once, we don't get this, independently, we don't get this information, we don't model it, we don't cover it.
+So um we are thinking maybe next year, somehow we hopefully we will be able to do this step um sequentially.
+But yeah, um we'll see.
+OK, so this is our graph and the results.
+So first the columns.
+This are, this is, these are the, these are the names of the systems.
+The first part is our system and this is other competitors, the best ones.
+This is how well is how we did in finding the important um nodes.
+This are the labels of nodes, mostly lemmas.
+Properties, you can imagine morphological cathegories of some kind.
+Anchors, anchors in our graph, are regular edges, how they are seen in most, in the, in the formalisms, these are the connections between graph's nodes and the tokens.
+And edge, the regular edges and the attri, attributes of the edges.
+So, unfortunately, our submission of the shared task contained a bug, a human bug, um yeah, so we, we ended up on the sixth rank.
+When we found out the bug, we sent a corrected submission and we then the rank was much better.
+And the last three lines are our ablation, post-competition experiments.
+So um the competition um submission was 90% training data and 10% for development and then we tried to use all of the data that we had for training and just a very small portion for the final tuning, but to our unpleasant surprise, we didn't get any better.
+This is how we do if we do not have any contextual embeddings and finally an ensemble of five networks.
+Three or five, I don't know exactly.
+Much better numbers, but still third.
+What's interesting here, I mentioned it before, is that we do well in labels and properties and that's basically morphology.
+So um yeah so so we had very good results in labels and properties, not so good in edge, in edges.
+And our worst, our worst framework was the one which reminds the, or which looks like constituency trees.
+Because this graph-to-graph generation is not very well suited for for creating multiple layers of of the constituency trees.
+But we still wanted to have just one um model to to rule them all.
+OK.
+So away from semantics.
+Um next year maybe some more information.
+And the nested named entity recognition.
+Um so first, very briefly, an example, what nested named entity recognition is.
+Clearly, it's quite simple.
+In the sentence "the premier of the Western Canadian province British Columbia" you will see four entities in three levels deep.
+Interestingly, the literature in nested named entity recognition is quite scarse.
+I found a few, three papers last year, and units of papers every year, so people tend to avoid this problem for some reason.
+Um this is how it done, lately.
+So one of the idea that everyone would come up with.
+You have some sort of named entity recognizer and you just iteratively run it until, and predict more and more inner entities, until it says "I'm done, I don't want to predict any more entities" then you, then you finish.
+So it's a, from this paper, it's a layered model of LSTM with conditional random fields and you iteratively run it, until you have all the entities.
+Another approach is to somehow try to model the structure of the entities.
+So you build a structure, some sort of hypergraph and you model the transition between the entities, in some complicated way, to capture all the possible entities that could be created in one sentence.
+And if you model the transition between the states with neural networks, then you get a powerful model of nested entities.
+And here's my idea.
+We don't build any structure, we don't iteratively run anything, we just do sequence-to-sequence approach.
+So the input is, for example "in the US Federal court of New Mexico" and yeah, the idea is simple enough, just simply run it through a sequence to sequence decoder and um cleverly wrap up all the entities, so that they can be outputted in one long string.
+Um, there has to be a special, special tag to say "I'm done predicting this word and move to another word".
+So this, the decoder will just say "no entity here" and then it will say "I'm done", moving to next word, then it will predict that an entity starts here, again, say "I'm done with this token" and this is an interesting part, it will say "I continue with this entity that started before", then it will say "But there is one-word entity at this point" and "I'm done".
+And again, moving to next word, so you get the idea.
+Now, the question is, can long, obviously again, the inside is Long-Short Term Memory Units, can Long-Short Term Memory Units remember shallow hierarchy?
+Because this is nested.
+Um the answer is yes, because nested entities usually have like four, mostly five levels of depth, that's not difficult for Long-Short Term Memory to remember.
+So it does work surprisingly well.
+Um the results here.
+Um sorry it's a tiny, tiny font.
+The first part is related work and then the corporas we have.
+In English, the standard corpora for comparing nested entity recognition is ACE-2004, 2005.
+GENIA, that's medical protein text.
+And Czech Named Entity corpus, that's not a standard corpus, but it's a Czech one, so we included it.
+No one knew it at the conference, so bad luck.
+The bottom part is our best model.
+The grayish, grayish row is our contribution without BERT embeddings because we had to compare without them, since the previous work didn't have them.
+So you can see that the gain is quite significant, markant, you can see without, with naked eyes.
+If contextual embeddings, this all are kind of contextual embeddgins, are added, we get even more markant results.
+OK.
+Um the results are very, pretty nice for flat named entity recognition results.
+Actually, right now, we are holding a second place in English, SotA in NLP Progress table for English, for CoNLL-2003, with 93.38, but someone with CNN with something added to it, has 93.5, yeah but still nice.
+OK.
+And now the linguistic part.
+We tried to do some, we tried to look at errors that our system makes, make.
+And I'm sorry this will be only in Czech.
+So I will, I will explain in English, but the examples will be in Czech.
+So what went wrong.
+This is our architecture, we did this last, this was submitted to Slovo a slovesnost last fall 2018.
+And it took one year to finish the process and and wrap it up.
+So you will see the architecture from last year shared task without BERT.
+Um so, um, this is errors in morphology from PDT and you know, there are fifteen positions, or the tag, and this is percentage of incorrect, of the, percentage of the errors that are contributed to the position.
+And by far, the biggest portion of the errors goes to case.
+How this can be, I will show in the next example.
+Um, nice thing is, by looking at the errors, we didn't find any trivial, any stupid errors, like, like the machine went crazy and hypothesized a stupid mistake, but most of the errors can be attributed to interesting examples, like this one.
+Ekologické palivo bude vyrábět nový závod Milo Olomouc, největší svého druhu v Evropě.
+So you see, where, where the problem comes from.
+It's clearly subject-object problem.
+Um it's, it looks the same, it's homonymy, so not so, not so, yeah, and again, the, the network, probably expects the subject to go to the first place in the sentence and so on.
+Funny thing, this also is accusative, because one the network decided, it decided.
+Um some other problems also come from the fact, that you would have to be, you would have to know the exact setting of the situation, like you would have to have and extralinguistic knowledge, like in this cases.
+Spotřebitel by měl být o hmotnosti nabízených pekárenských výrobků vhodným způsobem informován (ceník, cenovky, informační tabule).
+So again, we don't know whether this is a singular or a plural.
+And another one.
+... podle kterého je prodávající povinen spotřebitele řádně informovat.
+So again, we don't know.
+And the network doesn't know.
+Um OK and another type of errors is the case, where the word that would disambiguate the the the tag, is too far away, like in this sentence:
+Jednání s bankami o úpravě podmínek splácení úvěru a získání nových úvěrů, které by umožnily pokračování ve výrobě, se protahuje nad očekávání dlouho.
+So this is a long, long sentence, with included sentence and then we have "se protahuje", which would be a, which should be a hint that this is not a plural, actually, but it's too far a way and the network will not remember or will not see.
+Um OK and now some syntax errors.
+This is from Universal Dependencies Czech-PDT.
+The tags are the Universal Dependency tags, so I hope they are quite self-explanatory.
+The biggest portion of problems come, goes to nmod.
+Nmod is přívlastek neshodný, um or it corresponds to přívlastek neshodný, and I will show one example where this is quite clear what happened.
+So the wrong wrong nmod in this sentence:
+Posuzování je nyní poměrně přísně, protože míra nezaměstnanosti v Kanadě přesáhla 11 %.
+Now the question is míra nezaměstnanosti v Kanadě, the network obviously though that v Kanadě should go to míra, but it should be nezaměstnanosti čeho, v Kanadě.
+So and this kind of, this kind of problems we saw quite often.
+Mhm.
+Some named entity problems.
+Um by far, the biggest portion of mistaked is the problem with recall, we don't find a lot of named entity recognitions, the named entities at all, like in this example:
+Pro TEST testovala Státní zkušebna zemědělských, potravinářských a lesnických strojů, pobočka Brno.
+TEST is a name of magazine, we didn't find it at all, so nothing, it's not an entity.
+And then, what you don't see here, is that the correct name of the entity is Státní zkušebna zemědělských, potravinářských a lesnických strojů, pobočka Brno.
+So it's a very long entity and it's divided by comma.
+So I would say, my personal idea is, that once the network saw a comma, it said end of, end of story, we go on.
+Another one:
+Rada města Brna doporučila zastupitelstvu, které bude jednat...
+And the whole entity was supposed to be Rada města Brna.
+Um but it only said Brno, it only found Brno.
+And the third one:
+Proti Mělníku působil jistě a nedostal branku, vyjádřil se ke klíčovému postu sportovní manažer.
+Who knows the Czech Named Entity Corpus um um then then you know that there are sport clubs annotated.
+So this was not supposed to be a city, maybe in another corpus, but in this corpus, it was supposed to be a sport club.
+OK.
+So we're at the end not.
+What's next, what are we working on, currently.
+This was our 2019 work.
+We hope to wrap it up nicely and we hope to go to ACL 2020 or EMNLP 2020 demo.
+Um yeah, that's our plan.
+How it goes, we'll see, but yeah.
+And the papers, if you're interested, you're welcome to read any of them.
+That's all, thank you!
+Discussion
+Thanks
+Nice talk
+Nice work
+Um I have a short question about the named entity recognition error on one of the almost last slide Státní zkušebna zemědělských strojů.
+Does the model have any idea about the part of speech?
+Yes um.
+So it sees that it ends with an adjective and then it adds no further noun?
+Yes.
+So the NameTag has MorphoDiTa in it, like included, and all our prototypes use some kind of part of speech hint.
+So we use MorphoDiTa or we just jointly model it.
+But in any case, at the time, when this is decided, there is part of speech.
+So it's very weird that it should end with and adjective.
+Thanks.
+I have a question about the contextual embeddings for the syntactic parsing.
+Will it be possible in the future to include them in the UDPipe so that UDPipe will just process them without a complicated process where I have to get the embeddings somewhere?
+Yes. We are currently thinking about two ways to go.
+We cannot keep one model.
+That's because if we keep all the functionality that we use in the prototypes, then the models will get huge and noone will want to use them and also, they won't be very fast.
+So we're thinking two flavors, one of them would be full functionality, including the BERT embeddings, maybe we're not allowed to distribute the model itself, like the BERT Multi Multilingual, but once you get downloaded this model, then everything should work.
+And the second flavor should be a small, nice self-contained, fast one and that's be big discussion what should go in it and what shouldn't go in it to keep small and fast, with reasonable performance and accuracy tradeoff.
+Thank you.
+But it's a big problem.
+We want to also keep it as a service, as a web service, and when you think about it, we need to have a server, that serves BERT embeddings, and that's very computationally experinsive and um we don't know if this will be in the webservice, maybe so.
+I have I have question about the MRP task.
+So you said with the with your system, the UCCA got the worst results, actually, relatively speaking, so the other systems were better.
+So do you have any idea, why this was the case?
+You know, in which aspects the other systems were different and good for this phrase-based style of annotation?
+Yes.
+So one thing which I said is that the UCCA style has a lot of layers.
+And our system is layer-based and the more iterations you have to run, you lose information and it gets all tricky.
+So that's why I think we had this our worst performance.
+There are specialized um parsers for all five, for all of these five frameworks.
+And some of the participants did did just the simple thing that they used the specialized system that does that is like based on syntactic parser for constituency trees for this one and one only.
+So they had, they had, I personally, reviewed one paper, where they used five separate parsers, for each flavour one.
+So we did, maybe if we tuned our system to be a little bit different for UCCA, it might get better resuls, but we honestly didn't want to and secondly, we didn't have time, because we all did it last time before the deadline.
+So we only had one system and there has to be one of the frameworks which is the worst.
+If we don't tune it to the specifics of the of the frameworks.
+I think I think the difference I think they had one system and the good thing was they managed to model the transitions individually, not in a layered fashion.
+And I think that's where we loose most our points because we simply weren't able to program the sequence or to model the sequence of transitions.
+Even now, we were at the edge of, because TensorFlow 2.0 which allowed us to model, to write all this architecture, was just freshly out, just freshly out, but half a year or so, so we were very lucky to be able to do it, but we were not able to write the sequence of the transformations individually, which we would like to do next year.
