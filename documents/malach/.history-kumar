@@ -8,3 +8,7 @@ _T=20210120_08:41:17_21896	 ll
 _T=20210120_11:05:25_21896	 ll
 _T=20210120_11:05:35_21896	 git push
 _T=20210120_11:06:00_21896	 echo "/net/data/ELITR/data-sources/elitr-testset-public-but-big-files/malach/20160929-jakub-mlynar-talk.aac" > 20160929-jakub-mlynar-talk.aac.link
+_T=20210120_11:06:04_21896	 git add .
+_T=20210120_11:06:16_21896	 git commit -m "adding link file"
+_T=20210120_11:06:31_21896	 git push
+_T=20210120_11:07:20_21896	 rm *.link
