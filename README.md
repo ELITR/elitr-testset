@@ -49,6 +49,7 @@ The files ``OSt``, ``TT??`` as well as language variants without 'translation hi
 The files ``ISt*`` are typically *not* parallel with the ``OSt*`` variants.
 
 ### Indices
+*(Grammar note: 'indices' is the plural form of the word 'index')*
 
 Because every document can be equipped with a different set of variantions (and thus can or cannot serve in the evaluation of ASR, MT, and/or SLT), we will **build indices**.
 
