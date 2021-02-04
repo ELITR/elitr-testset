@@ -31,7 +31,7 @@ for f in `find documents -name '*.LINK'`; do
       ln -s $sourcef $tgtf || die "Failed to symlink $sourcef"
     else
       url=http://ufallab.ms.mff.cuni.cz/~bojar/elitr-testset/$tgtf
-      warn "  Downloading $tgtf from $url"
+      warn "  Downloading $url"
       wget --quiet -O$tgtf $url || die "Failed to download $sourcef"
       sum=$(md5sum $tgtf)
       [ "$sum" != "" ] || die "Failed to get md5sum for $tgtf"
