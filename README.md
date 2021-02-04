@@ -1,6 +1,19 @@
 # ELITR Test Set
 ELITR collection of test sets, for ASR, MT and SLT
 
+## Installation
+
+Some big files are not included in the repository. You download them after the cloning/update using ``populate.sh``.
+This cloning can be automated via the provided git hook.
+
+```
+git clone https://github.com/ELITR/elitr-testset.git
+  # Get the versioned files
+cd elitr-testset
+git config --local core.hooksPath githooks/
+  # Ensure that populate.sh is called after every pull
+```
+
 ## Organization of the Repository
 
 The repository consists of "documents" and "indices" and "checks".
