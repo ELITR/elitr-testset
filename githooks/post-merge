@@ -1,0 +1,10 @@
+#!/bin/bash
+# Ensure that we download also large files.
+# And if ELITR_PARTNER_PASSWORD is set, download also confidential files.
+
+WAS_SQUASH_MERGE=$1
+
+function warn() { echo "$@" >&2; }
+
+#warn "Post-merge hook called: $WAS_SQUASH_MERGE"
+./populate.sh

@@ -16,6 +16,8 @@ function warn() { echo "$@" >&2; }
 
 warn "Making sure that $MYDIR will contain all non-versioned files"
 
+cd "$MYDIR" || die "Failed to chdir to: $MYDIR"
+
 for f in `find documents -name '*.LINK'`; do
   warn "Checking $f"
   tgtf=${f/.LINK/}
