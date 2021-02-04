@@ -54,9 +54,19 @@ for f in `find documents -name '*.LINK'`; do
   fi
 done
 
+if [ -z "$ELITR_CONFIDENTIAL_PASSWORD" ] \
+   && [ -e documents/confidential-password ]; then
+  warn "Reusing ELITR_CONFIDENTIAL_PASSWORD from the past"
+  ELITR_CONFIDENTIAL_PASSWORD=$(cat documents/confidential-password)
+fi
+
 if [ ! -z "$ELITR_CONFIDENTIAL_PASSWORD" ]; then
   latest=$(wget -q -O- --user elitr --password "$ELITR_CONFIDENTIAL_PASSWORD" $baseurl/confidential/elitr-testset-confidential-files.latest)
   [ ! -z "$latest" ] || die "Failed to get latest package name for confidential files. Is the password '$ELITR_CONFIDENTIAL_PASSWORD' correct for $baseurl/confidential?"
+  # save the password
+  echo "$ELITR_CONFIDENTIAL_PASSWORD" > documents/confidential-password \
+  || warn "Failed to save ELITR_CONFIDENTIAL_PASSWORD for future use"
+  # check our version
   [ -e "$MYDIR"/documents/confidential/version ] \
   && our=$(cat "$MYDIR"/documents/confidential/version)
   if [ "$latest" == "$our" ]; then
