@@ -10,6 +10,8 @@ This cloning can be automated via the provided git hook.
 git clone https://github.com/ELITR/elitr-testset.git
   # Get the versioned files
 cd elitr-testset
+./populate.sh
+  # Run the repo population with big files for the first time.
 git config --local core.hooksPath githooks/
   # Ensure that populate.sh is called after every pull
 ```
