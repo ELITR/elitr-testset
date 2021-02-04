@@ -14,15 +14,16 @@ MYDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )" # get script directory
 
 function warn() { echo "$@" >&2; }
 
-warn "Making sure that $MYDIR will contain all non-versioned files"
+warn "Making sure that $MYDIR will contain all non-versioned files."
 
 cd "$MYDIR" || die "Failed to chdir to: $MYDIR"
 
 for f in `find documents -name '*.LINK'`; do
-  warn "Checking $f"
+  # warn "Checking $f"
   tgtf=${f/.LINK/}
   if [ -e $tgtf ]; then
-    warn "  $tgtf exists, nothing to do"
+    # warn "  $tgtf exists, nothing to do"
+    true
   else
     sourcef=$(cat $f)
     if [ -e $sourcef ]; then
@@ -30,7 +31,7 @@ for f in `find documents -name '*.LINK'`; do
       ln -s $sourcef $tgtf || die "Failed to symlink $sourcef"
     else
       url=http://ufallab.ms.mff.cuni.cz/~bojar/elitr-testset/$tgtf
-      warn "  downloading from $url"
+      warn "  Downloading $tgtf from $url"
       wget --quiet -O$tgtf $url || die "Failed to download $sourcef"
       sum=$(md5sum $tgtf)
       [ "$sum" != "" ] || die "Failed to get md5sum for $tgtf"
