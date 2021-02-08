@@ -60,7 +60,17 @@ if [ -z "$ELITR_CONFIDENTIAL_PASSWORD" ] \
   ELITR_CONFIDENTIAL_PASSWORD=$(cat documents/confidential-password)
 fi
 
-if [ ! -z "$ELITR_CONFIDENTIAL_PASSWORD" ]; then
+ufal_confid_dir=/net/data/ELITR/elitr-testset-nonversioned-files/elitr-testset-confidential-files
+if [ -e "$ufal_confid_dir" ]; then
+  if [ ! -e "$MYDIR/documents/confidential" ]; then
+    warn "We are at UFAL and do not have our confidential files yet."
+    warn "=> Symlinking $ufal_confid_dir to $MYDIR/documents/confidential"
+    pushd "$MYDIR"/documents/ > /dev/null || die "Failed to pushd"
+    ln -s "$ufal_confid_dir" ./confidential || die "Failed to symlink"
+    popd > /dev/null || die "Failed to popd"
+    warn "Will be using UFAL-common confidential files directly, no versions."
+  fi
+elif [ ! -z "$ELITR_CONFIDENTIAL_PASSWORD" ]; then
   latest=$(wget -q -O- --user elitr --password "$ELITR_CONFIDENTIAL_PASSWORD" $baseurl/confidential/elitr-testset-confidential-files.latest)
   [ ! -z "$latest" ] || die "Failed to get latest package name for confidential files. Is the password '$ELITR_CONFIDENTIAL_PASSWORD' correct for $baseurl/confidential?"
   # save the password
