@@ -30,3 +30,10 @@ Column 1 (0-1, 1-1 and others) indicates how many (automatically guessed) senten
 evaluate_asr.sh - searches for .ASR files in the documents and evaluates them against OSt file with the same name
 Creates an evaluation report file in for each .ASR file in the same directory
 ```
+
+## Useful Commands
+
+```
+# Convert wav to mp3
+ffmpeg -i FILE.wav -acodec libmp3lame FILE.mp3
+```
