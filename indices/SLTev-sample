@@ -1,12 +1,8 @@
-
 #this index file is created for testing of SLTev and contains: 
 
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.en.OSt
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.en.OStt
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.cs.OSt
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.de.OSt
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.en.cs.align
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.en.de.align
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.en.en.asr
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.en.de.slt
-elitr-testset/documents/SLTev-sample/kaccNlwi6lUCEM.en.cs.slt
+elitr-testset/documents/SLTev-sample/sample.en.OSt
+elitr-testset/documents/SLTev-sample/sample.en.OStt
+elitr-testset/documents/SLTev-sample/sample.cs.OSt
+elitr-testset/documents/SLTev-sample/sample.en.cs.slt
+elitr-testset/documents/SLTev-sample/sample.en.cs.mt
+elitr-testset/documents/SLTev-sample/sample.en.en.asr
