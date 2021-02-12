@@ -35,9 +35,8 @@ Filename **suffixes** are used to indicate the language and processing:
 .README      ... the history of creation of this document, ***including links***
 .WORK        ... should be a directory of parts that are not yet properly processed; to be removed when done
 .en.OS.mp3   ... a backup of the sound in lossy format, **if small enough**
-.en.OS.mp3.URL . the URL where to get the full file, if the file can't fit here; similarly for wav.URL etc.
 .en.OS.mp3.LINK . the path on the UFAL cluster where to get the full file, if the file can't fit here; similarly for wav.LINK etc.
-             ... the LINK and URL files are interpreted after git pull in a process we call "populating your elitr-testset working copy"
+             ... the LINK files are interpreted after git pull in a process we call "populating your elitr-testset working copy"
 .mp4         ... backup of the original video, if small enough
 .aac         ... backup of the original video, if small enough
 .en.OSt      ... original speech in language 'en', 't'ranscribed
@@ -79,11 +78,9 @@ Each index will be a simple list of basepathnames of documents that are good for
 
 ### Populating Working Copy with Big Files
 
-(A script is needed for this)
+After you obtain your working copy of elitr-testset via ``git clone`` (or update it via ``git pull``), you may need to download also big files which are not directly included in ``documents/`` but only represented there as ``*.LINK`` files.
 
-After you obtain your working copy of elitr-testset via ``git clone`` (or update it via ``git pull``), you may need to download also big files which are not directly included in ``documents/`` but only represented there are ``*.URL`` or ``*.LINK`` files.
-
-This population will be done by running a simple script ``./populate.sh [index-name-1 ...]``. Note that many of these files may not be needed in the particular evaluation task you are doing, so this population would be ideally limited to a set of index files that you plan to use.
+This population is done by running a simple script ``./populate.sh``. Note that many of these files may not be needed in the particular evaluation task you are doing, so this population would be ideally limited to a set of index files that you plan to use, to reduce the usage of disk space.
 
 ### Checks
 
