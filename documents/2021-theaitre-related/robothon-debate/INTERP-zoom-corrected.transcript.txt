@@ -1,33 +1,34 @@
-Please come.
-Let me know, welcome.
-My colleagues from the UFAL, Institute of formal and the applied linguistics of the Faculty of mathematics and physics Charles University Prague.
-Welcome Ondřej Dušek, Rudolf Rosa and Tomáš Musil.
-They kindly agreed to be mentors for this session, would you kindly join me on stage.
+Let me know, welcome my colleagues from the UFAL, Institute of Formal and Applied Linguistics of the Faculty of Mathematics and Physics, Charles University Prague.
+Welcome, Ondřej Dušek, Rudolf Rosa and Tomáš Musil.
+They kindly agreed to be mentors for this session.
+Would you kindly join me on stage?
 They will introduce what they can help us with.
 There is one person on Zoom, right?
-Is that Ondřej?
-Welcome Ondřej!
-As the Tomáš said, I am an expert in computer processing of language.
-My main focus is head booked for the dialogue with the computers and  memorization of language.
+Is that Ondra?
+Correct.
+Welcome, Ondřej!
+As Tomáš said, I am an expert in computer processing of language.
+My main focus is headbot, or the dialogue with the computer and  memorization of language.
 So perhaps I can help with the design of approach for computer learning in this area.
 That would be my brief introduction, Ondřej.
-And were back in the Švandovo divadlo theature.
-Ondřej Dušek, yes I am an a computer linguist from Charles university as well.
-Text analysis, text generation, using tools for translation, and so on so all of these things.
-Hi, I am Tomas, Tomáš Musil.
-I can help with the computer learning, meaning, recognition and so on.
+And were back in the Švandovo divadlo theatre.
+Ondřej Dušek.
+Yes.
+I am an a computer linguist from Charles University as well.
+Text analysis, text generation, using tools for translation, and so on.
+All of these things.
+Hi, I am Tomáš, Tomáš Musil.
+I can help with computer learning, meaning, recognition and so on.
 Lovely.
-Thank you to the three of you to all our mentors and for introducing themselves.
+Thank you to the three of you, to all our mentors, for introducing themselves.
 Would you kindly take a seat?
-After their brief introduction, we can go into the workshop but about session until twelve o 'clock.
-So we also invite David Košťák from the Švandovo divadlo theature and Martina Kinská, both from the theatre, both dramaturge to join us on stage.
-And without further adore.
-Within a few seconds.
-We are starting with our discussion on talent challenges, the public zoom will close.
-And you have to know, join our Robot on slack channel.
-If you do not know how to join over.
-<UNK> said, you will find a button which will take you directly to the link end.
-From twelve o 'clock, we will go talk about theater, artificial intelligence.
+After their brief introduction, we can right go into the workshop but about session until twelve o'clock.
+So we also invite David Košťák from the Švandovo divadlo theatre and Martina Kinská, both from the theatre, both dramaturges to join us on stage.
+And without further ado, within a few seconds, we are starting with our discussion on talent challenges.
+The public zoom session will close.
+And you have to know, join our Robothon slack channel.
+If you do not know how to join, over robothon.cz, you will find a button which will take you directly to the link.
+And from twelve o 'clock, we will go talk about theater, artificial intelligence.
 Because the project of these guys is writing an AI theater play.
 So please do join us.
 You know, our discussion with Rudolf Rosa, Tomáš Musil both from the Institute of MFU, applied linguistics of the Uh Faculty of mathematics and physics Charles university.
