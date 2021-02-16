@@ -28,37 +28,48 @@ And without further ado, within a few seconds, we are starting with our discussi
 The public zoom session will close.
 And you have to know, join our Robothon slack channel.
 If you do not know how to join, over robothon.cz, you will find a button which will take you directly to the link.
-And from twelve o 'clock, we will go talk about theater, artificial intelligence.
-Because the project of these guys is writing an AI theater play.
+And from twelve o'clock, we will talk about theatre, artificial intelligence, because the project of these guys is writing an AI theatre play.
 So please do join us.
-You know, our discussion with Rudolf Rosa, Tomáš Musil both from the Institute of MFU, applied linguistics of the Uh Faculty of mathematics and physics Charles university.
-David Košťák and Martina Kinská from Švandovo divadlo theatre, and will be talking about this theatre play, which is being written by a man and computer.
-It will be premiered here in this theater on February 26 this year.
-Let start mhm.
-Oh, join you.
+In our discussion with Rudolf Rosa, Tomáš Musil both from the Institute of Formal and Applied Linguistics of the Faculty of Mathematics and Physics, Charles University.
+David Košťák and Martina Kinská from Švandovo divadlo theatre.
+And will be talking about this theatre play, which is being written by a man and computer.
+It will be premiered here in this theatre on February 26th, this year.
+Let start..
+I'll join you.
 And maybe a few words of introduction.
-The project as a result of perhaps a frustration, because the 100th anniversary of the word "Robot", which first appeared on February 25th in the National Theater in Prague, and then in <UNK> actually before that.
+The project as a result of perhaps a frustration, because the 100th anniversary of the word "Robot", which first appeared on February 25th in the National Theatre in Prague, and then in Hradec Králové, actually before that.
 But that was not formal.
 So 100 years anniversary of the word "Robot" being used in public has gone by largely unnoticed.
-And then these colleagues from the theatre came up with this project, and they did not think it was complete nonsense, but a computer could try to write theature play.
-Then we were joined by their colleagues from DAMU.
-We ask for a grant within the program of Ithea.
-The grant agency Ah of Czech Republic supported this project.
-And this is part of an applied of applied research in human sciences.
-This is a very, actually a unique project worldwide, there have been some efforts that AI would help write a screenplay for a movie, may be a poem or a story, a short story.
-This really is the world 's first .
-Let pass the floor to my colleagues now.
-Let us do a brief touring test for you and for our audience.
+And then these colleagues and colleagues from the theatre came up with this project.
+And they did not think it was complete nonsense that a computer could try to write theatre play.
+Then we were joined by colleagues from DAMU.
+We asked for a grant within the program of ETA.
+The Grant Agency of Czech Republic supported this project.
+And this is part of an applied, of applied research in human sciences.
+This is a very, actually a unique project, worldwide.
+There have been some efforts that AI would help write a screenplay for a movie, may be a poem or a story, a short story.
+But this really is a world's first.
+Let the floor pass to my colleagues now.
+Let us do a brief Turing test for you and for our audience.
 Rudolf, are you on board?
 So let me move to the machine.
-Could she do please tell us what we are doing here?
-This is from Karel Čapek, R.U.R. an expert on playwright.
-The first robot says-"Sir, the machines cannot work. We cannot regenerate machines, robots."
-The second robot says,-"We have multipled our work. We do not work to put other than us. for whom?"
-Second robot-"For the next generation."
-First robot-"we cannot generate robots, robots only, Ah develop flesh and blood. You cannot put blood to bones."
-The second robot,-"People know the secret of life to tell us what the secret of life is."
-So the machine that we will be talking about today that generates an automatic automatic screen play of theaters.
+Could you please tell us what we are doing here?
+This is from Karel Čapek's R.U.R., an extract from his.
+The first robot says:
+"Sir, the machines cannot work.
+We cannot regenerate machines, robots."
+The second robot says:
+"We have more work. We do not know where to put other than Alquist."
+"For whom?"
+Second robot:
+"For the next generation."
+First robot:
+"We cannot generate robots, robots only, ah, develop flesh and blood.
+You cannot put blood to bones."
+The second robot:
+"People know the secret of life.
+Do tell us what the secret of life is."
+So the machine that we will be talking about today that generates an automatic automatic screen play for theaters.
 We put in some algorithm as a Gpt2 model.
 If you are an expert in the field. And then the machine would continue with generating ah the text.
 It picks up here, and you will see too possible continuations.
