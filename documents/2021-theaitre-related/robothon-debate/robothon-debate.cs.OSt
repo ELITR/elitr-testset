@@ -1,0 +1,391 @@
+Tak poprosím kolegy z ÚFALu, Ústavu formální a aplikované lingvistiky Matematicko fyzikální fakulty Univerzity Karlovy, v Praze, nevím, jestli se musí dodávat.
+Ale zvu teda Ondřeje Duška, Rudolfa Rosu a Tomáše Musila, kteří souhlasili s tím, že budou mentorovat.
+Jestli by...
+Jestli by nepřišli tady ke mně na pódium a přímo odsud nepředstavili, s čím, s čím mohou pomoci.
+Myslím...
+Koho máme na zoomu?
+Ondra?s
+Tak poprosíme Ondru.
+Jsem Ondřej.
+Z Matfyzu, teda jak, jak Tomáš říkal.
+Jsem tam odborný asistent.
+A jsem vlastně zaměřený na zpracování, počítačový zpracování jazyka.
+A hlavně, já se zabývám chatbotama nebo vlastně dialogem s počítačem a taky generováním jazyka.
+Takže já můžu kdyžtak pomoct s nějakým návrhem přístupu strojového učení pro tyhlety dvě, tyhlety věci nebo s nějakýma toolama a, a tak podobně.
+Takže asi, asi tak za mě.
+Prosim kolegy zde, ve Švandově divadle.
+Takže, Rudolfe, s čím můžeš pomoct?
+Takže, já jsem Rudolf.
+Jsem taky počítačovej lingvista z Matfyzu
+A.
+Takže částečně to podobný, nějaký zpracování textů, jazykový rozbor textů, generování textu, využití nějakých nástrojů, které máme na překlad.
+Na tady ty věci máme spoustu nějakých APIček.
+Takže v zásadě takovýhle věci.
+Ahoj, já jsem Tomáš.
+Na ÚFALu se zabejvám hlavně reprezentacema významu.
+A můžu pomoct se strojovým učením, ať už se to týká textu nebo třeba zpracování obrazu.
+Perfektní, takže já.
+Já děkuji tady kolegů, mentorům, za to, že všichni, ať už na zoomu nebo tady, se představili.
+Já poprosím rovnou pány, jestli by se nepřesunuli zde na křesílka, protože nás teďka čeká po představení mentorů workshop, cca třicet jedna minut do dvanácti hodin, kdy si budeme povídat právě s Rudolfem, s Tomášem.
+Pozvu ještě Davida Košťáka, dramaturga ze Švandova divadla a Martinu Kinskou také ze Švandova divadla, dramaturgyni, jestli by nezaujali tady místa a.
+
+Začne za několik tady za třicet vteřin.
+Verk Shop před detailním představení výzev už na sumu, už ne formou veřejné.
+O screeningu.
+Takže jestli Teďka si říkáte, kde se Dozvim víc?
+O těch výzvách nebudu moct diskutovat.
+Je to na na sumu.
+Běžte na náš Slevovej kanál.
+Robot tón.
+Když nevíte, jak se na ten celek dostát, tak na stránce Robota.
+CZ tlačítko z Linkem, který vás tam vystřelí a od dvanácti hodin workshopů na téma v jejich.
+Tedy, což je projekt, kde umělá inteligence píše divadelní hru spolu s lidmi tak od dvanácti hodin bude pak následovat detailní popis výzev.
+Takže teď vás všechny zvu, abyste se zúčastnili našeho povídání.
+Kdy budu zpovídat Rudolfa Rosu Tomáše Musila oba dva z ústavu.
+Formální aplikované lingvistiky Matematicko fyzikální fakulty univerzity Karlovy.
+Pak hostem bude David, pošťák a Martina keňská ze Švandova divadla.
+A budeme si povídat o projektu divadelní hry, kterou pomáhá člověku psát umělá inteligence.
+A bude premiéra této hry asi tak za měsíc. vysíláme Robotron.
+Dvacátý šestý tady ve Švandova divadla, odkud?
+Takže pojďme, pojďme na to.
+Já si takhle na chvilku Přisednu k tomu projektu.
+Já možná jenom stručně.
+Stručně řeknu něco na úvod.
+Ten projekt vzniknul jako Takovej důsledek frustrace, že nikdo moc Neslaví. dvacet jedna. let. sta Slova Robot, které se objevilo dvacátý pátý ledna tisíc devět set v premiéře právě výročí Erú her, která byla v národním divadle.
+Jonáši, byla jedna premiéra nelegální načerno v Hradci Králové.
+Takže se objevilo ještě dřív.
+Rudolf a kolegové Ze Švandova divadla, po sto letech.
+Díky tomu, že tady Daniel Hrbek, kterému jsem to přednesl, takto Nezavrhl jako úplnou Blbost a nesmysl, že by umělé inteligence.
+Mohla se pokusit psát divadelní hru.
+A ten tým potom ještě se rozrostl o kolegy z Damu.
+Podal žádost na Tačr technologickou agenturu České republiky v rámci programu ETA a uspěl.
+A. takže ta celá akce.
+Dvouletý dvouletý projekt je podporován i technologickou agenturu České republiky.
+Jako a plyn Vkovaný výzkum ve společensko ve společenských vědách.
+Je to celosvětově unikátní, relativně nějaké nějaké pokusy, aby umělé inteligence psala filmový scénář.
+Psala Povídky, pohádky, básně byly.
+Já bych, než než předám tady slovo kolegům, tak možná bychom mohli udělat takový malý tíhu ringu.
+Test pro vás hackery a diváky, kteří se dívají na tento tento Streaming.
+Jestli s tím takhle Souhlasíš. jasně Rudolfa pravili takové otevření.
+Já budu muset tady to pustit na svém stroji vedle a poprosím, jestli by možná neřekl k tomu, o Co. o co jde?
+Je to teda úryvek z Karlova Čapka Erú her.
+Já to stručně přečtu.
+První Robot Řiká:
+pane, stroje nemohou pracovat.
+Nemůžeme rozmnožovat Roboty.
+Druhý Robot říká:
+znásobily jsme práci.
+Nemáme už kam dát, co jsme vyrobili?
+Akvizic říká pro koho?
+Druhý Robot pro příští pokolení.
+První Robot.
+Jen Roboty nemůžeme vyrábět.
+Stroje vydávají jenom krvavé kusy masa, kůže Nelne k masu a maso ke Kostem.
+Beztvaré Chuchle roce prší ze strojů a druhý Robot říká:
+lidem bylo známo tajemství života, pověst nám jejich tajemství.
+A tohle napsal Karel Čapek v Eduard.
+A ty si s tím provedl co?
+My jsme vzali nástroj, který, o kterých se budeme dneska bavit.
+Kterej nám generuje automaticky scénáře divadelních her?
+A tohle jsme do toho zadali jako vstup.
+Kdo znáte?
+Tak je to jazykový model.
+A ten nástroj potom pokračoval v tom textu to znamená Vygeneroval nějaký pokračování na mi.
+Teďka pro vás máme Úložku, kdy právě uvidíte dvě možný pokračování.
+Jedno je to původní, Tý z Tý skutečný hry.
+Er.
+A ten druhý je to, který vygenerovat náš nástroj.
+A vašim úkolem bude poznat, co z toho teda je skutečný od člověka.
+A co z toho je?
+Automaticky Vygenerovaný vod umělé inteligence.
+Takže jenom instrukce.
+Pište nám své typy s tím, že to co vidíte vlevo, tak bude EL.
+A to, co vidíte vpravo bude té tak.
+Dejte nám vaše odhady do z Fleku.
+Tam je kanál, dotazy a odpovědi.
+Tak klidně, v rámci tady toho kanálu nám napište, jestli si myslíte, že teď se ptáme na co?
+Co vygenerovat vygenerovat trojka?
+Tak nám dejte vědět, co si myslíte.
+Jako verzi Vygeneroval stroj.
+Jestli to je ta nalevo, to je tak Odepište EL doslechu na dotazy a výzvy. myslíte, že stroj Vygeneroval ten ten pravou část dialogu, tak tak dejte Péčko. povídat? si budeme Čekat nebo si budeme chvíli a jestli jsou povídat.
+Takže čtěte Tipujte hlasujte.
+Takže jak to vzniká, Rudolfe?
+Ty, ty si začal.
+Teď jsme tady s tím trikem.
+Ringovým testem takhle dramatickým tak jak se dělá jako divadlo pro tebe jako matematika.
+Tam samozřejmě spousta Nějakejch obtížných problémů.
+Ale nás vlastně už od začátku překvapilo, že dneska ty velký jazykový model jimi používám konkrétně k té dva od Úplnej.
+Zvládají sami od sebe generovat docela Dobrej text v angličtině.
+Teda pokud.
+Pokud člověk se generovat v angličtině a, takže základem je skutečně jenom vzít tedy ten model.
+Připravit tomu ten vstup, Kterej jsme viděli.
+A s trochou štěstí se ten model Chytne.
+Rozpozná tak nějak ten formát toho.
+Takže pokračuje podobným způsobem.
+Generuje ta jména těch postav.
+Generuje tam nějaký Repliky.
+Drží se toho tématu.
+Takže ten začala.
+Teď je vlastně Jednoduchej.
+Teď já bych se zeptal.
+Možná Davida, který zastupuje. to dramatičnost.
+Tady tu jako Dramaturg Švandova divadla v Praze.
+Prosim tě, co si s řekl?
+V momentě, kdy Daniel nebo kdo přišel s tím nápadem, že teda se uvede tady.
+Hra, jejíž text dialogy by měla sepsat umělá inteligence v první řadě jako dramatik.
+Taky jsem si říkal, že jsem se narodil do doby, že za chvilku už nahradí někdo další.
+Ale zároveň mi přišlo důležitý u toho projektu být, protože si z toho může vyvinout poměrně zajímavý nástroj pro autory.
+Nejenom divadelní, vlastně Konkretizaci, především počítačový hry, které se generují vlastně samostatně, a to, že bude v nich moc Bejt nějaký uměl Vygenerovaný dialog.
+Tak to je skvělý.
+Ale vlastně, netajím se tím, že k tomu přistupují zvědavě a se zdravou skepsí.
+A Tomáši, co jakýsi zažíval pocity, když když přišel, nevím, možná Rudolf tady s tím nápadem.
+Řekl SIS to?
+Je to chci té zajímavý.
+Anebo si řek:
+určitě jsem si řek, že to je zajímavý je, že by se to mělo vyzkoušet.
+A že jsem Zvědavej.
+Jak daleko v tom dokážeme dojít?
+Můžu se tě zeptat já, když takhle o tom čtu, jako spíš laicky.
+Tak všichni se Shodujou všechny kapacity světový, že?
+Umělá inteligence?
+I když se jí říká inteligence, tak vlastně vůbec inteligentní není.
+Ničemu nerozumí.
+A jak může Takovádle?
+Nevím, jedničky, nuly, který vůbec nemají důvod učinit nějakou Zpověď osvětě.
+Ale jenom poslouchají člověka, Kterej zmáčkne tlačítko.
+A Voni něco udělají tak jak.
+Jak můžu něco říct?
+Podstatného, co se týká lidského života.
+No, to je to, co složitá otázka.
+Já Myslim, že jedna věc je to, co už si tady říkal před tím, v rámci toho představování těch výzev.
+Totiž to, že co je nebo není inteligentní, ta hranice se posouvá neustále.
+Je to přesně tak, jak si říkal.
+To znamená, že my nějaký chování považujeme za inteligentní.
+Pak ho Strojově z Replikuje.
+To je třeba hraní šachu, to bylo dlouho považovaný za intelektuální.
+Něco velice náročný ho.
+Pak se ukázalo, že se to dá Strojově relativně jednoduše.
+Tedy s velkým počítačovým výkonem, který zase už dnešního hlediska ani tak velký není.
+Nicméně dá se to nějak relativně jednoduše Strojově provést?
+A od Tý doby už to není považovaný za nějaké jako důkaz inteligence.
+Tím, jestli dokáže stroj říct něco podstatného, to úplně nevím.
+Do jisté míry je to vždycky nějaký kopírování něčeho, co bylo do toho stroje nějak vložený. vytvořit něco, co Nám něco zajímavého?
+Na druhou stranu i kopírováním Přeskládávaným různých kousků se dá tomto smyslu.
+Je otázka, jestli jako lidi jsou inteligentní, že?
+Spousta lidí řekne, že člověk taky jenom jako vstřebává to, co už někdy viděl.
+A nějak to Rekombinují a zase to pouští dál.
+Tam jako nesmíme být přehnaně Nafoukaný ohledně sebe sama.
+Jestli můžu, tak bych taky chtěl tuhle otázku sazeb krizi ukradnout.
+A já myslím, že se vlastně můžeme o nás dozvědět z toho, co Pište.
+Server docela dost, protože to, co je na tom zajímavý, že to je vlastně oproštěný od těch emocí tak, že to je poměrně Analytickej nástroj. že vlastně ten ten počítač. a už Z toho se dozvěděl o nás toho spoustu.
+Na základě dialogu a scénářů, které přečetl.
+Tak já předpokládám, že to, co by potom nabízel, vycházel z nějaké statistiky toho, co se nejčastěji že objevuje v těch scénářích.
+Z Tohodle hlediska.
+Teda, to jsou docela zajímavé zjištění.
+Například to, že ať už se nám potkají jakékoliv dvě postavit tak dost často první fázích, než se asi ta pravděpodobnost změnila.
+Vždycky došlo k pohlavnímu styku, ať už se jakékoliv dvě Postavě, že vlastně všechno všechno směřovalo.
+Ne o lásce k nám tvrdý Literáti, ale vlastně k tomu styku samotnému.
+Ve k té zajímavý, že Neuronová síť, že Jo, vychází jenom z toho, co do ní Nacpeš na Jedný straně.
+A jestli do ní Cpeš tady dramatické chvíle výjimečné v lidském životě, tak potom ti hned Padaj.
+Prostě tady.
+Ty tady, ty Perly.
+Ale tak zase na druhou stranu.
+Doba si toho žák dá ty extrémní situace dramatický prostě Přitahujou naši pozornost.
+Já bych jenom.
+Ještě možná se vrátil k tomu Ringovému testu Adaptovanýma pro divadelní dialog.
+Viděli jste tam ty dva ty dva sloupce?
+Tak co je?
+Který z nich?
+Já nevím.
+Teďka už je tam zase.
+Vidíme znova.
+Tak poprosím třeba Rudolfa, který by teda odhalil, jestli počítač Vygeneroval. pravý?
+Ten ten levý, nebo ten má na to teda pořádně nevidím.
+Vypočítáš Vygeneroval to nalevo, to nalevo řeknou kam.
+Vidíš na to dobře?
+Když tak když tak je nutný asi se jít podívat k monitoru.
+Ale je vidět, že i i i sám autor Slajdu takhle hned na první pohled není úplně sebejistý v tomto slyšení ale počítač teda Vygeneroval.
+Ten ten sloupec, ty dialogy, které jsou vlevo.
+A podíváme se pak doslechu.
+Nebo poprosím kolegy, jestli jsou naslepo, aby aby to případně čekali.
+Kolik teda z vás se Trefilo?
+Ale tady ty Dzurindovi testy Ukazujou, že.
+Že vlastně už je složitý a mnohem složitější, jakoby identifikovat, za čím stojí.
+Dejme tomu pomoc té toho stroje a versus kde ten člověk sám zase za pomoci. možná se otázka pro všechny.
+Možná primitivnějšího stroje nebo nástroje.
+To to vykonal.
+Je teda, jestli je budoucnost v tom, že ty stroje pomáhají v divadle stroje jako Kulisy nebo světla.
+Nebo nějaká zařízení, který pouští kouř.
+Já nevím, já si to divadlo Pamatuju takhle z dětství, kdy se ještě chodilo do divadla.
+Ale třeba v budoucnu.
+Jedním z takových nástrojů, který dokáže to divadlo bude, bude možná umělá inteligence nebo nebude.
+Nebo jak to Vidíš, Davide?
+To je otázka.
+Já myslím, že ty možnosti tam jsou.
+Ale myslím, že tomu brání jedna věc, která není technologická té ješitnost těch autorů a umělců, že všichni potřebujeme pocit, že jsme tě originální.
+A vlastně si nedokáže představit, že se někde otevřeně přiznal k tomu vlastně, že.
+Že mu s tím psaním pomáhal ještě někdo Jinej.
+Ale ale myslím si, že, že.
+Nebo pro mě.
+Tak jak jsem sledoval ten ten ten program.
+Tak síla toho, co generuje ten počítač, je vlastně v té Nahodilosti, že?
+Kolikrát vlastně autor Zatěžkání už jistou pravděpodobnost, je realistickými.
+Vlastně hrami dost, dost málo si dovolí narušit nějakou logiku, kdežto ten počítač v Tomhletom směru nabízí docela zajímavé Rozbušky.
+Takže já si dokážu představit, že kdybych trpěl nějakou Autorskou krizí, tak si Vygeneruju část dialogu, která by mě mohla inspirovat pro pro další tvorbu.
+A. Ale nevím, jestli bych se k tomu přiznal.
+Teda zároveň mě přijde, že ti to dává naopak jako tu možnost jako autor.
+Prostě si jako dát nějaký odstup, říct.
+Tak to, že ta hra je trochu Blbá.
+To jako není moje chyba, že to prostě Vygeneroval umělá inteligence.
+Takže ta nám chce něco říct.
+A to, že my tomu nerozumíme.
+To jako nějaká naše chyba. že člověk jako trochu se zbaví odpovědnosti.
+A ale já myslím, že ne.
+Že je neuvěřitelný, jakým způsobem by to mohlo pomoc do budoucna v tom kvantitativně psaní. dialogem, který jsem vygenerovat.
+V tom smyslu, skutečně, když se tvoří dneska hry, které se Samogenerující, tak to, že by mohly být Doprovozen Doprovozen.
+Já bych poprosil ještě všechny z vás, kteří sledují Teďka náš malý Verčo debatu.
+Můžete klást dotazy, prosím, udělejte to zase přes lék Robota.
+Dvacet dvacet jedna.
+Je tam Černal, tuším dotazy a něco.
+Odpovědi nebo dotazy tam otázky tak, aby Poustu té své dotaz Gazy.
+A my potom během.
+Za pět minut se podíváme a zkusíme zodpovědět nějaké dotazy, které které přijdou.
+Přijdou od vás, kteří nás sledujete a posloucháte.
+Já bych rovnou navázal na to, co zaznělo, že.
+Že vlastně to, co člověk do té do té sítě dán na začátku jako ten vstup, tak ovlivňuje.
+Co z toho vypadne?
+Jak se ukazuje tady v tom v té tendenci umělé inteligence hned přijít s pohlavním stykem. toho dramatického představení.
+Během prvních minut.
+Já jsem Předvčírem čet velký článek. pro Dvacet dvacet jedna.
+No, přiměřeně velkej, tuším v nemají technologii Review, kde právě velký téma a který by se mělo řešit na poli umělé inteligence je právě ten ten Bájec, jak se říká tu zatížení, který potom vede k tomu, že byl neúspěšný. škol. lze, Z Přihláškami do pokusím Británii když zase vyhodnocuje umělá inteligence.
+Nějaký já nevím.
+Půjčky a tak dále.
+Tak může zase mít v sobě Nějakej Takovejdle v sobě Takovoudle, jakoby ne nespravedlnost Zakódovanou díky těm vstupům. dat, případně jak vy vidíte osobně možnost, jakoby Regulovat Hlín má člověk vůbec.
+Teda se snažit to nějak jako napravovat.
+Nebo tomu dát úplně volný volný pole, ať.
+A nestarat se o to, že ta samotná umělé inteligence potom jakoby je zatížena těmi těmi vstupy.
+Jako tam, je potřeba pochopit, jak ta umělá inteligence Funguješ.
+Ona nemá k dispozici v podstatě nic Jinýho než ty vstupy, který jako lidi dáme. se učí z toho, co? takže Ona, někde vzniklo.
+Typicky to jsou nějaký data, který lidi nějak vytvoření nějak poskytnou.
+Takže, není to tak, že by ta umělá inteligence sama jakoby se učila nějaký svoje předsudky.
+Je to nejenom kopíruje ty předsudky, který lidi už dávno mají.
+Takže ona vlastně není jako špatná.
+Vona je dobrá.
+Je tak dobrá, že Zkopíruje ty naše jako chytrý věci i včetně těch našich chyb.
+Takže tohle, to je něco, co se děje?
+A samozřejmě je spousta výzkumu Teďko o tom, jak vlastní udělat.
+Lepší než lidi.
+To znamená, aby byla tak chytrá jako lidi.
+A ještě k tomu nemělo tedy ty špatný předsudky.
+Vlastně Tomáš jako tady o tom taky možná trochu něco ví.
+Já si myslím, že jednoznačně bychom se měli snažit.
+Tvrdí ty problémy napravovat.
+Otázka:
+jak to technologicky udělat, protože ty nejpokročilejší metody, což jsou dneska Neuronové sítě, jsou do značné míry obtížně Interpretovatelný vlastním.
+Nevíme úplně přesně, jakým způsobem si ta Neuronová síť reprezentuje ty data, který se do ní dostali, přičemž prostě pokud rozhodujeme někde něco o nějakých lidech.
+Nějaká skupina těch lidí je v tuhle chvíli systematicky diskriminovaná.
+Tak to je nějaký vzorec.
+A ten se samozřejmě do té sítě přenese.
+Prostě pokuta Sítěnkou v datech vidí, že tahle skupina lidí se prostě nedostává na ty školy.
+No tak jim jako v důsledku Přiřadí nižší pravděpodobnost, aniž by zkoumala, že Jo.
+Jestli je to ten důvod, že se tam ty lidi nedostávají, je Nějakej Faktickej nebo je to nějaký předsudek?
+V těch datech není jak se toho zbavit.
+To je složitá otázka.
+Protože mimo jiné, ono, není to tak jednoduchý, že by si člověk jenom řeknu. ty předsudky nedám. věci.
+Který způsobil, protože tak tam ty všechny data jsou nakonec vzájemně Korelovaný nějakým způsobem.
+Takže.
+A to se na to jsou výzkumy?
+To se ukazuje, že jako i když se vezmou třeba životopisy, který se nějak pokoušeli automaticky analyzovat.
+A z těch životopisu se samozřejmě jako Smažil údaje o tom, jaký je ten člověk rasy.
+Tak se to Neuronových sítí dá zase zpětně vytáhnout.
+Prostě ta informace se tam dostane, i když tam není explicitně napsaná, jak to udělat, aby tam nebyla vůbec to je obtížný Výzkumnej problém.
+Tak možná na Haka tónu se objeví nějaký Hack, který přispěje k tomu, aby umělá inteligence se zbavila předsudků nás nedokonalých, organických Shluků masa a kostí.
+Nebo jak to popsal Chuchvalců Chuchvalců.
+Když se na člověka podíváte zevnitř, oproti kráse jakoby strojů.
+Takže je to jedno z témat.
+Já bych se.
+Ještě než se dostaneme k dotazům, tak se zeptal. možná teď Jak se i Daniel na začátek Řikala, že začne zkoušet, tuším v pondělí.
+Ale ty už z že o ten scénář viděl, existuje.
+Možná se zbavil i s herci, jak jaksi bude říkat vyslovovat slova, který teda nenapsal.
+Žijící autor, ale autor Vrnící jako a Svítící a Blikající.
+Já myslím, že v první řadě se jim to bude hůř učit, protože ne vždycky ta návaznost zcela logická v těch replikách.
+A druhá věc, která vlastně je specifická pro ty dialogy, Vygeneruje počítačem.
+Že se vlastně ten rok po je trošku jako dítě.
+Nebo vlastně jako Autisté v tom smyslu, že nepočítá s tím, že by to, co je řečeno, nebyla pravda.
+Že my vlastně v rámci toho interpretování toho textu budeme muset tu Intriku do toho vnášet tak, aby to pro ty herce bylo zajímavě.
+Aby se dalo ospravedlnit, že něco takového říkají.
+Protože vlastně často to nejzajímavější na divadle.
+Že se něco jiného říká něco jiného. interpretační.
+Myslí, tak to bude asi největší úkol.
+Tak já teď hledám, jestli máme dotazy.
+Nevidím, když.
+Tak mě opravte.
+Jestli někde, jestli máme dotaz, nevidíme, tak určitě se ptejte.
+Máte ještě devět minut.
+Devět minut se zeptat tady týmu, který který stojí za ten tým.
+Je teda širší, ale několika zástupců.
+Jak dejme tomu matematiku, nebo se Psycho lingvistů, nebo co to bylo?
+Simonova, a nedávno v Gardien Psycholingvistikou je tady, vod a Nazvali Teďka Dramatiků, jako David.
+Takže já se zeptám ještě na na věc, která se souvisí s procesem té té tvorby a přenesením.
+Dejme tomu do divadla.
+Je to.
+Je to tak, že tu celou hru.
+Což já beru, že je titulek nějaký poznámky role a ta struktura těch jednání. teda píše To celý umělá inteligence, nebo je tam, jaký je podíl člověka nebo drama Dramatika Dramaturga?
+Na té na tom výsledném představení, které uvidíme.
+Tedy dvacátý šestý února za měsíc.
+Tady ve Švandova divadla.
+Kdybych to měl vyčíslit, tak podíl toho člověka asi určitě nepřesahuje Nějakej deset procent.
+Ale ono je to tak, že i ten podíl Dramaturgově, když píše živě.
+Autor také tak je takový, protože se protože Dramaturgové, nějaké impulzy.
+Zcela konkrétně je to tak, že ta hra se skládá z několika situaci dialogu a ten vstup.
+Prakticky jenom jedna Scénická.
+Poznámka:
+krátká, která představila vlastně základní nastavení té situace.
+Ty postavy a první první dvě Repliky toho dialogu.
+A zbytek byl by byl Generovaný tím počítačem s tím, že občas jsme mu to Proškrtali nebo nebo tak.
+Anebo jsme mu zamítli, kam směřuje.
+Ten zákon začal generovat dál.
+Jako v tom v Tomhletom.
+To je docela standardní vedení.
+Dramatik.
+Jak napsání hry?
+Jediný v čem máme největší zásah je, že samozřejmě zatím.
+Zatím je ve fázi ten Softwer, kdy Nevropská neumí.
+Nebo zatím jsem neobjevil, že by uměl Klenout větší příběh.
+Takže jsou to.
+Takže vlastně tu ten celkový scénář je.
+Závisí na tom, jak my jsme se Skládali za sebou, ty vygenerované situace.
+Ale to je úplně by běžný běžná metoda Koláže montáže.
+Vlastně která, která se taky děje s Autorovým textem.
+Takže se k němu chováme jako autor, který je poslušně.
+Když mu něco zamítneme, tak nás Poslechne.
+Tohle v podstatě byly nějaký nějaká představa, kterou jsme si řekli na začátku, že už jako byly různý texty, který vznikly s podílem umělé inteligence.
+Kde ten podíl?
+Byl tu deset procent.
+Sto dvacet pět procent.
+A tak jsme si říkali už jako.
+To už není zajímavý.
+Takže prostě pojďme je skutečně dát Tý umělou inteligenci, co největší slovo?
+A dohodli jsme se, že opravdu ty zásahy budu jenom minimální. coby člověk jako jak by zasahoval.
+Do textu, který je Orlických autora a vlastně jsou na úrovni toho, jak říkal David.
+A je pravda, že zatím teda to generuje jednotliví ty scény, jakoby nezávisle na sobě.
+Prostě generuje ty texty jako Vinárně, ale ten projekt pokračuje dál a na Letošek máme vlastně v plánu Tohleto vylepšit.
+Udělat hierarchický generování, který by nejdřív Vygenerovalo nějaký shrnutí celý Tý hry.
+A to by se pak už Rozvedlo do těch jednotlivých cen, aby vlastně i tady nad tou strukturou Tý hry měla.
+Teda ta Intel ingerence sílu rozhodovací.
+Uvidíme, jak to dopadne.
+Hokej pokud máte otázku, tak napište teď máte poslední příležitost se zeptat na Slechu, protože jinak máme posledních pět minut.
+A přesně za pět minut začne blok Cílenej k jednotlivým tématům, kde téma umělé kreativní inteligence. zajímá projekt Elitr, Taky budeme s Rudolfem k tomu něco říkat, podrobnějšího. který ve Švandova Divadla, ale pokud vás, bude mít premiéru dvacátý šestý února.
+To je za měsíc v sedm hodin večer.
+Tady bude Stream zase ze Švandě žáků.
+Na stránce Krtečka KOM jste všichni všichni zvaní se na to podívat.
+Bude to celosvětová premiéra podle našich vědomostí.
+Nikde jinde zatím taková z celovečerní divadelní hráz standardního formátu ještě nevznikla. následována diskuzí právě s tady s kolegy.
+A bude to divadelní hra, která bude.
+A myslím si, že to bude jedinečná příležitost posoudit, kde.
+Kde ta Strojová kreativita s nějakou minimální spoluprací s člověkem dneska je.
+
+A jestli vám dokáže udělat zábavný, dramatický, zajímavý, zajímavý večer.
+Tak já bych, protože nemáme dotazy, tak bych poděkoval tady hostům, Davidovi Rudolfovy a Tomášovi za to, že tady strávili Půlhodinku diskusí na téma umělé inteligence v dramatické tvorbě.
+
+A já bych poprosil režii, i jestli by nám nepustila takový Týze, který vás naláká všechny na premiéru dvacátého šestého února

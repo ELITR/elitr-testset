@@ -1,33 +1,44 @@
 Good morning.
-My name is Thomas and I will tell you something about question answering.
+My name is Tomáš and I will tell you something about question answering.
 Now, imagine that you have a question and a really long document that probably contains the answer.
-In the old days, you would have to read through the document and find the answer yourself; in the near future the question answering technology will be able to find the answer for you.
+In the old days, you would have to read through the document and find the answer yourself.
+In the near future the question answering technology will be able to find the answer for you.
 The technology readiness of this application is somewhere between six and seven, which means that it's almost ready to be prototyped in operational environment.
 Let me demonstrate a question answering system with a simple example.
 You can find the link to the example in your work worksheet under question answering task one.
 Ehm.
 So if you click the link, it will lead you to this page, where you click default context and it will fill the context for you.
-You see that it's a aa paragraph of text about a conference, and now we can ask questions.
+You see that it's a, aa, paragraph of text about a conference, and now we can ask questions.
 So, let's ask when will the conference happen.
-Now you click submit query, and we see that the conference will be held on October 6th
-and 7th.
+Now you click submit query.
+And we see that the conference will be held on October 6th and 7th.
 Let's try another question, for example, who are the speakers.
 Several foreign experts have been invited.
 And some lecturers from FID will also speak as you see.
-And the final question for this part of the demonstration is how much does it cost. Participation is free of charge.
+And the final question for this part of the demonstration is how much does it cost.
+Participation is free of charge.
 Now, notice that the answer doesn't contain any words from the question.
 So, this is where question answering is  eehm more sophisticated than a simple full text search.
 For the second task, ehm let's copy the text that you have already seen in the previous part of our ehm presentations.
 So, copy this text to the context area.
-And let's try the same questions ehm that we were asking before. So the first question was: "Who was audited?".  
-Uhm. Hmm mm mm. And this is not the right answer.
+And let's try the same questions ehm that we were asking before.
+So the first question was:
+"Who was audited?".  
+Uhm.
+Hmm mm mm.
+And this is not the right answer.
 The audited entities were, the Ministry of Finance.
-So, the first question was: "Who did the audit?" The Division Two Department of State Budget Incomes and so on.
-Let's try another question. "Who was audited?"
+So, the first question was:
+"Who did the audit?"
+The Division Two Department of State Budget Incomes and so on.
+Let's try another question.
+"Who was audited?"
 The Ministry of Finance, and then Tax  Office.
-And now the last question for this part of the demonstration is: "When was it finished?"
+And now the last question for this part of the demonstration is:
+"When was it finished?"
 Ehm. 
-OK, now you see that. Ehm.
+OK, now you see that.
+Ehm.
 The system gave us a very long answer, almost the whole context ee text, probably because it wasn't sure which of the dates, the dates at the beginning or the date at the end is the correct one.
 This may seems like a deficiency, but it is in fact an advantage of this system.
 The computer is not thinking for you.
@@ -35,7 +46,9 @@ And in case when it is not sure, like in this example, and will present you with
 So you are still the one who makes the decisions.
 You are the one who has to accept the final answer.
 And now, you will have a moment to try the system on your own, so you can try the default context. 
-You can try this context about audits or you can take a random article from Wikipedia, try something longer perhaps.
-OK. You can copy the first few paragraphs, maybe. 
+You can try this context about audits or you can take a random article from Wikipedia.
+Try something longer perhaps.
+OK.
+You can copy the first few paragraphs, maybe. 
 And try to ask some questions. 
 And see if the systems comes up with the correct answer.
