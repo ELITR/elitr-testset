@@ -9,7 +9,7 @@ P 130.0 354.0  I'm from the personal department of the
 P 130.0 400.0  I'm from the personal department of the company
 P 130.0 454.0  I'm from the personal department of the company Šamanka,
 P 130.0 474.0  I'm from the personal department of the company Šamanka, s.
-P 130.0 490.00000000000006  I'm from the personal department of the company Šamanka, s. r.
+P 130.0 490.0  I'm from the personal department of the company Šamanka, s. r.
 P 130.0 528.0  I'm from the personal department of the company Šamanka, s. r. o.,
 P 130.0 552.0  I'm from the personal department of the company Šamanka, s. r. o., which
 P 130.0 570.0  I'm from the personal department of the company Šamanka, s. r. o., which was
@@ -30,9 +30,9 @@ P 940.0 1198.0  We produce non-alcoholic fruit
 C 940.0 1342.0  We produce non-alcoholic fruit lemonades.
 P 1342.0 1410.0  We
 P 1342.0 1638.0  We support
-P 1342.0 1660.0000000000002  We support both
+P 1342.0 1660.0  We support both
 P 1342.0 1728.0  We support both local
-P 1342.0 1757.9999999999998  We support both local and
+P 1342.0 1758.0  We support both local and
 P 1342.0 1812.0  We support both local and foreign
 P 1342.0 1896.0  We support both local and foreign distributors
 P 1342.0 1912.0  We support both local and foreign distributors of
@@ -68,14 +68,14 @@ P 3062.0 3126.0  If you want to
 P 3062.0 3164.0  If you want to try
 P 3062.0 3186.0  If you want to try them,
 P 3062.0 3204.0  If you want to try them, there
-P 3062.0 3211.9999999999995  If you want to try them, there are
+P 3062.0 3212.0  If you want to try them, there are
 P 3062.0 3250.0  If you want to try them, there are some...
 P 3062.0 3278.0  If you want to try them, there are some... there
 P 3062.0 3296.0  If you want to try them, there are some... there are
 P 3062.0 3326.0  If you want to try them, there are some... there are some
 P 3062.0 3406.0  If you want to try them, there are some... there are some samples
 P 3062.0 3424.0  If you want to try them, there are some... there are some samples of
-P 3062.0 3488.0000000000005  If you want to try them, there are some... there are some samples of those
+P 3062.0 3488.0  If you want to try them, there are some... there are some samples of those
 P 3062.0 3508.0  If you want to try them, there are some... there are some samples of those in
 P 3062.0 3532.0  If you want to try them, there are some... there are some samples of those in our
 C 3062.0 3572.0  If you want to try them, there are some... there are some samples of those in our stand.
@@ -85,14 +85,14 @@ P 3572.0 3640.0  Our stand is
 P 3572.0 3672.0  Our stand is number
 P 3572.0 3822.0  Our stand is number seven
 P 3572.0 3864.0  Our stand is number seven and
-P 3572.0 3879.9999999999995  Our stand is number seven and I
-P 3572.0 3902.0000000000005  Our stand is number seven and I don't
+P 3572.0 3880.0  Our stand is number seven and I
+P 3572.0 3902.0  Our stand is number seven and I don't
 P 3572.0 3922.0  Our stand is number seven and I don't think
 P 3572.0 3942.0  Our stand is number seven and I don't think it's
-P 3572.0 3979.9999999999995  Our stand is number seven and I don't think it's open
+P 3572.0 3980.0  Our stand is number seven and I don't think it's open
 P 3572.0 4000.0  Our stand is number seven and I don't think it's open now,
 P 3572.0 4042.0  Our stand is number seven and I don't think it's open now, but
-P 3572.0 4088.0000000000005  Our stand is number seven and I don't think it's open now, but maybe
+P 3572.0 4088.0  Our stand is number seven and I don't think it's open now, but maybe
 C 3572.0 4132.0  Our stand is number seven and I don't think it's open now, but maybe tomorrow.
 P 4132.0 4152.0  We
 P 4132.0 4172.0  We should

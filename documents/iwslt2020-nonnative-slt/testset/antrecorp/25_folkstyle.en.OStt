@@ -3,14 +3,14 @@ P 134.0 160.0  My
 P 134.0 180.0  My name
 P 134.0 196.0  My name is
 P 134.0 210.0  My name is <NAME>
-P 134.0 220.00000000000003  My name is <NAME> and
-P 134.0 224.00000000000003  My name is <NAME> and I
+P 134.0 220.0  My name is <NAME> and
+P 134.0 224.0  My name is <NAME> and I
 P 134.0 242.0  My name is <NAME> and I am
 P 134.0 266.0  My name is <NAME> and I am from
 P 134.0 276.0  My name is <NAME> and I am from the
 P 134.0 314.0  My name is <NAME> and I am from the training
 P 134.0 354.0  My name is <NAME> and I am from the training company
-P 134.0 463.99999999999994  My name is <NAME> and I am from the training company Folkstyle
+P 134.0 464.0  My name is <NAME> and I am from the training company Folkstyle
 P 134.0 500.0  My name is <NAME> and I am from the training company Folkstyle from
 P 134.0 508.0  My name is <NAME> and I am from the training company Folkstyle from the
 C 134.0 520.0  My name is <NAME> and I am from the training company Folkstyle from the <CITY>.
@@ -23,7 +23,7 @@ P 520.0 652.0  I would like to tell you
 P 520.0 700.0  I would like to tell you briefly
 P 520.0 770.0  I would like to tell you briefly something
 P 520.0 810.0  I would like to tell you briefly something about
-P 520.0 838.0000000000001  I would like to tell you briefly something about our
+P 520.0 838.0  I would like to tell you briefly something about our
 C 520.0 934.0  I would like to tell you briefly something about our company.
 P 934.0 958.0  Our
 P 934.0 1000.0  Our company
@@ -42,9 +42,9 @@ P 934.0 1522.0  Our company Folkstyle comes from Slovakia and is focusing on pro
 P 934.0 1536.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and
 P 934.0 1570.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion
 P 934.0 1668.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories
-P 934.0 1755.9999999999998  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories decorated
+P 934.0 1756.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories decorated
 P 934.0 1782.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories decorated with
-P 934.0 1810.0000000000002  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories decorated with the
+P 934.0 1810.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories decorated with the
 P 934.0 1880.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories decorated with the traditional
 P 934.0 1930.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories decorated with the traditional Slovak
 P 934.0 1980.0  Our company Folkstyle comes from Slovakia and is focusing on production of the clothing and fashion accessories decorated with the traditional Slovak folklore
@@ -75,14 +75,14 @@ C 2116.0 3274.0  Folklore, as you know, has a very long tradition in Slovakia an
 P 3274.0 3290.0  It
 P 3274.0 3306.0  It is
 P 3274.0 3354.0  It is necessary
-P 3274.0 3365.9999999999995  It is necessary to
+P 3274.0 3366.0  It is necessary to
 P 3274.0 3426.0  It is necessary to point
 P 3274.0 3450.0  It is necessary to point that
-P 3274.0 3479.9999999999995  It is necessary to point that all
+P 3274.0 3480.0  It is necessary to point that all
 P 3274.0 3508.0  It is necessary to point that all our
-P 3274.0 3584.0000000000005  It is necessary to point that all our products
+P 3274.0 3584.0  It is necessary to point that all our products
 P 3274.0 3614.0  It is necessary to point that all our products are
-P 3274.0 3670.0000000000005  It is necessary to point that all our products are handy
+P 3274.0 3670.0  It is necessary to point that all our products are handy
 C 3274.0 3864.0  It is necessary to point that all our products are handy embroidered.
 P 3864.0 3890.0  In
 P 3864.0 3918.0  In our
@@ -153,30 +153,30 @@ P 5796.0 6544.0  We try to combine these motifs with the latest fashion trends, 
 P 5796.0 6556.0  We try to combine these motifs with the latest fashion trends, resulting in a timeless pieces of clothes, that should not be
 P 5796.0 6586.0  We try to combine these motifs with the latest fashion trends, resulting in a timeless pieces of clothes, that should not be missing
 P 5796.0 6598.0  We try to combine these motifs with the latest fashion trends, resulting in a timeless pieces of clothes, that should not be missing in
-P 5796.0 6618.000000000001  We try to combine these motifs with the latest fashion trends, resulting in a timeless pieces of clothes, that should not be missing in any
-C 5796.0 6804.000000000001  We try to combine these motifs with the latest fashion trends, resulting in a timeless pieces of clothes, that should not be missing in any wardrobe.
-P 6804.000000000001 6904.000000000001  Our
-P 6804.000000000001 7018.000000000001  Our production
-P 6804.000000000001 7038.0  Our production is
-P 6804.000000000001 7114.0  Our production is also
-P 6804.000000000001 7186.0  Our production is also available
-P 6804.000000000001 7216.0  Our production is also available for
-P 6804.000000000001 7250.0  Our production is also available for all
-P 6804.000000000001 7276.000000000001  Our production is also available for all age
-P 6804.000000000001 7428.0  Our production is also available for all age categories,
-P 6804.000000000001 7452.0  Our production is also available for all age categories, so
-P 6804.000000000001 7554.000000000001  Our production is also available for all age categories, so younger
-P 6804.000000000001 7654.000000000001  Our production is also available for all age categories, so younger as
-P 6804.000000000001 7678.0  Our production is also available for all age categories, so younger as well
-P 6804.000000000001 7706.0  Our production is also available for all age categories, so younger as well as
-P 6804.000000000001 7744.0  Our production is also available for all age categories, so younger as well as older
-P 6804.000000000001 7808.0  Our production is also available for all age categories, so younger as well as older category
-P 6804.000000000001 7831.999999999999  Our production is also available for all age categories, so younger as well as older category will
-P 6804.000000000001 7884.0  Our production is also available for all age categories, so younger as well as older category will be
-P 6804.000000000001 7980.0  Our production is also available for all age categories, so younger as well as older category will be satisfied
-P 6804.000000000001 8018.000000000001  Our production is also available for all age categories, so younger as well as older category will be satisfied with
-P 6804.000000000001 8045.999999999999  Our production is also available for all age categories, so younger as well as older category will be satisfied with out
-C 6804.000000000001 8158.0  Our production is also available for all age categories, so younger as well as older category will be satisfied with out products.
+P 5796.0 6618.0  We try to combine these motifs with the latest fashion trends, resulting in a timeless pieces of clothes, that should not be missing in any
+C 5796.0 6804.0  We try to combine these motifs with the latest fashion trends, resulting in a timeless pieces of clothes, that should not be missing in any wardrobe.
+P 6804.0 6904.0  Our
+P 6804.0 7018.0  Our production
+P 6804.0 7038.0  Our production is
+P 6804.0 7114.0  Our production is also
+P 6804.0 7186.0  Our production is also available
+P 6804.0 7216.0  Our production is also available for
+P 6804.0 7250.0  Our production is also available for all
+P 6804.0 7276.0  Our production is also available for all age
+P 6804.0 7428.0  Our production is also available for all age categories,
+P 6804.0 7452.0  Our production is also available for all age categories, so
+P 6804.0 7554.0  Our production is also available for all age categories, so younger
+P 6804.0 7654.0  Our production is also available for all age categories, so younger as
+P 6804.0 7678.0  Our production is also available for all age categories, so younger as well
+P 6804.0 7706.0  Our production is also available for all age categories, so younger as well as
+P 6804.0 7744.0  Our production is also available for all age categories, so younger as well as older
+P 6804.0 7808.0  Our production is also available for all age categories, so younger as well as older category
+P 6804.0 7832.0  Our production is also available for all age categories, so younger as well as older category will
+P 6804.0 7884.0  Our production is also available for all age categories, so younger as well as older category will be
+P 6804.0 7980.0  Our production is also available for all age categories, so younger as well as older category will be satisfied
+P 6804.0 8018.0  Our production is also available for all age categories, so younger as well as older category will be satisfied with
+P 6804.0 8046.0  Our production is also available for all age categories, so younger as well as older category will be satisfied with out
+C 6804.0 8158.0  Our production is also available for all age categories, so younger as well as older category will be satisfied with out products.
 P 8158.0 8184.0  When
 P 8158.0 8200.0  When you
 P 8158.0 8284.0  When you order

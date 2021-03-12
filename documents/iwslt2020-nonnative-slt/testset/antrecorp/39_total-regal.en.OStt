@@ -8,7 +8,7 @@ P 38.0 174.0  Hello fellas, my name is <NAME> and
 P 38.0 178.0  Hello fellas, my name is <NAME> and I
 P 38.0 184.0  Hello fellas, my name is <NAME> and I am
 P 38.0 196.0  Hello fellas, my name is <NAME> and I am your
-P 38.0 224.00000000000003  Hello fellas, my name is <NAME> and I am your host
+P 38.0 224.0  Hello fellas, my name is <NAME> and I am your host
 P 38.0 238.0  Hello fellas, my name is <NAME> and I am your host for
 P 38.0 272.0  Hello fellas, my name is <NAME> and I am your host for today's
 P 38.0 350.0  Hello fellas, my name is <NAME> and I am your host for today's infomercial
@@ -17,7 +17,7 @@ P 38.0 384.0  Hello fellas, my name is <NAME> and I am your host for today's inf
 P 38.0 424.0  Hello fellas, my name is <NAME> and I am your host for today's infomercial which is presented
 P 38.0 446.0  Hello fellas, my name is <NAME> and I am your host for today's infomercial which is presented by
 P 38.0 468.0  Hello fellas, my name is <NAME> and I am your host for today's infomercial which is presented by the
-P 38.0 501.99999999999994  Hello fellas, my name is <NAME> and I am your host for today's infomercial which is presented by the most
+P 38.0 502.0  Hello fellas, my name is <NAME> and I am your host for today's infomercial which is presented by the most
 P 38.0 544.0  Hello fellas, my name is <NAME> and I am your host for today's infomercial which is presented by the most famous
 P 38.0 584.0  Hello fellas, my name is <NAME> and I am your host for today's infomercial which is presented by the most famous practice
 P 38.0 628.0  Hello fellas, my name is <NAME> and I am your host for today's infomercial which is presented by the most famous practice firm,
@@ -50,14 +50,14 @@ P 1474.0 1538.0  So,
 P 1474.0 1554.0  So, in
 P 1474.0 1588.0  So, in fact
 P 1474.0 1616.0  So, in fact our
-P 1474.0 1644.0000000000002  So, in fact our chief
+P 1474.0 1644.0  So, in fact our chief
 P 1474.0 1696.0  So, in fact our chief executive
 P 1474.0 1754.0  So, in fact our chief executive officer
-P 1474.0 1773.9999999999998  So, in fact our chief executive officer has
+P 1474.0 1774.0  So, in fact our chief executive officer has
 P 1474.0 1802.0  So, in fact our chief executive officer has led
 P 1474.0 1828.0  So, in fact our chief executive officer has led this
 P 1474.0 1886.0  So, in fact our chief executive officer has led this successful
-P 1474.0 1992.0000000000002  So, in fact our chief executive officer has led this successful organization
+P 1474.0 1992.0  So, in fact our chief executive officer has led this successful organization
 P 1474.0 2036.0  So, in fact our chief executive officer has led this successful organization before
 P 1474.0 2072.0  So, in fact our chief executive officer has led this successful organization before some
 P 1474.0 2084.0  So, in fact our chief executive officer has led this successful organization before some of
@@ -86,17 +86,17 @@ P 2844.0 2940.0  They are obviously in
 P 2844.0 2950.0  They are obviously in the
 C 2844.0 3088.0  They are obviously in the mountains.
 P 3088.0 3170.0  No
-P 3088.0 3202.0000000000005  No just
+P 3088.0 3202.0  No just
 P 3088.0 3240.0  No just kidding,
 P 3088.0 3256.0  No just kidding, we
 P 3088.0 3286.0  No just kidding, we actually
-P 3088.0 3302.0000000000005  No just kidding, we actually do
+P 3088.0 3302.0  No just kidding, we actually do
 P 3088.0 3318.0  No just kidding, we actually do have
 P 3088.0 3342.0  No just kidding, we actually do have real
 P 3088.0 3374.0  No just kidding, we actually do have real cities
 P 3088.0 3408.0  No just kidding, we actually do have real cities besides
 C 3088.0 3474.0  No just kidding, we actually do have real cities besides Vienna.
-P 3474.0 3515.9999999999995  And,
+P 3474.0 3516.0  And,
 P 3474.0 3540.0  And, our
 P 3474.0 3568.0  And, our dress
 C 3474.0 3632.0  And, our dress code?
@@ -104,34 +104,34 @@ P 3632.0 3672.0  Short
 P 3632.0 3714.0  Short skirts
 P 3632.0 3728.0  Short skirts and
 P 3632.0 3760.0  Short skirts and leather
-P 3632.0 3820.0000000000005  Short skirts and leather shorts,
-P 3632.0 3847.9999999999995  Short skirts and leather shorts, no
+P 3632.0 3820.0  Short skirts and leather shorts,
+P 3632.0 3848.0  Short skirts and leather shorts, no
 P 3632.0 3876.0  Short skirts and leather shorts, no just
-C 3632.0 3929.9999999999995  Short skirts and leather shorts, no just kidding.
-P 3929.9999999999995 3946.0  But
-P 3929.9999999999995 3964.0  But we
-P 3929.9999999999995 4000.0  But we actually
-P 3929.9999999999995 4022.0  But we actually might
-P 3929.9999999999995 4052.0000000000005  But we actually might crack
-P 3929.9999999999995 4078.0  But we actually might crack up
-P 3929.9999999999995 4144.0  But we actually might crack up our
-P 3929.9999999999995 4198.0  But we actually might crack up our traditional
-P 3929.9999999999995 4288.0  But we actually might crack up our traditional clothes
-P 3929.9999999999995 4308.0  But we actually might crack up our traditional clothes at
-P 3929.9999999999995 4322.0  But we actually might crack up our traditional clothes at some
-P 3929.9999999999995 4334.0  But we actually might crack up our traditional clothes at some of
-P 3929.9999999999995 4344.0  But we actually might crack up our traditional clothes at some of the
-P 3929.9999999999995 4388.0  But we actually might crack up our traditional clothes at some of the countless
-P 3929.9999999999995 4422.0  But we actually might crack up our traditional clothes at some of the countless parties
-P 3929.9999999999995 4438.0  But we actually might crack up our traditional clothes at some of the countless parties that
-P 3929.9999999999995 4454.0  But we actually might crack up our traditional clothes at some of the countless parties that we
-P 3929.9999999999995 4502.0  But we actually might crack up our traditional clothes at some of the countless parties that we have,
-P 3929.9999999999995 4516.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to
-P 3929.9999999999995 4542.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have
-P 3929.9999999999995 4576.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have one
-P 3929.9999999999995 4594.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have one beer
-P 3929.9999999999995 4604.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have one beer or
-C 3929.9999999999995 4682.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have one beer or something.
+C 3632.0 3930.0  Short skirts and leather shorts, no just kidding.
+P 3930.0 3946.0  But
+P 3930.0 3964.0  But we
+P 3930.0 4000.0  But we actually
+P 3930.0 4022.0  But we actually might
+P 3930.0 4052.0  But we actually might crack
+P 3930.0 4078.0  But we actually might crack up
+P 3930.0 4144.0  But we actually might crack up our
+P 3930.0 4198.0  But we actually might crack up our traditional
+P 3930.0 4288.0  But we actually might crack up our traditional clothes
+P 3930.0 4308.0  But we actually might crack up our traditional clothes at
+P 3930.0 4322.0  But we actually might crack up our traditional clothes at some
+P 3930.0 4334.0  But we actually might crack up our traditional clothes at some of
+P 3930.0 4344.0  But we actually might crack up our traditional clothes at some of the
+P 3930.0 4388.0  But we actually might crack up our traditional clothes at some of the countless
+P 3930.0 4422.0  But we actually might crack up our traditional clothes at some of the countless parties
+P 3930.0 4438.0  But we actually might crack up our traditional clothes at some of the countless parties that
+P 3930.0 4454.0  But we actually might crack up our traditional clothes at some of the countless parties that we
+P 3930.0 4502.0  But we actually might crack up our traditional clothes at some of the countless parties that we have,
+P 3930.0 4516.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to
+P 3930.0 4542.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have
+P 3930.0 4576.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have one
+P 3930.0 4594.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have one beer
+P 3930.0 4604.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have one beer or
+C 3930.0 4682.0  But we actually might crack up our traditional clothes at some of the countless parties that we have, to have one beer or something.
 P 4682.0 4722.0  Alright
 P 4682.0 4752.0  Alright make
 P 4682.0 4764.0  Alright make that
@@ -180,39 +180,39 @@ P 6056.0 6384.0  And... Like the Helping Hand, which is a perfect storage
 P 6056.0 6398.0  And... Like the Helping Hand, which is a perfect storage for
 P 6056.0 6420.0  And... Like the Helping Hand, which is a perfect storage for any
 P 6056.0 6444.0  And... Like the Helping Hand, which is a perfect storage for any kind
-P 6056.0 6454.000000000001  And... Like the Helping Hand, which is a perfect storage for any kind of
-P 6056.0 6526.000000000001  And... Like the Helping Hand, which is a perfect storage for any kind of clothes,
+P 6056.0 6454.0  And... Like the Helping Hand, which is a perfect storage for any kind of
+P 6056.0 6526.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes,
 P 6056.0 6552.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just
 P 6056.0 6572.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like
 P 6056.0 6644.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets,
 P 6056.0 6662.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or
 P 6056.0 6672.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the
-P 6056.0 6759.999999999999  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder
+P 6056.0 6760.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder
 P 6056.0 6780.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where
 P 6056.0 6788.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you
 P 6056.0 6806.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you can
 P 6056.0 6838.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you can stack
-P 6056.0 6854.000000000001  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you can stack up
+P 6056.0 6854.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you can stack up
 P 6056.0 6884.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you can stack up shoes
 P 6056.0 6898.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you can stack up shoes and
-C 6056.0 6968.000000000001  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you can stack up shoes and bags.
-P 6968.000000000001 6994.0  So
-P 6968.000000000001 7020.0  So go
-P 6968.000000000001 7052.0  So go check
-P 6968.000000000001 7072.0  So go check out
-P 6968.000000000001 7095.999999999999  So go check out our
-P 6968.000000000001 7152.0  So go check out our store
-P 6968.000000000001 7166.0  So go check out our store and
-P 6968.000000000001 7188.0  So go check out our store and like
-P 6968.000000000001 7212.0  So go check out our store and like we
-P 6968.000000000001 7228.0  So go check out our store and like we say
-P 6968.000000000001 7238.0  So go check out our store and like we say in
-P 6968.000000000001 7306.0  So go check out our store and like we say in German:
-P 6968.000000000001 7348.0  So go check out our store and like we say in German: "Ihre
-P 6968.000000000001 7416.0  So go check out our store and like we say in German: "Ihre Zufriedenheit
-P 6968.000000000001 7436.0  So go check out our store and like we say in German: "Ihre Zufriedenheit ist
-P 6968.000000000001 7448.0  So go check out our store and like we say in German: "Ihre Zufriedenheit ist uns
-P 6968.000000000001 7476.000000000001  So go check out our store and like we say in German: "Ihre Zufriedenheit ist uns nicht
-C 6968.000000000001 7595.999999999999  So go check out our store and like we say in German: "Ihre Zufriedenheit ist uns nicht egal."
-P 7595.999999999999 7631.999999999999  Thank
-C 7595.999999999999 7640.000000000001  Thank you!
+C 6056.0 6968.0  And... Like the Helping Hand, which is a perfect storage for any kind of clothes, just like jackets, or the Spacewonder where you can stack up shoes and bags.
+P 6968.0 6994.0  So
+P 6968.0 7020.0  So go
+P 6968.0 7052.0  So go check
+P 6968.0 7072.0  So go check out
+P 6968.0 7096.0  So go check out our
+P 6968.0 7152.0  So go check out our store
+P 6968.0 7166.0  So go check out our store and
+P 6968.0 7188.0  So go check out our store and like
+P 6968.0 7212.0  So go check out our store and like we
+P 6968.0 7228.0  So go check out our store and like we say
+P 6968.0 7238.0  So go check out our store and like we say in
+P 6968.0 7306.0  So go check out our store and like we say in German:
+P 6968.0 7348.0  So go check out our store and like we say in German: "Ihre
+P 6968.0 7416.0  So go check out our store and like we say in German: "Ihre Zufriedenheit
+P 6968.0 7436.0  So go check out our store and like we say in German: "Ihre Zufriedenheit ist
+P 6968.0 7448.0  So go check out our store and like we say in German: "Ihre Zufriedenheit ist uns
+P 6968.0 7476.0  So go check out our store and like we say in German: "Ihre Zufriedenheit ist uns nicht
+C 6968.0 7596.0  So go check out our store and like we say in German: "Ihre Zufriedenheit ist uns nicht egal."
+P 7596.0 7632.0  Thank
+C 7596.0 7640.0  Thank you!

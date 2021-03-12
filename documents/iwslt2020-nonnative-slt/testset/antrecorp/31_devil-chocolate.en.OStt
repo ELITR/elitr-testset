@@ -5,7 +5,7 @@ P 30.0 160.0  Hello, my name is
 P 30.0 172.0  Hello, my name is and
 P 30.0 188.0  Hello, my name is and I
 P 30.0 208.0  Hello, my name is and I am
-P 30.0 218.00000000000003  Hello, my name is and I am the
+P 30.0 218.0  Hello, my name is and I am the
 P 30.0 282.0  Hello, my name is and I am the director
 P 30.0 298.0  Hello, my name is and I am the director of
 P 30.0 344.0  Hello, my name is and I am the director of Devil
@@ -19,10 +19,10 @@ P 638.0 696.0  This is my
 C 638.0 760.0  This is my assistant.
 P 760.0 784.0  We
 P 760.0 802.0  We would
-P 760.0 827.9999999999999  We would like
-P 760.0 846.0000000000001  We would like to
-P 760.0 919.9999999999999  We would like to introduce
-P 760.0 961.9999999999999  We would like to introduce our
+P 760.0 828.0  We would like
+P 760.0 846.0  We would like to
+P 760.0 920.0  We would like to introduce
+P 760.0 962.0  We would like to introduce our
 C 760.0 1062.0  We would like to introduce our company.
 P 1062.0 1092.0  Our
 P 1062.0 1164.0  Our company
@@ -57,26 +57,26 @@ P 3282.0 3560.0  We have
 P 3282.0 3600.0  We have wide
 P 3282.0 3724.0  We have wide selection
 P 3282.0 3746.0  We have wide selection of
-C 3282.0 3915.9999999999995  We have wide selection of them.
-P 3915.9999999999995 3940.0  We
-P 3915.9999999999995 4018.0  We specialized
-P 3915.9999999999995 4032.0  We specialized in
-P 3915.9999999999995 4054.0  We specialized in some
-P 3915.9999999999995 4148.0  We specialized in some products
-P 3915.9999999999995 4176.0  We specialized in some products and
-P 3915.9999999999995 4250.0  We specialized in some products and we
-P 3915.9999999999995 4268.0  We specialized in some products and we have
-P 3915.9999999999995 4322.0  We specialized in some products and we have chocolate
-P 3915.9999999999995 4342.0  We specialized in some products and we have chocolate in
-P 3915.9999999999995 4384.0  We specialized in some products and we have chocolate in different
-P 3915.9999999999995 4450.0  We specialized in some products and we have chocolate in different flavours
-P 3915.9999999999995 4480.0  We specialized in some products and we have chocolate in different flavours such
-P 3915.9999999999995 4494.0  We specialized in some products and we have chocolate in different flavours such as
-P 3915.9999999999995 4572.0  We specialized in some products and we have chocolate in different flavours such as lemon,
-P 3915.9999999999995 4606.0  We specialized in some products and we have chocolate in different flavours such as lemon, black
-P 3915.9999999999995 4658.0  We specialized in some products and we have chocolate in different flavours such as lemon, black currant
-P 3915.9999999999995 4672.0  We specialized in some products and we have chocolate in different flavours such as lemon, black currant and
-C 3915.9999999999995 4766.0  We specialized in some products and we have chocolate in different flavours such as lemon, black currant and nougat.
+C 3282.0 3916.0  We have wide selection of them.
+P 3916.0 3940.0  We
+P 3916.0 4018.0  We specialized
+P 3916.0 4032.0  We specialized in
+P 3916.0 4054.0  We specialized in some
+P 3916.0 4148.0  We specialized in some products
+P 3916.0 4176.0  We specialized in some products and
+P 3916.0 4250.0  We specialized in some products and we
+P 3916.0 4268.0  We specialized in some products and we have
+P 3916.0 4322.0  We specialized in some products and we have chocolate
+P 3916.0 4342.0  We specialized in some products and we have chocolate in
+P 3916.0 4384.0  We specialized in some products and we have chocolate in different
+P 3916.0 4450.0  We specialized in some products and we have chocolate in different flavours
+P 3916.0 4480.0  We specialized in some products and we have chocolate in different flavours such
+P 3916.0 4494.0  We specialized in some products and we have chocolate in different flavours such as
+P 3916.0 4572.0  We specialized in some products and we have chocolate in different flavours such as lemon,
+P 3916.0 4606.0  We specialized in some products and we have chocolate in different flavours such as lemon, black
+P 3916.0 4658.0  We specialized in some products and we have chocolate in different flavours such as lemon, black currant
+P 3916.0 4672.0  We specialized in some products and we have chocolate in different flavours such as lemon, black currant and
+C 3916.0 4766.0  We specialized in some products and we have chocolate in different flavours such as lemon, black currant and nougat.
 P 4766.0 4790.0  We
 P 4766.0 4830.0  We also
 P 4766.0 4848.0  We also have
@@ -114,7 +114,7 @@ P 6320.0 6338.0  You
 P 6320.0 6358.0  You can
 P 6320.0 6392.0  You can follow
 P 6320.0 6428.0  You can follow us
-P 6320.0 6445.999999999999  You can follow us on
+P 6320.0 6446.0  You can follow us on
 P 6320.0 6516.0  You can follow us on social
 P 6320.0 6594.0  You can follow us on social networks,
 P 6320.0 6614.0  You can follow us on social networks, for
@@ -123,9 +123,9 @@ P 6320.0 6738.0  You can follow us on social networks, for example Facebook
 P 6320.0 6756.0  You can follow us on social networks, for example Facebook and
 C 6320.0 6878.0  You can follow us on social networks, for example Facebook and Instagram.
 P 6878.0 6908.0  We
-P 6878.0 6954.000000000001  We also
+P 6878.0 6954.0  We also
 P 6878.0 6980.0  We also have
-P 6878.0 7009.999999999999  We also have our
+P 6878.0 7010.0  We also have our
 P 6878.0 7098.0  We also have our website
 P 6878.0 7128.0  We also have our website and
 P 6878.0 7250.0  We also have our website and e-shop
@@ -137,18 +137,18 @@ P 6878.0 7422.0  We also have our website and e-shop and you can contact us
 P 6878.0 7444.0  We also have our website and e-shop and you can contact us on
 P 6878.0 7470.0  We also have our website and e-shop and you can contact us on our
 P 6878.0 7530.0  We also have our website and e-shop and you can contact us on our email
-P 6878.0 7554.000000000001  We also have our website and e-shop and you can contact us on our email or
+P 6878.0 7554.0  We also have our website and e-shop and you can contact us on our email or
 P 6878.0 7584.0  We also have our website and e-shop and you can contact us on our email or phone
 P 6878.0 7622.0  We also have our website and e-shop and you can contact us on our email or phone number
 C 6878.0 7686.0  We also have our website and e-shop and you can contact us on our email or phone number too.
 P 7686.0 7720.0  Thank
-P 7686.0 7773.999999999999  Thank you
-P 7686.0 7795.999999999999  Thank you for
+P 7686.0 7774.0  Thank you
+P 7686.0 7796.0  Thank you for
 P 7686.0 7816.0  Thank you for your
 C 7686.0 7912.0  Thank you for your attention.
 P 7912.0 7934.0  We
-P 7912.0 7954.000000000001  We are
+P 7912.0 7954.0  We are
 P 7912.0 8000.0  We are Devil
-P 7912.0 8068.000000000001  We are Devil Chocolate
+P 7912.0 8068.0  We are Devil Chocolate
 P 7912.0 8094.0  We are Devil Chocolate for
 C 7912.0 8106.0  We are Devil Chocolate for you.

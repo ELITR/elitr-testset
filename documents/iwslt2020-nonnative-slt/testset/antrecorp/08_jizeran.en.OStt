@@ -7,16 +7,16 @@ P 80.0 266.0  So, hello, I want to introduce
 P 80.0 294.0  So, hello, I want to introduce you
 P 80.0 364.0  So, hello, I want to introduce you our
 P 80.0 420.0  So, hello, I want to introduce you our company
-P 80.0 448.00000000000006  So, hello, I want to introduce you our company called
-C 80.0 498.00000000000006  So, hello, I want to introduce you our company called Jizeran.
-P 498.00000000000006 518.0  We
-P 498.00000000000006 544.0  We are
-P 498.00000000000006 574.0  We are from
-P 498.00000000000006 732.0  We are from Liberec
-P 498.00000000000006 786.0  We are from Liberec and
-P 498.00000000000006 810.0  We are from Liberec and we
-P 498.00000000000006 832.0  We are from Liberec and we brew
-C 498.00000000000006 908.0  We are from Liberec and we brew beer.
+P 80.0 448.0  So, hello, I want to introduce you our company called
+C 80.0 498.0  So, hello, I want to introduce you our company called Jizeran.
+P 498.0 518.0  We
+P 498.0 544.0  We are
+P 498.0 574.0  We are from
+P 498.0 732.0  We are from Liberec
+P 498.0 786.0  We are from Liberec and
+P 498.0 810.0  We are from Liberec and we
+P 498.0 832.0  We are from Liberec and we brew
+C 498.0 908.0  We are from Liberec and we brew beer.
 P 908.0 1014.0  So,
 P 908.0 1034.0  So, we
 P 908.0 1076.0  So, we started
@@ -39,31 +39,31 @@ P 908.0 1622.0  So, we started as a small, small group of friends that just want
 P 908.0 1648.0  So, we started as a small, small group of friends that just wanted to brew beer and after some time
 P 908.0 1666.0  So, we started as a small, small group of friends that just wanted to brew beer and after some time we
 P 908.0 1688.0  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find
-P 908.0 1710.0000000000002  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out
-P 908.0 1723.9999999999998  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out that
+P 908.0 1710.0  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out
+P 908.0 1724.0  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out that
 P 908.0 1778.0  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out that everybody
-P 908.0 1805.9999999999998  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out that everybody likes
-C 908.0 1894.0000000000002  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out that everybody likes it.
-P 1894.0000000000002 1928.0  we
-P 1894.0000000000002 1960.0000000000002  we give
-P 1894.0000000000002 1970.0  we give it
-P 1894.0000000000002 1980.0  we give it to
-P 1894.0000000000002 2000.0  we give it to our
-P 1894.0000000000002 2032.0  we give it to our friends
-P 1894.0000000000002 2039.9999999999998  we give it to our friends and
-P 1894.0000000000002 2052.0  we give it to our friends and they
-P 1894.0000000000002 2080.0  we give it to our friends and they likes
-P 1894.0000000000002 2104.0  we give it to our friends and they likes it,
-P 1894.0000000000002 2218.0  we give it to our friends and they likes it, so
-P 1894.0000000000002 2242.0  we give it to our friends and they likes it, so we
-P 1894.0000000000002 2270.0  we give it to our friends and they likes it, so we start
-P 1894.0000000000002 2284.0  we give it to our friends and they likes it, so we start to
-P 1894.0000000000002 2396.0  we give it to our friends and they likes it, so we start to export
-P 1894.0000000000002 2540.0  we give it to our friends and they likes it, so we start to export internationally
-P 1894.0000000000002 2566.0  we give it to our friends and they likes it, so we start to export internationally and
-P 1894.0000000000002 2600.0  we give it to our friends and they likes it, so we start to export internationally and brew
-P 1894.0000000000002 2614.0  we give it to our friends and they likes it, so we start to export internationally and brew in
-C 1894.0000000000002 2692.0  we give it to our friends and they likes it, so we start to export internationally and brew in big.
+P 908.0 1806.0  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out that everybody likes
+C 908.0 1894.0  So, we started as a small, small group of friends that just wanted to brew beer and after some time we find out that everybody likes it.
+P 1894.0 1928.0  we
+P 1894.0 1960.0  we give
+P 1894.0 1970.0  we give it
+P 1894.0 1980.0  we give it to
+P 1894.0 2000.0  we give it to our
+P 1894.0 2032.0  we give it to our friends
+P 1894.0 2040.0  we give it to our friends and
+P 1894.0 2052.0  we give it to our friends and they
+P 1894.0 2080.0  we give it to our friends and they likes
+P 1894.0 2104.0  we give it to our friends and they likes it,
+P 1894.0 2218.0  we give it to our friends and they likes it, so
+P 1894.0 2242.0  we give it to our friends and they likes it, so we
+P 1894.0 2270.0  we give it to our friends and they likes it, so we start
+P 1894.0 2284.0  we give it to our friends and they likes it, so we start to
+P 1894.0 2396.0  we give it to our friends and they likes it, so we start to export
+P 1894.0 2540.0  we give it to our friends and they likes it, so we start to export internationally
+P 1894.0 2566.0  we give it to our friends and they likes it, so we start to export internationally and
+P 1894.0 2600.0  we give it to our friends and they likes it, so we start to export internationally and brew
+P 1894.0 2614.0  we give it to our friends and they likes it, so we start to export internationally and brew in
+C 1894.0 2692.0  we give it to our friends and they likes it, so we start to export internationally and brew in big.
 P 2692.0 2718.0  Now
 P 2692.0 2752.0  Now we
 P 2692.0 2824.0  Now we offer
@@ -77,24 +77,24 @@ P 2970.0 3150.0  Reichenbier number ten,
 P 2970.0 3210.0  Reichenbier number ten, Reichenbier
 P 2970.0 3310.0  Reichenbier number ten, Reichenbier eleven,
 P 2970.0 3376.0  Reichenbier number ten, Reichenbier eleven, Reichenbier
-P 2970.0 3447.9999999999995  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen
+P 2970.0 3448.0  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen
 P 2970.0 3554.0  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and
-P 2970.0 3588.0000000000005  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our
+P 2970.0 3588.0  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our
 P 2970.0 3660.0  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our special,
-P 2970.0 3729.9999999999995  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our special, dark
-P 2970.0 3888.0000000000005  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our special, dark special,
-C 2970.0 4047.9999999999995  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our special, dark special, fifteen.
-P 4047.9999999999995 4086.0  We
-P 4047.9999999999995 4118.0  We offer
-P 4047.9999999999995 4142.0  We offer our
-P 4047.9999999999995 4198.0  We offer our beer
-P 4047.9999999999995 4242.0  We offer our beer in
-P 4047.9999999999995 4334.0  We offer our beer in can,
-P 4047.9999999999995 4442.0  We offer our beer in can, bottle,
-P 4047.9999999999995 4558.0  We offer our beer in can, bottle, barrel
-P 4047.9999999999995 4616.0  We offer our beer in can, bottle, barrel and
-P 4047.9999999999995 4650.0  We offer our beer in can, bottle, barrel and pet
-C 4047.9999999999995 4832.0  We offer our beer in can, bottle, barrel and pet bottle.
+P 2970.0 3730.0  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our special, dark
+P 2970.0 3888.0  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our special, dark special,
+C 2970.0 4048.0  Reichenbier number ten, Reichenbier eleven, Reichenbier thirteen and our special, dark special, fifteen.
+P 4048.0 4086.0  We
+P 4048.0 4118.0  We offer
+P 4048.0 4142.0  We offer our
+P 4048.0 4198.0  We offer our beer
+P 4048.0 4242.0  We offer our beer in
+P 4048.0 4334.0  We offer our beer in can,
+P 4048.0 4442.0  We offer our beer in can, bottle,
+P 4048.0 4558.0  We offer our beer in can, bottle, barrel
+P 4048.0 4616.0  We offer our beer in can, bottle, barrel and
+P 4048.0 4650.0  We offer our beer in can, bottle, barrel and pet
+C 4048.0 4832.0  We offer our beer in can, bottle, barrel and pet bottle.
 P 4832.0 4880.0  And,
 P 4832.0 5202.0  And, we, ...
 P 4832.0 5226.0  And, we, ... our
@@ -124,14 +124,14 @@ P 5738.0 6252.0  Now, I'm glad that you all listened to me and if you would like
 P 5738.0 6286.0  Now, I'm glad that you all listened to me and if you would like to taste
 P 5738.0 6306.0  Now, I'm glad that you all listened to me and if you would like to taste our
 P 5738.0 6390.0  Now, I'm glad that you all listened to me and if you would like to taste our beer
-P 5738.0 6418.000000000001  Now, I'm glad that you all listened to me and if you would like to taste our beer you
+P 5738.0 6418.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you
 P 5738.0 6438.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you can
 P 5738.0 6470.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you can visit
 P 5738.0 6506.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you can visit us
 P 5738.0 6562.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you can visit us at
 P 5738.0 6622.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you can visit us at stand
 P 5738.0 6666.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you can visit us at stand number
-P 5738.0 6709.999999999999  Now, I'm glad that you all listened to me and if you would like to taste our beer you can visit us at stand number forty
+P 5738.0 6710.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you can visit us at stand number forty
 C 5738.0 6852.0  Now, I'm glad that you all listened to me and if you would like to taste our beer you can visit us at stand number forty five.
-P 6852.0 6876.000000000001  Thank
+P 6852.0 6876.0  Thank
 C 6852.0 6888.0  Thank you.

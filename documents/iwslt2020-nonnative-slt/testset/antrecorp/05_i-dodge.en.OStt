@@ -1,22 +1,22 @@
-P 204.0 224.00000000000003  Nice
+P 204.0 224.0  Nice
 P 204.0 270.0  Nice weather
 C 204.0 362.0  Nice weather outside...
-P 362.0 413.99999999999994  Yes,
+P 362.0 414.0  Yes,
 P 362.0 420.0  Yes, it
 P 362.0 442.0  Yes, it is
 P 362.0 472.0  Yes, it is quite
 P 362.0 500.0  Yes, it is quite hot
 C 362.0 638.0  Yes, it is quite hot today.
 P 638.0 776.0  Well,
-P 638.0 811.9999999999999  Well, yeah,
-P 638.0 838.0000000000001  Well, yeah, I
+P 638.0 812.0  Well, yeah,
+P 638.0 838.0  Well, yeah, I
 P 638.0 866.0  Well, yeah, I think
 P 638.0 884.0  Well, yeah, I think it's
 P 638.0 890.0  Well, yeah, I think it's a
 P 638.0 910.0  Well, yeah, I think it's a very
 P 638.0 932.0  Well, yeah, I think it's a very good
-P 638.0 961.9999999999999  Well, yeah, I think it's a very good day
-P 638.0 972.0000000000001  Well, yeah, I think it's a very good day to
+P 638.0 962.0  Well, yeah, I think it's a very good day
+P 638.0 972.0  Well, yeah, I think it's a very good day to
 P 638.0 992.0  Well, yeah, I think it's a very good day to have
 P 638.0 1024.0  Well, yeah, I think it's a very good day to have dinner,
 P 638.0 1048.0  Well, yeah, I think it's a very good day to have dinner, don't
@@ -40,11 +40,11 @@ P 1478.0 1588.0  I know an amazing
 P 1478.0 1634.0  I know an amazing Venetian
 C 1478.0 1714.0  I know an amazing Venetian entrepreneur.
 P 1714.0 1728.0  Who
-P 1714.0 1739.9999999999998  Who is
+P 1714.0 1740.0  Who is
 C 1714.0 1784.0  Who is he?
 P 1784.0 1814.0  He's
-P 1784.0 1842.0000000000002  He's right
-P 1784.0 1855.9999999999998  He's right in
+P 1784.0 1842.0  He's right
+P 1784.0 1856.0  He's right in
 P 1784.0 1878.0  He's right in front
 P 1784.0 1888.0  He's right in front of
 C 1784.0 2002.0  He's right in front of you.
@@ -95,18 +95,18 @@ P 2996.0 3346.0  Exactly what I said, my Lambo was delivered yesterday from
 P 2996.0 3394.0  Exactly what I said, my Lambo was delivered yesterday from Italy
 P 2996.0 3410.0  Exactly what I said, my Lambo was delivered yesterday from Italy by
 P 2996.0 3424.0  Exactly what I said, my Lambo was delivered yesterday from Italy by my
-C 2996.0 3534.0000000000005  Exactly what I said, my Lambo was delivered yesterday from Italy by my enterprise.
-P 3534.0000000000005 3561.9999999999995  So
-P 3534.0000000000005 3579.9999999999995  So you
-P 3534.0000000000005 3602.0000000000005  So you deal
-P 3534.0000000000005 3615.9999999999995  So you deal with
-C 3534.0000000000005 3722.0  So you deal with transports?
+C 2996.0 3534.0  Exactly what I said, my Lambo was delivered yesterday from Italy by my enterprise.
+P 3534.0 3562.0  So
+P 3534.0 3580.0  So you
+P 3534.0 3602.0  So you deal
+P 3534.0 3616.0  So you deal with
+C 3534.0 3722.0  So you deal with transports?
 P 3722.0 3758.0  Yes,
 P 3722.0 3778.0  Yes, I
 P 3722.0 3794.0  Yes, I own
-P 3722.0 3802.0000000000005  Yes, I own a
+P 3722.0 3802.0  Yes, I own a
 P 3722.0 3840.0  Yes, I own a company
-P 3722.0 3879.9999999999995  Yes, I own a company based
+P 3722.0 3880.0  Yes, I own a company based
 P 3722.0 3896.0  Yes, I own a company based in
 P 3722.0 3958.0  Yes, I own a company based in Venice,
 P 3722.0 3982.0  Yes, I own a company based in Venice, its
@@ -174,64 +174,64 @@ P 5244.0 5916.0  And not only that, we started in two thousand sixteen, not too 
 P 5244.0 6862.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism
 P 5244.0 6878.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in
 P 5244.0 6908.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact
-P 5244.0 6918.000000000001  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they
+P 5244.0 6918.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they
 P 5244.0 6938.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they give
 P 5244.0 6944.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they give us
-P 5244.0 6973.999999999999  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they give us excellent
+P 5244.0 6974.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they give us excellent
 P 5244.0 7000.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they give us excellent feedbacks
 P 5244.0 7008.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they give us excellent feedbacks and
 C 5244.0 7028.0  And not only that, we started in two thousand sixteen, not too long ago, but actually our customers trust us, we're very well known for our professionalism in fact they give us excellent feedbacks and reviews.
 P 7028.0 7050.0  And
-P 7028.0 7073.999999999999  And that's
+P 7028.0 7074.0  And that's
 P 7028.0 7088.0  And that's why
 P 7028.0 7200.0  And that's why tonight
 P 7028.0 7222.0  And that's why tonight I'll
-P 7028.0 7231.999999999999  And that's why tonight I'll take
+P 7028.0 7232.0  And that's why tonight I'll take
 P 7028.0 7248.0  And that's why tonight I'll take you
-P 7028.0 7276.000000000001  And that's why tonight I'll take you to
+P 7028.0 7276.0  And that's why tonight I'll take you to
 P 7028.0 7302.0  And that's why tonight I'll take you to Mario's
-P 7028.0 7331.999999999999  And that's why tonight I'll take you to Mario's restaurant,
+P 7028.0 7332.0  And that's why tonight I'll take you to Mario's restaurant,
 P 7028.0 7338.0  And that's why tonight I'll take you to Mario's restaurant, so
 P 7028.0 7384.0  And that's why tonight I'll take you to Mario's restaurant, so you'll
-P 7028.0 7404.000000000001  And that's why tonight I'll take you to Mario's restaurant, so you'll be
+P 7028.0 7404.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be
 P 7028.0 7438.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be able
 P 7028.0 7450.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to
 P 7028.0 7464.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste
-P 7028.0 7476.000000000001  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta
-P 7028.0 7504.000000000001  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta produced
-P 7028.0 7509.999999999999  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta produced by
-P 7028.0 7518.000000000001  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta produced by our
+P 7028.0 7476.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta
+P 7028.0 7504.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta produced
+P 7028.0 7510.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta produced by
+P 7028.0 7518.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta produced by our
 C 7028.0 7538.0  And that's why tonight I'll take you to Mario's restaurant, so you'll be able to taste pasta produced by our machinery.
-P 7538.0 7554.000000000001  Boy,
+P 7538.0 7554.0  Boy,
 P 7538.0 7562.0  Boy, you
 P 7538.0 7606.0  Boy, you look
-P 7538.0 7626.000000000001  Boy, you look too
+P 7538.0 7626.0  Boy, you look too
 C 7538.0 7648.0  Boy, you look too confident.
-P 7648.0 7659.999999999999  That's
-P 7648.0 7704.000000000001  That's because
+P 7648.0 7660.0  That's
+P 7648.0 7704.0  That's because
 P 7648.0 7712.0  That's because I'm
-P 7648.0 7723.999999999999  That's because I'm proud
+P 7648.0 7724.0  That's because I'm proud
 P 7648.0 7730.0  That's because I'm proud of
-P 7648.0 7740.000000000001  That's because I'm proud of what
+P 7648.0 7740.0  That's because I'm proud of what
 P 7648.0 7744.0  That's because I'm proud of what I
 C 7648.0 7750.0  That's because I'm proud of what I do.
 P 7750.0 7766.0  So,
-P 7750.0 7781.999999999999  So, will
-P 7750.0 7790.000000000001  So, will you
+P 7750.0 7782.0  So, will
+P 7750.0 7790.0  So, will you
 P 7750.0 7800.0  So, will you wait
-P 7750.0 7809.999999999999  So, will you wait for
+P 7750.0 7810.0  So, will you wait for
 P 7750.0 7816.0  So, will you wait for me
 P 7750.0 7822.0  So, will you wait for me at
 P 7750.0 7842.0  So, will you wait for me at your
-C 7750.0 8009.999999999999  So, will you wait for me at your place?
-P 8009.999999999999 8022.0  Oh,
-P 8009.999999999999 8034.0  Oh, I'm
-P 8009.999999999999 8062.0  Oh, I'm so
-P 8009.999999999999 8100.0  Oh, I'm so pleased
-P 8009.999999999999 8118.000000000001  Oh, I'm so pleased but
-P 8009.999999999999 8148.0  Oh, I'm so pleased but I'm
-P 8009.999999999999 8181.999999999999  Oh, I'm so pleased but I'm already
-C 8009.999999999999 8240.0  Oh, I'm so pleased but I'm already engaged.
+C 7750.0 8010.0  So, will you wait for me at your place?
+P 8010.0 8022.0  Oh,
+P 8010.0 8034.0  Oh, I'm
+P 8010.0 8062.0  Oh, I'm so
+P 8010.0 8100.0  Oh, I'm so pleased
+P 8010.0 8118.0  Oh, I'm so pleased but
+P 8010.0 8148.0  Oh, I'm so pleased but I'm
+P 8010.0 8182.0  Oh, I'm so pleased but I'm already
+C 8010.0 8240.0  Oh, I'm so pleased but I'm already engaged.
 P 8240.0 8276.0  Oh
 P 8240.0 8356.0  Oh I'm
 P 8240.0 8392.0  Oh I'm used

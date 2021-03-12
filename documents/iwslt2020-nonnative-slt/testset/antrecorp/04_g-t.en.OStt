@@ -1,33 +1,33 @@
-P 56.00000000000001 80.0  So,
-P 56.00000000000001 113.99999999999999  So, hello
-P 56.00000000000001 216.0  So, hello everyone,
-P 56.00000000000001 248.0  So, hello everyone, my
-P 56.00000000000001 268.0  So, hello everyone, my name
-P 56.00000000000001 288.0  So, hello everyone, my name is
-P 56.00000000000001 298.0  So, hello everyone, my name is <NAME>
-P 56.00000000000001 310.0  So, hello everyone, my name is <NAME> and
-P 56.00000000000001 324.0  So, hello everyone, my name is <NAME> and I
-P 56.00000000000001 352.0  So, hello everyone, my name is <NAME> and I want
-P 56.00000000000001 412.0  So, hello everyone, my name is <NAME> and I want to,
-P 56.00000000000001 428.0  So, hello everyone, my name is <NAME> and I want to, and
-P 56.00000000000001 442.0  So, hello everyone, my name is <NAME> and I want to, and I
-P 56.00000000000001 462.0  So, hello everyone, my name is <NAME> and I want to, and I would
-P 56.00000000000001 486.00000000000006  So, hello everyone, my name is <NAME> and I want to, and I would like
-P 56.00000000000001 496.0  So, hello everyone, my name is <NAME> and I want to, and I would like to
-P 56.00000000000001 620.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent
-P 56.00000000000001 648.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the
-P 56.00000000000001 672.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G
-P 56.00000000000001 686.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G and
-P 56.00000000000001 704.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G and T
-P 56.00000000000001 748.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G and T LTD
-C 56.00000000000001 830.0000000000001  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G and T LTD company.
-P 830.0000000000001 852.0  I
-P 830.0000000000001 861.9999999999999  I am
-P 830.0000000000001 906.0  I am member
-P 830.0000000000001 972.0000000000001  I am member of
-P 830.0000000000001 1010.0  I am member of a
-P 830.0000000000001 1066.0  I am member of a management
-C 830.0000000000001 1170.0  I am member of a management department.
+P 56.0 80.0  So,
+P 56.0 114.0  So, hello
+P 56.0 216.0  So, hello everyone,
+P 56.0 248.0  So, hello everyone, my
+P 56.0 268.0  So, hello everyone, my name
+P 56.0 288.0  So, hello everyone, my name is
+P 56.0 298.0  So, hello everyone, my name is <NAME>
+P 56.0 310.0  So, hello everyone, my name is <NAME> and
+P 56.0 324.0  So, hello everyone, my name is <NAME> and I
+P 56.0 352.0  So, hello everyone, my name is <NAME> and I want
+P 56.0 412.0  So, hello everyone, my name is <NAME> and I want to,
+P 56.0 428.0  So, hello everyone, my name is <NAME> and I want to, and
+P 56.0 442.0  So, hello everyone, my name is <NAME> and I want to, and I
+P 56.0 462.0  So, hello everyone, my name is <NAME> and I want to, and I would
+P 56.0 486.0  So, hello everyone, my name is <NAME> and I want to, and I would like
+P 56.0 496.0  So, hello everyone, my name is <NAME> and I want to, and I would like to
+P 56.0 620.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent
+P 56.0 648.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the
+P 56.0 672.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G
+P 56.0 686.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G and
+P 56.0 704.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G and T
+P 56.0 748.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G and T LTD
+C 56.0 830.0  So, hello everyone, my name is <NAME> and I want to, and I would like to represent the G and T LTD company.
+P 830.0 852.0  I
+P 830.0 862.0  I am
+P 830.0 906.0  I am member
+P 830.0 972.0  I am member of
+P 830.0 1010.0  I am member of a
+P 830.0 1066.0  I am member of a management
+C 830.0 1170.0  I am member of a management department.
 P 1170.0 1188.0  We
 P 1170.0 1204.0  We are
 P 1170.0 1226.0  We are from
@@ -40,30 +40,30 @@ P 1170.0 1430.0  We are from Czech Republic and we study at
 P 1170.0 1468.0  We are from Czech Republic and we study at business
 C 1170.0 1560.0  We are from Czech Republic and we study at business academy.
 P 1560.0 1580.0  The
-P 1560.0 1673.9999999999998  The headquarter
+P 1560.0 1674.0  The headquarter
 P 1560.0 1732.0  The headquarter of
 P 1560.0 1798.0  The headquarter of company
 P 1560.0 1830.0  The headquarter of company is
 P 1560.0 1852.0  The headquarter of company is in
-C 1560.0 1973.9999999999998  The headquarter of company is in Neveklov.
-P 1973.9999999999998 2018.0  Today
-P 1973.9999999999998 2034.0  Today I
-P 1973.9999999999998 2048.0  Today I am
-P 1973.9999999999998 2068.0  Today I am here
-P 1973.9999999999998 2102.0  Today I am here because
-P 1973.9999999999998 2120.0  Today I am here because I
-P 1973.9999999999998 2140.0  Today I am here because I want
-P 1973.9999999999998 2160.0  Today I am here because I want to
-P 1973.9999999999998 2238.0  Today I am here because I want to intro...
-P 1973.9999999999998 2260.0  Today I am here because I want to intro... I
-P 1973.9999999999998 2312.0  Today I am here because I want to intro... I want
-P 1973.9999999999998 2328.0  Today I am here because I want to intro... I want I
-P 1973.9999999999998 2352.0  Today I am here because I want to intro... I want I would
-P 1973.9999999999998 2376.0  Today I am here because I want to intro... I want I would like
-P 1973.9999999999998 2422.0  Today I am here because I want to intro... I want I would like to
-P 1973.9999999999998 2496.0  Today I am here because I want to intro... I want I would like to represent
-P 1973.9999999999998 2598.0  Today I am here because I want to intro... I want I would like to represent my
-C 1973.9999999999998 2768.0  Today I am here because I want to intro... I want I would like to represent my company.
+C 1560.0 1974.0  The headquarter of company is in Neveklov.
+P 1974.0 2018.0  Today
+P 1974.0 2034.0  Today I
+P 1974.0 2048.0  Today I am
+P 1974.0 2068.0  Today I am here
+P 1974.0 2102.0  Today I am here because
+P 1974.0 2120.0  Today I am here because I
+P 1974.0 2140.0  Today I am here because I want
+P 1974.0 2160.0  Today I am here because I want to
+P 1974.0 2238.0  Today I am here because I want to intro...
+P 1974.0 2260.0  Today I am here because I want to intro... I
+P 1974.0 2312.0  Today I am here because I want to intro... I want
+P 1974.0 2328.0  Today I am here because I want to intro... I want I
+P 1974.0 2352.0  Today I am here because I want to intro... I want I would
+P 1974.0 2376.0  Today I am here because I want to intro... I want I would like
+P 1974.0 2422.0  Today I am here because I want to intro... I want I would like to
+P 1974.0 2496.0  Today I am here because I want to intro... I want I would like to represent
+P 1974.0 2598.0  Today I am here because I want to intro... I want I would like to represent my
+C 1974.0 2768.0  Today I am here because I want to intro... I want I would like to represent my company.
 P 2768.0 2848.0  Our
 P 2768.0 2900.0  Our company
 P 2768.0 2936.0  Our company is
@@ -76,20 +76,20 @@ P 2768.0 3118.0  Our company is LTD company but we are not
 P 2768.0 3128.0  Our company is LTD company but we are not a
 P 2768.0 3168.0  Our company is LTD company but we are not a big
 C 2768.0 3268.0  Our company is LTD company but we are not a big firm.
-P 3268.0 3297.9999999999995  Our
+P 3268.0 3298.0  Our
 P 3268.0 3346.0  Our company
-P 3268.0 3361.9999999999995  Our company have
-P 3268.0 3402.0000000000005  Our company have seven
-P 3268.0 3461.9999999999995  Our company have seven employees
+P 3268.0 3362.0  Our company have
+P 3268.0 3402.0  Our company have seven
+P 3268.0 3462.0  Our company have seven employees
 P 3268.0 3486.0  Our company have seven employees and
-P 3268.0 3511.9999999999995  Our company have seven employees and three
+P 3268.0 3512.0  Our company have seven employees and three
 C 3268.0 3704.0  Our company have seven employees and three departments.
 P 3704.0 3822.0  The
 P 3704.0 3850.0  The first
 P 3704.0 3910.0  The first department
 P 3704.0 3936.0  The first department is
 P 3704.0 3990.0  The first department is business
-P 3704.0 4070.0000000000005  The first department is business department,
+P 3704.0 4070.0  The first department is business department,
 P 3704.0 4090.0  The first department is business department, the
 P 3704.0 4124.0  The first department is business department, the next
 P 3704.0 4182.0  The first department is business department, the next is
@@ -141,18 +141,18 @@ C 6310.0 6756.0  We produce promotion things too.
 P 6756.0 6828.0  For
 P 6756.0 6886.0  For example
 P 6756.0 6992.0  For example we
-P 6756.0 7095.999999999999  For example we make
+P 6756.0 7096.0  For example we make
 P 6756.0 7162.0  For example we make business
 P 6756.0 7214.0  For example we make business cards
 P 6756.0 7244.0  For example we make business cards and
 C 6756.0 7398.0  For example we make business cards and catalogues.
 P 7398.0 7416.0  In
 P 7398.0 7428.0  In the
-P 7398.0 7454.000000000001  In the end
+P 7398.0 7454.0  In the end
 P 7398.0 7466.0  In the end of
 P 7398.0 7488.0  In the end of my
-P 7398.0 7526.000000000001  In the end of my speech
-P 7398.0 7540.000000000001  In the end of my speech I
+P 7398.0 7526.0  In the end of my speech
+P 7398.0 7540.0  In the end of my speech I
 P 7398.0 7562.0  In the end of my speech I would
 P 7398.0 7588.0  In the end of my speech I would like
 P 7398.0 7606.0  In the end of my speech I would like to
@@ -162,7 +162,7 @@ P 7398.0 7702.0  In the end of my speech I would like to thank you for
 P 7398.0 7730.0  In the end of my speech I would like to thank you for your
 P 7398.0 7788.0  In the end of my speech I would like to thank you for your attention
 P 7398.0 7802.0  In the end of my speech I would like to thank you for your attention and
-P 7398.0 7854.000000000001  In the end of my speech I would like to thank you for your attention and invite
+P 7398.0 7854.0  In the end of my speech I would like to thank you for your attention and invite
 P 7398.0 7928.0  In the end of my speech I would like to thank you for your attention and invite you
 P 7398.0 7970.0  In the end of my speech I would like to thank you for your attention and invite you into
 P 7398.0 8028.0  In the end of my speech I would like to thank you for your attention and invite you into stand

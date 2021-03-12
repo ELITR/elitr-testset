@@ -3,13 +3,13 @@ P 130.0 156.0  Which
 P 130.0 180.0  Which floor
 P 130.0 192.0  Which floor are
 P 130.0 204.0  Which floor are you
-P 130.0 229.99999999999997  Which floor are you going
+P 130.0 230.0  Which floor are you going
 C 130.0 296.0  Which floor are you going to?
 P 296.0 340.0  Hi,
 C 296.0 396.0  Hi, fifteenth.
-P 396.0 413.99999999999994  And
+P 396.0 414.0  And
 C 396.0 446.0  And you?
-P 446.0 490.00000000000006  Twenty
+P 446.0 490.0  Twenty
 C 446.0 576.0  Twenty second.
 P 576.0 604.0  Would
 P 576.0 616.0  Would you
@@ -22,13 +22,13 @@ P 576.0 708.0  Would you mind if I take off my
 C 576.0 742.0  Would you mind if I take off my shoes?
 P 742.0 762.0  Those
 P 742.0 788.0  Those high
-P 742.0 803.9999999999999  Those high heels
-P 742.0 822.0000000000001  Those high heels are
+P 742.0 804.0  Those high heels
+P 742.0 822.0  Those high heels are
 P 742.0 858.0  Those high heels are killing
 C 742.0 892.0  Those high heels are killing me!
 P 892.0 910.0  Of
 C 892.0 942.0  Of course.
-P 942.0 953.9999999999999  I
+P 942.0 954.0  I
 P 942.0 974.0  I don't
 P 942.0 1002.0  I don't mind
 C 942.0 1042.0  I don't mind it.
@@ -53,12 +53,12 @@ P 1542.0 1604.0  I know one
 P 1542.0 1638.0  I know one really
 P 1542.0 1680.0  I know one really good
 P 1542.0 1752.0  I know one really good store,
-P 1542.0 1773.9999999999998  I know one really good store, that
+P 1542.0 1774.0  I know one really good store, that
 P 1542.0 1818.0  I know one really good store, that deals
-P 1542.0 1842.0000000000002  I know one really good store, that deals with
-P 1542.0 1860.0000000000002  I know one really good store, that deals with the
+P 1542.0 1842.0  I know one really good store, that deals with
+P 1542.0 1860.0  I know one really good store, that deals with the
 P 1542.0 1898.0  I know one really good store, that deals with the sale
-P 1542.0 1907.9999999999998  I know one really good store, that deals with the sale of
+P 1542.0 1908.0  I know one really good store, that deals with the sale of
 P 1542.0 1962.0  I know one really good store, that deals with the sale of free-time
 C 1542.0 2088.0  I know one really good store, that deals with the sale of free-time footwear.
 P 2088.0 2096.0  Oh,
@@ -83,30 +83,30 @@ P 2506.0 3114.0  It's name is CaspoWalk LTD. and we offer many different shoes
 P 2506.0 3136.0  It's name is CaspoWalk LTD. and we offer many different shoes from
 P 2506.0 3180.0  It's name is CaspoWalk LTD. and we offer many different shoes from different
 P 2506.0 3214.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands
-P 2506.0 3238.0000000000005  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such
-P 2506.0 3247.9999999999995  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as
+P 2506.0 3238.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such
+P 2506.0 3248.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as
 P 2506.0 3336.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike,
 P 2506.0 3410.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas
-P 2506.0 3429.9999999999995  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for
+P 2506.0 3430.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for
 P 2506.0 3456.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for each
-P 2506.0 3479.9999999999995  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for each age
+P 2506.0 3480.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for each age
 P 2506.0 3492.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for each age and
-C 2506.0 3597.9999999999995  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for each age and gender.
-P 3597.9999999999995 3615.9999999999995  Do
-P 3597.9999999999995 3626.0  Do you
-P 3597.9999999999995 3656.0  Do you offer
-P 3597.9999999999995 3674.0  Do you offer some
-P 3597.9999999999995 3710.0  Do you offer some unique
-C 3597.9999999999995 3768.0  Do you offer some unique shoes?
+C 2506.0 3598.0  It's name is CaspoWalk LTD. and we offer many different shoes from different brands such as Nike, Adidas for each age and gender.
+P 3598.0 3616.0  Do
+P 3598.0 3626.0  Do you
+P 3598.0 3656.0  Do you offer
+P 3598.0 3674.0  Do you offer some
+P 3598.0 3710.0  Do you offer some unique
+C 3598.0 3768.0  Do you offer some unique shoes?
 P 3768.0 3814.0  Yes,
-P 3768.0 3829.9999999999995  Yes, of
+P 3768.0 3830.0  Yes, of
 C 3768.0 3940.0  Yes, of course.
 P 3940.0 3956.0  I
 P 3940.0 3976.0  I can
-P 3940.0 3997.9999999999995  I can show
-P 3940.0 4011.9999999999995  I can show you
+P 3940.0 3998.0  I can show
+P 3940.0 4012.0  I can show you
 P 3940.0 4040.0  I can show you some
-P 3940.0 4052.0000000000005  I can show you some of
+P 3940.0 4052.0  I can show you some of
 C 3940.0 4332.0  I can show you some of them.
 P 4332.0 4354.0  We
 P 4332.0 4452.0  We offer
@@ -152,58 +152,58 @@ P 6308.0 6342.0  You can
 P 6308.0 6394.0  You can customize
 P 6308.0 6406.0  You can customize a
 P 6308.0 6430.0  You can customize a shoe
-P 6308.0 6476.000000000001  You can customize a shoe lacing,
-P 6308.0 6490.000000000001  You can customize a shoe lacing, as
+P 6308.0 6476.0  You can customize a shoe lacing,
+P 6308.0 6490.0  You can customize a shoe lacing, as
 P 6308.0 6502.0  You can customize a shoe lacing, as you
 P 6308.0 6522.0  You can customize a shoe lacing, as you see
-P 6308.0 6554.000000000001  You can customize a shoe lacing, as you see there,
-P 6308.0 6568.000000000001  You can customize a shoe lacing, as you see there, and
-P 6308.0 6576.000000000001  You can customize a shoe lacing, as you see there, and a
+P 6308.0 6554.0  You can customize a shoe lacing, as you see there,
+P 6308.0 6568.0  You can customize a shoe lacing, as you see there, and
+P 6308.0 6576.0  You can customize a shoe lacing, as you see there, and a
 P 6308.0 6608.0  You can customize a shoe lacing, as you see there, and a color
 P 6308.0 6616.0  You can customize a shoe lacing, as you see there, and a color of
-P 6308.0 6645.999999999999  You can customize a shoe lacing, as you see there, and a color of LED
+P 6308.0 6646.0  You can customize a shoe lacing, as you see there, and a color of LED
 P 6308.0 6742.0  You can customize a shoe lacing, as you see there, and a color of LED diodes
 P 6308.0 6772.0  You can customize a shoe lacing, as you see there, and a color of LED diodes with
 P 6308.0 6788.0  You can customize a shoe lacing, as you see there, and a color of LED diodes with a
 P 6308.0 6864.0  You can customize a shoe lacing, as you see there, and a color of LED diodes with a mobile
 C 6308.0 6962.0  You can customize a shoe lacing, as you see there, and a color of LED diodes with a mobile app.
 P 6962.0 6988.0  If
-P 6962.0 7004.000000000001  If I
-P 6962.0 7026.000000000001  If I bought
+P 6962.0 7004.0  If I
+P 6962.0 7026.0  If I bought
 P 6962.0 7048.0  If I bought some
-P 6962.0 7076.000000000001  If I bought some shoes
+P 6962.0 7076.0  If I bought some shoes
 P 6962.0 7098.0  If I bought some shoes from
-P 6962.0 7118.000000000001  If I bought some shoes from you,
+P 6962.0 7118.0  If I bought some shoes from you,
 P 6962.0 7128.0  If I bought some shoes from you, do
 P 6962.0 7138.0  If I bought some shoes from you, do you
 P 6962.0 7162.0  If I bought some shoes from you, do you offer
-P 6962.0 7176.000000000001  If I bought some shoes from you, do you offer me
+P 6962.0 7176.0  If I bought some shoes from you, do you offer me
 P 6962.0 7198.0  If I bought some shoes from you, do you offer me some
 C 6962.0 7250.0  If I bought some shoes from you, do you offer me some accessories?
-P 7250.0 7276.000000000001  Yes,
-P 7250.0 7290.000000000001  Yes, of
+P 7250.0 7276.0  Yes,
+P 7250.0 7290.0  Yes, of
 C 7250.0 7344.0  Yes, of course.
 P 7344.0 7370.0  We
 P 7344.0 7408.0  We offer
 P 7344.0 7556.0  We offer shoelaces
 P 7344.0 7608.0  We offer shoelaces and
-P 7344.0 7681.999999999999  We offer shoelaces and insoles
+P 7344.0 7682.0  We offer shoelaces and insoles
 P 7344.0 7694.0  We offer shoelaces and insoles and
 P 7344.0 7722.0  We offer shoelaces and insoles and many
-C 7344.0 7854.000000000001  We offer shoelaces and insoles and many more.
-P 7854.000000000001 7878.0  Here
-P 7854.000000000001 7890.000000000001  Here is
-P 7854.000000000001 7906.0  Here is my
-P 7854.000000000001 7948.0  Here is my business
-C 7854.000000000001 8073.999999999999  Here is my business card.
-P 8073.999999999999 8098.0  Do
-P 8073.999999999999 8114.0  Do not
-P 8073.999999999999 8164.0  Do not hesitate
-P 8073.999999999999 8173.999999999999  Do not hesitate to
-P 8073.999999999999 8256.0  Do not hesitate to stop
-P 8073.999999999999 8274.0  Do not hesitate to stop at
-P 8073.999999999999 8368.0  Do not hesitate to stop at our
-C 8073.999999999999 8458.0  Do not hesitate to stop at our branch.
+C 7344.0 7854.0  We offer shoelaces and insoles and many more.
+P 7854.0 7878.0  Here
+P 7854.0 7890.0  Here is
+P 7854.0 7906.0  Here is my
+P 7854.0 7948.0  Here is my business
+C 7854.0 8074.0  Here is my business card.
+P 8074.0 8098.0  Do
+P 8074.0 8114.0  Do not
+P 8074.0 8164.0  Do not hesitate
+P 8074.0 8174.0  Do not hesitate to
+P 8074.0 8256.0  Do not hesitate to stop
+P 8074.0 8274.0  Do not hesitate to stop at
+P 8074.0 8368.0  Do not hesitate to stop at our
+C 8074.0 8458.0  Do not hesitate to stop at our branch.
 P 8458.0 8506.0  Oh,
 P 8458.0 8542.0  Oh, thank
 C 8458.0 8602.0  Oh, thank you.

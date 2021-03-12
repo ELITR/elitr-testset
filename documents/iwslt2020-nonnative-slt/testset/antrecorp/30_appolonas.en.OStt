@@ -1,29 +1,29 @@
-P 28.000000000000004 48.0  Good
-P 28.000000000000004 100.0  Good afternoon,
-P 28.000000000000004 136.0  Good afternoon, ladies
-P 28.000000000000004 150.0  Good afternoon, ladies and
-P 28.000000000000004 212.0  Good afternoon, ladies and gentlemens,
-P 28.000000000000004 231.99999999999997  Good afternoon, ladies and gentlemens, my
-P 28.000000000000004 252.0  Good afternoon, ladies and gentlemens, my name
-P 28.000000000000004 268.0  Good afternoon, ladies and gentlemens, my name is
-P 28.000000000000004 362.0  Good afternoon, ladies and gentlemens, my name is <NAME>
-P 28.000000000000004 378.0  Good afternoon, ladies and gentlemens, my name is <NAME> and
-P 28.000000000000004 401.99999999999994  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm
-P 28.000000000000004 408.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a
-P 28.000000000000004 462.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director
-P 28.000000000000004 472.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of
-P 28.000000000000004 528.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas
-P 28.000000000000004 590.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company
-P 28.000000000000004 612.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company from
-P 28.000000000000004 674.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company from Bratislava,
-C 28.000000000000004 818.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company from Bratislava, Slovakia.
+P 28.0 48.0  Good
+P 28.0 100.0  Good afternoon,
+P 28.0 136.0  Good afternoon, ladies
+P 28.0 150.0  Good afternoon, ladies and
+P 28.0 212.0  Good afternoon, ladies and gentlemens,
+P 28.0 232.0  Good afternoon, ladies and gentlemens, my
+P 28.0 252.0  Good afternoon, ladies and gentlemens, my name
+P 28.0 268.0  Good afternoon, ladies and gentlemens, my name is
+P 28.0 362.0  Good afternoon, ladies and gentlemens, my name is <NAME>
+P 28.0 378.0  Good afternoon, ladies and gentlemens, my name is <NAME> and
+P 28.0 402.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm
+P 28.0 408.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a
+P 28.0 462.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director
+P 28.0 472.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of
+P 28.0 528.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas
+P 28.0 590.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company
+P 28.0 612.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company from
+P 28.0 674.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company from Bratislava,
+C 28.0 818.0  Good afternoon, ladies and gentlemens, my name is <NAME> and I'm a director of Apollonas company from Bratislava, Slovakia.
 P 818.0 832.0  I
 P 818.0 850.0  I would
 P 818.0 874.0  I would like
 P 818.0 884.0  I would like to
 P 818.0 942.0  I would like to introduce
 P 818.0 976.0  I would like to introduce you
-P 818.0 1011.9999999999999  I would like to introduce you our
+P 818.0 1012.0  I would like to introduce you our
 C 818.0 1198.0  I would like to introduce you our services.
 P 1198.0 1226.0  Our
 P 1198.0 1280.0  Our company
@@ -37,18 +37,18 @@ P 1198.0 1540.0  Our company offers you luxurious sailings where you enjoy
 P 1198.0 1598.0  Our company offers you luxurious sailings where you enjoy wine
 P 1198.0 1612.0  Our company offers you luxurious sailings where you enjoy wine and
 P 1198.0 1684.0  Our company offers you luxurious sailings where you enjoy wine and gastronomic
-P 1198.0 1742.0000000000002  Our company offers you luxurious sailings where you enjoy wine and gastronomic routes
+P 1198.0 1742.0  Our company offers you luxurious sailings where you enjoy wine and gastronomic routes
 P 1198.0 1762.0  Our company offers you luxurious sailings where you enjoy wine and gastronomic routes or
-P 1198.0 1792.0000000000002  Our company offers you luxurious sailings where you enjoy wine and gastronomic routes or just
-C 1198.0 1989.9999999999998  Our company offers you luxurious sailings where you enjoy wine and gastronomic routes or just relax.
-P 1989.9999999999998 2002.0  I
-P 1989.9999999999998 2023.9999999999998  I would
-P 1989.9999999999998 2052.0  I would like
-P 1989.9999999999998 2148.0  I would like to
-P 1989.9999999999998 2226.0  I would like to present
-P 1989.9999999999998 2266.0  I would like to present you
-P 1989.9999999999998 2292.0  I would like to present you our
-C 1989.9999999999998 2380.0  I would like to present you our yachts.
+P 1198.0 1792.0  Our company offers you luxurious sailings where you enjoy wine and gastronomic routes or just
+C 1198.0 1990.0  Our company offers you luxurious sailings where you enjoy wine and gastronomic routes or just relax.
+P 1990.0 2002.0  I
+P 1990.0 2024.0  I would
+P 1990.0 2052.0  I would like
+P 1990.0 2148.0  I would like to
+P 1990.0 2226.0  I would like to present
+P 1990.0 2266.0  I would like to present you
+P 1990.0 2292.0  I would like to present you our
+C 1990.0 2380.0  I would like to present you our yachts.
 P 2380.0 2404.0  One
 P 2380.0 2412.0  One of
 P 2380.0 2444.0  One of them
@@ -72,26 +72,26 @@ P 3012.0 3166.0  One of our destination
 P 3012.0 3188.0  One of our destination is
 P 3012.0 3236.0  One of our destination is Greece
 P 3012.0 3254.0  One of our destination is Greece and
-P 3012.0 3265.9999999999995  One of our destination is Greece and the
+P 3012.0 3266.0  One of our destination is Greece and the
 P 3012.0 3294.0  One of our destination is Greece and the other
 P 3012.0 3326.0  One of our destination is Greece and the other one
 P 3012.0 3350.0  One of our destination is Greece and the other one is
-C 3012.0 3488.0000000000005  One of our destination is Greece and the other one is Croatia.
-P 3488.0000000000005 3508.0  If
-P 3488.0000000000005 3520.0000000000005  If you
-P 3488.0000000000005 3536.0  If you want
-P 3488.0000000000005 3550.0  If you want to
-P 3488.0000000000005 3624.0  If you want to experience
-P 3488.0000000000005 3636.0  If you want to experience a
-P 3488.0000000000005 3697.9999999999995  If you want to experience a vacation
-P 3488.0000000000005 3715.9999999999995  If you want to experience a vacation of
-P 3488.0000000000005 3732.0  If you want to experience a vacation of your
-P 3488.0000000000005 3797.9999999999995  If you want to experience a vacation of your dreams,
-P 3488.0000000000005 3834.0000000000005  If you want to experience a vacation of your dreams, sail
-P 3488.0000000000005 3861.9999999999995  If you want to experience a vacation of your dreams, sail away
-P 3488.0000000000005 3882.0  If you want to experience a vacation of your dreams, sail away with
-C 3488.0000000000005 3950.0  If you want to experience a vacation of your dreams, sail away with us!
-P 3950.0 3970.0000000000005  For
+C 3012.0 3488.0  One of our destination is Greece and the other one is Croatia.
+P 3488.0 3508.0  If
+P 3488.0 3520.0  If you
+P 3488.0 3536.0  If you want
+P 3488.0 3550.0  If you want to
+P 3488.0 3624.0  If you want to experience
+P 3488.0 3636.0  If you want to experience a
+P 3488.0 3698.0  If you want to experience a vacation
+P 3488.0 3716.0  If you want to experience a vacation of
+P 3488.0 3732.0  If you want to experience a vacation of your
+P 3488.0 3798.0  If you want to experience a vacation of your dreams,
+P 3488.0 3834.0  If you want to experience a vacation of your dreams, sail
+P 3488.0 3862.0  If you want to experience a vacation of your dreams, sail away
+P 3488.0 3882.0  If you want to experience a vacation of your dreams, sail away with
+C 3488.0 3950.0  If you want to experience a vacation of your dreams, sail away with us!
+P 3950.0 3970.0  For
 P 3950.0 3996.0  For more
 P 3950.0 4082.0  For more information
 P 3950.0 4098.0  For more information you

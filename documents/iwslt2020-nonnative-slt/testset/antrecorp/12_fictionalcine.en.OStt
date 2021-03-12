@@ -9,13 +9,13 @@ P 80.0 376.0  Dear ladies and gentlemens, my name is <NAME>
 P 80.0 380.0  Dear ladies and gentlemens, my name is <NAME> I
 P 80.0 386.0  Dear ladies and gentlemens, my name is <NAME> I am
 P 80.0 390.0  Dear ladies and gentlemens, my name is <NAME> I am a
-P 80.0 444.00000000000006  Dear ladies and gentlemens, my name is <NAME> I am a director
-P 80.0 463.99999999999994  Dear ladies and gentlemens, my name is <NAME> I am a director of
+P 80.0 444.0  Dear ladies and gentlemens, my name is <NAME> I am a director
+P 80.0 464.0  Dear ladies and gentlemens, my name is <NAME> I am a director of
 P 80.0 478.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the
 P 80.0 530.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional
 P 80.0 576.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company
 P 80.0 800.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine,
-P 80.0 872.0000000000001  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which
+P 80.0 872.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which
 P 80.0 932.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which runs
 P 80.0 952.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which runs the
 P 80.0 1094.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which runs the cinema,
@@ -27,10 +27,10 @@ P 80.0 1338.0  Dear ladies and gentlemens, my name is <NAME> I am a director of 
 P 80.0 1386.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which runs the cinema, shows movies and prepare educational programmes
 P 80.0 1406.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which runs the cinema, shows movies and prepare educational programmes for
 C 80.0 1600.0  Dear ladies and gentlemens, my name is <NAME> I am a director of the fictional company FictionalCine, which runs the cinema, shows movies and prepare educational programmes for schools.
-P 1600.0 1626.0000000000002  Our
+P 1600.0 1626.0  Our
 P 1600.0 1672.0  Our company
 P 1600.0 1698.0  Our company was
-P 1600.0 1807.9999999999998  Our company was established
+P 1600.0 1808.0  Our company was established
 P 1600.0 1828.0  Our company was established in
 P 1600.0 2090.0  Our company was established in Mělník
 P 1600.0 2126.0  Our company was established in Mělník on
@@ -45,15 +45,15 @@ P 1600.0 2582.0  Our company was established in Mělník on the first of the Sep
 C 1600.0 2730.0  Our company was established in Mělník on the first of the September in two thousand eighteen.
 P 2730.0 2756.0  Our
 P 2730.0 3000.0  Our company
-P 2730.0 3220.0000000000005  Our company have...
-P 2730.0 3252.0000000000005  Our company have... had
-P 2730.0 3288.0000000000005  Our company have... had five
-P 2730.0 3347.9999999999995  Our company have... had five members
+P 2730.0 3220.0  Our company have...
+P 2730.0 3252.0  Our company have... had
+P 2730.0 3288.0  Our company have... had five
+P 2730.0 3348.0  Our company have... had five members
 P 2730.0 3378.0  Our company have... had five members but
 P 2730.0 3408.0  Our company have... had five members but currently
-P 2730.0 3429.9999999999995  Our company have... had five members but currently we
+P 2730.0 3430.0  Our company have... had five members but currently we
 P 2730.0 3526.0  Our company have... had five members but currently we operate
-P 2730.0 3538.0000000000005  Our company have... had five members but currently we operate the
+P 2730.0 3538.0  Our company have... had five members but currently we operate the
 P 2730.0 3596.0  Our company have... had five members but currently we operate the company
 P 2730.0 3618.0  Our company have... had five members but currently we operate the company with
 P 2730.0 3650.0  Our company have... had five members but currently we operate the company with four
@@ -96,22 +96,22 @@ P 5892.0 6408.0  And if you are interested in our educational programmes you can
 P 5892.0 6452.0  And if you are interested in our educational programmes you can contact us
 P 5892.0 6492.0  And if you are interested in our educational programmes you can contact us via
 P 5892.0 6534.0  And if you are interested in our educational programmes you can contact us via email
-P 5892.0 6690.000000000001  And if you are interested in our educational programmes you can contact us via email fictionalcine
+P 5892.0 6690.0  And if you are interested in our educational programmes you can contact us via email fictionalcine
 P 5892.0 6734.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at
 P 5892.0 6794.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail
 P 5892.0 6820.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot
-P 5892.0 6923.999999999999  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com
-P 5892.0 6954.000000000001  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or
+P 5892.0 6924.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com
+P 5892.0 6954.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or
 P 5892.0 6978.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you
 P 5892.0 7038.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can
-P 5892.0 7145.999999999999  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited
+P 5892.0 7146.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited
 P 5892.0 7194.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited at
 P 5892.0 7228.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited at our
 P 5892.0 7294.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited at our stand
 P 5892.0 7344.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited at our stand number
 P 5892.0 7456.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited at our stand number fifty
 C 5892.0 7722.0  And if you are interested in our educational programmes you can contact us via email fictionalcine at gmail dot com or you can visited at our stand number fifty five.
-P 7722.0 7745.999999999999  We
+P 7722.0 7746.0  We
 P 7722.0 7762.0  We are
 P 7722.0 7798.0  We are looking
 P 7722.0 7870.0  We are looking forward

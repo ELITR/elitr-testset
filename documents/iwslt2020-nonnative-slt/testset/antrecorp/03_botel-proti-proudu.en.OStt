@@ -5,11 +5,11 @@ P 204.0 276.0  Oh, this
 P 204.0 288.0  Oh, this is
 P 204.0 316.0  Oh, this is very
 P 204.0 346.0  Oh, this is very nice
-C 204.0 440.00000000000006  Oh, this is very nice T-shirt.
-P 440.00000000000006 455.99999999999994  What
-P 440.00000000000006 472.0  What is
-P 440.00000000000006 484.0  What is this
-C 440.00000000000006 540.0  What is this brand?
+C 204.0 440.0  Oh, this is very nice T-shirt.
+P 440.0 456.0  What
+P 440.0 472.0  What is
+P 440.0 484.0  What is this
+C 440.0 540.0  What is this brand?
 P 540.0 564.0  Oh,
 P 540.0 584.0  Oh, it's
 P 540.0 600.0  Oh, it's not
@@ -29,7 +29,7 @@ P 856.0 890.0  You have a
 C 856.0 936.0  You have a botel?
 P 936.0 952.0  Oh,
 P 936.0 974.0  Oh, yes
-P 936.0 988.0000000000001  Oh, yes I
+P 936.0 988.0  Oh, yes I
 C 936.0 1028.0  Oh, yes I do.
 P 1028.0 1048.0  We
 P 1028.0 1064.0  We are
@@ -47,17 +47,17 @@ P 1028.0 1494.0  We are situated in hearth of České Budějovice on the Vltava 
 P 1028.0 1512.0  We are situated in hearth of České Budějovice on the Vltava river and we
 P 1028.0 1528.0  We are situated in hearth of České Budějovice on the Vltava river and we have
 P 1028.0 1564.0  We are situated in hearth of České Budějovice on the Vltava river and we have three
-P 1028.0 1610.0000000000002  We are situated in hearth of České Budějovice on the Vltava river and we have three classes
+P 1028.0 1610.0  We are situated in hearth of České Budějovice on the Vltava river and we have three classes
 P 1028.0 1622.0  We are situated in hearth of České Budějovice on the Vltava river and we have three classes of
 C 1028.0 1678.0  We are situated in hearth of České Budějovice on the Vltava river and we have three classes of room.
 P 1678.0 1696.0  The
 P 1678.0 1728.0  The first
 P 1678.0 1762.0  The first class
-P 1678.0 1792.0000000000002  The first class room
+P 1678.0 1792.0  The first class room
 P 1678.0 1812.0  The first class room is
 P 1678.0 1846.0  The first class room is named
 P 1678.0 1946.0  The first class room is named Goldfish
-P 1678.0 1960.0000000000002  The first class room is named Goldfish and
+P 1678.0 1960.0  The first class room is named Goldfish and
 P 1678.0 1984.0  The first class room is named Goldfish and it's
 P 1678.0 1996.0  The first class room is named Goldfish and it's the
 P 1678.0 2036.0  The first class room is named Goldfish and it's the most
@@ -93,25 +93,25 @@ P 3078.0 3094.0  Oh
 P 3078.0 3124.0  Oh yes,
 P 3078.0 3138.0  Oh yes, we
 C 3078.0 3182.0  Oh yes, we do.
-P 3182.0 3202.0000000000005  We
-P 3182.0 3215.9999999999995  We have
+P 3182.0 3202.0  We
+P 3182.0 3216.0  We have
 P 3182.0 3226.0  We have a
 P 3182.0 3264.0  We have a special
 P 3182.0 3290.0  We have a special room
 P 3182.0 3310.0  We have a special room made
-P 3182.0 3329.9999999999995  We have a special room made for
-P 3182.0 3415.9999999999995  We have a special room made for lovers
-P 3182.0 3429.9999999999995  We have a special room made for lovers to
+P 3182.0 3330.0  We have a special room made for
+P 3182.0 3416.0  We have a special room made for lovers
+P 3182.0 3430.0  We have a special room made for lovers to
 P 3182.0 3468.0  We have a special room made for lovers to spend
 P 3182.0 3500.0  We have a special room made for lovers to spend their
 P 3182.0 3596.0  We have a special room made for lovers to spend their anniversaries
 P 3182.0 3614.0  We have a special room made for lovers to spend their anniversaries and
 P 3182.0 3654.0  We have a special room made for lovers to spend their anniversaries and something
-P 3182.0 3679.9999999999995  We have a special room made for lovers to spend their anniversaries and something like
+P 3182.0 3680.0  We have a special room made for lovers to spend their anniversaries and something like
 C 3182.0 3756.0  We have a special room made for lovers to spend their anniversaries and something like that.
 P 3756.0 3796.0  Wow,
 P 3756.0 3826.0  Wow, and
-P 3756.0 3838.0000000000005  Wow, and you
+P 3756.0 3838.0  Wow, and you
 P 3756.0 3854.0  Wow, and you have
 P 3756.0 3942.0  Wow, and you have some
 P 3756.0 4044.0  Wow, and you have some restaurant,
@@ -189,24 +189,24 @@ P 6252.0 6586.0  Well, if you're not really keen on fitness, you
 P 6252.0 6606.0  Well, if you're not really keen on fitness, you can
 P 6252.0 6650.0  Well, if you're not really keen on fitness, you can visit
 P 6252.0 6670.0  Well, if you're not really keen on fitness, you can visit our
-P 6252.0 6726.000000000001  Well, if you're not really keen on fitness, you can visit our relax
-P 6252.0 6795.999999999999  Well, if you're not really keen on fitness, you can visit our relax centrum,
-P 6252.0 6818.000000000001  Well, if you're not really keen on fitness, you can visit our relax centrum, with
+P 6252.0 6726.0  Well, if you're not really keen on fitness, you can visit our relax
+P 6252.0 6796.0  Well, if you're not really keen on fitness, you can visit our relax centrum,
+P 6252.0 6818.0  Well, if you're not really keen on fitness, you can visit our relax centrum, with
 P 6252.0 6920.0  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses,
 P 6252.0 7012.0  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas,
 P 6252.0 7048.0  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot
-P 6252.0 7145.999999999999  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot rocks,
+P 6252.0 7146.0  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot rocks,
 P 6252.0 7162.0  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot rocks, and
-P 6252.0 7168.000000000001  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot rocks, and so
-C 6252.0 7226.000000000001  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot rocks, and so on.
-P 7226.000000000001 7234.0  Wow,
-P 7226.000000000001 7240.000000000001  Wow, OK,
-P 7226.000000000001 7244.0  Wow, OK, I
-P 7226.000000000001 7258.0  Wow, OK, I love
-P 7226.000000000001 7264.0  Wow, OK, I love it,
-P 7226.000000000001 7273.999999999999  Wow, OK, I love it, this
-P 7226.000000000001 7280.0  Wow, OK, I love it, this is
-C 7226.000000000001 7300.0  Wow, OK, I love it, this is great.
+P 6252.0 7168.0  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot rocks, and so
+C 6252.0 7226.0  Well, if you're not really keen on fitness, you can visit our relax centrum, with massageses, saunas, hot rocks, and so on.
+P 7226.0 7234.0  Wow,
+P 7226.0 7240.0  Wow, OK,
+P 7226.0 7244.0  Wow, OK, I
+P 7226.0 7258.0  Wow, OK, I love
+P 7226.0 7264.0  Wow, OK, I love it,
+P 7226.0 7274.0  Wow, OK, I love it, this
+P 7226.0 7280.0  Wow, OK, I love it, this is
+C 7226.0 7300.0  Wow, OK, I love it, this is great.
 P 7300.0 7316.0  And,
 P 7300.0 7330.0  And, if
 P 7300.0 7334.0  And, if I
@@ -219,12 +219,12 @@ P 7300.0 7798.0  And, if I can say it, we have free
 P 7300.0 7866.0  And, if I can say it, we have free wi-fi
 P 7300.0 7880.0  And, if I can say it, we have free wi-fi in
 P 7300.0 7894.0  And, if I can say it, we have free wi-fi in our
-P 7300.0 7926.000000000001  And, if I can say it, we have free wi-fi in our whole
-P 7300.0 8026.000000000001  And, if I can say it, we have free wi-fi in our whole botel
+P 7300.0 7926.0  And, if I can say it, we have free wi-fi in our whole
+P 7300.0 8026.0  And, if I can say it, we have free wi-fi in our whole botel
 P 7300.0 8048.0  And, if I can say it, we have free wi-fi in our whole botel and
-P 7300.0 8090.000000000001  And, if I can say it, we have free wi-fi in our whole botel and free
-P 7300.0 8140.000000000001  And, if I can say it, we have free wi-fi in our whole botel and free parking
-P 7300.0 8159.999999999999  And, if I can say it, we have free wi-fi in our whole botel and free parking for
+P 7300.0 8090.0  And, if I can say it, we have free wi-fi in our whole botel and free
+P 7300.0 8140.0  And, if I can say it, we have free wi-fi in our whole botel and free parking
+P 7300.0 8160.0  And, if I can say it, we have free wi-fi in our whole botel and free parking for
 P 7300.0 8170.0  And, if I can say it, we have free wi-fi in our whole botel and free parking for our
 C 7300.0 8254.0  And, if I can say it, we have free wi-fi in our whole botel and free parking for our guests.
 P 8254.0 8282.0  Oh

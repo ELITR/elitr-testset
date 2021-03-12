@@ -7,7 +7,7 @@ P 244.0 300.0  You're
 P 244.0 334.0  You're right,
 P 244.0 368.0  You're right, very
 C 244.0 404.0  You're right, very hard!
-P 404.0 436.00000000000006  Do
+P 404.0 436.0  Do
 P 404.0 450.0  Do you
 P 404.0 462.0  Do you think
 P 404.0 492.0  Do you think being
@@ -23,8 +23,8 @@ C 638.0 746.0  Yes, sure!
 P 746.0 794.0  You
 P 746.0 810.0  You know,
 P 746.0 840.0  You know, I
-P 746.0 853.9999999999999  You know, I am
-P 746.0 861.9999999999999  You know, I am quite
+P 746.0 854.0  You know, I am
+P 746.0 862.0  You know, I am quite
 P 746.0 884.0  You know, I am quite confident:
 P 746.0 956.0  You know, I am quite confident: selling
 P 746.0 1002.0  You know, I am quite confident: selling fashionable
@@ -45,20 +45,20 @@ P 1340.0 1542.0  People will be pushed to
 P 1340.0 1560.0  People will be pushed to buy
 P 1340.0 1582.0  People will be pushed to buy from
 C 1340.0 1604.0  People will be pushed to buy from us!
-P 1604.0 1657.9999999999998  And
+P 1604.0 1658.0  And
 P 1604.0 1678.0  And we
 P 1604.0 1696.0  And we are
-P 1604.0 1707.9999999999998  And we are young,
-P 1604.0 1744.0000000000002  And we are young, innovative,
-P 1604.0 1810.0000000000002  And we are young, innovative, creative
-P 1604.0 1876.0000000000002  And we are young, innovative, creative and
+P 1604.0 1708.0  And we are young,
+P 1604.0 1744.0  And we are young, innovative,
+P 1604.0 1810.0  And we are young, innovative, creative
+P 1604.0 1876.0  And we are young, innovative, creative and
 P 1604.0 1900.0  And we are young, innovative, creative and all
 P 1604.0 1920.0  And we are young, innovative, creative and all our
-P 1604.0 1939.9999999999998  And we are young, innovative, creative and all our products
-P 1604.0 1992.0000000000002  And we are young, innovative, creative and all our products are
+P 1604.0 1940.0  And we are young, innovative, creative and all our products
+P 1604.0 1992.0  And we are young, innovative, creative and all our products are
 P 1604.0 2012.0  And we are young, innovative, creative and all our products are made
 P 1604.0 2030.0  And we are young, innovative, creative and all our products are made in
-P 1604.0 2039.9999999999998  And we are young, innovative, creative and all our products are made in Italy:
+P 1604.0 2040.0  And we are young, innovative, creative and all our products are made in Italy:
 P 1604.0 2086.0  And we are young, innovative, creative and all our products are made in Italy: everybody
 P 1604.0 2152.0  And we are young, innovative, creative and all our products are made in Italy: everybody knows
 P 1604.0 2180.0  And we are young, innovative, creative and all our products are made in Italy: everybody knows it,
@@ -94,11 +94,11 @@ P 2904.0 3108.0  Will we be able to target
 P 2904.0 3158.0  Will we be able to target these
 P 2904.0 3176.0  Will we be able to target these new
 C 2904.0 3196.0  Will we be able to target these new markets?
-P 3196.0 3270.0000000000005  Well,
+P 3196.0 3270.0  Well,
 P 3196.0 3308.0  Well, but
-P 3196.0 3329.9999999999995  Well, but you
+P 3196.0 3330.0  Well, but you
 P 3196.0 3342.0  Well, but you know,
-P 3196.0 3370.0000000000005  Well, but you know, we
+P 3196.0 3370.0  Well, but you know, we
 P 3196.0 3390.0  Well, but you know, we are
 P 3196.0 3406.0  Well, but you know, we are based
 P 3196.0 3432.0  Well, but you know, we are based in
@@ -110,20 +110,20 @@ P 3196.0 3544.0  Well, but you know, we are based in Veneto and that is an
 P 3196.0 3560.0  Well, but you know, we are based in Veneto and that is an advantage:
 P 3196.0 3628.0  Well, but you know, we are based in Veneto and that is an advantage: we
 P 3196.0 3650.0  Well, but you know, we are based in Veneto and that is an advantage: we are
-P 3196.0 3661.9999999999995  Well, but you know, we are based in Veneto and that is an advantage: we are so
+P 3196.0 3662.0  Well, but you know, we are based in Veneto and that is an advantage: we are so
 P 3196.0 3682.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close
-P 3196.0 3711.9999999999995  Well, but you know, we are based in Veneto and that is an advantage: we are so close to
-P 3196.0 3720.0000000000005  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these
+P 3196.0 3712.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to
+P 3196.0 3720.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these
 P 3196.0 3742.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets,
-P 3196.0 3788.0000000000005  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern
+P 3196.0 3788.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern
 P 3196.0 3846.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe
 P 3196.0 3892.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe is
-P 3196.0 3902.0000000000005  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe is just
+P 3196.0 3902.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe is just
 P 3196.0 3926.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe is just behind
-P 3196.0 3952.0000000000005  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe is just behind the
+P 3196.0 3952.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe is just behind the
 C 3196.0 3960.0  Well, but you know, we are based in Veneto and that is an advantage: we are so close to these markets, Eastern Europe is just behind the corner!
-P 3960.0 4029.9999999999995  Yeah,
-P 3960.0 4065.9999999999995  Yeah, but
+P 3960.0 4030.0  Yeah,
+P 3960.0 4066.0  Yeah, but
 P 3960.0 4094.0  Yeah, but Hungary,
 P 3960.0 4166.0  Yeah, but Hungary, Czech
 P 3960.0 4188.0  Yeah, but Hungary, Czech Republic
@@ -194,16 +194,16 @@ P 5986.0 6250.0  Who doesn't need a soft pillow, comfortable
 P 5986.0 6324.0  Who doesn't need a soft pillow, comfortable mattresses
 P 5986.0 6346.0  Who doesn't need a soft pillow, comfortable mattresses and
 P 5986.0 6396.0  Who doesn't need a soft pillow, comfortable mattresses and warm
-P 5986.0 6440.000000000001  Who doesn't need a soft pillow, comfortable mattresses and warm sheets
-P 5986.0 6454.000000000001  Who doesn't need a soft pillow, comfortable mattresses and warm sheets to
-P 5986.0 6481.999999999999  Who doesn't need a soft pillow, comfortable mattresses and warm sheets to sleep
+P 5986.0 6440.0  Who doesn't need a soft pillow, comfortable mattresses and warm sheets
+P 5986.0 6454.0  Who doesn't need a soft pillow, comfortable mattresses and warm sheets to
+P 5986.0 6482.0  Who doesn't need a soft pillow, comfortable mattresses and warm sheets to sleep
 C 5986.0 6550.0  Who doesn't need a soft pillow, comfortable mattresses and warm sheets to sleep in?
 P 6550.0 6570.0  And
 P 6550.0 6628.0  And everything
 P 6550.0 6648.0  And everything is
-P 6550.0 6704.000000000001  And everything is handmade
-P 6550.0 6731.999999999999  And everything is handmade by
-P 6550.0 6776.000000000001  And everything is handmade by our
+P 6550.0 6704.0  And everything is handmade
+P 6550.0 6732.0  And everything is handmade by
+P 6550.0 6776.0  And everything is handmade by our
 P 6550.0 6816.0  And everything is handmade by our skilled
 P 6550.0 6906.0  And everything is handmade by our skilled craftsmen
 P 6550.0 6922.0  And everything is handmade by our skilled craftsmen and
@@ -212,18 +212,18 @@ P 6998.0 7016.0  It's
 P 6998.0 7034.0  It's such
 P 6998.0 7042.0  It's such a
 C 6998.0 7092.0  It's such a dream!
-P 7092.0 7126.000000000001  Yes,
-P 7092.0 7140.000000000001  Yes, you
+P 7092.0 7126.0  Yes,
+P 7092.0 7140.0  Yes, you
 P 7092.0 7158.0  Yes, you know,
 P 7092.0 7200.0  Yes, you know, Pillow
 P 7092.0 7230.0  Yes, you know, Pillow Dream
-P 7092.0 7245.999999999999  Yes, you know, Pillow Dream is
+P 7092.0 7246.0  Yes, you know, Pillow Dream is
 P 7092.0 7258.0  Yes, you know, Pillow Dream is the
-P 7092.0 7281.999999999999  Yes, you know, Pillow Dream is the beauty
+P 7092.0 7282.0  Yes, you know, Pillow Dream is the beauty
 P 7092.0 7298.0  Yes, you know, Pillow Dream is the beauty you
 P 7092.0 7328.0  Yes, you know, Pillow Dream is the beauty you want
 P 7092.0 7342.0  Yes, you know, Pillow Dream is the beauty you want and
-P 7092.0 7354.000000000001  Yes, you know, Pillow Dream is the beauty you want and the
+P 7092.0 7354.0  Yes, you know, Pillow Dream is the beauty you want and the
 P 7092.0 7392.0  Yes, you know, Pillow Dream is the beauty you want and the comfort
 P 7092.0 7406.0  Yes, you know, Pillow Dream is the beauty you want and the comfort you
 C 7092.0 7422.0  Yes, you know, Pillow Dream is the beauty you want and the comfort you need!

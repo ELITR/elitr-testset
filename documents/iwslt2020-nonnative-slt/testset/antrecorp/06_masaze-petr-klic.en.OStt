@@ -16,8 +16,8 @@ P 462.0 596.0  My name is <NAME> and I am
 P 462.0 720.0  My name is <NAME> and I am representative
 P 462.0 750.0  My name is <NAME> and I am representative of
 P 462.0 772.0  My name is <NAME> and I am representative of the
-P 462.0 822.0000000000001  My name is <NAME> and I am representative of the company
-P 462.0 877.9999999999999  My name is <NAME> and I am representative of the company Masáže
+P 462.0 822.0  My name is <NAME> and I am representative of the company
+P 462.0 878.0  My name is <NAME> and I am representative of the company Masáže
 P 462.0 902.0  My name is <NAME> and I am representative of the company Masáže Petr
 P 462.0 1008.0  My name is <NAME> and I am representative of the company Masáže Petr Klíč
 P 462.0 1030.0  My name is <NAME> and I am representative of the company Masáže Petr Klíč that
@@ -28,9 +28,9 @@ C 462.0 1566.0  My name is <NAME> and I am representative of the company Masáž
 P 1566.0 1588.0  We
 P 1566.0 1688.0  We participated
 P 1566.0 1712.0  We participated in
-P 1566.0 1810.0000000000002  We participated in Most
+P 1566.0 1810.0  We participated in Most
 P 1566.0 1834.0  We participated in Most where
-P 1566.0 1876.0000000000002  We participated in Most where we
+P 1566.0 1876.0  We participated in Most where we
 P 1566.0 1902.0  We participated in Most where we won
 P 1566.0 1954.0  We participated in Most where we won first
 P 1566.0 2000.0  We participated in Most where we won first price
@@ -87,11 +87,11 @@ P 6310.0 6464.0  This why our company
 P 6310.0 6484.0  This why our company is
 C 6310.0 6934.0  This why our company is here.
 P 6934.0 6970.0  We
-P 6934.0 6995.999999999999  We can
+P 6934.0 6996.0  We can
 P 6934.0 7128.0  We can offer
 P 6934.0 7148.0  We can offer you...
 P 6934.0 7184.0  We can offer you... doprčic,
-P 6934.0 8168.000000000001  We can offer you... doprčic, magnetotherapy,
+P 6934.0 8168.0  We can offer you... doprčic, magnetotherapy,
 P 6934.0 8208.0  We can offer you... doprčic, magnetotherapy, salt
 P 6934.0 8350.0  We can offer you... doprčic, magnetotherapy, salt cave,
 P 6934.0 8360.0  We can offer you... doprčic, magnetotherapy, salt cave, a

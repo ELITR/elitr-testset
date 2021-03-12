@@ -1,10 +1,10 @@
-C 57.99999999999999 80.0  Hi!
+C 58.0 80.0  Hi!
 P 80.0 92.0  I
-P 80.0 110.00000000000001  I would
+P 80.0 110.0  I would
 P 80.0 134.0  I would like
 P 80.0 166.0  I would like to
 P 80.0 214.0  I would like to introduce
-P 80.0 231.99999999999997  I would like to introduce you
+P 80.0 232.0  I would like to introduce you
 P 80.0 252.0  I would like to introduce you the
 P 80.0 294.0  I would like to introduce you the company
 P 80.0 308.0  I would like to introduce you the company I
@@ -20,7 +20,7 @@ P 466.0 734.0  Our company was founded this year,
 P 466.0 782.0  Our company was founded this year, but
 P 466.0 818.0  Our company was founded this year, but we
 P 466.0 868.0  Our company was founded this year, but we already
-P 466.0 946.0000000000001  Our company was founded this year, but we already won
+P 466.0 946.0  Our company was founded this year, but we already won
 P 466.0 1036.0  Our company was founded this year, but we already won rewards...
 P 466.0 1166.0  Our company was founded this year, but we already won rewards... rewards...
 C 466.0 1316.0  Our company was founded this year, but we already won rewards... rewards... prizes.
@@ -30,12 +30,12 @@ P 1316.0 1508.0  So there is
 P 1316.0 1518.0  So there is a
 P 1316.0 1542.0  So there is a fairly
 P 1316.0 1566.0  So there is a fairly bright
-P 1316.0 1605.9999999999998  So there is a fairly bright future
-P 1316.0 1623.9999999999998  So there is a fairly bright future in
+P 1316.0 1606.0  So there is a fairly bright future
+P 1316.0 1624.0  So there is a fairly bright future in
 P 1316.0 1648.0  So there is a fairly bright future in front
-P 1316.0 1657.9999999999998  So there is a fairly bright future in front of
+P 1316.0 1658.0  So there is a fairly bright future in front of
 C 1316.0 1770.0  So there is a fairly bright future in front of us.
-P 1770.0 1805.9999999999998  We
+P 1770.0 1806.0  We
 P 1770.0 1832.0  We offer
 P 1770.0 1864.0  We offer cloud
 P 1770.0 2036.0  We offer cloud services
@@ -61,22 +61,22 @@ P 2590.0 2866.0  So the proper provider is Microsoft, we just
 P 2590.0 2894.0  So the proper provider is Microsoft, we just sell
 P 2590.0 2904.0  So the proper provider is Microsoft, we just sell the
 C 2590.0 3190.0  So the proper provider is Microsoft, we just sell the licenses.
-P 3190.0 3288.0000000000005  Specifically,
-P 3190.0 3311.9999999999995  Specifically, we
-P 3190.0 3370.0000000000005  Specifically, we offer
+P 3190.0 3288.0  Specifically,
+P 3190.0 3312.0  Specifically, we
+P 3190.0 3370.0  Specifically, we offer
 P 3190.0 3410.0  Specifically, we offer three
 P 3190.0 3446.0  Specifically, we offer three basic
 P 3190.0 3546.0  Specifically, we offer three basic licenses
 P 3190.0 3568.0  Specifically, we offer three basic licenses for
-P 3190.0 3647.9999999999995  Specifically, we offer three basic licenses for household,
+P 3190.0 3648.0  Specifically, we offer three basic licenses for household,
 P 3190.0 3668.0  Specifically, we offer three basic licenses for household, for
-P 3190.0 3779.9999999999995  Specifically, we offer three basic licenses for household, for individuals,
-P 3190.0 3838.0000000000005  Specifically, we offer three basic licenses for household, for individuals, business
+P 3190.0 3780.0  Specifically, we offer three basic licenses for household, for individuals,
+P 3190.0 3838.0  Specifically, we offer three basic licenses for household, for individuals, business
 P 3190.0 3854.0  Specifically, we offer three basic licenses for household, for individuals, business and
 P 3190.0 3882.0  Specifically, we offer three basic licenses for household, for individuals, business and one
-P 3190.0 3915.9999999999995  Specifically, we offer three basic licenses for household, for individuals, business and one large
+P 3190.0 3916.0  Specifically, we offer three basic licenses for household, for individuals, business and one large
 P 3190.0 3974.0  Specifically, we offer three basic licenses for household, for individuals, business and one large package
-P 3190.0 4015.9999999999995  Specifically, we offer three basic licenses for household, for individuals, business and one large package named
+P 3190.0 4016.0  Specifically, we offer three basic licenses for household, for individuals, business and one large package named
 P 3190.0 4036.0  Specifically, we offer three basic licenses for household, for individuals, business and one large package named E
 C 3190.0 4256.0  Specifically, we offer three basic licenses for household, for individuals, business and one large package named E three.
 P 4256.0 4314.0  All
@@ -116,36 +116,36 @@ P 5960.0 6268.0  An open-world building game suitable for all
 C 5960.0 6416.0  An open-world building game suitable for all ages.
 P 6416.0 6492.0  Perhaps
 P 6416.0 6512.0  Perhaps there
-P 6416.0 6526.000000000001  Perhaps there is
-P 6416.0 6545.999999999999  Perhaps there is no
+P 6416.0 6526.0  Perhaps there is
+P 6416.0 6546.0  Perhaps there is no
 P 6416.0 6566.0  Perhaps there is no need
-P 6416.0 6573.999999999999  Perhaps there is no need to
+P 6416.0 6574.0  Perhaps there is no need to
 P 6416.0 6620.0  Perhaps there is no need to introduce
 P 6416.0 6652.0  Perhaps there is no need to introduce it,
-P 6416.0 6690.000000000001  Perhaps there is no need to introduce it, thanks
+P 6416.0 6690.0  Perhaps there is no need to introduce it, thanks
 P 6416.0 6702.0  Perhaps there is no need to introduce it, thanks to
 P 6416.0 6716.0  Perhaps there is no need to introduce it, thanks to its
 P 6416.0 6800.0  Perhaps there is no need to introduce it, thanks to its popularity
 P 6416.0 6820.0  Perhaps there is no need to introduce it, thanks to its popularity it
 P 6416.0 6842.0  Perhaps there is no need to introduce it, thanks to its popularity it has
-P 6416.0 6890.000000000001  Perhaps there is no need to introduce it, thanks to its popularity it has gain
-P 6416.0 6945.999999999999  Perhaps there is no need to introduce it, thanks to its popularity it has gain millions
+P 6416.0 6890.0  Perhaps there is no need to introduce it, thanks to its popularity it has gain
+P 6416.0 6946.0  Perhaps there is no need to introduce it, thanks to its popularity it has gain millions
 P 6416.0 6958.0  Perhaps there is no need to introduce it, thanks to its popularity it has gain millions of
 P 6416.0 7012.0  Perhaps there is no need to introduce it, thanks to its popularity it has gain millions of players
 P 6416.0 7042.0  Perhaps there is no need to introduce it, thanks to its popularity it has gain millions of players around
 P 6416.0 7056.0  Perhaps there is no need to introduce it, thanks to its popularity it has gain millions of players around the
-C 6416.0 7231.999999999999  Perhaps there is no need to introduce it, thanks to its popularity it has gain millions of players around the world.
-P 7231.999999999999 7288.0  Also,
-P 7231.999999999999 7308.0  Also, it's
-P 7231.999999999999 7348.0  Also, it's important
-P 7231.999999999999 7359.999999999999  Also, it's important to
-P 7231.999999999999 7418.000000000001  Also, it's important to mention
-P 7231.999999999999 7438.0  Also, it's important to mention that
-P 7231.999999999999 7480.0  Also, it's important to mention that we
-P 7231.999999999999 7540.000000000001  Also, it's important to mention that we offer
-P 7231.999999999999 7644.0  Also, it's important to mention that we offer custom-made
-C 7231.999999999999 7914.0  Also, it's important to mention that we offer custom-made applications.
-P 7914.0 7995.999999999999  According
+C 6416.0 7232.0  Perhaps there is no need to introduce it, thanks to its popularity it has gain millions of players around the world.
+P 7232.0 7288.0  Also,
+P 7232.0 7308.0  Also, it's
+P 7232.0 7348.0  Also, it's important
+P 7232.0 7360.0  Also, it's important to
+P 7232.0 7418.0  Also, it's important to mention
+P 7232.0 7438.0  Also, it's important to mention that
+P 7232.0 7480.0  Also, it's important to mention that we
+P 7232.0 7540.0  Also, it's important to mention that we offer
+P 7232.0 7644.0  Also, it's important to mention that we offer custom-made
+C 7232.0 7914.0  Also, it's important to mention that we offer custom-made applications.
+P 7914.0 7996.0  According
 P 7914.0 8014.0  According to
 P 7914.0 8152.0  According to customers
 P 7914.0 8240.0  According to customers according

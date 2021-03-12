@@ -1,6 +1,6 @@
 P 122.0 174.0  Hello,
 P 122.0 210.0  Hello, nice
-P 122.0 220.00000000000003  Hello, nice to
+P 122.0 220.0  Hello, nice to
 P 122.0 250.0  Hello, nice to meet
 C 122.0 298.0  Hello, nice to meet you.
 P 298.0 320.0  I
@@ -8,7 +8,7 @@ P 298.0 342.0  I would
 P 298.0 372.0  I would like
 P 298.0 384.0  I would like to
 P 298.0 428.0  I would like to introduce
-P 298.0 490.00000000000006  I would like to introduce myself
+P 298.0 490.0  I would like to introduce myself
 P 298.0 504.0  I would like to introduce myself and
 P 298.0 526.0  I would like to introduce myself and my
 C 298.0 624.0  I would like to introduce myself and my colleague.
@@ -20,18 +20,18 @@ P 624.0 730.0  My name is <NAME> and
 P 624.0 752.0  My name is <NAME> and I'm
 P 624.0 762.0  My name is <NAME> and I'm the
 P 624.0 814.0  My name is <NAME> and I'm the manager
-P 624.0 827.9999999999999  My name is <NAME> and I'm the manager of
+P 624.0 828.0  My name is <NAME> and I'm the manager of
 P 624.0 856.0  My name is <NAME> and I'm the manager of our
 P 624.0 906.0  My name is <NAME> and I'm the manager of our travel
-C 624.0 1019.9999999999999  My name is <NAME> and I'm the manager of our travel agency.
-P 1019.9999999999999 1032.0  And
-P 1019.9999999999999 1052.0  And this
-P 1019.9999999999999 1068.0  And this is
-P 1019.9999999999999 1094.0  And this is our
-P 1019.9999999999999 1124.0  And this is our IT
-P 1019.9999999999999 1192.0  And this is our IT specialist
-P 1019.9999999999999 1248.0  And this is our IT specialist miss
-C 1019.9999999999999 1270.0  And this is our IT specialist miss <NAME>.
+C 624.0 1020.0  My name is <NAME> and I'm the manager of our travel agency.
+P 1020.0 1032.0  And
+P 1020.0 1052.0  And this
+P 1020.0 1068.0  And this is
+P 1020.0 1094.0  And this is our
+P 1020.0 1124.0  And this is our IT
+P 1020.0 1192.0  And this is our IT specialist
+P 1020.0 1248.0  And this is our IT specialist miss
+C 1020.0 1270.0  And this is our IT specialist miss <NAME>.
 P 1270.0 1286.0  Nice
 P 1270.0 1296.0  Nice to
 P 1270.0 1322.0  Nice to meet
@@ -48,10 +48,10 @@ C 1360.0 1702.0  We are glad to be here on this expo.
 P 1702.0 1722.0  We
 P 1702.0 1734.0  We are
 P 1702.0 1812.0  We are representing
-P 1702.0 1844.0000000000002  We are representing our
+P 1702.0 1844.0  We are representing our
 P 1702.0 1898.0  We are representing our team
 P 1702.0 1916.0  We are representing our team of
-P 1702.0 1955.9999999999998  We are representing our team of nine
+P 1702.0 1956.0  We are representing our team of nine
 P 1702.0 1998.0  We are representing our team of nine people
 P 1702.0 2028.0  We are representing our team of nine people from
 P 1702.0 2172.0  We are representing our team of nine people from Vlašim
@@ -77,23 +77,23 @@ P 2488.0 2984.0  Our travel agency specializes in travels across Japan, mainly i
 P 2488.0 3008.0  Our travel agency specializes in travels across Japan, mainly in its
 P 2488.0 3076.0  Our travel agency specializes in travels across Japan, mainly in its largest
 P 2488.0 3130.0  Our travel agency specializes in travels across Japan, mainly in its largest island
-C 2488.0 3238.0000000000005  Our travel agency specializes in travels across Japan, mainly in its largest island Honshu.
-P 3238.0000000000005 3268.0  We
-P 3238.0000000000005 3311.9999999999995  We aim
-P 3238.0000000000005 3334.0000000000005  We aim to
-P 3238.0000000000005 3396.0  We aim to fulfill
-P 3238.0000000000005 3424.0  We aim to fulfill our
-P 3238.0000000000005 3486.0  We aim to fulfill our customers
-P 3238.0000000000005 3520.0000000000005  We aim to fulfill our customers every
-P 3238.0000000000005 3608.0  We aim to fulfill our customers every wish
-P 3238.0000000000005 3640.0  We aim to fulfill our customers every wish even
-P 3238.0000000000005 3652.0000000000005  We aim to fulfill our customers every wish even the
-P 3238.0000000000005 3682.0  We aim to fulfill our customers every wish even the most
-P 3238.0000000000005 3774.0  We aim to fulfill our customers every wish even the most challenging
-P 3238.0000000000005 3794.0  We aim to fulfill our customers every wish even the most challenging with
-P 3238.0000000000005 3864.0  We aim to fulfill our customers every wish even the most challenging with individual
-C 3238.0000000000005 3990.0  We aim to fulfill our customers every wish even the most challenging with individual approach.
-P 3990.0 4015.9999999999995  With
+C 2488.0 3238.0  Our travel agency specializes in travels across Japan, mainly in its largest island Honshu.
+P 3238.0 3268.0  We
+P 3238.0 3312.0  We aim
+P 3238.0 3334.0  We aim to
+P 3238.0 3396.0  We aim to fulfill
+P 3238.0 3424.0  We aim to fulfill our
+P 3238.0 3486.0  We aim to fulfill our customers
+P 3238.0 3520.0  We aim to fulfill our customers every
+P 3238.0 3608.0  We aim to fulfill our customers every wish
+P 3238.0 3640.0  We aim to fulfill our customers every wish even
+P 3238.0 3652.0  We aim to fulfill our customers every wish even the
+P 3238.0 3682.0  We aim to fulfill our customers every wish even the most
+P 3238.0 3774.0  We aim to fulfill our customers every wish even the most challenging
+P 3238.0 3794.0  We aim to fulfill our customers every wish even the most challenging with
+P 3238.0 3864.0  We aim to fulfill our customers every wish even the most challenging with individual
+C 3238.0 3990.0  We aim to fulfill our customers every wish even the most challenging with individual approach.
+P 3990.0 4016.0  With
 P 3990.0 4054.0  With us,
 P 3990.0 4078.0  With us, you
 P 3990.0 4098.0  With us, you can
@@ -141,16 +141,16 @@ P 6102.0 6116.0  And
 P 6102.0 6212.0  And Nikko
 P 6102.0 6242.0  And Nikko with
 P 6102.0 6356.0  And Nikko with breathtaking
-P 6102.0 6418.000000000001  And Nikko with breathtaking nature
-P 6102.0 6431.999999999999  And Nikko with breathtaking nature and
+P 6102.0 6418.0  And Nikko with breathtaking nature
+P 6102.0 6432.0  And Nikko with breathtaking nature and
 P 6102.0 6488.0  And Nikko with breathtaking nature and beautiful
 C 6102.0 6584.0  And Nikko with breathtaking nature and beautiful shrines.
 P 6584.0 6622.0  So
 P 6584.0 6652.0  So let's
 P 6584.0 6708.0  So let's discover
-P 6584.0 6731.999999999999  So let's discover with
+P 6584.0 6732.0  So let's discover with
 P 6584.0 6770.0  So let's discover with us
-P 6584.0 6790.000000000001  So let's discover with us the
+P 6584.0 6790.0  So let's discover with us the
 P 6584.0 6844.0  So let's discover with us the amazing
 P 6584.0 6898.0  So let's discover with us the amazing country
 P 6584.0 6908.0  So let's discover with us the amazing country of

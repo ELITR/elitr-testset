@@ -1,13 +1,13 @@
 P 32.0 188.0  Is that the sea witch,
 P 32.0 206.0  Is that the sea witch, the
-P 32.0 231.99999999999997  Is that the sea witch, the book
+P 32.0 232.0  Is that the sea witch, the book
 P 32.0 248.0  Is that the sea witch, the book that
 P 32.0 298.0  Is that the sea witch, the book that everyone
 P 32.0 328.0  Is that the sea witch, the book that everyone wants
 P 32.0 342.0  Is that the sea witch, the book that everyone wants to
-C 32.0 436.00000000000006  Is that the sea witch, the book that everyone wants to have?
-P 436.00000000000006 476.0  Ah,
-C 436.00000000000006 564.0  Ah, yeah.
+C 32.0 436.0  Is that the sea witch, the book that everyone wants to have?
+P 436.0 476.0  Ah,
+C 436.0 564.0  Ah, yeah.
 P 564.0 588.0  Oh
 P 564.0 608.0  Oh my
 P 564.0 698.0  Oh my God,
@@ -17,19 +17,19 @@ P 564.0 744.0  Oh my God, I wish I
 P 564.0 768.0  Oh my God, I wish I had
 P 564.0 776.0  Oh my God, I wish I had it
 C 564.0 848.0  Oh my God, I wish I had it too.
-P 848.0 869.9999999999999  I
+P 848.0 870.0  I
 P 848.0 902.0  I really
-P 848.0 919.9999999999999  I really would
+P 848.0 920.0  I really would
 P 848.0 932.0  I really would like
 P 848.0 940.0  I really would like to
 P 848.0 964.0  I really would like to read
-C 848.0 996.0000000000001  I really would like to read it.
-P 996.0000000000001 1018.0  But
-P 996.0000000000001 1064.0  But sadly
-P 996.0000000000001 1072.0  But sadly its
-P 996.0000000000001 1094.0  But sadly its not
-P 996.0000000000001 1148.0  But sadly its not available
-C 996.0000000000001 1294.0  But sadly its not available anymore.
+C 848.0 996.0  I really would like to read it.
+P 996.0 1018.0  But
+P 996.0 1064.0  But sadly
+P 996.0 1072.0  But sadly its
+P 996.0 1094.0  But sadly its not
+P 996.0 1148.0  But sadly its not available
+C 996.0 1294.0  But sadly its not available anymore.
 P 1294.0 1318.0  No
 P 1294.0 1360.0  No matter
 P 1294.0 1384.0  No matter what
@@ -39,12 +39,12 @@ P 1294.0 1436.0  No matter what book you want
 P 1294.0 1446.0  No matter what book you want to
 P 1294.0 1532.0  No matter what book you want to read,
 P 1294.0 1596.0  No matter what book you want to read, Bücherinsel
-P 1294.0 1623.9999999999998  No matter what book you want to read, Bücherinsel West
-P 1294.0 1655.9999999999998  No matter what book you want to read, Bücherinsel West has
+P 1294.0 1624.0  No matter what book you want to read, Bücherinsel West
+P 1294.0 1656.0  No matter what book you want to read, Bücherinsel West has
 P 1294.0 1670.0  No matter what book you want to read, Bücherinsel West has it
 C 1294.0 1862.0  No matter what book you want to read, Bücherinsel West has it all.
-P 1862.0 1926.0000000000002  Bücherinsel
-P 1862.0 1957.9999999999998  Bücherinsel West
+P 1862.0 1926.0  Bücherinsel
+P 1862.0 1958.0  Bücherinsel West
 P 1862.0 1972.0  Bücherinsel West is
 P 1862.0 1982.0  Bücherinsel West is a
 P 1862.0 2032.0  Bücherinsel West is a company
@@ -78,14 +78,14 @@ P 2554.0 3032.0  The... We are located in Amstetten in Austria and we are sellin
 P 2554.0 3050.0  The... We are located in Amstetten in Austria and we are selling to all over the
 C 2554.0 3148.0  The... We are located in Amstetten in Austria and we are selling to all over the Europe.
 P 3148.0 3214.0  Also
-P 3148.0 3234.0000000000005  Also if
+P 3148.0 3234.0  Also if
 P 3148.0 3244.0  Also if you
-P 3148.0 3265.9999999999995  Also if you don't
+P 3148.0 3266.0  Also if you don't
 P 3148.0 3282.0  Also if you don't get
 P 3148.0 3294.0  Also if you don't get to
-P 3148.0 3315.9999999999995  Also if you don't get to buy
+P 3148.0 3316.0  Also if you don't get to buy
 P 3148.0 3324.0  Also if you don't get to buy a
-P 3148.0 3347.9999999999995  Also if you don't get to buy a book
+P 3148.0 3348.0  Also if you don't get to buy a book
 P 3148.0 3394.0  Also if you don't get to buy a book today,
 P 3148.0 3410.0  Also if you don't get to buy a book today, it
 P 3148.0 3444.0  Also if you don't get to buy a book today, it doesn't
@@ -94,20 +94,20 @@ P 3148.0 3544.0  Also if you don't get to buy a book today, it doesn't matter, j
 P 3148.0 3568.0  Also if you don't get to buy a book today, it doesn't matter, just make
 P 3148.0 3594.0  Also if you don't get to buy a book today, it doesn't matter, just make sure
 P 3148.0 3606.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to
-P 3148.0 3638.0000000000005  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit
+P 3148.0 3638.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit
 P 3148.0 3656.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our
 P 3148.0 3746.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop
-P 3148.0 3761.9999999999995  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or
+P 3148.0 3762.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or
 P 3148.0 3796.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just
 P 3148.0 3824.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send
-P 3148.0 3838.0000000000005  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us
+P 3148.0 3838.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us
 P 3148.0 3850.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us an
-P 3148.0 3902.0000000000005  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us an email
-P 3148.0 3920.0000000000005  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us an email or
-P 3148.0 3929.9999999999995  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us an email or a
+P 3148.0 3902.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us an email
+P 3148.0 3920.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us an email or
+P 3148.0 3930.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us an email or a
 C 3148.0 4022.0  Also if you don't get to buy a book today, it doesn't matter, just make sure to visit our webshop or just send us an email or a letter.
 P 4022.0 4046.0  You
-P 4022.0 4065.9999999999995  You can
+P 4022.0 4066.0  You can
 P 4022.0 4090.0  You can find
 P 4022.0 4110.0  You can find our
 P 4022.0 4154.0  You can find our address

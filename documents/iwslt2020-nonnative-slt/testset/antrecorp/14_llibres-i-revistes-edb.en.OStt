@@ -1,18 +1,18 @@
-P 40.0 57.99999999999999  Good
+P 40.0 58.0  Good
 C 40.0 120.0  Good afternoon!
 P 120.0 142.0  Good
 C 120.0 200.0  Good afternoon.
 P 200.0 214.0  Do
-P 200.0 224.00000000000003  Do you
+P 200.0 224.0  Do you
 P 200.0 238.0  Do you know
 P 200.0 250.0  Do you know about
 P 200.0 264.0  Do you know about the
 P 200.0 306.0  Do you know about the company
 C 200.0 378.0  Do you know about the company EDB?
-P 378.0 401.99999999999994  No,
-P 378.0 413.99999999999994  No, I
+P 378.0 402.0  No,
+P 378.0 414.0  No, I
 P 378.0 442.0  No, I never
-P 378.0 463.99999999999994  No, I never heard
+P 378.0 464.0  No, I never heard
 P 378.0 478.0  No, I never heard about
 C 378.0 508.0  No, I never heard about it.
 P 508.0 526.0  Where
@@ -25,9 +25,9 @@ P 608.0 710.0  Well we are
 P 608.0 718.0  Well we are a
 P 608.0 776.0  Well we are a company
 P 608.0 800.0  Well we are a company from
-P 608.0 919.9999999999999  Well we are a company from Barcelona,
-P 608.0 969.9999999999999  Well we are a company from Barcelona, and
-P 608.0 988.0000000000001  Well we are a company from Barcelona, and we
+P 608.0 920.0  Well we are a company from Barcelona,
+P 608.0 970.0  Well we are a company from Barcelona, and
+P 608.0 988.0  Well we are a company from Barcelona, and we
 P 608.0 1014.0  Well we are a company from Barcelona, and we are...
 P 608.0 1036.0  Well we are a company from Barcelona, and we are... we
 P 608.0 1056.0  Well we are a company from Barcelona, and we are... we have
@@ -47,22 +47,22 @@ P 1458.0 1492.0  That's a
 P 1458.0 1514.0  That's a great
 P 1458.0 1548.0  That's a great idea,
 P 1458.0 1588.0  That's a great idea, because
-P 1458.0 1607.9999999999998  That's a great idea, because our
+P 1458.0 1608.0  That's a great idea, because our
 P 1458.0 1646.0  That's a great idea, because our company
-P 1458.0 1655.9999999999998  That's a great idea, because our company is
+P 1458.0 1656.0  That's a great idea, because our company is
 P 1458.0 1670.0  That's a great idea, because our company is now
 P 1458.0 1698.0  That's a great idea, because our company is now looking
 P 1458.0 1714.0  That's a great idea, because our company is now looking to
 P 1458.0 1748.0  That's a great idea, because our company is now looking to expand
-P 1458.0 1789.9999999999998  That's a great idea, because our company is now looking to expand around
-P 1458.0 1810.0000000000002  That's a great idea, because our company is now looking to expand around all
+P 1458.0 1790.0  That's a great idea, because our company is now looking to expand around
+P 1458.0 1810.0  That's a great idea, because our company is now looking to expand around all
 C 1458.0 1868.0  That's a great idea, because our company is now looking to expand around all Europe.
-P 1868.0 1894.0000000000002  So
+P 1868.0 1894.0  So
 P 1868.0 1918.0  So that's
-P 1868.0 1926.0000000000002  So that's a
+P 1868.0 1926.0  So that's a
 P 1868.0 1950.0  So that's a great
 C 1868.0 2030.0  So that's a great idea.
-P 2030.0 2044.0000000000002  And
+P 2030.0 2044.0  And
 P 2030.0 2062.0  And what
 P 2030.0 2078.0  And what do
 P 2030.0 2090.0  And what do you
@@ -94,43 +94,43 @@ P 2904.0 3104.0  Our company is also based in the... in this
 P 2904.0 3134.0  Our company is also based in the... in this kind
 P 2904.0 3164.0  Our company is also based in the... in this kind of
 P 2904.0 3222.0  Our company is also based in the... in this kind of services
-P 2904.0 3234.0000000000005  Our company is also based in the... in this kind of services and
+P 2904.0 3234.0  Our company is also based in the... in this kind of services and
 P 2904.0 3272.0  Our company is also based in the... in this kind of services and products,
 P 2904.0 3336.0  Our company is also based in the... in this kind of services and products, so...
 P 2904.0 3356.0  Our company is also based in the... in this kind of services and products, so... we
-P 2904.0 3379.9999999999995  Our company is also based in the... in this kind of services and products, so... we would
+P 2904.0 3380.0  Our company is also based in the... in this kind of services and products, so... we would
 P 2904.0 3436.0  Our company is also based in the... in this kind of services and products, so... we would be...
 P 2904.0 3454.0  Our company is also based in the... in this kind of services and products, so... we would be... we
 P 2904.0 3472.0  Our company is also based in the... in this kind of services and products, so... we would be... we would
 P 2904.0 3492.0  Our company is also based in the... in this kind of services and products, so... we would be... we would be
 P 2904.0 3500.0  Our company is also based in the... in this kind of services and products, so... we would be... we would be a
-P 2904.0 3534.0000000000005  Our company is also based in the... in this kind of services and products, so... we would be... we would be a good
+P 2904.0 3534.0  Our company is also based in the... in this kind of services and products, so... we would be... we would be a good
 C 2904.0 3672.0  Our company is also based in the... in this kind of services and products, so... we would be... we would be a good partnership.
 P 3672.0 3706.0  And
 P 3672.0 3732.0  And what
 P 3672.0 3750.0  And what is
-P 3672.0 3761.9999999999995  And what is the
-P 3672.0 3784.0000000000005  And what is the goal
+P 3672.0 3762.0  And what is the
+P 3672.0 3784.0  And what is the goal
 P 3672.0 3792.0  And what is the goal of
 P 3672.0 3810.0  And what is the goal of your
-C 3672.0 3888.0000000000005  And what is the goal of your company?
-P 3888.0000000000005 4061.9999999999995  Our
-P 3888.0000000000005 4086.0  Our goal
-P 3888.0000000000005 4108.0  Our goal is
-P 3888.0000000000005 4154.0  Our goal is to
-P 3888.0000000000005 4268.0  Our goal is to create
-P 3888.0000000000005 4336.0  Our goal is to create educational
-P 3888.0000000000005 4368.0  Our goal is to create educational products
-P 3888.0000000000005 4388.0  Our goal is to create educational products and
-P 3888.0000000000005 4496.0  Our goal is to create educational products and services
-P 3888.0000000000005 4518.0  Our goal is to create educational products and services to
-P 3888.0000000000005 4546.0  Our goal is to create educational products and services to try
-P 3888.0000000000005 4562.0  Our goal is to create educational products and services to try to
-P 3888.0000000000005 4620.0  Our goal is to create educational products and services to try to contribute
-P 3888.0000000000005 4640.0  Our goal is to create educational products and services to try to contribute to
-P 3888.0000000000005 4664.0  Our goal is to create educational products and services to try to contribute to young
-P 3888.0000000000005 4696.0  Our goal is to create educational products and services to try to contribute to young people
-C 3888.0000000000005 4784.0  Our goal is to create educational products and services to try to contribute to young people development.
+C 3672.0 3888.0  And what is the goal of your company?
+P 3888.0 4062.0  Our
+P 3888.0 4086.0  Our goal
+P 3888.0 4108.0  Our goal is
+P 3888.0 4154.0  Our goal is to
+P 3888.0 4268.0  Our goal is to create
+P 3888.0 4336.0  Our goal is to create educational
+P 3888.0 4368.0  Our goal is to create educational products
+P 3888.0 4388.0  Our goal is to create educational products and
+P 3888.0 4496.0  Our goal is to create educational products and services
+P 3888.0 4518.0  Our goal is to create educational products and services to
+P 3888.0 4546.0  Our goal is to create educational products and services to try
+P 3888.0 4562.0  Our goal is to create educational products and services to try to
+P 3888.0 4620.0  Our goal is to create educational products and services to try to contribute
+P 3888.0 4640.0  Our goal is to create educational products and services to try to contribute to
+P 3888.0 4664.0  Our goal is to create educational products and services to try to contribute to young
+P 3888.0 4696.0  Our goal is to create educational products and services to try to contribute to young people
+C 3888.0 4784.0  Our goal is to create educational products and services to try to contribute to young people development.
 P 4784.0 4906.0  That's
 P 4784.0 4920.0  That's a
 P 4784.0 4960.0  That's a perfect
@@ -172,48 +172,48 @@ P 5956.0 6328.0  In the future we would like to expand and make it
 P 5956.0 6370.0  In the future we would like to expand and make it better
 P 5956.0 6394.0  In the future we would like to expand and make it better with
 P 5956.0 6416.0  In the future we would like to expand and make it better with more
-P 5956.0 6523.999999999999  In the future we would like to expand and make it better with more quality
+P 5956.0 6524.0  In the future we would like to expand and make it better with more quality
 P 5956.0 6544.0  In the future we would like to expand and make it better with more quality and
-P 5956.0 6576.000000000001  In the future we would like to expand and make it better with more quality and try
-P 5956.0 6590.000000000001  In the future we would like to expand and make it better with more quality and try to
+P 5956.0 6576.0  In the future we would like to expand and make it better with more quality and try
+P 5956.0 6590.0  In the future we would like to expand and make it better with more quality and try to
 P 5956.0 6614.0  In the future we would like to expand and make it better with more quality and try to help
 C 5956.0 6678.0  In the future we would like to expand and make it better with more quality and try to help them.
 P 6678.0 6700.0  And
 P 6678.0 6712.0  And if
-P 6678.0 6726.000000000001  And if you
+P 6678.0 6726.0  And if you
 P 6678.0 6744.0  And if you want
-P 6678.0 6754.000000000001  And if you want to
+P 6678.0 6754.0  And if you want to
 P 6678.0 6772.0  And if you want to be
-P 6678.0 6790.000000000001  And if you want to be part
+P 6678.0 6790.0  And if you want to be part
 P 6678.0 6798.0  And if you want to be part of
 P 6678.0 6822.0  And if you want to be part of this
 P 6678.0 6934.0  And if you want to be part of this experience,
 P 6678.0 6984.0  And if you want to be part of this experience, please
 P 6678.0 7002.0  And if you want to be part of this experience, please do
-P 6678.0 7018.000000000001  And if you want to be part of this experience, please do not
+P 6678.0 7018.0  And if you want to be part of this experience, please do not
 P 6678.0 7066.0  And if you want to be part of this experience, please do not hesitate
 P 6678.0 7078.0  And if you want to be part of this experience, please do not hesitate to
 P 6678.0 7144.0  And if you want to be part of this experience, please do not hesitate to contact
 C 6678.0 7208.0  And if you want to be part of this experience, please do not hesitate to contact us.
-P 7208.0 7268.000000000001  OK
+P 7208.0 7268.0  OK
 P 7208.0 7284.0  OK I
 P 7208.0 7302.0  OK I will
 P 7208.0 7322.0  OK I will talk
 P 7208.0 7338.0  OK I will talk with
 P 7208.0 7358.0  OK I will talk with my
-P 7208.0 7426.000000000001  OK I will talk with my partners
+P 7208.0 7426.0  OK I will talk with my partners
 P 7208.0 7450.0  OK I will talk with my partners and
 P 7208.0 7470.0  OK I will talk with my partners and if
 P 7208.0 7486.0  OK I will talk with my partners and if we
-P 7208.0 7504.000000000001  OK I will talk with my partners and if we are
+P 7208.0 7504.0  OK I will talk with my partners and if we are
 P 7208.0 7588.0  OK I will talk with my partners and if we are interested
-P 7208.0 7609.999999999999  OK I will talk with my partners and if we are interested we
-P 7208.0 7626.000000000001  OK I will talk with my partners and if we are interested we will
-P 7208.0 7645.999999999999  OK I will talk with my partners and if we are interested we will let
+P 7208.0 7610.0  OK I will talk with my partners and if we are interested we
+P 7208.0 7626.0  OK I will talk with my partners and if we are interested we will
+P 7208.0 7646.0  OK I will talk with my partners and if we are interested we will let
 P 7208.0 7656.0  OK I will talk with my partners and if we are interested we will let you
 C 7208.0 7672.0  OK I will talk with my partners and if we are interested we will let you know.
 C 7672.0 7748.0  OK.
 P 7748.0 7766.0  Thank
-C 7748.0 7773.999999999999  Thank you!
-P 7773.999999999999 7790.000000000001  Thank
-C 7773.999999999999 7795.999999999999  Thank you!
+C 7748.0 7774.0  Thank you!
+P 7774.0 7790.0  Thank
+C 7774.0 7796.0  Thank you!

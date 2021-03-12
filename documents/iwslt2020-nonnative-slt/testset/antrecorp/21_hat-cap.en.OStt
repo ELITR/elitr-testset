@@ -8,9 +8,9 @@ P 282.0 560.0  Etchiu... Pardon
 C 282.0 622.0  Etchiu... Pardon me...
 P 622.0 664.0  Bless
 P 622.0 718.0  Bless you...
-P 622.0 803.9999999999999  Bless you... Wow!
+P 622.0 804.0  Bless you... Wow!
 P 622.0 834.0  Bless you... Wow! That's
-P 622.0 846.0000000000001  Bless you... Wow! That's an
+P 622.0 846.0  Bless you... Wow! That's an
 P 622.0 900.0  Bless you... Wow! That's an amazing
 C 622.0 994.0  Bless you... Wow! That's an amazing hat!
 P 994.0 1028.0  Yes,
@@ -26,7 +26,7 @@ P 994.0 1444.0  Yes, sure! That's our flagship product, we are Hat&Cap from
 C 994.0 1646.0  Yes, sure! That's our flagship product, we are Hat&Cap from Italy.
 P 1646.0 1788.0  Wow...
 P 1646.0 1830.0  Wow... So
-P 1646.0 1876.0000000000002  Wow... So you
+P 1646.0 1876.0  Wow... So you
 P 1646.0 1982.0  Wow... So you produce
 C 1646.0 2068.0  Wow... So you produce caps?
 P 2068.0 2100.0  No,
@@ -49,7 +49,7 @@ P 2604.0 2674.0  But this is a
 P 2604.0 2792.0  But this is a breathtaking
 C 2604.0 2892.0  But this is a breathtaking cap!
 P 2892.0 3112.0  Wow!
-P 2892.0 3234.0000000000005  Wow! But...
+P 2892.0 3234.0  Wow! But...
 P 2892.0 3282.0  Wow! But... But
 P 2892.0 3296.0  Wow! But... But I
 P 2892.0 3374.0  Wow! But... But I think
@@ -57,20 +57,20 @@ P 2892.0 3394.0  Wow! But... But I think it's
 P 2892.0 3418.0  Wow! But... But I think it's very
 P 2892.0 3532.0  Wow! But... But I think it's very expensive,
 P 2892.0 3554.0  Wow! But... But I think it's very expensive, the
-P 2892.0 3615.9999999999995  Wow! But... But I think it's very expensive, the quality
-P 2892.0 3638.0000000000005  Wow! But... But I think it's very expensive, the quality is
+P 2892.0 3616.0  Wow! But... But I think it's very expensive, the quality
+P 2892.0 3638.0  Wow! But... But I think it's very expensive, the quality is
 C 2892.0 3746.0  Wow! But... But I think it's very expensive, the quality is excellent.
 P 3746.0 3782.0  Yes,
 P 3746.0 3796.0  Yes, in
-P 3746.0 3834.0000000000005  Yes, in fact
+P 3746.0 3834.0  Yes, in fact
 P 3746.0 3844.0  Yes, in fact we
-P 3746.0 3870.0000000000005  Yes, in fact we use
+P 3746.0 3870.0  Yes, in fact we use
 P 3746.0 3878.0  Yes, in fact we use the
 P 3746.0 3904.0  Yes, in fact we use the best
 P 3746.0 3956.0  Yes, in fact we use the best materials
 P 3746.0 3972.0  Yes, in fact we use the best materials on
 P 3746.0 3982.0  Yes, in fact we use the best materials on the
-P 3746.0 4079.9999999999995  Yes, in fact we use the best materials on the market,
+P 3746.0 4080.0  Yes, in fact we use the best materials on the market,
 P 3746.0 4116.0  Yes, in fact we use the best materials on the market, because
 P 3746.0 4138.0  Yes, in fact we use the best materials on the market, because we
 P 3746.0 4158.0  Yes, in fact we use the best materials on the market, because we aim
@@ -125,20 +125,20 @@ P 6196.0 6318.0  Come on, see
 C 6196.0 6420.0  Come on, see us!
 C 6420.0 6470.0  Really?
 P 6470.0 6522.0  But
-P 6470.0 6540.000000000001  But I
+P 6470.0 6540.0  But I
 P 6470.0 6562.0  But I don't
 P 6470.0 6588.0  But I don't think
 P 6470.0 6600.0  But I don't think I
-P 6470.0 6623.999999999999  But I don't think I really
-P 6470.0 6645.999999999999  But I don't think I really have
+P 6470.0 6624.0  But I don't think I really
+P 6470.0 6646.0  But I don't think I really have
 P 6470.0 6656.0  But I don't think I really have to
 P 6470.0 6680.0  But I don't think I really have to buy
 P 6470.0 6706.0  But I don't think I really have to buy one
 P 6470.0 6714.0  But I don't think I really have to buy one of
-C 6470.0 6768.000000000001  But I don't think I really have to buy one of these.
-C 6768.000000000001 6854.000000000001  Goodbye!
-P 6854.000000000001 6898.0  Hey!
-P 6854.000000000001 6920.0  Hey! My
-P 6854.000000000001 6948.0  Hey! My hat!
-P 6854.000000000001 6966.0  Hey! My hat! My
-C 6854.000000000001 6984.0  Hey! My hat! My hat!
+C 6470.0 6768.0  But I don't think I really have to buy one of these.
+C 6768.0 6854.0  Goodbye!
+P 6854.0 6898.0  Hey!
+P 6854.0 6920.0  Hey! My
+P 6854.0 6948.0  Hey! My hat!
+P 6854.0 6966.0  Hey! My hat! My
+C 6854.0 6984.0  Hey! My hat! My hat!

@@ -14,10 +14,10 @@ P 540.0 754.0  We're in Barcelona, located in the heart of
 P 540.0 766.0  We're in Barcelona, located in the heart of the
 C 540.0 842.0  We're in Barcelona, located in the heart of the city.
 P 842.0 866.0  Like
-P 842.0 880.0000000000001  Like you
+P 842.0 880.0  Like you
 P 842.0 900.0  Like you know,
-P 842.0 961.9999999999999  Like you know, Barcelona
-P 842.0 980.0000000000001  Like you know, Barcelona has
+P 842.0 962.0  Like you know, Barcelona
+P 842.0 980.0  Like you know, Barcelona has
 P 842.0 990.0  Like you know, Barcelona has a
 P 842.0 1008.0  Like you know, Barcelona has a lot
 P 842.0 1048.0  Like you know, Barcelona has a lot of
@@ -33,14 +33,14 @@ P 1316.0 1520.0  Our service is help you
 P 1316.0 1544.0  Our service is help you to
 P 1316.0 1592.0  Our service is help you to find
 P 1316.0 1662.0  Our service is help you to find and
-P 1316.0 1710.0000000000002  Our service is help you to find and to
-P 1316.0 1744.0000000000002  Our service is help you to find and to go
+P 1316.0 1710.0  Our service is help you to find and to
+P 1316.0 1744.0  Our service is help you to find and to go
 P 1316.0 1762.0  Our service is help you to find and to go to
 P 1316.0 1786.0  Our service is help you to find and to go to these
 C 1316.0 1850.0  Our service is help you to find and to go to these hotspots.
 P 1850.0 1878.0  So
-P 1850.0 1892.0000000000002  So we
-P 1850.0 1926.0000000000002  So we offer
+P 1850.0 1892.0  So we
+P 1850.0 1926.0  So we offer
 P 1850.0 1936.0  So we offer a
 P 1850.0 1996.0  So we offer a service,
 P 1850.0 2148.0  So we offer a service, of,
@@ -73,19 +73,19 @@ P 2970.0 3186.0  So, we also have
 P 2970.0 3206.0  So, we also have a
 P 2970.0 3246.0  So, we also have a gym,
 P 2970.0 3268.0  So, we also have a gym, like,
-P 2970.0 3284.0000000000005  So, we also have a gym, like, if
+P 2970.0 3284.0  So, we also have a gym, like, if
 P 2970.0 3300.0  So, we also have a gym, like, if you
 P 2970.0 3324.0  So, we also have a gym, like, if you want
 P 2970.0 3342.0  So, we also have a gym, like, if you want to
-P 2970.0 3397.9999999999995  So, we also have a gym, like, if you want to train
+P 2970.0 3398.0  So, we also have a gym, like, if you want to train
 P 2970.0 3424.0  So, we also have a gym, like, if you want to train your
-P 2970.0 3447.9999999999995  So, we also have a gym, like, if you want to train your body
-P 2970.0 3465.9999999999995  So, we also have a gym, like, if you want to train your body or
+P 2970.0 3448.0  So, we also have a gym, like, if you want to train your body
+P 2970.0 3466.0  So, we also have a gym, like, if you want to train your body or
 C 2970.0 3576.0  So, we also have a gym, like, if you want to train your body or anything.
 P 3576.0 3636.0  Also,
 P 3576.0 3668.0  Also, we
 P 3576.0 3900.0  Also, we have...
-P 3576.0 3929.9999999999995  Also, we have... OK...
+P 3576.0 3930.0  Also, we have... OK...
 P 3576.0 3944.0  Also, we have... OK... a
 P 3576.0 3990.0  Also, we have... OK... a conference
 C 3576.0 4024.0  Also, we have... OK... a conference room.
@@ -150,15 +150,15 @@ P 5478.0 6366.0  So, basically, this is our hotel and we are located in the stan
 P 5478.0 6394.0  So, basically, this is our hotel and we are located in the stand number hundred five, so if you want to come, I will
 P 5478.0 6400.0  So, basically, this is our hotel and we are located in the stand number hundred five, so if you want to come, I will be
 P 5478.0 6430.0  So, basically, this is our hotel and we are located in the stand number hundred five, so if you want to come, I will be glad
-P 5478.0 6459.999999999999  So, basically, this is our hotel and we are located in the stand number hundred five, so if you want to come, I will be glad to
+P 5478.0 6460.0  So, basically, this is our hotel and we are located in the stand number hundred five, so if you want to come, I will be glad to
 P 5478.0 6488.0  So, basically, this is our hotel and we are located in the stand number hundred five, so if you want to come, I will be glad to see
 C 5478.0 6544.0  So, basically, this is our hotel and we are located in the stand number hundred five, so if you want to come, I will be glad to see you.
-P 6544.0 6581.999999999999  Hope
-P 6544.0 6618.000000000001  Hope you
-P 6544.0 6640.000000000001  Hope you like
+P 6544.0 6582.0  Hope
+P 6544.0 6618.0  Hope you
+P 6544.0 6640.0  Hope you like
 P 6544.0 6650.0  Hope you like it
 P 6544.0 6678.0  Hope you like it and
 P 6544.0 6714.0  Hope you like it and thank
 P 6544.0 6728.0  Hope you like it and thank you
 P 6544.0 6744.0  Hope you like it and thank you for
-C 6544.0 6776.000000000001  Hope you like it and thank you for coming.
+C 6544.0 6776.0  Hope you like it and thank you for coming.
