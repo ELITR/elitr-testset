@@ -3,13 +3,13 @@ Dzień dobry.
 Nazywam się <NAME> i zaprezentuję wam technologię automatycznego rozpoznawania mowy i tłumaczenia języka mówionego.
 Co?
 Co to jest?
-Rozpoznawanie mowy oznacza, że maszyna zapisuje to, co mówisz, a my łączymy ją z tłumaczeniem maszynowym.
+Rozpoznawanie mowy to technologia, które umożliwia zapis tego, co mówisz, a my łączymy ją z tłumaczeniem maszynowym.
 Potem możemy dodać tłumaczenie języka mówionego.
 Ma ona wiele zastosowań.
 Chcę wybrać tylko jedno z nich podczas tego warsztatu.
 Jest to aplikacja do wideo.
 Wyobraźcie sobie aplikację do konferencji wideo, za pośrednictwem Skype'a lub Zoom'a.
-Jeśli jest ona podłączona do ASR i tłumaczenia języka mówionego, to umożliwia komunikację osób, które nie mają wspólnego języka.
+Jeśli jest ona podłączona do ASR i tłumaczenia języka mówionego, to umożliwia komunikację osób, które nie mówią wspólnym językiem.
 Można więc mówić po francusku, a druga osoba może mówić tylko po czesku - jeśli aplikacja tłumaczy natychmiast, to dwie osoby mogą mówić razem.
 Niestety, poziom gotowości tej technologii to pięć lub sześć.
 Oznacza to, że mamy aplikację do konferencji wideo, ale...
