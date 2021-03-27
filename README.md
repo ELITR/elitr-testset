@@ -85,4 +85,22 @@ This population is done by running a simple script ``./populate.sh``. Note that 
 ### Checks
 
 We need to implement many checks of the format of everything, in a subdir called ``checks``. We will use git hooks to reject all commits that do not pass the checks.
-People who wish to commit to the repository need to run ``./checks/install-hooks.sh``! 
+People who wish to commit to the repository need to run ``./checks/install-hooks.sh``!
+
+## Citing
+
+If you make use of ``elitr-testset``, please cite the following paper:
+
+```
+@inproceedings{sltev:eacl:2021,
+  author    = {Ansari, Ebrahim  and  Bojar, Ond{\v{r}}ej and Haddow, Barry and Mahmoudi, Mohammad},
+  title     = {{SLTev: Comprehensive Evaluation of Spoken Language Translation}},
+  booktitle = {Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Demo Papers},
+  month     = {April},
+  year      = {2021},
+  address   = {Kyiv, Ukraine},
+  publisher = {Association for Computational Linguistics},
+}
+```
+
+
