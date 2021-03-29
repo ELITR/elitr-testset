@@ -1,0 +1,9 @@
+## This index contains all the files that were used
+# in IWSLT 2020 Non-Native Speech Translation Task
+# *test set*
+# http://workshop2020.iwslt.org/doku.php?id=non_native_speech_translation
+
+#include auto-iwslt2020-antrecorp
+#include auto-iwslt2020-consecutive
+#include auto-iwslt2020-khanacademy
+#include auto-iwslt2020-wgvat
