@@ -1,0 +1,77 @@
+Hello.
+So you're here because you want to evaluate spoken language translation or SLT.
+That's great.
+SLTev is the one-stop-shop for you for SLT evaluation.
+SLTev was created by Ebrahim Ansari, Ondřej Bojar, that's me, Barry Haddow, and Mohammed Mahmoudi.
+But we've also had significant help and bug checking and bug fixing from the colleagues of our project, ELITR.
+When you're evaluating spoken language translation or even simultaneous spoken language translation, you have some input sound, its transcription in the source language, where you know the timestamps of individual words and you also have some reference translation, such as:
+"We'll be talking about the project of a theater play which was written by the artificial intelligence."
+Your SLT system is then consuming the sound and it's producing its hypothesis as the time rolls.
+So we will...
+We'll talk...
+We will talk about the program...
+So there may be that the system made a guess, it hasn't heard the word in full, and it estimated the world could be program.
+But then later when it hears more, it will fix its output to say:
+"We will talk about the project."
+So this particular SLT system is actually doing revisions.
+And when we arrive at the final hypothesis "We will talk about the play project", we would like to know how good the translation was.
+So to assess the translation quality, we see an error in the translation of the "project of a theater play" as a "play project".
+We also want to know the delay, how much late was the system behind the actual speech.
+And finally, we want to know how many of these words were relevant, were wrongly recognized, and had to be fixed.
+We want to know the flicker.
+So SLTev is the comprehensive evaluation of spoken language translation.
+It's versioned on Github, but it's easy to install with pip3.
+So you just install it and then you provide SLTev with your timestamped blocks.
+You do not need to wrap your system into any client-server API.
+And SLTev will calculate the quality, where we rely on sacreBLEU, the delay, so how long we had to wait for the outputs of the system, and also the flicker, how much of the output was actually useless and removed in the final hypothesis.
+But that's not all.
+SLTev comes with testset.
+The elitr-testset is being developed by the EU project ELITR and you can also learn more about our project in our second demo at the EACL 2021.
+So elitr-testset focuses on multilingual speech recognition, machine translation, and also their combination, the simultanous spoken language translation.
+The elitr-testset has been designed for continuous growth and still reproducibility.
+So when SLTev evaluates against ELITR testset, it will print commit IDs.
+So there will be always a fingerprint associated with the scores and the fingerprint will clearly tell you which versions of the files were used for the evaluation.
+The testset itself is focused on non-native speakers and not only English language source.
+The sound quality is realistic, which unfortunately often means pretty bad.
+The domains in the testset are pretty diverse.
+So, ELITR itself needs the auditing domain and also the domain of computational linguistics and natural language processing.
+But we are adding also other domains such as the oral history or debates on artificial intelligence.
+And then also presentations from students' mock companies.
+elitr-testset is organized into documents and indices.
+So it's a collection of diverse documents, and then indices which group these documents.
+Each document comes in different modalities.
+So we have the original sound.
+We have its transcription and the transcription with timestamps.
+And we also have the text-based translation of the transcription, so, files which serve as reference translation for machine translation.
+And sometimes we also have an interpreter speech when the interpreter, when the human interpreter was processing the same file.
+Indices then combine these documents into something which is used for a particular evaluation purpose.
+So, from the assorted collection, an index picks up whatever is relevant for a particular reason, for a particular situation.
+So, for example, we have an index of documents which are good for evaluating Czech offline speech recognition, with no other language involved.
+We have another index which is good for English to Czech simultaneous spoken language translation.
+And we also have MT-only indices such as English to Serbian text-only translation.
+The index file thus defines the evaluation purpose and also what are the input and output modalities, whether the system processes sound and produces text in one language or text in the same language and so on.
+To use ELITR testset, you can directly browse it on Github.
+But you can also ask SLTev to evaluate against an index for you.
+So you first run "SLTev -g" to generate the input files for you.
+Then you process these files with your system and you create your hypothesis of the system.
+And you run again SLTev with "SLTev -e".
+And SLTev will compare your outputs with the reference outputs from that particular index.
+There are some useful options available.
+So if you already have your own clone of elitr-testset, SLTev will not need to download it for you.
+And also if you want to know just the aggregate score across the whole index, across all the documents in the index, use the --aggregate option.
+And if you want to report only the most important scores for the various metrics, add the --simple flag.
+If anything was not clear or if anything was wrong in the evaluation, please create Github issues and help us improve SLTev and elitr-testset.
+So that's it. That's the summary.
+SLTev should be or we would be happy if SLTev became the sacreBLEU for simultaneous spoken language translation evaluation.
+It is open source.
+It is installed with pip.
+It evaluates the quality, delay, and flicker and it allows your systems to make output revisions, so to revise what has been already translated.
+SLTev is complemented by elitr-testset which is a diverse collection of speech, transcripts, translations, and also human interpretations.
+And its versioned index files allow to evaluate across different topics, but still stay reproducible.
+So you can still very clearly see which files were used by which evaluation.
+Please enjoy and contribute.
+We're looking forward to your pull requests or issues that you can file on Github.
+Please send us bug reports, fix the existing data directly or donate new documents, if you have access to spoken files and their transcriptions.
+And also, if you make use of SLTev and elitr-testset in any paper of yours, it would be great if you actually committed the index file that summarizes which exact documents have you used in your paper for your evaluation.
+That would allow everybody to evaluate in the same conditions as you were.
+Thank you for your attention and looking forward to your contributions and feedback.
