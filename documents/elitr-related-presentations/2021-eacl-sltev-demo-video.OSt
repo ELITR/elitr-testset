@@ -1,6 +1,6 @@
 Hello.
 So you're here because you want to evaluate spoken language translation or SLT.
-That's great.
+That's great!
 SLTev is the one-stop-shop for you for SLT evaluation.
 SLTev was created by Ebrahim Ansari, Ondřej Bojar, that's me, Barry Haddow, and Mohammed Mahmoudi.
 But we've also had significant help and bug checking and bug fixing from the colleagues of our project, ELITR.
@@ -61,8 +61,9 @@ So if you already have your own clone of elitr-testset, SLTev will not need to d
 And also if you want to know just the aggregate score across the whole index, across all the documents in the index, use the --aggregate option.
 And if you want to report only the most important scores for the various metrics, add the --simple flag.
 If anything was not clear or if anything was wrong in the evaluation, please create Github issues and help us improve SLTev and elitr-testset.
-So that's it. That's the summary.
-SLTev should be or we would be happy if SLTev became the sacreBLEU for simultaneous spoken language translation evaluation.
+So that's it.
+That's the summary.
+SLTev should be, or we would be, happy if SLTev became the sacreBLEU for simultaneous spoken language translation evaluation.
 It is open source.
 It is installed with pip.
 It evaluates the quality, delay, and flicker and it allows your systems to make output revisions, so to revise what has been already translated.
