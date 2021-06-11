@@ -1,7 +1,7 @@
 Lines	Words	File_name
-5000		81424	../../elitr-testset/documents/confidential/intercorp/hu2en/shufsplit-test/shuffled.en
-5000		63800	../../elitr-testset/documents/confidential/intercorp/hu2en/shufsplit-test/shuffled.hu
-2000		36670	../../elitr-testset/documents/taus/en-hu/devset.en
-2000		29744	../../elitr-testset/documents/taus/en-hu/devset.hu
-2000		37452	../../elitr-testset/documents/taus/en-hu/testset.en
-2000		30224	../../elitr-testset/documents/taus/en-hu/testset.hu
+5000  81424 ../../elitr-testset/documents/confidential/intercorp/hu2en/shufsplit-test/shuffled.en
+5000  63800 ../../elitr-testset/documents/confidential/intercorp/hu2en/shufsplit-test/shuffled.hu
+2000  36670 ../../elitr-testset/documents/taus/en-hu/devset.en
+2000  29744 ../../elitr-testset/documents/taus/en-hu/devset.hu
+2000  37452 ../../elitr-testset/documents/taus/en-hu/testset.en
+2000  30224 ../../elitr-testset/documents/taus/en-hu/testset.hu
