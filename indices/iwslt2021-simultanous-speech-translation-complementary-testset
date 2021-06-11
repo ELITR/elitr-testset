@@ -1,0 +1,18 @@
+## This index contains all the files that were used
+# in IWSLT 2021 Simultaneous Speech Translation Complementary Evaluation
+# from English speech into German text
+# https://iwslt.org/2021/simultaneous
+
+# The evaluation is 'complementary' because we allow for re-translating systems, not just incremental ones supported by SimulEval
+
+# SRC -> *.en.OS.mp3
+# REF -> *.en.TTde
+documents/iwslt2020-nonnative-slt/testset/antrecorp
+documents/iwslt2020-nonnative-slt/testset/sao-consecutive
+documents/iwslt2020-nonnative-slt/testset/sao-wgvat
+
+# SRC -> *.en.aac
+# REF -> *.en.TTde
+documents/iwslt2020-nonnative-slt/testset/khan-academy
+
+
