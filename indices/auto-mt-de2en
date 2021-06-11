@@ -16,9 +16,8 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.OSt
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs1
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
-
-elitr-testset/documents/confidential/intercorp/de2en/aligned.de
-elitr-testset/documents/confidential/intercorp/de2en/aligned.en
+elitr-testset/documents/confidential/intercorp/de2en/shufsplit-test/shuffled.de
+elitr-testset/documents/confidential/intercorp/de2en/shufsplit-test/shuffled.en
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.OSt
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001a.en.TTde
 elitr-testset/documents/iwslt2020-nonnative-slt/devset/ami-IS1001b.en.OSt
