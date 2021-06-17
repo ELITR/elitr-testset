@@ -18,3 +18,9 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
 elitr-testset/documents/confidential/intercorp/da2en/shufsplit-test/shuffled.da
 elitr-testset/documents/confidential/intercorp/da2en/shufsplit-test/shuffled.en
+
+elitr-testset/documents/exotic-languages/curia-eu/curia-eu.da
+elitr-testset/documents/exotic-languages/curia-eu/curia-eu.en
+
+elitr-testset/documents/exotic-languages/plant-protection-products-audit/SR-pesticides.validated.da
+elitr-testset/documents/exotic-languages/plant-protection-products-audit/SR-pesticides.validated.en

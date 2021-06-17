@@ -18,3 +18,6 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
 elitr-testset/documents/confidential/intercorp/ca2en/shufsplit-test/shuffled.ca
 elitr-testset/documents/confidential/intercorp/ca2en/shufsplit-test/shuffled.en
+
+elitr-testset/documents/exotic-languages/ajuntament-barcelona/annual_accounts.cat
+elitr-testset/documents/exotic-languages/ajuntament-barcelona/annual_accounts.en

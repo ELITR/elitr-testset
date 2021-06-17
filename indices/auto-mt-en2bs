@@ -16,3 +16,15 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.OSt
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs1
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
+
+elitr-testset/documents/exotic-languages/bs-audit-law/en-bs.bs
+elitr-testset/documents/exotic-languages/bs-audit-law/en-bs.en
+
+elitr-testset/documents/exotic-languages/bs-international-standard-auditing/en-bs.bs
+elitr-testset/documents/exotic-languages/bs-international-standard-auditing/en-bs.en
+
+elitr-testset/documents/exotic-languages/bs-policy-paper/en-bs.bs
+elitr-testset/documents/exotic-languages/bs-policy-paper/en-bs.en
+
+elitr-testset/documents/exotic-languages/un-criminal-tribunals/president-meron.bs
+elitr-testset/documents/exotic-languages/un-criminal-tribunals/president-meron.en

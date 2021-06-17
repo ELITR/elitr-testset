@@ -18,3 +18,9 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
 elitr-testset/documents/confidential/intercorp/ru2en/shufsplit-test/shuffled.en
 elitr-testset/documents/confidential/intercorp/ru2en/shufsplit-test/shuffled.ru
+
+elitr-testset/documents/exotic-languages/ru-foreign-affairs/ru-foreign-affairs.en
+elitr-testset/documents/exotic-languages/ru-foreign-affairs/ru-foreign-affairs.ru
+
+elitr-testset/documents/exotic-languages/un-work-report/un-work-report.en
+elitr-testset/documents/exotic-languages/un-work-report/un-work-report.ru

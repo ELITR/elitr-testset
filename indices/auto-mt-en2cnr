@@ -16,3 +16,6 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.OSt
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs1
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
+
+elitr-testset/documents/exotic-languages/cnr-government/en-cnr.cnr
+elitr-testset/documents/exotic-languages/cnr-government/en-cnr.en

@@ -18,3 +18,11 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
 elitr-testset/documents/confidential/intercorp/sr2en/shufsplit-test/shuffled.en
 elitr-testset/documents/confidential/intercorp/sr2en/shufsplit-test/shuffled.sr
+
+
+elitr-testset/documents/exotic-languages/serbian-presidential-speeches/serbian-presidential-speech.en
+elitr-testset/documents/exotic-languages/serbian-presidential-speeches/serbian-presidential-speech.sr
+
+
+elitr-testset/documents/exotic-languages/sr-public-participation/en-sr.en
+elitr-testset/documents/exotic-languages/sr-public-participation/en-sr.sr
