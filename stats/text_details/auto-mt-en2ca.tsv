@@ -1,3 +1,5 @@
 Lines	Words	File_name
-5000  80906 ../../elitr-testset/documents/confidential/intercorp/ca2en/shufsplit-test/shuffled.ca
-5000  74726 ../../elitr-testset/documents/confidential/intercorp/ca2en/shufsplit-test/shuffled.en
+5000	80906	../../elitr-testset/documents/confidential/intercorp/ca2en/shufsplit-test/shuffled.ca
+5000	74726	../../elitr-testset/documents/confidential/intercorp/ca2en/shufsplit-test/shuffled.en
+842	11636	../../elitr-testset/documents/exotic-languages/ajuntament-barcelona/annual_accounts.cat
+842	11444	../../elitr-testset/documents/exotic-languages/ajuntament-barcelona/annual_accounts.en

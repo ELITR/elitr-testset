@@ -1,3 +1,7 @@
 Lines	Words	File_name
-5000  75629 ../../elitr-testset/documents/confidential/intercorp/da2en/shufsplit-test/shuffled.da
-5000  72786 ../../elitr-testset/documents/confidential/intercorp/da2en/shufsplit-test/shuffled.en
+5000	75629	../../elitr-testset/documents/confidential/intercorp/da2en/shufsplit-test/shuffled.da
+5000	72786	../../elitr-testset/documents/confidential/intercorp/da2en/shufsplit-test/shuffled.en
+1014	38881	../../elitr-testset/documents/exotic-languages/curia-eu/curia-eu.da
+1014	41464	../../elitr-testset/documents/exotic-languages/curia-eu/curia-eu.en
+641	12546	../../elitr-testset/documents/exotic-languages/plant-protection-products-audit/SR-pesticides.validated.da
+641	13114	../../elitr-testset/documents/exotic-languages/plant-protection-products-audit/SR-pesticides.validated.en
