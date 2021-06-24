@@ -18,3 +18,5 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
 elitr-testset/documents/confidential/intercorp/sk2en/shufsplit-test/shuffled.en
 elitr-testset/documents/confidential/intercorp/sk2en/shufsplit-test/shuffled.sk
+elitr-testset/documents/langtools-workshop/20200323-second-pre-dry-run/asr-slt.en.OSt
+elitr-testset/documents/langtools-workshop/20200323-second-pre-dry-run/asr-slt.en.TTsk
