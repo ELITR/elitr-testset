@@ -18,3 +18,5 @@
 # elitr-testset/documents/iwslt2020-nonnative-slt/devset/antrecorp-01_teddy.en.TTcs2
 elitr-testset/documents/confidential/intercorp/hr2en/shufsplit-test/shuffled.en
 elitr-testset/documents/confidential/intercorp/hr2en/shufsplit-test/shuffled.hr
+elitr-testset/documents/exotic-languages/hr-economy/en-hr.en
+elitr-testset/documents/exotic-languages/hr-economy/en-hr.hr
