@@ -141,3 +141,78 @@ _T=20210617_22:36:15_16763	 ll
 _T=20210617_22:36:16_16763	 ll
 _T=20210617_22:36:17_16763	 ll
 _T=20210617_22:36:18_16763	 ll
+_T=20210622_10:58:12_28273	 ll
+_T=20210622_10:59:27_28273	 cat auto-mt-en2nl.tsv
+_T=20210622_10:59:45_28273	 cat *.tsv | grep "en"
+_T=20210622_11:00:01_28273	 cat *.tsv | grep -E "en$"
+_T=20210622_11:00:21_28273	 ll
+_T=20210622_11:00:29_28273	 cat *-mt-*
+_T=20210622_11:12:09_28273	 ll
+_T=20210623_14:11:52_2661	 ll
+_T=20210623_14:12:03_2661	 ll
+_T=20210623_14:12:08_2661	 cat auto-mt-cs2en.tsv
+_T=20210623_14:12:29_2661	 ll
+_T=20210623_14:12:49_2661	 cat auto-asr-esic.err
+_T=20210623_14:12:52_2661	 ll
+_T=20210623_14:13:01_2661	 cat auto-asr-esic.tsv
+_T=20210623_14:15:56_2661	 cat auto-asr-esic.tsv | cut -d'$\t'
+_T=20210623_14:16:05_2661	 cat auto-asr-esic.tsv | cut -d$'\t' -f2
+_T=20210623_14:16:30_2661	 wc -l ../../elitr-testset/documents/ESIC/dev/20101006/014_023_EN_Boştinaru/en.OSt.man.punct-verbatim.txt
+_T=20210623_14:16:43_2661	 wc -l ../../../elitr-testset/documents/ESIC/dev/20101006/014_023_EN_Boştinaru/en.OSt.man.punct-verbatim.txt
+_T=20210623_14:16:54_2661	 cat ../../../elitr-testset/documents/ESIC/dev/20101006/014_023_EN_Boştinaru/en.OSt.man.punct-verbatim.txt
+_T=20210623_14:17:13_2661	 cat ../../../elitr-testset/documents/ESIC/dev/20101006/014_023_EN_Boştinaru/en.OSt.man.punct-verbatim.txt | wc -l
+_T=20210623_14:17:16_2661	 cat ../../../elitr-testset/documents/ESIC/dev/20101006/014_023_EN_Boştinaru/en.OSt.man.punct-verbatim.txt | wc -l
+_T=20210623_14:17:20_2661	 cat ../../../elitr-testset/documents/ESIC/dev/20101006/014_023_EN_Boştinaru/en.OSt.man.punct-verbatim.txt | wc -c
+_T=20210623_14:18:50_2661	 cat auto-asr-esic.tsv | sed s'/^0$/1/g'
+_T=20210623_14:18:57_2661	 cat auto-asr-esic.tsv | sed s'/^0/1/g'
+_T=20210623_14:20:25_2661	 cat auto-asr-esic.tsv | sed s'/^0/1/g' | cut -d$'\t' -f1 | awk '{ sum += $1 } END { print sum }'
+_T=20210623_14:20:36_2661	 wc -l auto-asr-esic.tsv
+_T=20210623_16:00:24_20600	 ll
+_T=20210623_16:00:56_20600	 ll | grep asr
+_T=20210623_16:01:04_20600	 ll | grep asr | grep tsv
+_T=20210623_20:17:17_30533	 h | grep "ASR_Summary"
+_T=20210623_20:17:20_30533	 ll
+_T=20210623_21:32:18_30533	 cat auto-mt-en2ru.tsv
+_T=20210623_21:40:50_30533	 head auto-asr-esic.tsv
+_T=20210623_21:49:38_20551	 ll
+_T=20210623_21:49:48_20551	 cat auto-langtools-workshop.tsv
+_T=20210623_21:49:58_20551	 rm -rf *
+_T=20210623_21:49:59_20551	 ll
+_T=20210623_21:53:23_20551	 ll
+_T=20210623_21:53:31_20551	 auto-langtools-workshop.tsv
+_T=20210623_21:53:33_20551	 cat auto-langtools-workshop.tsv
+_T=20210623_21:53:56_20551	 cat auto-linguistic-mondays.tsv
+_T=20210623_22:11:11_20551	 rm -rf *
+_T=20210624_00:32:42_20551	 ll
+_T=20210624_00:32:55_20551	 at auto-iwslt2020-wgvat.tsv
+_T=20210624_00:32:58_20551	 cat auto-iwslt2020-wgvat.tsv
+_T=20210624_00:33:13_20551	 h
+_T=20210624_00:33:37_20551	 cat auto-iwslt2020-khanacademy.tsv | egrep "*.OSt$"
+_T=20210624_00:34:04_20551	 cat auto-iwslt2020-khanacademy.tsv | egrep "*.OSt$" | cut -d$'\t' -f2 | awk '{ sum += $1 } END { print sum }'
+_T=20210624_08:37:46_16251	 ll
+_T=20210624_08:38:06_16251	 ll
+_T=20210624_08:38:12_16251	 cat auto-asr-czech-any-domain.tsv
+_T=20210624_08:38:18_16251	 cat auto-asr-czech-any-domain.tsv
+_T=20210624_08:38:20_16251	 ll
+_T=20210624_08:39:02_16251	 ll
+_T=20210624_08:39:10_16251	 cat auto-mt-en2pl.tsv
+_T=20210624_08:45:07_16251	 ll
+_T=20210624_09:56:26_16251	 ll
+_T=20210624_09:56:49_16251	 cat auto-mt-en2ga.tsv
+_T=20210624_09:56:56_16251	 cat auto-mt-en2lt.tsv
+_T=20210624_09:57:14_16251	 cat *en2cs
+_T=20210624_09:57:28_16251	 cat *en2cs*
+_T=20210624_09:58:49_16251	 cat *en2cs* | egrep "*en.OSt$|.en$"
+_T=20210624_09:59:19_16251	 cat *en2cs* | egrep "*en.OSt$|.en$" | cut -d$'\t' -f2 | awk '{ sum += $1 } END { print sum }'
+_T=20210624_09:59:47_16251	 cat *en2cs* | egrep "*en.OSt$|.en$" | cut -d$'\t' -f1 | awk '{ sum += $1 } END { print sum }'
+_T=20210624_10:00:39_16251	 cat *en2cs* | cut -d$'\t' -f1 | awk '{ sum += $1 } END { print sum }'
+_T=20210624_10:01:06_16251	 cat *en2cs* | egrep -v "*en.OSt$|.en$" | cut -d$'\t' -f1 | awk '{ sum += $1 } END { print sum }'
+_T=20210624_10:01:14_16251	 cat *en2cs* | egrep -v "*en.OSt$|.en$"
+_T=20210624_10:01:38_16251	 cat *en2cs* | egrep -v "*en.OSt|.en$"
+_T=20210624_10:02:05_16251	 cat *en2cs* | egrep "*en.OSt|.en$" | cut -d$'\t' -f1 | awk '{ sum += $1 } END { print sum }'
+_T=20210624_10:02:16_16251	 cat *en2cs* | egrep -v "*en.OSt|.en$" | cut -d$'\t' -f1 | awk '{ sum += $1 } END { print sum }'
+_T=20210624_10:03:09_16251	 ll
+_T=20210624_10:03:26_16251	 cat *en2ir* | egrep -v "*en.OSt|.en$" | cut -d$'\t' -f1 | awk '{ sum += $1 } END { print sum }'
+_T=20210624_10:03:32_16251	 cat auto-mt-en2ir.tsv
+_T=20210624_12:34:58_16890	 ll
+_T=20210624_12:55:30_16890	 ll
