@@ -34,6 +34,7 @@ Filename **suffixes** are used to indicate the language and processing:
 ```
 .README      ... the history of creation of this document, ***including links***
 .WORK        ... should be a directory of parts that are not yet properly processed; to be removed when done
+.EXTRA       ... a directory with related materials to the particular talk, e.g. slides, processed in any useful way
 .en.OS.mp3   ... a backup of the sound in lossy format, **if small enough**
 .en.OS.mp3.LINK . the path on the UFAL cluster where to get the full file, if the file can't fit here; similarly for wav.LINK etc.
              ... the LINK files are interpreted after git pull in a process we call "populating your elitr-testset working copy"
