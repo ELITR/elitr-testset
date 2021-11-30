@@ -1,0 +1,53 @@
+ČLÁNKY
+ 
+PROJEKTY
+ 
+PODCAST
+ 
+ALIAS
+ 
+O MATFYZU
+ 
+KONTAKT
+Absurdní drama z pera AI
+Absurdní drama z pera AI
+12. února 2021
+INFORMATIKA / ČLÁNEK / POZVÁNKA
+Může umělá inteligence napsat divadelní hru? To se během posledního roku snažili zjistit vědci z Matfyzu společně s umělci a divadelníky ze Švandova divadla a z pražské DAMU. Výsledkem je představení AI: Když robot píše hru, které bude mít online premiéru již 26. února.
+
+Čtená zkouška ve Švandově divadle (foto: Alena Hrbková)Čtená zkouška ve Švandově divadle (foto: Alena Hrbková)
+V lednu uplynulo 100 let od světové premiéry slavného dramatu Karla Čapka R.U.R., v němž vůbec poprvé zaznělo slovo robot. Tým českých vědců, divadelníků a inovátorů se kulaté výročí rozhodl oslavit uvedením historicky první divadelní hry napsané umělou inteligencí (AI).
+
+„Jedná se o první hru, kde drtivou většinu scénářů, asi 95 %, vytvořila umělá inteligence. Už dříve se objevily pokusy, kdy byl scénář z nějaké části umělou inteligencí inspirovaný, řekněme z 20 %, tohle je však první projekt, kde má umělá inteligence skutečně navrch,“ říká v prezentačním videu Rudolf Rosa z MFF UK, který projekt vede.
+
+Inscenace AI: Když robot píše hru vznikla v rámci výzkumného projektu THEaiTRE, na kterém se kromě Matfyzu podílí Švandovo divadlo na Smíchově a Divadelní fakulta AMU. Jeho cílem je otestovat, jaké jsou možnosti současné umělé inteligenci a kde leží její hranice při tvorbě divadelního textu.
+
+Robot nezná stud, ani lži
+
+Jak to dopadlo? Skutečně může robot napsat plnohodnotný divadelní scénář? „Zjistili jsme, že to do jisté míry možné je. Dokonce to šlo snadněji, než jsme si původně mysleli. Předpokládal jsem, že systém budeme muset hodně vylaďovat, ale ukázalo se, že už ten první, natrénovaný na obecných textech z internetu, dokáže vytvořit text, který vypadá jako scénář divadelní hry,“ hodnotí výsledek netradičního experimentu Rudolf Rosa.
+
+Systém, který vyvinul se svými kolegy z Matfyzu, je založen na strojovém učení, kdy se počítači předloží tréninková data v podobě existujících divadelních scénářů a dalších textů. Na jejich základě se stroj naučí produkovat vlastní texty. Scénář pro danou hru pak vznikal tak, že tvůrci počítači zadali vždy úvodní scénickou poznámku a první repliku. Následně jej nechali, aby na základě slovních asociací vygeneroval pokračování.
+
+„Za rok je náš robot poučenější. Dialogy se zdají být pravděpodobnější, spíš neodpovídají v emoční odezvě,“ říká David Košťák, dramaturg Švandova divadla, které inscenaci na konci února uvede. „Robot nezná stud, manipulaci, ani lži, takže zejména při zkoušení bylo někdy komplikované interpretovat vzniklý dialog tak, aby odpovídal běžné lidské psychologii. Museli jsme přistoupit na to, že to není realistická hra, ale do jisté míry absurdní drama,“ konstatuje.
+
+Ukázalo se také, že zásadním problémem je udržet svébytnost a konzistentnost postav. „Systém byl mimo jiné trénovaný na textech z novin, kde mluví jen jeden člověk, proto nechápe, že každá postava ve hře má mluvit jiným způsobem,“ vysvětluje Rosa. Postavy se proto často slévaly a promíchávaly, takže některé vzniklé repliky bylo třeba upravovat. Tým se však držel toho, aby zásahy byly naprosto minimální.
+
+Ačkoli řada textů postrádala smysl, současně se objevily případy, kdy počítač dokázal udržet nit poměrně dlouho. „Nejvíc mě pobavilo, když jsem počítači z legrace zadal začátek scény, kdy robot-herec přichází během koronakrize na pracovní úřad a hledá práci. Vyvinul se z toho opravdu hezký satirický dialog o sebestředném, do sebe zahleděném herci, který když nemůže hrát, tak alespoň o svém životě a klaunské minulosti napíše knihu. A tento dialog je nakonec i součástí hry,“ líčí dramaturg Košťák.
+
+Zpráva o technologickém pokroku
+
+Seskládáním vybraných dialogů vznikla hra o osmi scénách, které zachycují pouť robota lidským světem. Robot jako hlavní postava se v jednotlivých obrazech setkává se zástupci společnosti a je konfrontován se základními otázkami lidského života. Režie se ujal Daniel Hrbek, v hlavních rolích se objeví členové souboru Švandova divadla: Jacob Erftemeijer, Denisa Barešová, Andrea Buršová a další.
+
+Výslednou inscenaci vnímají autoři projektu nejen jako umělecké dílo, ale také zprávu o technologickém pokroku. „Ještě před rokem jsme byli dost skeptičtí. Dnes už víme, že počítač dokáže psát kontinuálně, což vidíme jako zajímavý potenciál do budoucna. Otázkou je, kam až to může dospět,“ nadhazuje David Košťák.
+
+Mohou tedy roboti v budoucnu nahradit člověka při psaní scénářů? „V tomto projektu jsme se rozhodli dát umělé inteligenci co největší volnost a kontrolu. Nemyslíme si však, že se tímto způsobem bude jednou využívat v praxi. Půjde spíš o pomocný nástroj, kdy spolu člověk a umělá inteligence budou spolupracovat,“ dodává ve videu Rudolf Rosa.
+
+Online premiéra hry AI: Když robot píše hru se uskuteční v pátek 26. února 2021 od 19:00. Její součástí bude úvodní slovo a následná diskuse se spoluautory projektu Tomášem Studeníkem, Rudolfem Rosou a Danielem Hrbkem. Další informace jsou dostupné na stránkách projektu THEaiTRE.
+
+Autor: Karolina Šolcová, OPMK
+
+   
+© 2021 Matematicko-fyzikální fakulta Univerzity Karlovy. Všechna práva vyhrazena.
+Matematicko–fyzikální fakulta, Univerzita Karlova
+Hledaný výraz
+
