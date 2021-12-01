@@ -8,7 +8,7 @@ I'm going to very quickly show where we are now with the development of UDPipe.
 So it all started in 2014 uh where we when we uh uh showed MorphoDiTa and NameTag, morphology and lemmatization tool and named entity recognition tool at ACL demo.
 And in 2015 we created Parsito which was a dependency parsing tool.
 In 2016 we joined them together and this was the first version of UDPipe.
-Um we tried to or we did participate in CoNLL 2017 shared task which was uh morphology lemmatization and dependency parsing from tokens, from the raw text, so we didn't even know where the tokens are.
+Um we tried to or we did participate in CoNLL 2017 shared task which was uh morphology, lemmatization and dependency parsing from tokens, from the raw text, so we didn't even know where the tokens are.
 The UDPipe was used as a baseline system and it ended up thirteenth so there were some systems which were even below this baseline system and our own contribution was eighth.
 Last year, we again com tried to compete in the shared task, the task was the same, so dependency parsing from raw sentences, with a new prototype, UDPipe 2.0, in which we replaced the core with TensorFlow.
 So we started using Tensorflow and UDPipe was one of the three winners.
