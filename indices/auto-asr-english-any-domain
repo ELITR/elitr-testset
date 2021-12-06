@@ -1064,4 +1064,9 @@ elitr-testset/documents/ESIC/dev2/20090505/006_006_EN_Hannan/en.OSt.man.punct-ve
 elitr-testset/documents/ESIC/dev2/20100518/006_005_EN_Malmström/en.OS.man-diar.mp4_16K.wav
 elitr-testset/documents/ESIC/dev2/20100518/006_005_EN_Malmström/en.OSt.man.punct-verbatim.txt
 
+elitr-testset/documents/rehm-language-technologies/rehm_long.wav
+elitr-testset/documents/rehm-language-technologies/rehm_long.OSt
 
+
+elitr-testset/documents/rehm-language-technologies/rehm_short.wav
+elitr-testset/documents/rehm-language-technologies/rehm_short.OSt
