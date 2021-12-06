@@ -1,14 +1,17 @@
-Hello and and welcome.
-I'm Jana Straková and this is joint work with Milan Straka who is teaching right now, so he cannot be here.
-So um I apologize for him and I will speak the whole time.
-So um this is about UDPipe, which I guess all of you know.
-It's a pipeline for morphology and lemmatization and syntax dependency parsing.
-And just so quickly aha um aha get us ok, on the same page.
-I'm going to very quickly show where we are now with the development of UDPipe.
-So it all started in 2014 uh where we when we uh uh showed MorphoDiTa and NameTag, morphology and lemmatization tool and named entity recognition tool at ACL demo.
-And in 2015 we created Parsito which was a dependency parsing tool.
-In 2016 we joined them together and this was the first version of UDPipe.
-Um we tried to or we did participate in CoNLL 2017 shared task which was uh morphology, lemmatization and dependency parsing from tokens, from the raw text, so we didn't even know where the tokens are.
+
+Jana Straková<term>Milan Straka
+
+UDPipe
+morphology<term>lemmatization
+
+UDPipe
+morphology<term>MorphoDiTa<term>NameTag<term>lemmatization<or>lemmatisation<term>ACL
+Parsito
+UDPipe
+CoNLL<term>morphology<term>lemmatization
+
+END OF THE MANUALLY PREPARED SAMPLE. The following line should actually appear on line 12 here, so this file should exactly correspond to 20191118-jana-strakova-monday-seminar.en.OStin the number of lines.
+
 The UDPipe was used as a baseline system and it ended up thirteenth so there were some systems which were even below this baseline system and our own contribution was eighth.
 Last year, we again com tried to compete in the shared task, the task was the same, so dependency parsing from raw sentences, with a new prototype, UDPipe 2.0, in which we replaced the core with TensorFlow.
 So we started using Tensorflow and UDPipe was one of the three winners.
