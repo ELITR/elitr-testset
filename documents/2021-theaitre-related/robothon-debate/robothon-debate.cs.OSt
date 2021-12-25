@@ -3,7 +3,7 @@ Ale zvu teda Ondřeje Duška, Rudolfa Rosu a Tomáše Musila, kteří souhlasili
 Jestli by - 
 Jestli by nepřišli tady ke mně na pódium a přímo odsud nepředstavili, s čím, s čím mohou pomoci.
 Myslím - 
-Koho máme na zoomu?
+Koho máme na Zoomu?
 Ondra?
 Tak poprosíme Ondru.
 (B)Jsem Ondřej, z Matfyzu, teda jak, jak Tomáš říkal.
@@ -55,7 +55,7 @@ Je to celosvětově unikátní relativně, nějaké nějaké pokusy, aby umělé
 A já bych, než než předám tady slovo kolegům, tak možná bysme mohli udělat takový malý Turingův test.
 Pro vás hackery a diváky, kteří se dívají na tento tento Streaming.
 Jestli s tím takhle souhlasíš, Rudolfe?
-(E) Jasně.
+(C) Jasně.
 (A)My jsme si připravili takové otevření.
 Já budu muset tady to pustit na svém stroji vedle a poprosím tě, jestli bys možná neřekl k tomu, o co, o co jde?
 Je to teda úryvek z Karlova Čapka RUE.
@@ -73,7 +73,7 @@ Beztvaré chuchvalce prší ze strojů.
 A druhý Robot říká: Lidem bylo známo tajemství života, pověz nám jejich tajemství.
 A tohle napsal Karel Čapek v RUR.
 A ty si s tím provedl co?
-(E)My jsme vzali nástroj, který, o kterých se budeme dneska bavit.
+(C)My jsme vzali nástroj, který, o kterých se budeme dneska bavit.
 Kterej nám generuje automaticky scénáře divadelních her.
 A tohle jsme do toho zadali jako vstup.
 Kdo znáte, tak je to jazykový model (GPT2?)
@@ -90,17 +90,17 @@ Dejte nám vaše odhady do sleku, tam je kanál Dotazy a odpovědi.
 Tak klidně, v rámci tady toho kanálu nám napište, jestli si myslíte, že -
 Teď se ptáme na co?
 Co vygenerovat vygenerova stroj?
-(E) Co vygeneroval stroj.
+(C) Co vygeneroval stroj.
 (A)Tak nám dejte vědět, co si myslíte, jakou verzi vygeneroval stroj.
 Jestli to je ta nalevo, to je EL, tak odepište EL do sleku na Dotazy a výzvy. 
 A jestli simyslíte, že stroj vygeneroval ten ten pravou část dialogu, tak tak dejte péčko.
 Budeme čekat nebo si budeme chvíli povídat a apk se - 
-(E) Asi si můžeme  chvilku povídat.
+(C) Asi si můžeme  chvilku povídat.
 Takže čtěte, tipujte, hlasujte.
 (A)Takže jak to vzniká, Rudolfe?
 Ty, ty jsi začal teďka tady s tím tady s tím Turingovým testem dramatickým.
 Tak jak se dělá jako divadlo pro tebe jako matematika?
-(E)Je tam samozřejmě spousta nějakejch obtížnejch problémů.
+(C)Je tam samozřejmě spousta nějakejch obtížnejch problémů.
 Ale nás vlastně už od začátku překvapilo, že dneska ty velký jazykový modely, my používáme konkrétně GPT2 od (openej?) zvládají sami od sebe generovat docela dobrej text.
 V angličtině teda, pokud člověk chce generovat v angličtině.
 Takže základem je skutečně jenom vzít tady ten model, připravit tomu ten vstup, kterej jsme viděli.
@@ -114,7 +114,7 @@ Takže ten začátek je vlastně jednoduchej.
 (A)Teď já bych se zeptal možná Davida, který zastupuje tady tu eh, to dramatično.
 Jako dramaturg Švandova divadla v Praze.
 Prosim tě, co sis řekl v momentě, kdy Daniel nebo kdo přišel s tím nápadem, že teda se uvede tady hra, jejíž text, dialogy by měla sepsat umělá inteligence:
-(F) No v první řadě jako dramatik taky jsem si říkal, že jsem se narodil do špatný doby.
+(E) No v první řadě jako dramatik taky jsem si říkal, že jsem se narodil do špatný doby.
 Že za chvilku už mě nahradí někdo další.
 Ale zároveň mi přišlo důležitý u toho projektu být, protože se z toho může vyvinout poměrně zajímavý nástroj pro autory.
 Nejenom divadelní, vlastně ja konrétně znám především počítačový hry, které se generujou vlastně samostatně.
@@ -123,7 +123,7 @@ Ale vlastně, netajím se tím, že k tomu přistupuju zvědavě a se zdravou sk
 (A)A Tomáši, co jaký jsi zažíval pocity, když když přišel, nevím, možná Rudolf tady s tím nápadem.
 Řekl sis to je,  to chci, to je zajímavý.
 Anebo si řek: wtf?
-(D) No určitě jsem si řek, že to je zajímavý je, že by se to mělo vyzkoušet.
+(E) No určitě jsem si řek, že to je zajímavý je, že by se to mělo vyzkoušet.
 A že jsem zvědavej, jak daleko v tom dokážeme dojít.
 (A)Můžu se tě zeptat?
 Já, když takhle o tom čtu, jako spíš laicky, tak všichni se shodujou, všechny kapacity světový, že umělá inteligence, i když se jí říká inteligence, tak vlastně vůbec inteligentní není.
@@ -131,7 +131,7 @@ Ničemu nerozumí.
 A jak může takovádle - 
 Nevím, jedničky, nuly, který vůbec nemají důvod učinit nějakou zpověď o světě, ale jenom poslouchají člověka, kterej zmáčkne tlačítko a voni něco udělaj.
 Tak jak jak můžuu něco říct podstatného, co se týká lidského života?
-(D)No, to je to, co složitá otázka.
+(E)No, to je to, co složitá otázka.
 Já myslím, že jedna věc je to, co už jsi tady říkal před tím, v rámci toho představování těch výzev.
 Totiž to, že co je nebo není inteligentní, ta hranice se posouvá neustále.
 Je to přesně tak, jak si říkal.
@@ -165,12 +165,12 @@ Tak co je -
 Který z nich -
 Já nevím teďka už je tam zase vidíme znova.
 Tak poprosím třeba Rudolfa, který by teda odhalil, jestli počítač vygeneroval ten levý nebo ten pravý?
-(E) Jo, já to teda odhalím.
+(C) Jo, já to teda odhalím.
 Ten ten levý, nebo já na to teda pořádně nevidím.
 Tak, jo -
 Vypočítač vygneroval to nalevo.
 (A) To nalevo.
-(E) Jestli dobře koukám.
+(C) Jestli dobře koukám.
 (A)Vidíš na to dobře?
 Když tak -
 Když tak je nutný asi se jít podívat k monitoru.
@@ -183,7 +183,7 @@ Je teda a to je možná zase otázka pro všechny, jestli je budoucnost v tom, �
 Já nevím, já si to divadlo pamatuju takhle z dětství, kdy se ještě chodilo do divadla.
 Ale třeba v budoucnu jedním z takových nástrojů, který dokáže to divadlo posunout bude, bude možná umělá inteligence nebo nebude.
 Nebo jak to vidíš, Davide?
-(F)No, to je otázka.
+(E)No, to je otázka.
 Já myslím, že ty možnosti tam jsou.
 Ale myslím, že tomu brání jedna věc, která není technologická.
 To je ješitnost těch autorů a umělců, že všichni potřebujeme pocit, že jsme ti originální.
@@ -195,12 +195,12 @@ Kdežto ten počítač v tomhletom směru nabízí docela zajímavé rozbušky.
 Takže já si dokážu představit, že kdybych trpěl nějakou autorskou krizí, tak si vygeneruju část dialogu, která by mě mohla inspirovat pro pro další tvorbu.
 A -
 Ale nevím, jestli bych se k tomu přiznal teda.
-(E) Zároveň jako mě přijde, že ti to dává naopak jako tu možnost jako autor prostě si jako dát nějaký odstup.
+(D) Zároveň jako mě přijde, že ti to dává naopak jako tu možnost jako autor prostě si jako dát nějaký odstup.
 A říct:tak to, že ta hra je trochu blbá, to jako není moje chyba, že jo.
 To prostě vygenerovala umělá inteligence, takže ta nám chce něco říct.
 A to, že my tomu nerozumíme, to jako nějaká naše chyba. 
 Že člověk jako trochu se zbaví odpovědnosti, že jo-
-(F) To jo jako ale já myslím, že že je neuvěřitelný, jakým způsobem by to mohlo pomoc do budoucna v tom kvantitativním psaní.
+(E) To jo jako ale já myslím, že že je neuvěřitelný, jakým způsobem by to mohlo pomoc do budoucna v tom kvantitativním psaní.
 V tom smyslu, skutečně, když se tvoří dneska hry, které se samogenerují, tak to, že by mohly být doprovozen doprovozeny dialogem, který je samovygenerovaný, to je skvělý.
 (A)Já bych poprosil ještě všechny z vás, kteří sledují teďka náš malý workshop debatu.
 Můžete klást dotazy, prosím, udělejte to zase přes slek Robothon dvacet dvacet jedna.
@@ -256,10 +256,10 @@ Když se na člověka podíváte zevnitř, oproti kráse jakoby strojů.
 Takže je to jedno z témat.
 Já bych se, ještě než se dostaneme k dotazům, tak se zeptal možná teďka Davida.
 Jak se -
-Protože i Daniel na začátek řikala, že začne zkoušet, tuším v pondělí.
+Protože i Daniel na začátek řikal, že začne zkoušet, tuším v pondělí.
 Ale ty užs že jo ten scénář viděl, existuje.
 Možná ses už bavil i s herci, jak se jim bude říkat vyslovovat slova, který teda nenapsal žijící autor, ale autor vrnící jako a svítící a blikající.
-(E)Já myslím, že v první řadě se jim to bude hůř učit, protože ne vždycky je ta návaznost zcela logická v těch replikách.
+(C)Já myslím, že v první řadě se jim to bude hůř učit, protože ne vždycky je ta návaznost zcela logická v těch replikách.
 A druhá věc, která vlastně je specifická pro ty dialogy, vygenerovaný tím počítačem, že že vlastně ten robot je trošku jako dítě.
 Nebo vlastně jako autisté v tom smyslu, že nepočítá s tím, že by to, co je řečeno, nebyla pravda.
 Takže my vlastně v rámci toho interpretování toho textu budeme muset tu intriku do toho vnášet tak, aby to pro ty herce bylo zajímavé.
@@ -279,7 +279,7 @@ Psycholingvistů vod Asimova a dramatiků jako je tady David.
 Takže já se zeptám ještě na na věc, která se souvisí s procesem té té tvorby a přenesením dejme tomu do divadla.
 Je to -
 Je to tak, že tu celou hru, což já beru, že je titulek, nějaký poznámky, role a ta struktura těch jednání.
-To ceůý teda píše umělá inteligence, nebo je tam -
+To celý teda píše umělá inteligence, nebo je tam -
 Jaký je podíl člověka nebo drama- dramatika, dramaturga na té na tom výsledném představení, které uvidíme teda dvacátýho šestýho února za měsíc tady ve Švandově divadle?.
 (E)Kdybych to měl vyčíslit, tak podíl toho člověka asi určitě nepřesahuje nějakej deset procent.
 Ale ono je to tak, že i ten podíl dramaturga, když píše živý autor také tak je takový, protože se protože dramaturg dává nějaké impulzy.
@@ -295,7 +295,7 @@ Je závislý na tom, jak my jsme seskládali za sebou ty vygenerované situace.
 Ale to je úplně by- běžný běžná metoda koláže montáže.
 Vlastně která, která se taky děje s autorovým textem.
 Takže se k němu chováme jako autor, který je poslušný a když mu něco zamítneme, tak nás poslechne.
-(F)Tohle v podstatě byly nějaký nějaká představa, kterou jsme si řekli na začátku, že už jako byly různý texty, který vznikly s podílem umělé inteligence, kde ten podíl byl tu deset procent, tu sto dvacet pět procent.
+(D)Tohle v podstatě byly nějaký nějaká představa, kterou jsme si řekli na začátku, že už jako byly různý texty, který vznikly s podílem umělé inteligence, kde ten podíl byl tu deset procent, tu sto dvacet pět procent.
 A tak jsme si říkali už jako to už není zajímavý.
 Takže prostě pojďme je skutečně dát tý umělý inteligenci co největší slovo.
 A dohodli jsme se, že opravdu ty zásahy budu jenom minimální. 
