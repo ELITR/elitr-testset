@@ -92,242 +92,214 @@ Další dimenze.
 Vlastně typologie těch vyhodnocovacích metrik je, jestli úkolem je seřadit několik překladů.
 Dejme tomu, máme jednu větu a pomocí pěti překladačů přeloženou tak, že máme pět různých překladů té samé věty.
 A máme je setřídit v žebříčku.
-Tomu se říká "relative ranking" od jedničky do pětky.
-Většinou jsou tam povolené i remízy.
+Tomu se říká "relative ranking" od jedničky do pětky, většinou jsou tam povolené i remízy.
 Druhá metoda, které se říká "direct assesment" je, že vidíme pouze jeden překlad a máme mu přidělit skóre dejme tomu od nuly do jedničky jako reálné číslo.
 A třetí metoda, která kombinuje bývá nazvána různě.
-Tady jsem použil název kolegy Ondřeje Duška "rank based magnitude estimation", kdy vidím pořád několik různých překladu.
-Porovnávám je tedy relativně vůči sobě, ale zároveň není úkolem jenom je setřídit, ale zároveň je úkolem každému přiřadit nějaké skóre zase jako reálné číslo.
+Tady jsem použil název kolegy Ondřeje Duška "rank based magnitude estimation", kdy vidím pořád několik různých překladů, porovnávám je tedy relativně vůči sobě, ale zároveň není úkolem jenom je setřídit, ale zároveň je úkolem každému přiřadit nějaké skóre zase jako reálné číslo.
 Nejlíp to... 
 Jo. 
-Za chvíli to ještě ukážu na příkladech, tam to bude asi nejlépe vidět a třetí dimenze.
-Jestli hodnotíme jednotlivé věty sentence based nebo sentence level evaluation nebo jestli hodnotíme celé dokumenty.
+Za chvíli to ještě ukážu na příkladech, tam to bude asi nejlépe vidět. 
+A třetí dimenze.
+Jestli hodnotíme jednotlivé věty sentence based nebo sentence level evaluation. 
+Nebo jestli hodnotíme celé dokumenty.
 Ale to, čemu tady říkám document level je, že se každému překladu celého dokumentu přiřadí jedno skóre.
 Takže přestože některé věty byly přeložené, dobře, některé špatně, já si to musím v hlavě nějak zprůměrovat a přiřadit jenom jedno skóre celému překladu.
-A to, co nazývám document aware je, že ukážeme celý dokument tak jak ty věty tam jsou.
-Postupně ale chceme, aby anotátoři hodnotili, přiřadili skóre ke každé větě.
+A to, co nazývám document aware je, že ukážeme celý dokument tak jak ty věty tam jsou postupně, ale chceme, aby anotátoři hodnotili, přiřadili skóre ke každé větě.
 Tak teďka ty příklady.
-Takto vypadala v letech dva tisíce, deset až dva tisíce šestnáct ruční evaluace v share tasku v soutěži WMT.
+Takto vypadala v letech dva tisíce deset až dva tisíce šestnáct ruční evaluace v share tasku v soutěži WMT.
 Kdy bylo tady jak jsem říkal, pět různých překladů od pěti různých překladových systémů.
 Možná někteří z nich byl i lidský.
 Ukazovala se tady zdrojová věta.
-V tomto případě se věnuje Česko anglický překlad tak, že zdroj je v češtině.
-Reference je v angličtině, takže a bylo to pouze jednotlivé věty.
-Když jsem všechno ohodnotil, tak jsem tady někde dál.
+V tomto případě se věnuje česko-anglický překlad tak, že zdroj je v češtině.
+Reference je v angličtině. 
+Takže. 
+A bylo to pouze jednotlivé věty.
+Když jsem všechno ohodnotil, tak jsem tady někde klikl dál.
 A na další obrazovce se ukázala nějaká úplně jiná věta z úplně jiného dokumentu.
-Možná někdy jako po.
-Dejme tomu, za tři dny jsem zase viděl větu ze stejného dokumentu.
-Ale už jsem si to asi nespojil dohromady.
-To jsem vlastně o tom nemluvil.
-Ale nevýhoda nebo toho, když se hodnotí po jednotlivých větách, je, že občas z té jedné věty opravdu nemůžeme poznat.
-Ani tu Adekvátnost věrohodnost a ani tu plynulost pořádně.
+Možná někdy jako po...dejme tomu, za tři dny jsem zase viděl větu ze stejného dokumentu, ale už jsem si to asi nespojil dohromady.
+To jsem vlastně o tom nemluvil, ale nevýhoda nebo toho, když se hodnotí po jednotlivých větách, je, že občas z té jedné věty opravdu nemůžeme poznat ani tu adekvátnost, věrohodnost a ani tu plynulost pořádně.
 Nemůžeme jí zhodnotit.
 Potřebovali bychom vidět celý dokument, abychom to mohli správně zhodnotit.
-Tak tady je vidět příklad z loňského ročníku posledního ročníku, kdy jako jedna z úloh se zkoušelo i hodnotit kvalitu.
-Teda celých překladu celých dokumentů.
+Tak tady je vidět příklad z loňského ročníku, posledního ročníku, kdy jako jedna z úloh se zkoušelo i hodnotit kvalitu, teda celých překladů, celých dokumentů.
 A jak vidíte, ten dokument může být velmi dlouhý.
 Tohleto není ten nejdelší z nich.
-A já jsem vlastně tady měl celou celý tento překlad zhodnotit na škále prostě od nuly do sta procent je tady.
-Mohl jsem tady ten Posuvník Slider.
-Nastavit na jakékoli na jakoukoliv pozici v praxi.
-Myslím, že to bylo sto různých pozic možných.
-A samozřejmě, problém je, že je to velmi těžké.
-Nějak jako Takle zhodnotit kvalitu všech těch vět, dát to do jednoho čísla.
-Zároveň se loni zkoušela možnost, kdy kterou tady nazývám pseudo dokument Aware, kdy se ukázaly, ukazovali se stále jednotlivé věty.
-Používal se tady ten Direct Assesment?
-Tedy vidím jenom jeden překlad.
-Nevidím žádné alternativní překlady.
-Určuju zase to skóre od nuly do sta procent.
-Ale ty věty následovaly po sobě.
-Jak.
-Jak jdou v tom dokumentu?
+A já jsem vlastně tady měl celou celý tento překlad zhodnotit na škále prostě od nuly do sta procent. 
+Je tady...
+Mohl jsem tady ten posuvník, slider, nastavit na jakékoli na jakoukoliv pozici. 
+V praxi myslím, že to bylo sto různých pozic možných.
+A samozřejmě, problém je, že je to velmi těžké nějak jako takhle zhodnotit kvalitu všech těch vět, dát to do jednoho čísla.
+Zároveň se loni zkoušela možnost, kdy, kterou tady nazývám pseudo document aware, kdy se ukázaly, ukazovaly se stále jednotlivé věty.
+Používal se tady ten Direct Assesment, tedy vidím jenom jeden překlad.
+Nevidím žádné alternativní překlady, určuju zase to skóre od nuly do sta procent.
+Ale ty věty následovaly po sobě, jak, jak jdou v tom dokumentu.
 Ovšem proč tomu říkám pseudo?
-Protože Anotátoři neměli možnost vrátit se k těm minulým Větám.
+Protože anotátoři neměli možnost vrátit se k těm minulým větám.
 Nebylo tam žádné tlačítko zpět.
-Neviděli ani ty budoucí věty, takže jako pouze to, co jsem si zapamatoval, že jsem viděl.
-V těch předchozích větách, jsem mohl použít jako ten kontext Dokumentový.
+Neviděli ani ty budoucí věty. 
+Takže jako pouze to, co jsem si zapamatoval, že jsem viděl v těch předchozích větách, jsem mohl použít jako ten kontext dokumentový.
 To mi přijde velmi nedostatečné.
-Protože občas, když jsem si tu Evaluaci Zkoušel, tak jsem opravdu nebyl schopen.
-Někdy jsem si říkal, potřeboval vědět, co bude za tím.
-Nebo už jsem zapomněl, co bylo předtím.
+Protože občas, když jsem si tu evaluaci zkoušel, tak jsem opravdu nebyl schopen, někdy jsem si říkal, potřeboval vědět, co bude za tím, nebo už jsem zapomněl, co bylo předtím. 
 Ani jsem nemohl vlastně změnit to svoje rozhodnutí.
 Třeba jsem u následující věty zjistil, že ten původní překlad vlastně byl mnohem lepší, než jak jsem ho hodnotil.
 Ale už jsem to nemohl změnit.
-Tak proto pseudo a tady třetí příklad.
+Tak proto pseudo. 
+A tady třetí příklad.
 Toto je evaluace, kterou jsem organizoval já.
-Najali jsme několik Anotátořů jak profesionálních překladatelů, tak i někteří z vás nebo vaši kolegové.
-A toto je to, co bych nazval tím skutečným dokument Aware, tedy dokument hodnocení celých, že vidím celý dokument.
-Tady v tom Sloupečků jsou všechny věty toho zdrojového dokumentu.
-V tomto případě v angličtině tady vidím dva České překlady od dvou systémů.
-Ve skutečnosti, v tomto experimentu jsem Testoval jeden ten systém byl můj systém Neuronového překladu Transformer.
-Druhý systém byl ve skutečnosti lidský překlad referenční a Anotátoři měli doplnit tyto tři a tyto tři Sloupečky, kde jsem je nechal, aby zvlášť Ukaž ke každé větě.
-Zhodnotili celkovou kvalitu a potom Adequacy a Fluency tedy věrohodnost a plynulost této věty.
+Najali jsme několik anotátořů jak profesionálních překladatelů, tak i někteří z vás nebo vaši kolegové.
+A toto je to, co bych nazval tím skutečným document aware. 
+Teda dokument hodnocení celých, že vidím celý dokument tady v tom sloupečku jsou všechny věty toho zdrojového dokumentu, v tomto případě v angličtině tady vidím dva české překlady od dvou systémů.
+Ve skutečnosti, v tomto experimentu jsem testoval jeden ten systém byl můj systém neuronového překladu Transformer.
+Druhý systém byl ve skutečnosti lidský překlad referenční. 
+A anotátoři měli doplnit tyto tři a tyto tři sloupečky, kde jsem je nechal, aby zvlášť ukaž ke každé větě zhodnotili celkovou kvalitu. 
+A potom adequacy a fluency tedy věrohodnost a plynulost této věty.
 A stejně tak pro ten druhý překlad.
 Ale součástí zadání bylo, že mají zohlednit kontext celého dokumentu.
 To znamená, jak toho zdrojového tak viděli i předcházející a následující věty v tom daném překladu.
-Volitelně mohli Anotátoři doplnit nějakou poznámku.
+Volitelně mohli anotátoři doplnit nějakou poznámku.
 Hodláme ty data vydat veřejně.
 Takže kdyby to někdo chtěl dále zpracovávat, můžou tam být zajímavé věci.
-Tak prosím.
-Aha, tak to se ještě Domluvíme.
+Tak. 
+Prosím?
+Aha, tak to se ještě domluvíme.
 Možná to vydáme bez těch poznámek.
-Dobře?
-Ano, dotazy ano.
-Já bych řek, že hlavní rozdíly, že naráz vidím celý Zdrojový dokument tam ve skutečné.
-A tam jsem viděl vždycky jenom jednu větu.
+Dobře.
+Ano. 
+Dotazy? 
+Ano.
+Já bych řekl, že hlavní rozdíl, je že naráz vidím celý zdrojový dokument. 
+Tam ve skutečné a tam jsem viděl vždycky jenom jednu větu.
 Prostě viděl snad jednu takhle takhle a nemohl jsem se už jako vracet.
-Další velký rozdíl je v tom, že tam jsem viděl jenom jeden překlad.
-A měl jsem moc donutit od nuly do sta procent.
-Tady všechny Překladače, které jsem viděl.
+Další velký rozdíl je v tom, že tam jsem viděl jenom jeden překlad a měl jsem moc ho hodnotit od nuly do sta procent tady všechny překladače, které jsem viděl.
 Nebo ty systémy.
 V tomto případě pouze tyto dva, které jsem chtěl porovnávat, tak vidím vedle sebe.
-Takže jako když Přiřazují tady skóre.
-A potom Přeřazuju tady skóre, tak se jako snažím, aby to bylo nějak férově.
-Zohledněný, pokud bych Tenhleten druhý příklad viděl třeba až jako za tři týdny od té samé chvíle.
-Tak už si samozřejmě nebudu pamatovat, co jsem tam původně přiřadil za skóre.
+Takže jako když přiřazují tady skóre.
+A potom přiřazuju tady skóre, tak se jako snažím, aby to bylo nějak férově zohledněný. 
+Pokud bych tenhleten druhý příklad viděl třeba až jako za tři týdny od té samé chvíle tak už si samozřejmě nebudu pamatovat, co jsem tam původně přiřadil za skóre.
 Takže to bude naprosto neporovnatelné.
-To je vlastně ta moje hlavní výtka k té metodě Direct Assesment.
-Proč Preferuju to, abych viděl oba dva ty systémy tak, že buďto Relative Ranking, nebo v tomto případě Rank Mean.
-A přesně tak, ještě opravdu jsem viděl, že Anotátoři velmi využívali toho, že to můžou vyhodnocovat v libovolném pořadí.
-Takže občas jako nejdřív vyplnili všude Adequacy.
-Pak všude Fluency a velmi často se vraceli a měnili.
-Ty to vím.
-Jednak z toho, že mi to někdo řekl.
-Jednak tedy jsem měl tu možnost tím, že Tohleto byly Google dokument, tak jsem to viděl přímo, občas reálně.
-Jak jak to zrovna Edituju, že využívali té možnost, že můžou změnit některá svá rozhodnutí?
-Tak nějaké další dotazy?
-Ještě k tomu nebo dobře?
+To je vlastně ta moje hlavní výtka k té metodě direct assesment.
+Proč preferuju to, abych viděl oba dva ty systémy tak, že buďto relative ranking, nebo v tomto případě rank mean.
+A přesně tak. 
+Ještě opravdu jsem viděl, že anotátoři velmi využívali toho, že to můžou vyhodnocovat v libovolném pořadí.
+Takže občas jako nejdřív vyplnili všude adequacy.
+Pak všude fluency a velmi často se vraceli a měnili, to vím.
+Jednak z toho, že mi to někdo řekl, jednak tedy jsem měl tu možnost tím, že tohleto byly Google dokument, tak jsem to viděl přímo občas reálně, jak jak to zrovna editujou.
+Že využívali té možnost, že můžou změnit některá svá rozhodnutí.
+Tak nějaké další dotazy nebo?
+Ještě k tomu nebo?
 Takže tady mám ještě jednou shrnuté ty problémy nebo problémy.
-Jsou to prostě úskalí těch jednotlivých typů Evaluací, která vedou k tomu, že tam, že to vyhodnocení bude nějakým způsobem zkreslené.
+Jsou to prostě úskalí těch jednotlivých typů evaluací, která vedou k tomu, že tam, že to vyhodnocení bude nějakým způsobem zkreslené.
 To jako nemusí být vždycky úplně nutně špatně.
 Ale je to prostě nějaký vliv.
-Nějaké zkreslení Bias tady.
-Vlastně o tom jsem nemluvil.
-Ale u toho případu, kdy Vyhodnocuju celé dokumenty.
-Obzvlášť pokud jsou ty dokumenty dlouhé.
+Nějaké zkreslení bias. 
+Tady vlastně o tom jsem nemluvil, ale u toho případu, kdy vyhodnocuju celé dokumenty, obbzvlášť pokud jsou ty dokumenty dlouhé.
 Jeden problém je samozřejmě v tom, že je to velmi hrubé dát jedno skóre celému dokumentu.
-Další problém je psychologického rázu, že?
-Když vím, že bych jako měl pořádně si přečíst celý ty.
-Všechny ty překlady všech vět toho dlouhého dokumentu, jak tam byl, strávím tím třeba půlhodiny, možná i hodinu, když opravdu někteří Anotátoři v tom v té v tomto typu evoluce, opravdu s jedním dokumentem.
-Dejme tomu dvacet vět strávili půlhodiny hodinu, protože opravdu porovnávali velmi pečlivě, jako jaký překlad je lepší a tak dál.
-Pokud uvidíte toto, tak asi se vám nebude chtít nad tím strávit jako hodinu, abyste potom v jedné Vteřině přeřadili nějaké skóre.
-Takže na jednu stranu je to lepší, že?
-Teda jako vyhodnotíme víc dokumentů.
-Ale všechny budou jako velmi.
-Vlastně je otázka, jestli se vůbec můžeme spolehnout na tady to lidské hodnocení.
-Jestli podle čeho to vlastně potom ti Anotátoři hodnotí já?
-Ve skutečnosti, v tomto typu evaluace jsem udělal ještě jednu věc.
-Poté, co Anotátoři vyhodnotili všechny věty.
+Další problém je psychologického rázu. 
+Že...
+Když vím, že bych jako měl pořádně si přečíst celý ty, všechny ty překlady všech vět, toho dlouhého dokumentu, jak tam byl. 
+Strávím tím třeba půlhodiny, možná i hodinu, když opravdu... 
+Někteří anotátoři v tom v té v tomto typu evoluce, opravdu s jedním dokumentem dejme tomu dvacet vět strávili půlhodiny, hodinu, protože opravdu porovnávali velmi pečlivě, jako jaký překlad je lepší a tak dál.
+Pokud uvidíte toto, tak asi se vám nebude chtít nad tím strávit jako hodinu, abyste potom v jedné vteřině přeřadili nějaké skóre.
+Takže na jednu stranu je to lepší, že teda jako vyhodnotíme víc dokumentů.
+Ale všechny budou jako velmi vlastně je otázka, jestli se vůbec můžeme spolehnout na tady to lidské hodnocení.
+Jestli podle čeho to vlastně potom ti anotátoři hodnotí. 
+Já ve skutečnosti, v tomto typu evaluace jsem udělal ještě jednu věc.
+Poté, co anotátoři vyhodnotili všechny věty.
 Respektive já jsem většinu vybral jenom deset vět z každého dokumentu.
-Tak jsem ještě požádal, aby mi dali jedno skóre, které jsem nazval jakoby dokument Level, kde jsou nutili teda opravdu za těch deset vět, jak by je zhodnotil.
+Tak jsem ještě požádal, aby mi dali jedno skóre, které jsem nazval jakoby document level, kde jsou nutili teda opravdu za těch deset vět, jak by je zhodnotil.
 Ale bylo to až poté, co byli nuceni ohodnotit každou větu zvlášť.
-Tím pádem si Myslim, že tam tento psychologický problém nebyl.
+Tím pádem si myslim, že tam tento psychologický problém nebyl.
 Bylo jasné, že jako nad každou tou větou musejí strávit ten čas, protože musí přeložit ty skóre.
-Musí si to dobře rozmyslet.
-Teprve poté mají nějak určit to skóre za celý dokument, přičemž nechtěl jsem, aby to ručně Průměrovali.
-Byl jsem právě zvědaví a je možné to Teďka z těch dat vyzkoumat?
+Musí si to dobře rozmyslet a teprve poté mají nějak určit to skóre za celý dokument, přičemž nechtěl jsem, aby to ručně průměrovali.
+Byl jsem právě zvědavý a je možné to teďka z těch dat vyzkoumat.
 Může se samozřejmě stát, že třeba jedna věta tam byla naprosto nejvíc důležitá z celého dokumentu.
 A pokud v ní byla chyba, i když v ostatních větách chyba nebyla, tak celý překlad celého dokumentu dostane špatné skóre.
-Tak, takže to tady vlastně mam.
+Tak. 
+Takže to tady vlastně mam.
 Je tady otázka, jak?
-Pokud nemáme teda skóre překladu celého dokumentu jako Aproximovat.
-A můžeme to na těch mých datech vyzkoušet?
-Jestli teda průměr aritmetický geometrický je tím správným nebo třeba minimum.
+Pokud nemáme teda skóre překladu celého dokumentu jak ho aproximovat.
+A můžeme to na těch mých datech vyzkoušet jestli teda průměr aritmetický, geometrický je tím správným nebo třeba minimum.
 Tak ještě vlastně.
-To jsem Neřek.
-Ale tady v tom mém typu vyhodnocení Anotátoři Přiřazovali čísla od nuly do desítky.
-Potom jsme jim povolili používat i Desetiné Desetiná čísla.
+To jsem neřekl.
+Ale tady v tom mém typu vyhodnocení anotátoři přiřazovali čísla od nuly do desítky.
+Potom jsme jim povolili používat i desetinné desetiná čísla.
 Ale to nevyužívali moc.
 A tady je výsledek tohoto vyhodnocení.
-Kde tedy reference je ten lidský překlad a Transformer nebo tady?
-V tom případě, ten systém jsme nazvali Kubit.
-To je ten můj překlad Neuronového strojového překladu.
-A pokud bychom to vyhodnocení jenom zjednodušili na to, jestli pro každou větu byl, dostal ten Strojový překlad.
-Lepší skóre nebo horší skóre a nebo stejné jako lidský.
-A nezajímalo nás o kolik lepší tak dostaneme výsledek, že?
-Ve čtyřiceti jedna procentech byl ten Strojový překlad lepší.
-Teďka tady hodnotím tu celkovou kvalitu, kde Nerozlišuju plynulost a věrohodnost.
+Kde tedy reference je ten lidský překlad a transformer nebo tady v tom případě, ten systém jsme nazvali Kubit.
+To je ten můj překlad neuronového strojového překladu.
+A pokud bychom to vyhodnocení jenom zjednodušili na to, jestli pro každou větu byl, dostal ten strojový překlad lepší skóre nebo horší skóre a nebo stejné jako lidský.
+A nezajímalo nás o kolik lepší. 
+Tak dostaneme výsledek, že ve čtyřiceti jedna procentech byl ten strojový překlad lepší.
+Teďka tady hodnotím tu celkovou kvalitu, kde nerozlišuju plynulost a věrohodnost.
 Lidský překlad byl lepší pouze ve třiceti osmi procentech.
 A ten zbytek?
-Dvacet jedna procent.
-To byli Remízi, kdy ta kvalita byla hodnocená jako přesně stejná.
-Takže z tohoto bychom mohli usoudit, kdybych viděl pouze tento výsledek, že Strojový překlad už překonal kvalitu lidského překladu.
-Tady připomínám, že ty reference byly přeložené profesionálním Překladatelem, který samozřejmě viděl celý ten dokument.
-Stejně tak Anotátoři viděli celý ten dokument.
-Ovšem když se potom Koukneme tady podrobně tak potvrdí.
-Tento výsledek se potvrdí v porovnání mediánu, kdy Median lidského překladu byl osm.
-Celých pět a toho strojového devět.
+Dvacet jedna procent to byli remízi, kdy ta kvalita byla hodnocená jako přesně stejná.
+Takže z tohoto bychom mohli usoudit, kdybych viděl pouze tento výsledek, že strojový překlad už překonal kvalitu lidského překladu.
+Tady připomínám, že ty reference byly přeložené profesionálním překladatelem, který samozřejmě viděl celý ten dokument.
+Stejně tak anotátoři viděli celý ten dokument.
+Ovšem když se potom koukneme tady podrobně, tak potvrdí, tento výsledek se potvrdí v porovnání mediánu, kdy median lidského překladu byl osm celých pět a toho strojového devět.
 Pokud by vás zajímalo, jak je možné, že tamto a půl, tak to můžu vysvětlit později.
-No dobře, protože jsme, pokud víc lidí hodnotilo jednu větu, tak jsme vzali průměr, abychom na každou na každý větu měli jenom jedno lidské skóre.
-Takže se mohlo stát, že tam byla i takhle, když to hodnotili dva lidé, že tam byla Půlka.
+No dobře. 
+Protože jsme. 
+Pokud víc lidí hodnotilo jednu větu, tak jsme vzali průměr, abychom na každou na každý větu měli jenom jedno lidské skóre.
+Takže se mohlo stát, že tam byla i takhle, když to hodnotili dva lidé, že tam byla půlka.
 Ale co je zajímavé, co tady chci ukázat?
-Průměrná hodnota toho skóre té kvality je u toho strojového překladu nižší u lidského překladu.
-Osm celých tři u strojového osm celých dva.
+Průměrná hodnota toho skóre té kvality je u toho strojového překladu nižší. 
+U lidského překladu osm celých tři u strojového osm celých dva.
 Proč?
 Protože tady je to vidět na tom Histogramu.
-U některých, přestože u většiny vět byl ten Strojový překlad hodnocen jako lepší.
+U některých, přestože u většiny vět byl ten strojový překlad hodnocen jako lepší.
 U některých vět byl hodnocen jako horší, ale výrazně horší.
-Někde prostě ten Strojový překlad udělal takovou chybu, jakou by asi člověk neudělal.
-Vidíme tady, že?
-Občas se teda jako nějaká chyba stala i výrazná i v tom lidském překladu.
+Někde prostě ten strojový překlad udělal takovou chybu, jakou by asi člověk neudělal.
+Vidíme tady, že občas se teda jako nějaká chyba stala i výrazná i v tom lidském překladu.
 Ale zdaleka ne tak často.
-A teď je otázka, jaký z Těhle těch dvou systému je teda lepší?
+A teď je otázka, jaký z těhle těch dvou systému je teda lepší?
 Je lidský překlad opravdu už lepší?
-Nebo je Strojový překlad už lepší než lidský?
+Nebo je strojový překlad už lepší než lidský?
 A záleží to asi na tom, k čemu to chceme použít.
 Jak moc nám vadí, že tam budou nějaké věty, které jsou přeložené jako velmi špatně?
-Pokud by ten výsledek šel ještě k někomu, aby to zkontroloval, byla by tam takzvaná post Editace.
+Pokud by ten výsledek šel ještě k někomu, aby to zkontroloval, byla by tam takzvaná post editace.
 Tak je to asi přijatelné.
-Tak další úskalí.
+Tak. 
+Další úskalí.
 Už se budu věnovat automatickému vyhodnocování překladu.
-Takže zatím jsem mluvil o Ručním vyhodnocení.
-A Teďka, pokud chceme použít nějaké automatické Metriky, tak tady jako příklad jsem vybral asi nejznámější Metriku.
-Ble, ale v podstatě to samé platí pro jakéhokoliv jiné metodiky, které jsou založené na tom, že porovnávají podobnost mezi tím překladem a referenčním překladem.
-Lidským tak nejznámější problém je velmi dobře znám.
-V podstatě od toho, co bylo ta Metrika vynalezena.
+Takže zatím jsem mluvil o ručním vyhodnocení.
+A teďka, pokud chceme použít nějaké automatické metriky, tak tady jako příklad jsem vybral asi nejznámější metriku BLEU, ale v podstatě to samé platí pro jakéhokoliv jiné metodiky, které jsou založené na tom, že porovnávají podobnost mezi tím překladem a referenčním překladem lidským. 
+Tak nejznámější problém je velmi dobře znám, v podstatě od toho, co bylo ta metrika vynalezena.
 Nemáme dostatek referenčních překladů.
 Typicky máme pouze jenom jeden referenční překlad.
 Tudíž nemáme dostatečné pokrytí všech možných správných překladů a možných správných překladů je typicky mnoho.
-Takže přestože se Strojový překlad vůbec nepodobá tomu referenčními, může být naprosto správný a bude hodnocen tou Metrikou jako špatný a další problém.
-I kdybychom měli, dejme tomu všechny správné překlady a je otázka, co ještě budeme považovat za správný překlad?
-Tak ten Strojový překlad je Neni optimální.
-Dejme tomu, ale to skóre.
-Ble nemusí Korelovat s tím, jak závažná ta chyba je.
-Metrika Ble je založena na počtu n gramu, které se lišily.
+Takže přestože se strojový překlad vůbec nepodobá tomu referenčnímu, může být naprosto správný. 
+A bude hodnocen tou metrikou BLEU jako špatný. 
+A další problém.
+I kdybychom měli, dejme tomu všechny správné překlady a je otázka, co ještě budeme považovat za správný překlad.
+Tak ten strojový překlad je neni optimální dejme tomu, ale to skóre BLEU nemusí korelovat s tím, jak závažná ta chyba je.
+Metrika BLEU je založena na počtu n gramu, které se lišily.
 A může se stát, že někdy se liší mnoho slov.
-Dejme tomu nějaké složený z složený Slovesný tvar.
-Ale je to jenom drobná chyba, kdežto jindy se jedno slovíčko zapomenuté nebo přeložené špatně může naprosto změnit význam té věty a Metrika.
-Ble, toto nereflektuje a třetí problém je poměrně nový v tom smyslu, že jsme na něj dřív nenaráželi.
-Na to, že ty referenční překlady můžou být prostě horší kvality než ten Strojový překlad a Metrika.
-Ble.
-Takovéto překlady, které jsou lepší než ten referenční penalizuje, prostě nejsou podobné tomu referenčnímu.
-Další otázka je, pokud máme tu Evaluaci tak, že máme anglické věty.
-Původní z nějakých anglických novin a referenční překlady si necháme vyrobit nějakým profesionálním Překladatelem přeložit.
-Tak to tady označuje, jako že ta reference je ve skutečnosti překladem, nikoli tou původní větou.
-Tak samozřejmě, to už je tady.
-Ten problém, který jsem zmiňoval.
+Dejme tomu nějaké složený, složený slovesný tvar.
+Ale je to jenom drobná chyba. 
+Kdežto jindy se jedno slovíčko zapomenuté nebo přeložené špatně může naprosto změnit význam té věty. 
+A metrika BLEU, toto nereflektuje. 
+A třetí problém je poměrně nový v tom smyslu, že jsme na něj dřív nenaráželi, na to, že ty referenční překlady můžou být prostě horší kvality než ten strojový překlad. 
+A metrika BLEU takovéto překlady, které jsou lepší než ten referenční penalizuje, prostě nejsou podobné tomu referenčnímu.
+Další otázka je, pokud máme tu evaluaci tak, že máme anglické věty původní z nějakých anglických novin a referenční překlady si necháme vyrobit nějakým profesionálním překladatelem přeložit.
+Tak to tady označuji, jako že ta reference je ve skutečnosti překladem, nikoli tou původní větou.
+Tak samozřejmě, to už je tady ten problém, který jsem zmiňoval.
 Ten překlad nemusí být adekvátní.
-Pokud to ten Překladatel neudělal úplně správně, nebo nemusí být plně plynulý.
-A jak bylo na tom prvním Slidu?
-Občas si ten Překladatel musí zvolit jednu chybu nebo druhou chybu.
+Pokud to ten překladatel neudělal úplně správně, nebo nemusí být plně plynulý.
+A jak bylo na tom prvním slidu, občas si ten překladatel musí zvolit jednu chybu nebo druhou chybu.
 Občas se používá i jiný přístup.
-Kdy vezmu původně České věty, dejme tomu z původně českých novin.
-Nechám přeložit do angličtiny a tyto anglické věty vezmu jako zdroj pro tu pro tu pro to vyhodnocení.
-Tyto anglické věty se překládají strojovým překladem do Češtiny a pak se hodnotí podobnost s referencí.
-Ovšem v tomto případě ta reference je ta původní věta, takže v tomto, dejme tomu opačném směru.
-Evaluace je to, co je tam.
-Zdrojová věta není originál.
-Je to vlastně překlad tak, že může mít přesně tyto dva problémy.
-Nemusí mít úplně stejný význam jako reference a zároveň.
-Ale ta Zdrojová věta asi nebude dobře reprezentovat.
-To, na co potom ten překlad chceme použít.
-Asi nebudeme chtít používat Anglicko český překladač na překládání českých vět o českých politicích.
+Kdy vezmu původně české věty, dejme tomu z původně českých novin, nechám přeložit do angličtiny a tyto anglické věty vezmu jako zdroj pro tu, pro to vyhodnocení.
+Tyto anglické věty se překládají strojovým překladem do češtiny a pak se hodnotí podobnost s referencí.
+Ovšem v tomto případě ta reference je ta původní věta. 
+Takže v tomto, dejme tomu opačném směru evaluace je to, co je tam zdrojová věta není originál.
+Je to vlastně překlad takže může mít přesně tyto dva problémy.
+Nemusí mít úplně stejný význam jako reference. 
+A zároveň, ale ta zdrojová věta asi nebude dobře reprezentovat to, na co potom ten překlad chceme použít.
+Asi nebudeme chtít používat anglicko český překladač na překládání českých vět o českých politicích.
 Takže je tam otázka domény, případně země původu.
-A také otázka Překladštiny, protože překládáme text, který byl původně.
-Který teda není tou tím originální větou.
+A také otázka Překladštiny, protože překládáme text, který byl původně, který teda není tou tím originální větou.
 Je to Překladština.
-A je tady také malé riziko, že?
-Ani ta originální věta, to je.
+A je tady také malé riziko, že ani ta originální věta, to je.
 Ta reference nebude plně adekvátní a Plynulá.
 Tak jak jsem ukazoval na tom prvním Slidu.
 Občas se ani v rodném jazyce nevyjádří tak, jak bych chtěl.
@@ -1209,5 +1181,5 @@ Politika, což průměrný Překladatel lidský tolik nezná?
 Musí si to třeba někde dohledat.
 Tak už teda končíme.
 Jestli máte další dotazy.
-Já tedy někde budu na chodbě, aby se mohl připravit další Přednáška.
+Já tedy někde budu na chodbě, aby se mohl připravit další přednáška.
 Děkuji 
