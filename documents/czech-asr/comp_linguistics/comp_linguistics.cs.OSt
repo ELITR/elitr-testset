@@ -299,269 +299,235 @@ Asi nebudeme chtít používat anglicko český překladač na překládání č
 Takže je tam otázka domény, případně země původu.
 A také otázka Překladštiny, protože překládáme text, který byl původně, který teda není tou tím originální větou.
 Je to Překladština.
-A je tady také malé riziko, že ani ta originální věta, to je.
-Ta reference nebude plně adekvátní a Plynulá.
-Tak jak jsem ukazoval na tom prvním Slidu.
-Občas se ani v rodném jazyce nevyjádří tak, jak bych chtěl.
-Tak Teďka ukážu jeden výsledek z posledního ročníku té Překladové soutěže.
-Tady.
-V tom případě je to překlad z angličtiny do němčiny a ukazuje na této ose korelaci mezi různými Metrikami.
-Jedna z nich tady Zvýrazněna Růžově, je ta Metrika Ble korelaci těchto Metrik s tím lidským hodnocením, které v této soutěži bereme.
-Teda jako to rozhodující to to správná zhodnocení kvality a je vidět, že na této ose máme.
-Kolik systému jsme porovnávali?
-A v případě, že Porovnáváme dvacet systémů, tu byly všechny Překladače Přihlášené do té soutěže.
-Tak ta korelace je velmi vysoká.
-Devadesát pět procent i víc.
-Ovšem pokud porovnám jenom ty čtyři nejlepší Překladače, tak ta korelace je nižší než nula, tedy záporná, tudíž vlastně pak ta ten systém, o kterém mi Metrika Ble řekne, že je lepší, tak je ve skutečnosti horší.
-Takže pokud někde vidíme a většinou se dřív se Reportovalo pouze toto číslo, říkalo se Metrika.
-Ble má korelaci s lidským hodnocením.
-Devadesát šest procent.
-Všichni jsme si zatleskali. Říkali jsme tak ještě ty poslední čtyři procenta.
-Musíme nějak to.
-Ale když se Koukneme tady, třeba prostě pět systémů a tak.
-Ta korelace je vlastně velmi špatná, když Porovnáváme jenom ty systémy a je to pochopitelné.
-Mezi Těma dvaceti systémy byly nějaké systémy opravdu velmi nízké kvality a je velmi jednoduché.
+A je tady také malé riziko, že ani ta originální věta, to je ta reference, nebude plně adekvátní a plynulá, tak jak jsem ukazoval na tom prvním slidu, občas se ani v rodném jazyce nevyjádřím tak, jak bych chtěl.
+Tak. 
+Teďka ukážu jeden výsledek z posledního ročníku té překladové soutěže.
+Tady v tom případě je to překlad z angličtiny do němčiny a ukazuje na této ose korelaci mezi různými metrikami.
+Jedna z nich tady zvýrazněna růžově, je ta metrika BLEU. 
+Korelaci těchto metrik s tím lidským hodnocením, které v této soutěži bereme teda jako to rozhodujíc,í to to správná zhodnocení kvality. 
+A je vidět, že na této ose máme kolik systému jsme porovnávali.
+A v případě, že porovnáváme dvacet systémů, tu byly všechny překladače přihlášené do té soutěže, tak ta korelace je velmi vysoká - devadesát pět procent i víc.
+Ovšem pokud porovnám jenom ty čtyři nejlepší překladače, tak ta korelace je nižší než nula, tedy záporná. 
+Tudíž vlastně pak ta ten systém, o kterém mi metrika BLEU řekne, že je lepší, tak je ve skutečnosti horší.
+Takže pokud někde vidíme... 
+A většinou se dřív se reportovalo pouze toto číslo, říkalo se metrika BLEU má korelaci s lidským hodnocením devadesát šest procent.
+Všichni jsme si zatleskali. 
+Říkali jsme tak ještě ty poslední čtyři procenta musíme nějak to-
+Ale když se koukneme tady, třeba prostě pět systémů a tak, ta korelace je vlastně velmi špatná, když porovnáváme jenom ty systémy. 
+A je to pochopitelné.
+Mezi těma dvaceti systémy byly nějaké systémy opravdu velmi nízké kvality a je velmi jednoduché.
 Všichni se na tom shodnou.
 Tento si tento překlad velmi nízké kvality je opravdu horší než ty ostatní překlady.
 Ano, dobrá připomínka.
-Co kdybychom teda použili Metriku?
-Ble, ale dali bychom tam záporné Znamínko.
-No, tady v tom případě by to pomohlo, ale jako ukazuje to můžeme potom v diskuzi to nějak dál diskutovat.
+Co kdybychom teda použili metriku BLEU, ale dali bychom tam záporné znamínko?
+No, tady v tom případě by to pomohlo. 
+Ale jako ukazuje to- 
+Můžeme potom v diskuzi to nějak dál diskutovat.
 Mám nějaké hypotézy.
 Prostě ono to souvisí s tím, že ty nejlepší překlady i pro tu němčinu už byly hodnocené jako lepší než ten lidský překlad.
 Nebo dejme tomu srovnatelné.
 Takže podobnost s lidským překladem vlastně vůbec nemůže dávat správný výsledek té automatické evaluace.
-Všechny Metriky, nejenom Ble, jsou k tomu odsouzeny.
-A vlastně tady ty šedivé.
-To jsou všechny ty ostatní Metriky je vidět, že trpí.
-Vlastně tím stejným problémem ano, nevím.
-Teďka Ondra Bojar, jestli si nepamatuje, mohli bychom to samozřejmě najít na webu.
-Byly tam myslím velmi vyrovnané.
-Ty první čtyři systémy v tom Ble.
-Ale je také možné, že někteří z nich jako ještě Vyčnívat.
-A Teďka si to Nepamatuju.
-Jak to bylo pro tu němčinu?
-No, jde si vlastně kliknout tady NATO.
-To jsou ty ten článek s Těma výsledky.
+Všechny metriky, nejenom BLEU, jsou k tomu odsouzeny.
+A vlastně tady ty šedivé čáry, to jsou všechny ty ostatní metriky, je vidět, že trpí vlastně tím stejným problémem. 
+Ano? 
+Nevím teďka Ondra Bojar, jestli si nepamatuje? 
+Mohli bychom to samozřejmě najít na webu.
+Byly tam myslím velmi vyrovnané ty první čtyři systémy v tom BLEU, ale je také možné, že někteří z nich jako ještě vyčníval.
+A teďka si to nepamatuju jak to bylo pro tu němčinu.
+No. 
+Jde si vlastně kliknout tady na to-
+To jsou ty, ten článek s těma výsledky.
 Tam jsou podobné výsledky pro ostatní jazykové páry.
 Ale vlastně všude to mělo podobný průběh, že když bylo těch systémů méně, tak ta korelace byla typicky špatná.
-Samozřejmě, když byli dva systémy jenom tak tam jde těžko měřit nějakou korelaci.
-Další výsledek do nástroje.
-Na vyhodnocování tou Metrikou Ble, v který je dneska doporučení k použití Sakble.
-Jsem Doimplementoval možnost a myslím, že už je to vydané.
-Můžete to používat pro detailní výstup.
-Kdy se snažím pro ty test Sety, kde jsem tu Anotaci měl k dispozici nebo kde jsem to Doanotoval rozlišit ještě doménu těch textů a Zdrojový jazyk.
-Takže jako domény jsem si určil, myslím asi pět byznys.
-Politics Enterteiment Science and Technology Crime A. tady to určitě dopadlo.
-Vtipně překlad, že?
-A tady, v tom případě překladu z angličtiny do němčiny, jsem ještě rozlišoval, jestli ta věta byla původně v němčině.
-Nebo byla původně v angličtině.
-A jestli většinou jsou to novinové zprávy, tak jestli ty zprávy byly někde ze zemí Evropské unie nebo z Ameriky, velké Británie a nebo z nějaké jiné země.
-A vlastně, co tady jenom chci ukázat je, že ty jednotlivé křivky, to jsou ty jednotlivé systémy.
-Ta Ble Skore.
-Jsem Znormalizoval, aby jako Jednička byl průměr.
-Protože, samozřejmě, pro některé domény se jsou snažší k překladu tak, že obecně tam ty skóre byly vyšší a jeden systém.
-Myslím, že žlutá je Facebook.
-Velmi dobře vyšel na těch původně německých větách.
+Samozřejmě, když byly dva systémy jenom, tak tam jde těžko měřit nějakou korelaci.
+Další výsledek do nástroje na vyhodnocování tou metrikou BLEU, který je dneska doporučení k použití (Sacre bleu?) jsem doimplementoval možnost a myslím, že už je to vydané.
+Můžete to používat pro detailní výstup, kdy se snažím pro ty test sety, kde jsem tu anotaci měl k dispozici nebo kde jsem to doanotoval, rozlišit ještě doménu těch textů a zdrojový jazyk.
+Takže jako domény jsem si určil, myslím asi pět byznys, politics, enterteiment, science and technology crime. 
+A tady to určitě dopadlo vtipně překlad, že?
+A tady, v tom případě překladu z angličtiny do němčiny, jsem ještě rozlišoval, jestli ta věta byla původně v němčině nebo byla původně v angličtině.
+A jestli, většinou jsou to novinové zprávy, tak jestli ty zprávy byly někde ze zemí Evropské unie nebo z Ameriky, Velké Británie a nebo z nějaké jiné země.
+A vlastně, co tady jenom chci ukázat je, že ty jednotlivé křivky, to jsou ty jednotlivé systémy. 
+Ta BLEU score jsem znormalizoval, aby jako jednička byl průměr.
+Protože, samozřejmě, pro některé domény se jsou snažší k překladu takže obecně tam ty skóre byly vyšší. 
+A jeden systém, myslím, že žlutá je Facebook, velmi dobře vyšel na těch původně německých větách.
 Ovšem, upozorňuji, tady to je překlad z angličtiny do němčiny.
-Takže jako asi nebudeme chtít překládat věty, které původně byly v německých novinách z angličtiny.
-Zpátky do němčiny.
+Takže jako asi nebudeme chtít překládat věty, které původně byly v německých novinách z angličtiny zpátky do němčiny.
 Nebo bude to jenom nějaké velmi okrajové použití.
-Kdybych si chtěli udělat analýzu, jak o německých médiích referují v Americe v americkém tisku.
-A chtěl bych si to přeložit nazpátek do němčiny.
-Tak možná.
-Takže to, že jako tady vyšel tak dobře v praxi?
-Asi se tolik neocení.
-Ale je tam velký rozdíl i mezi těmi Doménami.
-Některý Překladače je lepší na jednu doménu, jiný na jinou.
-A Doteďka se to vlastně moc vůbec neřešilo.
+Kdybych si chtěl udělat analýzu, jak o německých médiích referují v Americe v americkém tisku a chtěl bych si to přeložit nazpátek do němčiny, tak možná.
+Takže to, že jako tady vyšel tak dobře v praxi, asi se tolik neocení.
+Ale je tam velký rozdíl i mezi těmi doménami.
+Některý překladač je lepší na jednu doménu, jiný na jinou.
+A do teďka se to vlastně moc vůbec neřešilo.
 Vždycky se ukazovalo jenom to výsledné skóre přes všechny domény.
 A to samozřejmě nemluvím o tom, že toto se týká pouze novinových článků.
-Takže pokud by to byli třeba právě překlad mluvené řeči, tak to může být úplně jinak.
+Takže pokud by to byli, třeba právě překlad mluvené řeči, tak to může být úplně jinak.
 Ale o tom, samozřejmě se ví dávno.
-A jsou jiné soutěže na překlad Mluveného slova.
-Tak a Teďka mám tady takovou Kvízovou otázku.
-Můžete se na ní zamyslet, jestli je Neuronový překlad lepší v plynulosti nebo v té adekvátnosti.
-Tak asi ano.
-Správně, než co s čím to Porovnáváme?
-A otázka je, jestli neporovnáváme hrušky s Jabkama nebo Jabka s Hruškama.
+A jsou jiné soutěže na překlad mluveného slova.
+Tak a teďka mám tady takovou kvízovou otázku.
+Můžete se na ní zamyslet, jestli je neuronový překlad lepší v plynulosti nebo v té adekvátnosti?
+Tak asi. 
+Ano.
+Správně. 
+Než co? 
+S čím to porovnáváme?
+A otázka je, jestli neporovnáváme hrušky s jabkama nebo jabka s hruškama.
 Jsem zvědavý.
-Přeložil se jako Apples and Oranges.
+Přeložil jsem to jako apples and oranges.
 Asi ne.
-Takže vyšlo několik článků, kde se porovnával.
-Neuronový překlad s předchozí generací překladu.
-Tedy se statistickým překladem a ukazovalo se, že se hlavně zlepšila ta plynulost toho překladu.
-A Usuzovalo se.
-Ale problém je, že může být problém v té věrohodnosti v té adekvátnosti.
-Ovšem podle, když se na to potom člověk opravdu podívat, tak se zlepšili obě dvě.
-Ty dimenze i plynulost i věrohodnost.
-Mě tady jde, ale o něco jiného mě jde o porovnání s lidským překladem.
-A nejde mi Teďka o to, jestli je lepší Strojový překlad tady v tom případě Neuronový anebo lidský.
-Mně jde o to porovnání, jestli relativně, když Porovnávám lidský a Strojový překlad.
-Jestli.
-Kterej je silnější v té plynulosti a Kteréj je silnější v té adekvátnosti, tak se nad tím chvilku zamyslete a nechám hlasovat.
-Kdo si myslí, že překlad?
-Strojový nejlepší co možný?
-Což třeba tady pro angličtinu a češtinu je Teďka ten můj Neuronový překladač myslím stále tak, jestli je lepší oproti, když to porovnám s lidmi.
-Jestli je lepší ve plynulosti.
+Takže vyšlo několik článků, kde se porovnával neuronový překlad s předchozí generací překladu, tedy se statistickým překladem a ukazovalo se, že se hlavně zlepšila ta plynulost toho překladu.
+A usuzovalo se-
+Ale problém je, že může být problém v té věrohodnosti, v adekvátnosti.
+Ovšem podle, když se na to potom člověk opravdu podívá, tak se zlepšili obě dvě ty dimenze i plynulost i věrohodnost.
+Mě tady jde, ale o něco jiného. 
+Mě jde o porovnání s lidským překladem.
+A nejde mi teďka o to, jestli je lepší strojový překlad tady v tom případě neuronový anebo lidský.
+Mně jde o to porovnání, jestli relativně, když porovnávám lidský a strojový překlad, jestli-
+Kterej je silnější v té plynulosti a kterej je silnější v té adekvátnosti. 
+Tak se nad tím chvilku zamyslete a nechám hlasovat.
+Kdo si myslí, že překlad strojový nejlepší co možný což třeba tady pro angličtinu a češtinu je teďka ten můj neuronový překladač myslím stále, tak jestli je lepší oproti, když to porovnám s lidmi.
+Jestli je lepší ve plynulosti?
 Kdo si myslí, že ano?
-A kdo si myslí, že v adekvátnosti věrohodnosti?
-Tak jsme dva tři.
-Když jste viděl, že jsem se přihlásil já, tak se hlásí další.
+A kdo si myslí, že v adekvátnosti, věrohodnosti?
+Tak jsme dva, tři.
+Když jste viděli, že jsem se přihlásil já, tak se hlásí další.
 No, ono velmi záleží na tom, právě jaký překladač si zvolíme.
-A tady teda.
-To je ten můj Anglicko český překladač.
-Ukazuju Zvlášt Adekvátnost a tam ten můj překladač vyšel jako Signifikantně lepší a pro plynulost vyšel jako Signifikantně horší.
-Takže tady by ta odpověď byla, že Strojový překlad je lepší v té věrohodnosti.
-Opravdu se někdy stávalo.
-Má to těch důvodů je několik, ale občas mi přišlo, že ty překladatelé buďto něco zapomněli přeložit, nebo nevěděli, jak se to přeloží.
-Správně.
-Nebo to podle mě někdy byly jenom líný, jako prostě.
-Kdežto výhoda strojového překladu, že není líný a prosím Autista, že je.
-Ano, jako málokdy se stalo, že by nějakou informaci.
-Ten Strojový překlad jako vyhodil, zapomněl přeložit.
-Nebo si tam úplně vymyslel.
-Navíc, kdežto lidem se toto stává poměrně často a můžeme samozřejmě dále jako diskutovat.
-Jestli teda z pragmatického hlediska je to správně nebo tak?
-Ale tady jako je jenom to, Co. jak to hodnotili ti lidé?
-To není ani já jsem nebyl jeden z těch Anotátorů.
-Takže tady to vychází.
-Opravdu z těch hodnocení ano.
-Ano, občas se stane, že i Strojový překlad si tam přidá něco, co v té zdrojové věty vůbec nebylo.
-Myslím, že tomu mému Překladači se toto moc často nestává.
+A tady teda to je ten můj anglicko-český překladač.
+Ukazuju zvlášt adekvátnost a tam ten můj překladač vyšel jako signifikantně lepší a pro plynulost vyšel jako signifikantně horší.
+Takže tady by ta odpověď byla, že strojový překlad je lepší v té věrohodnosti.
+Opravdu se někdy stávalo-
+Má to těch důvodů je několik, ale občas mi přišlo, že ty překladatelé buďto něco zapomněli přeložit, nebo nevěděli, jak se to přeloží správně nebo to podle mě někdy byly jenom líný, jako prostě...
+Kdežto výhoda strojového překladu, že není líný. 
+Prosím? 
+Autista, že je.
+Ano.
+Jako málokdy se stalo, že by nějakou informaci ten strojový překlad jako vyhodil, zapomněl přeložit nebo si tam úplně vymyslel navíc. 
+Kdežto lidem se toto stává poměrně často a můžeme samozřejmě dále jako diskutovat jestli teda z pragmatického hlediska je to správně nebo tak?
+Ale tady jako je jenom to, co jak to hodnotili ti lidé.
+To není ani, já jsem nebyl jeden z těch anotátorů.
+Takže tady to vychází opravdu z těch hodnocení. 
+Ano?
+Ano, občas se stane, že i strojový překlad si tam přidá něco, co v té zdrojové věty vůbec nebylo.
+Myslím, že tomu mému překladači se toto moc často nestává.
 Samozřejmě, měl jsem různé verze.
 Nějak jsem se to snažil i vyladit, aby se toto nestávalo.
-Ano, ano, to je velmi dobré.
-Dobrá připomínka.
+Ano? 
+Ano, to je velmi dobré, dobrá připomínka.
 Občas v angličtině, občas angličtině umožňuje nevyjádřit některé některé věci.
-Prostě Aktora pacient a tak.
-A v češtině by takové, jako kdybychom to otrocky přeložili.
-A taky to nevyjádřili takto.
-Buďto vůbec nejde, nebo to zní strašně Kostrbatě, ale takový překlad asi bude úplně.
-Ten Nejadekvátnější prostě zachoval všechno.
-Nic nevymyslel, nic Nevypustí.
+Prostě (aktora?) (paciece?) a tak.
+A v češtině by takové, jako kdybychom to otrocky přeložili a taky to nevyjádřili takto buďto vůbec nejde, nebo to zní strašně kostrbatě, ale takový překlad asi bude úplně ten nejadekvátnější. 
+Prostě zachoval všechno.
+Nic nevymyslel, nic nevypustí.
 Takže tady opět se vracíme k tomu.
-Možná to, že to získalo tak dobré.
-Hodnocení v té věrohodnosti je vyváženo právě tím, že to dostalo horší hodnocení v té plynulosti.
+Možná to, že to získalo tak dobré hodnocení v té věrohodnosti je vyváženo právě tím, že to dostalo horší hodnocení v té plynulosti.
 Jde to jako v ruku v ruce.
-Možná bych to mohl měl změnit někde nějaký Hyper parametr, který ovlivní to, aby ty překlady byly plynulejší i za cenu, že nebudou tak věrohodné.
-A je otázka, co od toho strojového Překladače chceme.
-Jestli si spíš jako tu větu upravíme, aby to dobře ty věty na sebe navazovaly.
-A bylo to plynulé, česky, když třeba umím jenom česky a neumím anglicky.
-Nebo jestli spíš.
-Radši si Dohledám ty původní zdroje a Opravím ty faktické chyby ve věrohodnosti.
-Tak ano, ano.
-To je další otázka, jestli chceme, aby ten Strojový překlad jenom simuloval to, jak překládají lidský překladatelé.
-Anebo chceme vlastně něco trochu jiného?
-Ano, to je taky dobrá poznámka.
-Myslím, že tam budu mít ještě nějaký Slide o rozdílech mezi Anotátory.
-Ale zatím bych poznamenal v tomto vyhodnocení.
-Ty systémy byly Anonymizované a Anotátoři.
-Nevěděli, jestli je systém a člověk nebo stroj nebo systém B. dokonce ani nevěděli, nebo neměli vědět, že budou hodnotit stroj a člověk. Řekli jsme jim: tady máte dva různé překlady a nevěděli, jestli to jsou třeba dva lidské překlady nebo dva Strojové.
+Možná bych to mohl, měl změnit někde nějaký hyper parametr, který ovlivní to, aby ty překlady byly plynulejší i za cenu, že nebudou tak věrohodné.
+A je otázka, co od toho strojového překladače chceme.
+Jestli si spíš jako tu větu upravíme, aby to dobře ty věty na sebe navazovaly a bylo to plynulé, česky, když třeba umím jenom česky a neumím anglicky.
+Nebo jestli spíš radši si dohledám ty původní zdroje a opravím ty faktické chyby ve věrohodnosti.
+Tak. 
+Ano? 
+Ano.
+To je další otázka, jestli chceme, aby ten strojový překlad jenom simuloval to, jak překládají lidský překladatelé.
+Anebo chceme vlastně něco trochu jiného.
+Ano to je taky dobrá poznámka.
+Myslím, že tam budu mít ještě nějaký slide o rozdílech mezi anotátory.
+Ale zatím bych poznamenal v tomto vyhodnocení ty systémy byly anonymizované a anotátoři nevěděli, jestli je systém A člověk nebo stroj nebo systém B. 
+Dokonce ani nevěděli, nebo neměli vědět, že budou hodnotit stroj a člověk. 
+Řekli jsme jim: tady máte dva různé překlady a nevěděli, jestli to jsou třeba dva lidské překlady nebo dva strojové.
 Ještě nějaký dotaz?
-Tak ano, ano, ano, ano, ano, je to dobrá připomínka.
-Sice tady bylo jako překlad jedna překlad dva, ale bylo jako bylo v podstatě.
-Museli jsme zachovat, že všechny věty v Tomhletom Sloupečku jsou od toho stejného systému.
-Takže dejme tomu tady byly všechny lidské překlady tady byly všechny Strojové nebo obráceně.
-Zvažovali jsme, jako jestli to Neprohodit, jenže tím bychom porušili to.
-Pokud v tom hodnocení jsem samozřejmě měl hodnotit, jak to navazuje na ty předchozí věty.
-A můžu si vybrat.
-Mám třeba dvě synonyma.
-Jak to Přeložím?
+Tak. 
+Ano, ano. 
+Ano. 
+Ano. 
+Ano, je to dobrá připomínka.
+Sice tady bylo jako překlad jedna překlad dva, ale bylo jako bylo v podstatě museli jsme zachovat, že všechny věty v tomhletom sloupečku jsou od toho stejného systému.
+Takže dejme tomu tady byly všechny lidské překlady, tady byly všechny strojové nebo obráceně.
+Zvažovali jsme, jako jestli to neprohodit, jenže tím bychom porušili to pokud v tom hodnocení jsem samozřejmě měl hodnotit i jak to navazuje na ty předchozí věty a můžu si vybrat.
+Mám třeba dvě synonyma jak to přeložím.
 Obě dvě jsou jako přípustné překlady, ale nemůžu je měnit s každou větu.
-Musí mít konzistentní.
-Takže to by jako z Tohodle důvodu jsme se rozhodli neměnit to v rámci toho bloku těch deset vět.
-Takže ano, pokud jsem z jedné věty nějak jako poznal, co je člověk a co je stroj.
-A pokud jsem věděl, že jedno je stroje člověk, tak jsem si to mohl potom jako vlastně být tím ovlivněn i na ty ostatní věty.
-Budu tam mít ještě Nějakej Slide o tom, jak se podařilo poznávat lidem, co je stroj a co je člověk.
+Musí být konzistentní.
+Takže to by jako z tohodle důvodu jsme se rozhodli neměnit to v rámci toho bloku těch deset vět.
+Takže ano. 
+Pokud jsem z jedné věty nějak jako poznal, co je člověk a co je stroj a pokud jsem věděl, že jedno je stroj, člověk, tak jsem si to mohl potom jako vlastně být tím ovlivněn i na ty ostatní věty.
+Budu tam mít ještě nějakej slide o tom, jak se podařilo poznávat lidem, co je stroj a co je člověk.
 Je to zajímavý nápad a já bych tuhle tu diskusi přerušil ze dvou důvodů.
 Jednak, že jsem slíbil, že mi to bude trvat míň než devadesát minut.
-A mám ještě několik Slidů.
-A jednak, protože pro tenhle ten experiment bys potřeboval Anotátory, který neví, že tam bude Tenhleten trik.
-A pokud to Teďka všem tady Řekneš.
-Dobře, tak tady jsem chtěl ukázat, že porovnání kvality strojového překladu a lidského.
-Takže tady vynáší skóre toho strojového překladu minus.
-Kvalita lidského se lišilo podle domény, takže třeba pro články o obchodních záležitostech.
-Byl ten Strojový překlad lepší než lidský?
-Ale články z kategorie Entertiment.
-Takže jako prostě různé kulturní Recenze, filmů, knih a podobně.
-Tam byl Strojový překlad výrazně horší než lidský překlad.
+A mám ještě několik slidů.
+A jednak, protože pro tenhle ten experiment bys potřeboval anotátory, který neví, že tam bude tenhleten trik.
+A pokud to teďka všem tady řekneš.
+Dobře. 
+Tak. 
+Tady jsem chtěl ukázat, že porovnání kvality strojového překladu a lidského, takže tady vynáší skóre toho strojového překladu minus kvalita lidského, se lišilo podle domény, takže třeba pro články o obchodních záležitostech byl ten strojový překlad lepší než lidský?
+Ale články z kategorie entertiment, takže jako prostě různé kulturní recenze filmů, knih a podobně, tam byl strojový překlad výrazně horší než lidský překlad.
 V předchozím snímku jsem ukazoval, jak to bylo na úrovni celých dokumentů.
-To když za celý ten dokument.
-Teda, v mém případě jen deset vět přiřadili jedno skóre.
+To když za celý ten dokument, teda v mém případě jen deset vět přiřadili jedno skóre.
 Tady je vidět, jak to dopadne, když uděláme, když tam vyneseme všechny ty věty.
-Ale víceméně jako ty, tendence jsou tam podobné.
+Ale víceméně jako ty tendence jsou tam podobné.
 Máme tady víc pozorování, ale je to trochu jiné.
 Ale pořád jsou tam jako vidět ty rozdíly.
 Tak a tady je opět před tím jsem tam měl jenom tu věrohodnost.
 A tady je plynulost.
-Takže v plynulosti jako obecně.
-Skoro všude je lidský překlad.
-Lepší proto jsou všechny tady pod tou nulou.
-Snad s výjimkou teda opět článků o tom obchodu tady, když je to na úrovni jednotlivých vět.
+Takže v plynulosti jako obecně skoro všude je lidský překlad lepší. 
+Proto jsou všechny tady pod tou nulou.
+Snad s výjimkou teda opět článků o tom obchodu. 
+Tady, když je to na úrovni jednotlivých vět.
 Je tady vidět asi, že když se vezme jenom průměr vět, tak to dopadne líp, než když se vezme vyhodnocení přes ty celé dokumenty.
 Teďka myslím líp z hlediska strojového překladu.
-Takže je tam ještě nějaký rozdíl?
-Tak tady je právě otázka, jestli můžeme.
-Jestli bylo nutné nechat ty Anotátory vyplňovat tři Sloupečky, Adekvátnost, plynulost a ještě celkovou kvalitu, nemohli bychom celkovou kvalitu odhadnout jako Vážený průměr.
+Takže je tam ještě nějaký rozdíl.
+Tak tady je právě otázka, jestli můžeme-
+Jestli bylo nutné nechat ty anotátory vyplňovat tři sloupečky, adekvátnost, plynulost a ještě celkovou kvalitu, nemohli bychom celkovou kvalitu odhadnout jako vážený průměr?
 No, můžeme to vyzkoušet.
 Máme na to data.
-Tím, že jsme je nechali, hodnotí tři Sloupečky.
-A zjistili jsme, že pokud bychom chtěli určit jako relativní váhu v tom průměru té adekvátnosti, tak tady ta Proměná.
-X se bude lišit podle toho, které kteří Anotátoři to hodnotili.
-Takže pokud to byly říkáme Neprofesionálové myšleno, nebyly to profesionální překladatelé.
-Ale byli to lidé, kteří dobře umí.
-Oba dva jazyky tak dávali důraz na tu Adekvátnost jedna polovina a víc.
+Tím, že jsme je nechali, hodnotit tři sloupečky. 
+A zjistili jsme, že pokud bychom chtěli určit jako relativní váhu v tom průměru té adekvátnosti, tak tady ta proměnná x se bude lišit podle toho, které kteří anotátoři to hodnotili.
+Takže pokud to byli, říkáme neprofesionálové, myšleno nebyly to profesionální překladatelé, ale byli to lidé, kteří dobře umí oba dva jazyky, tak dávali důraz na tu adekvátnost jedna polovina a víc.
 Takže spíš šlo o to, jestli je zachována ta věrohodnost.
-Nedbali tolik na plynulost, když jsme se Koukli, jak to vyšlo u profesionálních překladatelů.
-Tak ty dávali větší důraz na na plynulost a podobně.
-Ještě jsme měli tři Translatologi.
+Nedbali tolik na plynulost.
+Když jsme se koukli, jak to vyšlo u profesionálních překladatelů, tak ty dávali větší důraz na na plynulost a podobně.
+Ještě jsme měli tři translatology.
 Nutno tady zdůraznit, že to, jak dávali důraz na plynulost a věrohodnost, hodnotíme jenom podle toho, jak oni sami hodnotili věrohodnost a plynulost.
 Nevím, jestli tady budu mít obrázek.
 To se samozřejmě také lišilo.
-Občas se stalo právě, že profesionální překladatelé někde tu plynulost zhodnotili jako mnohem horší, než jak jí hodnotili.
-Neprofesionálové.
-A ještě nás zajímalo, pokud toto vyhodnotíme zvlášť pro ten Strojový překlad a zvlášť pro ten lidský překlad. Člověk by čekal, že vlastně když nevěděli, který je který, tak všechna ta čísla budou na Diagonále.
+Občas se stalo právě, že profesionální překladatelé někde tu plynulost zhodnotili jako mnohem horší, než jak jí hodnotili neprofesionálové.
+A ještě nás zajímalo, pokud toto vyhodnotíme zvlášť pro ten strojový překlad a zvlášť pro ten lidský překlad, člověk by čekal, že vlastně když nevěděli, který je který, tak všechna ta čísla budou na diagonále.
 Ale ukazuje se, že tomu tak není.
 Pro někoho v případě lidského překladu dával v podstatě veškerý důraz dával pouze na tu věrohodnost.
-Ale v případě strojového překladu tento jeden Anotátor to hodnotil tu celkovou kvalitu jako Vážený průměr stejným dílem z obojího.
-Nemusí to být tím, že by podváděly nebo tak.
-Může to být jenom tím, že ve skutečnosti se neřídily váženým průměrem takhle přímo lineárním.
+Ale v případě strojového překladu tento jeden anotátor to hodnotil, tu celkovou kvalitu jako vážený průměr stejným dílem z obojího.
+Nemusí to být tím, že by podváděli nebo tak.
+Může to být jenom tím, že ve skutečnosti se neřídili váženým průměrem takhle přímo lineárním.
 Může to být, že to byl nějaký třeba geometrický průměr nebo tak podobně.
 Třeba minimum.
-Tak a a tak.
-To je dobrý.
-Takže doufám už poslední Slide.
-A potom může být diskuse další problém.
-Otázka je, kde je vlastně rozdíl mezi jenom překladem a Lokalizací?
-Občas, když překládáme články z jiného kulturního prostředí, tak nestačí to jenom přesně přeložit.
-Ale je pro některé účely vhodné i vlastně změnit to, co se tam píše.
-Takže, našel jsem zase.
-To už je z letošních?
-Vlastně z loňského Wmt.
+Tak a. 
+Tak to je dobrý.
+Takže doufám už poslední slide.
+A potom může být diskuse. 
+Další problém.
+Otázka je, kde je vlastně rozdíl mezi jenom překladem a lokalizací?
+Občas, když překládáme články z jiného kulturního prostředí, tak nestačí to jenom přesně přeložit, ale je pro některé účely vhodné i vlastně změnit to, co se tam píše.
+Takže, našel jsem zase, to už je z letošních?
+Vlastně z loňského WMT.
 Byla tam věta o festivalu Burning Men v Americe.
-Bylo to přeloženo jako Matějské Pouť, což, jak obrázek napovídá, je něco dost jiného.
+Bylo to přeloženo jako Matějská pouť, což, jak obrázek napovídá, je něco dost jiného.
 Ovšem přišlo mi, že v daném dokumentu, kde to bylo součástí nějakého vtipu.
-A vlastně bylo úplně jedno, jestli je to Burning Men nebo prostě.
-Já nevím co Woodstock.
-Tak to sloužilo dobře a bylo to vlastně z hlediska pragmatiky a z hlediska lokalizace to bylo lépe přeložené jako Matějské Pouť.
+A vlastně bylo úplně jedno, jestli je to Burning Men nebo prostě já nevím co. 
+Woodstock.
+Tak to sloužilo dobře a bylo to vlastně z hlediska pragmatiky a z hlediska lokalizace to bylo lépe přeložené jako Matějské pouť.
 Ovšem, a samozřejmě toto zvládl přeložit takhle jenom člověk.
 Strojový překlad se neodvážil na takovouto lokalizaci a asi bychom to po něm ani nechtěli.
 A je velká otázka, jak takovéto věci hodnotit při lidském hodnocení překladu.
-Takže děkuji za pozornost a je prostor pro dotazy.
+Takže děkuji za pozornost. 
+A je prostor pro dotazy.
 Předtím vypadalo, že jich bude spousta.
-A Teďka možná všichni potřebují jít pracovat.
+A teďka možná všichni už potřebují jít pracovat.
 Můžeme to probrat klidně.
-No, to jestli tomu rozumím, tak myšlenka byla, že by se udělal jakoby reference Base evaluace, kde se jakoby ukáže referenční překlad.
-A pak jsem a jeden Strojový překlad.
-Ale ve skutečnosti to bude obráceně.
-Ten referenční bude ve skutečně Strojový.
-No, vidím tam jako dva případné problémy.
-Jeden je, že ti to nemusí uvěřit, i když.
-Můžou to pro Kouknout.
-I když jsme seděli v této místnosti a nebudou o tom vědět.
-Protože opravdu u některých vět, to jako kdo se tomu věnuje, tak to dokáže jako rozlišit, jaké chyby dělá Strojový překlad.
-Jaké chyby dělá lidský překlad?
+No, to jestli tomu rozumím, tak myšlenka byla, že by se udělal jakoby reference base evaluace, kde se jakoby ukáže referenční překlad.
+A pak se- 
+A jeden strojový překlad, ale ve skutečnosti to bude obráceně.
+Ten referenční bude ve skutečně strojový.
+No. 
+Vidím tam jako dva případné problémy.
+Jeden je, že ti to nemusí uvěřit, můžou ti to prokouknout i když neseděli v této místnosti a nebudou o tom vědět.
+Protože opravdu u některých vět, to jako kdo se tomu věnuje, tak to dokáže jako rozlišit, jaké chyby dělá strojový překlad, jaké chyby dělá lidský překlad.
 Já tady nakonec neměl ten obrázek.
 Ale myslím, že mnozí z vás se účastnili té evaluace.
 A posílal jsem vám to úkolem. Říkal jsem tomu Translation Turing test. Úkolem bylo úkolem bylo rozlišit vždycky jenom byla jedna věta rozlišit, jestli je přeložená strojem nebo člověkem.
