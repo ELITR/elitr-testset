@@ -527,325 +527,277 @@ Ten referenční bude ve skutečně strojový.
 No. 
 Vidím tam jako dva případné problémy.
 Jeden je, že ti to nemusí uvěřit, můžou ti to prokouknout i když neseděli v této místnosti a nebudou o tom vědět.
-Protože opravdu u některých vět, to jako kdo se tomu věnuje, tak to dokáže jako rozlišit, jaké chyby dělá strojový překlad, jaké chyby dělá lidský překlad.
+Protože opravdu u některých vět, to jak kdo se tomu věnuje, tak to dokáže jako rozlišit, jaké chyby dělá strojový překlad, jaké chyby dělá lidský překlad.
 Já tady nakonec neměl ten obrázek.
 Ale myslím, že mnozí z vás se účastnili té evaluace.
-A posílal jsem vám to úkolem. Říkal jsem tomu Translation Turing test. Úkolem bylo úkolem bylo rozlišit vždycky jenom byla jedna věta rozlišit, jestli je přeložená strojem nebo člověkem.
-A nakonec vyšlo, že většina lidí to Signifikantně Nerozlišila.
+A posílal jsem Vám to úkolem. 
+Říkal jsem tomu translation turing test. 
+Úkolem bylo- 
+Úkolem bylo rozlišit vždycky jenom byla jedna věta rozlišit, jestli je přeložená strojem nebo člověkem.
+A nakonec vyšlo, že většina lidí to signifikantně nerozlišila.
 Ta úspěšnost všech teda byla vyšší než padesát procent, ale většinou byla jen těsně vyšší než padesát procent.
 Takže na těch sto vět, co dostali, to nebylo signifikantní.
-Ti lidé, kteří to rozlišili, byly tam někteří s úspěšnosti.
-Já nevím, myslím, že okolo sedmdesáti procent.
-I tak většinou, co jsem se pak třeba s někým bavil nebo co jsem se Koukal do těch dat.
-To bylo jenom díky tomu, že věděli, že lidé dělají nějaké chyby, které by stroj nikdy neudělal.
+Ti lidé, kteří to rozlišili, byly tam někteří s úspěšností já nevím, myslím, že okolo sedmdesáti procent.
+I tak většinou, co jsem se pak třeba s někým bavil nebo co jsem se koukal do těch dat, to bylo jenom díky tomu, že věděli, že lidé dělají nějaké chyby, které by stroj nikdy neudělal.
 A proto kvůli této chybě tu větu označili jako lidský překlad.
 Tak, takže jedna první problém, jestli by to vlastně neodhalili a stejně nebyly ovlivněný.
-Druhý problém je, že v tom zadání se neříká, že ta reference jako je správně nebo neříká se tam Porovnejte podobnost s referencí. Říká se určite kvalitu překladu a ta reference vám pomůže.
-Ale vždycky se říkalo, pokud uvidíte, že v referenci nějaký problém.
-Nebo občas se stávalo, že nebyly ty věty správně Zarovnané. Že tam vlastně byl ještě kus nějaký jiný věty.
-Tak ignorujte tu referenci.
-Jenom Hodnoťte kvalitu toho překladu.
+Druhý problém je, že v tom zadání se neříká, že ta reference jako je správně nebo neříká se tam porovnejte podobnost s referencí. 
+Říká se - určete kvalitu překladu a ta reference Vám pomůže.
+Ale vždycky se říkalo, pokud uvidíte, že v referenci nějaký problém, nebo občas se stávalo, že nebyly ty věty správně zarovnané, že tam vlastně byl ještě kus nějaký jiný věty, tak ignorujte tu referenci.
+Jenom hodnoťte kvalitu toho překladu.
 Nebo jako použijte vlastní úsudek a tak.
-Takže by se musely.
-Ono to tam teda nebylo.
-Ty instrukce Takle explicitní nebyly, ale naopak by se musel explicitně nějak jako říct, že vlastně Tohleto nemají dělat, aby se zabránilo tomuto vlivu. Čímž Nevim, ale jako zkusit se to může jako jedna z věcí.
-Asi by si takhle, pokud teda předpokládáme, že ty jiné systémy budou taky horší ve plynulosti.
-Ale najednou budeš mít referenci, která není Plynulá takto, ale neovlivní to Tvoje hodnocení.
+Takže by se musely-
+Ono to tam teda nebylo ty instrukce takhle explicitní nebyly, ale naopak by se musel explicitně nějak jako říct, že vlastně tohleto nemají dělat, aby se zabránilo tomuto vlivu. 
+Čímž nevim, ale jako zkusit se to může jako jedna z věcí.
+Asi by si takhle, pokud teda předpokládáme, že ty jiné systémy budou taky horší ve plynulosti, ale najednou budeš mít referenci, která není plynulá takto, ale neovlivní to tvoje hodnocení.
 Pokud ten překlad je plynulý, tak ty mu dáš jako perfektní kvalitu.
-To, že reference nebyla Plynulá, to si dokážeš opravit sám?
-Jako mluvčí toho cílového jazyka?
+To, že reference nebyla plynulá, to si dokážeš opravit sám jako mluvčí toho cílového jazyka.
 Vlastně ještě jeden z důvodu.
 To jsem já.
 Jsem to nakonec zkrátil tady pro ty účely.
-Ale záleží velmi na tom, jak tam bylo.
-Jestli je lepší Strojový překlad v plynulosti nebo adekvátnosti, záleží na tom, jak je Trénován.
-Jak moc se použije back Translation?
-A mám výsledky od jiného systému nejmenovaného.
-Kde to vyšlo obráceně.
+Ale záleží velmi na tom, jak tam bylo jestli je lepší strojový překlad v plynulosti nebo adekvátnosti, záleží na tom, jak je trénován.
+Jak moc se použije back translation.
+A mám výsledky od jiného systému nejmenovaného, kde to vyšlo obráceně.
 Myslím si, že ten je lepší v té plynulosti a horší v té adekvátnosti.
-Protože kvůli způsobu, jakým byl Trénován, taky záleží na tom, jakým způsobem je děláno vyhodnocení.
-To jsem tady vlastně trochu Přeskočil.
-Ale jako problém té metody Direct Assesment, kdy se ukazuje jenom jeden překlad?
-Tak mám pocit, že tady se zaměřujeme na chyby v plynulosti a některé chyby v adekvátnosti.
+Protože kvůli způsobu, jakým byl trénován, taky záleží na tom, jakým způsobem je děláno vyhodnocení.
+To jsem tady vlastně trochu přeskočil.
+Ale jako problém té metody direct assesment, kdy se ukazuje jenom jeden překlad, tak mám pocit, že tady se zaměřujeme na chyby v plynulosti a některé chyby v adekvátnosti.
 Ale jenom na ty závažné chyby v adekvátnosti.
-Ostatní drobné chyby se v tomto typu vyhodnocení vůbec neprojeví.
-Na tom Celkovim žebříčku těch systémů.
-A mně to přijde jako.
-Neříkám, že je to apriori špatně, ale je to nějaký nějaký zkreslení Bias.
-Výhoda může být, že ta Anotace mnohem rychlejší na počet vět.
-Naopak, tady problém, když se pouze dělal Relative Tanking jako.
-A to mám někde dřív je, že se za jsme se, že?
-Pokud jeden systém se jenom malinko byl lepší než jiný systém, tak se to tady projevilo.
-Prostě byl Hodnocený v tom žebříčku výš a neprojevilo se, že to bylo jen drobné zlepšení, které vlastně vůbec možná tu kvalitu nijak neovlivnilo.
-Takže to taky vedlo k nějakému zkreslení, takže ani neříkám, přestože jsem typicky prosazoval spíš používání tady toho Relative Ranking oproti Direct Assesment.
+Ostatní drobné chyby se v tomto typu vyhodnocení vůbec neprojeví na tom celkovém žebříčku těch systémů.
+A mně to přijde jako-
+Neříkám, že je to apriori špatně, ale je to nějaký nějaký zkreslení bias.
+Výhoda může být, že ta anotace mnohem rychlejší na počet vět.
+Naopak, tady problém, když se pouze dělal telative tanking jako.
+A to mám někde dřív je, že se za jsme se, že pokud jeden systém se jenom malinko byl lepší než jiný systém, tak se to tady projevilo.
+Prostě byl hodnocený v tom žebříčku výš a neprojevilo se, že to bylo jen drobné zlepšení, které vlastně vůbec možná tu kvalitu nijak neovlivnilo.
+Takže to taky vedlo k nějakému zkreslení, takže ani neříkám, přestože jsem typicky prosazoval spíš používání tady toho relative ranking oproti direct assesment.
 Tak neříkám taky to má své problémy.
 Toto metoda mi přijde v podstatě jako optimální z těch, o kterých vím.
 Tak další dotazy.
-Tak potom ano.
-Ještě Zopakuju dotaz.
-Otázka je, když je tady ten Šoupátko Slider, jestli spíš, lidi to dávají.
-Jsou tedy vyznačen.
-Vlastně polovina čtvrtina a dvě tři čtvrtiny.
-Jestli to používají nebo ne, používají celou škálu.
-Ale když se potom udělá Histogram, tak na tady těch čtvrtinách a polovině.
-Myslím, je tam jako prostě část lidí preferuje používat tady ty po těch čtvrtinách.
-Ano, nejspíš kdybych to rozdělil po šestinách, tak by lidi jako zase tam v tom Histogramu.
-Tam byly Vrcholky na těch šestinách.
+Tak potom. 
+Ano.
+Ještě zopakuju dotaz.
+Otázka je, když je tady ten šoupátko slider, jestli spíš, lidi to dávají, jsou tedy vyznačen vlastně polovina čtvrtina a dvě tři čtvrtiny, jestli to používají nebo ne. 
+Používají celou škálu.
+Ale když se potom udělá histogram, tak na tady těch čtvrtinách a polovině myslím, je tam jako prostě část lidí preferuje používat tady ty po těch čtvrtinách.
+Ano, nejspíš kdybych to rozdělil po šestinách, tak by lidi jako zase tam v tom histogramu tam byly vrcholky na těch šestinách.
 Je to tím ovlivněné.
-Můžeš to vyzkoušet?
-Ano, na mezi Anotátorskou shodu bych mohl udělat celou třeba dvouhodinovou přednášku.
+Můžeš to vyzkoušet.
+Ano, na mezianotátorskou shodu bych mohl udělat celou třeba dvouhodinovou přednášku.
 A v podstatě můj závěr je, že nevidím moc.
-Myslím, že všichni, kdo to kdy měřili, takto dělali špatně.
+Myslím, že všichni, kdo to kdy měřili, tak to dělali špatně.
 Nebo ještě hůř.
-Asi ze tří čtyř důvodu.
-A nevidím moc tady v tom případě.
-Jako v tom extra smysl.
+Asi ze tří, čtyř důvodu.
+A nevidím moc tady v tom případě jako v tom extra smysl.
 Až na nějaký speciální případy.
 Ještě bych k tomu celému řekl.
-Jako Tohleto mi přijde jako velmi drobný.
-Kosmeticky problém.
-Můžeme se Domlouvat, jestli tam napsat čísla nebo něco, ale mnohem zásadnější Problé.
-My přijde v tom, že jsme tam ukázali jenom jednu větu a neporovnáváme ji s ničím.
+Jako tohleto mi přijde jako velmi drobný kosmeticky problém.
+Můžeme se domlouvat, jestli tam napsat čísla nebo něco, ale mnohem zásadnější Problém mi přijde v tom, že jsme tam ukázali jenom jednu větu a neporovnáváme ji s ničím.
 Takže se opravdu zaměřujeme úplně jiný druh.
 Nebo v tom vyhodnocení nakonec rozhodnou jenom ty závažný chyby a obzvlášť chyby v plynulosti.
-Protože většina lidí prostě ani nečte tady tu Zdrojovou větu.
+Protože většina lidí prostě ani nečte tady tu zdrojovou větu.
 Prostě.
-Přečte si ten překlad a někam to Střelí.
+Přečte si ten překlad a někam to střelí.
 Prostě proto, že takový mám zkušenosti.
-A i to tak částečně vyplývá, z těch dat je mnohem snazší.
-Samozřejmě si jenom přečíst ten překlad v tom jazyce v mém rodném jazyce a určit jenom tu plynulost.
+A i to tak částečně vyplývá, z těch dat. 
+Je mnohem snazší samozřejmě si jenom přečíst ten překlad v tom jazyce v mém rodném jazyce a určit jenom tu plynulost.
 To mám hotový v podstatě během pár vteřin.
-Pak se můžou rozhodovat, kam přesně to dám, ale ty chyby tam většinou všimnu Hnedka.
+Pak se můžou rozhodovat, kam přesně to dám, ale ty chyby tam většinou všimnu hnedka.
 Obzvlášť když mám jenom jednu větu, ne celý dokument chyby v adekvátnosti.
-Na to musím jako hodně dlouho Přemejšlet a pečlivě a a prostě.
+Na to musím jako hodně dlouho přemejšlet a pečlivě a a prostě-
 Třeba si dohledávat na internetu a ve slovníku a tak podobně.
 S tím se tady nikdo nedělá tady.
 Obzvlášť pokud to po nich jako explicitně nechceme.
 To mi přijde jako mnohem závažnější problém.
-Ano, tak jednak, samozřejmě čekám, kdy mi někdo z vás jako ukáže tady proti příklad Teďka online. Že sice rozpoznávání řeči výjimečně zafungovalo.
-Dobře, ale tady se teda mimochodem používat ten můj překladač, předpokládám do angličtiny.
+Ano, tak jednak, samozřejmě čekám, kdy mi někdo z vás jako ukáže tady proti příklad teďka online. 
+Že sice rozpoznávání řeči výjimečně zafungovalo dobře, ale tady se teda mimochodem používal ten můj překladač, předpokládám do angličtiny.
 Takže si tam něco úplně vymyslel.
 Samozřejmě, může se to stát jinak.
 Dobrý dotaz.
-Vlastně, taky jsem si kladl, jak je možný, že já obecně.
-Vlastně, ty Trénovací data, která mám, jsou.
+Vlastně, taky jsem si kladl, jak je možný, že já obecně vlastně, ty trénovací data, která mám, jsou-
 Je tam hodně šumu.
 Jenom malá část je od profesionálních překladatelů.
 I když opomenut ten úplné jako nějaký chyby a tak, tak občas jako část.
 Je tam třeba filmové titulky, co?
-Prostě Fandové do filmu si Překládali pořádně, aby se naučili ten jazyk nebo tak podobně.
+Prostě fandové do filmu si překládali pořádně, aby se naučili ten jazyk nebo tak podobně.
 I když, časem se to třeba zlepšuje.
-A jak to můžou Editovat?
-Ale obecně jako samozřejmě, nemáme tam jako profesionální překladatele v Trénovacích datech.
-V Trénovacích datech máme i oba dva směry z angličtiny do Češtiny nebo z Češtiny do angličtiny.
-I když spíš.
-Je tam asi z angličtiny do Češtiny.
-Jak je možný, že se jako z toho podařilo udělat překladač, který alespoň v některých těch vyhodnoceních vyšel?
-Srovnatelný s tím s tou kvalitou Lidskýho?
-No, úplně přesně nevím, ale může být jako obecně konsenzus, když jako máme těch Trénovacích dat tolik, tak, když by se sešlo prostě deset překladatelů, tak asi Daj lepší výsledek, když se na něj museli shodnout, než když by to dělal každý zvlášť.
-Další věc je, že tam používal jsem back Translation, takže mám jazykový model.
-Nemám tam, nemám tam Ansámbl, ale konsenzus už je jenom v tom, že jsem viděl jako miliony Trénovací příkladů, co?
-Určitě žádný Překladatel za život jako Nepřečet tolik.
-Takže jako z Tohohle hlediska.
-Mám tam trochu něco jako Ansámbl.
-Mám tam Czechpoint Averaging.
-Další věc je, že používám back Translation, tedy Monolinguální texty jenom České nebo jenom anglické.
-A zase je to takový množství textu, který asi Žádnej Živej člověk Nepřečet nebo nemá šanci.
+A jak to můžou editovat.
+Ale obecně jako samozřejmě, nemáme tam jako profesionální překladatele v trénovacích datech.
+V trénovacích datech máme i oba dva směry z angličtiny do češtiny nebo z češtiny do angličtiny.
+I když spíš je tam asi z angličtiny do češtiny.
+Jak je možný, že se jako z toho podařilo udělat překladač, který alespoň v některých těch vyhodnoceních vyšel srovnatelný s tím s tou kvalitou lidskýho?
+No, úplně přesně nevím, ale může být jako obecně konsenzus, když jako máme těch trénovacích dat tolik, tak, když by se sešlo prostě deset překladatelů, tak asi daj lepší výsledek, když se na něj museli shodnout, než když by to dělal každý zvlášť.
+Další věc je, že tam používal jsem back translation, takže mám jazykový model.
+Nemám tam, nemám tam ansámbl, ale konsenzus už je jenom v tom, že jsem viděl jako miliony trénovací příkladů, co určitě žádný překladatel za život jako nepřečetl tolik.
+Takže jako z tohohle hlediska mám tam trochu něco jako ansámbl.
+Mám tam czechpoint averaging.
+Další věc je, že používám back translation, tedy monolinguální texty jenom české nebo jenom anglické.
+A zase je to takový množství textu, který asi žádnej živej člověk nepřečetl nebo nemá šanci.
 Takže jako ten překladač má znalosti z různých domén, politika, sport a podobně.
-Když určitě, když bych já Překládal, tak spoustu věcí, nejsem Schopnej sám přeložit líp, protože prostě Nevim, jak se překládá.
-Něco v boxu.
-Třeba.
+Když určitě, když bych já překládal, tak spoustu věcí, nejsem schopnej sám přeložit líp, protože prostě nevim, jak se překládá něco v boxu třeba.
 No tak, ještě něco.
-No, no, tou back Translation.
+No, no, tou back translation.
 Nechci tady jít do uplně technických detailů.
-Tady můžu pak ještě tím speciální způsobem.
-Jak jsem dělal tu back Translation, tak jsem jako se snažil.
-Vlastně vyhnout se tomu, když by se dělala back Translation tak jak jí původně popsal Ericho Hendrick.
+Tady můžu pak ještě tím speciální způsobem jak jsem dělal tu back translation, tak jsem jako se snažil vlastně vyhnout se tomu, když by se dělala back translation tak jak jí původně popsal Ericho Hendrick.
 Tak by to vedlo k systémům, které jsou velmi dobré v té plynulosti.
 Ale ne tolik v adekvátnosti.
-Já jsem udělal změnu, díky které si myslím.
-A i to mám někde trochu potvrzené.
-Z těch Evaluací jsem dosáhl za.
-Podařilo se mi víceméně zachovat tu Adekvátnost na té úrovni, jaká byla ještě před tím a nebo vylepšit.
-A tak ještě.
-Vlastně jedno jsem chtěl říct, co může vést k tomu, že si ten systém strojového překladu vymýšlí?
-Jako, přidává si Tan věci je, že tam typicky při Dekodingu Konstanta alfa na to, jak má být dlouhá věta, kterou, která jí ovlivňuje.
-A ta se nějak.
-Snažíme si ji nastavit nějak optimálně.
+Já jsem udělal změnu, díky které si myslím, a i to mám někde trochu potvrzené z těch evaluací jsem dosáhl za-
+Podařilo se mi víceméně zachovat tu adekvátnost na té úrovni, jaká byla ještě před tím a nebo vylepšit.
+A tak ještě vlastně jedno jsem chtěl říct, co může vést k tomu, že si ten systém strojového překladu vymýšlí?
+Jako, přidává si tam věci je, že tam typicky při decodingu konstanta alfa na to, jak má být dlouhá věta, kterou, která jí ovlivňuje.
+A ta se nějak snažíme si ji nastavit nějak optimálně.
 A když se nastaví moc velká, tak jsme schopni dobře překládat dlouhé věty.
-Ale občas se stane, že nějakou větu to prostě si tam vymyslí nějaký slova navíc.
-Jenom jakoby.
-Abych kdybych to řekl tak jako velmi zjednodušeně, aby to uspokojilo tady tu Konstantu alfa a tak dál.
-Já jsem tam měl.
-Potom ještě Nějakej post Procesing.
-Velmi jednoduché, Regulérním výrazem jsem Vymazával opakovaný Ngramy a mohl jsem si díky tomu dovolit vyšší Konstantu alfa.
-No, ale to je taková.
-To se občas Překladačům stává.
-Typicky je to v situaci, kdy na vstupu je něco narazili na něco, s čím se do Tý doby nesetkali.
-Třeba jeden Divnej znak nebo nějaká jako normálně se jim to nestala.
-Občas, když se tohle stane, že tak se prostě Zacyklí a pořád Opakujou jedno slovo nebo nějaký dvě slova pořád dokola.
+Ale občas se stane, že nějakou větu to prostě si tam vymyslí nějaký slova navíc jenom jakoby-
+Abych kdybych to řekl tak jako velmi zjednodušeně, aby to uspokojilo tady tu konstantu alfa a tak dál.
+Já jsem tam měl potom ještě nějakej post processing.
+Velmi jednoduché, regulérním výrazem jsem vymazával opakovaný N gramy a mohl jsem si díky tomu dovolit vyšší konstantu alfa.
+No, ale to je taková-
+To se občas překladačům stává.
+Typicky je to v situaci, kdy na vstupu je něco narazili na něco, s čím se do tý doby nesetkali.
+Třeba jeden divnej znak nebo nějaká jako normálně se jim to nestala.
+Občas, když se tohle stane, že tak se prostě zacyklí a pořád opakujou jedno slovo nebo nějaký dvě slova pořád dokola.
 No tak, nenapadlo mě pro začátek nic jednoduššího, než je prostě ty opakovaný slova vymazat.
-Jeden Vtipnej příklad.
-Bylo tam.
+Jeden vtipnej příklad.
+Bylo tam:
 Zahraje vám kapela the TAP, TAP, TAP, TAP, TAP.
 Ano, tady v tom případě jsem to odstranil.
 A bylo to.
 Zahraje vám kapela the TAP.
 Což je teda špatně v tomto případě, ale možná lepší než to, co tam bylo původně.
 Tak ještě asi poslední dotaz, abych tady nedržel všechny dlouho.
-Pak se samozřejmě s Váma rád.
-Ještě to nic.
-Takže děkuji ještě jednou za pozornost a dobrý den.
+Pak se samozřejmě s Váma rád ještě, to nic.
+Takže děkuji ještě jednou za pozornost. 
+Dobrý den.
 Tak já na začátek bych ještě vysvětlil, proč tady mám tento mikrofon.
 Chci ukázat průběžný, vlastně výsledek jednoho z našich projektů.
 Ale není to výsledek.
 Je to právě DEMO.
-Já pracuji.
+Já pracuji-
 Zabývám se strojovým překladem.
-A spolu s kolegy jsme vyvinuli tento systém.
-Vlastně automatického tlumočení do mnoha dalších jazyků.
-Chceme to potom testovat na různých konferencích, kde samozřejmě není jednoduché nebo levné.
-Sehnat tlumočníky do všech jazyků.
+A spolu s kolegy jsme vyvinuli tento systém, vlastně automatického tlumočení do mnoha dalších jazyků.
+Chceme to potom testovat na různých konferencích, kde samozřejmě není jednoduché nebo levné sehnat tlumočníky do všech jazyků.
 A tady to zatím jenom testujeme.
-Předem upozorňuji, že se tam mohou.
-Ještě to není plně Odladěné.
-A můžu se tam vyskytnout nějaké chyby.
+Předem upozorňuji, že se tam mohou, ještě to není plně doladěné, a můžu se tam vyskytnout nějaké chyby.
 Občas to bývá vtipné.
 Tak asi teda ještě vysvětlím.
 V automaticky se rozpoznává to, co říkám tak, že někde dole je vidět výsledek automatického rozpoznání jazyka v češtině.
 V tomto případě.
 A potom se to tam překládá do všech těch dalších jazyků.
 Tento překladač i to rozpoznávání běží někde na našich serverech.
-Proto jsme tady museli natáhnout ten Kabel, abychom měli jisté připojení na internet.
+Proto jsme tady museli natáhnout ten kabel, abychom měli jisté připojení na internet.
 A jsou to systémy ten systém překladu do angličtiny.
-Ten jsem.
-To je přímo ten, o kterém budu později vyprávět v těch Slidech.
+Ten jsem-
+To je přímo ten, o kterém budu později vyprávět v těch slidech.
 Ten jsem vyvinul sám do těch ostatních jazyků.
 Je to podobným způsobem, od některých od někoho z mých kolegů.
 Tak a nyní už začnu s prezentací.
-Pracuji na ústavu.
-Formální a aplikované lingvistiky nebo také počítačové lingvistiky.
+Pracuji na ústavu Formální a aplikované lingvistiky nebo také počítačové lingvistiky.
 Takže možná si kladete otázku, čím se počítačová lingvistika zabývá?
-Tak krom tady té ukázky strojového překladu, bych začal možná takovou klasickou úlohou.
-A to je kontrola Gramatiky.
+Tak krom tady té ukázky strojového překladu, bych začal možná takovou klasickou úlohou a to je kontrola gramatiky.
 Jistě jste se s tím všichni setkali.
-V Textovém Editoru máte možnost zapnout si kontrolu Gramatiky a červeně vám to podtrhnu slova, která nejsou ve slovníku daného jazyka třeba Češtiny.
-Tomu by se správně mělo říkat kontrola Překlepů, protože vlastně tam v té původní verzi o žádnou Gramatiku nejde.
+V textovém editoru máte možnost zapnout si kontrolu gramatiky a červeně vám to podtrhnu slova, která nejsou ve slovníku daného jazyka třeba češtiny.
+Tomu by se správně mělo říkat kontrola překlepů, protože vlastně tam v té původní verzi o žádnou gramatiku nejde.
 Tam jde pouze o to, jestli takové slovo v češtině existuje nebo ne.
 Takže například kdybych řekl chlapci s tvrdým y, nebo třeba lišit s tvrdým y, tak by to mělo podtrhnout červeně.
-Ale tady, v těch případech, všechna ta slova jsou správná Česká slova.
-Ale asi bychom tam chtěli právě Porozpoznat.
-Gramaticky chlapci šli shoda Podmětu s Přísudkem.
-Mělo by tam být. Šli s měkkým I. předpokládám, že byste všichni řekli: někdo tady říká ne.
+Ale tady, v těch případech, všechna ta slova jsou správná česká slova.
+Ale asi bychom tam chtěli právě porozpoznat gramaticky chlapci šli shoda podmětu s přísudkem.
+Mělo by tam být: Šli s měkkým I. 
+Předpokládám, že byste všichni řekli: někdo tady říká ne.
 Ano, rád.
 Stejně jako kolega přede mnou budu rád, když se rovnou budete hlásit.
-A když něco nebude jasné nebo tak, tak, že někdo si myslí, že by to.
+A když něco nebude jasné nebo tak, tak, že někdo si myslí, že by to-
 Ano, nechám tady, ano?
-Takže tady je někdo, kdo už možná tuto větu viděl nebo podobnou.
-A říká, že by to mohlo být i správně ta věta, ta první.
-Takže já ještě zopakuji děvče.
-Ty programy nešli, chlapci šli.
+Takže tady je někdo, kdo už možná tuto větu viděl nebo podobnou a říká, že by to mohlo být i správně ta věta, ta první.
+Takže já ještě zopakuji, děvče ty programy, nešly, chlapci šli.
 Je to odpověď.
 Tedy na nějakou otázku.
 Programy šly tam je správně tvrdé, y nyní dotaz na všechny.
 Co ta druhá věta?
-Chlapec šly do školy.
-Nyní poprosím někoho jiného než tady Tomáše Holana může být správně, nebo je tam chyba je nějaký jiný Odvážlivec?
+Chlapci šli do školy.
+Nyní poprosím někoho jiného než tady Tomáše Holana může být správně, nebo je tam chyba je nějaký jiný odvážlivec?
 Musím pohnout.
 Ano, prosím.
 Právě jde o to, jestli v nějakém kontextu by to mohla být tato věta správně.
-Jinými slovy, jestli, když bych vyvíjel program na kontrolu Gramatiky, jestli by to měl podtrhnout červeně zeleně nějak jako chybu.
+Jinými slovy, jestli, když bych vyvíjel program na kontrolu gramatiky, jestli by to měl podtrhnout červeně zeleně nějak jako chybu.
 A co by tam měl případně navrhnout jako opravu?
 Ano, ano, ano.
 Takže kdybychom doplnili před to děvče a chlapec šly do školy, tak by to bylo správně.
-Možná teda, pak to velké Písmenu u toho.
+Možná teda, pak to velké písmenu u toho.
 Chlapec by se mělo podtrhnout, když to není začátek věty.
 Takže ano, to je dobré řešení.
 Ještě někdo?
-Já zatím.
-Tady tedy ano.
+Já zatím tady tedy- 
+Ano.
 Takže tady.
 Já to možná ukážu takhle rovnou.
 Mohla by to být také odpověď na otázku, kdo kam co donesl.
-A odpověď je chlapec donesl Kšandu do školy, neboli šli.
-Tak tím jsem chtěl vlastně ilustrovat, že ta otázka kontroly Gramatiky je mnohem těžší než kontroly Překlepu.
-Nejde prostě najít ve slovníku, jestli to slovo existuje v češtině nebo ne, musíme udělat nějaký slovní rozbor, Větný rozbor.
+A odpověď je chlapec donesl kšandu do školy, nebo-li šli.
+Tak tím jsem chtěl vlastně ilustrovat, že ta otázka kontroly gramatiky je mnohem těžší než kontroly překlepu.
+Nejde prostě najít ve slovníku, jestli to slovo existuje v češtině nebo ne, musíme udělat nějaký slovní rozbor, větný rozbor.
 A je tam víc možných interpretací.
-Co by to mohlo znamenat, pokud bychom ty věty, kdyby před nimi nebyly ty věty předchozí pouze Zatrhli červeně.
+Co by to mohlo znamenat, pokud bychom ty věty, kdyby před nimi nebyly ty věty předchozí pouze zatrhli červeně.
 Možná by to bylo špatně.
 Takže krom toho, že my víme, že existuje nějaké nějaká interpretace, kde by to ta věta mohla být správně, tak je zároveň důležité počítat s nějakou pravděpodobností.
 Jak moc je to pravděpodobné?
 A třeba zohlednit i ten kontext v těch předchozích vět, abychom určili, jestli to máme podtrhnout na našem ústavu formě aplikované lingvistiky.
-Jeden kolega vyvinul takovýto Korektor, který právě zohledňuje.
+Jeden kolega vyvinul takovýto korektor, který právě zohledňuje.
 I tu pravděpodobnost navrhuje, snaží se i správně navrhnout.
-Co? Co tam?
+Co- 
+Co tam-
 Jaké slovo by tam mělo být?
-Takže potkávám na každém Krou.
+Takže potkávám na každém krou.
 Asi bylo myšleno, potkávám je na každém kroku.
-A samozřejmě umí tady červeně Podtržené klasická oprava Překlepu.
+A samozřejmě umí tady červeně podtržené klasická oprava překlepu.
 Můžete si to vyzkoušet na té adrese.
-Funguje to, Myslim i jako Plugin do Prohlížeče.
-Takže pokud vám to bude vyhovovat, můžete to používat i v praxi, třeba při přípravě Slidu.
-Tak Teďka se přesunu k jiné aplikaci, ke které, kterou se také zabývají někteří mí kolegové.
+Funguje to, myslim i jako plugin do prohlížeče.
+Takže pokud vám to bude vyhovovat, můžete to používat i v praxi, třeba při přípravě slidu.
+Tak teďka se přesunu k jiné aplikaci, ke které, kterou se také zabývají někteří mí kolegové.
 A to je automatické generování zpráv.
-Jde o to, že v dnešním světě vlastně zvyšuje se potřeba zpráv, často i Personalizovaný, že každý čtenář by chtěl mít ty zprávy.
+Jde o to, že v dnešním světě vlastně zvyšuje se potřeba zpráv, často i personalizovaný, že každý čtenář by chtěl mít ty zprávy.
 Přesně tak.
 Já bych chtěl zprávy.
-Tak jak je máme na.
-Prostě, dejme tomu.
-Tady je příklad z nějakých zápasů sportovní.
-Tak já bych to třeba víc.
-Mě zajímají, jak kdo Skoroval nebo mě víc zajímá Sparta než Slávia a tak podobně.
+Tak jak je máme na-
+Prostě, dejme tomu, tady je příklad z nějakých zápasů sportovní.
+Tak já bych to třeba víc mě zajímají, jak kdo skóroval nebo mě víc zajímá Sparta než Slávia a tak podobně.
 Zároveň jako novinářů víceméně ubývá, zisky klesají, což souvisí s tím, že část těch zpráv se už v dnešní době generuje automaticky.
-Takže z nějakých strukturovaných dat z tabulky, kde jsou teda přímo výsledky toho zápasu sportovního utkání, které tam přibývají online.
-Tak existují systémy, které z toho Vygenerují článek v přirozeném jazyce, případně ve více jazycích.
-A ty.
-Potom se dávají čtenářům na tomto spolupracujeme s jednou firmou tak zase jiná ukázka aplikace.
+Takže z nějakých strukturovaných dat z tabulky, kde jsou teda přímo výsledky toho zápasu sportovního utkání, které tam přibývají online, tak existují systémy, které z toho vygenerují článek v přirozeném jazyce, případně ve více jazycích.
+A ty potom se dávají čtenářům na tomto spolupracujeme s jednou firmou tak zase jiná ukázka aplikace.
 Tak pro odlehčení je automatické generování poezie.
 Tím jsem se zabýval jako takovou hříčkou, abych si oddechl.
-To když jsem dokončil ten překladač z angličtiny do Češtiny.
+To když jsem dokončil ten překladač z angličtiny do češtiny.
 A máme tady před stánek.
 Tak si tam můžete zajít a vyzkoušet si to v té jedné verzi můžete vlastně dát na vstup nějaký text.
-A ten překladač se vám ho pokusí přeložit do Veršovaného jazyka.
-Tedy z Češtiny do angličtiny.
+A ten překladač se vám ho pokusí přeložit do veršovaného jazyka.
+Tedy z češtiny do angličtiny.
 Pak rád vám třeba řeknu detail.
-Ve skutečnosti jsem k tomu použil, že jsem Trénovací data přeložil do angličtiny a z angličtiny zpět.
-Abych se vlastně zbavil veršů Rýmu.
-A tím si vytvořil Trénovací data pro tento Veršovač nebo Veršotepec tak dostal.
+Ve skutečnosti jsem k tomu použil, že jsem trénovací data přeložil do angličtiny a z angličtiny zpět abych se vlastně zbavil veršů, rýmu.
+A tím si vytvořil trénovací data pro tento veršovač nebo veršotepec tak dostal.
 Nebo možná proč mě to napadlo, bylo takovým dílem náhody.
-Jednou jsem vyvíjel překladač, tenkrát ještě vlastně založený na hloubkovém rozboru Větném a dostal jsem za úkol přeložit větu i will.
-Come a BIT latter.
-On my Own a já jsem tam něco změnil v tom Překladači a dostal jsem naráz takovýto výsledek.
-Jsem Čelist ještě na své milé.
-Tak mě to velmi zaujalo. Říkal jsem si to.
-Vlastně by mohlo fungovat jako generování.
-Takhle nějakých básní?
-Dával jsem to svým kamarádům za úkol hádat, který známý český básník je autorem této tohoto Úryvku.
-Teďka teda, co jsem tam změnil, že to místo správných překladů Generovalo.
-V jisté fázi to překladu rozdělíme.
-Uděláme hloubkový rozbor a rozdělíme jednak význam Lexikální.
+Jednou jsem vyvíjel překladač, tenkrát ještě vlastně založený na hloubkovém rozboru větném a dostal jsem za úkol přeložit větu:
+I will come a bit latter on my own. 
+A já jsem tam něco změnil v tom překladači a dostal jsem naráz takovýto výsledek:
+Jsem čelist ještě na své milé.
+Tak mě to velmi zaujalo. 
+Říkal jsem si to vlastně by mohlo fungovat jako generování takhle nějakých básní?
+Dával jsem to svým kamarádům za úkol hádat, který známý český básník je autorem této tohoto úryvku.
+Teďka teda, co jsem tam změnil, že to místo správných překladů generovalo v jisté fázi to překladu rozdělíme, uděláme hloubkový rozbor a rozdělíme jednak význam lexikální.
 Tedy, jaký má to slovo?
-A potom takzvané Formemy, který které určují třeba pády a Přeložky.
+A potom takzvané formemy, který které určují třeba pády a přeložky.
 A tak dál.
 A pro každý, snažíme se tento kanál vlastně informace překládat zvlášť.
 A máme tam několik kandidátů.
-Já jsem tam měl sedm nejpravděpodobnějších kandidátů a ty jsem ještě potom nějak Přeuspořádával podle jeho okolního kontextu.
+Já jsem tam měl sedm nejpravděpodobnějších kandidátů a ty jsem ještě potom nějak přeuspořádával podle jeho okolního kontextu.
 No a udělal jsem základní chybu.
-Programátorskou místo od toho nejpravděpodobnějšího po nejméně pravděpodobný jsem je srovnal obráceně, takže místo toho nejpravděpodobnějšího Lexikálního významu jsem tam dal ten nejméně pravděpodobný.
-Z těch sedmi, které ale pořád byli přípustné.
-Takže například Čelist.
-Asi tam vznikla jako překlad toho byt.
+Programátorskou místo od toho nejpravděpodobnějšího po nejméně pravděpodobný jsem je srovnal obráceně, takže místo toho nejpravděpodobnějšího lexikálního významu jsem tam dal ten nejméně pravděpodobný z těch sedmi, které ale pořád byli přípustné.
+Takže například čelist.
+Asi tam vznikla jako překlad toho bit.
 Tak zase jiná úloha jedna.
-Naše kolegyně Absolventka pracuje ve firmě, kterou si najímají jiné firmy pro analýzu vnitřní korespondence.
-Kde se například snaží zjistit, jestli nedošlo někde ke korupci.
-Jestli tam nebyly někdo nešel někomu na ruku.
-Nějaké úplatky pro tady tuto samozřejmě.
-Nelegální činnost se používá často Kodovací řeč.
-Takže nějak Kapříci a podobně.
-A existují metody počítačové lingvistiky, které dokážou identifikovat, detekovat takovéto takovéto texty.
-Najít tam nějaké indicie?
-Samozřejmě.
-Potom ještě musí přijít někdo, kdo teda zhodnotí, jestli k tomu opravdu došlo nebo ne.
+Naše kolegyně absolventka pracuje ve firmě, kterou si najímají jiné firmy pro analýzu vnitřní korespondence, kde se například snaží zjistit, jestli nedošlo někde ke korupci.
+Jestli tam nebyly někdo nešel někomu na ruku nějaké úplatky. 
+Pro tady tuto samozřejmě nelegální činnost se používá často kodovací řeč.
+Takže nějak kapříci a podobně.
+A existují metody počítačové lingvistiky, které dokážou identifikovat, detekovat takovéto takovéto texty najít tam nějaké indicie.
+Samozřejmě potom ještě musí přijít někdo, kdo teda zhodnotí, jestli k tomu opravdu došlo nebo ne.
 Používá se to vlastně i podobné metody pro takzvaný sentiment Analysis, kde se snažíme třeba u Recenze zjistit, jestli je pozitivní nebo negativní nebo co se komu na daném výrobku líbí a nelíbí.
 Tak a přejdu zase k jiné aplikaci.
 Zase jedna z těch klasických pro náš obor.
