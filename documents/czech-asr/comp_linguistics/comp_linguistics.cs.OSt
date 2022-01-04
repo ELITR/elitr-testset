@@ -871,53 +871,62 @@ Ty překladače jsou anonymizované, takže vidím pouze ty překlady a nějak t
 V této soutěži, když začala někdy okolo roku dva tisíce šest, tak ve směru z angličtiny do češtiny dlouho vyhrával překladač PC Translator.
 Nevím, jestli ho někteří znáte ještě, ale tenkrát to bylo opravdu, co se používalo, když někdo chtěl překládat na počítači do češtiny.
 Takže v těch prvních třech letech zvítězil. 
-Tady v tom grafu vlastně jsem naškáloval nějaké tu úspěšnost toho překladače.
-Vždycky, že ten nejlepší systém dostal jedničku.
-A ten nejhorší systém v té soutěži dosta-
+Tady v tom grafu vlastně jsem naškáloval nějaké tu úspěšnost toho překladače vždycky, že ten nejlepší systém dostal jedničku.
+A ten nejhorší systém v té soutěži dostal nulu.
 Pro zjednodušení tady vykresluje jenom některé překladače.
 Ten překladač, na který jsem pracoval, na kterém jsem pracoval já, se jmenuje Tecto MT.
-A původně jsme teda byly právě ti poslední, ale pak se nám podařilo ho vylepšit a takto ovšem tady je vidět, že jakoby kvalita obou dvou těch překladačů klesá.
+A původně jsme teda byli právě ti poslední, ale pak se nám podařilo ho vylepšit a takto. 
+Ovšem tady je vidět, že jakoby kvalita obou dvou těch překladačů klesá.
 To je jenom zdánlivé.
 Například ten PC Translator je pořád přesně stejná verze.
-Ale co to znamená.
+Ale co to znamená?
 Objevily se jiné překladače, které byly kvalitnější, a v tomto relativním zobrazení teda se kvalita toho PC Translatoru dostala až nakonec toho žebříčku.
 My jsme ten překladač Tecto MT vylepšovali, ale i tak, některé jiné překladače se podařilo zlepšit rychleji.
 Jaké to byly?
 Byl to například překladač Mouses, který asi nejznámějším představitelem překladačů, které jsou založeny na statistickém strojovém překladu.
-Velmi zjednodušeně řečeno, věta se rozdělí na jednotlivá slova a fráze, dejme tomu až čtyři pět slov a každá fráze se přeloží zvlášť.
+Velmi zjednodušeně řečeno, věta se rozdělí na jednotlivá slova a fráze, dejme tomu až čtyři, pět slov a každá fráze se přeloží zvlášť.
 Je tam několik možností.
 Mnoho.
-Ty mají nějaká skóre a pak se dělá prohledávání obrovského stavového prostoru.
-Co to má za následek, že často potom ten překlad když se kouknu na trojice slov, čtveřice takto vypadá velmi pravděpodobně.
+Ty mají nějaká skóre. 
+A pak se dělá prohledávání obrovského stavového prostoru.
+Co to má za následek? 
+Že často potom ten překlad když se kouknu na trojice slov, čtveřice tak to vypadá velmi pravděpodobně.
 Ano, takovéto čtveřice slov v češtině máme.
 Ale když se pak třeba kouknu na začátek a konec věty, tak to vůbec nedává smysl.
-Nedaří se tam, nebo je tam velký problém v těchto statistických překladačích zachovat nějaké závislosti na velkou vzdálenost delší vzdálenost, než je vzdálenosti, velikost těch frází, co jsme zkusili.
+Nedaří se tam, nebo je tam velký problém v těchto statistických překladačích zachovat nějaké závislosti na velkou, delší vzdálenost, než je vzdálenosti, velikost těch frází.
+Co jsme zkusili?
 Jo, k tomu se dostanu později.
 Teďka.
 Vlastně by vás mohl zajímat, jak je na tom překladač online firem nebo firem, které mají online překladače.
-Nakonec myslím, že to vždycky ten nejlepší byl Google a tak, že jednu dobu vyhrával.
-Ale opět zase je vidět, že potom se objevily nějaké lepší překladače, co my jsme zkusili, my jsme vyrobili překladač, který jsme nazvali Chiméra, který kombinuje v podstatě ten překladač Mouses a překladač Tecto MT tak, že jsme zkombinoval výhody statistického překladu a toho překladu Tecto MT, který je založen na lingvistickém rozboru věty.
+Nakonec myslím, že to vždycky ten nejlepší byl Google. 
+A takže jednu dobu vyhrával.
+Ale opět zase je vidět, že potom se objevily nějaké lepší překladače.
+Co my jsme zkusili? 
+My jsme vyrobili překladač, který jsme nazvali Chiméra, který kombinuje v podstatě ten překladač Mouses a překladač Tecto MT. 
+Takže jsme zkombinoval výhody statistického překladu a toho překladu Tecto MT, který je založen na lingvistickém rozboru věty.
 Takže přestože ten překladač Tecto MT, byl tady někde ve střední části až až horší, tak v při kombinaci jsme několik let se nám dařilo vítězit v té soutěži.
-No a co se stalo teda?
-Posledních pár let by vás mohlo zajímat.
+No a co se stalo teda posledních pár let by vás mohlo zajímat.
 Přišel naprosto jiné paradigma překladu-
 Neuronový strojový překlad, Neural MT. 
 A poslední roky v podstatě všechny překladače v té soutěži včetně Googlu už jsou založené na tomto neuronovému překladu.
-Ale poslední dva roky se se teda já přepnul na toto nové paradigma.
+Ale poslední dva roky se se teda i já přepnul na toto nové paradigma.
 A ten překladač, který jsem tam zaslal poslední dva roky, tak byl ten, který zvítězil v té soutěži, byl signifikantně lepší než všechny ostatní překladače.
 Tak teďka teda jenom krátce ukážu, jak fungoval ten překladač Tecto MT, kde jsme používali lingvistický rozbor.
-Skládal se asi ze sta kroků, kde jsme postupně analyzovali tu anglickou větu a snažili jsme se dobrat nějaké nejdřív-
+Skládal se asi ze sta kroků, kde jsme postupně analyzovali tu anglickou větu a snažili jsme se dobrat nějaké- 
+Nejdřív-
 Tady je větný rozbor, podobný, dejme tomu, co se dělá u nás na základních a středních školách.
-Ale my jsme chtěli ještě nějaký abstraktní, jejichž rozbor dobrat se významu té věty.
+Ale my jsme chtěli ještě nějaký abstraktnější rozbor dobrat se významu té věty.
 Mít nějakou reprezentaci formální, která reprezentuje význam věty.
 Takže tu jsme potom přeložili do podobné reprezentace, ale pro češtinu.
-A potom následoval vlastně kroky, kde jsme se tuto abstraktní reprezentaci snažili dostat zase do povrchové roviny.
-Tak jak přímo tu větu v češtině říkáme, ví, jakou to mělo výhodu.
+A potom následovaly vlastně kroky, kde jsme se tuto abstraktní reprezentaci snažili dostat zase do povrchové roviny.
+Tak jak přímo tu větu v češtině říkáme. 
+Ví, jakou to mělo výhodu.
 Tady na té abstraktní rovině jsme měli víc možností, jak modelovat některé jevy.
 Nevýhoda byla, že celkově ta cesta byla delší a byl to velmi komplikovaný systém.
 Takže tady zrovna ilustruju na této větě otázku, zda máme nail přeložit jako hřebík nebo jako nehet.
 Ono je to teda zrovna ukázka z písničky a tam člověk nikdy neví.
-Ale co je zajímavé, my jsme si natrénovali maximum entropy model, který má různé rysy features.
+Ale co je zajímavé. 
+My jsme si natrénovali maximum entropy model, který má různé rysy, features.
 A bylo zajímavé sledovat, vlastně, které rysy vedou k tomu překladu hřebík a které vedou k tomu překladu nehet.
 Něco z toho bych si asi tipnul.
 Třeba právě pokud předchozí slovo bylo kladivo, tak bude pravděpodobnější překlad hřebík.
@@ -926,18 +935,18 @@ Například, že záleží na tom, jestli v tom stromě, který reprezentuje ten
 Což souvisí.
 Dejme tomu s tím, jestli je to podnět nebo předmět, nebo že závisí na tom, jestli to sloveso je v aktivním nebo trpném rodě.
 Tak a teďka zase pro změnu.
-A dejme tomu odlehčení-
+A dejme tomu odlehčení.
 Kvízová otázka.
 Tipne si někdo, co je na této fotce?
-Někdo, kdo jí ještě neviděl?
-Můžete hádat nějaký server?
+Někdo, kdo jí ještě neviděl.
+Můžete hádat. 
+Nějaký server?
 Ano, ano.
 Takže toto je server, respektive několik serverů ve skříni, které používáme právě pro ten neuronový překlad.
 Tady konkrétně jsou to vlastně grafické karty.
-Tento typ ani nebudu říkat, kolik peněz to stojí, když jich tam máme čtyřicet.
+Tento typ ani nebudu říkat kolik peněz to stojí, když jich tam máme čtyřicet.
 A je to vlastně jeden z důvodů, proč ten neuronový překlad se prosadil až v těch posledních letech.
-Ono takové podobné myšlenky měli lidé už dřív, ale velmi základní předpoklad je velký výpočetní výkon.
-Jednak na natrénování těch modelu.
+Ono takové podobné myšlenky měli lidé už dřív, ale velmi základní předpoklad je velký výpočetní výkon, který je nutný jednak na natrénování těch modelu.
 To obzvlášť.
 A také potom, když chceme ty modely použít tady.
 Proč ukazuju tenhle ten obrázek?
@@ -948,25 +957,27 @@ Zjistili jsme, že jedna z těch karet je vadná.
 Tak jsme se zeptali výrobce Nvidie.
 Jak zjistíme, která ta karta to je, když máme nějaké její číslo, jak zjistíme, kterou tu kartu máme vytáhnout?
 Oni řekli: No, to nezjistíte.
-To prostě zkuste postupně vytahovat.
-A až to bude ta, ona, tak to zjistíte.
-No ovšem, kolegové moji na tom počítali tady na těch všech kartách tak, že jsme nechtěli přerušit jejich výpočty.
+To prostě zkuste postupně vytahovat a až to bude ta, ona, tak to zjistíte.
+No ovšem, kolegové moji na tom počítali tady na těch všech kartách takže jsme nechtěli přerušit jejich výpočty.
 Naštěstí náš admin měl dobrý nápad.
 Vzal termo kameru, zjistil, které ty karty opravdu počítají a ta jedna vadná je tam prostě temně.
-Ta nepočítala tak, že jsme si poradili i bez Nvidie bez jejího oficiálního postupu.
-Tak a tady v názvu přednášky jsem měl i umělou inteligenci, takže jenom velmi stručně.
+Ta nepočítala. 
+Takže jsme si poradili i bez Nvidie bez jejího oficiálního postupu.
+Tak a tady v názvu přednášky jsem měl i umělou inteligenci. 
+Takže jenom velmi stručně.
 Tento termín se začal používat, dejme tomu někdy v padesátých letech.
 A pak se vydělila taková pod oblast, které se říkalo strojové učení machine learning, dejme tomu v osmdesátých letech. 
-A okolo roku dva tisíce deset se zase vidělil a z něho pod oblast hluboké učení deep learning.
-Dneska se to někdy bere už jako zcela oddělené obory nebo tak, ale vzešlo z pořád to spolu úzce souvisí.
-A zase kdybych měl říct v umělé inteligenci často šlo jenom o to, že někdo napsal vlastně algoritmus, přesně pravidla-
-If than else, jak se má postupovat ve strojovém učení.
-Stále je potřeba ten člověk.
+A okolo roku dva tisíce deset se zase vydělila z něho pod oblast hluboké učení deep learning.
+Dneska se to někdy bere už jako zcela oddělené obory nebo tak, ale vzešlo to takhle.
+Pořád to spolu úzce souvisí.
+A zase kdybych měl říct, v umělé inteligenci často šlo jenom o to, že někdo napsal vlastně algoritmus, přesně pravidla-
+If than else, jak se má postupovat. 
+Ve strojovém učení stále je potřeba ten člověk.
 Ale ten jenom navrhne nějaké rysy.
-Dejme tomu, pokud chci rozpoznávat, jestli na obrázku je auto nebo není tak navrhnu.
-Mohl bych vzít třeba kolik je tam koleček a rovných čar a tak případně něco trochu složitější, složitějšího a z těchto rysů.
-Potom na nich se natrénuje neuronová síť, která ze začátku mívala jenom několik málo skrytých vrstev.
-V čem se liší, hluboké učení je, že vlastně i tuto úlohu už zastal, zastane ten model výpočetní.
+Dejme tomu, pokud chci rozpoznávat, jestli na obrázku je auto nebo není, tak navrhnu, mohl bych vzít třeba kolik je tam koleček a rovných čar a tak případně něco trochu složitější, složitějšího. 
+A z těchto rysů potom na nich se natrénuje neuronová síť, která ze začátku mívala jenom několik málo skrytých vrstev.
+V čem se liší, hluboké učení? 
+Je, že vlastně i tuto úlohu už zastal, zastane ten model výpočetní.
 Takže on na vstupu dostane přímo prostě jednotlivé pixely, červená, zelená a tak dál.
 A těch hlubokých v těch skrytých vrstev neuronové sítě je tam víc.
 Takže si dokáže sám vlastně zjistit, jaké rysy jsou podstatné pro tu danou úlohu.
@@ -983,13 +994,13 @@ Takzvaný encoder kóduje nějak tu vstupní větu.
 Nejdřív jí převede.
 Tady jsou právě ty slovní embeddingy.
 A potom je tady N vrstev, které mají nějaké podvrstvy.
-Myslím, že používám šest vrstev a stále se vlastně také vytváří abstraktnější reprezentace.
+Myslím, že používám šest vrstev. 
+A stále se vlastně také vytváří abstraktnější reprezentace.
 Ovšem na rozdíl od toho příkladu Tecto MT, který tam byl, tady jsou pořád vlastně založené na těch vektorech.
 A je velmi těžké to nějak interpretovat, co se tam ve skutečnosti děje.
 No a druhá část se jmenuje dekoder.
-Kde zase z této reprezentace-
-Abstraktní se postupně v šesti vrstvách dostáváme až na poslední vrstvu, kde vybereme nakonec slovo ze slovníku.
-Na té myslím, že tady mám některou z těch vrstev prostředních je vidět, jak funguje vlastně základní trik tohoto modelu transformer.
+Kde zase z této reprezentace abstraktní se postupně v šesti vrstvách dostáváme až na poslední vrstvu, kde vybereme nakonec slovo ze slovníku.
+Na té myslím, že tady mám některou z těch vrstev prostředních, je vidět jak funguje vlastně základní trik tohoto modelu transformer.
 A to je self attention, kde se učím do té další vrstvy-
 Vyberu ty vektory jako vážený součet těch vektorů z té předchozí vrstvy.
 A tady jsou právě ty váhy.
@@ -997,14 +1008,16 @@ A je zajímavé-
 Je tam vlastně vždycky několik takzvaných hlav, které dělají tento self attention.
 A některé ty hlavy vlastně lze interpretovat i lingvisticky.
 Například tady vidíme něco podobného, jako jsme viděli v těch větných rozborech.
-Tady například zase vidíme ve větě: The law will never be Perfect but its application a tak dále.
+Tady například zase vidíme ve větě: The law will never be perfect but its application a tak dále.
 Tak its se odkazuje na to slovo law.
 Tomu v lingvistice říkáme koreference.
 A ta neuronová síť se toto naučila.
 Jedna z těch hlav se zřejmě zaměřuje na tu koreferenci a naučila se automaticky toto detekovat.
-Tak a k závěru ještě v roce dva tisíce osmnáct se udělala taková věc, že se mezi ty jednotlivé překladače přidal i lidský překlad vytvořený profesionálními překladateli.
+Tak. 
+A k závěru ještě. 
+V roce dva tisíce osmnáct se udělala taková věc, že se mezi ty jednotlivé překladače přidal i lidský překlad vytvořený profesionálními překladateli.
 A byl jsem sám velmi překvapen, že můj systém v této soutěži zvítězil.
-Byl signifikantně lepší než systém z univerzity z Edinburgu a ten Google Translate a další.
+Byl signifikantně lepší než systém z univerzity z Edinburgu a system Google Translate a další.
 Ale kupodivu byl vyhodnocen jako lepší, i než ten lidský překlad.
 Původně se mi tomu nechtělo moc věřit, tak jsem to studoval dále.
 Odpověď tady nestihnu říct celou.
@@ -1013,35 +1026,38 @@ Takže ne všechny chyby toho překladače tam byly zohledněny v tom vyhodnocen
 Já jsem potom dělal další studii, kde jsem dost nesnažil vyhodnotit na celý dokumentech.
 A i tam mi to vyšlo alespoň porovnatelné.
 Někdy i lepší než ta kvalita toho lidského překladu.
-No a úplně na závěr, přestože ta kvalita toho strojového překladu pro některé jazyky, pro které máme dost trénovacích dat, už je velmi vysoká-
+No a úplně na závěr. 
+Přestože ta kvalita toho strojového překladu pro některé jazyky, pro které máme dost trénovacích dat, už je velmi vysoká-
 Tak stále jsou zde jistá rizika.
-Například před pár lety jistý palestinec mladý se vyfotil u buldozeru a na Facebook postnul tuto fotku z a v arabském, s nápisem v arabštině.
-Dobré ráno, všiml si toho nějaký izraelský policista nechal a arabsky neuměl uměl hebrejsky, anglicky.
+Například před pár lety jistý palestinec mladý se vyfotil u buldozeru a na Facebook postnul tuto fotku z, v arabském, s nápisem v arabštině "Dobré ráno". 
+Všiml si toho nějaký izraelský policista nechal a arabsky neuměl uměl hebrejsky, anglicky.
 Nechal si to přeložit.
-Facebook má takovou tu překlad a zjistil překlad, že je: Zaútočme na ně.
+Facebook má takovou tu překlad a zjistil překlad, že je: "Zaútočme na ně."
 Takže palestince zatkli.
 Několik hodin ho vyslýchali.
 Naštěstí se to potom vysvětlilo, že došlo k chybě v překladu.
 Myslím, že tam byla nějaká mluvené varianta arabštiny nebo něco.
-Ale jistě si myslíte, že to mohlo být mnohem horší důsledky pouze kvůli chybě.
-Někde v tom strojovém překladu.
-A je otázka kdo by za to měl nést zodpovědnost, když lidé se dneska učí důvěřovat tomu překladu?
+Ale jistě si domyslíte, že to mohlo být mnohem horší důsledky pouze kvůli chybě někde v tom strojovém překladu.
+A je otázka kdo by za to měl nést zodpovědnost, když lidé se dneska učí důvěřovat tomu překladu.
 Takže jeden z důvodů, proč jsem vám tady ukazoval tuto DEMO je, abyste viděli, že zas tolik se na to spolehnout nemůžeme.
 Tak děkuji vám za pozornost.
 Tady jsou ještě nějaké další ukázky překladu.
 A je zde prostor na vaše dotazy.
-Ještě bych vysvětlil tamty Google a tak to víme.
-A tady to dva tisíce devět, to je ten překladač Tecto MT když jsem na něm začal pracovat.
-A tady je, když teda poslední verze toho překladače a Transformer.
-To je ten můj nový neuronový překlad překladač.
+Ještě bych vysvětlil tam ty Google a tak to víme.
+A tady to je dva tisíce devět, to je ten překladač Tecto MT když jsem na něm začal pracovat.
+A tady je, když teda poslední verze toho překladače. 
+A Transformer to je ten můj nový neuronový překlad překladač.
 Tak ano, dotaz.
 Ano.
-Do angličtiny se to překládá přesně tímto Transformerem do těch jiných jazyků.
-Je to taky ta architektura toho Transformeru, ale natrénovaná na jiných datech.
-Myslím, že snad do všech to děláme tak, že to nejdřív přeložíme do angličtiny a pak z angličtiny to překládáme do těch dalších jazyků.
-A ano, ano, to je další trend, že se snažíme vlastně udělat jeden model, který bude umět překládat do všech jazyků.
+Do angličtiny se to překládá přesně tímto Transformerem. 
+Do těch jiných jazyků je to taky ta architektura toho Transformeru, ale natrénovaná na jiných datech.
+Myslím, že snad do všech to děláme tak, že to nejdřív přeložíme do té angličtiny a pak z angličtiny to překládáme do těch dalších jazyků.
+Je to-
+Aha. 
+Ano, ano. 
+To je další trend, že se snažíme vlastně udělat jeden model, který bude umět překládat do všech jazyků.
 A ukazuje se, že někdy díky této technice dostaneme lepších výsledků, než bychom-
-Než kdybychom trénovali zvláštní model pro každý jazyk.
+Než kdybychom natrénovali zvláštní model pro každý jazyk.
 Tak další dotazy.
 Ano. 
 Ano. 
@@ -1052,27 +1068,31 @@ Takže v tomto typu vyhodnocení by samozřejmě nemohlo nastat ten výsledek, �
 Protože nic nemůže bejt podobnější.
 Možná, kdybychom si najali dva různé překladate ty samozřejmě každý udělal jiný překlad.
 Ovšem v tomto roce dva tisíce osmnáct jsme poprvé zkusili, že jsme tam vůbec neukázali ten referenční překlad.
-Ukázali jsme tam jenom tu původní anglickou větu, takže jsme si museli samozřejmě najmout hodnotitelé anotátory, kteří umí dobře česky a umí dobře anglicky.
+Ukázali jsme tam jenom tu původní anglickou větu. 
+Takže jsme si museli samozřejmě najmout hodnotitelé anotátory, kteří umí dobře česky a umí dobře anglicky.
 A právě pak jsme mohli ten lidský překlad náhodně zamíchat mezi ty překladače.
 Takže vlastně ty anotátoři hodnotili jak ta, jak ten překlad dané věty zachovává význam té původní anglické věty.
 A zároveň, jak moc je plynulý.
-Potom v té studii, co jsem dělal později, jsem i tyto dva aspekty ty kvality rozlišoval.
-Ano, tady ten člověk-
+Potom v té studii, co jsem dělal později, jsem i tyto dva aspekty kvality rozlišoval.
+Ano. 
+Tady ten člověk-
 To je vlastně ten profesionální, to byla profesionální překladatelská agentura.
-Nevím, jestli to byl jeden člověk nebo víc lidí, a kdo to překládal, vždycky ten jeden dokument překládal.
-Teda myslím jeden člověk.
-A ano, samozřejmě.
+Nevím, jestli to byl jeden člověk nebo víc lidí, a kdo to překládal, vždycky ten jeden dokument překládal teda myslím jeden člověk.
+A ano. 
+Samozřejmě.
 To je velmi dobrá připomínka.
 To, že jsme jako v tomto konkrétním vyhodnocení lepší než jedna konkrétní překladatelské agentura neznamená, že by jako nikdo nebyl schopnej to přeložit líp.
-To v podstatě ani takové tvrzení, jako kdybych ho tvrdil takto není možné jak dokázat, protože kdo by to pak určil, že je to lepší překlad.
-Již nikdo to neumí přeložit líp to nikdo nemůže dosáhnout.
+To v podstatě ani takové tvrzení, jako kdybych ho tvrdil takto není možné jak dokázat, protože kdo by to pak určil, že je to lepší překlad když nikdo to neumí přeložit líp. 
+To nikdo nemůže dosáhnout.
 Ale v podstatě jde o to.
 Ještě možná jako jak se to mohlo stát?
 Například ten překladač má díky trénovacím datům, kde máme šedesát milionů větných párů a obrovské množství dalších dat, jenom které máme k dispozici jenom v těch jednotlivých jazycích.
-Tak tam jsou pokryté mnoho oblastí lidských činností basketbal a tak dál, politika. 
+Tak tam jsou pokryté mnoho oblastí lidských činností. 
+Basketbal a tak dál, politika. 
 Což průměrný překladatel lidský tolik nezná.
-Musí si to třeba někde dohledat.
-Tak už teda končíme.
+Musí si to třeba někdy dohledat.
+Tak. 
+Už teda končíme.
 Jestli máte další dotazy.
 Já tedy někde budu na chodbě, aby se mohl připravit další přednáška.
 Děkuji. 
