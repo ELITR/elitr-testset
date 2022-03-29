@@ -1,0 +1,186 @@
+P 1000 1480 Hello
+P 1000 1620 Hello my
+P 1000 1800 Hello my name
+P 1000 1810 Hello my name is
+P 1000 2000 Hello my name is <NAME>
+P 1000 2020 Hello my name is <NAME> and
+P 1000 2190 Hello my name is <NAME> and this
+P 1000 2400 Hello my name is <NAME> and this is
+C 1000 2500 Hello my name is <NAME> and this is <NAME>
+P 2500 3110 Name
+P 2500 3230 Name of
+P 2500 3390 Name of our
+P 2500 4210 Name of our company
+P 2500 4490 Name of our company is
+P 2500 4780 Name of our company is Be
+P 2500 5310 Name of our company is Be Beauty
+C 2500 6030 Name of our company is Be Beauty sro
+P 6030 6410 The
+P 6030 7100 The company
+P 6030 7420 The company was
+P 6030 8010 The company was founded
+P 6030 8245 The company was founded on
+P 6030 8685 The company was founded on the
+P 6030 9380 The company was founded on the fifteen
+P 6030 9580 The company was founded on the fifteen of
+P 6030 10110 The company was founded on the fifteen of May
+P 6030 10365 The company was founded on the fifteen of May in
+P 6030 10870 The company was founded on the fifteen of May in twenty
+P 6030 11740 The company was founded on the fifteen of May in twenty seventeen
+P 6030 12650 The company was founded on the fifteen of May in twenty seventeen The
+P 6030 13400 The company was founded on the fifteen of May in twenty seventeen The and
+P 6030 13675 The company was founded on the fifteen of May in twenty seventeen The and it
+P 6030 13995 The company was founded on the fifteen of May in twenty seventeen The and it was
+P 6030 14425 The company was founded on the fifteen of May in twenty seventeen The and it was taken
+P 6030 14790 The company was founded on the fifteen of May in twenty seventeen The and it was taken over
+P 6030 14975 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by
+P 6030 15505 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs
+P 6030 15990 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs on
+P 6030 16235 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs on the
+P 6030 16675 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs on the first
+P 6030 16970 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs on the first of
+P 6030 18010 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs on the first of September
+P 6030 18990 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs on the first of September in
+P 6030 19860 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs on the first of September in twenty
+C 6030 20790 The company was founded on the fifteen of May in twenty seventeen The and it was taken over by Mrs on the first of September in twenty eighteen
+P 20790 21205 We
+P 20790 21495 We are
+P 20790 21880 We are taking
+P 20790 22500 We are taking dresses
+P 20790 22790 We are taking dresses and
+P 20790 23530 We are taking dresses and suits
+P 20790 23900 We are taking dresses and suits made
+P 20790 24310 We are taking dresses and suits made by
+P 20790 24555 We are taking dresses and suits made by the
+P 20790 24580 We are taking dresses and suits made by the Czech
+P 20790 25080 We are taking dresses and suits made by the Czech designers
+P 20790 25840 We are taking dresses and suits made by the Czech designers or
+P 20790 26210 We are taking dresses and suits made by the Czech designers or tailors
+C 20790 26990 We are taking dresses and suits made by the Czech designers or tailors workshop
+P 26990 27425 We
+P 26990 27585 We pay
+P 26990 28335 We pay attention
+P 26990 28590 We pay attention to
+P 26990 28825 We pay attention to the
+P 26990 29205 We pay attention to the quality
+P 26990 29480 We pay attention to the quality of
+P 26990 30090 We pay attention to the quality of the
+P 26990 32130 We pay attention to the quality of the materials
+P 26990 32680 We pay attention to the quality of the materials Our
+P 26990 33110 We pay attention to the quality of the materials Our dresses
+P 26990 33305 We pay attention to the quality of the materials Our dresses and
+P 26990 33745 We pay attention to the quality of the materials Our dresses and suits
+P 26990 33925 We pay attention to the quality of the materials Our dresses and suits are
+P 26990 34215 We pay attention to the quality of the materials Our dresses and suits are made
+P 26990 34635 We pay attention to the quality of the materials Our dresses and suits are made from
+P 26990 35295 We pay attention to the quality of the materials Our dresses and suits are made from recycled
+P 26990 35795 We pay attention to the quality of the materials Our dresses and suits are made from recycled and
+P 26990 36285 We pay attention to the quality of the materials Our dresses and suits are made from recycled and natural
+C 26990 37015 We pay attention to the quality of the materials Our dresses and suits are made from recycled and natural materials
+P 37015 38405 We
+P 37015 38565 We also
+P 37015 38875 We also want
+P 37015 39095 We also want to
+P 37015 39185 We also want to talk
+P 37015 39600 We also want to talk about
+P 37015 40095 We also want to talk about environments
+P 37015 40715 We also want to talk about environments problems
+P 37015 41245 We also want to talk about environments problems in
+P 37015 41410 We also want to talk about environments problems in a
+P 37015 41995 We also want to talk about environments problems in a fashion
+C 37015 42795 We also want to talk about environments problems in a fashion industry
+P 42795 43365 Fashion
+P 42795 43700 Fashion industry
+P 42795 43770 Fashion industry is
+P 42795 43940 Fashion industry is the
+P 42795 44310 Fashion industry is the worst
+P 42795 44800 Fashion industry is the worst polluter
+P 42795 44940 Fashion industry is the worst polluter of
+P 42795 45165 Fashion industry is the worst polluter of the
+C 42795 45980 Fashion industry is the worst polluter of the environment
+P 45980 46290 It
+P 45980 46490 It means
+P 45980 47030 It means that
+P 45980 47510 It means that we
+P 45980 48500 It means that we produce
+P 45980 49345 It means that we produce over
+P 45980 50715 It means that we produce over one
+P 45980 51475 It means that we produce over one bi
+P 45980 51685 It means that we produce over one bi one
+P 45980 51707 It means that we produce over one bi one hundred
+P 45980 52377 It means that we produce over one bi one hundred fifty
+P 45980 52380 It means that we produce over one bi one hundred fifty billions
+P 45980 52645 It means that we produce over one bi one hundred fifty billions pieces
+P 45980 52980 It means that we produce over one bi one hundred fifty billions pieces of
+P 45980 53265 It means that we produce over one bi one hundred fifty billions pieces of clothes
+P 45980 53790 It means that we produce over one bi one hundred fifty billions pieces of clothes and
+P 45980 54410 It means that we produce over one bi one hundred fifty billions pieces of clothes and other
+P 45980 54755 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions
+P 45980 55085 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces
+P 45980 55265 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of
+P 45980 55825 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes
+P 45980 56410 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes are
+P 45980 56700 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes are are
+P 45980 57070 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes are are burned
+P 45980 57495 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes are are burned and
+P 45980 57727 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes are are burned and put
+P 45980 57857 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes are are burned and put in
+P 45980 58310 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes are are burned and put in the
+C 45980 59035 It means that we produce over one bi one hundred fifty billions pieces of clothes and other billions pieces of clothes are are burned and put in the landfills
+P 59035 65330 We
+P 59035 65890 We In
+P 59035 66545 We In a
+P 59035 67675 We In a twenty
+P 59035 74145 We In a twenty thirty
+P 59035 74505 We In a twenty thirty will
+P 59035 75185 We In a twenty thirty will the
+P 59035 76080 We In a twenty thirty will the fashion
+P 59035 76320 We In a twenty thirty will the fashion industry
+P 59035 76560 We In a twenty thirty will the fashion industry increase
+P 59035 77120 We In a twenty thirty will the fashion industry increase because
+P 59035 77765 We In a twenty thirty will the fashion industry increase because of
+P 59035 78515 We In a twenty thirty will the fashion industry increase because of growth
+P 59035 78990 We In a twenty thirty will the fashion industry increase because of growth of
+C 59035 80060 We In a twenty thirty will the fashion industry increase because of growth of population
+P 80060 80995 The
+P 80060 81355 The classic
+P 80060 82095 The classic cycle
+P 80060 82800 The classic cycle of
+P 80060 83200 The classic cycle of making
+P 80060 84080 The classic cycle of making of
+P 80060 84745 The classic cycle of making of clothes
+P 80060 85450 The classic cycle of making of clothes are:
+P 80060 87245 The classic cycle of making of clothes are: get
+P 80060 87665 The classic cycle of making of clothes are: get material
+P 80060 87920 The classic cycle of making of clothes are: get material for
+P 80060 88370 The classic cycle of making of clothes are: get material for for
+P 80060 89005 The classic cycle of making of clothes are: get material for for fabrics
+P 80060 89705 The classic cycle of making of clothes are: get material for for fabrics making
+P 80060 90635 The classic cycle of making of clothes are: get material for for fabrics making fabrics
+P 80060 91650 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing
+P 80060 92430 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics
+P 80060 93930 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation
+P 80060 94180 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it
+P 80060 94465 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means
+P 80060 94870 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors
+P 80060 95080 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and
+P 80060 95695 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print
+P 80060 96495 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and
+P 80060 96720 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the
+P 80060 97000 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the last
+P 80060 97230 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the last one
+P 80060 97480 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the last one is
+P 80060 97870 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the last one is sewing
+P 80060 98745 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the last one is sewing and
+P 80060 100050 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the last one is sewing and finishing
+P 80060 100300 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the last one is sewing and finishing the
+C 80060 101155 The classic cycle of making of clothes are: get material for for fabrics making fabrics bathing fabrics preparation it means colors and print and the last one is sewing and finishing the clothes
+P 101155 101580 Thank
+P 101155 101875 Thank you
+P 101155 101975 Thank you for
+P 101155 102105 Thank you for your
+P 101155 102837 Thank you for your attention
+P 101155 103530 Thank you for your attention have
+P 101155 103670 Thank you for your attention have a
+P 101155 104000 Thank you for your attention have a nice
+C 101155 104430 Thank you for your attention have a nice day
