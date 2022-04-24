@@ -1,199 +1,199 @@
-P 1010 1360 Hello
-P 1010 1900 Hello do
-P 1010 2140 Hello do I
-P 1010 2350 Hello do I know
-P 1010 2510 Hello do I know you
-P 1010 2710 Hello do I know you from
-C 1010 3050 Hello do I know you from somewhere
-P 3050 4040 Hello
-P 3050 4720 Hello it
-P 3050 5030 Hello it seems
-P 3050 5210 Hello it seems to
-P 3050 5380 Hello it seems to me
-P 3050 5510 Hello it seems to me that
-P 3050 5610 Hello it seems to me that we
-P 3050 5820 Hello it seems to me that we have
-P 3050 6380 Hello it seems to me that we have already
-P 3050 6720 Hello it seems to me that we have already met
-P 3050 7130 Hello it seems to me that we have already met before
-P 3050 7925 Hello it seems to me that we have already met before we
-P 3050 8075 Hello it seems to me that we have already met before we might
-P 3050 8370 Hello it seems to me that we have already met before we might have
-P 3050 8825 Hello it seems to me that we have already met before we might have visited
-P 3050 9010 Hello it seems to me that we have already met before we might have visited the
-P 3050 9320 Hello it seems to me that we have already met before we might have visited the same
-P 3050 9785 Hello it seems to me that we have already met before we might have visited the same college
-P 3050 9975 Hello it seems to me that we have already met before we might have visited the same college few
-P 3050 10255 Hello it seems to me that we have already met before we might have visited the same college few years
-C 3050 10530 Hello it seems to me that we have already met before we might have visited the same college few years ago
-P 10530 10820 I'm
-P 10530 11150 I'm to
-C 10530 11725 I'm to you
-P 11725 11905 I'm
-P 11725 12105 I'm what
-P 11725 12235 I'm what do
-P 11725 12240 I'm what do you
-P 11725 12405 I'm what do you do
-P 11725 12470 I'm what do you do for
-P 11725 12650 I'm what do you do for a
-C 11725 13010 I'm what do you do for a living
-P 13010 14020 Well
-P 13010 14790 Well I'm
-P 13010 15245 Well I'm EO
-P 13010 15485 Well I'm EO of
-P 13010 15855 Well I'm EO of a
-P 13010 16365 Well I'm EO of a small
-P 13010 16740 Well I'm EO of a small business
-P 13010 17070 Well I'm EO of a small business called
-P 13010 17620 Well I'm EO of a small business called Salon
-P 13010 18080 Well I'm EO of a small business called Salon NG
-P 13010 18370 Well I'm EO of a small business called Salon NG which
-P 13010 18550 Well I'm EO of a small business called Salon NG which is
-P 13010 18955 Well I'm EO of a small business called Salon NG which is salon
-P 13010 19220 Well I'm EO of a small business called Salon NG which is salon for
-C 13010 19915 Well I'm EO of a small business called Salon NG which is salon for animals
-P 19915 20250 Oh
-P 19915 20510 Oh that's
-P 19915 20610 Oh that's nice
-P 19915 20890 Oh that's nice That
-P 19915 21235 Oh that's nice That sounds
-P 19915 21495 Oh that's nice That sounds really
-P 19915 22160 Oh that's nice That sounds really interesting
-P 19915 22420 Oh that's nice That sounds really interesting could
-P 19915 22655 Oh that's nice That sounds really interesting could you
-P 19915 22845 Oh that's nice That sounds really interesting could you tell
-P 19915 23000 Oh that's nice That sounds really interesting could you tell me
-P 19915 23460 Oh that's nice That sounds really interesting could you tell me some
-P 19915 23805 Oh that's nice That sounds really interesting could you tell me some something
-P 19915 23990 Oh that's nice That sounds really interesting could you tell me some something more
-P 19915 24300 Oh that's nice That sounds really interesting could you tell me some something more about
-P 19915 24510 Oh that's nice That sounds really interesting could you tell me some something more about that
-C 19915 24830 Oh that's nice That sounds really interesting could you tell me some something more about that please
-P 24830 25275 Yes
-P 24830 25470 Yes of
-C 24830 26120 Yes of course
-P 26120 26300 We
-P 26120 27025 We specialize
-P 26120 27315 We specialize in
-P 26120 27850 We specialize in care
-P 26120 27960 We specialize in care of
-P 26120 28140 We specialize in care of dogs
-P 26120 28555 We specialize in care of dogs cats
-P 26120 29605 We specialize in care of dogs cats horses
-P 26120 30035 We specialize in care of dogs cats horses and
-C 26120 31060 We specialize in care of dogs cats horses and rodents
-P 31060 31280 We
-P 31060 31545 We can
-P 31060 31785 We can offer
-P 31060 32030 We can offer you
-P 31060 32430 We can offer you some
-P 31060 33515 We can offer you some services
-P 31060 33825 We can offer you some services like
-P 31060 34045 We can offer you some services like cutting
-P 31060 34115 We can offer you some services like cutting the
-P 31060 34925 We can offer you some services like cutting the claws
-P 31060 35380 We can offer you some services like cutting the claws cleaning
-P 31060 35760 We can offer you some services like cutting the claws cleaning their
-P 31060 36020 We can offer you some services like cutting the claws cleaning their ears
-P 31060 36265 We can offer you some services like cutting the claws cleaning their ears or
-P 31060 36750 We can offer you some services like cutting the claws cleaning their ears or just
-P 31060 37140 We can offer you some services like cutting the claws cleaning their ears or just scissoring
-P 31060 37275 We can offer you some services like cutting the claws cleaning their ears or just scissoring the
-C 31060 37645 We can offer you some services like cutting the claws cleaning their ears or just scissoring the fur
-P 37645 38940 But
-P 37645 39155 But we
-P 37645 39340 But we can
-P 37645 39640 But we can offer
-P 37645 39860 But we can offer some
-P 37645 40190 But we can offer some stuff
-P 37645 40465 But we can offer some stuff too
-P 37645 41170 But we can offer some stuff too like
-P 37645 41335 But we can offer some stuff too like dog
-P 37645 41905 But we can offer some stuff too like dog beds
-P 37645 42330 But we can offer some stuff too like dog beds and
-P 37645 42890 But we can offer some stuff too like dog beds and bedding
-P 37645 43565 But we can offer some stuff too like dog beds and bedding so
-P 37645 43835 But we can offer some stuff too like dog beds and bedding so pets
-P 37645 44640 But we can offer some stuff too like dog beds and bedding so pets clothes
-P 37645 44945 But we can offer some stuff too like dog beds and bedding so pets clothes or
-P 37645 45310 But we can offer some stuff too like dog beds and bedding so pets clothes or just
-P 37645 45600 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog
-P 37645 46320 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food
-P 37645 48800 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially
-P 37645 49550 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from
-P 37645 50040 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech
-P 37645 50455 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech and
-P 37645 51455 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech and antiallergents
-P 37645 51840 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech and antiallergents brand
-C 37645 52495 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech and antiallergents brand Ontario
-P 52495 53145 Have
-P 52495 53305 Have you
-P 52495 53470 Have you got
-P 52495 53660 Have you got any
-C 52495 53920 Have you got any pets
-P 53920 54365 We
-P 53920 54595 We can
-P 53920 54840 We can offer
-P 53920 55030 We can offer you
-P 53920 55190 We can offer you the
-P 53920 55820 We can offer you the highest
-P 53920 56185 We can offer you the highest quality
-P 53920 56430 We can offer you the highest quality care
-P 53920 56530 We can offer you the highest quality care of
-P 53920 56850 We can offer you the highest quality care of him
-P 53920 57035 We can offer you the highest quality care of him if
-P 53920 57195 We can offer you the highest quality care of him if you
-P 53920 57395 We can offer you the highest quality care of him if you would
-C 53920 57720 We can offer you the highest quality care of him if you would like
-P 57720 58675 Yeah
-P 57720 58835 Yeah I
-P 57720 59065 Yeah I have
-P 57720 59190 Yeah I have a
-P 57720 59395 Yeah I have a dog
-P 57720 59590 Yeah I have a dog I
-P 57720 59790 Yeah I have a dog I would
-P 57720 60120 Yeah I have a dog I would like
-P 57720 60560 Yeah I have a dog I would like to
-P 57720 60995 Yeah I have a dog I would like to cut
-P 57720 61170 Yeah I have a dog I would like to cut his
-P 57720 61197 Yeah I have a dog I would like to cut his claws
-P 57720 61677 Yeah I have a dog I would like to cut his claws for
-P 57720 62500 Yeah I have a dog I would like to cut his claws for me
-P 57720 62800 Yeah I have a dog I would like to cut his claws for me they
-P 57720 63035 Yeah I have a dog I would like to cut his claws for me they are
-P 57720 63155 Yeah I have a dog I would like to cut his claws for me they are too
-C 57720 63515 Yeah I have a dog I would like to cut his claws for me they are too long
-P 63515 64375 Could
-P 63515 64570 Could you
-P 63515 64710 Could you give
-P 63515 64890 Could you give me
-P 63515 64990 Could you give me your
-P 63515 65100 Could you give me your business
-P 63515 65270 Could you give me your business card
-C 63515 65870 Could you give me your business card please
-P 65870 66730 Oh
-P 65870 67130 Oh I'm
-P 65870 67570 Oh I'm sorry
-P 65870 67770 Oh I'm sorry I
-P 65870 68125 Oh I'm sorry I forgot
-P 65870 68230 Oh I'm sorry I forgot them
-P 65870 68600 Oh I'm sorry I forgot them upstairs
-P 65870 68970 Oh I'm sorry I forgot them upstairs but
-P 65870 69160 Oh I'm sorry I forgot them upstairs but I'm
-P 65870 69430 Oh I'm sorry I forgot them upstairs but I'm going
-P 65870 69590 Oh I'm sorry I forgot them upstairs but I'm going for
-P 65870 69840 Oh I'm sorry I forgot them upstairs but I'm going for them
-P 65870 70100 Oh I'm sorry I forgot them upstairs but I'm going for them right
-P 65870 70315 Oh I'm sorry I forgot them upstairs but I'm going for them right now
-P 65870 70665 Oh I'm sorry I forgot them upstairs but I'm going for them right now so
-P 65870 71120 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if
-P 65870 71335 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you
-P 65870 71605 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want
-P 65870 71895 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you
-P 65870 72125 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you can
-P 65870 72225 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you can go
-P 65870 72455 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you can go with
-C 65870 72560 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you can go with me
-P 72560 72980 Okay
-P 72560 73166 Okay let's
-C 72560 73386 Okay let's go
+P 101.0 136.0 Hello
+P 101.0 190.0 Hello do
+P 101.0 214.0 Hello do I
+P 101.0 235.0 Hello do I know
+P 101.0 251.0 Hello do I know you
+P 101.0 271.0 Hello do I know you from
+C 101.0 305.0 Hello do I know you from somewhere
+P 305.0 404.0 Hello
+P 305.0 472.0 Hello it
+P 305.0 503.0 Hello it seems
+P 305.0 521.0 Hello it seems to
+P 305.0 538.0 Hello it seems to me
+P 305.0 551.0 Hello it seems to me that
+P 305.0 561.0 Hello it seems to me that we
+P 305.0 582.0 Hello it seems to me that we have
+P 305.0 638.0 Hello it seems to me that we have already
+P 305.0 672.0 Hello it seems to me that we have already met
+P 305.0 713.0 Hello it seems to me that we have already met before
+P 305.0 792.5 Hello it seems to me that we have already met before we
+P 305.0 807.5 Hello it seems to me that we have already met before we might
+P 305.0 837.0 Hello it seems to me that we have already met before we might have
+P 305.0 882.5 Hello it seems to me that we have already met before we might have visited
+P 305.0 901.0 Hello it seems to me that we have already met before we might have visited the
+P 305.0 932.0 Hello it seems to me that we have already met before we might have visited the same
+P 305.0 978.5 Hello it seems to me that we have already met before we might have visited the same college
+P 305.0 997.5 Hello it seems to me that we have already met before we might have visited the same college few
+P 305.0 1025.5 Hello it seems to me that we have already met before we might have visited the same college few years
+C 305.0 1053.0 Hello it seems to me that we have already met before we might have visited the same college few years ago
+P 1053.0 1082.0 I'm
+P 1053.0 1115.0 I'm to
+C 1053.0 1172.5 I'm to you
+P 1172.5 1190.5 I'm
+P 1172.5 1210.5 I'm what
+P 1172.5 1223.5 I'm what do
+P 1172.5 1224.0 I'm what do you
+P 1172.5 1240.5 I'm what do you do
+P 1172.5 1247.0 I'm what do you do for
+P 1172.5 1265.0 I'm what do you do for a
+C 1172.5 1301.0 I'm what do you do for a living
+P 1301.0 1402.0 Well
+P 1301.0 1479.0 Well I'm
+P 1301.0 1524.5 Well I'm EO
+P 1301.0 1548.5 Well I'm EO of
+P 1301.0 1585.5 Well I'm EO of a
+P 1301.0 1636.5 Well I'm EO of a small
+P 1301.0 1674.0 Well I'm EO of a small business
+P 1301.0 1707.0 Well I'm EO of a small business called
+P 1301.0 1762.0 Well I'm EO of a small business called Salon
+P 1301.0 1808.0 Well I'm EO of a small business called Salon NG
+P 1301.0 1837.0 Well I'm EO of a small business called Salon NG which
+P 1301.0 1855.0 Well I'm EO of a small business called Salon NG which is
+P 1301.0 1895.5 Well I'm EO of a small business called Salon NG which is salon
+P 1301.0 1922.0 Well I'm EO of a small business called Salon NG which is salon for
+C 1301.0 1991.5 Well I'm EO of a small business called Salon NG which is salon for animals
+P 1991.5 2025.0 Oh
+P 1991.5 2051.0 Oh that's
+P 1991.5 2061.0 Oh that's nice
+P 1991.5 2089.0 Oh that's nice That
+P 1991.5 2123.5 Oh that's nice That sounds
+P 1991.5 2149.5 Oh that's nice That sounds really
+P 1991.5 2216.0 Oh that's nice That sounds really interesting
+P 1991.5 2242.0 Oh that's nice That sounds really interesting could
+P 1991.5 2265.5 Oh that's nice That sounds really interesting could you
+P 1991.5 2284.5 Oh that's nice That sounds really interesting could you tell
+P 1991.5 2300.0 Oh that's nice That sounds really interesting could you tell me
+P 1991.5 2346.0 Oh that's nice That sounds really interesting could you tell me some
+P 1991.5 2380.5 Oh that's nice That sounds really interesting could you tell me some something
+P 1991.5 2399.0 Oh that's nice That sounds really interesting could you tell me some something more
+P 1991.5 2430.0 Oh that's nice That sounds really interesting could you tell me some something more about
+P 1991.5 2451.0 Oh that's nice That sounds really interesting could you tell me some something more about that
+C 1991.5 2483.0 Oh that's nice That sounds really interesting could you tell me some something more about that please
+P 2483.0 2527.5 Yes
+P 2483.0 2547.0 Yes of
+C 2483.0 2612.0 Yes of course
+P 2612.0 2630.0 We
+P 2612.0 2702.5 We specialize
+P 2612.0 2731.5 We specialize in
+P 2612.0 2785.0 We specialize in care
+P 2612.0 2796.0 We specialize in care of
+P 2612.0 2814.0 We specialize in care of dogs
+P 2612.0 2855.5 We specialize in care of dogs cats
+P 2612.0 2960.5 We specialize in care of dogs cats horses
+P 2612.0 3003.5 We specialize in care of dogs cats horses and
+C 2612.0 3106.0 We specialize in care of dogs cats horses and rodents
+P 3106.0 3128.0 We
+P 3106.0 3154.5 We can
+P 3106.0 3178.5 We can offer
+P 3106.0 3203.0 We can offer you
+P 3106.0 3243.0 We can offer you some
+P 3106.0 3351.5 We can offer you some services
+P 3106.0 3382.5 We can offer you some services like
+P 3106.0 3404.5 We can offer you some services like cutting
+P 3106.0 3411.5 We can offer you some services like cutting the
+P 3106.0 3492.5 We can offer you some services like cutting the claws
+P 3106.0 3538.0 We can offer you some services like cutting the claws cleaning
+P 3106.0 3576.0 We can offer you some services like cutting the claws cleaning their
+P 3106.0 3602.0 We can offer you some services like cutting the claws cleaning their ears
+P 3106.0 3626.5 We can offer you some services like cutting the claws cleaning their ears or
+P 3106.0 3675.0 We can offer you some services like cutting the claws cleaning their ears or just
+P 3106.0 3714.0 We can offer you some services like cutting the claws cleaning their ears or just scissoring
+P 3106.0 3727.5 We can offer you some services like cutting the claws cleaning their ears or just scissoring the
+C 3106.0 3764.5 We can offer you some services like cutting the claws cleaning their ears or just scissoring the fur
+P 3764.5 3894.0 But
+P 3764.5 3915.5 But we
+P 3764.5 3934.0 But we can
+P 3764.5 3964.0 But we can offer
+P 3764.5 3986.0 But we can offer some
+P 3764.5 4019.0 But we can offer some stuff
+P 3764.5 4046.5 But we can offer some stuff too
+P 3764.5 4117.0 But we can offer some stuff too like
+P 3764.5 4133.5 But we can offer some stuff too like dog
+P 3764.5 4190.5 But we can offer some stuff too like dog beds
+P 3764.5 4233.0 But we can offer some stuff too like dog beds and
+P 3764.5 4289.0 But we can offer some stuff too like dog beds and bedding
+P 3764.5 4356.5 But we can offer some stuff too like dog beds and bedding so
+P 3764.5 4383.5 But we can offer some stuff too like dog beds and bedding so pets
+P 3764.5 4464.0 But we can offer some stuff too like dog beds and bedding so pets clothes
+P 3764.5 4494.5 But we can offer some stuff too like dog beds and bedding so pets clothes or
+P 3764.5 4531.0 But we can offer some stuff too like dog beds and bedding so pets clothes or just
+P 3764.5 4560.0 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog
+P 3764.5 4632.0 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food
+P 3764.5 4880.0 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially
+P 3764.5 4955.0 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from
+P 3764.5 5004.0 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech
+P 3764.5 5045.5 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech and
+P 3764.5 5145.5 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech and antiallergents
+P 3764.5 5184.0 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech and antiallergents brand
+C 3764.5 5249.5 But we can offer some stuff too like dog beds and bedding so pets clothes or just dog food especially from Czech and antiallergents brand Ontario
+P 5249.5 5314.5 Have
+P 5249.5 5330.5 Have you
+P 5249.5 5347.0 Have you got
+P 5249.5 5366.0 Have you got any
+C 5249.5 5392.0 Have you got any pets
+P 5392.0 5436.5 We
+P 5392.0 5459.5 We can
+P 5392.0 5484.0 We can offer
+P 5392.0 5503.0 We can offer you
+P 5392.0 5519.0 We can offer you the
+P 5392.0 5582.0 We can offer you the highest
+P 5392.0 5618.5 We can offer you the highest quality
+P 5392.0 5643.0 We can offer you the highest quality care
+P 5392.0 5653.0 We can offer you the highest quality care of
+P 5392.0 5685.0 We can offer you the highest quality care of him
+P 5392.0 5703.5 We can offer you the highest quality care of him if
+P 5392.0 5719.5 We can offer you the highest quality care of him if you
+P 5392.0 5739.5 We can offer you the highest quality care of him if you would
+C 5392.0 5772.0 We can offer you the highest quality care of him if you would like
+P 5772.0 5867.5 Yeah
+P 5772.0 5883.5 Yeah I
+P 5772.0 5906.5 Yeah I have
+P 5772.0 5919.0 Yeah I have a
+P 5772.0 5939.5 Yeah I have a dog
+P 5772.0 5959.0 Yeah I have a dog I
+P 5772.0 5979.0 Yeah I have a dog I would
+P 5772.0 6012.0 Yeah I have a dog I would like
+P 5772.0 6056.0 Yeah I have a dog I would like to
+P 5772.0 6099.5 Yeah I have a dog I would like to cut
+P 5772.0 6117.0 Yeah I have a dog I would like to cut his
+P 5772.0 6119.7 Yeah I have a dog I would like to cut his claws
+P 5772.0 6167.7 Yeah I have a dog I would like to cut his claws for
+P 5772.0 6250.0 Yeah I have a dog I would like to cut his claws for me
+P 5772.0 6280.0 Yeah I have a dog I would like to cut his claws for me they
+P 5772.0 6303.5 Yeah I have a dog I would like to cut his claws for me they are
+P 5772.0 6315.5 Yeah I have a dog I would like to cut his claws for me they are too
+C 5772.0 6351.5 Yeah I have a dog I would like to cut his claws for me they are too long
+P 6351.5 6437.5 Could
+P 6351.5 6457.0 Could you
+P 6351.5 6471.0 Could you give
+P 6351.5 6489.0 Could you give me
+P 6351.5 6499.0 Could you give me your
+P 6351.5 6510.0 Could you give me your business
+P 6351.5 6527.0 Could you give me your business card
+C 6351.5 6587.0 Could you give me your business card please
+P 6587.0 6673.0 Oh
+P 6587.0 6713.0 Oh I'm
+P 6587.0 6757.0 Oh I'm sorry
+P 6587.0 6777.0 Oh I'm sorry I
+P 6587.0 6812.5 Oh I'm sorry I forgot
+P 6587.0 6823.0 Oh I'm sorry I forgot them
+P 6587.0 6860.0 Oh I'm sorry I forgot them upstairs
+P 6587.0 6897.0 Oh I'm sorry I forgot them upstairs but
+P 6587.0 6916.0 Oh I'm sorry I forgot them upstairs but I'm
+P 6587.0 6943.0 Oh I'm sorry I forgot them upstairs but I'm going
+P 6587.0 6959.0 Oh I'm sorry I forgot them upstairs but I'm going for
+P 6587.0 6984.0 Oh I'm sorry I forgot them upstairs but I'm going for them
+P 6587.0 7010.0 Oh I'm sorry I forgot them upstairs but I'm going for them right
+P 6587.0 7031.5 Oh I'm sorry I forgot them upstairs but I'm going for them right now
+P 6587.0 7066.5 Oh I'm sorry I forgot them upstairs but I'm going for them right now so
+P 6587.0 7112.0 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if
+P 6587.0 7133.5 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you
+P 6587.0 7160.5 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want
+P 6587.0 7189.5 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you
+P 6587.0 7212.5 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you can
+P 6587.0 7222.5 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you can go
+P 6587.0 7245.5 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you can go with
+C 6587.0 7256.0 Oh I'm sorry I forgot them upstairs but I'm going for them right now so if you want you can go with me
+P 7256.0 7298.0 Okay
+P 7256.0 7316.6 Okay let's
+C 7256.0 7338.6 Okay let's go
