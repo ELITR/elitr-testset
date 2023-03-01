@@ -1,0 +1,117 @@
+Takže ešte raz ahoj.
+Volám sa Rudolf.
+A ukážem vám niečo, čo sa nazýva "Crossing lingual information retrieval" alebo skrátene CLIR.
+Hm.
+Takže je to pre situáciu, ktorá je asi častá, že potrebujete nejakú informáciu z auditu, alebo iného dokumentu a ak je audit vytvorený vašou najvyššou kontrolnou inštitúciou, tak je to asi jednoduché, jednoducho ho nájdete.
+Ak ho vytvorila iná, tak ak máte šťastie, tak zverejní anglickú verziu auditu a nahrá ju do databázy EUROSAI.
+A ak je to anglická verzia, tak aj tak musíte ovládať angličtinu, aby ste jej porozumeli.
+V opačnom prípade to môže byť ťažké.
+Takže tu prichádza na rad medzijazykové vyhľadávanie informácií, kde môžete vyhľadávať informácie vo svojom jazyku.
+Teda možno v češtine alebo v nejakom inom jazyku, a vy len prehľadávate všetky dokumenty zo všetkých vo všetkých nahraných údajoch a dokumenty sa vám automaticky preložia do angličtiny do vášho jazyka, či už je to angličtina alebo iný jazyk.
+Takže dokumenty môžete nájsť rýchlo.
+Môžete nájsť časti dokumentov, ktoré sú dôležité, a možno ich potom poslať na preklad niektorým profesionálnym prekladateľom.
+Takže tým ušetríte čas aj peniaze.
+Teoreticky by sa to pravdepodobne dalo integrovať do databázy EUROSAI Auditorias.
+Takže má zmysel nahrávať audity tam.
+Je to, no, ukážem vám, čo by mohlo fungovať.
+Prejdime teda na našu ukážku.
+V pracovnom hárku máte odkaz.
+A tak by to mohlo fungovať pre akýkoľvek jazyk, demo je pre štyri jazyky, angličtinu, nemčinu, francúzštinu a češtinu a nahrané údaje sú z dvoch najvyšších kontrolných úradov.
+Takže.
+Takže ak prejdete na svoj pracovný hárok.
+A ehm, prejdeme na vyhľadávanie informácií v rôznych jazykoch.
+Takže dúfajme, že to bude fungovať.
+A prvá úloha, skúsime vyhľadať dôchodkové fondy, a môžete si vybrať ktorýkoľvek z jazykov.
+Takže "penzijní fondy" v češtine.
+Hm, tak to skúsim zobraziť v angličtine.
+Urobím to trochu väčšie, dúfam.
+Hm, nie takto.
+Uh.
+Dobre, musím nájsť znamienko plus.
+Ah, prepáčte.
+Počkej.
+Jo, dík.
+Ďakujem.
+Tak ja to ukážem v angličtine.
+Ale vy môžete použiť češtinu alebo nemčinu, alebo čokoľvek iné.
+A povedzme, že chcem hľadať dôchodkové fondy.
+Tak nájdem zoznam dokumentov, ktoré alebo nejaké nejaké audity.
+Takže tieto dva alebo z českého Najvyššieho kontrolného úradu.
+Druhý je z francúzskeho a pozrime sa na ten prvý.
+Takže vidíte pôvodný dokument, ktorý je v češtine.
+Ale ak nehovoríte česky.
+Tak tu máte automatický preklad do angličtiny.
+A my môžeme skúsiť to isté v češtine.
+Takže ak skúsite češtinu, tak si môžete vyhľadať, aha, dôchodkové fondy.
+A zase, tak si nájdete české dokumenty.
+To nie je ťažké použiť, ale nájsť aj nejaké francúzske dokumenty z belgického najvyššieho kontrolného úradu.
+A keď sa na to pozrieme...
+Takže získate originálny text, ktorý je vo francúzštine, ale potom získate aj preklad do češtiny.
+Dobre.
+Takže takto to funguje.
+Takže teraz je vašou úlohou hľadať možnosti zlúčenia rodiny.
+Možno tu ukážem úlohu vo veľkom.
+Takže.
+Aha, vašou úlohou teraz je pokúsiť sa nájsť, koľko víz v Belgicku bolo vydaných na základe zlúčenia rodiny v roku 2008.
+Takže skúste použiť tento nástroj, použite ktorýkoľvek z jazykov, ktorý chcete.
+Takže v češtine "sloučení rodiny", v nemčine "Familienzusammenführung" alebo vo francúzštine "regroupement familial" a skúste nájsť odpoveď, malo by to byť jedno číslo.
+Dám vám nejaký čas.
+A potom to predvediem aj tu.
+Takže skúste ísť do nástroja, vyberte si svoj jazyk a skúste si o tom vyhľadať informácie.
+A len zdvihnite ruku, ak poznáte číslo, aby som vedel, ako postupujete.
+Áno, niečo také, áno, áno, áno, áno, áno, áno.
+Takže ak ste sa stratili.
+Ukážem vám to tu ešte raz.
+Takže pôjdete do nástroja.
+Ukážem to možno vo francúzštine.
+A nájdete výsledky.
+Alebo to skúsim v češtine.
+Našiel som nejaký dokument, ktorý má 60 strán, takže, a je vo francúzštine.
+Takže by som nerád prekladal celý dokument ľudskými prekladateľmi.
+Ale.
+Keď na to kliknem tu.
+Môžem to vlastne trošku zväčšiť.
+Takže ľahko nájdete, ľahko nájdete informácie v dokumente.
+Takže nejakých 13000.
+A ak ešte potrebujete preložiť celý dokument alebo jeho časť, tak stále máte originál PDF z francúzskeho, ehm, z belgického úradu.
+A je tam aj krátka správa, ktorá opäť uvádza niektoré informácie.
+Takže opäť, získame toto toto číslo.
+Takže oba tieto dva dokumenty majú správnu odpoveď.
+Takže len pre kontrolu, či sa vám podarilo nájsť odpoveď, ruky hore.
+Áno, niektorí z vás.
+OK, dobre.
+Takže môžete.
+Takže ak nie, môžete to skúsiť vyhľadať.
+Alebo môžete, ak ju máte, tak môžete skúsiť hľadať nejaké iné informácie.
+Takže skúste hľadať dokumenty o prevencii kriminality alebo o diaľniciach alebo o štátnom rozpočte, alebo o akejkoľvek téme, ktorá vás zaujíma.
+Takže v databáze sú audity odtiaľto a z Belgicka za posledných päť, desať rokov.
+Takže čokoľvek bolo zverejnené, môžete to tam nájsť.
+Ak potrebujete pomoc, nebojte sa požiadať mojich kolegov, aby vám pomohli.
+Hm hm hm, jo, to je zvláštne.
+Ale len keď toto dáme do úvozoviek.
+Aha, aha.
+No dobrý ja si to poznamenám ja to nevím.
+Uh-huh?
+Uh-huh.
+Jo.
+Uh-huh?
+To je zajímavý, to se mi nestalo, dobře, děkuju, já si to poznamenám.
+Dobre, áno, to je to je to dobrá otázka.
+Takže môžete použiť úvodzovky, ak chcete nejakú presnú zhodu, ale potom sa zvýraznenie preruší.
+Ospravedlňujem sa.
+Skúsim to.
+Takže.
+Takže ak hľadám, ja neviem.
+OK, takže dostanem výsledok, ah.
+Áno, máš pravdu.
+OK, takže zvýraznenie sa preruší.
+Ale, ale vyhľadávanie funguje dobre.
+Uh-huh?
+Dobre.
+Dobre.
+Dobre.
+Takže, hm, áno.
+Takže to bola ukážka nástroja na vyhľadávanie informácií, ak nehovoríte jazykom, v ktorom je dokument, alebo aj keď je v angličtine, ale nehovoríte anglicky.
+Takže toto je nástroj, ktorý by vám mohol pomôcť nájsť informácie, ktoré potrebujete alebo ktoré vás zaujímajú.
+Teraz odovzdávam slovo kolegovi na posledné zasadnutie.
+Takže dobré ráno.
